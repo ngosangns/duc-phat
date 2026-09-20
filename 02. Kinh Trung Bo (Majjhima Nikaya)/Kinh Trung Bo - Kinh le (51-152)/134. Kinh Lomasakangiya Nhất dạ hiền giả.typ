@@ -159,7 +159,7 @@ mỏi, \ Xứng gọi Nhứt dạ Hiền, \ Bậc an tịnh, trầm lặng.]
 Thế Tôn thuyết giảng như vậy. Tôn giả Lomasakangiya hoan hỷ tín thọ lời
 Thế Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

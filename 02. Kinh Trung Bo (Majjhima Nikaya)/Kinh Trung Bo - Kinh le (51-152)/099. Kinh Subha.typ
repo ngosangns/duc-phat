@@ -482,7 +482,7 @@ Tôn và thốt ra lời cảm hứng như sau: "Lợi ích thay cho vua Pasenad
 Kosala! Tốt đẹp, lợi ích thay cho vua Pasenadi nước Kosala được Như Lai,
 bậc A-la-hán, Chánh Ðẳng Giác trú ở trong nước!"
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

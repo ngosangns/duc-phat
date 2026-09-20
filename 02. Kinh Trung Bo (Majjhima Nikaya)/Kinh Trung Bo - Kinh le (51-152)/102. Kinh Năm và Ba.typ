@@ -11,7 +11,7 @@ Anathapindika. Ở đây, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo"
 vâng, bạch Thế Tôn". Các vị Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như
 sau:
 
-#strong[#emph[Luận bàn về tương lai]]
+#strong[Luận bàn về tương lai]
 
 -- Này các Tỷ-kheo, có một số Sa-môn, Bà-la-môn luận bàn về tương lai,
 thảo luận về tương lai, y cứ vào tương lai, tuyên bố nhiều quan điểm sai
@@ -165,7 +165,7 @@ Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào luận bàn về tươ
 thảo luận về tương lai, y cứ vào tương lai tuyên bố nhiều quan điểm sai
 khác, tất cả đều tuyên bố năm xứ này hay một trong chúng.
 
-#strong[#emph[Luận bàn về quá khứ]]
+#strong[Luận bàn về quá khứ]
 
 Này các Tỷ-kheo, có một số Sa-môn, Bà-la-môn luận bàn về quá khứ, thảo
 luận về quá khứ, y cứ vào quá khứ, tuyên bố nhiều quan điểm sai khác:
@@ -231,7 +231,7 @@ Biết rằng cái này thuộc hữu vi là thô pháp, nhưng có sự đoạn
 hành, biết được có sự đoạn diệt này, Như Lai thấy sự giải thoát khỏi
 pháp hữu vi, và đã vượt khỏi pháp hữu vi.
 
-#strong[#emph[Niết-bàn hiện tiền]]
+#strong[Niết-bàn hiện tiền]
 
 Ở đây, này các Tỷ-kheo, có vị Sa-môn hay Bà-la-môn do từ bỏ những quan
 điểm về quá khứ, và từ bỏ những quan điểm về tương lai, do không hoàn

@@ -174,7 +174,7 @@ thích. Con xin quy y Tôn giả Gotama, quy y Pháp và chúng Tỷ-kheo Tăng.
 Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con
 trọn đời quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -189,11 +189,11 @@ Bodhi dịch, 1995). \ #strong[15-07-2004]]
 
 Culakammavibhanga Sutta \ The Shorter Exposition of Kamma
 
-#strong[#emph[Translated from the Pali by Ñanamoli Thera]]
+#strong[Translated from the Pali by Ñanamoli Thera]
 
 #divider()
 
-#strong[#emph[Introduction]] (by Bhikkhu Khantipalo) \ You want: long
+#strong[Introduction] (by Bhikkhu Khantipalo) \ You want: long
 life, health, beauty, power, riches, high birth, wisdom? Or even some of
 these things? They do not appear by chance. It is not someone's luck
 that they are healthy, or another's lack of it that he is stupid. Though

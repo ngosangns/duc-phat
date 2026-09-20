@@ -180,7 +180,7 @@ trong bóng tối để những ai có mắt có thể thấy sắc; cũng vậy
 xin quy y Thế Tôn, quy y Pháp và quy y Tỷ-kheo Tăng. Xin Thế Tôn nhận
 con làm đệ tử. Từ nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

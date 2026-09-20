@@ -129,7 +129,7 @@ Thật vi diệu thay, bạch Thế Tôn! Thật vi diệu thay, bạch Thế T�
 Thế Tôn nhận con làm cư sĩ, từ nay cho đến mạng chung, con trọn đời quy
 ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

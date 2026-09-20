@@ -400,7 +400,7 @@ con xin quy y Thế Tôn, quy y Pháp và quy y chúng Tỷ-kheo Tăng. Mong Th�
 Tôn nhận con làm đệ tử; từ nay trở đi cho đến mạng chung, con trọn đời
 quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

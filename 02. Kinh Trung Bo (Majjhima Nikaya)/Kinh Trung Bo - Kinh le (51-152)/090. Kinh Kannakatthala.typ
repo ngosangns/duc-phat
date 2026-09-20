@@ -325,7 +325,7 @@ làm.
 Rồi vua Pasenadi nước Kosala hoan hỷ, tín thọ lời Thế Tôn dạy, từ chỗ
 ngồi đứng dậy, đảnh lễ Thế Tôn, thân bên hữu hướng về Ngài rồi ra đi.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

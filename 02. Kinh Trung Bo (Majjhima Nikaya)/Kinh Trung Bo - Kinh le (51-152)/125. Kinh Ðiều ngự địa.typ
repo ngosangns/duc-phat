@@ -391,7 +391,7 @@ Tỷ-kheo được gọi là đã chết, với cái chết được điều ph�
 Thế Tôn thuyết giảng như vậy. Sa-di Aciravata hoan hỷ tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -406,7 +406,7 @@ Bodhi dịch, 1995). \ #strong[14-07-2004]]
 
 Dantabhumi Sutta \ The Discourse on the "Tamed Stage"
 
-#strong[#emph[Translated from the Pali by I.B. Horner]]
+#strong[Translated from the Pali by I.B. Horner]
 
 #divider()
 
@@ -807,7 +807,7 @@ the Lord had said.
 
 #divider()
 
-#strong[#emph[Notes]]
+#strong[Notes]
 
 #strong[\1.] A hut in a secluded part of the Bamboo Grove for the use of
 monks who wanted to practice striving, #emph[padhana] -- \[Commentary\].

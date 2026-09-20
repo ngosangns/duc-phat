@@ -19,7 +19,7 @@ chánh mạng, chánh tinh tấn, chánh niệm. Này các Tỷ-kheo, phàm có 
 tâm nào (ekaggata) được tư trợ với bảy chi phần này, này các Tỷ-kheo,
 như vậy gọi là Thánh chánh định cùng với các cận duyên và các tư trợ.
 
-#strong[#emph[\(Chánh kiến)]]
+#strong[\(Chánh kiến)]
 
 Ở đây, này các Tỷ-kheo, chánh kiến đi hàng đầu. Và như thế nào, này các
 Tỷ-kheo, là chánh kiến đi hàng đầu? Tuệ tri tà kiến là tà kiến, tuệ tri
@@ -59,7 +59,7 @@ và an trú chánh kiến; như vậy là chánh niệm của vị ấy. Như v�
 này chạy theo, chạy vòng theo chánh kiến, tức là chánh kiến, chánh tinh
 tấn, chánh niệm.
 
-#strong[#emph[\(Chánh tư duy)]]
+#strong[\(Chánh tư duy)]
 
 Ở đây, này các Tỷ-kheo, chánh kiến đi hàng đầu. Và như thế nào, này các
 Tỷ-kheo, là chánh kiến đi hàng đầu? Tuệ tri tà tư duy là tà tư duy, tuệ
@@ -91,7 +91,7 @@ tinh tấn của vị ấy. Ai chánh niệm đoạn trừ tà tư duy, chánh n
 pháp này chạy theo, chạy vòng theo chánh tư duy, tức là chánh kiến,
 chánh tinh tấn, chánh niệm.
 
-#strong[#emph[\(Chánh ngữ)]]
+#strong[\(Chánh ngữ)]
 
 Ở đây, này các Tỷ-kheo, chánh kiến đi hàng đầu. Và như thế nào, này các
 Tỷ-kheo, chánh kiến đi hàng đầu? Tuệ tri tà ngữ là tà ngữ, tuệ tri chánh
@@ -122,7 +122,7 @@ trú chánh ngữ; như vậy là chánh niệm của vị ấy. Như vậy, ba 
 chạy theo, chạy vòng theo chánh ngữ, tức là chánh kiến, chánh tinh tấn,
 chánh niệm.
 
-#strong[#emph[\(Chánh nghiệp)]]
+#strong[\(Chánh nghiệp)]
 
 Ở đây, này các Tỷ-kheo, chánh kiến đi hàng đầu. Và như thế nào, này các
 Tỷ-kheo, là chánh kiến đi hàng đầu? Tuệ tri tà nghiệp là tà nghiệp, tuệ
@@ -154,7 +154,7 @@ tinh tấn của vị ấy. Ai chánh niệm đoạn trừ tà nghiệp, chánh 
 pháp này chạy theo, chạy vòng theo chánh nghiệp, tức là chánh kiến,
 chánh tinh tấn, chánh niệm.
 
-#strong[#emph[\(Chánh mạng)]]
+#strong[\(Chánh mạng)]
 
 Ở đây, này các Tỷ-kheo, chánh kiến đi hàng đầu. Và như thế nào, này các
 Tỷ-kheo, là chánh kiến đi hàng đầu? Tuệ tri được tà mạng là tà mạng, tuệ
@@ -185,7 +185,7 @@ và an trú chánh mạng, như vậy là chánh niệm của vị ấy. Như v�
 này chạy theo, chạy vòng theo chánh mạng, tức là chánh kiến, chánh tinh
 tấn, chánh niệm.
 
-#strong[#emph[\(Ðại pháp môn Bốn mươi)]]
+#strong[\(Ðại pháp môn Bốn mươi)]
 
 Ở đây, này các Tỷ-kheo chánh kiến đi hàng đầu. Và thế nào, này các
 Tỷ-kheo, là chánh kiến đi hàng đầu? Chánh tư duy, này các Tỷ-kheo, do
@@ -279,7 +279,7 @@ phỉ báng. Vì sao vậy? Vì sợ quở trách, phẫn nộ, công kích.
 Thế Tôn thuyết giảng như vậy. Các vị Tỷ-kheo ấy hoan hỷ tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -294,7 +294,7 @@ Bodhi dịch, 1995). \ #strong[14-07-2004]]
 
 Mahacattarisaka Sutta \ The Great Forty
 
-#strong[#emph[translated by Bhikkhu Thanissaro]]
+#strong[translated by Bhikkhu Thanissaro]
 
 #divider()
 

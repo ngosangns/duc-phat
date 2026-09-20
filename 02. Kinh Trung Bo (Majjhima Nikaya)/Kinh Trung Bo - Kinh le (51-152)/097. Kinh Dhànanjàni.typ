@@ -459,7 +459,7 @@ với Phạm thiên.
 -- Và này Sariputta, Bà-la-môn Dhananjani đã mệnh chung và sanh lên Phạm
 thiên giới.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

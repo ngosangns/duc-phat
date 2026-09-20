@@ -161,7 +161,7 @@ xin quy y Tôn giả Gotama, quy y Pháp và quy y chúng Tỷ-kheo. Mong Tôn
 giả Gotama nhận con làm cư sĩ, từ nay trở đi cho đến mạng chung, con
 trọn đời quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

@@ -173,7 +173,7 @@ chỉ bởi Tỷ-kheo sống ở rừng núi hay bởi Tỷ-kheo sống ở gầ
 -- Hiền giả Moggallana, các pháp này cần được phải chấp trì và thực tập
 bởi Tỷ-kheo sống ở rừng núi, huống chi Tỷ-kheo sống gần thôn làng!
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

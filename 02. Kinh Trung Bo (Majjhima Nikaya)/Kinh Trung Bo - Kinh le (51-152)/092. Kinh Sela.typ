@@ -293,7 +293,7 @@ chúa, \ Không chấp, không sợ hãi.]
 chiến thắng, \ Hãy duỗi chân bước tới. \ Hãy để các Ðại nhân \ Ðảnh lễ
 bậc Ðạo Sư.]
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

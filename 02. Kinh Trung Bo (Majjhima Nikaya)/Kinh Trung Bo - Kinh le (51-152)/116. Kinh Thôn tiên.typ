@@ -119,7 +119,7 @@ Lực, \ Ðã đoạn nguồn tái sanh.]
 #emph[Hãy đảnh lễ chư vị, \ Ðại Ẩn sĩ vô lượng, \ Ðã thắng mọi chiến
 trận, \ Ðã đạt bát Niết-bàn.]
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

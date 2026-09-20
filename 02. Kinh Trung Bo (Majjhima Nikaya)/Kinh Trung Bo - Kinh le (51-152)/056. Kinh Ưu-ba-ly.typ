@@ -684,7 +684,7 @@ thán những bậc đáng tán thán!
 Vì Nigantha Nataputta không thể nghe lời tán thán Thế Tôn, nên ngay tại
 chỗ ấy đã thổ ra huyết nóng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

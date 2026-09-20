@@ -21,7 +21,7 @@ thanh tịnh, tức là sáu sáu. Hãy nghe và suy nghiệm kỹ, Ta sẽ gi�
 
 -- Thưa vâng, bạch Thế Tôn.
 
-#strong[#emph[\(Tóm lược)]]
+#strong[\(Tóm lược)]
 
 Các vị Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
@@ -29,7 +29,7 @@ Các vị Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 thức thân cần phải được biết. Sáu xúc thân cần phải được biết. Sáu thọ
 thân cần phải được biết. Sáu ái thân cần phải được biết.
 
-#strong[#emph[\(Liệt kê)]]
+#strong[\(Liệt kê)]
 
 Khi được nói đến: "Sáu nội xứ cần phải được biết", do duyên gì được nói
 đến như vậy? Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ, ý xứ. Khi được
@@ -84,7 +84,7 @@ pháp này là xúc. Do duyên xúc là thọ. Do duyên thọ là ái. Khi đư
 đến: "Sáu ái thân cần phải được biết", chính do duyên này được nói đến
 như vậy. Ðây là sáu sáu thứ sáu.
 
-#strong[#emph[\(Giảng về vô ngã)]]
+#strong[\(Giảng về vô ngã)]
 
 Nếu ai nói rằng: "Mắt là tự ngã", như vậy là không hợp lý. Sự sanh và sự
 diệt của mắt đã được thấy. Vì rằng sự sanh và sự diệt củ mắt đã được
@@ -166,7 +166,7 @@ vậy, nếu có ai nói rằng: "Ái là tự ngã", như vậy là không hợ
 vậy, ý là vô ngã, các pháp là vô ngã, ý thức là vô ngã, ý xúc là vô ngã,
 thọ là vô ngã, ái là vô ngã.
 
-#strong[#emph[\(Nguồn gốc và đoạn diệt thân kiến)]]
+#strong[\(Nguồn gốc và đoạn diệt thân kiến)]
 
 Này các Tỷ-kheo, nhưng đây là con đường đưa đến sự tập khởi của thân
 kiến. Ai quán mắt là: "Cái này là của tôi, cái này là tôi, cái này là tự
@@ -184,7 +184,7 @@ mũi… Ai quán lưỡi… Ai quán thân… Ai quán ý… Ai quán các pháp
 thức… Ai quán ý xúc… Ai quán thọ… Ai quán ái: "Cái này không phải của
 tôi, cái này không phải là tôi, cái này không phải tự ngã của tôi".
 
-#strong[#emph[\(Ba độc tùy miên)]]
+#strong[\(Ba độc tùy miên)]
 
 Này các Tỷ-kheo, do duyên mắt và do duyên các sắc, khởi lên nhãn thức.
 Sự gặp gỡ của ba pháp này là xúc. Do duyên xúc, khởi lên lạc thọ, khổ
@@ -218,7 +218,7 @@ miên đối với bất khổ bất lạc thọ, không đoạn tận vô minh,
 minh khởi lên, có thể ngay trong hiện tại là người chấm dứt đau khổ, sự
 kiện như vậy không xảy ra.
 
-#strong[#emph[\(Ðoạn tận ba độc)]]
+#strong[\(Ðoạn tận ba độc)]
 
 Này các Tỷ-kheo, do duyên mắt và do duyên các sắc, khởi lên nhãn thức.
 Sự gặp gỡ của ba pháp này là xúc. Do duyên xúc, khởi lên lạc thọ, khổ
@@ -252,7 +252,7 @@ miên đối với bất khổ bất lạc thọ, đoạn tận vô minh, làm c
 lên, có thể ngay trong hiện tại là người chấm dứt đau khổ, sự kiện như
 vậy xảy ra.
 
-#strong[#emph[\(Giải thoát)]]
+#strong[\(Giải thoát)]
 
 Này các Tỷ-kheo, do thấy vậy, vị Ða văn Thánh đệ tử yếm ly mắt, yếm ly
 các sắc, yếm ly nhãn thức; yếm ly nhãn xúc, yếm ly thọ, yếm ly ái. Vị ấy
@@ -269,7 +269,7 @@ Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ
 dạy. Trong khi sự thuyết giảng này được nói lên, tâm của sáu mươi
 Tỷ-kheo ấy được giải thoát khỏi các lậu hoặc, không có chấp thủ.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -284,7 +284,7 @@ Bodhi dịch, 1995). \ #strong[15-07-2004]]
 
 Chachakka Sutta \ The Six Sextets
 
-#strong[#emph[Translated by Bhikkhu Thanissaro]]
+#strong[Translated by Bhikkhu Thanissaro]
 
 #divider()
 

@@ -100,7 +100,7 @@ Rahula được giải thoát khỏi các lậu hoặc, không có chấp thủ.
 hàng ngàn chư Thiên ấy, được khởi lên pháp nhãn ly trần, vô cấu: "Phàm
 cái gì được khởi lên, tất cả đều bị diệt tận".
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

@@ -307,7 +307,7 @@ Niết-bàn rồi, chúng tôi xin quy y Thế Tôn đã nhập Niết-bàn ấy
 Pháp, quy y Tỷ-kheo Tăng. Mong Tôn giả Kaccana nhận con làm Cư sĩ, từ
 nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

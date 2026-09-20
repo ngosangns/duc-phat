@@ -37,8 +37,7 @@ Theo tiêu chí đó, thư viện #strong[không bao gồm]: Luận Tạng (Abhi
 - #link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Tap%20I%20(kinh%201-50).typ")[Kinh Trung Bộ --- Tập I (Kinh 1--50)]
 - Kinh lẻ (Kinh 51--152), 102 bài --- thư mục con `Kinh Trung Bo - Kinh le (51-152)/`:
 
-#figure(
-  align(center)[#table(
+#align(center)[#table(
     columns: (33.33%, 33.33%, 33.33%),
     align: (auto,auto,auto,),
     [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/051.%20Kinh%20Kandaraka.typ")[051. Kinh Kandaraka]], [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/052.%20Kinh%20Bát%20thành.typ")[052. Kinh Bát thành]], [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/053.%20Kinh%20Hữu%20học.typ")[053. Kinh Hữu học]],
@@ -76,8 +75,6 @@ Theo tiêu chí đó, thư viện #strong[không bao gồm]: Luận Tạng (Abhi
     [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/147.%20Tiểu%20kinh%20Giáo%20giới%20La-hầu-la.typ")[147. Tiểu kinh Giáo giới La-hầu-la]], [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/148.%20Kinh%20Sáu%20sáu.typ")[148. Kinh Sáu sáu]], [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/149.%20Ðại%20kinh%20Sáu%20xứ.typ")[149. Ðại kinh Sáu xứ]],
     [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/150.%20Kinh%20Nói%20cho%20dân%20Nagaravinda.typ")[150. Kinh Nói cho dân Nagaravinda]], [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/151.%20Kinh%20Khất%20thực%20thanh%20tịnh.typ")[151. Kinh Khất thực thanh tịnh]], [#link("02.%20Kinh%20Trung%20Bo%20(Majjhima%20Nikaya)/Kinh%20Trung%20Bo%20-%20Kinh%20le%20(51-152)/152.%20Kinh%20Căn%20tu%20tập.typ")[152. Kinh Căn tu tập]],
   )]
-  , kind: table
-  )
 
 == 3. Kinh Tương Ưng Bộ (Saṃyutta Nikāya)
 <kinh-tương-ưng-bộ-saṃyutta-nikāya>

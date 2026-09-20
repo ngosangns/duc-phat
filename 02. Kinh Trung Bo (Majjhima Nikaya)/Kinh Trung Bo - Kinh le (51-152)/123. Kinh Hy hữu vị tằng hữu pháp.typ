@@ -220,7 +220,7 @@ thọ trì sự việc này là một hy hữu, một vị tằng hữu của Nh
 Tôn giả Ananda nói như vậy. Bậc Ðạo Sư chấp nhận. Các Tỷ-kheo hoan hỷ
 tín thọ lời Tôn giả Ananda nói.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

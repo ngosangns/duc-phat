@@ -208,7 +208,7 @@ Vị ấy biết: "Sanh đã tận, Phạm hạnh đã thành, những gì nên 
 sau đời này sẽ không có đời sống khác nữa". Và Tôn giả Seniya trở thành
 một vị A-la-hán nữa.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -225,11 +225,11 @@ Bodhi dịch, 1995).]
 
 Kukkuravatika Sutta \ The Dog-duty Ascetic
 
-#strong[#emph[Translated from the Pali by Ñanamoli Thera]]
+#strong[Translated from the Pali by Ñanamoli Thera]
 
 #divider()
 
-#strong[#emph[Introduction (by Bhikkhu Khantipalo)]]
+#strong[Introduction (by Bhikkhu Khantipalo)]
 
 #emph[There were some strange people around in the Buddha's days
 believing some strange things -- but that is no different from our own

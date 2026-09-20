@@ -172,7 +172,7 @@ thiết, kiến lập, mở rộng, phân biệt, hiển lộ bốn Thánh đế
 Tôn giả Sariputta thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ
 lời Tôn giả Sariputta dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

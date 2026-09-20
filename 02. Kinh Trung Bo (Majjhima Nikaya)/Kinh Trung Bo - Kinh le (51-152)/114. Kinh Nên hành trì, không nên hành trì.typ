@@ -15,7 +15,7 @@ không nên hành trì. Hãy nghe và suy nghiệm kỹ, Ta sẽ giảng" -- "Th
 vâng bạch Thế Tôn". Các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như
 sau:
 
-#strong[#emph[\(Lời giảng đầu tiên)]]
+#strong[\(Lời giảng đầu tiên)]
 
 -- Này các Tỷ-kheo, Ta nói thân hành có hai loại: "Nên hành trì, không
 nên hành trì; và đây là sự tương đối giữa thân hành". Này các Tỷ-kheo,
@@ -31,7 +31,7 @@ Tỷ-kheo, Ta nói cũng có hai loại: "Nên hành trì, không nên hành tr�
 các Tỷ-kheo, Ta nói cũng có hai loại: "Nên hành trì, không nên hành trì;
 và đây là sự tương đối giữa ngã tánh đắc".
 
-#strong[#emph[\(Giảng rộng)]]
+#strong[\(Giảng rộng)]
 
 Ðược nghe nói vậy, Tôn giả Sariputta bạch Thế Tôn:
 
@@ -275,7 +275,7 @@ nói như vậy, và do duyên như vậy, lời nói ấy được nói lên. B
 lời nói mà được Thế Tôn nói lên một cách vắn tắt, không giải nghĩa rộng
 rãi, con được hiểu ý nghĩa một cách rộng rãi như vậy.
 
-#strong[#emph[\(Ðức Thế Tôn khen và tóm tắt)]]
+#strong[\(Ðức Thế Tôn khen và tóm tắt)]
 
 -- Lành thay, lành thay, này Sariputta! Lành thay, này Sariputta! Lời
 nói này được Ta nói lên một cách vắn tắt, không giải nghĩa rộng rãi, Ông
@@ -339,7 +339,7 @@ như vậy, và do duyên như vậy lời nói ấy được nói lên.
 Này Sariputta, lời nói này được Ta nói một cách vắn tắt, cần phải hiểu
 một cách rộng rãi như vậy.
 
-#strong[#emph[\(Lời giảng thứ hai)]]
+#strong[\(Lời giảng thứ hai)]
 
 Sắc do mắt nhận thức, này Sariputta, Ta nói có hai loại: "Nên hành trì,
 không nên hành trì". Tiếng do tai nhận thức, này Sariputta, Ta nói có
@@ -350,7 +350,7 @@ không nên hành trì". Xúc do thân nhận thức, này Sariputta, Ta nói c�
 loại: "Nên hành trì, không nên hành trì". Pháp do ý nhận thức, này
 Sariputta, Ta nói có hai loại: "Nên hành trì, không nên hành trì".
 
-#strong[#emph[\(Giảng rộng)]]
+#strong[\(Giảng rộng)]
 
 Khi được nghe nói vậy, Tôn giả Sariputta bạch Thế Tôn:
 
@@ -433,7 +433,7 @@ như vậy và do duyên như vậy, lời nói ấy được nói lên.
 Bạch Thế Tôn, lời nói này được Thế Tôn nói lên một cách vắn tắt, không
 giải nghĩa rộng rãi, con được hiểu ý nghĩa một cách rộng rãi như vậy.
 
-#strong[#emph[\(Ðức Thế Tôn khen và tóm tắt)]]
+#strong[\(Ðức Thế Tôn khen và tóm tắt)]
 
 -- Lành thay, lành thay, này Sariputta! Lành thay, này Sariputta! Lời
 nói này được Ta nói lên một cách vắn tắt, không giải nghĩa rộng rãi, Ông
@@ -453,7 +453,7 @@ vậy, lời nói ấy được nói lên.
 Này Sariputta, lời nói này được Ta nói lên một cách vắn tắt, ý nghĩa lời
 nói ấy cần được hiểu một cách rộng rãi như vậy.
 
-#strong[#emph[\(Lời giảng thứ ba)]]
+#strong[\(Lời giảng thứ ba)]
 
 Y, này Sariputta, Ta nói có hai loại: "Nên hành trì, không nên hành
 trì". Ðồ ăn khất thực, này Sariputta, Ta nói có hai loại: "Nên hành trì,
@@ -466,7 +466,7 @@ Sariputta, Ta nói có hai loại: "Nên hành trì, không nên hành trì". Ng
 (Puggala), này Sariputta, Ta nói có hai loại: "Nên hành trì, không nên
 hành trì".
 
-#strong[#emph[\(Giảng rộng)]]
+#strong[\(Giảng rộng)]
 
 Khi được nghe nói vậy, Tôn giả Sariputta bạch Thế Tôn:
 
@@ -507,7 +507,7 @@ lời nói ấy được nói lên.
 Bạch Thế Tôn, lời nói này được Thế Tôn nói lên một cách vắn tắt, không
 giải thích rộng rãi, con đã hiểu một cách rộng rãi như vậy.
 
-#strong[#emph[\(Ðức Thế Tôn khen và tóm tắt)]]
+#strong[\(Ðức Thế Tôn khen và tóm tắt)]
 
 -- Lành thay, lành thay, này Sariputta! Lành thay, này Sariputta! Lời
 nói này được Ta nói lên vắn tắt, không giải thích rộng rãi, Ông đã hiểu
@@ -546,7 +546,7 @@ Người, này Sariputta, Ta nói có hai loại… do duyên như vậy, lời 
 Này Sariputta, lời nói này được Ta nói vắn tắt, ý nghĩa lời nói ấy cần
 được hiểu một cách rộng rãi như vậy.
 
-#strong[#emph[\(Kết luận)]]
+#strong[\(Kết luận)]
 
 Này Sariputta, nếu tất cả những vị Sát đế lỵ, đối với lời nói này được
 Ta nói vắn tắt, có thể hiểu ý nghĩa lời nói ấy một cách rộng rãi như
@@ -559,7 +559,7 @@ như vậy, tất cả những vị ấy sẽ được hưởng hạnh phúc, an
 Thế Tôn thuyết giảng như vậy. Tôn giả Sariputta hoan hỷ, tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

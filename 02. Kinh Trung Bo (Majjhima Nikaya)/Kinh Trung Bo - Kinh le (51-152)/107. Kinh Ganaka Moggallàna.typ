@@ -214,14 +214,14 @@ thích. Con xin quy y Tôn giả Gotama, quy y Pháp và chúng Tỷ-kheo Tăng.
 Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến mạng chung, con
 trọn đời quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
 #emph[Chân thành cám ơn anh HDC và nhóm Phật tử VH đã có thiện tâm gửi
 tặng ấn bản điện tử. \ (11/99) \ (Bình Anson hiệu đính, dựa theo bản Anh
 ngữ "The Middle Length Discourses of the Buddha", Tỳ kheo Nanamoli và Tỳ
-kheo Bodhi dịch, 1995).]#strong[#emph[11-10-2003]]
+kheo Bodhi dịch, 1995).]#strong[11-10-2003]
 
 #divider()
 
@@ -229,7 +229,7 @@ kheo Bodhi dịch, 1995).]#strong[#emph[11-10-2003]]
 
 Ganakamoggallana Sutta \ The Discourse to Ganaka-Moggallana
 
-#strong[#emph[Translated from the Pali by I.B. Horner]]
+#strong[Translated from the Pali by I.B. Horner]
 
 #divider()
 

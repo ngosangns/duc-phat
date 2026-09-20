@@ -176,7 +176,7 @@ pháp đã được Thế Tôn dùng nhiều phương tiện trình bày. Nay co
 Tôn, quy y Pháp và quy y chúng Tỷ-kheo Tăng. Mong Thế Tôn nhận con làm
 cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -194,13 +194,13 @@ Bodhi dịch, 1995).]
 Abhaya Sutta \ (Abhaya-raja-kumara Sutta)To Prince Abhaya (On Right
 Speech)
 
-#strong[#emph[Translation by Bhikkhu Thanissaro]]
+#strong[Translation by Bhikkhu Thanissaro]
 
 For free distribution only, as a gift of Dhamma
 
 #divider()
 
-#strong[#emph[Translator's Introduction]]
+#strong[Translator's Introduction]
 
 #emph[In this discourse, the Buddha shows the factors that go into
 deciding what is and is not worth saying. The main factors are three:
@@ -390,7 +390,7 @@ refuge, from this day forward, for life."
 
 #divider()
 
-#strong[#emph[Note]]
+#strong[Note]
 
 #strong[\1.] A two-horned chestnut is the nut of a tree #emph[\(Trapa
 bicornis)] growing in south and southeast Asia. Its shell looks like the

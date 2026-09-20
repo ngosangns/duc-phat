@@ -293,7 +293,7 @@ Này Udayi, lại có năm pháp khác, do năm pháp này, các đệ tử củ
 kính, tôn trọng, kính lễ, cúng dường, và sau khi cung kính, tôn trọng,
 sống nương tựa vào Ta. Thế nào là năm?
 
-#strong[#emph[\(I. Giới hạnh tăng thượng)]]
+#strong[\(I. Giới hạnh tăng thượng)]
 
 Ở đây, này Udayi, các đệ tử của Ta thán phục Tăng thượng giới: "Sa-môn
 Gotama là vị có giới hạnh và thành tựu giới uẩn tối thượng". Này Udayi,
@@ -302,7 +302,7 @@ là vị có giới hạnh và thành tựu giới uẩn tối thượng", đây
 nhất, này Udayi, các đệ tử của Ta cung kính, tôn trọng, kính lễ, cúng
 dường Ta và sau khi cung kính , tôn trọng, sống nương tựa vào Ta.
 
-#strong[#emph[\(II. Tri kiến vi diệu)]]
+#strong[\(II. Tri kiến vi diệu)]
 
 Lại nữa, này Udayi, các đệ tử của Ta thán phục tri kiến vi diệu. Khi
 nói: "Ta biết", nghĩa là Sa-môn Gotama có biết. Khi nói: "Ta thấy",
@@ -319,7 +319,7 @@ phải không có thần thông lực”. Ðây là pháp thứ hai, này Udayi,
 của Ta cung kính, tôn trọng, kính lễ, cúng dường Ta và sau khi cung
 kính, tôn trọng, sống nương tựa vào Ta.
 
-#strong[#emph[\(III. Trí tuệ tăng thượng)]]
+#strong[\(III. Trí tuệ tăng thượng)]
 
 Lại nữa, này Udayi, đệ tử của Ta thán phục Tăng thượng trí tuệ và sự
 kiện này không thể xảy ra khi họ nghĩ rằng: "Sa-môn Gotama là vị có trí
@@ -343,7 +343,7 @@ pháp". Ðây là pháp thứ ba, này Udayi, mà các đệ tử của Ta cung 
 trọng, kính lễ, cúng dường Ta, và sau khi cung kính, tôn trọng, sống
 nương tựa vào Ta.
 
-#strong[#emph[\(IV. Tứ diệu đế)]]
+#strong[\(IV. Tứ diệu đế)]
 
 Lại nữa, này Udayi, những đệ tử của Ta bị đắm chìm trong đau khổ, bị đau
 khổ chi phối, đến Ta và hỏi về khổ Thánh đế. Ðược hỏi về Khổ Thánh đế,
@@ -354,9 +354,9 @@ pháp thứ tư, này Udayi, mà các đệ tử của Ta cung kính, tôn trọ
 lễ, cúng dường Ta và sau khi cung kính, tôn trọng, sống nương tựa vào
 Ta.
 
-#strong[#emph[\(V. Con đường hành trì)]]
+#strong[\(V. Con đường hành trì)]
 
-#strong[#emph[\(1. Tứ Niệm xứ)]]
+#strong[\(1. Tứ Niệm xứ)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ theo đường tu hành này, tu tập Bốn Niệm xứ. Ở đây,
@@ -367,7 +367,7 @@ chánh niệm để nhiếp phục tham ưu trên đời. Và ở đây, các đ
 phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh
 viên mãn.
 
-#strong[#emph[\(2. Tứ Chánh cần)]]
+#strong[\(2. Tứ Chánh cần)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, tu tập Bốn Chánh cần. Ở
@@ -383,7 +383,7 @@ lên ý muốn cố gắng, tinh tấn, sách tâm, trì tâm… Và ở đây, 
 Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu
 cánh viên mãn.
 
-#strong[#emph[\(3. Tứ Thần túc)]]
+#strong[\(3. Tứ Thần túc)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ theo đường tu hành này, tu tập Bốn Thần túc. Ở
@@ -393,7 +393,7 @@ thần túc, câu hữu với tư duy Thiền định tinh cần hành. Và ở 
 tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc
 cứu cánh viên mãn.
 
-#strong[#emph[\(4. Ngũ căn)]]
+#strong[\(4. Ngũ căn)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ theo đường tu hành này, tu tập Năm Căn. Ở đây, này
@@ -403,7 +403,7 @@ hướng đến an tịnh, đưa đến giác ngộ. Và ở đây, này Udayi, 
 Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu
 cánh viên mãn.
 
-#strong[#emph[\(5. Ngũ lực)]]
+#strong[\(5. Ngũ lực)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ theo đường tu hành này, tu tập Năm Lực. Ở đây, này
@@ -413,7 +413,7 @@ hướng đến an tịnh, đưa đến giác ngộ. Ở đây, này Udayi, các
 phần đông an trú, sau khi chứng ngộ nhờ thắng trí, và chứng đắc cứu cánh
 viên mãn.
 
-#strong[#emph[\(6. Thất Giác chi)]]
+#strong[\(6. Thất Giác chi)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, tu tập Bảy Giác chi. Ở đây,
@@ -424,7 +424,7 @@ giác chi, tu tập xả giác chi, y chỉ viễn ly, y chỉ ly tham, y chỉ 
 hướng đến xả. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú,
 sau khi chứng ngộ nhờ thắng trí, và chứng đắc cứu cánh viên mãn.
 
-#strong[#emph[\(7. Bát Chánh đạo)]]
+#strong[\(7. Bát Chánh đạo)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, tu tập Thánh đạo Tám ngành.
@@ -434,7 +434,7 @@ tinh tấn, tu tập chánh niệm, tu tập chánh định. Và ở đây, này
 vị đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và
 chứng đắc cứu cánh viên mãn.
 
-#strong[#emph[\(8. Tám Giải thoát)]]
+#strong[\(8. Tám Giải thoát)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 đệ tử của Ta y cứ con đường tu hành này, tu tập Tám Giải thoát. "Tự mình
@@ -453,7 +453,7 @@ trú Diệt thọ tưởng, đó là giải thoát thứ tám. Và ở đây, n�
 đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí, và chứng
 đắc cứu cánh viên mãn.
 
-#strong[#emph[\(9. Tám Thắng xứ)]]
+#strong[\(9. Tám Thắng xứ)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, tu tập Tám Thắng xứ. Một vị
@@ -497,7 +497,7 @@ rằng: "Sau khi nhiếp thắng chúng, ta biết, ta thấy", đó là thắng
 tám. Và ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi
 chứng ngộ nhờ thắng trí, và chứng đắc cứu cánh viên mãn.
 
-#strong[#emph[\(10. Mười Biến xứ)]]
+#strong[\(10. Mười Biến xứ)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, tu tập Mười Biến xứ. Một vị
@@ -509,7 +509,7 @@ Một vị biết được thức biến xứ: trên, dưới, ngang, bất nh�
 ở đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ
 nhờ thắng trí, và chứng đắc cứu cánh viên mãn.
 
-#strong[#emph[\(11. Bốn Thiền-na)]]
+#strong[\(11. Bốn Thiền-na)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, tu tập Bốn Thiền. Ở đây,
@@ -567,7 +567,7 @@ với tâm thuần tịnh, trong sáng, không một chỗ nào trên toàn thâ
 đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng
 đắc cứu cánh viên mãn.
 
-#strong[#emph[\(12. Tuệ tri)]]
+#strong[\(12. Tuệ tri)]
 
 Lại nữa, này Udayi. Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, tuệ tri như sau: "Thân này
@@ -589,7 +589,7 @@ hoại diệt, trong thân ấy thức ta lại nương tựa và bị trói bu�
 đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ
 thắng trí và chứng đắc cứu cánh viên mãn.
 
-#strong[#emph[\(13. Thân do ý)]]
+#strong[\(13. Thân do ý)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, chú tâm, hướng tâm đến sự
@@ -609,7 +609,7 @@ thân này, cũng là sắc pháp, do ý làm ra, đầy đủ các chi tiết l
 không thiếu một căn nào. Và ở đây, này Udayi, các đệ tử của Ta phần đông
 an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên mãn.
 
-#strong[#emph[\(14. Thần túc thông)]]
+#strong[\(14. Thần túc thông)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, dẫn tâm, hướng tâm đến các
@@ -638,7 +638,7 @@ thân bay đến cõi Phạm thiên. Và ở đây, này Udayi, các đệ tử 
 đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên
 mãn.
 
-#strong[#emph[\(15. Thiên nhĩ thông)]]
+#strong[\(15. Thiên nhĩ thông)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, với thiên nhĩ thanh tịnh
@@ -653,7 +653,7 @@ tiếng, chư Thiên và Người, xa và gần. Và ở đây, này Udayi, các
 Ta phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu
 cánh viên mãn.
 
-#strong[#emph[\(16. Tha tâm thông)]]
+#strong[\(16. Tha tâm thông)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, sau khi đi sâu vào tâm của
@@ -686,7 +686,7 @@ giải thoát; tâm không giải thoát, biết là tâm không giải thoát".
 đây, này Udayi, các đệ tử của Ta phần đông an trú, sau khi chứng ngộ nhờ
 thắng trí và chứng đắc cứu cánh viên mãn.
 
-#strong[#emph[\(17. Túc mạng thông)]]
+#strong[\(17. Túc mạng thông)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, nhớ đến các đời sống quá
@@ -712,7 +712,7 @@ nét đại cương và các chi tiết. Và ở đây, này Udayi, các đệ t
 phần đông an trú, sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh
 viên mãn.
 
-#strong[#emph[\(18. Thiên nhãn thông)]]
+#strong[\(18. Thiên nhãn thông)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, với thiên nhãn thuần tịnh
@@ -742,7 +742,7 @@ liệt kẻ cao sang, người đẹp đẽ kẻ thô xấu, người may mắn 
 đông an trú sau khi chứng ngộ nhờ thắng trí và chứng đắc cứu cánh viên
 mãn.
 
-#strong[#emph[\(19. Lậu tận thông)]]
+#strong[\(19. Lậu tận thông)]
 
 Lại nữa, này Udayi, Ta thuyết giảng con đường tu hành cho các đệ tử. Và
 các đệ tử của Ta y cứ con đường tu hành này, sau khi đoạn tận các lậu
@@ -771,7 +771,7 @@ Ta.
 Thế Tôn thuyết giảng như vậy. Du sĩ Sakuludayi hoan hỷ, tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

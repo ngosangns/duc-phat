@@ -12,7 +12,7 @@ Một thời Thế Tôn ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà viên), t�
 Tại đấy, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo". -- "Thưa vâng, bạch
 Thế Tôn", các Tỷ-kheo ấy vâng đáp Thế Tôn. Thế Tôn nói như sau:
 
-#strong[#emph[\(Người Ngu)]]
+#strong[\(Người Ngu)]
 
 -- Này các Tỷ-kheo, có ba đặc điểm, đặc tướng, và đặc ấn này của người
 ngu. Thế nào là ba? Ở đây, này các Tỷ-kheo, người ngu tư duy ác tư duy,
@@ -75,7 +75,7 @@ Này các Tỷ-kheo, kẻ ngu kia sau khi làm thân ác hành, sau khi làm kh�
 ác hành, sau khi làm ý ác hành, khi thân hoại mạng chung, sanh vào cõi
 dữ, ác thú, đọa xứ, địa ngục.
 
-#strong[#emph[\(Ðịa ngục)]]
+#strong[\(Ðịa ngục)]
 
 Này các Tỷ-kheo, nếu có ai nói một cách đúng đắn về người ấy, phải nói
 rằng người ấy hoàn toàn không tốt đẹp, hoàn toàn không khả ái, hoàn toàn
@@ -171,7 +171,7 @@ Này các Tỷ-kheo, với rất nhiều pháp môn, Ta nói về Ðịa ngục,
 khó nói cho được đầy đủ, này các Tỷ-kheo, vì đau khổ ở Ðịa ngục quá
 nhiều.
 
-#strong[#emph[\(Cõi thú)]]
+#strong[\(Cõi thú)]
 
 Này các Tỷ-kheo, có những loại sanh vật thuộc loại bàng sanh, có hơi
 thở, ăn cỏ. Chúng ăn những cỏ ướt và khô, với răng nhai nghiền, cỏ ấy.
@@ -272,7 +272,7 @@ khẩu ác hành, ý ác hành, sau khi thân hoại mạng chung, phải sanh v
 dữ, ác thú, đọa xứ, Ðịa ngục. Này các Tỷ-kheo, đây là địa xứ hoàn toàn
 viên mãn của kẻ ngu.
 
-#strong[#emph[\(Người Hiền trí)]]
+#strong[\(Người Hiền trí)]
 
 Này các Tỷ-kheo, có ba đặc điểm, đặc tướng, và đặc ấn này của người trí.
 Thế nào là ba? Ở đây, này các Tỷ-kheo, người trí tư duy thiện tư duy,
@@ -331,7 +331,7 @@ có ai nói một cách đúng đắn về vị ấy phải nói rằng vị ấ
 toàn khả ái, hoàn toàn thích ý. Về vấn đề này, này các Tỷ-kheo, cho đến
 một ví dụ cũng không dễ gì, vì rất nhiều là sự (an) lạc của Thiên giới.
 
-#strong[#emph[\(Cõi Thiên)]]
+#strong[\(Cõi Thiên)]
 
 Khi được nói vậy, một Tỷ-kheo khác bạch Thế Tôn:
 
@@ -574,7 +574,7 @@ các Tỷ-kheo, đây là địa vức hoàn toàn viên mãn của bậc có tr
 Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

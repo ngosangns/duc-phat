@@ -135,7 +135,7 @@ Tỷ-kheo Channa đem con dao lại (cho mình), không có phạm tội.
 Thế Tôn thuyết giảng như vậy. Tôn giả Sariputta hoan hỷ tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

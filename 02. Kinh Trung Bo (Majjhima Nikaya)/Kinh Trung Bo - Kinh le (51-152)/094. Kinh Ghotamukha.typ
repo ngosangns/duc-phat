@@ -425,7 +425,7 @@ Rồi Bà-la-môn Ghotamukha với bố thí thường xuyên này và với b�
 thường xuyên khác về sau, cho xây dựng một giảng đường cho chúng Tăng ở
 Pataliputta. Nay giảng đường ấy được gọi là Ghotamukhi.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

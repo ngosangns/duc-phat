@@ -165,7 +165,7 @@ thanh tịnh Không tánh. Như vậy, này Ananda, các Ông cần phải học
 Thế Tôn thuyết giảng như vậy. Tôn giả Ananda hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -180,7 +180,7 @@ Bodhi dịch, 1995). \ 14-07-2004]
 
 Cula-Suññata Sutta \ The Lesser Discourse on Emptiness
 
-#strong[#emph[translated by Bhikkhu Thanissaro]]
+#strong[translated by Bhikkhu Thanissaro]
 
 #divider()
 

@@ -317,7 +317,7 @@ thoát chấp thủ, \ Sanh tử được đoạn trừ, \ Ðược yên ổn an
 hiện tại tịch tịnh, \ Mọi oán hận sợ hãi, \ Các vị ấy vượt qua, \ Mọi
 đau đớn sầu khổ, \ Họ đều được siêu thoát.]
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

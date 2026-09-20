@@ -524,7 +524,7 @@ nay không có dễ gì cho chúng ta từ bỏ quyền lợi, tôn kính và da
 Như vậy, du sĩ Sandaka đã đưa đồ chúng của mình sống Phạm hạnh dưới
 Sa-môn Gotama.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

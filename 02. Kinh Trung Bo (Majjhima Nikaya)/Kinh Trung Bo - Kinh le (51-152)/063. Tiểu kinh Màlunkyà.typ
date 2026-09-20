@@ -226,7 +226,7 @@ những điều Ta có trả lời.
 Thế Tôn thuyết giảng như vậy. Tôn giả Malunkyaputta hoan hỷ tín thọ lời
 Thế Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -243,7 +243,7 @@ Bodhi dịch, 1995).]
 
 Cula-Malunkyovada Sutta \ The Shorter Instructions to Malunkya
 
-#strong[#emph[Translation by Bhikkhu Thanissaro]]
+#strong[Translation by Bhikkhu Thanissaro]
 
 For free distribution only, as a gift of Dhamma
 

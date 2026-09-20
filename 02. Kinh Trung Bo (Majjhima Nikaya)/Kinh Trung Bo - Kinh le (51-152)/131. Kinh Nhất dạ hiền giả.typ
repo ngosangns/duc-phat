@@ -96,7 +96,7 @@ Giả', tổng thuyết và biệt thuyết", chính duyên ở đây mà nói v
 Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời dạy
 của Thế Tôn.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -111,11 +111,11 @@ Bodhi dịch, 1995). \ #strong[15-07-2004]]
 
 Bhaddekaratta Sutta \ An Auspicious Day
 
-#strong[#emph[Translated by Bhikkhu Thanissaro]]
+#strong[Translated by Bhikkhu Thanissaro]
 
 #divider()
 
-#strong[#emph[Translator's Introduction]]
+#strong[Translator's Introduction]
 
 #emph[The title of this discourse has sparked some controversy, centered
 on the word "ratta." Modern translators in Asian vernaculars are

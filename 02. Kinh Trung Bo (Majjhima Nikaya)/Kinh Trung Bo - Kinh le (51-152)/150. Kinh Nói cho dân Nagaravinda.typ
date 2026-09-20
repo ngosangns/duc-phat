@@ -120,7 +120,7 @@ Khi nghe nói vậy, các Bà-la-môn gia chủ ở Nagaravinda nói với Thế
   Gotama nhận chúng con làm đệ tử, từ nay trở đi cho đến mạng chung,
   chúng con trọn đời quy ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

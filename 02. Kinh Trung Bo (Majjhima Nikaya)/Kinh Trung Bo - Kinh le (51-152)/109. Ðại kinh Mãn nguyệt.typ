@@ -208,7 +208,7 @@ Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ
 dạy. Trong khi sự giảng giải này được nói lên, tâm của sáu mươi vị
 Tỷ-kheo được giải thoát khỏi các lậu hoặc, không có chấp thủ.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

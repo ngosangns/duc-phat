@@ -128,7 +128,7 @@ Tỷ-kheo như vậy, này các Tỷ-kheo, có mặt trong chúng Tỷ-kheo này
 các Tỷ-kheo, trong chúng Tỷ-kheo này, có những Tỷ-kheo sống chuyên tâm,
 chú tâm tu tập nhập tức xuất tức niệm.
 
-#strong[#emph[\(Quán niệm hơi thở)]]
+#strong[\(Quán niệm hơi thở)]
 
 Nhập tức xuất tức niệm, này các Tỷ-kheo, được tu tập, được làm cho sung
 mãn, đưa đến quả lớn, công đức lớn. Nhập tức xuất tức niệm, được tu tập,
@@ -174,7 +174,7 @@ vị ấy tập. "Quán từ bỏ, tôi sẽ thở ra", vị ấy tập.
 Nhập tức xuất tức niệm, này các Tỷ-kheo, tu tập như vậy, làm cho sung
 mãn như vậy, được quả lớn, được công đức lớn.
 
-#strong[#emph[\(Làm viên mãn bốn niệm xứ)]]
+#strong[\(Làm viên mãn bốn niệm xứ)]
 
 Và như thế nào, này các Tỷ-kheo, là nhập tức xuất tức niệm được tu tập?
 Như thế nào là làm cho sung mãn, khiến bốn niệm xứ được viên mãn?
@@ -228,7 +228,7 @@ quán pháp trên các pháp, Tỷ-kheo trú, nhiệt tâm, tỉnh giác, chánh
 Nhập tức xuất tức niệm, này các Tỷ-kheo, được tu tập như vậy, được làm
 cho sung mãn như vậy, khiến cho bốn niệm xứ được viên mãn.
 
-#strong[#emph[\(Làm viên mãn bảy giác chi)]]
+#strong[\(Làm viên mãn bảy giác chi)]
 
 Và bốn niệm xứ, này các Tỷ-kheo, được tu tập như thế nào, được làm sung
 mãn như thế nào, khiến cho bảy giác chi được viên mãn?
@@ -323,7 +323,7 @@ Tỷ-kheo làm cho đi đến sung mãn.
 Này các Tỷ-kheo, bốn niệm xứ được tu tập như vậy, được làm cho sung mãn
 như vậy khiến cho bảy giác chi được sung mãn.
 
-#strong[#emph[\(Minh giải thoát được viên mãn)]]
+#strong[\(Minh giải thoát được viên mãn)]
 
 Và này các Tỷ-kheo, bảy giác chi được tu tập như thế nào, được làm cho
 sung mãn như thế nào, khiến cho minh giải thoát được viên mãn?
@@ -339,7 +339,7 @@ vậy, khiến cho minh giải thoát được viên mãn.
 Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -354,7 +354,7 @@ Bodhi dịch, 1995). \ #strong[10-03-2005]]
 
 Anapanasati Sutta \ Mindfulness of Breathing
 
-#strong[#emph[translated by Bikkhu Thanissaro]]
+#strong[translated by Bikkhu Thanissaro]
 
 #divider()
 

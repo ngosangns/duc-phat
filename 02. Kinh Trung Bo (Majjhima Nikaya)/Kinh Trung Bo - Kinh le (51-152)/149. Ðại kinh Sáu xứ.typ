@@ -119,7 +119,7 @@ phải chứng ngộ với thượng trí.
 Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -134,7 +134,7 @@ Bodhi dịch, 1995). \ #strong[15-07-2004]]
 
 Mahasalayatanika Sutta \ The Great Six Sense-media Discourse
 
-#strong[#emph[Translated by Bhikkhu Thanissaro]]
+#strong[Translated by Bhikkhu Thanissaro]
 
 #divider()
 

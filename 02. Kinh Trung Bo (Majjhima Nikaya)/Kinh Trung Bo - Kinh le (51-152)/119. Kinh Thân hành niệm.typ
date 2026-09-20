@@ -37,7 +37,7 @@ chưa bàn xong thời Thế Tôn đến.
 -- Và này các Tỷ-kheo, thân hành niệm được tu tập như thế nào, được làm
 cho sung mãn như thế nào, có quả lớn, có công đức lớn?
 
-#strong[#emph[\(Quán niệm hơi thở)]]
+#strong[\(Quán niệm hơi thở)]
 
 Ở đây, này các Tỷ-kheo, Tỷ-kheo đi đến khu rừng, hay đi đến gốc cây, hay
 đi đến ngôi nhà trống và ngồi kiết-già, lưng thẳng và an trú chánh niệm
@@ -52,7 +52,7 @@ niệm và tư duy thuộc về thế tục được đoạn trừ. Nhờ đoạ
 nội tâm được an trú, an tọa, chuyên nhất, định tĩnh. Như vậy, này các
 Tỷ-kheo, Tỷ-kheo tu tập thân hành niệm.
 
-#strong[#emph[\(Bốn oai nghi)]]
+#strong[\(Bốn oai nghi)]
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo đi, biết rằng: "Tôi đi". Hay đứng,
 biết rằng: "Tôi đứng". Hay ngồi, biết rằng: "Tôi ngồi". Hay nằm, biết
@@ -62,7 +62,7 @@ các niệm và tư duy thuộc về thế tục được đoạn trừ. Nhờ �
 ấy, nội tâm được an trú, an tọa, chuyên nhất, định tĩnh. Như vậy, này
 các Tỷ-kheo, Tỷ-kheo tu tập thân hành niệm.
 
-#strong[#emph[\(Ðầy đủ chánh niệm)]]
+#strong[\(Ðầy đủ chánh niệm)]
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo khi bước tới, bước lui biết rõ việc
 mình đang làm; khi ngó tới ngó lui biết rõ việc mình đang làm; khi co
@@ -76,7 +76,7 @@ tư duy thuộc về thế tục được đoạn trừ. Nhờ đoạn trừ cá
 được an trú, an tọa, chuyên nhất, định tĩnh. Như vậy, này các Tỷ-kheo,
 Tỷ-kheo tu tập thân hành niệm.
 
-#strong[#emph[\(Quán thân bất tịnh)]]
+#strong[\(Quán thân bất tịnh)]
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo quán sát thân này, dưới từ bàn chân
 trở lên, trên cho đến đảnh tóc, bao bọc bởi da và chứa đầy những vật bất
@@ -100,7 +100,7 @@ tư duy thuộc về thế tục được đoạn trừ. Nhờ đoạn trừ cá
 được an trú, an tọa, chuyên nhất, định tĩnh. Như vậy, này các Tỷ-kheo,
 Tỷ-kheo tu tập thân hành niệm.
 
-#strong[#emph[\(Quán tứ đại)]]
+#strong[\(Quán tứ đại)]
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo quán sát thân này về các vị trí các
 giới và sự sắp đặt các giới: "Trong thân này có địa đại, thủy đại, hỏa
@@ -115,7 +115,7 @@ tư duy thuộc về thế tục được đoạn trừ. Nhờ đoạn trừ cá
 được an trú, an tọa, chuyên nhất, định tĩnh. Như vậy, này các Tỷ-kheo,
 Tỷ-kheo tu tập thân hành niệm.
 
-#strong[#emph[\(Quán tử thi)]]
+#strong[\(Quán tử thi)]
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo như thấy một thi thể quăng bỏ trong
 nghĩa địa một ngày, hai ngày, ba ngày, thi thể ấy trương phồng lên, xanh
@@ -181,7 +181,7 @@ tư duy thuộc về thế tục được đoạn trừ. Nhờ đoạn trừ cá
 được an trú, an tọa, chuyên nhất, định tĩnh. Như vậy, này các Tỷ-kheo,
 Tỷ-kheo tu tập thân hành niệm.
 
-#strong[#emph[\(Các bậc Thiền)]]
+#strong[\(Các bậc Thiền)]
 
 Lại nữa, này các Tỷ-kheo, Tỷ-kheo ly dục, ly ác pháp, chứng và trú Thiền
 thứ nhất, một trạng thái hỷ lạc do ly dục sanh, với tầm và tứ. Tỷ-kheo
@@ -261,7 +261,7 @@ tư duy thuộc về thế tục được đoạn trừ. Nhờ đoạn trừ cá
 được an trú, an tọa, chuyên nhất, định tĩnh. Như vậy, này các Tỷ-kheo,
 Tỷ-kheo tu tập thân hành niệm.
 
-#strong[#emph[\(Sự phát triển qua thân hành niệm)]]
+#strong[\(Sự phát triển qua thân hành niệm)]
 
 Này các Tỷ-kheo, đối với vị nào tu tập, làm cho sung mãn thân hành niệm,
 các thiện pháp của vị ấy đi vào nội tâm (antogadha) đều thuộc về minh
@@ -378,7 +378,7 @@ tu tập thân hành niệm, làm cho sung mãn, vị ấy hướng tâm đã đ
 ngộ nhờ thắng trí đến pháp nào cần phải chứng ngộ nhờ thắng trí, vị ấy
 đối mặt được sự tinh xảo của pháp ấy dầu thuộc giới xứ nào.
 
-#strong[#emph[\(Công đức của thân hành niệm)]]
+#strong[\(Công đức của thân hành niệm)]
 
 Này các Tỷ-kheo, thân hành niệm được thực hành, được tu tập, được làm
 cho sung mãn, được làm như thành cỗ xe, được làm như thành căn cứ địa,
@@ -435,7 +435,7 @@ thời mười công đức này có thể mong đợi.
 Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -450,7 +450,7 @@ Bodhi dịch, 1995). \ #strong[10-03-2005]]
 
 Kayagata-sati Sutta \ Mindfulness Immersed in the Body
 
-#strong[#emph[translated by Bhikkhu Thanissaro]]
+#strong[translated by Bhikkhu Thanissaro]
 
 #divider()
 

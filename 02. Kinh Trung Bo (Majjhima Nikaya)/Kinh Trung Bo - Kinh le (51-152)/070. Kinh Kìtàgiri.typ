@@ -343,7 +343,7 @@ trí ngay trong hiện tại, và nếu có dư y, chứng quả Bất hoàn.
 
 Thế Tôn thuyết như vậy. Các Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

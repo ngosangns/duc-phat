@@ -506,7 +506,7 @@ làm đệ tử.
 Như vậy, chính chúng du sĩ của Sakuludayi đã làm một chướng ngại pháp
 cho du sĩ Sakuludayi sống Phạm hạnh dưới sự chỉ dẫn của Thế Tôn.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

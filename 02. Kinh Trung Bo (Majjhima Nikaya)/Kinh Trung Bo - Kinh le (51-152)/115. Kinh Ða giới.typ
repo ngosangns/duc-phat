@@ -43,7 +43,7 @@ thiện xảo về duyên khởi và thiện xảo về xứ phi xứ, cho đế
 vậy, này Ananda, là vừa đủ để nói: "Tỷ-kheo là người hiền trí, biết suy
 tư tìm hiểu".
 
-#strong[#emph[\(Giới)]]
+#strong[\(Giới)]
 
 -- Ðến mức độ nào, bạch Thế Tôn, là vừa đủ để nói: "Tỷ-kheo thiện xảo về
 giới?"
@@ -95,7 +95,7 @@ vi giới. Này Ananda, cho đến khi biết được, thấy được hai gi�
 đến mức độ như vậy, này Ananda, là vừa đủ để nói: "Tỷ-kheo thiện xảo về
 giới"
 
-#strong[#emph[\(Xứ)]]
+#strong[\(Xứ)]
 
 -- Nhưng bạch Thế Tôn, cho đến mức độ nào là vừa đủ để nói: "Tỷ-kheo
 thiện xảo về xứ?"
@@ -105,7 +105,7 @@ mũi và hương, lưỡi và vị, thân và xúc, ý và pháp. Này Ananda, c
 khi biết được, thấy được sáu nội ngoại xứ này, cho đến mức độ như vậy,
 này Ananda, là vừa đủ để nói: "Tỷ-kheo thiện xảo về xứ".
 
-#strong[#emph[\(Duyên khởi)]]
+#strong[\(Duyên khởi)]
 
 -- Nhưng bạch Thế Tôn, cho đến mức độ nào là vừa đủ để nói: "Tỷ-kheo
 thiện xảo về duyên khởi?"
@@ -126,7 +126,7 @@ diệt; do sanh diệt, lão tử, sầu, bi, khổ, ưu, não đoạn diệt. N
 sự đoạn diệt hoàn toàn của khổ uẩn này. Cho đến như vậy, này Ananda, là
 vừa đủ để nói: "Tỷ-kheo thiện xảo về duyên khởi".
 
-#strong[#emph[\(Xứ, phi xứ)]]
+#strong[\(Xứ, phi xứ)]
 
 -- Nhưng cho đến mức độ nào, bạch Thế Tôn, là vừa đủ để nói: "Tỷ-kheo
 thiện xảo về xứ phi xứ?"
@@ -251,7 +251,7 @@ thiên giới, cõi đời này. Sự kiện như vậy có xảy ra".
 Cho đến mức độ như vậy, là vừa đủ để nói: "Tỷ-kheo thiện xảo về xứ phi
 xứ".
 
-#strong[#emph[\(Kết luận)]]
+#strong[\(Kết luận)]
 
 Khi được nghe nói vậy, Tôn giả Ananda bạch Thế Tôn:
 
@@ -266,7 +266,7 @@ thọ trì pháp môn này là Vô thượng chiến thắng.
 Thế Tôn thuyết giảng như vậy. Tôn giả Ananda hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

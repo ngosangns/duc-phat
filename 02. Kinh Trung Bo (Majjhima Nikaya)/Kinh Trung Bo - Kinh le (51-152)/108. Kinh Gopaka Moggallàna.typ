@@ -300,7 +300,7 @@ là bậc hiểu đạo, biết đạo và thiện xảo về đạo. Và nay c�
 những vị sống hành đạo và tùy hành đạo, và sẽ thành tựu những pháp ấy về
 sau".
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -315,11 +315,11 @@ Bodhi dịch, 1995). \ #strong[12-07-2004]]
 
 Gopaka Moggallana Sutta \ Moggallana the Guardsman
 
-#strong[#emph[translated by Bhikkhu Thanissaro]]
+#strong[translated by Bhikkhu Thanissaro]
 
 #divider()
 
-#strong[#emph[Translator's note:]] This discourse presents a picture of
+#strong[Translator's note:] This discourse presents a picture of
 life in the early Buddhist community shortly after the Buddha's passing
 away. On the one hand, it shows the relationship between the monastic
 community and the political powers that be: the monks are polite and

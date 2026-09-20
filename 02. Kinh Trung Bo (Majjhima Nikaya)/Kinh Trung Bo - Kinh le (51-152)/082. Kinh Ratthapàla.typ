@@ -722,7 +722,7 @@ thấy chính vậy, tôi xuất gia, \ Hạnh Sa-môn phải là tối thắng,
 
 Thưa Ðại vương!
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

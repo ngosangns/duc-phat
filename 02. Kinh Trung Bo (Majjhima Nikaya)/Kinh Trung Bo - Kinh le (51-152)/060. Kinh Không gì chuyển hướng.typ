@@ -42,7 +42,7 @@ pháp không gì chuyển hướng này được khéo thọ trì, khéo thành 
 đến hạnh phúc, an lạc lâu dài cho các Ông. Và này các Gia chủ, thế nào
 là pháp "không gì chuyển hướng"?
 
-#strong[#emph[\(I. Thuyết hư vô)]]
+#strong[\(I. Thuyết hư vô)]
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn có những lập thuyết như
 sau, có những quan điểm như sau: "Không có (kết quả của) bố thí, không
@@ -143,7 +143,7 @@ cõi đời này. Như vậy, "pháp không gì chuyển hướng" này được
 được thực hành đúng đắn, bởi vị này chấp nhận cả hai phía, và bỏ qua
 phía bất thiện pháp.
 
-#strong[#emph[\(II. Thuyết vô tác dụng)]]
+#strong[\(II. Thuyết vô tác dụng)]
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn, có lập thuyết như sau, có
 quan điểm như sau: "Tự làm hay khiến người làm, chém giết hay khiến
@@ -256,7 +256,7 @@ giới, cõi đời này. Như vậy, pháp "không gì chuyển hướng" này 
 trì, được thực hành đúng đắn, bởi vị này chấp nhận cả hai phía, và bỏ
 qua phía bất thiện pháp.
 
-#strong[#emph[\(III. Thuyết vô nhân duyên)]]
+#strong[\(III. Thuyết vô nhân duyên)]
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn có lập thuyết như sau, có
 quan điểm như sau: "Không có nhân, không có duyên, các loài hữu tình bị
@@ -354,7 +354,7 @@ này”. Như vậy, pháp "không gì chuyển hướng" này được chấp t
 hành đúng đắn, bởi vị này chấp nhận cả hai phía và bỏ qua phía bất thiện
 pháp.
 
-#strong[#emph[\(IV. Thuyết Không có cõi vô sắc)]]
+#strong[\(IV. Thuyết Không có cõi vô sắc)]
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn có luận thuyết như sau, có
 quan điểm như sau: "Tuyệt đối không thể có cõi vô sắc".
@@ -385,7 +385,7 @@ luận tranh, kháng tranh, ly gián ngữ, vọng ngữ đều được thấy.
 không có những sự việc này trong cõi vô sắc”. Do suy tư như vậy, vị ấy
 thành tựu sự yểm ly, sự ly tham, sự diệt tận các sắc pháp.
 
-#strong[#emph[\(V. Thuyết Không có Ðoạn diệt)]]
+#strong[\(V. Thuyết Không có Ðoạn diệt)]
 
 Này các Gia chủ, có một số Sa-môn, Bà-la-môn có lập thuyết như sau, có
 quan điểm như sau: "Không thể có một sự hữu diệt (Bhavanirodha) toàn
@@ -423,7 +423,7 @@ tham, gần với không kiết phược, gần với không ái lạc, gần v�
 trước, gần với không chấp thủ”. Do suy tư như vậy, vị ấy thành tựu sự
 yểm ly, sự vô tham, sự diệt tận đối với các hữu.
 
-#strong[#emph[\(Bốn hạng người)]]
+#strong[\(Bốn hạng người)]
 
 Này các Gia chủ, có bốn hạng người này có mặt ở trong đời. Thế nào là
 bốn? Ở đây, này các Gia chủ, có người tự hành khổ mình, chuyên tâm tự
@@ -678,7 +678,7 @@ chúng Tỷ-kheo Tăng. Mong Tôn giả Gotama chấp nhận cho chúng con làm
 những người cư sĩ. Từ nay cho đến mạng chung, chúng con xin trọn đời quy
 ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

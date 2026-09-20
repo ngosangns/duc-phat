@@ -144,7 +144,7 @@ Rồi Tôn giả Bakkula ngồi giữa chúng Tỷ-kheo nhập Niết-bàn.
 tôi thọ trì sự việc này là một hy hữu, một vị tằng hữu của Tôn giả
 Bakkula.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

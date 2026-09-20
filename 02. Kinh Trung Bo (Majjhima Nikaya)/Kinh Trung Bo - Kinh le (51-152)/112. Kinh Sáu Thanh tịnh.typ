@@ -300,7 +300,7 @@ vị sống Phạm hạnh như Tôn giả".
 Thế Tôn thuyết giảng như vậy. Các Tỷ-kheo hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

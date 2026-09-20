@@ -257,7 +257,7 @@ Khi nghe nói vậy, Tôn giả Abhiya Kaccana nói với thợ mộc Pancakanga
 -- Thật lợi ích thay cho Ông, này Cư sĩ, rằng Ông đã đoạn trừ được điều
 nghi ngờ từ trước, và cũng được dịp nghe pháp môn này.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

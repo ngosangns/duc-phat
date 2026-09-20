@@ -193,7 +193,7 @@ những lời giáo giới của Ta cho các Ông.
 Thế Tôn thuyết giảng như vậy. Tôn giả Ananda hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -208,7 +208,7 @@ Bodhi dịch, 1995). \ #strong[15-07-2004]]
 
 Indriya-bhavana Sutta \ The Development of the Faculties
 
-#strong[#emph[Translated by Bhikkhu Thanissaro]]
+#strong[Translated by Bhikkhu Thanissaro]
 
 #divider()
 

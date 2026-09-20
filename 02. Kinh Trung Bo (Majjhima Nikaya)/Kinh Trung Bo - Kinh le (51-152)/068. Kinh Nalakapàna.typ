@@ -261,7 +261,7 @@ Anuruddha, là hạnh phúc, là an lạc lâu đời cho các vị ấy.
 Thế Tôn thuyết giảng như vậy. Tôn giả Anurudda hoan hỷ tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

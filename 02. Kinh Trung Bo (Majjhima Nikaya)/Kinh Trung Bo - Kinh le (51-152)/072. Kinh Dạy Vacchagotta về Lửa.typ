@@ -262,7 +262,7 @@ quy y Tôn giả Gotama, quy y Pháp và quy y Tăng. Mong Tôn giả Gotama nh�
 con làm đệ tử, từ nay trở đi cho đến mạng chung, con xin trọn đời quy
 ngưỡng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -279,7 +279,7 @@ Bodhi dịch, 1995).]
 
 Aggi-Vacchagotta Sutta \ To Vacchagotta on Fire
 
-#strong[#emph[Translation by Bhikkhu Thanissaro]]
+#strong[Translation by Bhikkhu Thanissaro]
 
 #divider()
 

@@ -702,7 +702,7 @@ thuyết hợp pháp này Như Lai đã nói như vậy đưa đến sự tán t
 Thế Tôn thuyết giảng như vậy, các Tỷ-kheo hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

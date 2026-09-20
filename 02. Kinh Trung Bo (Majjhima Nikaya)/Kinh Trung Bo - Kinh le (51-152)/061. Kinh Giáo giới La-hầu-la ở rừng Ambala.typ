@@ -238,7 +238,7 @@ nghiệp". Như vậy, này Rahula, Ông cần phải tu học.
 Thế Tôn thuyết giảng như vậy. Tôn giả Rahula hoan hỷ, tín thọ lời Thế
 Tôn giảng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -255,7 +255,7 @@ Bodhi dịch, 1995).]
 
 Ambalatthikarahulovada Sutta \ Instructions to Rahula
 
-#strong[#emph[Translation by Bhikkhu Thanissaro]]
+#strong[Translation by Bhikkhu Thanissaro]
 
 For free distribution only, as a gift of Dhamma
 
@@ -444,7 +444,7 @@ Blessed One's words.
 
 #divider()
 
-#strong[#emph[Note:]]
+#strong[Note:]
 
 + Rahula: the Buddha's son, who according to the Commentary was seven
   years old when this discourse was delivered to him.

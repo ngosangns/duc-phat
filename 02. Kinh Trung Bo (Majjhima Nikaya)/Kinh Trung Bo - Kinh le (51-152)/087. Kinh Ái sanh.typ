@@ -253,7 +253,7 @@ bên vai, chắp tay vái Thế Tôn và nói lên ba lần lời cảm hứng s
 A-la-hán, Chánh Ðẳng Giác! Ðảnh lễ Thế Tôn, bậc A-la-hán, Chánh Ðẳng
 Giác!".
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -270,7 +270,7 @@ Bodhi dịch, 1995).]
 
 Piyajatika Sutta \ From One Who Is Dear
 
-#strong[#emph[Translation by Bhikkhu Thanissaro]]
+#strong[Translation by Bhikkhu Thanissaro]
 
 #divider()
 

@@ -208,7 +208,7 @@ thượng vị loại cứng và loại mềm, tặng cho mỗi Tỷ-kheo, mỗi
 tặng cho Tôn giả Ananda ba y và xây dựng một Tăng xá trị giá năm trăm
 đồng tiền vàng (hay có năm trăm Tăng phòng) cho Tôn giả Ananda.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

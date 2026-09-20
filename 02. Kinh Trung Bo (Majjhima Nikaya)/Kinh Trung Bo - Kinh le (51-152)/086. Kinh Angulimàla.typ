@@ -285,7 +285,7 @@ Giữa các chân lý được khéo giảng dạy, \ Chân lý ta theo, chân l
 thượng, \ Thiện lai ta đến, không đi lạc hướng, \ Không ai khuyên ta
 theo tư tưởng ác, \ Ba minh ta chứng, Phật lý viên thành.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

@@ -194,7 +194,7 @@ của nghiệp, \ Ta nói bố thí ấy \ Chắc chắn có quả lớn.]
 pháp. \ Với tâm khéo hoan hỷ, \ Với lòng tin vững vàng, \ Vào quả lớn
 của nghiệp, \ Ta nói bố thí ấy \ Là quảng đại tài thí.]
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

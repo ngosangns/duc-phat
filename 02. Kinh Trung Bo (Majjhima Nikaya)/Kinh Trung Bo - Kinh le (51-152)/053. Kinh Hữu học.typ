@@ -232,7 +232,7 @@ giảng hữu học đạo cho các Sakya (Thích ca) ở Kapilavatthu (Ca-tỳ-
 Tôn giả Ananda thuyết giảng như vậy, bậc Ðạo Sư ấn khả. Các vị Sakya ở
 Kapilavatthu hoan hỷ, tín thọ lời Tôn giả Ananda dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

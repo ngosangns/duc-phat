@@ -358,7 +358,7 @@ nói đến sự đoạn diệt?
 Thế Tôn thuyết giảng như vậy. Tôn giả Udayi hoan hỷ tín thọ lời Thế Tôn
 giảng.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

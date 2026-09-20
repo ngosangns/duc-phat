@@ -17,7 +17,7 @@ giả dối. Các dục hiện tại, và các dục tương lai, các dục tư
 và các dục tưởng tương lai, cả hai đều thuộc lãnh vực của ma, là cảnh
 giới của ma, là chỗ dinh dưỡng của ma, là chỗ ăn uống của ma.
 
-#strong[#emph[Bất động]]
+#strong[Bất động]
 
 Ở đây, các ác bất thiện ý này dẫn đến tham dục, sân hận, khích động, và
 chính những pháp ấy tác thành chướng ngại ở đây cho Thánh đệ tử học tập.
@@ -58,7 +58,7 @@ tình này xảy ra, thức diễn tiến ấy có thể tùy theo đây đạt 
 Như vậy, này các Tỷ-kheo được gọi là đệ tam hành đạo về lợi ích Bất
 động.
 
-#strong[#emph[Vô hữu xứ]]
+#strong[Vô hữu xứ]
 
 Lại nữa này các Tỷ-kheo, vị Thánh đệ tử suy nghĩ như sau: "Những dục
 hiện tại… và những sắc tưởng tương lai, và những bất động tưởng, tất cả
@@ -90,7 +90,7 @@ tình này xảy ra, thức diễn tiến ấy có thể tùy theo đây đạt 
 xứ. Như vậy, này các Tỷ-kheo được gọi là đệ tam hành đạo về lợi ích Vô
 sở hữu xứ.
 
-#strong[#emph[Phi tưởng, phi phi tưởng xứ]]
+#strong[Phi tưởng, phi phi tưởng xứ]
 
 Và lại nữa, này các Tỷ-kheo, vị Thánh đệ tử suy nghĩ như sau: "Những dục
 hiện tại.. và những sắc tưởng và những Bất động tưởng, và những Vô sở
@@ -104,7 +104,7 @@ tình này xảy ra, thức diễn tiến ấy có thể tùy theo đây đạt 
 phi phi tưởng xứ. Như vậy, này các Tỷ-kheo, được gọi là hành đạo về lợi
 ích Phi tưởng phi phi tưởng xứ.
 
-#strong[#emph[Niết-bàn]]
+#strong[Niết-bàn]
 
 Khi được nói như vậy, Tôn giả Ananda bạch Thế Tôn:
 
@@ -173,7 +173,7 @@ về sau. Ðây là lời dạy của Ta cho Ông.
 Thế Tôn thuyết giảng như vậy. Tôn giả Ananda hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

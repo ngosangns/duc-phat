@@ -247,7 +247,7 @@ này, được nói đến như vậy.
 Thế Tôn thuyết giảng như vậy. Các vị Tỷ-kheo ấy hoan hỷ tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

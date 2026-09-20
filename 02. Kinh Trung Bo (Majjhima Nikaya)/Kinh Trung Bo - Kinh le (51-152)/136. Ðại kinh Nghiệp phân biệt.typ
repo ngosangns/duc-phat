@@ -295,7 +295,7 @@ hữu, có nghiệp hữu tợ hữu, có nghiệp hữu tợ vô hữu.
 Thế Tôn thuyết giảng như vậy. Tôn giả Ananda hoan hỷ tín thọ lời Thế Tôn
 dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -310,11 +310,11 @@ Bodhi dịch, 1995). \ 15-07-2004]
 
 Mahakammavibhanga Sutta \ The Great Exposition of Kamma
 
-#strong[#emph[Translated from the Pali by Ñanamoli Thera]]
+#strong[Translated from the Pali by Ñanamoli Thera]
 
 #divider()
 
-#strong[#emph[Introduction]] (by Bhikkhu Khantipalo) \ This celebrated
+#strong[Introduction] (by Bhikkhu Khantipalo) \ This celebrated
 sutta shows some of the complexities of kamma and its results. Beginning
 with a strange view expressed by a confused wanderer and a confused
 answer given by a bhikkhu, the Buddha then gives his Great Exposition of

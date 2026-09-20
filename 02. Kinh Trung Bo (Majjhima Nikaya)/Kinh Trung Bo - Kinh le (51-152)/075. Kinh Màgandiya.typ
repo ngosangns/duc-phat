@@ -454,7 +454,7 @@ sẽ không có đời sống khác nữa". Tôn giả Magandiya hiểu biết n
 
 Và Tôn giả Magandiya trở thành một vị A-la-hán nữa.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -475,7 +475,7 @@ To Magandiya
 
 \(excerpt)
 
-#strong[#emph[Translation by Bhikkhu Thanissaro]]
+#strong[Translation by Bhikkhu Thanissaro]
 
 #divider()
 

@@ -234,7 +234,7 @@ thắng, là bậc Sa-môn thành đạt tối thượng, vô năng thắng.
 Thế Tôn thuyết giảng như vậy. Thợ mộc Pancakanga hoan hỷ tín thọ lời Thế
 Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 

@@ -330,7 +330,7 @@ hay để tâm đến sanh y, sự tình như vậy không xảy ra.
 Thế Tôn thuyết giảng như vậy. Sunakkhatta Licchaviputta hoan hỷ tín thọ
 lời Thế Tôn dạy.
 
-#strong[#emph[Hòa thượng Thích Minh Châu dịch Việt]]
+#strong[Hòa thượng Thích Minh Châu dịch Việt]
 
 #divider()
 
@@ -347,7 +347,7 @@ Bodhi dịch, 1995).]
 
 Sunakkhatta Sutta \ To Sunakkhatta
 
-#strong[#emph[Translated by Bhikkhu Thanissaro]]
+#strong[Translated by Bhikkhu Thanissaro]
 
 #divider()
 
