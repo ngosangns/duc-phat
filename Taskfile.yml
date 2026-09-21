@@ -1,0 +1,23 @@
+version: '3'
+
+vars:
+  JOBS:
+    sh: sysctl -n hw.ncpu 2>/dev/null || nproc
+
+tasks:
+  build:
+    desc: Compile every .typ file to its sibling .pdf (parallel, one-shot)
+    cmds:
+      - find . -name "*.typ" -not -path "./.git/*" -print0 | xargs -0 -P {{.JOBS}} -n1 typst compile
+    silent: false
+
+  dev:
+    desc: Build once, then watch all .typ files and hot-recompile whichever one changes
+    cmds:
+      - task: build
+      - bash scripts/watch-dev.sh
+
+  clean:
+    desc: Remove all generated PDFs
+    cmds:
+      - find . -name "*.pdf" -not -path "./.git/*" -delete
