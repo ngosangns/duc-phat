@@ -21,17 +21,23 @@ Người duy trì kho **không chịu trách nhiệm** nếu bản dịch sai, l
 
 Phạm vi: Trường Bộ, Trung Bộ, Tương Ưng Bộ, Tăng Chi Bộ, Tiểu Bộ (tuyển), Luật tạng (tuyển, không gồm Tập Yếu).
 
+## Đọc trên web
+
+- https://kinh.gnas.dev
+- https://gn-duc-phat.pages.dev
+
 ## Đọc trên máy
 
 Cần [Typst](https://typst.app/) ≥ 0.15, [Task](https://taskfile.dev/), và Node 20+ nếu chạy site.
 
 ```bash
-task web:dev    # site đọc: http://localhost:5173
-task build      # biên mọi file .typ thành PDF cạnh file nguồn
-task dev        # biên rồi theo dõi, biên lại khi sửa .typ
+task web:dev     # site đọc local: http://localhost:5173
+task web:deploy  # biên rồi đẩy lên Cloudflare Pages
+task build       # biên mọi file .typ thành PDF cạnh file nguồn
+task dev         # biên rồi theo dõi, biên lại khi sửa .typ
 ```
 
-Lần đầu `task web:dev` sẽ compile Typst sang HTML (vài chục giây). Chi tiết site: [`web/README.md`](web/README.md).
+Lần đầu `task web:dev` sẽ compile Typst sang HTML (vài chục giây). Chi tiết site: [`web/README.md`](web/README.md). Deploy dùng Wrangler + `CLOUDFLARE_API_TOKEN` (project `gn-duc-phat`).
 
 ## Bản dịch độc lập
 

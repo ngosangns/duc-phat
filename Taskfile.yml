@@ -36,6 +36,12 @@ tasks:
       - npm --prefix web install
       - npm --prefix web run build
 
+  web:deploy:
+    desc: Build and deploy the reading site to Cloudflare Pages
+    cmds:
+      - task: web
+      - wrangler pages deploy web/dist --project-name gn-duc-phat --branch main --commit-dirty=true
+
   clean:
     desc: Remove all generated PDFs
     cmds:

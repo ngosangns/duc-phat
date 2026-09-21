@@ -2,6 +2,8 @@
 
 Site tĩnh: kệ sách mở ra mặt đọc kiểu giấy. Nguồn là các file Typst ở thư mục gốc của repo; pipeline không sửa file `.typ`.
 
+Bản đang chạy: https://kinh.gnas.dev (cũng có https://gn-duc-phat.pages.dev).
+
 ## Chạy local
 
 Từ gốc repo (cần `typst` ≥ 0.15 và Node 20+):
@@ -19,7 +21,7 @@ python3 scripts/build-web.py --only vn/dn
 cd web && npm install && npm run dev
 ```
 
-Bản production: `task web` → `web/dist/`.
+Bản production: `task web` → `web/dist/`. Đẩy Cloudflare Pages: `task web:deploy`.
 
 ## Cấu trúc
 
