@@ -53,6 +53,8 @@ def part_body(parts: Path, pack: str):
 
 def split_into_units(body: str, nsecs):
     """Tách thân bài thành khối theo từng đơn vị (số đoạn đếm lại từ 1 mỗi đơn vị)."""
+    if not nsecs:
+        return [], []
     blocks = [[] for _ in nsecs]
     u, seen, warns = 0, 0, []
     for line in body.split("\n"):
@@ -95,6 +97,11 @@ def main():
             for v in s["vaggas"]:
                 pack = v["pack"]
                 if args.only and not pack.startswith(args.only):
+                    continue
+                if not v["sections"]:
+                    # Vagga rỗng: bản Pali nguồn chỉ còn lại một mốc chỉ dẫn
+                    # trùng tụng, không có kinh/đoạn riêng để dịch; nội dung
+                    # mốc này được dịch kèm vào vagga liền trước.
                     continue
                 ptext = (args.packs / sub / f"{pack}.txt").read_text(encoding="utf-8")
                 pc = pack_counts(ptext)

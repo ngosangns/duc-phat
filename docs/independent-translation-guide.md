@@ -367,3 +367,149 @@ chánh mạng/chánh tinh tấn/chánh niệm/chánh định".
 5. Chạy kiểm tra lỗi markup ở mục 6, biên dịch thử.
 6. Báo tiến độ cụ thể (đã xong đoạn nào, còn lại gì) trước khi tiếp tục
    sang phần/kinh kế tiếp.
+
+## 13. Riêng Kinh Tiểu Bộ: pipeline script cho 9 tập nguồn
+
+Tiểu Bộ trong thư viện này gồm 9 tập Pali nguồn (không có Theragāthā,
+Therīgāthā, Jātaka, Niddesa, Paṭisambhidāmagga, Apadāna). Đơn vị dịch là
+**từng kinh / chuyện / chương / phẩm kệ**, ghi thành file `.part` riêng.
+
+Dựng gói nguồn:
+
+```bash
+python3 scripts/extract-kn-suttas.py
+```
+
+Xuất `.build/kn/<kp|dhp|ud|it|snp|vv|pv|bv|cp>/` kèm `index.json`. Số đoạn
+`#super[N]` **đếm lại từ 1 trong từng đơn vị**, trừ **Pháp Cú**: giữ số kệ
+toàn cục 1–423. Tên tiếng Việt lấy từ `scripts/kn-titles.tsv` (cột
+`book \t số \t tên Việt \t tên Pali`), sinh lần đầu bằng
+`python3 scripts/kn-title-map.py` — **không tự đặt tên khác**.
+
+Ghép tập:
+
+```bash
+python3 scripts/assemble-kn-translation.py
+python3 scripts/check-kn-parts.py
+```
+
+Đích: `08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)/`,
+chín file `.typ` cùng tên với Pali nguồn. Marker trong gói nguồn giống
+Trường Bộ / Trung Bộ (`[§N]`, `[TIỂU ĐỀ]`, `[MỐC KẾT]`, `[TIẾP §N]`,
+`[MỞ ĐẦU]`, `[PHẦN CUỐI]`). Kệ dịch thành câu thơ Việt, ngắt dòng bằng
+` \ ` như bản Tương Ưng Bộ. Tên riêng Pali giữ nguyên. Mọi `\[...\]` là
+dị bản — bỏ, không dịch. `…pe…` nén theo mục 4.
+
+Nếu dịch song song, mỗi agent chỉ ghi file `.part` của mình; bắt buộc có
+vòng hậu kiểm độc lập đối chiếu từng gói nguồn (mục 8).
+
+## 14. Riêng Kinh Tăng Chi Bộ: pipeline script (11 nipāta, cấu trúc khác hẳn)
+
+Tăng Chi Bộ (Aṅguttara Nikāya, 11 file Pali nguồn = 11 nipāta: Ekaka "Một
+Pháp" đến Ekādasaka "Mười Một Pháp", tổng ~59.700 dòng Pali) có cấu trúc
+khác hẳn Trường Bộ/Trung Bộ/Tương Ưng Bộ, cần script trích xuất riêng
+(`scripts/extract-an-suttas.py`, không dùng chung `extract-pali-suttas.py`):
+
+- **Rất nhiều vagga (`==`) hoàn toàn không có tiêu đề kinh (`===`).** Mỗi
+  kinh khi đó chỉ là một mục `+ ` trần trong một khối enum liên tục xuyên
+  suốt cả nipāta. Số bắt đầu qua `#set enum(..., start: N)` chính là số thứ
+  tự kinh trong nipāta (khớp "Paṭhamaṃ/Dutiyaṃ..." ghi cuối mỗi kinh) — đây
+  **không phải lỗi convert** như trường hợp Trung Bộ, mà là cách đánh số
+  thật của bản nguồn, dùng thẳng làm số trích dẫn "AN nipāta.n".
+- **Quy tắc đã kiểm chứng qua khảo sát toàn bộ 11 file:** một vagga hoặc
+  HOÀN TOÀN có tiêu đề (mọi kinh đều `=== `) hoặc HOÀN TOÀN không có tiêu đề
+  nào — không trộn lẫn. Nhờ vậy script không cần đoán: hễ gặp mục `+ ` không
+  nằm trong kinh có tiêu đề đang mở, đó luôn là một kinh **không tên** mới.
+- **Đoạn "trùng tụng nén"**: nhiều chỗ (đặc biệt từ Sattakanipāta trở lên,
+  và cuối Ekaka/Dukanipāta) bản Pali không viết ra từng kinh mà nén hàng
+  trăm kinh công thức lặp (chỉ khác từ khoá) thành MỘT đoạn văn xuôi mở đầu
+  bằng dải số, vd. `96-622. ...pe...`, `503-511. ...`. Script coi mỗi đoạn
+  như vậy là một "kinh"/nhóm riêng (element `RANGE_PARA`), **không** tách
+  nhỏ ra hàng trăm bản dịch gần giống hệt nhau — dịch gọn giữ đủ ý nghĩa,
+  đúng tinh thần mục 4. Trích dẫn ghi dạng khoảng "AN n.a–n.b".
+- **Nhãn cấu trúc lẫn vào enum** (`Paṭhamapaṇṇāsakaṃ` = "Năm mươi kinh đầu",
+  `Rāgapeyyālaṃ` = tên một khối peyyāla...): các mục `+ ` này không phải nội
+  dung kinh, script nhận diện qua hậu tố (`paṇṇāsakaṃ`/`peyyālaṃ`/`vaggo`)
+  và dồn làm tiểu đề cho kinh/nhóm kế tiếp thay vì tạo một "kinh" rỗng.
+- **Vagga lồng nhau**: riêng Etadaggavaggo của Ekakanipāta (danh sách đệ tử
+  đứng đầu mỗi lĩnh vực) tự chia thành nhiều tiểu-vagga đánh số lại từ 1
+  ("== 1. Paṭhamavaggo"...) NẰM TRONG vagga 14 — script phát hiện qua việc
+  số vagga mới ≤ số vagga cấp cao hiện tại thì coi là tiểu-vagga, giữ
+  nguyên vagga_no/tên cấp cao thay vì mở vagga mới (tránh trùng số vagga).
+- Đã sửa 2 lỗi convert thật trong nguồn (tiêu đề vagga dính liền vào đoạn
+  văn kế tiếp trên cùng một dòng, thiếu xuống dòng): Ekakanipāta dòng 1529
+  (`Pasādakaradhammavaggo`) và Ekādasakanipāta dòng 1470 (`Sāmaññavaggo`).
+
+### 14.1. Trích xuất
+
+```bash
+python3 scripts/extract-an-suttas.py \
+    "07. Tam Tạng Pali Gốc/04. Tăng Chi Bộ (Anguttaranikaya)/01. Ekakanipata (Một Pháp).typ" \
+    .build/an/1 --prefix AN1
+```
+
+Chạy cho cả 11 file (`--prefix AN1`...`AN11`, thư mục đích `.build/an/1`...
+`.build/an/11`). Xuất gói nguồn `AN{nipāta}_{0000}.txt` (đánh số theo thứ tự
+gặp trong file, khớp số trích dẫn) và `index.json`. Không có cảnh báo nào
+khi chạy trên cả 11 file ở lần kiểm tra gần nhất — 1939 kinh/nhóm, ~2,75
+triệu ký tự Pali.
+
+### 14.2. Marker trong gói nguồn
+
+Giống bảng ở mục 11.1 (Tương Ưng Bộ): `[§N]`, `[TIẾP §N]`, `[MỞ ĐẦU]`,
+`[TIỂU ĐỀ]`, `[MỐC KẾT]`. Phần lớn kinh Tăng Chi Bộ chỉ có **đúng 1 đoạn**
+(`[§1]`) vì bản Pali nguồn chỉ đánh dấu `+ ` một lần cho cả kinh (mở đầu),
+phần văn xuôi tiếp theo không có `+ ` riêng nên gộp vào §1 theo đúng quy ước
+mục 3. Một số kinh dài (đặc biệt trong Dasaka/Ekādasakanipāta liệt kê nhiều
+điểm) có nhiều `[§N]` thật.
+
+### 14.3. Tên tiếng Việt
+
+- `scripts/an-vagga-titles.tsv`: `nipāta \t số vagga \t tên Việt` (không
+  gồm tên Pali — lấy trực tiếp từ `index.json`).
+- `scripts/an-titles.tsv`: `nipāta \t số kinh (global_no) \t tên Việt` — CHỈ
+  cho kinh có tiêu đề `===` trong bản gốc (`titled: true` trong index). Kinh
+  không tên thì không đặt tên Việt, chỉ in số trích dẫn "AN n.m".
+
+### 14.4. Ghép tập
+
+```bash
+python3 scripts/assemble-an-translation.py --nipata 1 \
+    --packs .build/an/1 \
+    --parts "08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)/.parts" \
+    --out "08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)"
+```
+
+Ghép 1 nipāta mỗi lần chạy (11 file đích, tên trùng file Pali nguồn). Dịch
+từng kinh thành `.parts/AN{nipāta}_{0000}.part` (chỉ thân bài, `#super[N]`
+như các bộ khác). Script tự sinh tiêu đề vagga, tiêu đề/trích dẫn kinh, dòng
+báo tiến độ, và kiểm tra dãy `#super[N]` từng kinh so với gói nguồn.
+
+### 14.5. Tiến độ (cập nhật mỗi phiên)
+
+- **Nipāta 1 (Ekakanipāta): đã dịch trọn 323/323 kinh/nhóm** (18 vagga —
+  vagga 15/16 không tồn tại tách riêng trong bản nguồn, đã gộp vào 14 và
+  17 đúng như cấu trúc thật). Biên dịch Typst thành công, không lệch
+  `#super[N]`, không lỗi markup. Tên Việt 18 vagga đã điền trong
+  `scripts/an-vagga-titles.tsv`. Toàn bộ nipāta không có kinh nào có tiêu
+  đề `===` (đúng đặc điểm Ekakanipāta — mọi kinh đều "không tên"), nên
+  không cần `scripts/an-titles.tsv` cho tập này.
+- Nipāta 2–11: chưa bắt đầu dịch, nhưng đã trích xuất thử toàn bộ 11 file,
+  không có cảnh báo (tổng 1939 kinh/nhóm toàn bộ Tăng Chi Bộ, trong đó
+  323 đã dịch xong ở Ekakanipāta, còn lại ~1616).
+- **Lưu ý phát sinh trong lúc dịch Ekakanipāta, áp dụng cho các nipāta
+  sau:**
+  - Nhãn cấu trúc dạng `+ Xpāḷi` (vd. `Aṭṭhānapāḷi`, `Ekadhammapāḷi` — tên
+    các "tiểu tập" trong nipāta) cũng cần được `LABEL_ITEM` nhận diện
+    giống `paṇṇāsakaṃ`/`peyyālaṃ`/`vaggo` — đã thêm hậu tố `pāḷi` vào
+    script.
+  - MARK regex (`niṭṭhit|samatta`) có thể dính false-positive khi từ
+    "samatta" xuất hiện trong một đoạn colophon nối liền ngay sau câu kết
+    thật của kinh cuối cùng một nipāta (đã gặp ở kinh cuối Ekakanipāta,
+    KINH 323) — trường hợp này hiếm (1 lần/nipāta), xử lý thủ công khi
+    dịch thay vì sửa script.
+  - Bên trong một vagga cấp cao (`==`) không có tiêu đề `===`, có thể tồn
+    tại các tiểu-vagga lồng đánh số lại từ 1 (vd. `Etadaggavaggo` của
+    Ekakanipāta chứa 7 tiểu-vagga "Paṭhamavaggo"..."Sattamavaggo") — script
+    đã xử lý bằng cách giữ nguyên vagga_no/tên cấp cao khi gặp số vagga
+    mới ≤ số vagga cấp cao hiện tại (xem mục 14 ở trên).

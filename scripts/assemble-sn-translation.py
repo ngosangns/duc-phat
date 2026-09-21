@@ -154,6 +154,11 @@ def main():
             chunks.append(f"== Saṃyutta {s_no}. {s_vi} ({s_pali})\n")
             offset = 0        # số kinh đã đi qua trong saṃyutta này
             for vag in sam["vaggas"]:
+                if not vag["sections"]:
+                    # Vagga rỗng: bản Pali nguồn chỉ còn lại một mốc chỉ dẫn
+                    # trùng tụng (không có kinh/đoạn riêng); nội dung mốc này
+                    # đã được dịch kèm vào phần thân của vagga liền trước.
+                    continue
                 if not (vag["no"] is None and len(sam["vaggas"]) == 1):
                     v_vi = vag_titles.get((s_no, vag["index"]), "")
                     v_pali = vag["name"] or ""

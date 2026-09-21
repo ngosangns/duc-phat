@@ -1526,7 +1526,9 @@ Jambudīpapeyyālo niṭṭhito.
 
 Ekadhammapāḷi soḷasamo.
 
-== 17. Pasādakaradhammavaggo 366-381. ‘‘Addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ āraññikattaṃ \[araññakattaṃ (sabbattha)\]
+== 17. Pasādakaradhammavaggo
+
+366-381. ‘‘Addhamidaṃ, bhikkhave, lābhānaṃ yadidaṃ āraññikattaṃ \[araññakattaṃ (sabbattha)\]
 …pe… piṇḍapātikattaṃ… paṃsukūlikattaṃ… tecīvarikattaṃ…
 dhammakathikattaṃ… vinayadharattaṃ \[vinayadharakattaṃ (syā. kaṃ. pī.
 ka.)\] … bāhusaccaṃ… thāvareyyaṃ… ākappasampadā… parivārasampadā…

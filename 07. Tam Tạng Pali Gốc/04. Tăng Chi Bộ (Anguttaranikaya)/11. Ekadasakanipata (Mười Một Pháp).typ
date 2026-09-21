@@ -1467,7 +1467,9 @@ Tassuddānaṃ --
 Dve vuttā mahānāmena, nandiyena subhūtinā; Mettā aṭṭhako gopālo, cattāro
 ca samādhināti.
 
-== 3. Sāmaññavaggo 22-29. ‘‘Ekādasahi, bhikkhave, aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ
+== 3. Sāmaññavaggo
+
+22-29. ‘‘Ekādasahi, bhikkhave, aṅgehi samannāgato gopālako abhabbo gogaṇaṃ pariharituṃ
 phātiṃ kātuṃ. Katamehi ekādasahi? Idha, bhikkhave, gopālako na rūpaññū
 hoti, na lakkhaṇakusalo hoti, na āsāṭikaṃ hāretā hoti, na vaṇaṃ
 paṭicchādetā hoti, na dhūmaṃ kattā hoti, na titthaṃ jānāti, na pītaṃ
