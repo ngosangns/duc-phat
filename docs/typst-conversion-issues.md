@@ -83,6 +83,66 @@ không đậm, không khác gì văn xuôi xung quanh — dễ đọc lướt qu
   không cần nâng thành heading thật (sẽ làm mục lục `#outline()` quá dài nếu mỗi
   kinh có 3-6 mốc).
 
+## 5. Tên Nikāya bị chép nhầm từ file mẫu khác
+
+**Mô tả:** Phát hiện khi gộp Kinh Trung Bộ: dòng phụ đề đầu file ghi
+`KINH TRUNG BỘ Ðại Tạng Kinh Việt Nam Dìgha Nikàya` — "Dìgha Nikàya" là
+tên gọi khác của Kinh Trường Bộ, không phải Trung Bộ (Majjhima Nikàya).
+Rõ ràng dòng banner này được sao chép từ file Trường Bộ rồi sửa tên kinh
+nhưng quên sửa tên Nikāya tiếng Pāḷi đi kèm.
+
+- **Cách phát hiện:** đọc kỹ 3-5 dòng đầu file, đối chiếu tên bộ kinh với
+  tên Nikāya Pāḷi ghi kèm — chúng phải khớp nhau (Trường Bộ = Dīgha,
+  Trung Bộ = Majjhima, Tương Ưng Bộ = Saṃyutta, Tăng Chi Bộ = Aṅguttara,
+  Tiểu Bộ = Khuddaka).
+- **Lưu ý:** những chỗ nhắc "Kinh Trường Bộ (Digha Nikàya)" xuất hiện
+  TRONG nội dung lời tựa (ví dụ dịch giả kể lại đã dịch xong Trường Bộ
+  trước khi dịch Trung Bộ) là đúng, không phải lỗi — chỉ dòng banner tiêu
+  đề ở đầu file mới cần khớp tên bộ kinh của chính file đó.
+
+## 6. Gạch thoại đơn bị hỏng thành gạch dưới (`\_`)
+
+**Mô tả:** Một biến thể khác của lỗi "gạch thoại bị mất": thay vì mất
+hẳn dấu gạch, ký tự bị hỏng thành gạch dưới có escape: `"\_ Thưa có
+nghe, Tôn giả".` thay vì `"-- Thưa có nghe, Tôn giả".`. Phát hiện được
+nhờ đối chiếu với các dòng thoại liền kề cùng mẫu hội thoại qua lại.
+
+- **Cách phát hiện:** `grep -n "\"\\\\_ " file.typ` — nhưng vì đây là lỗi
+  hiếm/cá biệt (không phải lỗi hệ thống lặp lại), nên rà bằng mắt khi
+  đọc PDF render là cách chắc ăn nhất, để ý những chỗ văn bản hiển thị
+  ký tự `_` giữa câu.
+
+## 7. Thiếu nguyên cả một bài kinh trong nguồn gốc
+
+**Mô tả:** Khi gộp Kinh Trung Bộ, phát hiện kinh 37 (Tiểu kinh Đoạn tận
+ái/Cùlatanhàsankhaya sutta) hoàn toàn vắng mặt — nội dung nhảy thẳng từ
+kinh 36 sang kinh 38, không phải lỗi convert mà là thiếu sót có sẵn
+trong bản số hoá gốc (không tìm thấy dấu vết nội dung ở bất kỳ đâu trong
+thư viện, kể cả bản Pāḷi gốc).
+
+- **Cách phát hiện:** không có cách rà tự động đáng tin cậy — chỉ phát
+  hiện được khi đối chiếu số thứ tự kinh liên tiếp lúc gộp/đọc kỹ, hoặc
+  khi số heading tìm được ít hơn số kinh công bố trong tựa đề/mục lục.
+- **Cách xử lý:** không tự chế bản dịch. Ghi chú rõ tại đúng vị trí thiếu
+  (heading vẫn giữ đúng số + tên kinh, nội dung thay bằng một dòng
+  `#emph[...]` giải thích thiếu bản dịch) để mục lục vẫn đủ 152 kinh và
+  người đọc biết đây là thiếu sót đã được ghi nhận, không phải sai sót
+  khi biên tập.
+
+## 8. Nội dung tiếng Anh đính kèm không nhất quán
+
+**Mô tả:** ~24/102 file kinh lẻ (Trung Bộ 51-152) có kèm thêm bản dịch
+song song tiếng Anh hoặc phần giới thiệu/chú giải tiếng Anh (đánh dấu
+bằng `#strong[Majjhima Nikaya N]` hoặc `Introduction (by ...)`), phần
+còn lại thì không — không nhất quán giữa các kinh. Quyết định khi gộp
+Trung Bộ: **bỏ phần tiếng Anh, chỉ giữ bản dịch tiếng Việt**, cắt tại
+`#divider()` cuối cùng đứng ngay trước dòng đánh dấu tiếng Anh.
+
+- **Cách phát hiện:** `grep -l "Majjhima Nikaya [0-9]\|Introduction (by" *.typ`
+- Đây là quyết định về nội dung (không phải cú pháp), áp dụng cho lần gộp
+  này — nếu gộp file khác có cùng kiểu nội dung đính kèm không nhất quán,
+  nên hỏi lại người dùng thay vì tự ý áp dụng cùng quyết định.
+
 ## Không phải lỗi (đã kiểm chứng, khỏi mất công sửa)
 
 - Số dấu ngoặc kép mở "“" nhiều hơn đóng "”": quy ước trích dẫn nhiều đoạn (mở lại
