@@ -2,7 +2,7 @@
 
 Site tĩnh: kệ sách mở ra mặt đọc kiểu giấy. Nguồn là các file Typst ở thư mục gốc của repo; pipeline không sửa file `.typ`.
 
-Bản đang chạy: https://kinh.gnas.dev (cũng có https://gn-duc-phat.pages.dev).
+Bản đang chạy: https://phat.gnas.dev (cũng có https://gn-duc-phat.pages.dev).
 
 ## Chạy local
 

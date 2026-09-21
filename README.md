@@ -23,7 +23,7 @@ Phạm vi: Trường Bộ, Trung Bộ, Tương Ưng Bộ, Tăng Chi Bộ, Tiểu
 
 ## Đọc trên web
 
-- https://kinh.gnas.dev
+- https://phat.gnas.dev
 - https://gn-duc-phat.pages.dev
 
 ## Đọc trên máy
