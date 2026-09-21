@@ -1,3 +1,5 @@
+#set page(numbering: "1")
+
 = Kinh Trường Bộ (Dīgha Nikāya) --- Trọn bộ (34 kinh)
 KINH TRƯỜNG BỘ Dìgha Nikàya “The Long Discourses Of The Buddha” Hòa
 Thượng Thích Minh Châu Việt Dịch
@@ -74,7 +76,7 @@ Cường Trưởng ban Từ vựng Phật học: Cư sĩ Minh Chi
 
 == TẬP I
 === 1. KINH PHẠM VÕNG (Brahmajàla Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vầy tôi nghe. Một thời, Thế Tôn đang đi trên con đường giữa
   Ràjagaha (Vương Xá) và Nalandà, cùng với đại chúng Tỷ-kheo khoảng năm
@@ -136,7 +138,7 @@ Nghe nói như vậy, các Tỷ-kheo bạch Thế Tôn:
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ - Này các Tỷ-kheo, nếu có người hủy báng Ta, hủy báng Pháp hay hủy
++ -- Này các Tỷ-kheo, nếu có người hủy báng Ta, hủy báng Pháp hay hủy
     báng Tăng, các ngươi chớ có vì vậy sanh lòng công phẫn, tức tối, tâm
     sanh phiền muộn. Này các Tỷ-kheo, nếu có người hủy báng Ta,
 ]
@@ -614,7 +616,7 @@ có luận chấp nào khác nữa.
   những ai như thật chân chánh tán thán Như Lai mới nói đến.
 ]
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 + Này các Tỷ-kheo, lại có những Sa-môn, Bà-la-môn, chủ trương một phần
   Thường trú luận, một phần Vô thường luận, chấp bản ngã và thế giới là
@@ -1211,7 +1213,7 @@ biệt. Những pháp ấy Như Lai đã tự chứng tri, giác ngộ và truy�
 Và chính những pháp ấy, những ai như thật chân chánh tán thán Như Lai
 mới nói đến.
 
-Tụng Phẩm III
+#strong[Tụng Phẩm III]
 
 + Này các Tỷ-kheo, có một số Sa-môn, Bà-la-môn, chủ trương Vô tưởng luận
   sau khi chết, chấp bản ngã không có tưởng sau khi chết với tám luận
@@ -1969,7 +1971,7 @@ sự trầm lặng như sự trầm lặng của các vị Tỷ-kheo này vậy�
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ - Cũng như các công nghệ chức nghiệp này, như điều tượng sư, điều mã
++ -- Cũng như các công nghệ chức nghiệp này, như điều tượng sư, điều mã
     sư, xa thuật sư, quân thuật sư, quân kỳ binh, nguyên súy, chiến sĩ,
     thượng sĩ quan, thám tử, dõng sĩ can đảm như voi chúa, anh hùng,
     trang giáp binh, nô lệ xuất thân, hỏa đầu quân, thợ hớt tóc, người
@@ -1984,7 +1986,7 @@ sự trầm lặng như sự trầm lặng của các vị Tỷ-kheo này vậy�
     hệ đến thiên giới, thọ hưởng phước báo an lạc, thác sanh lên cõi
     trời. Bạch Thế Tôn, Ngài có thể chỉ cho rõ ràng kết quả thiết thực,
     hiện tại của hạnh Sa-môn chăng?
-+ - Này Ðại vương, Ðại vương có nhớ đã hỏi câu hỏi ấy với các vị Sa-môn,
++ -- Này Ðại vương, Ðại vương có nhớ đã hỏi câu hỏi ấy với các vị Sa-môn,
     Bà-la-môn khác chăng?
 ]
 
@@ -2000,7 +2002,7 @@ sự trầm lặng như sự trầm lặng của các vị Tỷ-kheo này vậy�
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ - Bạch Thế Tôn, một thời con đến Pùrana Kassapa, khi đến nơi, con nói
++ -- Bạch Thế Tôn, một thời con đến Pùrana Kassapa, khi đến nơi, con nói
     lên những lời đón chào, chúc tụng thân hữu và xã giao với Pùrana
     Kassapa và ngồi xuống một bên. Sau khi ngồi xuống một bên, con nói
     với Pùrana Kassapa: “Ngài Kassapa, cũng như các công nghệ, chức
@@ -2316,7 +2318,7 @@ thế. Tôi không nói là không không phải như thế.”
   công việc, dậy sớm, thức khuya, thi hành mọi mệnh lệnh của chủ, làm
   đẹp lòng mọi người, lời nói kính ái chú ý từng nét mặt?”
 
-+ - Bạch Thế Tôn, không như vậy. Trái lại chúng con kính lễ người ấy,
++ -- Bạch Thế Tôn, không như vậy. Trái lại chúng con kính lễ người ấy,
     đứng dậy trước người ấy, mời
 ]
 
@@ -2335,7 +2337,7 @@ vệ, che chở người ấy đúng theo luật pháp.
 
 #block[
 #set enum(numbering: "1.", start: 37)
-+ - Bạch Thế Tôn, có thể cho biết một kết quả thiết thực hiện tại khác
++ -- Bạch Thế Tôn, có thể cho biết một kết quả thiết thực hiện tại khác
     hơn nữa của hạnh Sa-môn?
 ]
 
@@ -2365,7 +2367,7 @@ vệ, che chở người ấy đúng theo luật pháp.
 
 #block[
 #set enum(numbering: "1.", start: 38)
-+ - Bạch Thế Tôn, không như vậy. Trái lại chúng con kính nể người ấy,
++ -- Bạch Thế Tôn, không như vậy. Trái lại chúng con kính nể người ấy,
     đứng dậy trước người ấy, mời người ấy ngồi xuống ghế, cúng dường
     người ấy các dụng cụ như y, đồ ăn khất thực, sàng tọa, thuốc men trị
     bịnh. Và chúng con sẽ ra lệnh để bảo vệ, che chở người ấy đúng theo
@@ -2396,7 +2398,7 @@ vệ, che chở người ấy đúng theo luật pháp.
 
 #block[
 #set enum(numbering: "1.", start: 40)
-+ - Này Ðại vương, nay ở đời, Như Lai xuất hiện là bậc A-la-hán, Chánh
++ -- Này Ðại vương, nay ở đời, Như Lai xuất hiện là bậc A-la-hán, Chánh
     Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ,
     Ðiều Ngự Trượng Phu, Thiên Nhơn Sư, Phật, Thế Tôn. Như Lai sau khi
     riêng tự chứng ngộ với thượng trí thế giới này với thiên giới, ma
@@ -3162,7 +3164,7 @@ hạnh Sa-môn này.
   vương quyền. Mong Thế Tôn nhận cho con tội ấy là một tội để con ngăn
   chận về tương lai”.
 
-+ - Ðại vương, thật là một trọng tội. Vì ngu si, vì vô minh, vì bất
++ -- Ðại vương, thật là một trọng tội. Vì ngu si, vì vô minh, vì bất
     thiện, Ðại vương đã hại mạng phụ vương, một vị vua chơn chánh, để
     đoạt vương quyền. Vì Ðại vương đã thấy tội ấy là một tội, đã thú tội
     đúng với Chánh pháp, Ta nhận tội ấy cho Ðại vương. Ðó là một sự tiến
@@ -3197,7 +3199,7 @@ dạy.
 #divider()
 
 === 3. KINH AMBATTHA (A-MA-TRÚ) (Ambattha Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vầy tôi nghe. Một thời Thế Tôn đang du hành tại nước Kosala
   (Câu-tát-la), cùng với Ðại chúng Tỷ-kheo khoảng năm trăm vị và đến tại
@@ -3247,7 +3249,7 @@ Pasenadi (Ba-tư-nặc) cấp cho để hưởng một phần lợi tức.
   lời đồn về Tôn giả Gotama là như vậy hay không phải như vậy. Nhờ vậy,
   chúng ta sẽ được biết về Tôn giả Gotama”.
 
-+ - Làm thế nào con được biết về Tôn giả Gotama, được biết lời đồn về
++ -- Làm thế nào con được biết về Tôn giả Gotama, được biết lời đồn về
     Tôn giả Gotama như vậy là đúng hay không, có phải Tôn giả Gotama là
     như vậy, hay không phải như vậy?
 ]
@@ -3269,7 +3271,7 @@ thuật ấy.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ - Thưa vâng.
++ -- Thưa vâng.
 ]
 
 Thanh niên Ambattha vâng theo lời của Bà-la-môn Pokkharasàdi, từ chỗ
@@ -3320,7 +3322,7 @@ Icchànankala. Ði xe đến chỗ không còn đi được xe, Ambattha liền 
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ - Này Ambattha, hình như ngươi đến đây với một ý định gì? Ngươi hãy
++ -- Này Ambattha, hình như ngươi đến đây với một ý định gì? Ngươi hãy
     khéo tác ý đến mục đích đã đưa ngươi đến đây. Thanh niên Ambattha
     này thật vô giáo dục, dầu nó tự cho là có giáo dục. Như vậy là vô
     giáo dục, có gì khác nữa!
@@ -3346,7 +3348,7 @@ là đê tiện. .
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ - Này Ambattha, dòng họ Thích ca đã làm gì phật lòng ngươi?
++ -- Này Ambattha, dòng họ Thích ca đã làm gì phật lòng ngươi?
 ]
 
 -- Này Gotama, một thời ta đi đến Kapilavatthu (Ca-tỳ-la-vệ) có việc phải
@@ -3365,11 +3367,11 @@ Như vậy thanh niên Ambattha lần thứ hai đã buộc tội dòng họ Th�
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ - Này Ambattha, cũng như con chim cáy, con chim cáy con có thể tự hát
++ -- Này Ambattha, cũng như con chim cáy, con chim cáy con có thể tự hát
     thỏa thích trong tổ của nó. Này Ambattha, Kapilavatthu thuộc dòng họ
     Thích ca. Thật không xứng để cho Ambattha phải phật lòng vì một vấn
     đề nhỏ mọn này.
-+ - Này Gotama, có bốn giai cấp: Sát đế lỵ, Bà-la-môn, Phệ-xá và
++ -- Này Gotama, có bốn giai cấp: Sát đế lỵ, Bà-la-môn, Phệ-xá và
     Thủ-đà-la. Này Gotama, trong bốn giai cấp này, ba giai cấp
     Sát-đế-lỵ, Phệ-xá và Thủ-đà-la là để hầu hạ hạng Bà-la-môn . Này
     Gotama, như vậy thật không phải lẽ, thật không đúng pháp khi chúng
@@ -3458,7 +3460,7 @@ là con một nữ tỳ của dòng họ Thích ca.
 
 #block[
 #set enum(numbering: "1.", start: 19)
-+ - Này Gotama, thanh niên Ambattha được sanh vào quý tộc, thanh niên
++ -- Này Gotama, thanh niên Ambattha được sanh vào quý tộc, thanh niên
     Ambattha thuộc con nhà danh giá, thanh niên Ambattha là bậc đa văn,
     thanh niên Ambattha là nhà hùng biện giỏi, thanh niên Ambattha là
     nhà bác học, thanh niên Ambattha có thể biện luận với Tôn giả Gotama
@@ -3597,7 +3599,7 @@ vĩ đại.
 
 #block[
 #set enum(numbering: "1.", start: 25)
-+ - Ambattha, nhà ngươi nghĩ thế nào? Ở đây một thanh niên Bà-la-môn
++ -- Ambattha, nhà ngươi nghĩ thế nào? Ở đây một thanh niên Bà-la-môn
     cưới một thiếu nữ Sát-đế-lỵ. Do sự sum họp này, một người con trai
     được sanh. Một người sanh từ một thanh niên Bà-la-môn và một thiếu
     nữ Sát-đế-lỵ có thể thọ lãnh chỗ ngồi hay nước giữa những Bà-la-môn
@@ -3632,7 +3634,7 @@ vĩ đại.
 
 #block[
 #set enum(numbering: "1.", start: 26)
-+ - Này Ambattha, nếu so sánh đàn bà với đàn bà, đàn ông với đàn ông,
++ -- Này Ambattha, nếu so sánh đàn bà với đàn bà, đàn ông với đàn ông,
     thì giai cấp Sát đế lỵ là ưu, Bà-la-môn là liệt. Này Ambattha, nhà
     ngươi nghĩ thế nào? Ở đây, giả sử do một nguyên nhân gì những người
     Bà-la-môn cạo đầu một người Bà-la-môn, đánh người ấy với một bị tro,
@@ -3659,7 +3661,7 @@ vĩ đại.
 
 #block[
 #set enum(numbering: "1.", start: 27)
-+ - Ambattha, nhà ngươi nghĩ thế nào? Ở đây giả sử do một nguyên nhân
++ -- Ambattha, nhà ngươi nghĩ thế nào? Ở đây giả sử do một nguyên nhân
     gì, những người Sát đế lỵ cạo đầu một người Sát đế lỵ, đánh người ấy
     với một bị tro, tẩn xuất người ấy ra khỏi nước hay thành phố, người
     ấy có được thọ lãnh chỗ ngồi và nước uống giữa những người Bà-la-môn
@@ -3691,16 +3693,16 @@ vĩ đại.
 
 #block[
 #set enum(numbering: "1.", start: 28)
-+ - Này Ambattha, bài kệ này do Phạm thiên Sanam Kumàra thuyết:
++ -- Này Ambattha, bài kệ này do Phạm thiên Sanam Kumàra thuyết:
 ]
 
 “Ðối với chúng sanh tin tưởng ở giai cấp, Sát-đế-lỵ chiếm địa vị tối
 thắng ở nhân gian. Những vị nào giới hạnh và trí tuệ đầy đủ, vị này
 chiếm địa vị tối thắng giữa Người và chư Thiên”.
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
-+ - Tôn giả Gotama, nghĩa chữ Giới hạnh trong bài kệ ấy là gì? Nghĩa chữ
++ -- Tôn giả Gotama, nghĩa chữ Giới hạnh trong bài kệ ấy là gì? Nghĩa chữ
     Tuệ trong bài kệ ấy là gì?
 
 -- Này Ambattha, một vị đã thành tựu vô thượng trí đức không có luận nghị
@@ -3720,7 +3722,7 @@ không chấp trước cưới hỏi, đưa dâu, người ấy tức chứng ng
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ - Tôn giả Gotama, thế nào là Giới đức trong bài kệ ấy? Thế nào là Trí
++ -- Tôn giả Gotama, thế nào là Giới đức trong bài kệ ấy? Thế nào là Trí
     tuệ trong bài kệ ấy?
 ]
 
@@ -3853,7 +3855,7 @@ thầy của ngươi, Bà-la-môn Pokkharasàdi đã lỗi lầm như thế nào
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ - Này Ambattha, nhà ngươi cũng vậy. Thuở xưa, những vị ẩn sĩ giữa các
++ -- Này Ambattha, nhà ngươi cũng vậy. Thuở xưa, những vị ẩn sĩ giữa các
     Bà-la-môn, những tác giả các chú thuật, những nhà tụng tán các chú
     thuật, đã hát, đã nói lên, đã sưu tầm, những Thánh cú mà nay những
     Bà-la-môn hiện tại cũng hát lên, nói lên, đọc lên giống như các vị
@@ -3882,7 +3884,7 @@ thầy của ngươi, Bà-la-môn Pokkharasàdi đã lỗi lầm như thế nào
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ - Các vị ẩn sĩ ấy có dùng cơm nấu từ gạo trắng thượng hạng mà các hạt
++ -- Các vị ẩn sĩ ấy có dùng cơm nấu từ gạo trắng thượng hạng mà các hạt
     đen được gạn bỏ ra, dùng các món canh, các món đồ ăn nhiều loại
     không, như ngươi và thầy ngươi hiện nay không?
 ]
@@ -3947,7 +3949,7 @@ Rồi thanh niên Ambattha leo lên xe do ngựa cái kéo và ra đi.
   xuống một bên. Sau khi thanh niên Ambattha ngồi xuống một bên,
   Bà-la-môn Pokkharasàdi nói:
 
-+ - Này Ambattha thân mến, ngươi đã thấy Sa-môn Gotama chưa?
++ -- Này Ambattha thân mến, ngươi đã thấy Sa-môn Gotama chưa?
 ]
 
 -- Chúng con thấy Tôn giả Gotama rồi.
@@ -4004,7 +4006,7 @@ bên. Khi ngồi xuống một bên, Bà-la- môn Pokkharasàdi nói với Thế
 
 #block[
 #set enum(numbering: "1.", start: 17)
-+ - Tôn giả Gotama, đệ tử của chúng tôi, thanh niên Ambattha có đến đây
++ -- Tôn giả Gotama, đệ tử của chúng tôi, thanh niên Ambattha có đến đây
     không?
 ]
 
@@ -4454,7 +4456,7 @@ dối.
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ - Này Bà-la-môn, trong năm đức tánh này, có thể bỏ qua một đức tánh
++ -- Này Bà-la-môn, trong năm đức tánh này, có thể bỏ qua một đức tánh
     nào, chỉ có bốn đức tánh thôi, mà vẫn có thể gọi là Bà-la-môn và để
     có thể khi nói: “Tôi là Bà-la-môn “, lời nói ấy là lời nói chơn
     chánh, không phải là lời nói dối.
@@ -4477,7 +4479,7 @@ dối.
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ - Này Bà-la-môn, trong bốn đức tánh này, có thể bỏ qua một đức tánh
++ -- Này Bà-la-môn, trong bốn đức tánh này, có thể bỏ qua một đức tánh
     nào, chỉ có ba đức tánh thôi, mà vẫn có thể gọi là Bà-la-môn và để
     có thể khi nói: “Tôi là Bà-la-môn “, lời nói ấy là lời nói chơn
     chánh, không phải là lời nói dối.
@@ -4500,7 +4502,7 @@ dối.
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ - Này Bà-la-môn, trong ba đức tánh này, có thể bỏ qua một đức tánh
++ -- Này Bà-la-môn, trong ba đức tánh này, có thể bỏ qua một đức tánh
     nào, chỉ có hai đức tánh thôi, mà vẫn có thể gọi là Bà-la-môn và để
     có thể khi nói: “Tôi là Bà-la-môn “, lời nói ấy là chơn chánh, không
     phải là lời nói dối.
@@ -4589,7 +4591,7 @@ Rồi Bà-la-môn Sonadanda nói với những vị Bà-la-môn ấy:
 
 #block[
 #set enum(numbering: "1.", start: 21)
-+ - Này Bà-la-môn trong hai đức tánh ấy, có thể bỏ qua một đức tánh, và
++ -- Này Bà-la-môn trong hai đức tánh ấy, có thể bỏ qua một đức tánh, và
     những người Bà-la-môn đầy đủ một đức tánh nào, để có thể khi nói:
     “Tôi là Bà môn”, lời nói ấy là lời nói chơn chánh, không phải là
 ]
@@ -4610,7 +4612,7 @@ lời nói dối.
 
 #block[
 #set enum(numbering: "1.", start: 22)
-+ - Thật như vậy, này Bà-la-môn . Này Bà-la-môn, trí tuệ được giới hạnh
++ -- Thật như vậy, này Bà-la-môn . Này Bà-la-môn, trí tuệ được giới hạnh
     làm cho thanh tịnh, giới hạnh được trí tuệ làm cho thanh tịnh. Chỗ
     nào có giới hạnh, chỗ ấy có trí tuệ; chỗ nào có trí tuệ, chỗ ấy có
     giới hạnh. Người có giới hạnh nhất định có trí tuệ; người có trí tuệ
@@ -4624,7 +4626,7 @@ lời nói dối.
 
 #block[
 #set enum(numbering: "1.", start: 23)
-+ - Này Bà-la-môn, vậy hãy nghe và suy nghĩ kỹ, ta sẽ nói.
++ -- Này Bà-la-môn, vậy hãy nghe và suy nghĩ kỹ, ta sẽ nói.
 ]
 
 -- Tôn giả, xin vâng. Bà-la-môn Sonadanda trả lời đức Thế Tôn.
@@ -4679,7 +4681,7 @@ Tôn:
 
 #block[
 #set enum(numbering: "1.", start: 26)
-+ - Tôn giả Gotama, khi con ở trong hội chúng nếu con từ chỗ ngồi đứng
++ -- Tôn giả Gotama, khi con ở trong hội chúng nếu con từ chỗ ngồi đứng
     dậy và đảnh lễ Thế Tôn Gotama thời hội chúng này sẽ phỉ báng con. Ai
     bị hội chúng này phỉ báng, thời danh tiếng sẽ bị tổn giảm, và ai
     danh tiếng bị tổn giảm, thời thâu nhận cúng dường bị giảm thiểu. Vì
@@ -4784,7 +4786,7 @@ Gotama”.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ - Tôn giả Kùtadanta chớ có đến yết kiến Sa-môn Gotama. Thật không xứng
++ -- Tôn giả Kùtadanta chớ có đến yết kiến Sa-môn Gotama. Thật không xứng
     đáng cho Tôn giả Kùtadanta đến yết kiến Sa-môn Gotama. Nếu Tôn giả
     Kùtadanta đến yết kiến Sa-môn Gotama, thì danh tiếng của Tôn giả
     Kùtadanta bị hao tổn, danh tiếng của Sa-môn Gotama được tăng trưởng.
@@ -5002,7 +5004,7 @@ Bà-la-môn Kùtadanta trả lời đức Thế Tôn. Ðức Thế Tôn thuyết
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ - Này Bà-la-môn, thuở xưa có vị vua tên là Mahàvijita, giàu có, đại
++ -- Này Bà-la-môn, thuở xưa có vị vua tên là Mahàvijita, giàu có, đại
     phú, tài sản sung mãn, có nhiều vàng bạc, có nhiều vật dụng, có
     nhiều tài vật ngũ cốc, kho tàng sung mãn. Này Bà-la-môn, một hôm
     trong khi vua Mahàvijita đang ngồi yên lặng tại một tịnh xứ, sự suy
@@ -5317,7 +5319,7 @@ thiện thú, cõi trời ở đời này. Lúc bấy giờ ta là vị Bà-la-m
 
 #block[
 #set enum(numbering: "1.", start: 22)
-+ - Này Tôn giả Gotama, có tế đàn nào khác ít phiền tạp hơn, ít nhiễu
++ -- Này Tôn giả Gotama, có tế đàn nào khác ít phiền tạp hơn, ít nhiễu
     hại hơn, nhiều quả báo hơn, nhiều lợi ích hơn tế đàn với ba tế pháp
     và mười sáu tế vật này?
 ]
@@ -5362,7 +5364,7 @@ tế vật này.
 
 #block[
 #set enum(numbering: "1.", start: 24)
-+ - Tôn giả Gotama, có tế đàn nào khác ít phiền tạp hơn, ít nhiễu hại
++ -- Tôn giả Gotama, có tế đàn nào khác ít phiền tạp hơn, ít nhiễu hại
     hơn, nhiều kết quả hơn, nhiều lợi ích hơn tế đàn với ba tế pháp,
     mười sáu tế vật và những bố thí thường xuyên những tế đàn thuận lợi
     này?
@@ -5434,7 +5436,7 @@ sự quy y này.
 
 #block[
 #set enum(numbering: "1.", start: 27)
-+ - Này Tôn giả Gotama, có tế đàn nào khác, ít phiền tạp hơn, ít nhiễu
++ -- Này Tôn giả Gotama, có tế đàn nào khác, ít phiền tạp hơn, ít nhiễu
     hại hơn, nhiều kết quả hơn, nhiều lợi ích hơn tế đàn với ba tế pháp,
     mười sáu tế vật, sự bố thí thường xuyên, những tế đàn thuận lợi, sự
     cúng dường tinh xá, những sự quy y và những giới luật này?
@@ -5450,7 +5452,7 @@ sự quy y này.
   tế vạt, sự bố thí thường xuyên, những tế đàn thuận lợi, sự cúng dường
   tinh xá, những sự quy y và những giới luật này?
 
--- Này Bà-la-môn, ở đây đức Như Lai sanh ra đời, ?ng Cúng, Chánh Ðẳng
+-- Này Bà-la-môn, ở đây đức Như Lai sanh ra đời, Ứng Cúng, Chánh Ðẳng
   Giác… \[tương tự như kinh “Sa-môn quả”, đoạn kinh 40-98\]. Như vậy,
   này Bà-la-môn vị Tỷ-kheo thành tựu giới hạnh.
 
@@ -5631,7 +5633,7 @@ ngồi trên chỗ ngồi đã soạn sẵn trong bóng mát, trước mặt ng�
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ - Bạch Thế Tôn, do nhân gì, do duyên gì, những thiên âm mà
++ -- Bạch Thế Tôn, do nhân gì, do duyên gì, những thiên âm mà
     Sunakkhatta, dòng họ Licchavi không nghe, những thiên âm mỹ diệu,
     thích thú, phấn khởi, những thiên âm ấy có thật, không phải là không
     có.
@@ -5716,7 +5718,7 @@ ngồi trên chỗ ngồi đã soạn sẵn trong bóng mát, trước mặt ng�
   nghe các thiên âm mỹ diệu, thích thú, phấn khởi. Này Mahàli, do nhân
   này, do duyên này, những thiên âm ấy có thật, không phải là không có.
 
-+ - Bạch Thế Tôn, như vậy có phải muốn chứng được các pháp định thiền
++ -- Bạch Thế Tôn, như vậy có phải muốn chứng được các pháp định thiền
     định ấy mà các Tỷ-kheo sống đời phạm hạnh, dưới sự chỉ dạy của Thế
     Tôn?
 ]
@@ -5729,7 +5731,7 @@ ngồi trên chỗ ngồi đã soạn sẵn trong bóng mát, trước mặt ng�
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ - Bạch Thế Tôn, những pháp ấy, cao thượng hơn, thù thắng hơn là gì mà
++ -- Bạch Thế Tôn, những pháp ấy, cao thượng hơn, thù thắng hơn là gì mà
     các vị Tỷ-kheo vì muốn chứng được những pháp ấy sống đời phạm hạnh,
     dưới sự chỉ dạy của Thế Tôn?
 ]
@@ -5755,7 +5757,7 @@ pháp ấy, các Tỷ-kheo sống phạm hạnh dưới sự chỉ dạy của T
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ - Bạch Thế Tôn, có con đường nào, có đạo lộ nào đưa đến sự chứng ngộ
++ -- Bạch Thế Tôn, có con đường nào, có đạo lộ nào đưa đến sự chứng ngộ
     những pháp ấy?
 ]
 
@@ -5789,7 +5791,7 @@ Hai vị xuất gia trả lời Ta như thế và Ta nói như sau:
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ - Này Hiền giả, ở đây Như Lai sanh ra đời, vị A-la-hán, Chánh Ðẳng
++ -- Này Hiền giả, ở đây Như Lai sanh ra đời, vị A-la-hán, Chánh Ðẳng
     Giác … (tương tự như kinh “Sa-môn quả”, đoạn kinh 41-82) … Này Hiền
     giả, như vậy vị Tỷ-kheo thành tựu giới hạnh… chứng và an trú Sơ
     thiền. Này Hiền giả, khi Tỷ-kheo biết như vậy, thấy như vậy, vị ấy
@@ -5865,7 +5867,7 @@ Hai vị xuất gia trả lời đức Thế Tôn như thế và Ngài nói như
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ - Này Hiền giả, ở đây Như Lai sanh ra đời, vị A-la-hán, Chánh Ðẳng
++ -- Này Hiền giả, ở đây Như Lai sanh ra đời, vị A-la-hán, Chánh Ðẳng
     Giác … (tương tự như kinh “Sa- môn quả”, đoạn kinh 41-82) … Này Hiền
     giả, như vậy vị Tỷ-kheo thành tựu giới hạnh… chứng và an trú Sơ
     thiền. Này Hiền giả, khi Tỷ-kheo biết như vậy, thấy như vậy, vị ấy
@@ -5930,7 +5932,7 @@ dạy.
   đức Phật, nói những lời chào đón hỏi thăm xã giao với đức Thế Tôn và
   đứng một bên. Sau khi đứng một bên, lõa thể Kassapa thưa với Thế Tôn:
 
-+ - Tôn giả Gotama, tôi nghe như vầy: “Sa-môn Gotama chỉ trích mọi khổ
++ -- Tôn giả Gotama, tôi nghe như vầy: “Sa-môn Gotama chỉ trích mọi khổ
     hạnh, tuyệt đối phỉ báng, mạt sát mọi khổ hạnh, mọi lối sống khắc
     khổ”, có phải những vị ấy nói đúng lời của Tôn giả Gotama? Có phải
     những vị ấy đã vu oan không xác thật cho Tôn giả Gotama? Có phải
@@ -5938,7 +5940,7 @@ dạy.
     trương nào chính và phụ gặp phải cật nạn không Thật sự chúng tôi
     không muốn chỉ trích sai lạc Tôn giả Gotama.
 
-+ - Này Kassapa, những ai nói: “Sa-môn Gotama chỉ trích mọi khổ hạnh,
++ -- Này Kassapa, những ai nói: “Sa-môn Gotama chỉ trích mọi khổ hạnh,
     tuyệt đối phỉ báng, mạt sát mọi khổ hạnh, mọi lối sống khắc khổ”,
     những vị ấy nói không đúng lời của Ta, đã vu oan không xác thật cho
     Ta. Này Kassapa, ở đời này, với thiên nhãn thanh tịnh, siêu nhân, Ta
@@ -6128,7 +6130,7 @@ một đêm tắm ba lần, theo hạnh xuống nước tắm (để gột sạc
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ - Này Kassapa nếu một người sống lõa thể, sống phóng túng không theo
++ -- Này Kassapa nếu một người sống lõa thể, sống phóng túng không theo
     lễ nghi, liếm tay… như vậy sống theo hạnh tiết chế ăn uống cho đến
     nửa tháng chỉ ăn một lần, nhưng nếu vị này không tu và không chứng
     được giới cụ túc, tâm cụ túc, tuệ cụ túc, thời vị ấy cách rất xa
@@ -6469,7 +6471,7 @@ người ta đem ra thực hành”. Này Kassapa, nên nói với chúng như v
 
 #block[
 #set enum(numbering: "1.", start: 24)
-+ - Này Kassapa, ai trước kia là ngoại đạo, nay muốn xuất gia, muốn thọ
++ -- Này Kassapa, ai trước kia là ngoại đạo, nay muốn xuất gia, muốn thọ
     đại giới trong pháp và luật này phải sống bốn tháng biệt trú. Sau
     khi sống bốn tháng biệt trú, chúng Tăng nếu đồng ý sẽ cho xuất gia,
     cho thọ đại giới để thành vị Tỷ-kheo. Nhưng ta nhận thấy cá tánh con
@@ -6729,7 +6731,7 @@ các tăng thượng tưởng này không?
 
 #block[
 #set enum(numbering: "1.", start: 19)
-+ - Bạch Thế Tôn, Thế Tôn chỉ nói đến một tưởng tuyệt đỉnh hay nhiều
++ -- Bạch Thế Tôn, Thế Tôn chỉ nói đến một tưởng tuyệt đỉnh hay nhiều
     tưởng tuyệt đỉnh?
 ]
 
@@ -6747,7 +6749,7 @@ các tăng thượng tưởng này không?
 
 #block[
 #set enum(numbering: "1.", start: 20)
-+ - Bạch Thế Tôn, tưởng khởi trước, trí khởi sau; hay trí khởi trước
++ -- Bạch Thế Tôn, tưởng khởi trước, trí khởi sau; hay trí khởi trước
     tưởng khởi sau; hay tưởng và trí cùng khởi một lần không trước không
     sau?
 ]
@@ -6759,7 +6761,7 @@ các tăng thượng tưởng này không?
 
 #block[
 #set enum(numbering: "1.", start: 21)
-+ - Bạch Thế Tôn, tưởng có phải là tự ngã của con người hay tưởng khác,
++ -- Bạch Thế Tôn, tưởng có phải là tự ngã của con người hay tưởng khác,
     tự ngã khác?
 ]
 
@@ -6779,7 +6781,7 @@ các tăng thượng tưởng này không?
 
 #block[
 #set enum(numbering: "1.", start: 22)
-+ - Bạch Thế Tôn, con hiểu tự ngã là do ý sở thành, đầy đủ mọi chi tiết
++ -- Bạch Thế Tôn, con hiểu tự ngã là do ý sở thành, đầy đủ mọi chi tiết
     lớn nhỏ, đầy đủ các căn.
 ]
 
@@ -6795,13 +6797,13 @@ các tăng thượng tưởng này không?
 
 #block[
 #set enum(numbering: "1.", start: 23)
-+ - Này Potthapàda, nếu tự ngã là vô sắc, do tưởng sở thành, với sự nhận
++ -- Này Potthapàda, nếu tự ngã là vô sắc, do tưởng sở thành, với sự nhận
     thức này Potthapàda, cần phải hiểu tưởng khác, tự ngã khác. Này
     Potthapàda, giả sự tự ngã là vô sắc, do tưởng sở thành, tuy vậy, một
     vài tưởng khác của người khởi lên, một vài tưởng khác diệt xuống.
     Này Potthapàda, với sự nhận thức này, cần phải hiểu tưởng khác, tự
     ngã khác.
-+ - Bạch Thế Tôn, con có thể hiểu được chăng “tưởng là tự ngã của con
++ -- Bạch Thế Tôn, con có thể hiểu được chăng “tưởng là tự ngã của con
     người” hay “tưởng khác, tự ngã khác”?
 ]
 
@@ -6811,7 +6813,7 @@ các tăng thượng tưởng này không?
 
 #block[
 #set enum(numbering: "1.", start: 25)
-+ - Bạch Thế Tôn, nếu thật khó cho con biết được “tưởng là tự ngã của
++ -- Bạch Thế Tôn, nếu thật khó cho con biết được “tưởng là tự ngã của
     con người”, hay “tưởng khác, tự ngã khác” vì con có dị kiến khác, có
     tin tưởng khác, có lý tưởng khác, có thiên tư khác, có hạnh nguyện
     khác, thời bạch Thế Tôn, thế giới có phải là thường còn không? Chỉ
@@ -6841,7 +6843,7 @@ các tăng thượng tưởng này không?
 
 #block[
 #set enum(numbering: "1.", start: 26)
-+ - Bạch Thế Tôn, có phải sinh mạng và thân thể là một, chỉ có quan điểm
++ -- Bạch Thế Tôn, có phải sinh mạng và thân thể là một, chỉ có quan điểm
     này là đúng sự thật, ngoài ra là mê muội không?
 ]
 
@@ -6858,7 +6860,7 @@ thực, ngoài ra là mê muội”.
 
 #block[
 #set enum(numbering: "1.", start: 27)
-+ - Bạch Thế Tôn, có phải Như Lai tồn tại sau khi chết? Chỉ có quan điểm
++ -- Bạch Thế Tôn, có phải Như Lai tồn tại sau khi chết? Chỉ có quan điểm
     này là đúng sự thực, ngoài ra là mê muội không?
 ]
 
@@ -6888,7 +6890,7 @@ thực, ngoài ra là mê muội”.
 
 #block[
 #set enum(numbering: "1.", start: 28)
-+ - Bạch Thế Tôn, vì sao Thế Tôn không trả lời?
++ -- Bạch Thế Tôn, vì sao Thế Tôn không trả lời?
 ]
 
 -- Này Potthapàda, câu hỏi này không thuộc về đích giải thoát, không
@@ -6898,7 +6900,7 @@ thực, ngoài ra là mê muội”.
 
 #block[
 #set enum(numbering: "1.", start: 29)
-+ - Bạch Thế Tôn, vậy Thế Tôn trả lời những gì?
++ -- Bạch Thế Tôn, vậy Thế Tôn trả lời những gì?
 ]
 
 -- Này Potthapàda, Ta trả lời: “Ðây là khổ”. Ta trả lời: “Ðây là khổ
@@ -6907,7 +6909,7 @@ thực, ngoài ra là mê muội”.
 
 #block[
 #set enum(numbering: "1.", start: 30)
-+ - Bạch Thế Tôn, vì sao Thế Tôn trả lời?
++ -- Bạch Thế Tôn, vì sao Thế Tôn trả lời?
 ]
 
 -- Này Potthapàda, câu hỏi này thuộc về đích giải thoát, thuộc về Pháp,
@@ -6988,7 +6990,7 @@ kia:
 
 #block[
 #set enum(numbering: "1.", start: 33)
-+ - Này Potthapàda, những vị du sĩ ngoại đạo ấy là mù, không có mắt, chỉ
++ -- Này Potthapàda, những vị du sĩ ngoại đạo ấy là mù, không có mắt, chỉ
     có ngươi là người có mắt độc nhất giữa chúng. Này Potthapàda, có
     những pháp được Ta truyền thuyết, trình bày một cách không dứt
     khoát. Này Potthapàda, có những pháp được Ta tuyên thuyết trình bày
@@ -7075,7 +7077,7 @@ nói của những Sa-môn, Bà-la-môn kia là không chánh xác hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 36)
-+ - Như vậy này Potthapàda, những Sa-môn, Bà-la-môn có chủ trương như
++ -- Như vậy này Potthapàda, những Sa-môn, Bà-la-môn có chủ trương như
     thế này, có chủ kiến như thế này: “Sau khi chết tự ngã hoàn toàn
     hạnh phúc, vô bệnh”, Ta đến những vị ấy và hỏi: “Có phải quý Ðại đức
     có chủ trương như thế này, có chủ kiến như thế này: “Sau khi chết,
@@ -7104,7 +7106,7 @@ Bà-la-môn kia là không chánh xác, hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 37)
-+ - Này Potthapàda, như một người muốn xây tại ngã tư đường một cái
++ -- Này Potthapàda, như một người muốn xây tại ngã tư đường một cái
     thang để leo lên lầu. Có người hỏi: “Này bạn, Ông muốn xây một cái
     thang để leo lên lầu, vậy Ông có biết lầu ấy là về hướng Ðông, hay
     về hướng Tây, hay về hướng Bắc, hay về hướng Nam? Nhà lầu ấy cao hay
@@ -7120,7 +7122,7 @@ Bà-la-môn kia là không chánh xác, hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 38)
-+ - Như vậy này Potthapàda, những Sa-môn, Bà-la-môn có chủ trương như
++ -- Như vậy này Potthapàda, những Sa-môn, Bà-la-môn có chủ trương như
     thế này, có chủ kiến như thế này: “Sau khi chết, tự ngã hoàn toàn
     hạnh phúc, vô bệnh”. Ta đến những vị ấy và hỏi: “Có phải quý Ðại đức
     có chủ trương như thế này, có chủ kiến như thế này: “Sau khi chết,
@@ -7148,7 +7150,7 @@ Bà-la-môn kia là không chánh xác, hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 39)
-+ - Này Potthapàda, có ba loại ngã chấp: thô phù ngã chấp, ý sở thành
++ -- Này Potthapàda, có ba loại ngã chấp: thô phù ngã chấp, ý sở thành
     ngã chấp, vô sắc ngã chấp. Này Potthapàda, thế nào là thô phù ngã
     chấp? Có sắc, do bốn đại hình thành, do đoàn thực nuôi dưỡng là thô
     phù ngã chấp. Thế nào ý sở thành ngã chấp? Có sắc, do ý sở thành,
@@ -7257,7 +7259,7 @@ nói ấy là chánh xác, hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 47)
-+ - Như vậy, này Potthapàda, và có những người ngoài hỏi chúng tôi: “Này
++ -- Như vậy, này Potthapàda, và có những người ngoài hỏi chúng tôi: “Này
     Hiền giả, thô phù ngã chấp là gì?… Này Hiền giả, ý sở thành ngã chấp
     là gì?… Này Hiền giả, vô sắc ngã chấp ấy là gì mà Hiền giả thuyết
     pháp để diệt trừ, khiến các người thực hành theo pháp này thời nhiễm
@@ -7291,7 +7293,7 @@ nói ấy là chánh xác, hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 49)
-+ - Này Citta, trong khi có thô phù ngã chấp, thời ngã chấp ấy không
++ -- Này Citta, trong khi có thô phù ngã chấp, thời ngã chấp ấy không
     thuộc ý sở thành ngã chấp, không thuộc vô sắc ngã chấp, chính khi ấy
     thuộc thô phù ngã chấp. Này Citta, trong khi có ý sở thành ngã chấp,
     thời ngã chấp ấy không thuộc thô phù ngã chấp, không thuộc vô sắc
@@ -7314,7 +7316,7 @@ nói ấy là chánh xác, hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 50)
-+ - Này Citta, nếu có người hỏi lại ngươi: “Quá khứ ngã chấp mà Ngươi đã
++ -- Này Citta, nếu có người hỏi lại ngươi: “Quá khứ ngã chấp mà Ngươi đã
     có, có phải ngã chấp ấy đối với Ngươi là thật có, ngã chấp tương lai
     không tồn tại, ngã chấp hiện tại không tồn tại? Tương lai ngã chấp
     mà Ngươi sẽ có, có phải ngã chấp ấy đối với Ngươi là thật có, ngã
@@ -7342,7 +7344,7 @@ nói ấy là chánh xác, hợp lý?
 
 #block[
 #set enum(numbering: "1.", start: 51)
-+ - Như vậy này Citta, trong khi có thô phù ngã chấp, thời ngã chấp ấy
++ -- Như vậy này Citta, trong khi có thô phù ngã chấp, thời ngã chấp ấy
     không thuộc ý sở thành ngã chấp, không thuộc vô sắc ngã chấp, chính
     khi ấy thuộc thô phù ngã chấp. Này Citta, trong khi có ý sở thành
     ngã chấp, thời ngã chấp ấy không thuộc vô sắc ngã chấp, chính khi ấy
@@ -7409,7 +7411,7 @@ Và đại đức Citta Hatthisàriputta trở thành một vị A-la-hán nữa
 #divider()
 
 === 10. KINH SUBHA (TU-BÀ) (Subha Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vậy tôi nghe. Một thời, Ðại đức Ananda ở tại Sàvatthi (Xá-vệ), tại
   rừng Jetavana (Kỳ-đà), vườn ông Anàthapindika (Cấp Cô Ðộc), sau khi
@@ -7428,7 +7430,7 @@ Tụng Phẩm I
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ - Tôn giả, xin vâng.
++ -- Tôn giả, xin vâng.
 ]
 
 Thanh niên Bà-la-môn vâng lời thanh niên Bà-la-môn Subha Todeyyaputta
@@ -7483,7 +7485,7 @@ và Ngài đã khích lệ, khuyến đạo, y chỉ mọi người theo những
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ - Này thanh niên Bà-la-môn, Thế Tôn tán thán ba pháp uẩn và Ngài đã
++ -- Này thanh niên Bà-la-môn, Thế Tôn tán thán ba pháp uẩn và Ngài đã
     khích lệ, khuyến đạo, y chỉ mọi người theo những pháp ấy. Ba pháp ấy
     là gì? Chính là Thánh giới uẩn, Thánh định uẩn, Thánh tuệ uẩn. Thế
     Tôn tán thán ba pháp uẩn ấy. Ngài đã khích lệ, khuyến đạo, y chỉ mọi
@@ -7495,10 +7497,10 @@ và Ngài đã khích lệ, khuyến đạo, y chỉ mọi người theo những
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ - Này thanh niên Bà-la-môn, ở đây Như Lai sanh ra đời, vị A-la-hán.
++ -- Này thanh niên Bà-la-môn, ở đây Như Lai sanh ra đời, vị A-la-hán.
     Chánh Ðẳng Giác… như vậy này thanh niên Bà-la-môn là Tỷ-kheo đầy đủ
     giới đức. (Xem kinh Sa-môn quả, đoạn kinh số 40 - 63).
-+ - Này thanh niên Bà-la-môn, đó là Thánh giới uẩn Thế Tôn tán thán và
++ -- Này thanh niên Bà-la-môn, đó là Thánh giới uẩn Thế Tôn tán thán và
     Ngài đã khích lệ khuyến đạo, y chỉ mọi người theo pháp ấy. Và còn
     pháp uẩn khác cao thượng hơn cần phải hành trì?
 ]
@@ -7513,7 +7515,7 @@ và Ngài đã khích lệ, khuyến đạo, y chỉ mọi người theo những
   thượng hơn cần phải hành trì nữa!” Nhưng Tôn giả Ananda còn nói: “Còn
   pháp uẩn cao thượng hơn cần phải hành trì”.
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 + Tôn giả Ananda, thế nào là Thánh định uẩn, Tôn giả Gotama tán thán và
   Ngài đã khích lệ, khuyến đạo y chỉ mọi người theo pháp ấy?
@@ -8116,7 +8118,7 @@ của Thế Tôn.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ - Tôn giả, xin vâng!
++ -- Tôn giả, xin vâng!
 ]
 
 Bhesika người hớt tóc vâng theo lời của Bà-la-môn Lohicca đến với Thế
@@ -8198,7 +8200,7 @@ theo y bát và cùng với chúng Tỷ-kheo đi đến Sàlavatikà.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ - Này Lohicca, Ngươi nghĩ thế nào? Có phải Ngươi ở tại Sàlavatikà?
++ -- Này Lohicca, Ngươi nghĩ thế nào? Có phải Ngươi ở tại Sàlavatikà?
 ]
 
 -- Vâng phải, Tôn giả Gotama!
@@ -8395,7 +8397,7 @@ không lỗi lầm.
 
 #block[
 #set enum(numbering: "1.", start: 20)
-+ - Này Lohicca, ở đời, đức Như Lai xuất hiện, là bậc A-la-hán, Chánh
++ -- Này Lohicca, ở đời, đức Như Lai xuất hiện, là bậc A-la-hán, Chánh
     Biến Tri, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ,
     Ðiều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn… (như kinh Sa-môn
     quả, đoạn kinh số 40 - 74, với những thay đổi cần thiết).
@@ -8554,7 +8556,7 @@ Vàsettha.
   ở nơi đây tranh biện về vấn đề gì, luận chấp về vấn đề gì và bất đồng
   ý kiến về vấn đề gì?
 
-+ - Tôn giả Gotama, về vấn đề chánh đạo và tà đạo. Tôn giả Gotama, nhiều
++ -- Tôn giả Gotama, về vấn đề chánh đạo và tà đạo. Tôn giả Gotama, nhiều
     Bà-la-môn thuyết dạy nhiều con đường sai khác như các vị Bà-la-môn
     Addhàriyà, các vị Bà-la-môn Tittiriyà, và các vị Bà-la- môn
     Chandokà, các vị Bà-la-môn Chandavà, các vị Bà-la-môn Bràhmacariyà -
@@ -8582,7 +8584,7 @@ Vàsettha.
 
 #block[
 #set enum(numbering: "1.", start: 12)
-+ - Thế nào Vàsettha? Có Bà-la-môn nào trong những Bà-la-môn tinh thông
++ -- Thế nào Vàsettha? Có Bà-la-môn nào trong những Bà-la-môn tinh thông
     ba tập Vedà tận mặt đã thấy Phạm thiên?
 ]
 
@@ -8601,7 +8603,7 @@ Vàsettha.
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ - Thế nào, này Vàsettha. Những vị tu sĩ thời cổ trong các Bà-la-môn
++ -- Thế nào, này Vàsettha. Những vị tu sĩ thời cổ trong các Bà-la-môn
     tinh thông ba tập Vedà, những vị sáng tác các thần chú, những vị trì
     tụng thần chú mà xưa kia những thần chú được hát lên, được trì tụng,
     được ngâm vịnh và ngày nay những vị Bà-la-môn tinh thông ba tập Vedà
@@ -8617,7 +8619,7 @@ tôi thấy chỗ ở Phạm thiên, chỗ đến Phạm thiên, chỗ đi Phạ
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ - Này Vàsettha, như vậy Ngươi nói không có một Bà-la-môn nào trong
++ -- Này Vàsettha, như vậy Ngươi nói không có một Bà-la-môn nào trong
     những vị tinh thông ba tập Vedà đã tận mặt thấy Phạm thiên - không
     có một tôn sư nào của các Bà-la-môn tinh thông ba tập Vedà đã tận
     mặt thấy Phạm thiên, không có một đại tôn sư nào của ác Bà-la-môn
@@ -8648,7 +8650,7 @@ lý?
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ - Này Vàsettha, những Bà-la-môn tinh thông ba tập Vedà không biết,
++ -- Này Vàsettha, những Bà-la-môn tinh thông ba tập Vedà không biết,
     không thấy con đường đưa đến cộng trú với Phạm thiên mà thuyết dạy:
     “Ðây là trực đạo, đây là chánh đạo hướng đến, dẫn đến cộng trú với
     Phạm thiên cho những ai thực hành theo”, thật không thể có sự kiện
@@ -8660,7 +8662,7 @@ lý?
     những Bà-la-môn tinh thông ba tập Vedà như vậy là lời nói đáng chê
     cười, là lời nói suông, là lời nói không tưởng, là lời nói trống
     rỗng.
-+ - Này Vàsettha, nhà Ngươi nghĩ thế nào? Các Bà-la-môn tinh thông ba
++ -- Này Vàsettha, nhà Ngươi nghĩ thế nào? Các Bà-la-môn tinh thông ba
     tập Vedà như phần đông nhiều người khác - có thể thấy mặt trăng, mặt
     trời không, trong khi các vị này cầu khẩn, tán thán, vừa đi xung
     quanh, vừa chấp tay và đảnh lễ chỗ mặt trăng, mặt trời mọc và lặn?
@@ -8673,7 +8675,7 @@ lý?
 
 #block[
 #set enum(numbering: "1.", start: 17)
-+ - Này Vàsettha, nhà Ngươi nghĩ thế nào? Các Bà-la-môn tinh thông ba
++ -- Này Vàsettha, nhà Ngươi nghĩ thế nào? Các Bà-la-môn tinh thông ba
     tập Vedà - như phần đông nhiều người khác thấy mặt trăng, mặt trời,
     trong khi các vị này cầu khẩn, tán thán, vừa đi xung quanh, vừa chấp
     tay và đảnh lễ chỗ mặt trăng mặt trời mọc và lặn, những vị này có
@@ -8686,7 +8688,7 @@ lý?
 
 #block[
 #set enum(numbering: "1.", start: 18)
-+ - Này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba tập Vedà
++ -- Này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba tập Vedà
     như phần đông nhiều người khác, thấy mặt trăng, mặt trời trong khi
     các vị này cầu khẩn tán thán, vừa đi xung quanh, vừa chấp tay và
     đảnh lễ chỗ mặt trăng, mặt trời mọc và lặn, những vị này không có
@@ -8744,7 +8746,7 @@ kia không chánh xác, hợp lý.
 
 #block[
 #set enum(numbering: "1.", start: 20)
-+ - Cũng vậy, này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba
++ -- Cũng vậy, này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba
     tập Vedà không thể tận mắt thấy được Phạm thiên, các đại tôn sư các
     Bà-la-môn tinh thông ba tập Vedà không thể tận mắt thấy được Phạm
     thiên, các Bà-la-môn cho đến bảy đời đại tôn sư, tôn sư của những
@@ -8792,7 +8794,7 @@ kia không chánh xác, hợp lý.
 
 #block[
 #set enum(numbering: "1.", start: 22)
-+ - Cũng vậy, này Vàsettha. Ngươi nói rằng các Bà-la-môn tinh thông ba
++ -- Cũng vậy, này Vàsettha. Ngươi nói rằng các Bà-la-môn tinh thông ba
     tập Vedà không thể tận mắt thấy được Phạm thiên, các tôn sư các
     Bà-la-môn tinh thông ba tập Vedà không thể tận mắt thấy được Phạm
     thiên, các đại tôn sư các Bà-la-môn tinh thông ba tập Vedà không thể
@@ -8820,7 +8822,7 @@ kia không chánh xác, hợp lý.
 
 #block[
 #set enum(numbering: "1.", start: 23)
-+ - Lành thay, Vàsettha. Những Bà-la-môn tinh thông ba tập Vedà không
++ -- Lành thay, Vàsettha. Những Bà-la-môn tinh thông ba tập Vedà không
     biết, không thấy con đường đưa đến cộng trú với Phạm thiên mà thuyết
     dạy: “Ðây là trực đạo, đây là chánh đạo hướng đến, dẫn đến cộng trú
     với Phạm thiên cho những ai thực hành theo”. Thật không có sự kiện
@@ -8838,7 +8840,7 @@ kia không chánh xác, hợp lý.
 
 #block[
 #set enum(numbering: "1.", start: 25)
-+ - Cũng vậy, này Vàsettha, những Bà-la-môn tinh thông ba tập Vedà, loại
++ -- Cũng vậy, này Vàsettha, những Bà-la-môn tinh thông ba tập Vedà, loại
     bỏ những pháp tác thành người Bà-la-môn, tuân theo những pháp không
     tác thành người Bà-la-môn, những vị này đã nói: “Chúng tôi cầu khẩn
     Indra (Nhân-đà-la), chúng tôi cầu khẩn Soma (Tô-ma), chúng tôi cầu
@@ -8855,7 +8857,7 @@ không có sự kiện ấy.
 
 #block[
 #set enum(numbering: "1.", start: 26)
-+ - Này Vàsettha, như sông Aciravati này, đầy tràn cho đến bờ khiến con
++ -- Này Vàsettha, như sông Aciravati này, đầy tràn cho đến bờ khiến con
     quạ có thể uống được. Có người đến, có sự việc bên bờ bên kia, tiến
     đến bờ bên kia, hướng đến bờ bên kia, và muốn lội qua bờ bên kia.
     Người này đứng bên bờ này kêu bờ bên kia và nói: “Bờ bên kia hãy lại
@@ -8868,7 +8870,7 @@ không có sự kiện ấy.
 
 #block[
 #set enum(numbering: "1.", start: 27)
-+ - Cũng vậy, này Vàsettha, có năm pháp khiến dục lạc tăng thịnh. Năm
++ -- Cũng vậy, này Vàsettha, có năm pháp khiến dục lạc tăng thịnh. Năm
     pháp này được xem là sợi dây chuyền, sợi dây thắng trong giới luật
     của bậc Thánh. Thế nào là năm? Những sắc pháp do mắt cảm nhận khả
     ái, mỹ miều, thích thú, hấp dẫn, câu hữu với dục, ái lạc; những
@@ -8880,14 +8882,14 @@ không có sự kiện ấy.
     ấy, các Bà-la-môn tinh thông ba tập Vedà chấp trước, mê đắm, bị trói
     buộc, không thấy nguy hiểm của chúng, không nhận thức sự không thoát
     ly của chúng, đã tận hưởng năm pháp ấy.
-+ - Này Vàsettha, những Bà-la-môn tinh thông ba tập Vedà, loại bỏ những
++ -- Này Vàsettha, những Bà-la-môn tinh thông ba tập Vedà, loại bỏ những
     pháp tác thành người Bà-la- môn, tuân theo những pháp không tác
     thành người Bà-la-môn, chấp trước, mê đắm, bị trói buộc, không thấy
     nguy hiểm của chúng, không nhận thức sự không thoát ly của chúng,
     tận hưởng chúng, bị trói buộc bởi sự trói buộc của dục lạc, sau khi
     thân hoại mạng chung sẽ cộng trú với Phạm thiên, thật không có sự
     kiện ấy.
-+ - Này Vàsettha, như sông Acivarati này, đầy tràn cho đến bờ khiến con
++ -- Này Vàsettha, như sông Acivarati này, đầy tràn cho đến bờ khiến con
     quạ có thể uống được. Có người đến, có sự việc bên bờ bên kia, tìm
     đến bờ bên kia, hướng đến bờ bên kia và muốn lội qua bờ bên kia.
     Người này ở bên bờ này trùm đầu và nằm ngủ. Này Vàsettha, nhà Ngươi
@@ -8899,7 +8901,7 @@ không có sự kiện ấy.
 
 #block[
 #set enum(numbering: "1.", start: 30)
-+ - Cũng vậy, này Vàsettha, có năm triền cái được gọi là chướng ngại,
++ -- Cũng vậy, này Vàsettha, có năm triền cái được gọi là chướng ngại,
     cũng được gọi là triền cái, cũng được gọi là màn che, cũng được gọi
     là triền phược trong giới luật của bậc Thánh. Thế nào là năm? Dục
     cái, sân cái, hôn trầm thụy miên cái, trạo hối cái, nghi cái. Này
@@ -8937,7 +8939,7 @@ không có sự kiện ấy.
 
 #block[
 #set enum(numbering: "1.", start: 32)
-+ - Này Vàsettha, Ngươi nghĩ thế nào? Các Bà-la-môn tinh thông ba tập
++ -- Này Vàsettha, Ngươi nghĩ thế nào? Các Bà-la-môn tinh thông ba tập
     Vedà có dục ái hay không dục ái?
 ]
 
@@ -8961,7 +8963,7 @@ không có sự kiện ấy.
 
 #block[
 #set enum(numbering: "1.", start: 33)
-+ - Này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba tập Vedà là
++ -- Này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba tập Vedà là
     có tham ái, Phạm thiên không có tham ái. Giữa các Bà-la-môn tinh
     thông ba tập Vedà là có tham ái với Phạm thiên không có tham ái, có
     thể có một sự cọng hành, cọng trú không?
@@ -8971,10 +8973,10 @@ không có sự kiện ấy.
 
 #block[
 #set enum(numbering: "1.", start: 34)
-+ - Lành thay, Vàsettha. Này Vàsettha, những Bà-la-môn tinh thông ba tập
++ -- Lành thay, Vàsettha. Này Vàsettha, những Bà-la-môn tinh thông ba tập
     Vedà có dục ái ấy sau khi thân hoại mạng chung sẽ cộng trú với Phạm
     thiên - Thật không thể có sự kiện ấy.
-+ - Này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba tập Vedà có
++ -- Này Vàsettha, Ngươi nói rằng các Bà-la-môn tinh thông ba tập Vedà có
     hận tâm, Phạm thiên không có hận tâm… các Bà-la-môn tinh thông ba
     tập Vedà là có sân tâm, Phạm thiên không có sân tâm… các Bà-la-môn
     tinh thông ba tập Vedà là có nhiễm tâm, Phạm thiên không có nhiễm
@@ -8990,7 +8992,7 @@ thiên có tự tại có thể có một sự cọng hành, cọng trú không?
 
 #block[
 #set enum(numbering: "1.", start: 36)
-+ - Lành thay, Vàsettha. Này Vàsettha, những vị Bà-la-môn tinh thông ba
++ -- Lành thay, Vàsettha. Này Vàsettha, những vị Bà-la-môn tinh thông ba
     tập Vedà sau khi thân hoại mạng chung sẽ cộng trú với Phạm thiên -
     Thật không thể có sự kiện ấy.
 ]
@@ -9022,7 +9024,7 @@ gọi là sự bất hạnh.
 
 #block[
 #set enum(numbering: "1.", start: 38)
-+ - Này Vàsettha, đối với người ấy đã sinh trưởng Manasàkata, còn có thể
++ -- Này Vàsettha, đối với người ấy đã sinh trưởng Manasàkata, còn có thể
     nghi ngờ và có khó khăn hỏi đến con đường đưa đến Manasàkata nhưng
     đối với Như Lai thì không có nghi ngờ hay khó khăn gì khi hỏi đến
     Phạm thiên giới hay con đường đưa đến Phạm thiên giới! Này Vàsettha,
@@ -9168,7 +9170,7 @@ Tăng. Mong Tôn giả Gotama nhận chúng con làm đệ tử; từ này trở
 #divider()
 
 === 14. KINH ÐẠI BỔN (Mahàpadàna Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vậy tôi nghe. Một thời, Thế Tôn ở tại nước Sàvatthi (Xá-vệ) rừng
   Jeta (Kỳ-đà), vườn ông Anàthapindika (Cấp Cô Ðộc), trong am thất cây
@@ -9194,7 +9196,7 @@ Khi được nói vậy, những Tỷ-kheo ấy bạch Thế Tôn:
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ - Này các Tỷ-kheo, các người có muốn nghe pháp thuộc thoại về tiền
++ -- Này các Tỷ-kheo, các người có muốn nghe pháp thuộc thoại về tiền
     thân không?
 ]
 
@@ -9210,7 +9212,7 @@ Các Tỷ-kheo này đáp lời Thế Tôn. Thế Tôn giảng như sau:
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ - Này các Tỷ-kheo, chín mươi mốt kiếp về trước, Thế Tôn Vipassì
++ -- Này các Tỷ-kheo, chín mươi mốt kiếp về trước, Thế Tôn Vipassì
     (Tỳ-bà-thi), bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo,
     ba mươi mốt kiếp về trước, Thế Tôn Sikhì (Thi-khí) bậc A-la-hán,
     Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, cũng trong ba mươi mốt kiếp
@@ -9472,7 +9474,7 @@ hạnh là như vậy, giải thoát như thế này?” Bạch Thế Tôn, như
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ - Này các Tỷ-kheo, như vậy là pháp giới ấy được khéo chứng đạt bởi Như
++ -- Này các Tỷ-kheo, như vậy là pháp giới ấy được khéo chứng đạt bởi Như
     Lai, và nhờ chúng đạt pháp giới này, Như Lai nhớ được chư Phật quá
     khứ, những vị này đã nhập Niết Bàn, đã đoạn các chướng ngại, đã đoạn
     các chướng đạo, đã chấm dứt sự luân hồi, đã thoát ly mọi đau khổ.
@@ -9502,7 +9504,7 @@ Các Tỷ-kheo ấy vâng lời Thế Tôn, Thế Tôn giảng như sau:
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ - Này các Tỷ-kheo, cách đây chín mươi mốt kiếp về trước, Thế Tôn
++ -- Này các Tỷ-kheo, cách đây chín mươi mốt kiếp về trước, Thế Tôn
     Vipassì bậc A-la-hán, Chánh Ðẳng Giác ra đời. Này các Tỷ-kheo, Thế
     Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác thuộc chủng tánh
     Sát-đế-ly, sanh trong giai cấp Sát-đế-ly. Này các Tỷ kheo, Thế Tôn
@@ -9836,9 +9838,9 @@ vậy, này các Tỷ-kheo, hoàng tử Vipassì được mọi người âu y�
   lầu.
 ]
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
-+ - Này các Tỷ-kheo, hoàng tử Vipassì, sau thời gian nhiều năm, nhiều
++ -- Này các Tỷ-kheo, hoàng tử Vipassì, sau thời gian nhiều năm, nhiều
     trăm năm, nhiều ngàn năm, cho gọi người đánh xe: “Này khanh, hãy cho
     thắng các cỗ xe thù thắng, chúng ta sẽ đi đến vườn ngự uyển để xem
     phong cảnh” - “Thưa vâng, Hoàng Tử”. Này các Tỷ-kheo, người đánh xe
@@ -9990,7 +9992,7 @@ cùng với các cỗ xe thù thắng khác, tiến đến vườn ngự uyển.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ - Này các Tỷ-kheo, hoàng tử Vipassì trên đường đi đến vườn ngự uyển,
++ -- Này các Tỷ-kheo, hoàng tử Vipassì trên đường đi đến vườn ngự uyển,
     thấy một số đông người, mặc sắc phục khác nhau, và đang dựng một dàn
     hỏa táng. Thấy vậy, hoàng tử hỏi người đánh xe: “Này khanh, vì sao
     đám đông người ấy mặc sắc phục khác nhau và đang dựng một dàn hỏa
@@ -10311,7 +10313,7 @@ sáng sanh.
 Và đối với Ngài, sau khi sống quán pháp sanh diệt trong năm thủ uẩn,
 chẳng bao lâu các lậu hoặc được tiêu trừ và Ngài được giải thoát.
 
-Tụng Phẩm III.
+#strong[Tụng Phẩm III.]
 
 + Này các Tỷ-kheo, Thế Tôn Vipassì, bậc A-la-hán, Chánh Ðẳng Giác liền
   suy nghĩ: “Nay Ta hãy thuyết pháp”.
@@ -10552,7 +10554,7 @@ phải diệt”.
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ Những vị này đã thấy pháp, chứng pháp, ngộ pháp, thể nhâ\_p vào pháp,
++ Những vị này đã thấy pháp, chứng pháp, ngộ pháp, thể nhập vào pháp,
   nghi ngờ tiêu trừ, do dự diệt tận, chứng được tự tín, không y cứ người
   khác đối với đạo pháp của đức Bổn Sư, liền bạch Thế Tôn Vipassì, bậc
   A-la-hán, Chánh Ðẳng Giác: “Thật vi diệu thay, bạch Thế Tôn! Thật vi
@@ -11521,7 +11523,7 @@ Thế Tôn.
 #divider()
 
 === 16. KINH ÐẠI BÁT NIẾT BÀN (Mahàparinibbàna Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vầy tôi nghe. Một thời Thế Tôn ở tại Ràjagaha (Vương Xá), trên núi
   Gijjhakùta (Linh Thứu). Lúc bấy giờ, Ajàtasattu Vedehiputta (A-xà-thế,
@@ -11979,7 +11981,7 @@ Thế Tôn ở Pavarikambavana (Ba-ba-lợi Âm-bà-lâm).
 
 #block[
 #set enum(numbering: "1.", start: 17)
-+ - Bạch Thế Tôn, con không có tha tâm thông đối với các vị Ứng Cúng,
++ -- Bạch Thế Tôn, con không có tha tâm thông đối với các vị Ứng Cúng,
     Chánh Biến Tri ở quá khứ, tương lai và hiện tại. Nhưng con biết
     truyền thống về chánh pháp. Bạch Thế Tôn, như vị vua có một thành
     trì tại Biên cảnh, thành này có hào lũy kiên cố, có thành quách tháp
@@ -12236,7 +12238,7 @@ Magadha với bài kệ này, Ngài từ chỗ ngồi đứng dậy và ra về.
 khi người phàm phu đang cột bè. Những người ấy thật là những vị trí tuệ
 được giải thoát”
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 + Rồi Thế Tôn gọi tôn giả Ananda: “Này Ananda, chúng ta hãy đi đến
   Kotigàma”
@@ -12647,7 +12649,7 @@ Chánh pháp làm ngọn đèn, dùng Chánh pháp làm chỗ nương tựa, kh�
 tựa vào một pháp gì khác, những vị ấy, Này Ananda là những vị tối thượng
 trong hàng Tỷ-kheo của Ta, nếu những vị ấy tha thiết học hỏi.
 
-Tụng Phẩm III
+#strong[Tụng Phẩm III]
 
 + Rồi Thế Tôn vào buổi sáng đắp y, đem theo y bát, vào Vesàli để khất
   thực. Sau khi khất thực ở Vesàli, ăn xong và trên đường khất thực trở
@@ -12829,7 +12831,7 @@ nhất trú thiền định. Như tháo áo giáp đang mang mặc.
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ - Này Ananda, có tám nhân, có tám duyên khiến đại địa chấn động. Thế
++ -- Này Ananda, có tám nhân, có tám duyên khiến đại địa chấn động. Thế
     nào là tám? Này Ananda, đại địa này thiết lập trên nước, nước ở trên
     gió và gió ở tại hư không. Này Ananda, đến thời đại phong khởi lên,
     gió lớn khi thổi làm nổi sóng nước, và khi nước nổi sóng thì quả đất
@@ -13109,7 +13111,7 @@ từ bỏ thọ, hành (không duy trì mạng sống lâu hơn nữa).
 
 #block[
 #set enum(numbering: "1.", start: 40)
-+ - Bạch Thế Tôn, chính con được tận mặt, đích thân nghe Thế Tôn dạy như
++ -- Bạch Thế Tôn, chính con được tận mặt, đích thân nghe Thế Tôn dạy như
     sau: “Này Ananda, những ai đã tu bốn thần túc, tu tập nhiều lần,
     thật lão luyện, thật chắc chắn, thật bền vững, điêu luyện, thiện xảo
     thời, nếu muốn, người ấy có thể sống đến một kiếp, hay phần kiếp còn
@@ -13305,7 +13307,7 @@ mình làm sở y cho chính mình, Hãy tinh tấn, chánh niệm, giữ giới
 Nhiếp thúc ý chí, bảo hộ tự tâm. Ai tinh tấn trong pháp và luật này Sẽ
 diệt sanh tử, chấm dứt khổ đau.
 
-Tụng Phẩm IV
+#strong[Tụng Phẩm IV]
 
 + Rồi Thế Tôn, vào buổi sáng đắp y, đem theo y bát, vào Vesàli để khất
   thực. Sau khi khất thực ở Vesàli, ăn xong và trên đường khất thực trở
@@ -13372,7 +13374,7 @@ lạc.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ - Xin vâng, bạch Thế Tôn!
++ -- Xin vâng, bạch Thế Tôn!
 ]
 
 Tôn giả Ananda vâng đáp Thế Tôn. Rồi Thế Tôn cùng với đại chúng Tỷ-kheo
@@ -13393,7 +13395,7 @@ Các Tỷ-kheo ấy vâng lời Thế Tôn, Thế Tôn giảng như sau:
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ - Này các Tỷ-kheo, có thể có Tỷ-kheo nói: “Này Hiển giả, tôi tự thân
++ -- Này các Tỷ-kheo, có thể có Tỷ-kheo nói: “Này Hiển giả, tôi tự thân
     nghe từ miệng Thế Tôn, tự thân lãnh thọ, như vậy là Pháp, như vậy là
     Luật, như vậy là lời dạy của vị Ðạo Sư”. Này các Tỷ-kheo, các Ngươi
     không nên tán thán, không nên hủy báng lời nói của Tỷ-kheo ấy. Không
@@ -13672,19 +13674,19 @@ tiếng”. Sau khi tỏ sự thâm tín đối với ngài Alàra Kàlàma, v�
 
 #block[
 #set enum(numbering: "1.", start: 28)
-+ - Này Pukkusa, nhà ngươi nghĩ thế nào? Cái gì khó làm hơn, cái gì khó
++ -- Này Pukkusa, nhà ngươi nghĩ thế nào? Cái gì khó làm hơn, cái gì khó
     thực hiện hơn? Một người trong khi giác tỉnh, còn thức mà không thấy
     năm trăm cỗ xe vừa đi ngang qua gần một bên, cũng không nghe tiếng.
     Hay một người đang giác tỉnh, còn thức, trong khi trời đang mưa, mưa
     tầm tã ào ào, trong khi điện quang chớp lòa, sấm sét vang động, mà
     không thấy, cũng không nghe tiếng?
-+ - Bạch Thế Tôn, nói gì đến năm trăm cỗ xe này, cho đến hoặc sáu trăm,
++ -- Bạch Thế Tôn, nói gì đến năm trăm cỗ xe này, cho đến hoặc sáu trăm,
     hoặc bảy trăm, hoặc tám trăm, hoặc chín trăm, hoặc một ngàn, cho đến
     trăm ngàn cỗ xe, cũng không thể so sánh được. Thật khó làm hơn, khó
     thực hiện hơn, một người đang giác tỉnh, còn thức, trong khi trời
     đang mưa, mưa tầm tã ào ào, trong khi điện quang chớp lòa, sấm sét
     vang động, mà không thấy cũng không nghe tiếng.
-+ - Này Pukkusa, một thời, Ta ở Atumà, tại nhà đập lúa. Lúc bấy giờ trời
++ -- Này Pukkusa, một thời, Ta ở Atumà, tại nhà đập lúa. Lúc bấy giờ trời
     mưa, mưa tầm tã ào ào, điện quang chớp lòa, sấm sét vang động, có
     hai anh em nông phu, và bốn con bò đực bị sét đánh chết. Này
     Pukkusa, một số đông người từ Atumà đi ra đến tại chỗ hai anh em
@@ -13867,7 +13869,7 @@ Công đức người bố thí, Luôn luôn được tăng trưởng, Trừ đ�
 Không chất chứa, chế ngựa, Kẻ chí thiện từ bỏ. Mọi ác hạnh bất thiện,
 Diệt trừ tham, sân, si. Tâm giải thoát thanh tịnh.
 
-Tụng Phẩm V
+#strong[Tụng Phẩm V]
 
 + Rồi Thế Tôn nói với Tôn giả Ananda:
 
@@ -13989,7 +13991,7 @@ khác được?”
   Tôn nhập diệt, chúng con sẽ không được sự lợi ích tiếp kiến, hầu cận
   những Tỷ-kheo tu hành điêu luyện.
 
-+ - Này Ananda, có bốn Thánh tích kẻ thiện tín cần phải chiêm ngưỡng và
++ -- Này Ananda, có bốn Thánh tích kẻ thiện tín cần phải chiêm ngưỡng và
     tôn kính. Thế nào là bốn?
 ]
 
@@ -14386,7 +14388,7 @@ Du sĩ ngoại đạo Subhadda vâng lời Thế Tôn. Thế Tôn nói như sau:
 
 #block[
 #set enum(numbering: "1.", start: 27)
-+ - Này Subhadda, trong pháp luật nào không có Bát Thánh đạo, thời ở đây
++ -- Này Subhadda, trong pháp luật nào không có Bát Thánh đạo, thời ở đây
     không có (đệ nhất) Sa- môn, ở đây cũng không có đệ nhị Sa-môn, cũng
     không có đệ tam Sa-môn, cũng không có đệ tứ Sa-môn. Này Subhadda
     trong pháp luật nào có Bát Thánh đạo thời ở đây có (đệ nhứt) Sa-môn,
@@ -14429,7 +14431,7 @@ Tỷ-kheo sống chơn chánh, thì đời này không vắng những vị A-la-
 
 #block[
 #set enum(numbering: "1.", start: 29)
-+ - Bạch Thế Tôn, nếu những người xưa kia là ngoại đạo nay muốn xuất
++ -- Bạch Thế Tôn, nếu những người xưa kia là ngoại đạo nay muốn xuất
     gia, muốn thọ đại giới trong Pháp và Luật này phải sống bốn tháng
     biệt trú. Sau khi sống bốn tháng biệt thú, các vị Tỷ-kheo nếu đồng ý
     sẽ cho xuất gia, cho thọ đại giới, thời con sẽ xin sống biệt trú bốn
@@ -14465,7 +14467,7 @@ nữa.
 Và đại đức Subhadda trở thành một A-la-hán nữa. Ðại đức là vị đệ tử cuối
 cùng được Thế Tôn thế độ.
 
-Tụng Phẩm VI
+#strong[Tụng Phẩm VI]
 
 + Lúc bấy giờ, Thế Tôn nói với Tôn giả Ananda:
 
@@ -14710,7 +14712,7 @@ khiêng nổi thân xá lợi Như Lai nhưng khiêng không nổi được. Cá
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ - Bạch Tôn giả, ý định của chư Thiên là gì?
++ -- Bạch Tôn giả, ý định của chư Thiên là gì?
 ]
 
 -- Này các Vàsetthà, ý định của các Ngươi như sau:
@@ -15033,7 +15035,7 @@ Tôn nhan bậc Như Lai. Trải nhiều nhiều trăm kiếp, May lắm đượ
 
 == TẬP II
 === 17. KINH ÐẠI THIỆN KIẾN VƯƠNG (Mahàsudassana Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vầy tôi nghe.
 
@@ -15520,7 +15522,7 @@ ngang và đầu trụ bằng vàng.
   lâu đài Dhamma.
 ]
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 + Này Ananda, rồi vua Ðại Thiện Kiến suy nghĩ: “Quả này của ta do nghiệp
   gì, báo này của ta là do nghiệp gì mà hiện tại ta có thần lực như vậy,
@@ -16183,7 +16185,7 @@ khi ngồi xuống một bên, tôn giả Ananda bạch Thế Tôn:
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ - Này Ananda, sau khi Ngươi, vì các tín đồ ở Magadha đã nói trước mặt
++ -- Này Ananda, sau khi Ngươi, vì các tín đồ ở Magadha đã nói trước mặt
     Ta như vậy và đứng dậy ra về, Ta đi khất thực ở Nãdikã xong, sau bữa
     ăn, khi đi khất thực về và rửa chân, Ta vào ngôi nhà bằng gạch, ngồi
     trên chỗ đã soạn sẵn, suy nghĩ tư duy, chú lực toàn tâm suy tưởng
@@ -16203,7 +16205,7 @@ khi ngồi xuống một bên, tôn giả Ananda bạch Thế Tôn:
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ - Này Ananda, khi những lời ấy được nói xong, vị Dạ-xoa ấy hiện ra
++ -- Này Ananda, khi những lời ấy được nói xong, vị Dạ-xoa ấy hiện ra
     trước mặt Ta, nhan sắc thật phi thường và lần thứ hai, vị ấy nói:
 ]
 
@@ -16619,7 +16621,7 @@ Pancasikha, thuộc giòng họ Càn-thát-bà bạch Thế Tôn:
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ - Bạch Thế Tôn, trong những ngày xưa, những ngày xa xưa, nhân đêm
++ -- Bạch Thế Tôn, trong những ngày xưa, những ngày xa xưa, nhân đêm
     trăng rằm Bố-tát (Uposatha), trong tháng nhập cư mùa mưa, toàn thể
     chư Thiên ở cõi Tam thập tam thiên ngồi hội họp tại Thiện Pháp
     đường, xung quanh có Ðại thiên chúng ngồi khắp mọi phía; tại bốn
@@ -16711,7 +16713,7 @@ pháp Như thật của Thế Tôn như sau:
   một niềm hòa hợp lạc trú, một Ðạo sư đầy đủ đức tánh như vậy, chúng ta
   thật khó tìm thấy trong quá khứ, cũng như trong hiện tại, trừ Thế Tôn.
 
-+ - “Lợi dưỡng cúng dường cho Thế Tôn đã được an bài chắc chắn, danh
++ -- “Lợi dưỡng cúng dường cho Thế Tôn đã được an bài chắc chắn, danh
     tiếng cũng đã được an bài chắc chắn, và con nghĩ rằng các vị
     Sát-đế-lỵ (Khattiyà) sống với gương mặt rất quý mến Ngài. Nhưng Thế
     Tôn sống thọ hưởng các lợi dưỡng với tâm không kiêu mạn. Một vị sống
@@ -17979,7 +17981,7 @@ này, Danh xưng, tâm hoan hỷ.
 #divider()
 
 === 21. KINH ÐẾ-THÍCH SỞ VẤN (Sakka-panha Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vầy tôi nghe.
 
@@ -18302,7 +18304,7 @@ Rồi Thế Tôn nói bài kệ sau đây với Thiên chủ Sakka:
 Vàsava hãy hỏi Ta, Những gì tâm Ngươi muốn! Mỗi câu hỏi của Ngươi, Ta
 làm Ngươi thỏa mãn.
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 + Sau khi được phép, Thiên chủ Sakka hỏi Thế Tôn câu hỏi đầu tiên:
 
@@ -18638,7 +18640,7 @@ sướng, Thiên chủ Sakka hoan hỷ, tín thọ lời dạy Thế Tôn và n�
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ - Này Thiên chủ, khi Ngươi cam thọ sự thoải mái và hỷ lạc như vậy,
++ -- Này Thiên chủ, khi Ngươi cam thọ sự thoải mái và hỷ lạc như vậy,
     Ngươi cảm thấy những lợi ích gì?
 ]
 
@@ -19512,7 +19514,7 @@ Setavyà và nói:
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loại hóa sanh, hành vi thiện ác không có
     quả báo.”
 ]
@@ -19551,7 +19553,7 @@ Setavyà và nói:
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ - Này Tôn chủ, nay tôi sẽ hỏi Tôn chủ, nếu có thể chấp nhận, Tôn chủ
++ -- Này Tôn chủ, nay tôi sẽ hỏi Tôn chủ, nếu có thể chấp nhận, Tôn chủ
     hãy trả lời. Tôn chủ nghĩ thế nào? Ở đời, có những người bắt được
     một người ăn trộm phạm lỗi và đem đến cho Ngài: “Thưa Tôn chủ, đây
     là người ăn trộm phạm tội. Hãy hình phạt anh ta như Ngài muốn.” Tôn
@@ -19588,7 +19590,7 @@ như vậy?
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loại hóa sanh, hành vi thiện ác không có
     quả báo.”
 ]
@@ -19629,7 +19631,7 @@ như vậy?
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ - Này Tôn chủ, tôi sẽ cho Tôn chủ một ví dụ. Ở đời, một số người có
++ -- Này Tôn chủ, tôi sẽ cho Tôn chủ một ví dụ. Ở đời, một số người có
     trí nhờ ví dụ mà hiểu được nghĩa lời nói. Này Tôn chủ, ví như có
     người té đầu rơi vào hầm phân. Ngài nói với các người khác: “Hãy kéo
     người này ra khỏi hầm phân!” Những người ấy vâng theo và nói: “Lành
@@ -19676,7 +19678,7 @@ nữa không?
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ - Dầu Tôn giả Kasspa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kasspa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loại hóa sanh, hành vi thiện ác không có
     quả báo”.
 ]
@@ -19717,7 +19719,7 @@ không có các loại hóa sanh, hành vi thiện ác không có quả báo.”
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ - Này Tôn chủ, tôi sẽ hỏi Ngài. Nếu Ngài xem có thể được Ngài hãy trả
++ -- Này Tôn chủ, tôi sẽ hỏi Ngài. Nếu Ngài xem có thể được Ngài hãy trả
     lời. Này Tôn chủ, tuổi loài người một trăm năm bằng một ngày một đêm
     chư Thiên ở Tam thập tam thiên. Ba mươi đêm như vậy là một tháng,
     mười hai tháng như vậy là một năm, một ngàn năm ở Thiên giới như vậy
@@ -19785,7 +19787,7 @@ con mắt thịt. Này Tôn chủ, sự kiện là như vậy, nên tôi có tri
 
 #block[
 #set enum(numbering: "1.", start: 12)
-+ - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loại hóa sanh, hành vi thiện ác không có
     quả báo.”
 ]
@@ -19813,7 +19815,7 @@ con mắt thịt. Này Tôn chủ, sự kiện là như vậy, nên tôi có tri
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ - Này Tôn chủ, tôi sẽ cho Tôn chủ một ví dụ. Ở đời, một số người có
++ -- Này Tôn chủ, tôi sẽ cho Tôn chủ một ví dụ. Ở đời, một số người có
     trí nhờ ví dụ mà hiểu được nghĩa lời nói. Này Tôn chủ, ngày xưa có
     một người Bà -la-môn có hai người vợ. Từ một người vợ, ông ta có đứa
     con trai, mười hai tuổi; còn người vợ kia có mang thai, sắp đến kỳ
@@ -19857,7 +19859,7 @@ sanh, hành vi thiện ác có quả báo.”
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loài hóa sanh, hành vi thiện ác không có
     quả báo.”
 ]
@@ -19887,7 +19889,7 @@ sanh, hành vi thiện ác có quả báo.”
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ - Này Tôn chủ, tôi sẽ hỏi Ngài, nếu Ngài xem có thể được, Ngài hãy trả
++ -- Này Tôn chủ, tôi sẽ hỏi Ngài, nếu Ngài xem có thể được, Ngài hãy trả
     lời. Này Tôn chủ, khi Ngài nghỉ trưa, Ngài có chấp nhận Ngài có thấy
     những cảnh mộng hoan lạc ở vườn, ở rừng, ở đồng bằng, ở ao hồ không?
 ]
@@ -19912,7 +19914,7 @@ sanh, hành vi thiện ác có quả báo.”
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loại hóa sanh, hành vi thiện ác không có
     quả báo.”
 ]
@@ -19941,7 +19943,7 @@ vi thiện ác không có quả báo”?
 
 #block[
 #set enum(numbering: "1.", start: 17)
-+ - Này Tôn chủ, tôi sẽ cho Ngài một ví dụ. Nhờ ví dụ, một số người có
++ -- Này Tôn chủ, tôi sẽ cho Ngài một ví dụ. Nhờ ví dụ, một số người có
     trí hiểu được ý nghĩa lời nói. Này Tôn chủ, ví như người cân một hòn
     sắt được đốt nóng trọn ngày, cháy đỏ, hừng lửa, đỏ rực, và một thời
     khác cũng đem cân hòn sắt ấy nhưng nay đã nguội lạnh. Khi nào thì
@@ -19962,7 +19964,7 @@ vi thiện ác không có quả báo”?
 
 #block[
 #set enum(numbering: "1.", start: 18)
-+ - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loại hóa sanh, hành vi thiện ác không có
     quả báo.”
 ]
@@ -20003,7 +20005,7 @@ loại hóa sanh, hành vi thiện ác không có quả báo”.
 
 #block[
 #set enum(numbering: "1.", start: 19)
-+ - Này Tôn chủ, tôi sẽ cho Ngài một ví dụ. Nhờ ví dụ, một số người có
++ -- Này Tôn chủ, tôi sẽ cho Ngài một ví dụ. Nhờ ví dụ, một số người có
     trí hiểu được ý nghĩa của lời nói. Này Tôn chủ, thuở xưa có một
     người thổi tù và, cầm tù và bằng vỏ ốc và đi đến biên giới. Người ấy
     đi đến một làng kia, sau khi đến xong, đứng giữa làng, thổi ống tù
@@ -20042,7 +20044,7 @@ loại hóa sanh, hành vi thiện ác không có quả báo”.
     ý không biết pháp. Này Tôn chủ, sự kiện là như vậy, nên tôi chấp
     nhận: “Có đời sau, có các loại hóa sanh, hành vi thiện ác có quả
     báo.”
-+ - Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
++ -- Dầu Tôn giả Kassapa có nói như vậy, ở đây tôi vẫn chấp nhận: “Không
     có đời sau, không có các loại hóa sanh, hành vi thiện ác không có
     quả báo.”
 ]
@@ -20071,7 +20073,7 @@ không có quả báo.”
 
 #block[
 #set enum(numbering: "1.", start: 21)
-+ - Này Tôn chủ, tôi sẽ cho một ví dụ. Ở đời một số người có trí thức,
++ -- Này Tôn chủ, tôi sẽ cho một ví dụ. Ở đời một số người có trí thức,
     nhờ ví dụ hiểu được ý nghĩa câu nói. Này Tôn chủ, thuở xưa có người
     bện tóc thờ lửa, sống trong một ngôi nhà lá, tại một khu rừng. Này
     Tôn chủ, một số dân chúng di cư đến đấy. Vị lãnh đạo của chúng, sau
@@ -20117,7 +20119,7 @@ không có quả báo.”
     cách thiếu suy tư.” Cũng vậy này Tôn chủ, Ngài ngu si, kém thông
     minh, đi tìm đời sau một cách kém suy tư. Này Tôn chủ, hãy từ bỏ ác
     kiến ấy! Chớ có tự dấn thân vào sự bất an và đau khổ trường kỳ.
-+ - Dầu Tôn giả Kassapa có nói như vậy, Tôi cũng không thể từ bỏ ác tà
++ -- Dầu Tôn giả Kassapa có nói như vậy, Tôi cũng không thể từ bỏ ác tà
     kiến này. Vua Pasenadi nước Kosala và vua các nước ngoài đã biết tôi
     như sau: “Tôn chủ Pàyàsi có quan điểm, có tri kiến như thế này:
     “Không có đời sau, không có các loại hóa sanh, hành vi thiện ác
@@ -20126,7 +20128,7 @@ không có quả báo.”
     thông minh, chấp kiến một cách sai lạc.” Vì tức giận, nên tôi phải
     chấp chặt tà kiến ấy. Vì lừa gạt nên tôi phải chấp chặt tà kiến ấy.
     Vì tự trọng nên tôi phải chấp chặt tà kiến ấy.
-+ - Vậy này Tôn chủ, tôi sẽ cho Ngài một ví dụ. Ở đời một số người có
++ -- Vậy này Tôn chủ, tôi sẽ cho Ngài một ví dụ. Ở đời một số người có
     trí, nhờ ví dụ mà hiểu ý nghĩa lời nói. Này Tôn chủ, thuở xưa, một
     đoàn lữ hành lớn gồm một ngàn cỗ xe đi từ phương Ðông quốc độ qua
     phương Tây quốc độ. Ði đến chỗ nào, đoàn lữ hành ấy cũng tiêu thụ
@@ -20244,7 +20246,7 @@ bỏ ác tà kiến này. Chớ để chúng đưa Ngài vào đau khổ bất h
 
 #block[
 #set enum(numbering: "1.", start: 24)
-+ - Dầu Tôn giả Kassapa có nói như vậy, tôi cũng không thể từ bỏ ác tà
++ -- Dầu Tôn giả Kassapa có nói như vậy, tôi cũng không thể từ bỏ ác tà
     kiến này. Vua Pasenadi nước Kosala là vua các nước ngoài đã biết tôi
     như sau: “Tôn chủ Pàyàsi có quan điểm, có tri kiến như thế này:
     “Không có đời sau, không có các loại hóa sanh, hành vi thiện ác
@@ -20253,7 +20255,7 @@ bỏ ác tà kiến này. Chớ để chúng đưa Ngài vào đau khổ bất h
     thông minh, chấp kiến một cách sai lạc.” Vì tức giận nên tôi phải
     chấp chặt tà kiến sai lạc.” Vì tức giận nên tôi phải chấp chặt tà
     kiến ấy. Vì tự trọng nên tôi phải chấp chặt tà kiến ấy.
-+ - Này Tôn chủ, vậy tôi sẽ kể một ví dụ. Ở đời nhờ ví dụ, một số người
++ -- Này Tôn chủ, vậy tôi sẽ kể một ví dụ. Ở đời nhờ ví dụ, một số người
     có trí hiểu được ý nghĩa lời nói. Thuở xưa có một người nuôi heo đi
     từ làng của mình đến một làng khác. Ở tại đấy, ông ta thấy một đống
     phân khô bị quăng bỏ. Thấy vậy, nó tự nghĩ: “Ðống phân khô khá nhiều
@@ -20276,7 +20278,7 @@ lâu dài.
 
 #block[
 #set enum(numbering: "1.", start: 26)
-+ - Dầu Tôn giả Kassapa có nói như vậy, tôi cũng không thể từ bỏ ác tà
++ -- Dầu Tôn giả Kassapa có nói như vậy, tôi cũng không thể từ bỏ ác tà
     kiến này. Vua Pasenadi nước Kosala và vua các nước ngoài đã biết tôi
     như sau: “Tôn chủ Pàyàsi có quan điểm, có tri kiến như thế này:
     “Không có đời sau, không có các loại hóa sanh, hành vi thiện ác
@@ -20285,7 +20287,7 @@ lâu dài.
     kém thông minh, chấp kiến một cách sai lạc.” Vì tức giận nên tôi
     phải chấp chặt tà kíê ấy. Vì lừa gạt nên tôi phải chấp chặt tà kiến
     ấy. Vì tự trọng nên tôi phải chấp chặt tà kiến ấy.
-+ - Này Tôn chủ, vậy tôi sẽ kê một ví dụ. Ở đời nhờ ví dụ, một số người
++ -- Này Tôn chủ, vậy tôi sẽ kê một ví dụ. Ở đời nhờ ví dụ, một số người
     có trí hiểu được ý nghĩa lời nói. Thuở xưa, có hai người đánh bạc đổ
     con xúc xắc. Một con bạc mỗi lần thua liền ngậm con xúc xắc thất
     bại. Con bạc thứ hai thấy con bạc ấy mỗi lần thua liền ngậm con xúc
@@ -20311,7 +20313,7 @@ Chớ để chúng đưa Ngài vào đau khổ, bất hạnh lâu dài.
 
 #block[
 #set enum(numbering: "1.", start: 28)
-+ - Dầu Tôn giả Kassapa có nói như vậy, tôi cũng không thể từ bỏ ác tà
++ -- Dầu Tôn giả Kassapa có nói như vậy, tôi cũng không thể từ bỏ ác tà
     kiến này. Vua Pasenadi nước Kosala và vua các nước ngoài đã biết tôi
     như sau: “Tôn chủ Pàyàsi có quan điểm, có tri kiến như thế này:
     “Không có đời sau, không có các loại hóa sanh, hành vi thiện ác
@@ -20320,7 +20322,7 @@ Chớ để chúng đưa Ngài vào đau khổ, bất hạnh lâu dài.
     thông minh, chấp kiến một cách sai lạc”. Vì tức giận nên tôi phải
     chấp chặt tà kiến ấy. Vì lường gạt nên tôi phải chấp chặt tà kiến
     ấy. Vì tự trọng nên tôi phải chấp chặt tà kiến ấy!
-+ - Này Tôn chủ, vậy tôi sẽ kể một ví dụ. Ở đời nhờ ví dụ, một số người
++ -- Này Tôn chủ, vậy tôi sẽ kể một ví dụ. Ở đời nhờ ví dụ, một số người
     có trí hiểu được ý nghĩa lời nói. Thuở xưa, một quốc gia dời đi chỗ
     khác. Một người nói với các bạn thuộc hạ của mình: “Này các Bạn,
     chúng ta hãy đi đến quốc gia kia, rất có thể chúng ta tìm được tiền
@@ -20379,7 +20381,7 @@ Này Tôn chủ, hãy từ bỏ ác tà kiến ấy. Này Tôn chủ, hãy từ 
 
 #block[
 #set enum(numbering: "1.", start: 30)
-+ - Với ví dụ đầu tiên của Tôn giả Kassapa tôi đã hoan hỷ, thỏa mãn,
++ -- Với ví dụ đầu tiên của Tôn giả Kassapa tôi đã hoan hỷ, thỏa mãn,
     nhưng tôi muốn nghe những câu hỏi đáp thông minh ấy vì tôi xem Tôn
     giả Kassapa như người đáng được đối lập. Thật kỳ diệu thay, Tôn giả
     Kassapa! Thật hy hữu thay, Tôn giả Kassapa! Tôn giả Kassapa, như một
@@ -20392,7 +20394,7 @@ Này Tôn chủ, hãy từ bỏ ác tà kiến ấy. Này Tôn chủ, hãy từ 
     chỗ y chỉ. Tôn giả Kassapa, con muốn tổ chức một đại lễ tế đàn. Tôn
     giả Kassapa hãy giảng dạy cho con để con được hưởng hạnh phúc an lạc
     lâu dài.
-+ - Này Tôn chủ, tại tế đàn có trâu bò bị giết, hay các loại sinh vật
++ -- Này Tôn chủ, tại tế đàn có trâu bò bị giết, hay các loại sinh vật
     khác bị giết, và những ai tham dự tế đàn ấy là những vị có tà kiến,
     tà tư duy, tà ngữ, tà nghiệp, tà mạng, tà tinh tấn, tà niệm, tà
     định, này Tôn chủ, tế đàn ấy không đem lại quả báo lớn, lợi ích lớn,
@@ -20548,7 +20550,7 @@ thú, Thiên giới nhập chúng với chư Thiên ở Tam thập tam thiên.
 #divider()
 
 === 24. KINH BA-LÊ (Pàtika Sutta)
-Tụng Phẩm I
+#strong[Tụng Phẩm I]
 
 + Như vầy tôi nghe.
 
@@ -21137,7 +21139,7 @@ kiền ấy. Nếu ông ấy nghĩ rằng ông ấy sẽ đến gặp mặt Ta m
 lời nói ấy, không từ bỏ tâm ấy, không từ bỏ tà kiến ấy, thời đầu của ông
 ấy sẽ bị bể tan.”
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 + Này Bhaggava, một vị đại thần Licchavi, từ chỗ ngồi đứng dậy, nói với
   Hội chúng ấy:
@@ -21972,7 +21974,7 @@ có phải là cấu uế hay không cấu uế?
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ - Này Nigrodha, ở đây người khổ hạnh siêng tu khổ hạnh. Nhờ tu khổ
++ -- Này Nigrodha, ở đây người khổ hạnh siêng tu khổ hạnh. Nhờ tu khổ
     hạnh này, vị ấy không hoan hỷ, tâm tư không thỏa mãn. Này Nigrodha
     người khổ hạnh, tu khổ hạnh này, vì khổ hạnh này, vị ấy không hoan
     hỷ, tâm tư không thỏa mãn. Như vậy vị ấy đưựoc thanh tịnh trong
@@ -22079,7 +22081,7 @@ là thanh tịnh hay không thanh tịnh?
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ - Bạch Thế Tôn, như thế nào các khổ hạnh đạt đến tối thượng và đạt đến
++ -- Bạch Thế Tôn, như thế nào các khổ hạnh đạt đến tối thượng và đạt đến
     căn bản? Bạch Thế Tôn, thật tốt đẹp thay, nếu Thế Tôn khiến cho các
     khổ hạnh của chúng con đạt đến tối thượng, đạt đến căn bản.
 ]
@@ -22135,7 +22137,7 @@ không còn nghi ngờ đối với các thiện pháp.
 
 #block[
 #set enum(numbering: "1.", start: 18)
-+ - Bạch Thế Tôn, những khổ hạnh phải như thế nào mới đạt đến tối thượng
++ -- Bạch Thế Tôn, những khổ hạnh phải như thế nào mới đạt đến tối thượng
     và đạt đến căn bản? Lành thay, nếu Thế Tôn khiến cho các khổ hạnh
     của con đạt đến tối thượng và đạt đến căn bản.
 ]
@@ -22171,7 +22173,7 @@ thanh tịnh hay không thanh tịnh?
 
 #block[
 #set enum(numbering: "1.", start: 19)
-+ - Bạch Thế Tôn, các khổ hạnh phải như thế nào mới đạt đến tối thượng
++ -- Bạch Thế Tôn, các khổ hạnh phải như thế nào mới đạt đến tối thượng
     và đạt đến căn bản? Bạch Thế Tôn, lành thay nếu Thế Tôn khiến cho
     các khổ hạnh của con đạt được tối thượng và đạt đến căn bản.
 ]
@@ -22477,7 +22479,7 @@ Này các Tỷ kheo, khi nghe nói vậy, vua ẩn sĩ nói với vua Quán đ�
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ - Tâu Ðại vương, thế nào là Thánh vương Chánh pháp?
++ -- Tâu Ðại vương, thế nào là Thánh vương Chánh pháp?
 ]
 
 -- Này thái tử thân yêu, con y cứ vào Pháp, kính trọng Pháp, cung kính
@@ -23180,7 +23182,7 @@ khi Ngài đang đi qua đi lại.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ - Này Vàsettha, các người Bà-la-môn thật đã quên quá khứ khi họ nói:
++ -- Này Vàsettha, các người Bà-la-môn thật đã quên quá khứ khi họ nói:
     “Bà-la-môn là giai cấp tối thượng, giai cấp khác là hạ tiện. Chỉ có
     giai cấp Bà-la-môn là da trắng, giai cấp khác là da đen. Chỉ có
     Bà-la-môn là thuần túy, các giai cáp phi Bà-la-môn không phải như
@@ -24981,7 +24983,7 @@ Thế Tôn.
 #divider()
 
 === 30. KINH TƯỚNG (Lakkhana Sutta)
-Như vầy tôi nghe. Tụng Phẩm I
+Như vầy tôi nghe. #strong[Tụng Phẩm I]
 
 + Một thời, Thế Tôn trú tại Sàvatthi, rừng thái tử Jeta, vườn ông
   Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ, Thế Tôn gọi các Tỷ-kheo: “Này
@@ -25510,7 +25512,7 @@ thắng nhiếp địch quân, Ðón chào lời hiếu kính, Khiến tại gia
 Nếu xuất gia tu đạo, Uy lực thắng hơn nhiều. Số con có nhiều hơn, Biết
 vâng lời chỉ giáo. Dầu tại gia, xuất gia, Hảo tướng thật rõ ràng.
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 + Này các Tỷ-kheo, trong bất cứ đời trước nào, hiện hữu nào, trú xứ nào,
   Như Lai đời trước làm Người quán sát và hiểu biết rõ ràng toàn thể Ðại
@@ -25961,7 +25963,7 @@ Singàlaka, gia chủ tử vâng lời Thế Tôn. Thế Tôn giảng như sau:
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ - Này Gia chủ tử, đối với vị Thánh đệ tử, bốn nghiệp phiền não được
++ -- Này Gia chủ tử, đối với vị Thánh đệ tử, bốn nghiệp phiền não được
     diệt trừ, không làm ác nghiệp theo bốn lý do, không theo sáu nguyên
     nhân để phung phí tài sản. Vị này, nhờ từ bỏ mười bốn ác pháp, trở
     thành vị che chở sáu phương; vị này đã thực hành để chiến thắng hai
@@ -26586,7 +26588,7 @@ Thế Tôn.
 #divider()
 
 === 33. KINH PHÚNG TỤNG (Sangìti Sutta)
-Như vầy tôi nghe. Tụng Phẩm I
+Như vầy tôi nghe. #strong[Tụng Phẩm I]
 
 + Một thời Thế Tôn du hành giữa dân tộc Mallà cùng với Ðại chúng Tỷ-kheo
   khoảng năm trăm vị. Ngài đến tại thành của dân chúng Mallà tên là Pàvà
@@ -27384,7 +27386,7 @@ tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an l�
 chúng sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì
 an lạc cho chư Thiên và loài Người.
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 Năm pháp
 
@@ -28022,7 +28024,7 @@ tồn, được duy trì lâu ngày, vì hạnh phúc cho chúng sanh, vì an l�
 chúng sanh, vì lòng thương tưởng cho đời, vì lợi ích, vì hạnh phúc, vì
 an lạc cho chư Thiên và loài Người.
 
-Tụng Phẩm III
+#strong[Tụng Phẩm III]
 
 Tám pháp
 
@@ -28643,9 +28645,9 @@ kheo ấy hoan hỷ tín thọ lời dạy của tôn giả Sàriputta.
 #divider()
 
 === 34. KINH THẬP THƯỢNG (Dasuttara Sutta)
-Như vầy tôi nghe. Tụng Phẩm I
+Như vầy tôi nghe. #strong[Tụng Phẩm I]
 
-1.Một thời Thế Tôn trú tại Campa (Chiêm-bà) trên bờ hồ Gaggara
+1. Một thời Thế Tôn trú tại Campa (Chiêm-bà) trên bờ hồ Gaggara
 (Già-già), cùng với đại chúng Tỷ kheo khoảng năm trăm vị. Rồi tôn giả
 Sàriputta bảo các vị Tỳ kheo: “Này các Hiền giả Tỷ kheo”. “Thưa Hiền
 giả” các vị Tỷ kheo ấy đáp ứng tôn giả Sàriputta, tôn giả Sàriputta nói
@@ -29361,7 +29363,7 @@ Như vậy là bảy pháp cần được tu chứng. Như vậy bảy mươi ph
 chơn, thực như thị, không phải không như thị, không phải sai khác, được
 Như Lai giác ngộ, chánh đẳng chánh giác.
 
-Tụng Phẩm II
+#strong[Tụng Phẩm II]
 
 Tám pháp
 
