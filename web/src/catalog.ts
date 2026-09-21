@@ -57,7 +57,27 @@ export function countLeaves(node: CatNode): number {
 export function displayTitle(node: CatNode): string {
   let t = node.title.replace(/^\d+\.\s+/, "");
   if (node.pali) t = t.replace(/\s*\([^)]+\)\s*$/, "").trim();
-  return t;
+  return softenCaps(t);
+}
+
+/** Collected volumes store some headings in full capitals. Title-case those words for the chrome. */
+function softenCaps(s: string): string {
+  const letters = [...s].filter((ch) => /\p{L}/u.test(ch));
+  if (letters.length < 4) return s;
+  const up = letters.filter(
+    (ch) => ch === ch.toLocaleUpperCase("vi") && ch !== ch.toLocaleLowerCase("vi"),
+  ).length;
+  if (up / letters.length < 0.55) return s;
+  return s.replace(/\p{L}+/gu, (word) => {
+    const chars = [...word];
+    const wordUp = chars.filter(
+      (ch) => ch === ch.toLocaleUpperCase("vi") && ch !== ch.toLocaleLowerCase("vi"),
+    ).length;
+    if (wordUp < chars.length) return word;
+    if (/^[IVXLCDM]+$/.test(word)) return word;
+    const lower = chars.map((ch) => ch.toLocaleLowerCase("vi"));
+    return lower[0].toLocaleUpperCase("vi") + lower.slice(1).join("");
+  });
 }
 
 export function displayNum(id: string): string {

@@ -216,6 +216,7 @@ function cover(col: Collection, v: CatNode): string {
 function renderVolume(cat: Catalog, col: Collection, vol: CatNode, node: CatNode) {
   document.title = `${node.title} — ${cat.title}`;
   const kids = node.children ?? [];
+  const n = countLeaves(node);
   app.innerHTML = `
     ${topBar(cat.title, col.title, false)}
     <main class="wrap toc-page">
@@ -223,6 +224,7 @@ function renderVolume(cat: Catalog, col: Collection, vol: CatNode, node: CatNode
       <header class="toc-head">
         <h1>${escapeHtml(node.title || vol.title)}</h1>
         ${node.pali ? `<p class="pali">${escapeHtml(node.pali)}</p>` : ""}
+        <p class="toc-meta">${n} mục</p>
       </header>
       <input class="filter" type="search" placeholder="Lọc tên kinh trong tập này…" aria-label="Lọc mục lục" />
       <ul class="toc-list" id="toc-list">
@@ -231,34 +233,57 @@ function renderVolume(cat: Catalog, col: Collection, vol: CatNode, node: CatNode
     </main>
   `;
   const input = app.querySelector<HTMLInputElement>(".filter")!;
-  input.addEventListener("input", () => {
-    const q = input.value.trim().toLowerCase();
-    for (const li of app.querySelectorAll<HTMLElement>("#toc-list > li")) {
-      const hay = li.dataset.hay ?? "";
-      li.hidden = q.length > 0 && !hay.includes(q);
-    }
-  });
+  input.addEventListener("input", () => applyTocFilter(input.value.trim().toLowerCase()));
 }
 
-function haystack(node: CatNode): string {
-  return [node.title, node.pali ?? "", ...(node.children ?? []).map(haystack)]
-    .join(" ")
-    .toLowerCase();
+function applyTocFilter(q: string) {
+  const items = [...app.querySelectorAll<HTMLLIElement>("#toc-list li")].reverse();
+  for (const li of items) {
+    if (!q) {
+      li.hidden = false;
+      continue;
+    }
+    const self = (li.dataset.self ?? "").includes(q);
+    const details = li.querySelector<HTMLDetailsElement>(":scope > details");
+    if (self) {
+      li.hidden = false;
+      for (const child of li.querySelectorAll<HTMLLIElement>("li")) child.hidden = false;
+      if (details) details.open = true;
+      continue;
+    }
+    const childHit = [...li.querySelectorAll<HTMLLIElement>(":scope > details > ul > li")].some(
+      (child) => !child.hidden,
+    );
+    li.hidden = !childHit;
+    if (childHit && details) details.open = true;
+  }
+}
+
+function tocSelf(node: CatNode): string {
+  return `${node.title} ${node.pali ?? ""}`.toLowerCase();
+}
+
+function tocNum(id: string): string {
+  const n = displayNum(id);
+  return n === "·" ? "" : n;
 }
 
 function tocItem(node: CatNode): string {
-  const hay = haystack(node);
+  const self = escapeAttr(tocSelf(node));
   if (node.children?.length && !node.path) {
+    const num = tocNum(node.id);
     return `
-      <li class="toc-group" data-hay="${escapeAttr(hay)}">
+      <li class="toc-group" data-self="${self}">
         <details open>
           <summary>
-            <span class="toc-num">${escapeHtml(displayNum(node.id))}</span>
-            <span>
-              ${escapeHtml(displayTitle(node))}
-              ${node.pali ? `<div class="toc-en">${escapeHtml(node.pali)}</div>` : ""}
+            <span class="toc-summary">
+              <span class="toc-chevron" aria-hidden="true"></span>
+              <span class="toc-body">
+                <span class="toc-title">${num ? `<span class="toc-num">${escapeHtml(num)}</span>` : ""}${escapeHtml(displayTitle(node))}</span>
+                ${node.pali ? `<span class="toc-en">${escapeHtml(node.pali)}</span>` : ""}
+              </span>
+              <span class="toc-count">${countLeaves(node)}</span>
             </span>
-            <span class="toc-en">${countLeaves(node)}</span>
           </summary>
           <ul class="toc-list">
             ${node.children.map((ch) => tocItem(ch)).join("")}
@@ -270,22 +295,75 @@ function tocItem(node: CatNode): string {
   const saved = placeFor(node.route);
   const marked = bookmarksFor(node.route).length > 0;
   const hint = saved ? placeLabel(saved) : marked ? "có dấu" : "";
+  const num = tocNum(node.id);
   return `
-    <li data-hay="${escapeAttr(hay)}">
+    <li data-self="${self}">
       <a href="#/${escapeAttr(node.route)}">
-        <span class="toc-num">${escapeHtml(displayNum(node.id))}</span>
-        <span>
-          ${escapeHtml(displayTitle(node))}
-          ${node.pali ? `<div class="toc-en">${escapeHtml(node.pali)}</div>` : ""}
+        <span class="toc-num">${escapeHtml(num)}</span>
+        <span class="toc-body">
+          <span class="toc-title">${escapeHtml(displayTitle(node))}</span>
+          ${node.pali ? `<span class="toc-en">${escapeHtml(node.pali)}</span>` : ""}
         </span>
-        ${
-          saved || marked
-            ? `<span class="mark${marked ? " is-pin" : ""}" title="${escapeAttr(hint)}"></span>`
-            : `<span></span>`
-        }
+        <span class="toc-slot">
+          ${
+            saved || marked
+              ? `<span class="mark${marked ? " is-pin" : ""}" title="${escapeAttr(hint)}"></span>`
+              : ""
+          }
+        </span>
       </a>
     </li>
   `;
+}
+
+function readerToc(node: CatNode, current: string): string {
+  const kids = node.children ?? [];
+  if (!kids.length) return "";
+  return `<nav class="rtoc" aria-label="Mục lục">${kids.map((ch) => readerNode(ch, current)).join("")}</nav>`;
+}
+
+function readerNode(node: CatNode, current: string): string {
+  const kids = node.children ?? [];
+  if (kids.length && !node.path) {
+    const open = current === node.route || current.startsWith(`${node.route}/`);
+    return `
+      <details class="rtoc-group"${open ? " open" : ""}>
+        <summary>
+          <span class="rtoc-sum">
+            <span class="rtoc-chev" aria-hidden="true"></span>
+            <span class="rtoc-title">${escapeHtml(displayTitle(node))}</span>
+            <span class="rtoc-count">${countLeaves(node)}</span>
+          </span>
+        </summary>
+        <div class="rtoc-kids">${kids.map((ch) => readerNode(ch, current)).join("")}</div>
+      </details>
+    `;
+  }
+  const active = node.route === current;
+  const num = tocNum(node.id);
+  return `
+    <a class="rtoc-link${active ? " active" : ""}" href="#/${escapeAttr(node.route)}"${active ? ' aria-current="page"' : ""}>
+      <span class="rtoc-num">${escapeHtml(num)}</span>
+      <span class="rtoc-title">${escapeHtml(displayTitle(node))}</span>
+    </a>
+  `;
+}
+
+function revealActiveToc(): void {
+  const scroller = app.querySelector<HTMLElement>("#reader-toc .rtoc");
+  const active = scroller?.querySelector<HTMLElement>("a.active");
+  if (!scroller || !active) return;
+  const pane = scroller.getBoundingClientRect();
+  if (pane.height < 8) return;
+  const row = active.getBoundingClientRect();
+  scroller.scrollTop += row.top - pane.top - scroller.clientHeight / 2 + row.height / 2;
+}
+
+function setTocOpen(open: boolean): void {
+  tocOpen = open;
+  app.querySelector(".reader")?.classList.toggle("toc-open", open);
+  app.querySelector("#reader-toc")?.classList.toggle("open", open);
+  if (open) requestAnimationFrame(revealActiveToc);
 }
 
 /* ---------- reader ---------- */
@@ -304,14 +382,11 @@ async function renderReader(
 
   app.innerHTML = `
     ${topBar(cat.title, displayTitle(node), true, node.route)}
-    <div class="reader">
+    <div class="reader${tocOpen ? " toc-open" : ""}">
+      <button class="toc-scrim" type="button" data-act="toc" tabindex="-1" aria-label="Đóng mục lục"></button>
       <aside class="reader-toc${tocOpen ? " open" : ""}" id="reader-toc">
-        ${all
-          .map(
-            (n) =>
-              `<a href="#/${escapeAttr(n.route)}" class="${n.route === node.route ? "active" : ""}">${escapeHtml(displayTitle(n))}</a>`,
-          )
-          .join("")}
+        <p class="rtoc-kicker">Mục lục</p>
+        ${readerToc(vol, node.route)}
       </aside>
       <div class="reader-main">
         <article class="paper sutta" id="sutta"><p class="loading">Đang mở sách…</p></article>
@@ -333,6 +408,7 @@ async function renderReader(
   `;
 
   bindChrome();
+  requestAnimationFrame(revealActiveToc);
 
   const article = app.querySelector<HTMLElement>("#sutta")!;
   try {
@@ -387,10 +463,7 @@ async function renderReader(
     if (tag === "INPUT" || tag === "TEXTAREA") return;
     if (ev.key === "ArrowLeft" && prev) location.hash = `#/${prev.route}`;
     if (ev.key === "ArrowRight" && next) location.hash = `#/${next.route}`;
-    if (ev.key === "t") {
-      tocOpen = !tocOpen;
-      app.querySelector("#reader-toc")?.classList.toggle("open", tocOpen);
-    }
+    if (ev.key === "t") setTocOpen(!tocOpen);
     if (ev.key === "b") toggleCurrentMark();
     if (ev.key === "+" || ev.key === "=") bumpFont(0.05);
     if (ev.key === "-" || ev.key === "_") bumpFont(-0.05);
@@ -506,10 +579,7 @@ function bindChrome() {
       if (act === "bigger") bumpFont(0.05);
       if (act === "smaller") bumpFont(-0.05);
       if (act === "theme") cycleTheme();
-      if (act === "toc") {
-        tocOpen = !tocOpen;
-        app.querySelector("#reader-toc")?.classList.toggle("open", tocOpen);
-      }
+      if (act === "toc") setTocOpen(!tocOpen);
       if (act === "mark") toggleCurrentMark();
     });
   });

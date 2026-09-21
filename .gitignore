@@ -2,6 +2,7 @@
 *.pdf
 .build/
 .parts/
+.task/
 web/dist/
 web/node_modules/
 web/public/data/

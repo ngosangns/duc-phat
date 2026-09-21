@@ -9,7 +9,6 @@ tasks:
     desc: Compile every .typ file to its sibling .pdf (parallel, one-shot)
     cmds:
       - find . -name "*.typ" -not -path "./.git/*" -print0 | xargs -0 -P {{.JOBS}} -n1 typst compile
-    silent: false
 
   dev:
     desc: Build once, then watch all .typ files and hot-recompile whichever one changes
@@ -17,30 +16,80 @@ tasks:
       - task: build
       - bash scripts/watch-dev.sh
 
+  web:install:
+    desc: Install reader dependencies when the lockfile changes
+    dir: web
+    preconditions:
+      - sh: command -v npm
+        msg: "Cần Node.js 20+ và npm."
+    sources:
+      - package.json
+      - package-lock.json
+    generates:
+      - node_modules/.bin/vite
+    cmds:
+      - npm install
+
   web:data:
     desc: Compile Typst volumes into HTML fragments and catalog.json
+    summary: |
+      Full rebuild of web/public/data from the Typst sources.
+
+      Limit to one collection or volume:
+
+        task web:data -- --only vn/dn
+    preconditions:
+      - sh: command -v typst
+        msg: "Cần Typst >= 0.15 (https://typst.app)."
+      - sh: command -v python3
+        msg: "Cần python3."
     cmds:
-      - python3 scripts/build-web.py
+      - '{{if .CLI_ARGS}}python3 scripts/build-web.py {{.CLI_ARGS}}{{else}}python3 scripts/build-web.py{{end}}'
 
   web:dev:
-    desc: Generate data if needed, then run the Vite dev server
+    desc: Vite dev server at http://localhost:5173 (builds data on first run)
+    summary: |
+      Installs npm dependencies, compiles the catalog if web/public/data/catalog.json
+      is missing, then starts Vite.
+
+      Refresh the HTML after Typst edits with `task web:data`.
+      Extra Vite args go after --, for example `task web:dev -- --host`.
+    deps: [web:install]
+    interactive: true
     cmds:
       - test -f web/public/data/catalog.json || python3 scripts/build-web.py
-      - npm --prefix web install
-      - npm --prefix web run dev
+      - npm --prefix web run dev{{if .CLI_ARGS}} -- {{.CLI_ARGS}}{{end}}
 
   web:
     desc: Production build of the reading site into web/dist
+    deps: [web:install, web:data]
     cmds:
-      - python3 scripts/build-web.py
-      - npm --prefix web install
       - npm --prefix web run build
+
+  web:preview:
+    desc: Serve the production build in web/dist
+    dir: web
+    deps: [web:install]
+    interactive: true
+    preconditions:
+      - sh: test -f dist/index.html
+        msg: "Chưa có web/dist. Chạy task web trước."
+    cmds:
+      - npm run preview{{if .CLI_ARGS}} -- {{.CLI_ARGS}}{{end}}
 
   web:deploy:
     desc: Build and deploy the reading site to Cloudflare Pages
+    preconditions:
+      - sh: command -v wrangler
+        msg: "Cần Wrangler trên PATH và quyền deploy project gn-duc-phat."
     cmds:
       - task: web
       - wrangler pages deploy web/dist --project-name gn-duc-phat --branch main --commit-dirty=true
+
+  web:clean:
+    desc: Remove web/dist and generated HTML data
+    cmds:
+      - rm -rf web/dist web/public/data
 
   clean:
     desc: Remove all generated PDFs
