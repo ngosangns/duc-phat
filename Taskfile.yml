@@ -17,6 +17,25 @@ tasks:
       - task: build
       - bash scripts/watch-dev.sh
 
+  web:data:
+    desc: Compile Typst volumes into HTML fragments and catalog.json
+    cmds:
+      - python3 scripts/build-web.py
+
+  web:dev:
+    desc: Generate data if needed, then run the Vite dev server
+    cmds:
+      - test -f web/public/data/catalog.json || python3 scripts/build-web.py
+      - npm --prefix web install
+      - npm --prefix web run dev
+
+  web:
+    desc: Production build of the reading site into web/dist
+    cmds:
+      - python3 scripts/build-web.py
+      - npm --prefix web install
+      - npm --prefix web run build
+
   clean:
     desc: Remove all generated PDFs
     cmds:

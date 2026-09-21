@@ -2,3 +2,6 @@
 *.pdf
 .build/
 .parts/
+web/dist/
+web/node_modules/
+web/public/data/
