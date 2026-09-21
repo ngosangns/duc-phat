@@ -1,5 +1,4 @@
 = 66. Kinh Ví dụ Con chim cáy
-<kinh-ví-dụ-con-chim-cáy>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Latukikopama sutta)]
 
 #divider()

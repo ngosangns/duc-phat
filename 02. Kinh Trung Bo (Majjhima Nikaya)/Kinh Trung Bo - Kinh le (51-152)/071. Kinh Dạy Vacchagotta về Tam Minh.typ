@@ -1,5 +1,4 @@
 = 71. Kinh Dạy Vacchagotta về Tam Minh
-<kinh-dạy-vacchagotta-về-tam-minh>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Tevijjavacchagotta
 sutta)]
 

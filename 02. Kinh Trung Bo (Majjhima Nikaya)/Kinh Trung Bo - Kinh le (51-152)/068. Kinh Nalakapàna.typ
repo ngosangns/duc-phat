@@ -1,5 +1,4 @@
 = 68. Kinh Nalakapàna
-<kinh-nalakapàna>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Nalakapàna sutta)]
 
 #divider()

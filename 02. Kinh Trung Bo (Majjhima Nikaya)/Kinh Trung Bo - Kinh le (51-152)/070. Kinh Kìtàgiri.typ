@@ -1,5 +1,4 @@
 = 70. Kinh Kìtàgiri
-<kinh-kìtàgiri>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Kìtàgiri sutta)]
 
 #divider()

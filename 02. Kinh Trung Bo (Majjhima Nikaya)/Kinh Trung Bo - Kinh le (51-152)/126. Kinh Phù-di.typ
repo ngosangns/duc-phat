@@ -1,5 +1,4 @@
 = 126. Kinh Phù-di
-<kinh-phù-di>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bhùmija sutta)]
 
 #divider()

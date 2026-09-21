@@ -1,5 +1,4 @@
 = 72. Kinh Dạy Vacchagotta về Lửa
-<kinh-dạy-vacchagotta-về-lửa>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Aggivacchagotta sutta)]
 
 #divider()

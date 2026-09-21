@@ -1,5 +1,4 @@
 = Mūla Vinaya Piṭaka Pārājikapāḷi
-<mūla-vinaya-piṭaka-pārājikapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Vinayapiṭake Pārājikapāḷi Verañjakaṇḍaṃ
@@ -11224,7 +11223,6 @@ Aniyatakaṇḍaṃ niṭṭhitaṃ.
 ]
 
 == 1. Cīvaravaggo
-<cīvaravaggo>
 + Paṭhamakathinasikkhāpadaṃ
 
 Ime kho panāyasmanto tiṃsa nissaggiyā pācittiyā
@@ -12587,7 +12585,6 @@ Ubbhataṃ kathinaṃ tīṇi, dhovanañca paṭiggaho; Aññātakāni tīṇeva
 ubhinnaṃ dūtakena cāti.
 
 == 2. Kosiyavaggo
-<kosiyavaggo>
 + Kosiyasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā āḷaviyaṃ viharati aggāḷave cetiye. Tena
@@ -13525,7 +13522,6 @@ Kosiyā suddhadvebhāgā, chabbassāni nisīdanaṃ; Dve ca lomāni uggaṇhe,
 ubho nānappakārakāti.
 
 == 3. Pattavaggo
-<pattavaggo>
 + Pattasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane

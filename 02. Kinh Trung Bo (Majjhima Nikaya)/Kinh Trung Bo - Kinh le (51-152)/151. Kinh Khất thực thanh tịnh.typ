@@ -1,5 +1,4 @@
 = 151. Kinh Khất thực thanh tịnh
-<kinh-khất-thực-thanh-tịnh>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Pindapàtapàrisuddhi
 sutta)]
 

@@ -1,5 +1,4 @@
 = 82. Kinh Ratthapàla
-<kinh-ratthapàla>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Ratthapàla sutta)]
 
 #divider()

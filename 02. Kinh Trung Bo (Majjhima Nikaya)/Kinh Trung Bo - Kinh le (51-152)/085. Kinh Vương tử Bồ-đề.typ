@@ -1,5 +1,4 @@
 = 85. Kinh Vương tử Bồ-đề
-<kinh-vương-tử-bồ-đề>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bodhirajàkumàra sutta)]
 
 #divider()

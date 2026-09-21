@@ -1,5 +1,4 @@
 = 131. Kinh Nhất dạ hiền giả
-<kinh-nhất-dạ-hiền-giả>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bhaddekaratta sutta)]
 
 #divider()

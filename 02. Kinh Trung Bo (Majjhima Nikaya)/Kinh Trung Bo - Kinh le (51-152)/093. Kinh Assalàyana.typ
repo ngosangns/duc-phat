@@ -1,5 +1,4 @@
 = 93. Kinh Assalàyana
-<kinh-assalàyana>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Assalàyana sutta)]
 
 #divider()

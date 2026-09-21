@@ -1,5 +1,4 @@
 = 100. Kinh Sangàrava
-<kinh-sangàrava>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sangàrava sutta)]
 
 #divider()

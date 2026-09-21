@@ -1,5 +1,4 @@
 = 136. Ðại kinh Nghiệp phân biệt
-<ðại-kinh-nghiệp-phân-biệt>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahàkammavibhanga)]
 
 #divider()

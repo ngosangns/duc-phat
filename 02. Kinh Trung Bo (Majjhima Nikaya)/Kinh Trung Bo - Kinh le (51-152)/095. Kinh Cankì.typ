@@ -1,5 +1,4 @@
 = 95. Kinh Cankì
-<kinh-cankì>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Cankì sutta)]
 
 #divider()

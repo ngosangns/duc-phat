@@ -1,5 +1,4 @@
 = 130. Kinh Thiên sứ
-<kinh-thiên-sứ>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Devadùta sutta)]
 
 #divider()

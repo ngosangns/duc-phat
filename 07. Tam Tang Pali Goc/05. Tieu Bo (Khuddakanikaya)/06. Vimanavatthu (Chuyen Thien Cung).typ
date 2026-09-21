@@ -1,5 +1,4 @@
 = Mūla Sutta Piṭaka Khuddakanikāyo Vimānavatthupāḷi
-<mūla-sutta-piṭaka-khuddakanikāyo-vimānavatthupāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Khuddakanikāye Vimānavatthupāḷi
@@ -7,7 +6,6 @@ Khuddakanikāye Vimānavatthupāḷi
 + Itthivimānaṃ
 
 == 1. Pīṭhavaggo
-<pīṭhavaggo>
 + Paṭhamapīṭhavimānavatthu
 
 + ‘‘Pīṭhaṃ te sovaṇṇamayaṃ uḷāraṃ, manojavaṃ gacchati yenakāmaṃ;
@@ -634,7 +632,6 @@ sirimā kesakārikā;
 Vaggo tena pavuccatīti.
 
 == 2. Cittalatāvaggo
-<cittalatāvaggo>
 + Dāsivimānavatthu
 
 + ‘‘Api sakkova devindo, ramme cittalatāvane; Samantā anupariyāsi,
@@ -1056,7 +1053,6 @@ pavuccatīti.
 Bhāṇavāraṃ paṭhamaṃ niṭṭhitaṃ.
 
 == 3. Pāricchattakavaggo
-<pāricchattakavaggo>
 + Uḷāravimānavatthu
 
 + ‘‘Uḷāro te yaso vaṇṇo, sabbā obhāsate disā; Nāriyo naccanti gāyanti,
@@ -1832,7 +1828,6 @@ Uḷāro ucchu pallaṅko, latā ca guttilena ca; Daddallapesamallikā,
 visālakkhi pāricchattako; Vaggo tena pavuccatīti.
 
 == 4. Mañjiṭṭhakavaggo
-<mañjiṭṭhakavaggo>
 + Mañjiṭṭhakavimānavatthu
 
 + ‘‘Mañjiṭṭhake \[mañjeṭṭhake (sī.)\] vimānasmiṃ, soṇṇavālukasanthate
@@ -2376,7 +2371,6 @@ Itthivimānaṃ samattaṃ.
 ]
 
 == 5. Mahārathavaggo
-<mahārathavaggo>
 + Maṇḍūkadevaputtavimānavatthu
 
 + ‘‘Ko me vandati pādāni, iddhiyā yasasā jalaṃ; Abhikkantena vaṇṇena,
@@ -3045,7 +3039,6 @@ nāgā ca dve rathā; Purisānaṃ paṭhamo vaggo pavuccatīti.
 Bhāṇavāraṃ tatiyaṃ niṭṭhitaṃ.
 
 == 6. Pāyāsivaggo
-<pāyāsivaggo>
 + Paṭhamaagāriyavimānavatthu
 
 1048.‘‘Yathā vanaṃ cittalataṃ pabhāsati \[pakāsati (ka.)\],
@@ -3262,7 +3255,6 @@ dve, kuṇḍalino pāyāsīti \[pāṭhabhedo natthi\];
 Purisānaṃ dutiyo vaggo pavuccatīti.
 
 == 7. Sunikkhittavaggo
-<sunikkhittavaggo>
 + Cittalatāvimānavatthu
 
 1114.‘‘Yathā vanaṃ cittalataṃ pabhāsati, uyyānaseṭṭhaṃ tidasānamuttamaṃ;

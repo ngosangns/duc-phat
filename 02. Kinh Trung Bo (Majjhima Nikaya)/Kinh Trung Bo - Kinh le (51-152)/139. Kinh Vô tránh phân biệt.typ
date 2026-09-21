@@ -1,5 +1,4 @@
 = 139. Kinh Vô tránh phân biệt
-<kinh-vô-tránh-phân-biệt>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Aranavibhanga sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = 134. Kinh Lomasakangiya Nhất dạ hiền giả
-<kinh-lomasakangiya-nhất-dạ-hiền-giả>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \
 #emph[\(Lomasakangiyabhaddekaratta sutta)]
 

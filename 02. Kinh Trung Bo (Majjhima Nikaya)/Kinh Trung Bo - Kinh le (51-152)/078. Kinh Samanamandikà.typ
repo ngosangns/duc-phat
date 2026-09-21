@@ -1,5 +1,4 @@
 = 78. Kinh Samanamandikà
-<kinh-samanamandikà>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Samanamandikàputta
 sutta)]
 

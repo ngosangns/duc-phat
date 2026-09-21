@@ -1,5 +1,4 @@
 = 96. Kinh Esukàrì
-<kinh-esukàrì>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Esukàrì sutta)]
 
 #divider()

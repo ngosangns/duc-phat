@@ -1,5 +1,4 @@
 = 77. Ðại kinh Sakuludàyi
-<ðại-kinh-sakuludàyi>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahàsakuludàyin sutta)]
 
 #divider()

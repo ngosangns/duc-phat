@@ -1,5 +1,4 @@
 = Luật Tạng (Vinaya Piṭaka) --- Tập 04: Đại Phẩm I (Mahāvagga)
-<luật-tạng-vinaya-piṭaka-tập-04-đại-phẩm-i-mahāvagga>
 TAM TẠNG SONG NGỮ PĀLI - VIỆT
 
 VESAK 2550
@@ -8,25 +7,6 @@ Buddhist Cultural Centre 125 Anderson Road, Nedimala, Dehivala, Sri
 Lanka Sabbadānaṃ dhammadānaṃ jināti. Sự bố thí Pháp vượt trên tất cả các
 sự bố thí.
 
-Thí Chủ: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Dâng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Ước Nguyện: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-Hồi hướng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 TAM TẠNG SONG NGỮ PĀLI - VIỆT - TẬP 04
 
 VINAYAPITAKE
@@ -40,7 +20,6 @@ TẠNG LUẬT
 ĐẠI PHẨM
 
 == TẬP MỘT
-<tập-một>
 PHẬT LỊCH 2553 DƯƠNG LỊCH 2009 In lần thứ nhất: PL 2553 - DL 2009 Số
 Lượng 600 cuốn
 
@@ -55,37 +34,7 @@ Website: www.buddhistcc.com
 Printed by: Ajith Printers (Pvt) Ltd.~342 Old Kesbewa Road Ratanapitiya,
 Borelesgamuwa, Sri Lanka. Tel: 94-11-251 7269
 
-MỤC LỤC TỔNG QUÁT
-
-Mục Lục Tổng Quát iii
-
-Lời Tựa - Sinhala và Việt ngữ v - xiv
-
-Văn Bản của Bộ Tôn Giáo - Anh và Việt ngữ xv - xvi
-
-Thành Phần Nhân Sự xvii
-
-Lược Đồ Tam Tạng xviii - xix
-
-Lời Giới Thiệu xxiii - xxv
-
-Các Chữ Viết Tắt xxvii
-
-Mẫu Tự Pāḷi - Sinhala xxviii - xxix
-
-Mục Lục Đại Phẩm - Tập Một xxxi - xxxvi
-
-Văn Bản Pāḷi và Văn Bản Tiếng Việt 02 - 517
-
-Phần Phụ Chú 519 - 522
-
-Thư Mục Câu Kệ Pāḷi 523 - 525
-
-Thư Mục Danh Từ Riêng 527 - 529
-
-Thư Mục Từ Đặc Biệt 531 - 549
-
-Phương Danh Thí Chủ 551 - 555
+#outline(title: [Mục lục])
 
 #divider()
 
@@ -95,7 +44,7 @@ paṭicchanno.”
 “Này các tỳ khưu, Pháp và Luật đã được công bố bởi đức Như Lai là bộc
 lộ, chói sáng, không che giấu.”
 
--
+#divider()
 
 \(Aṅguttaranikāya Tikanipātapāḷi Kusinaravagga Paṭichannasutta,
 Parivārapāḷi Ekuttarikanaya Tikavāra - Bộ Tăng Chi, Chương Ba Pháp, Phẩm
@@ -461,8 +410,7 @@ niệm Buddha Jayanti lần thứ 2550 là chính xác về phần Pali văn. Ph
 Pali văn được phiên âm sang mẫu tự Roman có giá trị tương đương về nội
 dung so với văn bản gốc bằng mẫu tự Sinhala.
 
-=== B. N. Jinasena Thư Ký Chánh văn phòng
-<b.-n.-jinasena-thư-ký-chánh-văn-phòng>
+B. N. Jinasena Thư Ký Chánh văn phòng
 Địa Chỉ: 115 Wijerama Mawatha, Colombo 07, Sri Lanka Office:
 94-11-2690896 Fax: 94-11-2690897 Deputy Minister: 94-11-5375128,
 94-11-2690898 Secretary: 94-11-2690736
@@ -483,7 +431,7 @@ Nandana Tipiṭaka Dhammāyatana Malegoḍa, Payāgala - Sri Lanka
 CỐ VẤN VI TÍNH: Ven. Mettāvihārī (Đan Mạch) Ban điều hành Mettānet
 Foundation
 
--
+#divider()
 
 ĐIỀU HÀNH TỔNG QUÁT: Tỳ Khưu Indacanda
 
@@ -501,10 +449,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 
 Pārājikapāḷi Phân Tích Giới Tỳ Khưu I 01
 
-=== V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
-<v-pācittiyapāḷi-bhikkhu-phân-tích-giới-tỳ-khưu-ii-02>
-=== I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
-<i-l-pācittiyapāḷi-bhikkhunī-phân-tích-giới-tỳ-khưu-ni-03-n-u-mahāvaggapāḷi-i-đại-phẩm-i-04>
+V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
+I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
 A Ậ Mahāvaggapāḷi II Đại Phẩm II 05 Y T Cullavaggapāḷi I Tiểu Phẩm I 06
 A Cullavaggapāḷi II Tiểu Phẩm II 07 Parivārapāḷi I Tập Yếu I 08
 Parivārapāḷi II Tập Yếu II 09
@@ -528,10 +474,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 K Khuddakapāṭha Tiểu Tụng 28 H Dhammapadapāḷi Pháp Cú - U Udānapāḷi Phật
 Tự Thuyết -
 
-=== D Itivuttakapāḷi Phật Thuyết Như Vậy -
-<d-itivuttakapāḷi-phật-thuyết-như-vậy-->
-=== D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
-<d-suttanipātapāḷi-kinh-tập-29-a-vimānavatthupāḷi-chuyện-thiên-cung-30>
+D Itivuttakapāḷi Phật Thuyết Như Vậy -
+D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
 K Petavatthupāḷi Chuyện Ngạ Quỷ - S A Theragathāpāḷi Trưởng Lão Kệ 31 U
 N Therīgāthāpāḷi Trưởng Lão Ni Kệ - T K I Jātakapāḷi I Bổn Sanh I 32 T I
 K Jātakapāḷi II Bổn Sanh II 33 A N Ā Jātakapāḷi III Bổn Sanh III 34 N H
@@ -540,27 +484,21 @@ Paṭisambhidāmagga I Phân Tích Đạo I 37 \* Paṭisambhidāmagga II Phân 
 Đạo II 38 Apadānapāḷi I Thánh Nhân Ký Sự I 39 T Apadānapāḷi II Thánh
 Nhân Ký Sự II 40
 
-=== I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
-<i-apadānapāḷi-iii-thánh-nhân-ký-sự-iii-41-ể-buddhavaṃsapāḷi-phật-sử-42>
+I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
 U Cariyāpiṭakapāḷi Hạnh Tạng - Nettipakaraṇa (chưa dịch) 43 B
 Peṭakopadesa (chưa dịch) 44 Ộ Milindapañhāpāḷi Mi Tiên Vấn Đáp 45
 
 Dhammasaṅganipakaraṇa Bộ Pháp Tụ 46
 
-=== V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
-<v-vibhaṅgapakaraṇa-i-bộ-phân-tích-i-47-a-i-vibhaṅgapakaraṇa-ii-bộ-phân-tích-ii-48>
+V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
 B Kathāvatthu I Bộ Ngữ Tông I 49 H D Kathāvatthu II Bộ Ngữ Tông II 50
 
-=== I I Kathāvatthu III Bộ Ngữ Tông III 51
-<i-i-kathāvatthu-iii-bộ-ngữ-tông-iii-51>
-=== D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
-<d-ệ-dhātukathā-bộ-chất-ngữ---h-u-puggalapaññattipāḷi-bộ-nhân-chế-định-52>
+I I Kathāvatthu III Bộ Ngữ Tông III 51
+D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
 A Yamakapakaraṇa I Bộ Song Đối I 53
 
-=== M P Yamakapakaraṇa II Bộ Song Đối II 54
-<m-p-yamakapakaraṇa-ii-bộ-song-đối-ii-54>
-=== M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
-<m-h-yamakapakaraṇa-iii-bộ-song-đối-iii-55-a-á-patthānapakaraṇa-i-bộ-vị-trí-i-56>
+M P Yamakapakaraṇa II Bộ Song Đối II 54
+M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
 P Patthānapakaraṇa II Bộ Vị Trí II 57 Patthānapakaraṇa III Bộ Vị Trí III
 58
 
@@ -574,8 +512,9 @@ TẠNG LUẬT
 
 ĐẠI PHẨM
 
-== TẬP MỘT Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
-<tập-một-tāni-ca-sutte-otāriyamānāni-vinaye-sandassiyamānāni-sutte-ceva-otaranti-vinaye-ca-sandissanti-niṭṭham-ettha-gantabbaṃ-addhā-idaṃ>
+== TẬP MỘT
+
+Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
 tassa bhagavato vacanaṃ, tassa ca therassa suggahitan'ti.
 
 \(Dīghanikāya II, Mahāparinibbānasutta).
@@ -586,7 +525,9 @@ Kinh, cần được xem xét ở Luật, và chỉ khi nào chúng hiện diệ
 chắc chắn là lời giảng dạy của đức Thế Tôn và đã được vị trưởng lão ấy
 tiếp thâu đúng đắn.”
 
-\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn). LỜI GIỚI THIỆU
+\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn).
+
+== Lời giới thiệu
 
 #divider()
 
@@ -610,13 +551,13 @@ Khandhaka, và Parivāra.
 
 Tổng cọng Vinayapiṭaka - Tạng Luật sẽ được ấn tống thành 9 tập.
 
--
+#divider()
 
 Mahāvagga - Đại Phẩm được trình bày thành hai tập, mỗi tập có 5 chương.
 Năm chương đầu thuộc Mahāvagga 1 & Đại Phẩm 1 (TTPV 04, Tam Tạng Pāḷi -
 Việt tập 04) có nội dung tóm lược như sau:
 
-- Chương 1 nói về sự khởi đầu của Giáo Pháp được tính từ lúc đức Thế Tôn
+-- Chương 1 nói về sự khởi đầu của Giáo Pháp được tính từ lúc đức Thế Tôn
   chứng đắc quả Vô Thượng Chánh Đẳng Giác, việc quyết định thuyết giảng
   tế độ chúng sanh hữu duyên nhờ vào sự kiên trì thỉnh cầu của vị Phạm
   Thiên Sahampati, và quá trình hình thành Hội Chúng tỳ khưu với những
@@ -626,34 +567,34 @@ Việt tập 04) có nội dung tóm lược như sau:
   trọng) không những vì chứa đựng nhiều lượng thông tin mà còn có những
   sử liệu giá trị về giai đoạn ban đầu của một tôn giáo lớn về sau này.
 
-- Chương 2 giảng giải về lễ Uposatha với nguyên nhân ban đầu là lời
+-- Chương 2 giảng giải về lễ Uposatha với nguyên nhân ban đầu là lời
   thỉnh cầu của đức vua Seniya Bimbisāra và nhiều vấn đề có liên quan
   đến việc tiến hành cuộc lễ như việc ấn định ranh giới (sīmā) và nhà
   hành lễ Uposatha, việc trình báo tội, việc đọc tụng giới bổn
   Pātimokkha, v.v… Việc gìn giữ tính chất hợp nhất của hội chúng là điểm
   được nhấn mạnh ở chương này.
 
-- Chương 3 giảng giải về việc vào mùa (an cư) mưa. Tuy chỉ được ghi lại
+-- Chương 3 giảng giải về việc vào mùa (an cư) mưa. Tuy chỉ được ghi lại
   trong hai tụng phẩm nhưng nội dung của chương này trình bày những sự
   việc có liên quan trong bốn tháng, tức là một phần ba thời gian của
   năm, về đời sống sinh hoạt và tu tập của vị tỳ khưu. Chương này cần
   được xem xét kỹ lưỡng vì có những tư liệu mới chưa được trình bày
   trong các tài liệu về Luật đã được phổ biến.
 
-- Chương 4 giảng giải về lễ Pavāraṇā tức là một trong những hình thức
+-- Chương 4 giảng giải về lễ Pavāraṇā tức là một trong những hình thức
   góp ý nhau về đời sống tu tập có liên quan đến giới luật. Hành sự của
   lễ Pavāraṇā tuy chỉ được tiến hành một lần trong năm sau ba tháng cư
   trú mùa mưa, nhưng có tầm quan trọng tương đương với lễ Uposatha nhằm
   bảo tồn sự trong sạch đồng thời tính hợp nhất của hội chúng.
 
-- Chương 5 nói về da thú có liên quan đến đời sống của các vị tỳ khưu ví
+-- Chương 5 nói về da thú có liên quan đến đời sống của các vị tỳ khưu ví
   dụ như giày dép, v.v… Câu chuyện xuất gia của thanh niên Soṇa Koḷivisa
   ở đầu chương giới thiệu về sự nỗ lực tinh tấn của vị tỳ khưu trẻ tuổi
   này, dẫu rằng do chính sự tinh tấn quá mức này đã là chướng ngại cho
   sự đắc chứng của vị ấy nhưng cũng là một ví dụ để chúng ta thấy được
   động cơ tu tập của các vị xuất gia vào thời đức Phật còn tại tiền.
 
--
+#divider()
 
 Về hình thức, văn bản Pāḷi Roman được trình bày ở đây đã được phiên âm
 lại từ văn bản Pāḷi - Sinhala, ấn bản Buddha Jayanti Tripitaka Series
@@ -759,8 +700,7 @@ l ka L kha . ga U gha X ṅa p ca P cha c ja ® jha \[ ña g ṭa G ṭha v ḍa
 h ya r ra , la j va i sa y ha \< ḷa x ṃ l ka ld kā ls ki lS kī l= ku l+
 kū fl ke fld ko
 
-=== L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
-<l-kha-ld-khā-ls-khi-ls-khī-lq-khu-lq-khū-fl-khe-fld-kho-.-ga-.d-gā-.s-gi-.s-gī-.-gu-.-gū-f.-ge-f.d-go>
+L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
 PHỤ ÂM LIÊN KẾT
 
 ll kka \[\[ ñña \;% tra uM mpha lL kkha Ky ṇha oo dda un mba lH kya \[p
@@ -769,10 +709,8 @@ uy mha LH khya \[® ñjha Oj dhva hh, hH yya Lj khva gg ṭṭa k; nta hy yha
 \.. gga gG ṭṭha J: ntha ,, lla \.\> ggha vv ḍḍa Jo, | nda ,H lya Xl ṅka
 vV ḍḍha JO ndha ,y lha \.% gra KK ṇṇa \;; nna jh vha
 
-=== XL ṅkha Kg ṇṭa \;y nha ii ssa
-<xl-ṅkha-kg-ṇṭa-y-nha-ii-ssa>
-=== X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
-<x.-ṅga-kg-ṇṭha-mm-ppa-iu-sma-x-ṅgha-kv-ṇḍa-mm-ppha-ij-sva>
+XL ṅkha Kg ṇṭa \;y nha ii ssa
+X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
 pp cca \;; tta nn bba yu hma pP ccha F: ttha nN bbha yj hva cc jja Fj
 tva n% bra \<y ḷha c® jjha um mpa
 
@@ -812,7 +750,6 @@ MAHĀVAGGAPĀḶI - PAṬHAMO BHĀGO ĐẠI PHẨM - TẬP MỘT
 VISAYASŪCI - MỤC LỤC
 
 === I. MAHĀKHANDHAKAṂ - CHƯƠNG TRỌNG YẾU:
-<i.-mahākhandhakaṃ---chương-trọng-yếu>
 Bodhikathā - Phần giảng về sự Giác Ngộ 02 Ajapālakathā - Phần giảng về
 (cội cây si của những) người chăn dê 06 Mucalindakathā - Phần giảng về
 cây Mucalinda 06 Rājāyatanakathā - Phần giảng về cây Rājāyatana 08
@@ -878,10 +815,9 @@ nissayā - Bốn vật nương nhờ 238 Cattāri akaranīyāni - Bốn điều 
 làm 240 Āpattiyā adassanādisu ukkhittakā - Các vị bị án treo trong việc
 không nhìn nhận tội, v.v Uddānagāthā - Các câu kệ tóm lược 244
 
--
+#divider()
 
 === II. UPOSATHAKKHANDHAKAṂ - CHƯƠNG UPOSATHA:
-<ii.-uposathakkhandhakaṃ---chương-uposatha>
 Uposathasannipātakathā - Phần giảng về việc tụ hội vào ngày lễ Uposatha
 248 Pātimokkhuddeso - Việc đọc tụng giới bổn Pātimokkha 250
 Mahākappinavisuddhikathā - Phần giảng về sự thanh tịnh của vị
@@ -927,10 +863,9 @@ nên đi 336 Gantabbavārā - Các trường hợp có thể đi 338
 Vajjanīyapuggaladassanādi - Về sự hiện diện (ở lễ Uposatha) của những
 nhân vật cần phải tránh, v.v Uddānagāthā - Các câu kệ tóm lược 342
 
--
+#divider()
 
 === III. VASSŪPANĀYIKAKKHANDHAKAṂ - CHƯƠNG VÀO MÙA MƯA:
-<iii.-vassūpanāyikakkhandhakaṃ---chương-vào-mùa-mưa>
 Dve vassūpanāyikā - Hai thời điểm vào mùa (an cư) mưa 346 Vassāne
 cārikapaṭikkhepo - Sự ngăn cấm việc ra đi trong mùa (an cư) mưa 348
 
@@ -945,10 +880,9 @@ Akattabbakatikā - Điều thỏa thuận không nên thực hiện 382 Paṭiss
 dukkaṭāpatti - Tội dukkaṭa ở sự nhận lời 382 Uddānagāthā - Các câu kệ
 tóm lược 392
 
--
+#divider()
 
 === IV. PAVĀRAṆAKKHANDHAKAṂ - CHƯƠNG PAVĀRAṆĀ:
-<iv.-pavāraṇakkhandhakaṃ---chương-pavāraṇā>
 Phāsuka-aphāsukavihārādikathā - Phần giảng về việc cư ngụ thoải mái và
 không thoải mái, v.v Pavāraṇavidhi-anujānanā - Cách thức và việc cho
 phép về lễ Pavāraṇā 400 Dve pavāraṇā - Hai lễ Pavāraṇā 402 Cattāri
@@ -982,10 +916,9 @@ xung đột 464 Phāsuvihārādhigamo - Sự đạt đến trạng thái trú ng
 mái 468 Pavāraṇasaṅgahā - Việc hoãn lại ngày lễ Pavāraṇā 470 Uddānagāthā
 \- Các câu kệ tóm lược 472
 
--
+#divider()
 
 === V. CAMMAKKHANDHAKAṂ - CHƯƠNG DA THÚ:
-<v.-cammakkhandhakaṃ---chương-da-thú>
 Soṇakoḷivīsavatthu - Câu chuyện về Soṇa Koḷivīsa 474
 Diguṇādi-upāhanapaṭikkhepo - Việc ngăn cấm các đôi dép loại hai lớp, v.v
 Sabbanīlikādi-upāhanapaṭikkhepo - Việc ngăn cấm các đôi dép toàn màu
@@ -1016,15 +949,13 @@ TẠNG LUẬT
 ĐẠI PHẨM
 
 == TẬP MỘT VINAYAPIṬAKE
-<tập-một-vinayapiṭake>
 MAHĀVAGGAPĀḶI PAṬHAMO BHĀGO
 
 Namo tassa bhagavato arahato sammāsambuddhassa.
 
--
+#divider()
 
 === I. MAHĀKHANDHAKAṂ
-<i.-mahākhandhakaṃ>
 + Tena samayena buddho bhagavā uruvelāyaṃ viharati najjā nerañjarāya
   tīre bodhirukkhamūle paṭhamābhisambuddho.
 
@@ -1056,13 +987,11 @@ TẠNG LUẬT
 ĐẠI PHẨM
 
 == TẬP MỘT
-<tập-một-1>
 Kính lễ đức Thế Tôn, bậc A-la-hán, đấng Chánh Biến Tri!
 
--
+#divider()
 
 === I. CHƯƠNG TRỌNG YẾU:
-<i.-chương-trọng-yếu>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại Uruvelā bên bờ sông Nerañjarā
   nơi cội cây bồ đề và vừa mới thành tựu quả vị Chánh Đẳng Giác.
 
@@ -1132,7 +1061,7 @@ tiṭṭhati mārasenaṃ suriyo 'va 1 obhāsayamantalikkhan ”ti.
 
 Bodhikathā niṭṭhitā.
 
--
+#divider()
 
 sūriyova - Ma, katthaci sūrova itipi dissati.
 
@@ -1184,7 +1113,7 @@ như ánh mặt trời đang rọi sáng không gian.”
 
 Dứt phần giảng về sự Giác Ngộ.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -1207,7 +1136,7 @@ kuhiñci loke ”ti.
 
 Ajapālakathā niṭṭhitā.
 
--
+#divider()
 
 + Atha kho bhagavā sattāhassa accayena tamhā samādhimhā vuṭṭhahitvā
   ajapālanigrodhamūlā yena mucalindo tenupasaṅkami, upasaṅkamitvā
@@ -1262,7 +1191,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt phần giảng về (cội cây si của những) người chăn dê.
 
--
+#divider()
 
 + Sau đó khi bảy ngày trôi qua, đức Thế Tôn đã xuất khỏi định ấy rồi từ
   cội cây si của những người chăn dê đã đi đến cây Mucalinda, sau khi
@@ -1703,7 +1632,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
   gāthāhi ajjhabhāsi:
 ]
 
-- “Sabbābhibhū sabbavidū 'hamasmi sabbesu dhammesu anūpalitto,
+-- “Sabbābhibhū sabbavidū 'hamasmi sabbesu dhammesu anūpalitto,
   sabbañjaho taṇhakkhaye vimutto sayaṃ abhiññāya kamuddiseyyaṃ.
 
 Na me ācariyo atthi sadiso me na vijjati, sadevakasmiṃ lokasmiṃ natthi
@@ -1715,9 +1644,9 @@ sītibhūtosmi nibbuto.
 Dhammacakkaṃ pavattetuṃ gacchāmi kāsīnaṃ puraṃ, andhabhūtasmiṃ lokasmiṃ
 āhañchaṃ 2 amatadundubhin ”ti.
 
-- “Yathā kho tvaṃ āvuso paṭijānāsi, arahasi anantajino ”ti.
+-- “Yathā kho tvaṃ āvuso paṭijānāsi, arahasi anantajino ”ti.
 
-- “Mādisā ve jinā honti ye pattā āsavakkhayaṃ, jitā me pāpakā dhammā
+-- “Mādisā ve jinā honti ye pattā āsavakkhayaṃ, jitā me pāpakā dhammā
   tasmāhaṃ upakā 3 jino ”ti.
 
 #block[
@@ -1754,7 +1683,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
   Upaka bằng những lời kệ này:
 ]
 
-- “Ta là bậc vượt trên tất cả, là người hiểu biết toàn bộ, không còn bị
+-- “Ta là bậc vượt trên tất cả, là người hiểu biết toàn bộ, không còn bị
   vướng mắc trong tất cả các Pháp, đã dứt bỏ tất cả, đã được giải thoát
   trong việc đoạn tận tham ái, sau khi tự mình chứng đắc thì ai có thể
   chỉ dạy (được ta)?
@@ -1768,7 +1697,7 @@ bậc Chánh Đẳng Giác, ta có được trạng thái mát mẻ, Niết Bàn
 Ta đi đến thành Kāsī để chuyển vận bánh xe Giáo Pháp. Ta sẽ đánh lên
 tiếng trống Bất Tử ở thế gian đang bị tối tăm.”
 
-- “Này đạo hữu, theo như đạo hữu cho biết thì đạo hữu xứng đáng là bậc
+-- “Này đạo hữu, theo như đạo hữu cho biết thì đạo hữu xứng đáng là bậc
   Chiến Thắng vô biên.”
 
 \(Đức Phật đáp lại rằng): - “Này Upaka, quả vậy tương đương với ta là
@@ -2422,7 +2351,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Paṭhamakabhāṇavāraṃ.
 
--
+#divider()
 
 + Tena kho pana samayena bārāṇasiyaṃ yaso nāma kulaputto seṭṭhiputto
   sukhumālo hoti. Tassa tayo pāsādā honti. Eko hemantiko, eko gimhiko,
@@ -2474,7 +2403,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Tụng phẩm thứ nhất.
 
--
+#divider()
 
 + Vào lúc bấy giờ, ở Bārāṇasī có người con trai gia đình danh giá tên
   Yasa, là con trai nhà đại phú, có vóc dáng mảnh mai. Chàng trai có ba
@@ -2739,7 +2668,7 @@ Tena kho pana samayena satta loke arahanto honti.
 
 Yasassa pabbajjā niṭṭhitā.
 
--
+#divider()
 
 dehi mātu jīvitan ti - PTS.
 
@@ -2795,7 +2724,7 @@ Vào lúc bấy giờ, trên thế gian có bảy vị A-la-hán.
 
 Dứt sự xuất gia của Yasa.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -3095,7 +3024,7 @@ Vào lúc bấy giờ, trên thế gian có sáu mươi mốt vị A-la-hán.
   với đức Thế Tôn bằng những lời kệ này:
 ]
 
-- “Ngài đã bị trói buộc bởi tất cả các sự trói buộc thuộc về cõi trời và
+-- “Ngài đã bị trói buộc bởi tất cả các sự trói buộc thuộc về cõi trời và
   loài người. Ngài đã bị trói buộc bởi sự trói buộc lớn lao. Này vị
   Sa-môn, Ngài không thoát khỏi ta!”
 
@@ -3116,7 +3045,7 @@ dummano tatthevantaradhāyī ”ti.
 
 Mārakathā ekādasamī niṭṭhitā.
 
--
+#divider()
 
 + Tena kho pana samayena bhikkhū nānādisā nānājanapadā pabbajjāpekhe
   upasampadāpekhe2 ānenti: “Bhagavā ne pabbājessati upasampādessatī ”ti.
@@ -3143,11 +3072,11 @@ PTS.
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
-- “Sự trói buộc này, có sự di chuyển ở khoảng không, và hoạt động ở
+-- “Sự trói buộc này, có sự di chuyển ở khoảng không, và hoạt động ở
   trong tâm. Ta sẽ trói buộc ngài lại bằng vật ấy. Này vị Sa-môn, ngài
   không thoát khỏi ta!”
 
-- “Các sắc, các thinh, các hương, các vị, và các xúc là các niềm thích
+-- “Các sắc, các thinh, các hương, các vị, và các xúc là các niềm thích
   thú của tâm. Sự mong muốn của ta ở điều ấy đã không còn. Này kẻ gây tử
   vong, ngươi đã bị thua rồi.”
 
@@ -3157,7 +3086,7 @@ ngay tại chỗ ấy.
 
 Dứt phần giảng về Ma Vương là phần thứ mười một.
 
--
+#divider()
 
 + Vào lúc bấy giờ, các vị tỳ khưu thuộc nhiều phương khác nhau, thuộc
   nhiều xứ sở khác nhau đã dẫn theo những người có ý muốn xuất gia,
@@ -3216,7 +3145,7 @@ Anujānāmi bhikkhave, imehi tīhi saraṇagamanehi pabbajjaṃ upasampadan
 
 Tīhi saraṇagamanehi pabbajjā-upasampadākathā dvādasamī niṭṭhitā.
 
--
+#divider()
 
 + Atha kho bhagavā vassaṃ vuttho3 bhikkhū āmantesi: “Mayhaṃ kho
   bhikkhave, yoniso manasikārā yoniso sammappadhānā anuttarā vimutti
@@ -3268,7 +3197,7 @@ Này các tỳ khưu, ta cho phép sự xuất gia, sự tu lên bậc trên b�
 Dứt phần giảng về sự xuất gia, sự tu lên bậc trên bằng ba sự đi đến
 nương nhờ là phần thứ mười hai.
 
--
+#divider()
 
 + Sau đó, khi đã sống qua mùa mưa, đức Thế Tôn đã bảo các tỳ khưu rằng:
   \- “Này các tỳ khưu, ta có các sự tác ý đúng đắn, có các sự tinh tấn
@@ -3281,7 +3210,7 @@ nương nhờ là phần thứ mười hai.
 + Sau đó, Ma Vương tội lỗi đã đi đến gặp đức Thế Tôn, sau khi đến đã nói
   với đức Thế Tôn bằng bài kệ này:
 
-- “Ngài đã bị trói buộc bởi tất cả các sự trói buộc thuộc về cõi trời và
+-- “Ngài đã bị trói buộc bởi tất cả các sự trói buộc thuộc về cõi trời và
   loài người. Ngài đã bị trói buộc bởi sự trói buộc của tử thần. Này vị
   Sa- môn, Ngài không thoát khỏi ta!”
 
@@ -3399,7 +3328,7 @@ Bhaddavaggiyasahāyakānaṃ vatthu niṭṭhitaṃ.
 
 Dutiyakabhāṇavāraṃ.
 
--
+#divider()
 
 + Atha kho bhagavā anupubbena cārikaṃ caramāno yena uruvelā tadavasari.
   Tena kho pana samayena uruvelāyaṃ tayo jaṭilā paṭivasanti:
@@ -3442,7 +3371,7 @@ Dứt câu chuyện về những người bạn thuộc nhóm các vương tử.
 
 Tụng phẩm thứ nhì.
 
--
+#divider()
 
 + Sau đó, trong khi tuần tự du hành đức Thế Tôn đã ngự đến Uruvelā. Vào
   lúc bấy giờ, có ba vị đạo sĩ bện tóc đang cư trú ở Uruvelā là Uruvela-
@@ -3596,7 +3525,7 @@ pariyādinno assa tejasā tejo 'ti.
 
 Paṭhamaṃ pāṭihāriyaṃ.
 
--
+#divider()
 
 ajjaṇho aggisālamhīti - Ma, PTS. 7 atha tassā rattiyā - Ma;
 
@@ -3620,12 +3549,12 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
   ta ngụ ở nơi thờ phụng lửa.'
 ]
 
-- ‘Này vị đại Sa-môn, quả chằng có trở ngại cho tôi. Chỉ vì muốn được
+-- ‘Này vị đại Sa-môn, quả chằng có trở ngại cho tôi. Chỉ vì muốn được
   yên tâm mà tôi ngăn cản ngài. Nơi đây có con rồng chúa dữ tợn, có pháp
   thuật, là con rắn có nọc độc khủng khiếp, không thể để cho nó hại ngài
   được.'
 
-- ‘Biết đâu nó có thể không hại ta. Này Kassapa, ngươi hãy cho phép (ta
+-- ‘Biết đâu nó có thể không hại ta. Này Kassapa, ngươi hãy cho phép (ta
   cư ngụ) nhà thờ lửa đi.' Sau khi biết được điều ấy là: ‘Đã được cho
   phép,' Ngài đã đi vào, không khiếp đảm, đã lìa nỗi sợ hãi.
 
@@ -3661,7 +3590,7 @@ vì ngọn lửa (của ta).' 1
 
 Điều kỳ diệu thứ nhất.
 
--
+#divider()
 
 Ngài Buddhaghosa cho biết đây là các lời kệ được lưu truyền về sau này
 (VinA. v, 971).
@@ -3694,7 +3623,7 @@ tasmiṃyeva vanasaṇḍe vihāsi.
 
 Dutiyaṃ pāṭihāriyaṃ.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 7)
@@ -3731,7 +3660,7 @@ lúc đêm khuya những ai có hào quang rực rỡ đã làm chói sáng toà
 rừng rậm, rồi đã đi đến gặp ngài, sau khi đến đã đảnh lễ ngài rồi đứng ở
 bốn phương giống như là những khối lửa khổng lồ vậy?”
 
-- “Này Kassapa, các vị ấy là bốn vị Đại Thiên Vương đã đi đến gặp ta để
+-- “Này Kassapa, các vị ấy là bốn vị Đại Thiên Vương đã đi đến gặp ta để
   nghe Pháp.” Khi ấy, đạo sĩ bện tóc Uruvelakassapa đã khởi ý điều này:
   “Vị đại Sa-môn quả thật có đại thần lực, có đại oai lực bởi vì ngay cả
   bốn vị Đại Thiên Vương còn đi đến gặp để nghe Pháp, nhưng vị ấy không
@@ -3742,7 +3671,7 @@ kassapa rồi đã cư ngụ ở ngay trong khu rừng rậm ấy.
 
 Điều kỳ diệu thứ nhì.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 7)
@@ -3815,7 +3744,7 @@ Catutthaṃ pāṭihāriyaṃ.
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
-- “Này Kassapa, vị ấy là chúa của chư Thiên Sakka đã đi đến gặp ta để
+-- “Này Kassapa, vị ấy là chúa của chư Thiên Sakka đã đi đến gặp ta để
   nghe Pháp.” Khi ấy, đạo sĩ bện tóc Uruvelakassapa đã khởi ý điều này:
   “Vị đại Sa-môn quả thật có đại thần lực, có đại oai lực bởi vì ngay cả
   chúa của chư Thiên Sakka còn đi đến gặp để nghe Pháp, nhưng vị ấy
@@ -3843,7 +3772,7 @@ kassapa rồi đã cư ngụ ở ngay trong khu rừng rậm ấy.
   và thù thắng hơn những hào quang đầy màu sắc trước đây nữa vậy?”
 ]
 
-- “Này Kassapa, vị ấy là Phạm Thiên Sahampati đã đi đến gặp ta để nghe
+-- “Này Kassapa, vị ấy là Phạm Thiên Sahampati đã đi đến gặp ta để nghe
   Pháp.” Khi ấy, đạo sĩ bện tóc Uruvelakassapa đã khởi ý điều này: “Vị
   đại Sa- môn quả thật có đại thần lực, có đại oai lực bởi vì vị Phạm
   Thiên Sahampati còn đi đến gặp để nghe Pháp, nhưng vị ấy không phải là
@@ -3902,7 +3831,7 @@ tasmiṃyeva vanasaṇḍe vihāsi.
 
 Pañcamaṃ pāṭihāriyaṃ.
 
--
+#divider()
 
 paṭivīso - Ma; paṭiviso - Syā, PTS. 2 paribhuñjitvā - PTS.
 
@@ -3946,7 +3875,7 @@ Uruvelakassapa rồi đã cư ngụ ở ngay trong khu rừng rậm ấy.
 
 Điều kỳ diệu thứ năm.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -4541,7 +4470,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
   khưu. Tại nơi đó, đức Thế Tôn đã bảo các vị tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, tất cả đều bị cháy rực. Và này các tỳ khưu, cái gì
+-- “Này các tỳ khưu, tất cả đều bị cháy rực. Và này các tỳ khưu, cái gì
   là tất cả đều bị cháy rực? Này các tỳ khưu, mắt bị cháy rực, các sắc
   bị cháy rực, sự nhận thức của mắt bị cháy rực, sự tiếp xúc của mắt bị
   cháy rực, tức là sự cảm thọ được sanh lên do duyên tiếp xúc của mắt là
@@ -4593,7 +4522,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Uruvelapāṭihāriyaṃ tatiyakabhāṇavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 + Atha kho bhagavā gayāsīse yathābhirattaṃ viharitvā yena rājagahaṃ tena
   cārikaṃ pakkāmi mahatā bhikkhusaṅghena saddhiṃ bhikkhusahassena
@@ -4644,7 +4573,7 @@ Dứt phần giảng về ‘bị bháy rực.'
 
 Dứt tụng phẩm ‘Sự Kỳ Diệu ở Uruvelā' là thứ ba.
 
--
+#divider()
 
 + Sau đó, khi đã ngự tại Uruvelā theo như ý thích, đức Thế Tôn đã ra đi
   du hành về phía thành Rājagaha cùng với đại chúng tỳ khưu gồm có một
@@ -4734,7 +4663,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
     ‘Tại sao việc thờ lửa của ngươi bị từ bỏ?'”
 ]
 
-- “Việc cúng tế đề cập đến các hình ảnh, các âm thanh, và các mùi vị,
+-- “Việc cúng tế đề cập đến các hình ảnh, các âm thanh, và các mùi vị,
   dục lạc, và đàn bà. Sau khi nhận biết rằng ‘việc ấy là ô nhiễm' trong
   các mầm mống tái sanh, vì thế con đã không thích thú các việc hy sinh
   (hay) các việc cúng tế.”
@@ -4744,7 +4673,7 @@ thú đối với các hình ảnh, các âm thanh, và các mùi vị, như th�
 đây, ở thế giới nhân Thiên (cái gì) là được tâm thích thú? Này Kassapa,
 hãy nói với ta về điều ấy.”
 
-- “Sau khi đã nhìn thấy đạo lộ thanh tịnh, không mầm mống tái sanh,
+-- “Sau khi đã nhìn thấy đạo lộ thanh tịnh, không mầm mống tái sanh,
   không có gì (về tham ái), không bị trói buộc trong dục lạc và hiện
   hữu, không còn những thứ khác (sanh, lão, tử, v.v…), không thể đạt đến
   bằng đường lối nào khác, vì thế con đã không thích thú các việc hy
@@ -5440,7 +5369,7 @@ Sāriputtamoggallānapabbajjā niṭṭhitā.
 
 Catutthakabhāṇavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 anena - Ma, PTS. 4 nīyamānānaṃ - Syā.
 
@@ -5508,7 +5437,7 @@ Dứt sự xuất gia của Sāriputta và Moggallāna.
 
 Dứt tụng phẩm thứ tư.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -5672,7 +5601,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
   phù hợp cho các tỳ khưu rồi bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, ta cho phép vị thầy tế độ. Này các tỳ khưu, vị thầy
+-- “Này các tỳ khưu, ta cho phép vị thầy tế độ. Này các tỳ khưu, vị thầy
   tế độ sẽ gợi lên ở người đệ tử 1 tâm của người con và người đệ tử sẽ
   gợi lên ở vị thầy tế độ tâm của người cha. Như thế, trong khi sống
   cùng nhau có sự tôn kính, có sự phục tùng, có sự cư xử hài hòa với
@@ -6097,7 +6026,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Upajjhāyavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 rajitabbaṃ - Ma, PTS. 3 chedetabbā - Ma, Syā, Tovi; chedātabbā - PTS.
 
@@ -6136,7 +6065,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt phận sự đối với thầy tế độ.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -6514,7 +6443,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Saddhivihārikavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 + Tena kho pana samayena saddhivihārikā upajjhāyesu na sammā vattanti.
   Ye te bhikkhū appicchā, ---pe--- te ujjhāyanti khīyanti vipācenti:
@@ -6559,7 +6488,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt phận sự đối với đệ tử.
 
--
+#divider()
 
 + Vào lúc bấy giờ, các người đệ tử không thực hành bổn phận đúng đắn đối
   với các vị thầy tế độ. Các tỳ khưu nào ít ham muốn, ―(như trên)― các
@@ -7023,7 +6952,7 @@ karaṇīyo. Atirekalābho: sappi navanītaṃ telaṃ madhu phāṇitan ”ti.
 
 Upajjhāyavattabhāṇavāraṃ niṭṭhitaṃ pañcamaṃ.
 
--
+#divider()
 
 + Tena kho pana samayena aññataro māṇavako bhikkhū upasaṅkamitvā
   pabbajjaṃ yāci. Tassa bhikkhū paṭigacceva nissaye ācikkhiṃsu. So
@@ -7071,7 +7000,7 @@ là: bơ lỏng, bơ đặc, dầu ăn, mật ong, đường mía.”
 
 Dứt tụng phẩm về phận sự đối với thầy tế độ là thứ năm.
 
--
+#divider()
 
 + Vào lúc bấy giờ, có chàng thanh niên nọ đã đi đến gặp các tỳ khưu và
   thỉnh cầu sự xuất gia. Các tỳ khưu đã chỉ dẫn cho chàng trai về các
@@ -7766,7 +7695,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Ācariyavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 + Ācariyena bhikkhave, antevāsikamhi sammā vattitabbaṃ. Tatrāyaṃ sammā
   vattanā: Ācariyena bhikkhave, antevāsiko saṅgahetabbo anuggahetabbo
@@ -7812,7 +7741,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt phận sự đối với thầy dạy học.
 
--
+#divider()
 
 + Này các tỳ khưu, vị thầy dạy học nên thực hành bổn phận đúng đắn đối
   với người học trò. Đây là bổn phận đúng đắn trong trường hợp này: Này
@@ -8153,7 +8082,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Antevāsikavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
@@ -8189,7 +8118,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt phận sự đối với học trò.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -8338,7 +8267,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Ācariyavattabhāṇavāraṃ niṭṭhitaṃ chaṭṭhaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
@@ -8393,7 +8322,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt tụng phẩm về phận sự đối với thầy dạy học là thứ sáu.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -8722,7 +8651,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Upasampādetabba- pañcakasoḷasavāraṃ niṭṭhitaṃ. 1
 
--
+#divider()
 
 soḷasavāro niṭṭhito - Ma.
 
@@ -8768,7 +8697,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt mười sáu nhóm năm của phần ‘Nên ban phép tu lên bậc trên.'
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -9050,7 +8979,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Upasampādetabba- chakkacuddasavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
@@ -9069,7 +8998,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt mười bốn mhóm sáu của phần ‘Nên ban phép tu lên bậc trên.'
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -10503,7 +10432,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Abhayūvarabhāṇavāraṃ niṭṭhitaṃ aṭṭhamaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
@@ -10529,7 +10458,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt tụng phẩm ‘Không Phải Lo Sợ' là thứ tám.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -10646,11 +10575,11 @@ pabbājeyyun ”ti.
 
 Rāhulavatthukathā niṭṭhitā.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
-- “Bạch ngài, khi đức Thế Tôn đã xuất gia, đau khổ đã khởi lên ở trẫm
+-- “Bạch ngài, khi đức Thế Tôn đã xuất gia, đau khổ đã khởi lên ở trẫm
   không phải là ít, tương tự như vậy trong việc Nandā, 1 (nhưng là sự
   đau khổ) vô cùng mãnh liệt trong việc Rāhula. Bạch ngài, lòng thương
   yêu đối với người con trai cắt vào da, sau khi cắt vào da nó cắt vào
@@ -10676,7 +10605,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt phần giảng về câu chuyện của Rāhula.
 
--
+#divider()
 
 Nandā là con trai của đức vua Suddhodana và bà Mahāpajāpatī Gotamī, tức
 em cùng cha khác mẹ với đức Phật (ND).
@@ -10795,7 +10724,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Daṇḍakammavatthu niṭṭhitaṃ.
 
--
+#divider()
 
 vadanti - PTS.
 
@@ -10825,7 +10754,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt câu chuyện về hình phạt.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -11269,7 +11198,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Anupasampannekādasavatthu niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
@@ -11305,7 +11234,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt mười một câu chuyện về người chưa được tu lên bậc trên.
 
--
+#divider()
 
 Người có cả hai bộ phận sinh dục nam và nữ (ND).
 
@@ -11452,7 +11381,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Na upasampādetabbavīsativāraṃ2 niṭṭhitaṃ.
 
--
+#divider()
 
 cīvarakena - Manupa, Tovi. 2 na apasampādetabbekavīsativāro - Ma.
 
@@ -11500,7 +11429,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt hai mươi trường hợp không nên cho tu lên bậc trên.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -11547,7 +11476,7 @@ Napabbājetabbadvattiṃsavāraṃ niṭṭhitaṃ.
 
 Dāyajjabhāṇavāraṃ niṭṭhitaṃ navamaṃ.
 
--
+#divider()
 
 galagaṇḍikaṃ - Syā. 2 likhitaṃ - Japu, Manupa, Tovi.
 
@@ -11606,7 +11535,7 @@ Dứt ba mươi hai trường hợp không nên cho xuất gia.
 
 Dứt tụng phẩm ‘Phần Thừa Kế' là thứ chín.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -11764,7 +11693,7 @@ ahosi - Ma. 4 kilāsāpi - Tovi, Manupa. 5 tassa - PTS.
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
-- “Này các tỳ khưu, ta cho phép vị tỳ khưu ở rừng đang quan tâm đến việc
+-- “Này các tỳ khưu, ta cho phép vị tỳ khưu ở rừng đang quan tâm đến việc
   trú ngụ thoải mái trong khi không đạt được sự nương nhờ thì được sống
   không nương nhờ (nghĩ rằng): “Khi nào có vị ban pháp nương nhờ thích
   đáng đi đến thì ta sẽ sống nương nhờ vào vị ấy.'”
@@ -12041,7 +11970,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Upasampadākammaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
@@ -12090,7 +12019,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt hành sự tu lên bậc trên.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -12115,7 +12044,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
 Cattāro nissayā niṭṭhitā.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
@@ -12144,7 +12073,7 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 
 Dứt bốn pháp nương nhờ.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Mahākhandhakaṃ
 
@@ -12595,7 +12524,6 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
 #divider()
 
 === II. UPOSATHAKKHANDHAKAṂ
-<ii.-uposathakkhandhakaṃ>
 + Tena samayena buddho bhagavā rājagahe viharati gijjhakūṭe pabbate.
   Tena kho pana samayena aññatitthiyā paribbājakā cātuddase paṇṇarase
   aṭṭhamiyā ca pakkhassa sannipatitvā dhammaṃ bhāsanti. Te manussā
@@ -12634,7 +12562,6 @@ Tạng Luật - Đại Phẩm 1 Chương Trọng Yếu
   ca pakkhassa sannipatitun ”ti.
 
 === II. CHƯƠNG UPOSATHA:
-<ii.-chương-uposatha>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Rājagaha, ở núi
   Gijjhakūṭa. Vào lúc bấy giờ, các du sĩ ngoại đạo tụ hội lại và giảng
   pháp vào ngày mười bốn, vào ngày mười lăm, và vào ngày thứ tám của mỗi
@@ -14047,7 +13974,7 @@ Như vậy là tự mình chỉ định cho chính mình.
   thông báo bởi vị tỳ khưu kinh nghiệm, có năng lực:
 ]
 
-- ‘Bạch các ngài, xin hội chúng hãy lắng nghe tôi. Nếu là thời điểm
+-- ‘Bạch các ngài, xin hội chúng hãy lắng nghe tôi. Nếu là thời điểm
   thích hợp cho hội chúng, vị tên (như vầy) sẽ trả lời khi được vị tên
   (như vầy) hỏi về Luật.'
 
@@ -14189,7 +14116,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
 Aññatitthiyabhāṇavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 therādheyyaṃ - Aṭṭhakathā, Tovi.
 
@@ -14212,7 +14139,7 @@ Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
 Dứt tụng phẩm về các ngoại đạo.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -15543,7 +15470,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
 Codanāvatthubhāṇavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 nāmagottaṃ - Ma; nāmaṃ gottaṃ - PTS. 2 tattha añño - Ma.
 
@@ -15587,7 +15514,7 @@ Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
 Dứt tụng phẩm Codanāvatthu.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -15889,7 +15816,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
 Anāpattipaṇṇarasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
@@ -15920,7 +15847,7 @@ Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
 Dứt mười lăm trường hợp vô tội.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -15960,7 +15887,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
 Vaggāvaggasaññī2 paṇṇārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 vaggā samaggasaññino - Syā. 2 vaggāsamaggāvaggasaññino - Syā.
 
@@ -16012,7 +15939,7 @@ Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
 Dứt mười lăm trường hợp là phe nhóm và có sự nhận biết là phe nhóm.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -16052,7 +15979,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
 Vematikapaṇṇarasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
@@ -16102,7 +16029,7 @@ Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
 Dứt mười lăm trường hợp có sự nghi ngờ.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -16142,7 +16069,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
 Kukkuccapakatapaṇṇarasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
@@ -16195,7 +16122,7 @@ Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
 Dứt mười lăm trường hợp ‘bỏ qua sự ngần ngại.'
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -16493,7 +16420,7 @@ Bhedapurekkhārapaṇṇarasakaṃ niṭṭhitaṃ.
 
 Pañcavīsatitikā niṭṭhitā.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Uposatha
 
@@ -16526,7 +16453,7 @@ Dứt mười lăm trường hợp có dự tính chia rẽ.
 
 Dứt hai mươi lăm nhóm ba.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -17087,7 +17014,7 @@ Uposathakkhandhako dutiyo.2
 
 Tatiyakabhāṇavāraṃ.
 
--
+#divider()
 
 sikkhāpaccakkhātakassa - Ma. 2 uposathakkhandhakaṃ niṭṭhataṃ - Sīmu.
 
@@ -17134,7 +17061,7 @@ Dứt chương Uposatha là thứ nhì.
 
 Tụng phẩm thứ ba.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Uposathakkhandhakaṃ
 
@@ -17272,7 +17199,6 @@ Tạng Luật - Đại Phẩm 1 Chương Uposatha
 #divider()
 
 === III. VASSŪPANĀYIKAKKHANDHAKAṂ
-<iii.-vassūpanāyikakkhandhakaṃ>
 + Tena samayena buddho bhagavā rājagahe viharati veḷuvane kalandaka-
   nivāpe.
 
@@ -17320,7 +17246,6 @@ aññatitthiyā paribbājakā - Syā. 4 kinnu kho - kesuci, Javi, Tovi,
 Manupa.
 
 === III. CHƯƠNG VÀO MÙA MƯA:
-<iii.-chương-vào-mùa-mưa>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Rājagaha, Veḷuvana, nơi
   nuôi dưỡng các con sóc.
 
@@ -18533,7 +18458,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Vassūpanāyikakkhandhakaṃ
 
 Vassāvāsabhāṇavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 bhikkhugatiko - Ma, PTS, Javi; 4 kātabbo - Ma, Avi, Javi, Tovi, Manupa.
 bhikkhugatiko - Aṭṭhakathā. 5 vihāro - Ma, PTS, Javi, Avi.
@@ -18596,7 +18521,7 @@ Tạng Luật - Đại Phẩm 1 Chương Vào Mùa Mưa
 
 Dứt tụng phẩm về việc cư trú mùa mưa.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Vassūpanāyikakkhandhakaṃ
 
@@ -19585,7 +19510,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Vassūpanāyikakkhandhakaṃ
 
 Vassūpanāyikakkhandhako niṭṭhito tatiyo. 1
 
--
+#divider()
 
 khandhakaṃ niṭṭhitaṃ tatiyaṃ - Avi, Tovi, Javi, Manupa, Sīmu.
 
@@ -19647,7 +19572,7 @@ Tạng Luật - Đại Phẩm 1 Chương Vào Mùa Mưa
 
 Dứt chương Vào Mùa Mưa là thứ ba.
 
--
+#divider()
 
 Tức là rằm tháng mười âm lịch (ND).
 
@@ -19751,7 +19676,6 @@ TÓM LƯỢC CHƯƠNG NÀY:
 #divider()
 
 === IV. PAVĀRAṆAKKHANDHAKAṂ
-<iv.-pavāraṇakkhandhakaṃ>
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme. Tena kho pana samayena sambahulā sandiṭṭhā
   sambhattā bhikkhū kosalesu janapadesu aññatarasmiṃ āvāse vassaṃ
@@ -19791,7 +19715,6 @@ TÓM LƯỢC CHƯƠNG NÀY:
   upaṭṭhāpeti, na tveva tappaccayā vācaṃ bhindati.
 
 === IV. CHƯƠNG PAVĀRAṆĀ:
-<iv.-chương-pavāraṇā>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Sāvatthi, Jetavana, tu
   viện của ông Anāthapiṇḍika. Vào lúc bấy giờ, nhiều vị tỳ khưu là bạn
   bè đồng quan điểm, thân thiết, đã vào mùa (an cư) mưa tại trú xứ nọ ở
@@ -20900,7 +20823,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
 Paṭhamaka bhāṇavāraṃ niṭṭhitaṃ. 1
 
--
+#divider()
 
 paṭhamabhāṇavāro niṭṭhito - Ma; paṭhamabhāṇavāraṃ niṭṭhitaṃ - PTS.
 
@@ -20920,7 +20843,7 @@ Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
 Dứt tụng phẩm thứ nhất.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
@@ -21166,7 +21089,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
 Anāpattipaṇṇarasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
@@ -21214,7 +21137,7 @@ Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
 Dứt mười lăm trường hợp vô tội.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
@@ -21252,7 +21175,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
 Vaggāvaggasaññī- paṇṇarasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
@@ -21299,7 +21222,7 @@ Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
 Dứt mười lăm trường hợp là phe nhóm và có sự nhận biết là phe nhóm.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
@@ -21337,7 +21260,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
 Vematikapaṇṇarasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
@@ -21384,7 +21307,7 @@ Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
 Dứt mười lăm trường hợp có sự nghi ngờ.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
@@ -21422,7 +21345,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
 Kukkuccapakatapaṇṇarasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 namhākaṃ - Syā, PTS. 2 avasesehi tesaṃ santike ityapi.
 
@@ -21474,7 +21397,7 @@ Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
 Dứt mười lăm trường hợp ‘bỏ qua sự ngần ngại.'
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
@@ -21712,7 +21635,7 @@ Bhedapurekkhārapaṇṇarasakaṃ niṭṭhitaṃ.
 
 Pañcavīsatitikā niṭṭhitā.
 
--
+#divider()
 
 tesaṃ santike pavāretabbaṃ - Ma.
 
@@ -21775,7 +21698,7 @@ Dứt mười lăm trường hợp có dự tính chia rẽ.
 
 Dứt hai mươi lăm nhóm ba.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
@@ -22337,7 +22260,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
 Dutiyakabhāṇavāraṃ niṭṭhitaṃ. 1
 
--
+#divider()
 
 dutiyabhāṇavāro niṭṭhito - Ma.
 
@@ -22382,7 +22305,7 @@ Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
 Dứt tụng phẩm thứ nhì.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
@@ -23647,7 +23570,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Pavāraṇakkhandhakaṃ
 
 Pavāraṇakkhandhako niṭṭhito catuttho.
 
--
+#divider()
 
 Imamhi khandhake vatthu chacattārīsā.
 
@@ -23711,7 +23634,7 @@ Tạng Luật - Đại Phẩm 1 Chương Pavāraṇā
 
 Dứt chương Pavāraṇā là thứ tư.
 
--
+#divider()
 
 Trong chương này có bốn mươi sáu sự việc.
 
@@ -23744,7 +23667,6 @@ TÓM LƯỢC CHƯƠNG NÀY:
 #divider()
 
 === V. CAMMAKKHANDHAKAṂ
-<v.-cammakkhandhakaṃ>
 + Tena samayena buddho bhagavā rājagahe viharati gijjhakūṭe pabbate.
   Tena kho pana samayena rājā māgadho seniyo bimbisāro asītiyā gāma-
   sahassesu 1 issariyādhipaccaṃ rajjaṃ kāreti. 2 Tena kho pana samayena
@@ -23792,7 +23714,6 @@ karoti - Tovi, Avi, Manupa. 5 anusāsitā - Ma, Syā, PTS.
 koḷiviso - Ma, Syā, PTS. 6 gacchatha bhagavantaṃ - Syā.
 
 === V. CHƯƠNG DA THÚ:
-<v.-chương-da-thú>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Rājagaha, ở núi
   Gijjhakūṭa. Vào lúc bấy giờ, đức vua Seniya Bimbisāra xứ Magadha cai
   trị vương quốc bằng quyền thống lãnh tối cao trong tám mươi ngàn ngôi
@@ -25934,7 +25855,7 @@ Vinayapiṭake Mahāvaggapāḷi 1 Cammakkhandhakaṃ
 
 Cammakkhandhako niṭṭhito pañcamo.
 
--
+#divider()
 
 eragū moragū majjārū jantū - Ma; majjhāru - PTS.
 
@@ -25969,7 +25890,7 @@ Tạng Luật - Đại Phẩm 1 Chương Da Thú
 
 Dứt chương Da Thú là thứ năm.
 
--
+#divider()
 
 Vinayapiṭake Mahāvaggapāḷi 1 Cammakkhandhakaṃ
 
@@ -26073,7 +25994,7 @@ MAHĀVAGGAPĀḶI - ĐẠI PHẨM PAṬHAMO BHĀGO - TẬP MỘT
 
 PHẦN PHỤ CHÚ:
 
--
+#divider()
 
 CÁC TỪ CHUYÊN MÔN:
 
@@ -26180,7 +26101,7 @@ ranh giới do ngài Sāriputta thực hiện. Và Veḷuvana là chỗ các v�
 cập tên là Sippinī phát xuất từ núi Gijjhakūṭa và có giòng chảy rất mạnh
 (VinA. v, 1049).
 
-- Ranh giới không (bị phạm tội vì) xa lìa ba y (ticīvarena avippavāsā
+-- Ranh giới không (bị phạm tội vì) xa lìa ba y (ticīvarena avippavāsā
   sīmā): avippavāso (sự không xa lìa) = (từ phủ định) a + vippavāso (sự
   xa cách, sự vắng mặt). Nếu dịch sát từ sẽ là: ‘Ranh giới không xa lìa
   ba y' như bản dịch tiếng Anh của học giả I. B. Horner sẽ khiến cho ý
@@ -26223,7 +26144,7 @@ Pavāraṇā' tùy theo ngữ cảnh.
 
 MAHĀVAGGAPĀḶI - ĐẠI PHẨM PAṬHAMO BHĀGO - TẬP MỘT
 
--
+#divider()
 
 GĀTHĀDIPĀDASŪCI - THƯ MỤC CÂU KỆ PĀḶI:
 
@@ -26240,8 +26161,7 @@ cāti katamañca 472 Koṇḍañño bhaddiyo vappo 244 Ā Āgato kho mahāsama�
 KH Ārādhako 174, 176 Khañjaṃ pakkhahatañce va 246 Āvāsikā cātuddaso 472
 Khandhake vinaye ceva 244 Āvāsikena āgantu 344 G
 
-=== I Gambhīre ñāṇavisaye 88 Iṭṭhā dhammā aniṭṭhā ca 486 Galagaṇḍī lakkhaṇā ceva 246
-<i-gambhīre-ñāṇavisaye-88-iṭṭhā-dhammā-aniṭṭhā-ca-486-galagaṇḍī-lakkhaṇā-ceva-246>
+I Gambhīre ñāṇavisaye 88 Iṭṭhā dhammā aniṭṭhā ca 486 Galagaṇḍī lakkhaṇā ceva 246
 Gāvī yānaṃ gilāno ca 516 U Gilāno mātā pitā ca 392 Uṭṭhehi vīra
 vijitasaṅgāma 12 Gihīnaṃ cammabaddhehi 516 Upagantuṃ kadā ceva 392
 Upatisso kolito ca 244 C Upasampadaṃ pañcahi 516 Codanā kate okāse 342
@@ -26254,8 +26174,7 @@ saṅgāhanāhetu 244 Phāḷiyantu ujjalantu 244 Tassa sammā vimuttassa 486
 Tiṇṇo tiṇṇehi sahapurāṇajaṭilehi 80 B Titthiyā bimbisāro ca 342 Baddho
 'si mārapāsehi 46 Baddho 'si sabbapāsehi 42, 44
 
-=== D Bodhī ca rājāyatanaṃ 244 Danto dantehi sahapurāṇajaṭilehi 80 Dasavāso dasabalo 80 BH
-<d-bodhī-ca-rājāyatanaṃ-244-danto-dantehi-sahapurāṇajaṭilehi-80-dasavāso-dasabalo-80-bh>
+D Bodhī ca rājāyatanaṃ 244 Danto dantehi sahapurāṇajaṭilehi 80 Dasavāso dasabalo 80 BH
 Disvā ādīnavaṃ loke 510 Bhagavato adhiṭṭhānena 70 Disvā isiṃ paviṭṭhaṃ
 ahināgo 54 Disvā padaṃ M santamanūpadhīkaṃ 76 Makkhañca asahamāno 54
 Dissanti upasampannā 246 Magadhesu pañca ābādhā 246 Mahāraṅgā mahānāmā
@@ -26276,8 +26195,7 @@ iṇadāsā ca 246 Pārivāsānuposatho 344 Lūkhappaṇītasappāyañca 392
 
 Đại Phẩm 1 - Thư Mục Câu Kệ Pāḷi
 
-=== V S Vatthabbaṃ ca tathāddhānaṃ 246 Santo santehi saha
-<v-s-vatthabbaṃ-ca-tathāddhānaṃ-246-santo-santehi-saha>
+V S Vatthabbaṃ ca tathāddhānaṃ 246 Santo santehi saha
 Vatthu nidānaṃ āpatti 244 purāṇajaṭilehi 80 Vatthu mārehi tiṃsā ca 244
 Sabbābhibhū Vatthusmiṃ dārako sikkhā 246 sabbavidū 'hamasmi 16 Vassaṃ
 vutthā kosalesu 472 Sabbo saṅgho vematiko 344 Vicchikā moracitrā ca 516
@@ -26292,7 +26210,7 @@ hatthapādā 246
 
 MAHĀVAGGAPĀḶI - ĐẠI PHẨM PAṬHAMO BHĀGO - TẬP MỘT
 
--
+#divider()
 
 SAÑÑĀNĀMĀNUKKAMANIKĀ - THƯ MỤC DANH TỪ RIÊNG:
 
@@ -26316,8 +26234,7 @@ G P Gijjhakūṭa 248, Pañcavaggiyā bhikkhū 14, 256, 474, 478, 480 16, 18,
 20, 28, 30 Giribbaja (Magadhānaṃ) 90 Papātapabbata 506 Gotama 16, 74,
 90, 204 Paranimmitavasavatti 24 Pasenadi 382, 384
 
-=== C Puṇṇaji 38 Campā 474
-<c-puṇṇaji-38-campā-474>
+C Puṇṇaji 38 Campā 474
 Cātummahārājika 24 B Codanāvatthu 280, 282 Bārāṇasī 14, 16, 24, 30, 38,
 48, 494, 496 CH Bimbisāra 74, Chabbaggiyā 212, 228, 76, 78, 80, 82, 254,
 258, 273, 274, 276, 178, 182, 184, 186, 302, 346, 348, 400, 450, 452,
@@ -26328,8 +26245,7 @@ Mahāka (sāmaṇera) 194 T Mahākaccāyana 506, Tapassu-bhallika 08 508, 510,
 512 Tāvatiṃsa 24, 64 Mahākappina 256 Tusita 24 Mahākassapa 230, 264
 Mahānāma 26 TH Mahāsālā 512 Thūṇa 512 Māgadha 90 Māra 42,
 
-=== D 44, 46 Dakkhiṇāgiri 194, 196 Migadāya 14,
-<d-44-46-dakkhiṇāgiri-194-196-migadāya-14>
+D 44, 46 Dakkhiṇāgiri 194, 196 Migadāya 14,
 Devadatta 278 16, 24, 32, 34, 256, 494 Mucalinda 06 N Nadīkassapa 50, 70
 Y Nigrodhārāma 204 Yasa 30, Nimmānaratī 24 32, 34, 36, 38, 40 Nerañjarā
 02, 54, 66 Yāma 24
@@ -26344,8 +26260,7 @@ Rāhula 204, 208 84, 86, Rāhulamātu 204 120, 204, 208
 Sāriputta-moggallāna 82, 88 L Sāvatthi 208, 218, Laṭṭhivana 74 220, 348,
 382, 396, 498, 500, 510
 
-=== V Sītavana 478, 480 Vappa 26 Suddhodana 204, 206
-<v-sītavana-478-480-vappa-26-suddhodana-204-206>
+V Sītavana 478, 480 Vappa 26 Suddhodana 204, 206
 Vimala 38 Suppatiṭṭha cetiya 74 Veḷuvana 80, 82, 88, 346 Subāhu 38
 Setakaṇṇika 512 S Senānī (nigama) 42 Sakka (devānaminda) 56, Soṇa
 (koḷivīsa) 474, 478, 480, 58, 62, 78, 80 482, 486, 506, 508, 510, 512
@@ -26354,7 +26269,7 @@ Setakaṇṇika 512 S Senānī (nigama) 42 Sakka (devānaminda) 56, Soṇa
 
 MAHĀVAGGAPĀḶI - ĐẠI PHẨM PAṬHAMO BHĀGO - TẬP MỘT
 
--
+#divider()
 
 VISESAPADĀNUKKAMAṆIKĀ - THƯ MỤC TỪ ĐẶC BIỆT:
 
@@ -26452,8 +26367,7 @@ mahāsamaṇo 90 Ālayasammuditāya 10 Āgame juṇhe 348, 466
 
 Đại Phẩm 1 - Thư Mục Từ Đặc Biệt
 
-=== I U Iṇadāsā 246 Udakukkhepo/ā 268, 342
-<i-u-iṇadāsā-246-udakukkhepoā-268-342>
+I U Iṇadāsā 246 Udakukkhepo/ā 268, 342
 Iṇāyika 186, 188 Udaggo 32, 34, 174, 176 Itihavābhavakathaṃ 494
 Udapānasālā 352, 354, 356 Ittaro 194 Udapāno 352, 354, 356 Itthantarena
 500 Undūrehi 264 Itthannāmaṃ āpattiṃ 300, Uddalomiṃ 500, 502 302, 412
@@ -26544,8 +26458,7 @@ Goṇakaṃ 500, 502 Chinniriyāpathaṃ 226 Gottenapi anusāvetuṃ 230 Cheppā
 498, 500 Gopālakā 380 J GH Jaṭilo/ā/aṃ/ehi/assa 50, 52, 54, Gharāvāso
 510 56, 58, 60, 62, 64, 66, 68, 70, 72, 74, 78, 80
 
-=== C Janapadakathaṃ 494 Cakkhumanto 34, 78, 478 Janapadesu 44, 46,
-<c-janapadakathaṃ-494-cakkhumanto-34-78-478-janapadesu-44-46>
+C Janapadakathaṃ 494 Cakkhumanto 34, 78, 478 Janapadesu 44, 46,
 Caṅkamanasālā 352, 354, 356 228, 350, 372, 374, Caṅkamo 352, 394, 396,
 448, 450, 464, 354, 356, 478, 480 468, 470, 472, 500, 508, 512, 514
 Catuddisā 08, 34, 56 Jantāgharasālā 352, 354, 356 Caturaṅgulaṃ kaṇṇaṃ
@@ -26578,8 +26491,7 @@ accayena Thero 208, 230, 262, 280, 508, 312 282, 298, 402, 412
 
 Đại Phẩm 1 - Thư Mục Từ Đặc Biệt
 
-=== D DH Dakkhiṇā/āya 100, Dhajabandho 184
-<d-dh-dakkhiṇāāya-100-dhajabandho-184>
+D DH Dakkhiṇā/āya 100, Dhajabandho 184
 112, 138, 148, 484, 512 Dhammakathikehi 448 Dakkhiṇāgiriṃ 194, 196
 Dhammacakkaṃ 16, 24 Dajjāhaṃ 370 Dhammacakkhuṃ 24, 26, Dantakaṭṭhaṃ
 dātabbaṃ 96, 32, 38, 40, 42, 50, 76, 84, 86, 476 106, 132, 142 Dhammato
@@ -26707,8 +26619,7 @@ Bhikkhunīgocaro vā 176 Māṇavako 80, 126, 216, 218 Bhikkhunīdūsako/assa
 
 Đại Phẩm 1 - Thư Mục Từ Đặc Biệt
 
-=== M Y Mātukucchismiṃ 230 Yatthassa dhuvanāvā vā 258
-<m-y-mātukucchismiṃ-230-yatthassa-dhuvanāvā-vā-258>
+M Y Mātukucchismiṃ 230 Yatthassa dhuvanāvā vā 258
 Mātughātako/assa 218, Yadā nibbematiko 300, 288, 292, 340, 404, 406, 446
 302, 304, 414, 416 Mātughātakūpajjhāyena 222 Yadā have pātubhavanti
 dhammā 04 Mārehi 244 Yassussadā natthi kuhiñci loke 06 Māro 42, 44, 46
@@ -26732,8 +26643,7 @@ Rukkhamūlasenāsanaṃ 126, 238 Yathāpaññattaṃ 100, Rukkhaviṭabhiyā 380
 
 Đại Phẩm 1 - Thư Mục Từ Đặc Biệt
 
-=== L V Lakkhaṇā 246 Vigatavalāhakaṃ 06
-<l-v-lakkhaṇā-246-vigatavalāhakaṃ-06>
+L V Lakkhaṇā 246 Vigatavalāhakaṃ 06
 Lakkhaṇāhato 186, 226 Vicchikāḷikā 488 Lajjī 228, 286, 304, 306
 Vijanavātaṃ 80 Lahutāya vā pariṇāmeyya 102, Viṭabhiyā 380, 392 114, 140,
 150, 360, 364 Vitthāyanti 232 Liṅgasaṃvāsakā 344, 472 Viddhaṃ 06
@@ -26741,8 +26651,7 @@ Lokakkhāyikaṃ 494 Vidhavagocaro 174, 176 Lohituppādako/assa 220,
 Vidhūpayaṃ 04 288, 292, 404, 406, 446 Vinayadharapañcamena 512
 Lohituppādakūpajjhāyena 222 Vinayadharo/ehi 286, 304, 306, 448
 
-=== V Vinicchinantehi 448 Vaggā samaggasaññino 308, Vinīvaraṇacittaṃ/e 32, 38,
-<v-vinicchinantehi-448-vaggā-samaggasaññino-308-vinīvaraṇacittaṃe-32-38>
+V Vinicchinantehi 448 Vaggā samaggasaññino 308, Vinīvaraṇacittaṃ/e 32, 38,
 310, 312, 314, 418, 420, 422, 424 40, 50, 76, 476 Vaccakuṭi 102, Vinetuṃ
 160, 168 112, 138, 148, 352, 354, 356 Vimuttisukhapaṭisaṃvedī 02, 06, 08
 Vacchakaṃ/assa 502 Vivādakārakā 464, 466 Vacchatarimpi 498
@@ -26762,8 +26671,7 @@ Vusitabrahmacariyo 06 Vāḷantarāyo 272, 450 Vūpakāsāpetabbo 102, Vāḷā 
 
 Đại Phẩm 1 - Thư Mục Từ Đặc Biệt
 
-=== V S Vedanaṭṭo 288, Saṅghaṃ 46,
-<v-s-vedanaṭṭo-288-saṅghaṃ-46>
+V S Vedanaṭṭo 288, Saṅghaṃ 46,
 292, 404, 406 122, 124, …, 460, 462 Vedantagū 06 Saṅghāṭiyo 96,
 Vedhabyāya 90 106, 134, 144 Vesārajjappatto/ā 26, Saṅghādisesā 454 38,
 40, 42, 50, 78, 478 Saṅghārāmaṃ 210 Vesiyagocaro 174, 176 Saṅghūpaṭṭhākā

@@ -1,5 +1,4 @@
 = 53. Kinh Hữu học
-<kinh-hữu-học>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sekha sutta)]
 
 #divider()

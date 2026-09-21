@@ -1,5 +1,4 @@
 = 52. Kinh Bát thành
-<kinh-bát-thành>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Atthakanàgara sutta)]
 
 #divider()

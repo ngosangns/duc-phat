@@ -1,5 +1,4 @@
 = 148. Kinh Sáu sáu
-<kinh-sáu-sáu>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Chachakka sutta)]
 
 #divider()

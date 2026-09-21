@@ -1,5 +1,4 @@
 = 61. Kinh Giáo giới La-hầu-la ở rừng Ambala
-<kinh-giáo-giới-la-hầu-la-ở-rừng-ambala>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Ambalatthikà Ràhulovàda
 sutta)]
 

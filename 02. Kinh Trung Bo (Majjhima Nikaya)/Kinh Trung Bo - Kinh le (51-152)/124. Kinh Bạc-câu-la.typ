@@ -1,5 +1,4 @@
 = 124. Kinh Bạc-câu-la
-<kinh-bạc-câu-la>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bakkula sutta)]
 
 #divider()

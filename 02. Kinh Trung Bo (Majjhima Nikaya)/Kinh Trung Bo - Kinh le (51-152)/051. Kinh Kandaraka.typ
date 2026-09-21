@@ -1,5 +1,4 @@
 = 51. Kinh Kandaraka
-<kinh-kandaraka>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Kandaraka sutta)]
 
 #divider()

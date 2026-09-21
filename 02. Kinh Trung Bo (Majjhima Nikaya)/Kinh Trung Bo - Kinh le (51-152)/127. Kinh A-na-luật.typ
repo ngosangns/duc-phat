@@ -1,5 +1,4 @@
 = 127. Kinh A-na-luật
-<kinh-a-na-luật>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Anuruddha sutta)]
 
 #divider()

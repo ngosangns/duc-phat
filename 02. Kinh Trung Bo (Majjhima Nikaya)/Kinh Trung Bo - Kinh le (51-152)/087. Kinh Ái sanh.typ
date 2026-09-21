@@ -1,5 +1,4 @@
 = 87. Kinh Ái sanh
-<kinh-ái-sanh>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Piyajàtika sutta)]
 
 #divider()

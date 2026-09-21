@@ -1,5 +1,4 @@
 = 59. Kinh Nhiều cảm thọ
-<kinh-nhiều-cảm-thọ>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bahuvedanìya sutta)]
 
 #divider()

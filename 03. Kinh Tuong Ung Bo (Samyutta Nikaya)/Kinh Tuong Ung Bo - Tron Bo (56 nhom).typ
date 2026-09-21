@@ -1,461 +1,237 @@
 = Kinh Tương Ưng Bộ (Saṃyutta Nikāya) --- Trọn bộ (56 tương ưng)
-<kinh-tương-ưng-bộ-saṃyutta-nikāya-trọn-bộ-56-tương-ưng>
 KINH TƯƠNG ƯNG BỘ Ðại Tạng Kinh Việt Nam Samyutta Nikàya
 
 Việt Dịch Thích Minh Châu - Phật Lịch 2537 - 1993
 
 #divider()
 
-http:/\/www.thuvienhoasen.org
+http://www.thuvienhoasen.org
 
-Mục Lục Giới thiệu
+#outline(title: [Mục lục])
 
 == TẬP I - THIÊN CÓ KỆ
-<tập-i---thiên-có-kệ>
 == \[01\] Chương I - Tương Ưng Chư Thiên
-<chương-i---tương-ưng-chư-thiên>
 === I. Phẩm Cây Lau
-<i.-phẩm-cây-lau>
 === II. Phẩm Vườn Hoan Hỷ
-<ii.-phẩm-vườn-hoan-hỷ>
 === III. Phẩm Kiếm (S.I,13)
-<iii.-phẩm-kiếm-s.i13>
 === IV. Phẩm Quần Tiên
-<iv.-phẩm-quần-tiên>
 === V. Phẩm Thiêu Cháy
-<v.-phẩm-thiêu-cháy>
 === VI. Phẩm Già
-<vi.-phẩm-già>
 === VII. Phẩm Thắng
-<vii.-phẩm-thắng>
 === VIII. Phẩm Ðoạn
-<viii.-phẩm-ðoạn>
 == \[02\] Chương II - Tương Ưng Thiên Tử
-<chương-ii---tương-ưng-thiên-tử>
 === I. Phẩm Thứ Nhất
-<i.-phẩm-thứ-nhất>
 === II Phẩm Cấp Cô Ðộc (S.i,51)
-<ii-phẩm-cấp-cô-ðộc-s.i51>
 === III. Phẩm Các Ngoại Ðạo (S.i,56)
-<iii.-phẩm-các-ngoại-ðạo-s.i56>
 == \[03\] Chương III - Tương Ưng Kosala
-<chương-iii---tương-ưng-kosala>
 === II. Phẩm Thứ Hai
-<ii.-phẩm-thứ-hai>
 === III Phẩm Thứ Ba
-<iii-phẩm-thứ-ba>
 == \[04\] Chương IV - Tương Ưng Ác Ma
-<chương-iv---tương-ưng-ác-ma>
 === III. Phẩm Thứ Ba (Thêm năm kinh)
-<iii.-phẩm-thứ-ba-thêm-năm-kinh>
 == \[05\] Chương V - Tương Ưng Tỷ Kheo Ni
-<chương-v---tương-ưng-tỷ-kheo-ni>
 === I. Alavikhà (S.i.128)
-<i.-alavikhà-s.i.128>
 === II. Somà (S.i.129)
-<ii.-somà-s.i.129>
 === III. Gotamì (S.i.129)
-<iii.-gotamì-s.i.129>
 === IV. Vijayà
-<iv.-vijayà>
 === V. Uppalavannà (S.i.131)
-<v.-uppalavannà-s.i.131>
 === VI. Càlà (S.i.132)
-<vi.-càlà-s.i.132>
 === VII. Upacàlà
-<vii.-upacàlà>
 === VIII. Sisupacàlà
-<viii.-sisupacàlà>
 === IX. Selà (S.i.134)
-<ix.-selà-s.i.134>
 === X. Vajirà
-<x.-vajirà>
 == \[06\] Chương VI - Tương Ưng Phạm Thiên
-<chương-vi---tương-ưng-phạm-thiên>
 == \[07\] Chương VII - Tương Ưng Bà La Môn
-<chương-vii---tương-ưng-bà-la-môn>
 === I. Phẩm A-La-Hán Thứ Nhất
-<i.-phẩm-a-la-hán-thứ-nhất>
 === III. Phẩm Cư Sĩ
-<iii.-phẩm-cư-sĩ>
 == \[08\] Chương VIII - Tương Ưng Trưởng Lão Vangìsa
-<chương-viii---tương-ưng-trưởng-lão-vangìsa>
 == \[09\] Chương IX -Tương Ưng Rừng
-<chương-ix--tương-ưng-rừng>
 == \[10\] Chương X -Tương Ưng Dạ Xoa
-<chương-x--tương-ưng-dạ-xoa>
 == \[11\] Chương XI - Tương Ưng Sakka
-<chương-xi---tương-ưng-sakka>
 === I.Phẩm Thứ Nhất
-<i.phẩm-thứ-nhất>
 === III. Phẩm Thứ Ba (hay Sakka Năm Kinh).
-<iii.-phẩm-thứ-ba-hay-sakka-năm-kinh.>
 == TẬP II - THIÊN NHÂN DUYÊN
-<tập-ii---thiên-nhân-duyên>
 == \[12\] Chương I - Tương Ưng Nhân Duyên I. Phẩm Phật Ðà.
-<chương-i---tương-ưng-nhân-duyên-i.-phẩm-phật-ðà.>
 === II. Phẩm Ðồ Ăn
-<ii.-phẩm-ðồ-ăn>
 === III. Phẩm Mười Lực
-<iii.-phẩm-mười-lực>
 === IV. Phẩm Kalara - Vị Sát Ðế Lị
-<iv.-phẩm-kalara---vị-sát-ðế-lị>
 === V. Phẩm Gia Chủ - Thứ Năm
-<v.-phẩm-gia-chủ---thứ-năm>
 === VI. Phẩm Cây
-<vi.-phẩm-cây>
 === VII. Ðại Phẩm Thứ Bảy
-<vii.-ðại-phẩm-thứ-bảy>
 === VIII. Sa Môn, Bà La Môn: Phẩm Thứ Tám
-<viii.-sa-môn-bà-la-môn-phẩm-thứ-tám>
 === IX. Trung Lược Phẩm
-<ix.-trung-lược-phẩm>
 == \[13\] Chương II - Tương Ưng Minh Kiến
-<chương-ii---tương-ưng-minh-kiến>
 == \[14\] Chương III - Tương Ưng Giới
-<chương-iii---tương-ưng-giới>
 === I. Phẩm Sai Biệt
-<i.-phẩm-sai-biệt>
 === III. Phẩm Nghiệp ÐạoThứ Ba
-<iii.-phẩm-nghiệp-ðạothứ-ba>
 === IV. Phẩm Thứ Tư
-<iv.-phẩm-thứ-tư>
 == \[15\] Chương IV - Tương Ưng Vô Thỉ (Anamatagga)
-<chương-iv---tương-ưng-vô-thỉ-anamatagga>
 == \[16\] Chương V - Tương Ưng Kassapa (Ca-diếp)
-<chương-v---tương-ưng-kassapa-ca-diếp>
 == \[17\] Chương VI - Tương Ưng Lợi Ðắc Cung Kính
-<chương-vi---tương-ưng-lợi-ðắc-cung-kính>
 === III. Phẩm Thứ Ba
-<iii.-phẩm-thứ-ba>
 == \[18\] Chương VII - Tương Ưng Ràhula
-<chương-vii---tương-ưng-ràhula>
 == \[19\] Chương VIII - Tương Ưng Lakkhana
-<chương-viii---tương-ưng-lakkhana>
 == \[20\] Chương XI - Tương Ưng Thí Dụ
-<chương-xi---tương-ưng-thí-dụ>
 == \[21\] Chương X - Tương Ưng Tỷ Kheo
-<chương-x---tương-ưng-tỷ-kheo>
 === A. Năm Mươi Kinh Căn Bản
-<a.-năm-mươi-kinh-căn-bản>
 === I. Phẩm Nakulapità
-<i.-phẩm-nakulapità>
 === II. Phẩm Vô Thường
-<ii.-phẩm-vô-thường>
 === III. Phẩm Gánh Nặng
-<iii.-phẩm-gánh-nặng>
 === IV. Phẩm Không Phải Của Các Ông V. Phẩm Tự Mình Làm Hòn Ðảo.
-<iv.-phẩm-không-phải-của-các-ông-v.-phẩm-tự-mình-làm-hòn-ðảo.>
 === B. Năm Mươi Kinh Ở Giữa
-<b.-năm-mươi-kinh-ở-giữa>
 === I. Phẩm Tham Luyến
-<i.-phẩm-tham-luyến>
 === II. Phẩm A-La-Hán
-<ii.-phẩm-a-la-hán>
 === III. Phẩm Những Gì Ðược Ăn
-<iii.-phẩm-những-gì-ðược-ăn>
 === IV. Phẩm Trưởng Lão
-<iv.-phẩm-trưởng-lão>
 === V. Phẩm Hoa
-<v.-phẩm-hoa>
 === C. Năm Mươi Kinh Sau
-<c.-năm-mươi-kinh-sau>
 === I. Phẩm Biên
-<i.-phẩm-biên>
 === II. Phẩm Thuyết Pháp
-<ii.-phẩm-thuyết-pháp>
 === III. Phẩm Vô Minh
-<iii.-phẩm-vô-minh>
 === IV. Phẩm Than Ðỏ
-<iv.-phẩm-than-ðỏ>
 === V. Phẩm Kiến
-<v.-phẩm-kiến>
 == \[23\] Chương II - Tương Ưng Ràdha
-<chương-ii---tương-ưng-ràdha>
 === III. Phẩm Sơ Vấn
-<iii.-phẩm-sơ-vấn>
 === IV. Phẩm Thân Cận
-<iv.-phẩm-thân-cận>
 == \[24\] Chương III - Tương Ưng Kiến
-<chương-iii---tương-ưng-kiến>
 === I. Phẩm Dự Lưu
-<i.-phẩm-dự-lưu>
 === II. Phẩm Trùng Thuyết (1)
-<ii.-phẩm-trùng-thuyết-1>
 === III. Phẩm Trùng Thuyết (2)
-<iii.-phẩm-trùng-thuyết-2>
 === IV. Phẩm Trùng Thuyết (3)
-<iv.-phẩm-trùng-thuyết-3>
 === V. Phẩm Trùng Thuyết (4)
-<v.-phẩm-trùng-thuyết-4>
 == \[25\] Chương IV - Tương Ưng Nhập
-<chương-iv---tương-ưng-nhập>
 == \[26\] Chương V - Tương Ưng Sanh
-<chương-v---tương-ưng-sanh>
 == \[27\] Chương VI - Tương Ưng Phiền Não
-<chương-vi---tương-ưng-phiền-não>
 == \[28\] Chương VII - Tương Ưng Sàriputta
-<chương-vii---tương-ưng-sàriputta>
 == \[29\] Chương VIII - Tương Ưng Loài Rồng
-<chương-viii---tương-ưng-loài-rồng>
 == \[30\] Chương IX - Tương Ưng Kim Xí Ðiểu
-<chương-ix---tương-ưng-kim-xí-ðiểu>
 == \[31\] Chương X - Tương Ưng Càn Thát Bà
-<chương-x---tương-ưng-càn-thát-bà>
 == \[32\] Chương XI - Tương Ưng Thần Mây
-<chương-xi---tương-ưng-thần-mây>
 == \[33\] Chương XII - Tương Ưng Vacchagota
-<chương-xii---tương-ưng-vacchagota>
 == \[34\] Chương XIII - Tương Ưng Thiền
-<chương-xiii---tương-ưng-thiền>
 == TẬP IV - THIÊN SÁU XỨ
-<tập-iv---thiên-sáu-xứ>
 == \[35\] Chương I Tương Ưng Sáu Xứ
-<chương-i-tương-ưng-sáu-xứ>
 == Phần Một - Năm Mươi Kinh Thứ Nhất
-<phần-một---năm-mươi-kinh-thứ-nhất>
 == Phần Hai - Năm Mươi Kinh Thứ Hai
-<phần-hai---năm-mươi-kinh-thứ-hai>
 == Phần Ba - Năm Mươi Kinh Thứ Ba
-<phần-ba---năm-mươi-kinh-thứ-ba>
 == Phần Bốn - Năm Mươi Kinh Thứ Tư
-<phần-bốn---năm-mươi-kinh-thứ-tư>
 == \[36\] Chương II - Tương Ưng Thọ
-<chương-ii---tương-ưng-thọ>
 == \[37\] Chương III - Tương Ưng Nữ Nhân
-<chương-iii---tương-ưng-nữ-nhân>
 == Phần Một - Phẩm Trung Lược
-<phần-một---phẩm-trung-lược>
 == Phần Hai - Phẩm Trung Lược
-<phần-hai---phẩm-trung-lược>
 == Phần Ba - Phẩm Các Sức Mạnh
-<phần-ba---phẩm-các-sức-mạnh>
 == \[38\] Chương IV - Tương Ưng Jambukhàdaka
-<chương-iv---tương-ưng-jambukhàdaka>
 == \[40\] Chương VI - Tương Ưng Moggalàna
-<chương-vi---tương-ưng-moggalàna>
 == \[41\] Chương VII - Tương Ưng Tâm
-<chương-vii---tương-ưng-tâm>
 == \[42\] Chương VIII - Tương Ưng Thôn Trưởng
-<chương-viii---tương-ưng-thôn-trưởng>
 == \[43\] Chương IX - Tương Ưng Vô Vi
-<chương-ix---tương-ưng-vô-vi>
 == Phần Một - Phẩm Một
-<phần-một---phẩm-một>
 == Phần Hai - Phẩm Hai
-<phần-hai---phẩm-hai>
 == \[44\] Chương X - Tương Ưng Không Thuyết
-<chương-x---tương-ưng-không-thuyết>
 == TẬP V - THIÊN ĐẠI PHẨM
-<tập-v---thiên-đại-phẩm>
 == \[45\] Chương I - Tương Ưng Ðạo
-<chương-i---tương-ưng-ðạo>
 === I. Phẩm Vô Minh
-<i.-phẩm-vô-minh>
 === II. Phẩm Trú
-<ii.-phẩm-trú>
 === III. Phẩm Tà Tánh
-<iii.-phẩm-tà-tánh>
 === IV. Phẩm Về Hạnh (Patipattivagga)
-<iv.-phẩm-về-hạnh-patipattivagga>
 === V. Phẩm Không Phóng Dật
-<v.-phẩm-không-phóng-dật>
 === VI. Phẩm Việc Làm Cần Sức Mạnh
-<vi.-phẩm-việc-làm-cần-sức-mạnh>
 === VII. Phẩm Tầm Cầu (Esanavaggo)
-<vii.-phẩm-tầm-cầu-esanavaggo>
 === VIII. Phẩm Bộc Lưu
-<viii.-phẩm-bộc-lưu>
 == \[46\] Chương II - Tương Ưng Giác Chi
-<chương-ii---tương-ưng-giác-chi>
 === I. Phẩm Núi
-<i.-phẩm-núi>
 === II. Phẩm Về Bệnh
-<ii.-phẩm-về-bệnh>
 === III. Phẩm Udàyi
-<iii.-phẩm-udàyi>
 === IV. Phẩm Triền Cái
-<iv.-phẩm-triền-cái>
 === V. Phẩm Chuyển Luân
-<v.-phẩm-chuyển-luân>
 === VI. Phẩm Tổng Nhiếp Giác Chi
-<vi.-phẩm-tổng-nhiếp-giác-chi>
 === VII. Phẩm Hơi Thở Vô Gơi Thở Ra
-<vii.-phẩm-hơi-thở-vô-gơi-thở-ra>
 === VIII. Phẩm Ðoạn Diệt (S.v,132)
-<viii.-phẩm-ðoạn-diệt-s.v132>
 === IX. Phẩm Sông Hằng Quảng Thuyết
-<ix.-phẩm-sông-hằng-quảng-thuyết>
 === X. Phẩm Không Phóng Dật
-<x.-phẩm-không-phóng-dật>
 === XI. Phẩm Cần Dùng Sức Mạnh
-<xi.-phẩm-cần-dùng-sức-mạnh>
 === XII. Phẩm Tầm Cầu
-<xii.-phẩm-tầm-cầu>
 === XIII. Phẩm Bộc Lưu
-<xiii.-phẩm-bộc-lưu>
 === XIV. Phẩm Sông Hằng Quảng Thuyết
-<xiv.-phẩm-sông-hằng-quảng-thuyết>
 === XV. Phẩm Không Phóng Dật (Nhiếp phục tham)
-<xv.-phẩm-không-phóng-dật-nhiếp-phục-tham>
 === XVI. Phẩm Cần Dùng Sức Mạnh(Nhiếp phục tham)
-<xvi.-phẩm-cần-dùng-sức-mạnhnhiếp-phục-tham>
 === XVII. Phẩm Tầm Cầu (Nhiếp phục tham)
-<xvii.-phẩm-tầm-cầu-nhiếp-phục-tham>
 === XVIII.Phẩm Bộc Lưu
-<xviii.phẩm-bộc-lưu>
 === XV. Phẩm Không Phóng Dật (Nhiếp phục tham)
-<xv.-phẩm-không-phóng-dật-nhiếp-phục-tham-1>
 === XVI. Phẩm Cần Dùng Sức Mạnh (Nhiếp phục tham)
-<xvi.-phẩm-cần-dùng-sức-mạnh-nhiếp-phục-tham>
 === XVII. Phẩm Tầm Cầu (Nhiếp phục tham)
-<xvii.-phẩm-tầm-cầu-nhiếp-phục-tham-1>
 === XVIII. Phẩm Bộc Lưu
-<xviii.-phẩm-bộc-lưu>
 == \[47\] Chương III - Tương Ưng Niệm Xứ
-<chương-iii---tương-ưng-niệm-xứ>
 === I. Phẩm Ambapàli
-<i.-phẩm-ambapàli>
 === II. Phẩm Nàlanda
-<ii.-phẩm-nàlanda>
 === III. Phẩm Giới Trú
-<iii.-phẩm-giới-trú>
 === IV. Phẩm Chưa Từng Ðược Nghe
-<iv.-phẩm-chưa-từng-ðược-nghe>
 === V. Phẩm Bất Tử
-<v.-phẩm-bất-tử>
 === VI. Phẩm Sông Hằng Rộng Thuyết
-<vi.-phẩm-sông-hằng-rộng-thuyết>
 === VII. Phẩm Không Phóng Dật
-<vii.-phẩm-không-phóng-dật>
 === VIII. Phẩm Việc Làm Cần Sức Mạnh
-<viii.-phẩm-việc-làm-cần-sức-mạnh>
 === IX. Phẩm Tầm Cầu
-<ix.-phẩm-tầm-cầu>
 === X. Phẩm Bộc Lưu
-<x.-phẩm-bộc-lưu>
 == \[48\] Chương IV - Tương Ưng Căn
-<chương-iv---tương-ưng-căn>
 === I. Phẩm Thanh Tịnh
-<i.-phẩm-thanh-tịnh>
 === II. Phẩm Có Phần Yếu Hơn (Mudutaravaggo)
-<ii.-phẩm-có-phần-yếu-hơn-mudutaravaggo>
 === III. Phẩm Sáu Căn
-<iii.-phẩm-sáu-căn>
 === IV. Phẩm Lạc Căn
-<iv.-phẩm-lạc-căn>
 === V. Phẩm Về Già
-<v.-phẩm-về-già>
 === VI. Phẩm Thứ Sáu
-<vi.-phẩm-thứ-sáu>
 === VII. Phẩm Giác Phần
-<vii.-phẩm-giác-phần>
 === VIII. Phẩm Sông Hằng Rộng Thuyết
-<viii.-phẩm-sông-hằng-rộng-thuyết>
 === IX. Phẩm Không Phóng Dật
-<ix.-phẩm-không-phóng-dật>
 === X. Phẩm Làm Việc Cần Sứ Mạnh
-<x.-phẩm-làm-việc-cần-sứ-mạnh>
 === XI. Phẩm Tầm Cầu
-<xi.-phẩm-tầm-cầu>
 === XII. Phẩm Bộc Lưu
-<xii.-phẩm-bộc-lưu>
 === XIII. Phẩm Sông Hằng Rộng Thuyết
-<xiii.-phẩm-sông-hằng-rộng-thuyết>
 === XIV. Phẩm Không Phóng Dật
-<xiv.-phẩm-không-phóng-dật>
 === XV. Phẩm Việc Làm Cần Sức Mạnh
-<xv.-phẩm-việc-làm-cần-sức-mạnh>
 === XVI. Phẩm Tầm Cầu
-<xvi.-phẩm-tầm-cầu>
 === XVII. Phẩm Bộc Lưu
-<xvii.-phẩm-bộc-lưu>
 == \[49\] Chương V - Tương Ưng Chánh Cần
-<chương-v---tương-ưng-chánh-cần>
 === I. Phẩm Sông Hằng Rộng Thuyết
-<i.-phẩm-sông-hằng-rộng-thuyết>
 === II. Phẩm Không Phóng Dật
-<ii.-phẩm-không-phóng-dật>
 === III. Phẩm Việc Làm Cần Sức Mạnh
-<iii.-phẩm-việc-làm-cần-sức-mạnh>
 === IV. Phẩm Tầm Cầu
-<iv.-phẩm-tầm-cầu>
 === V. Phẩm Bộc Lưu
-<v.-phẩm-bộc-lưu>
 == \[50\] Chương VI - Tương Ưng Lực
-<chương-vi---tương-ưng-lực>
 === III. Phẩm Sức Mạnh (Viễn Ly)
-<iii.-phẩm-sức-mạnh-viễn-ly>
 === VII. Phẩm Không Phóng Dật
-<vii.-phẩm-không-phóng-dật-1>
 === VIII. Phẩm Lực
-<viii.-phẩm-lực>
 === IX. Phẩm Tầm Cầu
-<ix.-phẩm-tầm-cầu-1>
 == \[51\] Chương VII - Tương Ưng Như Ý Túc
-<chương-vii---tương-ưng-như-ý-túc>
 === I. Phẩm Càpàla
-<i.-phẩm-càpàla>
 === II. Phẩm Lầu Rung Chuyển
-<ii.-phẩm-lầu-rung-chuyển>
 === IV. Phẩm Sông Hằng Rộng Thuyết
-<iv.-phẩm-sông-hằng-rộng-thuyết>
 === VI. Phẩm Việc Làm Cần Sức Mạnh
-<vi.-phẩm-việc-làm-cần-sức-mạnh-1>
 === VII. Phẩm Tầm Cầu
-<vii.-phẩm-tầm-cầu>
 == \[52\] Chương VII - Tương Ưng Anuruddha
-<chương-vii---tương-ưng-anuruddha>
 === I. Phẩm Ðộc Cư
-<i.-phẩm-ðộc-cư>
 == \[53\] Chương IX - Tương Ưng Thiền
-<chương-ix---tương-ưng-thiền>
 === III. Phẩm Làm Việc Cần Sức Mạnh
-<iii.-phẩm-làm-việc-cần-sức-mạnh>
 == \[54\] Chương X - Tương Ưng Hơi Thở Vô, Hơi Thở Ra
-<chương-x---tương-ưng-hơi-thở-vô-hơi-thở-ra>
 === I. Phẩm Một Pháp
-<i.-phẩm-một-pháp>
 == \[55\] Chương XI - Tương Ưng Dự Lưu
-<chương-xi---tương-ưng-dự-lưu>
 === I. Phẩm Veludvàra
-<i.-phẩm-veludvàra>
 === II. Phẩm Một Ngàn, hay Vườn Vua
-<ii.-phẩm-một-ngàn-hay-vườn-vua>
 === III. Phẩm Saranàni
-<iii.-phẩm-saranàni>
 === IV. Phẩm Phước Ðức Sung Mãn
-<iv.-phẩm-phước-ðức-sung-mãn>
 === V. Phẩm Phước Ðức Sung Mãn Với Kệ
-<v.-phẩm-phước-ðức-sung-mãn-với-kệ>
 === VI. Phẩm Với Trí Tuệ
-<vi.-phẩm-với-trí-tuệ>
 === VII. Phẩm Ðại Trí Tuệ
-<vii.-phẩm-ðại-trí-tuệ>
 == \[56\] Chương XII -Tương Ưng Sự Thật
-<chương-xii--tương-ưng-sự-thật>
 === I. Phẩm Ðịnh
-<i.-phẩm-ðịnh>
 === II. Phẩm Chuyển Pháp Luân
-<ii.-phẩm-chuyển-pháp-luân>
 === III. Phẩm Kotigàma
-<iii.-phẩm-kotigàma>
 === IV. Phẩm Rừng Simsapà
-<iv.-phẩm-rừng-simsapà>
 === V. Phẩm Vực Thẳm
-<v.-phẩm-vực-thẳm>
 === VI. Phẩm Chứng Ðạt
-<vi.-phẩm-chứng-ðạt>
 === VII. Phẩm Bánh Xe Lược Thuyết
-<vii.-phẩm-bánh-xe-lược-thuyết>
 === VIII. Phẩm Ít Người Từ Bỏ
-<viii.-phẩm-ít-người-từ-bỏ>
 === IX. Phẩm Lúa Gạo Sống Rộng Thuyết
-<ix.-phẩm-lúa-gạo-sống-rộng-thuyết>
 === X. Phẩm Chúng Sanh Nhiều Hơn
-<x.-phẩm-chúng-sanh-nhiều-hơn>
 === XI. Phẩm Năm Sanh Thú
-<xi.-phẩm-năm-sanh-thú>
 
 #divider()
 
@@ -494,11 +270,8 @@ Bình Anson Tháng 11-2000
 #divider()
 
 == TẬP I - THIÊN CÓ KỆ
-<tập-i---thiên-có-kệ-1>
 == \[01\] Chương I - Tương Ưng Chư Thiên
-<chương-i---tương-ưng-chư-thiên-1>
 === I. Phẩm Cây Lau I: Bộc Lưu (S.I,1) Như vầy tôi nghe.
-<i.-phẩm-cây-lau-i-bộc-lưu-s.i1-như-vầy-tôi-nghe.>
 Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông
 Anàthapindika (Cấp Cô Ðộc). Rồi một vị Thiên, khi đêm đã gần tàn, với
 nhan sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn, sau khi
@@ -522,7 +295,6 @@ Vị Thiên ấy nói như vậy và bậc Ðạo Sư chấp nhận. Vị Thiên
 Ngài, rồi biến mất tại chỗ.
 
 === II. Giải Thoát (Si.2) … Ở Sàvatthi. Rồi một vị Thiên, khi đêm đã gần tàn, với nhan sắc thù thắng chói sáng toàn vùng Jetavana, đi đến
-<ii.-giải-thoát-si.2-ở-sàvatthi.-rồi-một-vị-thiên-khi-đêm-đã-gần-tàn-với-nhan-sắc-thù-thắng-chói-sáng-toàn-vùng-jetavana-đi-đến>
 Thế Tôn. Sau khi đến, vị ấy đảnh lễ Thế Tôn rồi đứng một bên. Ðứng một
 bên, vị Thiên ấy bạch Thế Tôn:
 
@@ -540,7 +312,6 @@ tịnh, Như vậy này Hiền giả, Ta biết sự giải thoát, Thoát ly v�
 Cho các loại chúng sanh.
 
 === III. Ðưa Ðến Ðoạn Tận - (Tạp 36.9. Ðại 2,262b. Biệt Tạp 8.7, Ðại 2,427b). (S.i,2) … Ðứng một bên, vị Thiên ấy nói lên
-<iii.-ðưa-ðến-ðoạn-tận---tạp-36.9.-ðại-2262b.-biệt-tạp-8.7-ðại-2427b.-s.i2-ðứng-một-bên-vị-thiên-ấy-nói-lên>
 bài kệ này trước mặt Thế Tôn: Mạng sống bị dắt dẫn, Tuổi thọ chẳng là
 bao, Bị dẫn đến già nua, Không có nơi dừng bước.
 
@@ -552,7 +323,6 @@ nua, Không có nơi dừng bước. Ai đem tâm quán tưởng, Sợ hãi tử
 Hãy bỏ mọi thế lợi, Tâm hướng cầu tịch tịnh.
 
 === IV. Thời Gian Trôi Qua (Biệt Tạp 8.8, Ðại 2,427b) (S.i,3)
-<iv.-thời-gian-trôi-qua-biệt-tạp-8.8-ðại-2427b-s.i3>
 … (Nhân duyên ở (Sàvatthi ), đứng một bên, vị Thiên ấy nói lên bài kệ
 này trước mặt Thế Tôn: Thời gian (lặng) trôi qua, Ðêm (ngày luôn) di
 động, Tuổi tác buổi thanh xuân, Tiếp tục bỏ chúng ta. Những ai chịu quán
@@ -564,7 +334,6 @@ buổi thanh xuân, Tiếp tục bỏ chúng ta. Những ai chịu quán sát,
 Sợ hãi tử vong này, Hãy bỏ mọi thế lợi, Tâm hướng cầu tịch tịnh.
 
 === V. Bao Nhiêu Phải Cắt Ðoạn. (S.i,5) … Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn:
-<v.-bao-nhiêu-phải-cắt-ðoạn.-s.i5-ðứng-một-bên-vị-thiên-ấy-nói-lên-bài-kệ-này-trước-mặt-thế-tôn>
 Phải cắt đoạn bao nhiêu, Phải từ bỏ bao nhiêu, Tu tập thêm bao nhiêu,
 Vượt qua bao trói buộc, Ðể được có danh xưng, Tỷ-kheo vượt bộc lưu?
 
@@ -574,7 +343,6 @@ Tu tập thêm năm pháp (lực), Vượt qua năm trói buộc, Ðể được
 xưng, Tỷ-kheo "vượt bộc lưu".
 
 === VI. Tỉnh Giác (S.i,5) … Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Có bao pháp mê ngủ,
-<vi.-tỉnh-giác-s.i5-ðứng-một-bên-vị-thiên-ấy-nói-lên-bài-kệ-này-trước-mặt-thế-tôn-có-bao-pháp-mê-ngủ>
 Khi pháp khác tỉnh giác? Có bao pháp tỉnh giác, Khi pháp khác mê ngủ? Có
 bao nhiêu việc làm Ðưa ta đến trần cấu? Có bao nhiêu việc làm Khiến ta
 được thanh tịnh?
@@ -584,7 +352,6 @@ tỉnh giác, Khi pháp khác mê ngủ. Chính có năm việc làm Ðưa ta đ
 cấu, Chính có năm việc làm Khiến ta được thanh tịnh.
 
 === VII. Không Liễu Tri (S.i,4) … Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Những ai với các pháp,
-<vii.-không-liễu-tri-s.i4-ðứng-một-bên-vị-thiên-ấy-nói-lên-bài-kệ-này-trước-mặt-thế-tôn-những-ai-với-các-pháp>
 Không liễu tri thấu suốt, Bị hướng dẫn lầm lạc, Vòng quanh các dị giáo.
 
 Họ mê ngủ triền miên, Họ không có tỉnh giác, Nay thật đã đến thời, Họ
@@ -595,7 +362,6 @@ lầm lạc, Vòng quanh các dị giáo, Họ chứng Chánh đẳng giác. H�
 viên mãn, Trên đường không thăng bằng, Họ bước thật thăng bằng.
 
 === VIII. Mê Loạn (Tạp 22.5, Ðại 2,154b. Biệt Tạp 9.5, Ðại 2,435c) (S.i,4)
-<viii.-mê-loạn-tạp-22.5-ðại-2154b.-biệt-tạp-9.5-ðại-2435c-s.i4>
 … Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Những
 ai đối các pháp, Quá đắm say mê loạn, Bị hướng dẫn lầm lạc, Vòng quanh
 các dị giáo, Họ mê ngủ triền miên, Họ không có tỉnh giác, Nay thật đã
@@ -608,7 +374,6 @@ viên mãn,
 Trên đường không thăng bằng, Họ bước thật thăng bằng.
 
 === IX. Mong Muốn Kiêu Mạn (Tạp 36.4, Ðại 2,261a. Biệt Tạp 8.2, Ðại 2,426a) (S.i,4) … Ðứng một bên, vị Thiên ấy nói lên
-<ix.-mong-muốn-kiêu-mạn-tạp-36.4-ðại-2261a.-biệt-tạp-8.2-ðại-2426a-s.i4-ðứng-một-bên-vị-thiên-ấy-nói-lên>
 bài kệ này trước mặt Thế Tôn: Ðối vị ưa kiêu mạn, Ở đây không điều phục,
 Không trí tuệ sáng suốt, Không định tĩnh nhiếp tâm, Ðộc thân trú rừng
 núi, Sống với tâm phóng dật, Vị ấy không vượt khỏi, Sự chi phối ma lực.
@@ -618,7 +383,6 @@ sát, Giải thoát mọi phiền trược, Ðộc thân trú rừng núi (giớ
 không phóng dật, Vị ấy vượt thoát khỏi, Sự chi phối ma lực.
 
 === X. Rừng Núi (Tạp 36.3, Ðại 2,260c. Biệt Tạp 8.1, Ðại 2,426a) (S.i,5) … Ðứng một bên, vị Thiên ấy nói lên
-<x.-rừng-núi-tạp-36.3-ðại-2260c.-biệt-tạp-8.1-ðại-2426a-s.i5-ðứng-một-bên-vị-thiên-ấy-nói-lên>
 bài kệ này trước mặt Thế Tôn: Thường sống trong rừng núi, Bậc Thánh sống
 Phạm hạnh,
 
@@ -631,9 +395,7 @@ với hiện tại, Do vậy, sắc thù diệu. Do mong việc sắp tới, Do 
 #divider()
 
 === II. Phẩm Vườn Hoan Hỷ
-<ii.-phẩm-vườn-hoan-hỷ-1>
 === I. Vườn Hoan Hỷ
-<i.-vườn-hoan-hỷ>
 \(Tạp 22.1, Ðại 2,153c) (S.i,5) (Tăng
 
 31.9. Tứ Lạc, Ðại 2,672b) (Biệt Tạp
@@ -654,7 +416,6 @@ hành là vô thường, Tự tánh phải sanh diệt, Sau khi sanh, chúng di�
 Nhiếp chúng là an lạc."
 
 === II. Vui Thích
-<ii.-vui-thích>
 \(Tạp 36.12,Ðại 2,263a) (S.i,6) (Biệt Tạp 8,11, Ðại 2,428a) … Ðứng một
 bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Cha đối con vui
 thích , Chủ với bò vui thích, Người sanh y, vui thích , Không sanh y,
@@ -664,7 +425,6 @@ không vui.
 sầu muộn, Không sanh y, không sầu.
 
 === III. Không Ai Bằng Con
-<iii.-không-ai-bằng-con>
 \(Tạp 36.14, Ðại 2,263b) (S.1,6) (Biệt Tạp 12.19, Ðại 2,458c) … Ðứng một
 bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Thương ai bằng
 thương con, Của nào bằng bò nhà, Sáng nào bằng mặt trời, Nước nào hơn
@@ -674,7 +434,6 @@ biển cả.
 bằng trí tuệ, Nước nào hơn mưa rào .
 
 === IV. Giai Cấp Sát Ðế Lỵ (Tạp 36.15 Sát-lỵ, Ðại 2,263b) (S.i,6)
-<iv.-giai-cấp-sát-ðế-lỵ-tạp-36.15-sát-lỵ-ðại-2263b-s.i6>
 Giữa các hàng hai chân, Sát-lỵ là tối thắng, Giữa các loài bốn chân, Bò
 đực là tối thắng, Trong các hàng thê thiếp, Quý nữ là tối thắng. Trong
 các hàng con trai, Trưởng nam là tối thắng.
@@ -684,7 +443,6 @@ loài bốn chân, Thuần chủng là tối thắng. Trong các hàng thê thi�
 thuận là tối thắng. Trong các hàng con trai, Trung thành là tối thắng.
 
 === V. Tiếng Ðộng Rừng Sâu (hay Thân tịch tịnh) (S.i,7) (Tạp 50.II, An trú, Ðại 2,360b) (Biệt Tạp 16.26, Ðại 2,490b)
-<v.-tiếng-ðộng-rừng-sâu-hay-thân-tịch-tịnh-s.i7-tạp-50.ii-an-trú-ðại-2360b-biệt-tạp-16.26-ðại-2490b>
 Nay là thời giữa trưa, Loài chim nghỉ yên lặng, Vang động tiếng rừng
 sâu, Ta run, ta khiếp sợ.
 
@@ -692,14 +450,12 @@ sâu, Ta run, ta khiếp sợ.
 tiếng rừng sâu, Ta vui, Ta thích thú.
 
 === VI. Ngủ Gục, Biếng Nhác
-<vi.-ngủ-gục-biếng-nhác>
 \(Tạp 22.23, Ðại 2,160a) (S.i,7) (Biệt Tạp 9.15, Ðại 2,437c) Ngủ gục,
 nhác, ngáp dài, Không vui, ăn quá độ, Ở đây, đối chúng sanh, Thánh đạo
 không hiển lộ. Ngủ gục, nhác, ngáp dài, Không vui, ăn quá độ, Với tinh
 tấn, đoạn chúng, Thánh đạo được thanh tịnh.
 
 === VII. Khó Làm (hay Con rùa) (Tạp 22.25, Ðại 2,169b) (S.i,7) (Biệt Tạp 9,14, Ðại 2,437b) Khó làm, khó kham nhẫn,
-<vii.-khó-làm-hay-con-rùa-tạp-22.25-ðại-2169b-s.i7-biệt-tạp-914-ðại-2437b-khó-làm-khó-kham-nhẫn>
 Thiếu trí, hành Sa-môn, Chỗ kẻ ngu thối đọa, Chỗ ấy đầy chướng ngại.
 
 Bao ngày hành Sa-môn Nếu tâm không chế ngự, Mỗi bước, phải sa đọa, Nô lệ
@@ -708,7 +464,6 @@ cũng vậy, Thâu nhiếp mọi suy tư, Không tham dính vật gì, Không l�
 người nào, Hoàn toàn thật tịch tịnh, Không chỉ trích một ai.
 
 === VIII. Tàm Quý (S.i,7)
-<viii.-tàm-quý-s.i7>
 Người được tàm chế ngự, Tìm được ai ở đời? Ai biết ngăn chỉ trích,
 
 Như ngựa hiền bóng roi. Người được tàm chế ngự, Sống thường thường chánh
@@ -716,7 +471,6 @@ niệm, Vị ấy đạt kết quả, Khổ đau được đoạn tận, Bước
 bằng, Trên đường không thăng bằng.
 
 === IX. Am Tranh (S.i.8)
-<ix.-am-tranh-s.i.8>
 Ngài không có am tranh, Ngài không có tổ ấm, Ngài không có dây giăng,
 Ngài thoát khỏi hệ phược.
 
@@ -735,7 +489,6 @@ hệ phược là ái.
 Lành thay, không dây giăng! Lành thay, Ngài thoát phược!
 
 === X. Samiddhi (Tạp 38.17, Ðại 2,281c) (S.i,8) (Biệt Tạp I.17) Ðại 2,379a)
-<x.-samiddhi-tạp-38.17-ðại-2281c-s.i8-biệt-tạp-i.17-ðại-2379a>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Vương Xá tại Tapodàràma (Tịnh xá
@@ -930,20 +683,16 @@ biết người ấy Hãy nói lên, Dạ-xoa.
 ]
 
 === III. Phẩm Kiếm (S.I,13) … (Nhân duyên ở Sàvatthi). Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn:
-<iii.-phẩm-kiếm-s.i13-nhân-duyên-ở-sàvatthi.-ðứng-một-bên-vị-thiên-ấy-nói-lên-bài-kệ-này-trước-mặt-thế-tôn>
 === I. Kiếm: Như kiếm đã chạm da, Như lửa cháy trên đầu, Tỷ-kheo hãy chánh niệm, Xuất gia bỏ ái dục.
-<i.-kiếm-như-kiếm-đã-chạm-da-như-lửa-cháy-trên-đầu-tỷ-kheo-hãy-chánh-niệm-xuất-gia-bỏ-ái-dục.>
 \(Thế Tôn): Như kiếm đã chạm da, Như lửa cháy trên đầu, Tỷ-kheo hãy
 chánh niệm, Xuất gia bỏ thân kiến.
 
 === II. Xúc Chạm
-<ii.-xúc-chạm>
 Không xúc, không có chạm, Có xúc, thời có chạm, Nên hại người không hại,
 Tức có xúc, có chạm, Ai hại người không hại, Người tịnh, không ô nhiễm,
 Kẻ ngu hái quả ác, Như ngược gió tung bụi.
 
 === III. Triền Phược
-<iii.-triền-phược>
 Nội triền và ngoại triền, Chúng sanh bị triền phược, Con hỏi Gotama, Ai
 thoát khỏi triền này?
 
@@ -955,7 +704,6 @@ tận, ứng cúng, Vị ấy thoát triền phược. Chỗ nào danh và sắc
 tận, vô dư, Ðoạn chướng ngại, sắc tưởng, Chỗ ấy triền phược đoạn.
 
 === IV. Chế Ngự Tâm (S.i,14)
-<iv.-chế-ngự-tâm-s.i14>
 Chỗ nào ý chế ngự, Chỗ ấy đau khổ tận.
 
 Ý chế ngự hoàn toàn, Thoát đau khổ hoàn toàn.
@@ -964,7 +712,6 @@ Chỗ nào ý chế ngự, Chỗ ấy đau khổ tận.
 Nếu tự chủ đạt được. Chỗ nào ác pháp khởi, Chỗ ấy chế ngự ý.
 
 === V. Vị A-La-Hán (Tạp 22.6 - 7, La-hán, Ðại 2,154b (S.i,14) ( Biệt Tạp 9.6, Ðại 2,435c) Vị Tỷ-kheo La-hán,
-<v.-vị-a-la-hán-tạp-22.6---7-la-hán-ðại-2154b-s.i14-biệt-tạp-9.6-ðại-2435c-vị-tỷ-kheo-la-hán>
 Ðã làm điều phải làm, Các lậu được đoạn tận, Thân này, thân tối hậu.
 
 Vị ấy có thể nói: "Chính tôi vừa nói lên" Vị ấy có thể nói: "Họ nói là
@@ -988,7 +735,6 @@ có thể nói: "Họ nói là của tôi". Vị ấy khéo biết rõ, Danh xư
 gian, Vì chỉ là danh xưng, Vị ấy cũng danh xưng.
 
 === VI. Ánh Sáng (Tạp, Ðại 2,360b) (S.i,15) (Biệt Tạp 15.12, Ðại 2,478c) Vật gì chiếu sáng đời, Do chúng, đời chói sáng?
-<vi.-ánh-sáng-tạp-ðại-2360b-s.i15-biệt-tạp-15.12-ðại-2478c-vật-gì-chiếu-sáng-đời-do-chúng-đời-chói-sáng>
 Con đến hỏi Thế Tôn, Muốn biết lời giải đáp.
 
 \(Thế Tôn):
@@ -998,7 +744,6 @@ Bốn vật chiếu sáng đời, Thứ năm, đây không có. Ngày, mặt tr�
 Chánh giác sáng tối thắng, Sáng này, sáng vô thượng.
 
 === VII. Nước Chảy (S.i,15)
-<vii.-nước-chảy-s.i15>
 Chỗ nào nước chảy ngược? Chỗ nào nước xoáy dừng? Chỗ nào danh và sắc,
 Ðược đoạn diệt, không dư? Chỗ nào nước và đất, Lửa, gió không vững trú,
 Do vậy nước chảy ngược,
@@ -1006,7 +751,6 @@ Do vậy nước chảy ngược,
 Chỗ ấy nước xoáy dừng, Chỗ ấy danh và sắc, Ðược đoạn diệt, không dư.
 
 === VIII. Giàu Lớn (S.i,15)
-<viii.-giàu-lớn-s.i15>
 Sát-đế-lỵ giàu lớn, Tài sản, quốc độ lớn, Luôn luôn ganh tị nhau, Hưởng
 dục không biết ngán, Giữa người sống dao động, Trôi theo dòng tái sanh.
 Ai bỏ tật và ái, Không dao động giữa đời. (Thế Tôn): Vị xuất gia bỏ nhà,
@@ -1015,7 +759,6 @@ Bỏ con, gia súc, thân, Bỏ tham và bỏ sân,
 Và từ bỏ vô minh, Bậc Lậu tận, La-hán, Không dao động giữa đời.
 
 === IX. Bốn Bánh Xe (S.i,16)
-<ix.-bốn-bánh-xe-s.i16>
 Bốn bánh xe, chín cửa, Ðầy uế, hệ lụy tham, Chìm đắm trong bùn nhơ, Ôi,
 thưa bậc Ðại Hùng, Sanh thú người như vậy, Tương lai sẽ thế nào?
 
@@ -1023,7 +766,6 @@ thưa bậc Ðại Hùng, Sanh thú người như vậy, Tương lai sẽ thế 
 tận, Sanh thú sẽ như vậy.
 
 === X. Con Sơn Dương (S.i,16) Chân như chân sơn dương, Vừa thon lại vừa mạnh, Ăn uống có chừng mực, Không tham lam, say đắm,
-<x.-con-sơn-dương-s.i16-chân-như-chân-sơn-dương-vừa-thon-lại-vừa-mạnh-ăn-uống-có-chừng-mực-không-tham-lam-say-đắm>
 Như sư tử, voi rừng, Ðộc hành, không dục vọng. Sau khi đến, con hỏi, Làm
 sao thoát khổ đau?
 
@@ -1035,9 +777,7 @@ khổ đau.
 #divider()
 
 === IV. Phẩm Quần Tiên
-<iv.-phẩm-quần-tiên-1>
 === I. Với Người Thiện (S.i 16)
-<i.-với-người-thiện-s.i-16>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng
@@ -1100,7 +840,6 @@ Thế Tôn thuyết giảng như vậy. Quần Tiên ấy hoan hỷ tín thọ l
 dạy.
 
 === II. Xan Tham
-<ii.-xan-tham>
 \(Tạp, Ðại 2,354c) (Biệt Tạp, Ðại 2,473b) (S.i,18)
 
 #block[
@@ -1173,7 +912,6 @@ không ngang bằng, Kẻ nghèo, chơn bố thí. Từ ngàn người bố thí
 ngàn vật cho, Trị giá không ngang bằng, Kẻ bố thí như vậy.
 
 === III. Lành Thay (S.i,20)
-<iii.-lành-thay-s.i20>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở Sàvatthi.
@@ -1262,7 +1000,6 @@ pháp hơn bố thí, Pháp ấy là Pháp cú. Từ xưa, từ xa xưa, Ngườ
 người chơn thiện, Với trí tuệ sáng suốt, Ðạt đến cảnh Niết-bàn.
 
 === IV. Chúng Không Phải (S.i,22)
-<iv.-chúng-không-phải-s.i22>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại
@@ -1301,7 +1038,6 @@ như vậy. Này Tỷ-kheo khất sĩ, Nếu họ biết Chánh pháp, Ðoạn t
 hoặc, Họ trở thành giải thoát.
 
 === V. Hiềm Trách Thiên (S.i,23)
-<v.-hiềm-trách-thiên-s.i23>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Sàvatthi (Xá- vệ), Jetavana (Thắng Lâm), tại vườn
@@ -1358,7 +1094,6 @@ lộ, Nội phẫn, ưa sân hận, Hận thù càng kiên chặt. Ta không th�
 thù, Ta nhận tội các Ông.
 
 === VI. Lòng Tin (S.i,25), (Tạp, Ðại 2,354b) - (Biệt Tạp, Ðại 2,473a)
-<vi.-lòng-tin-s.i25-tạp-ðại-2354b---biệt-tạp-ðại-2473a>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Thế Tôn trú ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm) tại
@@ -1381,7 +1116,6 @@ phóng dật, Chớ đắm say ái dục, Thiền tư, không phóng dật, Ð�
 thắng lạc.
 
 === VII. Tụ Hội (S.i,26) - (Tạp, Ðại 2.323a) (Biệt Tạp, Ðại 2.411a) (S.i,26) (D. 20 Mahàsamaya, Trường, Ðại 1,79b - 81b)
-<vii.-tụ-hội-s.i26---tạp-ðại-2.323a-biệt-tạp-ðại-2.411a-s.i26-d.-20-mahàsamaya-trường-ðại-179b---81b>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở giữa dòng họ Sakka (Thích-ca),
@@ -1428,7 +1162,6 @@ Những ai quy y Phật, Sẽ không đọa ác thú, Sau khi bỏ thân Ngườ
 làm chư Thiên.
 
 === VIII. Miếng Ðá Vụn - (Tạp, Ðại 2,355a) - (Biệt Tạp, Ðại 2,473c) - (S.i,27)
-<viii.-miếng-ðá-vụn---tạp-ðại-2355a---biệt-tạp-ðại-2473c---s.i27>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở tại Ràjagaha (Vương Xá), tại vườn
@@ -1528,7 +1261,6 @@ trong rừng cô độc, Tâm tư không phóng dật, Vị ấy khéo vượt k
 chinh phục tử thần.
 
 === IX. Con Gái Của Pajjunna
-<ix.-con-gái-của-pajjunna>
 \(Tạp, Ðại 2,350a) (Biệt Tạp, 14.4, Ðại 2,469a) (S.i,29)
 
 #block[
@@ -1556,7 +1288,6 @@ Những ai đối Thánh pháp, Kham nhẫn, tâm tịch tịnh, Từ bỏ thân
 Viên mãn thân chư Thiên.
 
 === X. Con Gái Của Pajjunna (Tạp, Ðại 2, 349c) (Biệt Tạp 14.3, Ðại 2, 469a) (S.i,30)
-<x.-con-gái-của-pajjunna-tạp-ðại-2-349c-biệt-tạp-14.3-ðại-2-469a-s.i30>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Vesàli, Ðại Lâm, tại Trùng
@@ -1577,14 +1308,12 @@ tâm tỉnh giác, Không khổ hạnh ép xác, Vô bổ, không lợi ích.
 #divider()
 
 === V. Phẩm Thiêu Cháy Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông
-<v.-phẩm-thiêu-cháy-như-vầy-tôi-nghe.-một-thời-thế-tôn-ở-sàvatthi-xá-vệ-jetavana-thắng-lâm-tại-vườn-ông>
 Anàthapindika (Cấp Cô Ðộc). Rồi một vị Thiên, sau khi đêm đã gần mãn,
 với dung sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn; sau
 khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Ðứng một bên, vị Thiên ấy nói
 lên bài kệ này trước mặt Thế Tôn:
 
 === I. Thiêu Cháy (Biệt Tạp 5.4, Ðại 2,403) (S.i,31)
-<i.-thiêu-cháy-biệt-tạp-5.4-ðại-2403-s.i31>
 Trong ngôi nhà thiêu cháy, Vật dụng đem ra ngoài, Vật ấy có lợi ích,
 Không phải vật bị thiêu. Cũng vậy trong đời này, Bị già chết thiêu cháy,
 Hãy đem ra, bằng thí, Vật thí, khéo đem ra. Có thí, có lạc quả, Không
@@ -1595,7 +1324,6 @@ và bố thí, Thí xong, thọ dụng xong, Theo lực hành động ấy,
 Không bị ai chỉ trích, Vị ấy được sanh Thiên.
 
 === II. Cho Gì? (Tạp 36.6 Vân hà đại đắc, Ðại 2,261b) (Biệt Tạp 8.4, Ðại 2,526b) (S.i,32) Cho gì là cho lực?
-<ii.-cho-gì-tạp-36.6-vân-hà-đại-đắc-ðại-2261b-biệt-tạp-8.4-ðại-2526b-s.i32-cho-gì-là-cho-lực>
 Cho gì là cho sắc? Cho gì là cho lạc? Cho gì là cho mắt? Cho gì cho tất
 cả? Xin đáp điều con hỏi?
 
@@ -1606,7 +1334,6 @@ Ai cho chỗ trú xứ, Vị ấy cho tất cả, Ai giảng dạy Chánh pháp,
 bất tử.
 
 === III. Ðồ Ăn (S.i,32)
-<iii.-ðồ-ăn-s.i32>
 Trời, Người, cả hai loài, Ðều ưa thích ăn uống, Vị Dạ-xoa tên gì, Lại
 không thích ăn uống?
 
@@ -1616,14 +1343,11 @@ không thích ăn uống?
 Bố thí, nhiếp cấu uế, Hữu tình vững an trú, Công đức trong đời sau.
 
 === IV. Một Căn Rễ (S.i,32) Một rễ, hai phương diện, Ba uế, năm môi trường, Biển lớn, mười hai họa, Vực xoáy bậc Thánh siêu.
-<iv.-một-căn-rễ-s.i32-một-rễ-hai-phương-diện-ba-uế-năm-môi-trường-biển-lớn-mười-hai-họa-vực-xoáy-bậc-thánh-siêu.>
 === V. Bậc Hoàn Toàn (S.i,33) Bậc viên mãn toàn diện, Thấy được nghĩa bí huyền, Ban phát chân trí tuệ, Thoát ly khỏi dục tạng,
-<v.-bậc-hoàn-toàn-s.i33-bậc-viên-mãn-toàn-diện-thấy-được-nghĩa-bí-huyền-ban-phát-chân-trí-tuệ-thoát-ly-khỏi-dục-tạng>
 Thấy được bậc toàn trí, Bậc Thiện tuệ trí giác. Vị Ðại Thánh dấn bước,
 Trên con đường Thánh đạo.
 
 === VI. Thiên Nữ (S.i,33) Thiên nữ đoàn tụ hội, Ngạ quỷ chúng tới lui, Rừng ấy danh rừng si, Làm sao có lối thoát?
-<vi.-thiên-nữ-s.i33-thiên-nữ-đoàn-tụ-hội-ngạ-quỷ-chúng-tới-lui-rừng-ấy-danh-rừng-si-làm-sao-có-lối-thoát>
 \(Thế Tôn): Ðường ấy tên chơn trực, Phương ấy danh vô úy, Cỗ xe gọi vô
 thanh, Với pháp luân khéo ráp, Tàm là dàn xe dựa, Niệm là trướng màn xe,
 Ta nói vị đánh xe, Tức là chơn diệu pháp, Và chính chánh tri kiến, Mau
@@ -1632,13 +1356,11 @@ chóng đi tiền phong. Không kể nam hay nữ,
 Ðều dùng cỗ xe ấy. Chính nhờ cỗ xe ấy, Hướng tiến đến Niết-bàn.
 
 === VII. Trồng Rừng (S.i,33) Những ai ngày lẫn đêm, Công đức luôn tăng trưởng, Trú pháp, cụ túc giới, Kẻ nào sanh thiên giới?
-<vii.-trồng-rừng-s.i33-những-ai-ngày-lẫn-đêm-công-đức-luôn-tăng-trưởng-trú-pháp-cụ-túc-giới-kẻ-nào-sanh-thiên-giới>
 Ai trồng vườn, trồng rừng, Ai dựng xây cầu cống, Ðào giếng, cho nước
 uống, Những ai cho nhà cửa, Những vị ấy ngày đêm, Công đức luôn tăng
 trưởng, Trú pháp, cụ túc giới, Những vị ấy sanh Thiên.
 
 === VIII. Kỳ Viên (S.i,33)
-<viii.-kỳ-viên-s.i33>
 Ðây là rừng Kỳ Viên. Chỗ trú xứ Thánh chúng, Chỗ ở đấng Pháp Vương,
 Khiến tâm con hoan hỷ. Nghiệp minh và tâm pháp, Giới và tối thắng mạng,
 Chính những diệu pháp ấy, Khiến chúng sanh thanh tịnh, Không phải vì
@@ -1648,7 +1370,6 @@ Xá-lợi-phất, Tuệ giới và tịch tịnh, Tỷ-kheo đến bờ giác, �
 thượng.
 
 === IX. Xan Tham (S.i,34) Ở đời kẻ xan tham, Keo kiết hay khước từ, Tạo nên những chướng ngại, Ngăn kẻ khác bố thí,
-<ix.-xan-tham-s.i34-ở-đời-kẻ-xan-tham-keo-kiết-hay-khước-từ-tạo-nên-những-chướng-ngại-ngăn-kẻ-khác-bố-thí>
 Ðời này và đời sau, Quả báo họ là gì? Chúng con đến tại đây, Chính muốn
 hỏi Thế Tôn, Chúng con muốn được biết, Thế Tôn đáp thế nào?
 
@@ -1677,7 +1398,6 @@ Giữa vật dụng tài sản, Ðược người khác quy tụ, Quả hiện t
 sau sanh Thiên giới.
 
 === X. Thợ Ðồ Gốm (S.i,35) (Tạp 22.10 Vô phiền thiên, Ðại 2,159b) (Biệt Tạp, 9.29, Ðại 2,442b) Ðược sanh Vô phiền thiên,
-<x.-thợ-ðồ-gốm-s.i35-tạp-22.10-vô-phiền-thiên-ðại-2159b-biệt-tạp-9.29-ðại-2442b-ðược-sanh-vô-phiền-thiên>
 Bảy Tỷ-kheo giải thoát, Ðoạn tận tham và sân, Vượt qua đời triền phược.
 Vượt bùn, họ là ai, Khéo vượt lệnh thần chết, Sau khi bỏ thân người,
 
@@ -1719,9 +1439,7 @@ thân này tối hậu.
 #divider()
 
 === VI. Phẩm Già
-<vi.-phẩm-già-1>
 === I. Già (S.i,36)
-<i.-già-s.i36>
 -- Vật gì tốt đến già? Vật gì tốt kiên trú? Vật gì vật báu người? Vật gì
 cướp khó đoạt?
 
@@ -1729,7 +1447,6 @@ cướp khó đoạt?
 Công đức, cướp khó đoạt.
 
 === II. Không Già
-<ii.-không-già>
 -- Vật gì tốt không già? Vật gì tốt trường cửu? Vật gì vật báu người?
 Vật gì cướp không đoạt?
 
@@ -1737,7 +1454,6 @@ Vật gì cướp không đoạt?
 Người, Công đức, cướp không đoạt.
 
 === III. Bạn
-<iii.-bạn>
 -- Ai bạn kẻ đi đường? Ai bạn người ở nhà? Ai bạn khi cần thiết? Ai bạn
 cho đời sau? Bạn đường, bạn đi đường,
 
@@ -1746,7 +1462,6 @@ cho đời sau? Bạn đường, bạn đi đường,
 Mới là bạn thường xuyên, Công đức tự mình làm, Là bạn cho đời sau.
 
 === IV. Cơ Sở
-<iv.-cơ-sở>
 -- Vật gì, cơ sở người? Vật gì, bạn tối thượng (ở đời)? Hữu tình gì trì
 mạng? Y cứ vào địa đại?
 
@@ -1754,7 +1469,6 @@ mạng? Y cứ vào địa đại?
 vào địa đại.
 
 === V. Sanh Nhân
-<v.-sanh-nhân>
 -- Cái gì sanh thành người? Cái gì luôn dong ruỗi? Cái gì chịu luân hồi?
 
 Cái gì người sợ hãi?
@@ -1763,7 +1477,6 @@ Cái gì người sợ hãi?
 luân hồi, Ðau khổ, người sợ hãi.
 
 === VI. Sanh Nhân
-<vi.-sanh-nhân>
 -- Cái gì sanh thành người? Cái gì luôn dong ruỗi? Cái gì chịu luân hồi?
 Vì đâu, không giải thoát?
 
@@ -1771,7 +1484,6 @@ Vì đâu, không giải thoát?
 luân hồi, Vì khổ, không giải thoát.
 
 === VII. Sanh Nhân
-<vii.-sanh-nhân>
 -- Cái gì sanh thành người? Cái gì luôn dong ruỗi? Cái gì chịu luân hồi?
 Cái gì người nương tựa?
 
@@ -1779,7 +1491,6 @@ Cái gì người nương tựa?
 luân hồi, Chính nghiệp, người nương tựa.
 
 === VIII. Phi Ðạo
-<viii.-phi-ðạo>
 -- Cái gì gọi phi đạo? Cái gì diệt ngày đêm? Cái gì uế Phạm hạnh? Cái gì
 tắm không nước?
 
@@ -1789,7 +1500,6 @@ Khiến loài Người hệ lụy,
 Khổ hạnh và Phạm hạnh, Là tắm không cần nước.
 
 === IX. Người Bạn
-<ix.-người-bạn>
 -- Cái gì làm người bạn? Cái gì giáo hóa người? Cái gì người ái lạc?
 Giải thoát mọi khổ đau?
 
@@ -1797,7 +1507,6 @@ Giải thoát mọi khổ đau?
 Niết-bàn, Giải thoát mọi khổ đau.
 
 === X. Người Thi Sĩ
-<x.-người-thi-sĩ>
 -- Vật gì nhân kệ tụng? Vật gì làm tự cú? Vật gì kệ y cứ? Vật gì kệ an
 trú?
 
@@ -1805,9 +1514,7 @@ trú?
 nhân.
 
 === VII. Phẩm Thắng (S.i,39)
-<vii.-phẩm-thắng-s.i39>
 === I. Danh (S.i,39)
-<i.-danh-s.i39>
 -- Vật gì thắng tất cả? Vật gì không số hơn? Và có một pháp nào, Mọi vật
 đều tùy thuộc?
 
@@ -1815,7 +1522,6 @@ nhân.
 pháp, Mọi vật đều tùy thuộc.
 
 === II. Tâm (S.i,39)
-<ii.-tâm-s.i39>
 -- Vật gì dắt dẫn đời? Vật gì tự não hại? Và có một pháp nào, Mọi vật
 đều tùy thuộc?
 
@@ -1823,7 +1529,6 @@ pháp, Mọi vật đều tùy thuộc.
 Mọi vật đều tùy thuộc.
 
 === III. Khát Ái (S.i,39)
-<iii.-khát-ái-s.i39>
 -- Vật gì dẫn dắt đời? Vật gì tự não hại? Và có một pháp nào, Mọi vật
 đều tùy thuộc?
 
@@ -1832,7 +1537,6 @@ Mọi vật đều tùy thuộc.
 Chính ái là một pháp, Mọi vật đều tùy thuộc.
 
 === IV. Kiết Sử (S.i,39)
-<iv.-kiết-sử-s.i39>
 -- Vật gì trói buộc đời? Vật gì dẫn hành đời? Do đoạn trừ pháp gì, Mới
 được gọi Niết-bàn?
 
@@ -1840,7 +1544,6 @@ Chính ái là một pháp, Mọi vật đều tùy thuộc.
 Mới được gọi Niết-bàn.
 
 === V. Triền Phược (S.i,39)
-<v.-triền-phược-s.i39>
 -- Vật gì triền phược đời? Vật gì dẫn hành đời?
 
 Do đoạn trừ pháp gì, Mọi triền phược đoạn diệt?
@@ -1849,7 +1552,6 @@ Do đoạn trừ pháp gì, Mọi triền phược đoạn diệt?
 Mọi triền phược đoạn diệt.
 
 === VI. Bị Áp Ðảo (S.i,40)
-<vi.-bị-áp-ðảo-s.i40>
 -- Vật gì áp đảo đời? Vật gì bao phủ đời? Tên gì bắn trúng đời? Bởi gì
 thường huân tập?
 
@@ -1857,7 +1559,6 @@ thường huân tập?
 dục, thường huân tập.
 
 === VII. Bị Treo Cột (S.i,40)
-<vii.-bị-treo-cột-s.i40>
 -- Vật gì treo cột đời? Vật gì bao phủ đời? Vật gì đóng kín đời? Trên gì
 đời an trú?
 
@@ -1865,7 +1566,6 @@ dục, thường huân tập.
 khổ, đời an trú.
 
 === VIII. Bị Ðóng Kín (S.i,40)
-<viii.-bị-ðóng-kín-s.i40>
 -- Vật gì đóng kín đời? Trên gì đời an trú? Vật gì treo cột đời? Vật gì
 bao phủ đời?
 
@@ -1874,7 +1574,6 @@ bao phủ đời?
 Khát ái treo cột đời, Già nua bao phủ đời.
 
 === IX. Ước Muốn (S.i,40)
-<ix.-ước-muốn-s.i40>
 -- Vật gì trói buộc đời? Ðiều phục gì được thoát? Vật gì được đoạn trừ,
 Khiến mọi phược đoạn tận?
 
@@ -1882,7 +1581,6 @@ Khiến mọi phược đoạn tận?
 trừ, Mọi triền phược đoạn tận.
 
 === X. Ðời (Thế gian) (S.i,41)
-<x.-ðời-thế-gian-s.i41>
 -- Trên gì thế gian sanh? Trên gì được giao tiếp?
 
 Thế gian chấp trước gì? Trên gì đời khổ não?
@@ -1893,16 +1591,13 @@ trước sáu, Trên sáu, đời khổ não.
 #divider()
 
 === VIII. Phẩm Ðoạn (S.i,41) … Ðứng một bên, vị Thiên nhân ấy nói lên bài kệ với Thế Tôn:
-<viii.-phẩm-ðoạn-s.i41-ðứng-một-bên-vị-thiên-nhân-ấy-nói-lên-bài-kệ-với-thế-tôn>
 === I. Ðoạn Sát (S.i,41) Sát vật gì được lạc? Sát vật gì không sầu? Có một pháp loại gì,
-<i.-ðoạn-sát-s.i41-sát-vật-gì-được-lạc-sát-vật-gì-không-sầu-có-một-pháp-loại-gì>
 Ngài tán đồng sát hại, Tôn giả Gotama? (Thế Tôn): Sát phẫn nộ được lạc,
 Sát phẫn nộ không sầu, Phẫn nộ với độc căn, Với vị ngọt tối thượng, Pháp
 ấy, bậc Thánh Hiền, Tán đồng sự sát hại. Sát pháp ấy không sầu, Này
 (Hiền giả) Thiên nhân .
 
 === II. Cỗ Xe (S.i,41)
-<ii.-cỗ-xe-s.i41>
 -- Cỗ xe hiện tướng gì? Ngọn lửa hiện tướng gì? Vương quốc hiện tướng
 gì? Phụ nữ hiện tướng gì?
 
@@ -1910,7 +1605,6 @@ gì? Phụ nữ hiện tướng gì?
 quốc, Chồng hiện tướng nữ nhân.
 
 === III. Tài Sản (S.i,42)
-<iii.-tài-sản-s.i42>
 -- Tài sản gì ở đời, Ðối người là tối thượng? Sự gì khéo tu trì, Ðưa đến
 chơn an lạc? Vật gì ngọt tối thượng, Trong tất cả vị ngọt? Sống cuộc
 sống thế nào, Ðược gọi sống tối thượng?
@@ -1921,7 +1615,6 @@ sống thế nào, Ðược gọi sống tối thượng?
 cuộc sống trí tuệ, Ðược gọi sống tối thượng.
 
 === IV. Mưa (S.i,42)
-<iv.-mưa-s.i42>
 Vật gì được mọc lên, Là mọc lên tối thượng? Vật gì được rơi xuống, Là
 rơi xuống tối thượng? Vật gì thường bộ hành? Vật gì thuyết tối thượng?
 
@@ -1935,7 +1628,6 @@ rơi xuống, Là rơi xuống tối thượng. Tăng-già thường bộ hành,
 thuyết tối thượng.
 
 === V. Khủng Bố (S.i,42)
-<v.-khủng-bố-s.i42>
 Vì sao ở đời này, Rất nhiều người sợ hãi, Dầu con đường đề cập,
 
 Dưới hình thức sai biệt? Con hỏi Gotama, Bậc trí tuệ sáng suốt, Phải an
@@ -1946,7 +1638,6 @@ trong nhà, Với tài sản dồi dào, Hãy tín tâm, nhu hòa, Chia tài s�
 nhã. An trú bốn pháp này, Không sợ hãi đời sau.
 
 === VI. Không Già (S.i,43)
-<vi.-không-già-s.i43>
 -- Ai già, ai không già? Thế nào gọi phi đạo? Vật gì chướng ngại pháp?
 Vật gì đêm ngày diệt? Vật gì uế Phạm hạnh? Vật gì tắm không nước? Ðời
 bao nhiêu lỗ trống, Trên ấy, tâm không trú? Con đến hỏi Thế Tôn, Mong
@@ -1961,7 +1652,6 @@ Khổ hạnh và Phạm hạnh, Là tắm không cần nước, Sáu lỗ trốn
 miên và hôn trầm, Cả sáu lỗ trống này, Cần ly khai tất cả.
 
 === VII. Tôn Chủ (S.i,43)
-<vii.-tôn-chủ-s.i43>
 -- Vật gì chủ ở đời? Hàng hóa gì tối thượng? Vật gì làm rỉ sét, Lưỡi
 kiếm ở trên đời? Vật gì ở đời này, Tác thành cõi địa ngục?
 
@@ -1973,7 +1663,6 @@ kiếm ở trên đời. Kẻ trộm ở đời này, Tác thành cõi địa ng
 bị chận, Sa-môn đem, được ưa, Sa-môn thường đi lại, Ðược kẻ trí hoan hỷ.
 
 === VIII. Dục (S.i,44)
-<viii.-dục-s.i44>
 -- Nghĩ lợi, không cho ai, Con người từ bỏ gì? Thiện gì nên thốt ra? Ác
 gì nên ngăn chận?
 
@@ -1981,7 +1670,6 @@ gì nên ngăn chận?
 ra, Lời ác, nên ngăn chận.
 
 === IX. Lương Thực (S.i,44)
-<ix.-lương-thực-s.i44>
 -- Cái gì cột lương thực? Cái gì hút tài sản? Cái gì lôi cuốn người? Ở
 đời, khó bỏ gì? Cái gì buộc phàm nhân, Như chim bị bẫy sập?
 
@@ -1991,7 +1679,6 @@ Thần tài hút tài sản. Lòng muốn lôi cuốn người, Ở đời, mu�
 bỏ. Ham muốn buộc phàm nhân, Như chim bị bẫy sập.
 
 === X. Chớp (S.i,44)
-<x.-chớp-s.i44>
 -- Vật gì chiếu sáng đời? Vật gì thức tỉnh đời? Ai cọng nghiệp với
 người? Cử chỉ chúng là gì? Ai nuôi kẻ nhác, siêng, Như mẹ nuôi con cái?
 Hữu tình gì trì mạng, Y cứ vào địa đại?
@@ -2002,7 +1689,6 @@ Bò cọng nghiệp với người, Ðường cày là con đường. Mưa nuôi
 siêng, Như mẹ nuôi con cái. Mưa trì mạng chúng sanh, Y cứ vào địa đại.
 
 === XI. Không Tranh Luận (S.i,44)
-<xi.-không-tranh-luận-s.i44>
 -- Ai không tranh luận đời? Ai sống không hoại diệt? Ai rõ ham muốn đời?
 Ai thường xuyên tự tại? Ai an trú như vậy, Cha, mẹ, anh đảnh lễ? Ai dầu
 có hạ sanh, Ðược Sát-lỵ tôn kính?
@@ -2015,11 +1701,8 @@ anh kính lễ. Sa-môn dầu hạ sanh, Ðược Sát-lỵ tôn kính.
 #divider()
 
 == \[02\] Chương II - Tương Ưng Thiên Tử
-<chương-ii---tương-ưng-thiên-tử-1>
 === I. Phẩm Thứ Nhất (S.i,46)
-<i.-phẩm-thứ-nhất-s.i46>
 === I. Kassapa - Ca-diếp
-<i.-kassapa---ca-diếp>
 \(Tạp 49.24 - Ca-diếp, Ðại 2,361c) Biệt Tạp 15.19, Ðại 2,480c)
 
 #block[
@@ -2046,7 +1729,6 @@ anh kính lễ. Sa-môn dầu hạ sanh, Ðược Sát-lỵ tôn kính.
 ]
 
 === II. Kassapa (S.i,46) (Tạp 49.25 Ca-diếp, Ðại 2,361c) (Biệt Tạp 15.20, Ðại 2,480a)
-<ii.-kassapa-s.i46-tạp-49.25-ca-diếp-ðại-2361c-biệt-tạp-15.20-ðại-2480a>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -2058,7 +1740,6 @@ anh kính lễ. Sa-môn dầu hạ sanh, Ðược Sát-lỵ tôn kính.
 ]
 
 === III. Màgha (S.i,47) (Tạp 49.16 Ma-khứu, Ðại 2,360c) (Biệt Tạp 15.11, Ðại 2,478c)
-<iii.-màgha-s.i47-tạp-49.16-ma-khứu-ðại-2360c-biệt-tạp-15.11-ðại-2478c>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -2082,7 +1763,6 @@ tán đồng sát hại, Tôn giả Gotama?
 Sát pháp ấy không sầu, Này Hiền giả Thiên nhân.
 
 === IV. Màgadha
-<iv.-màgadha>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Màgadha nói lên với Thế Tôn bài kệ: Vật gì
@@ -2095,7 +1775,6 @@ Sát pháp ấy không sầu, Này Hiền giả Thiên nhân.
 Chánh giác sáng tối thắng, Sáng này sáng vô thượng.
 
 === V. Dàmali (Tạp 49.18, Ðàm-ma, Ðại 2,360c) (Biệt Tạp 15.13, Ðại 2,478c)
-<v.-dàmali-tạp-49.18-ðàm-ma-ðại-2360c-biệt-tạp-15.13-ðại-2478c>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -2122,7 +1801,6 @@ kín đáo, Tinh tấn tu Thiền định. Vị ấy đã đạt được, Tận
 tử, Ðã đến bờ bên kia, Nên không còn trôi giạt.
 
 === VI. Kàmada (S.i,48) (Tạp 49.20 Thực trí, Ðại 2, 361a) (Biệt Tạp 15.15, Ðại 2, 479a)
-<vi.-kàmada-s.i48-tạp-49.20-thực-trí-ðại-2-361a-biệt-tạp-15.15-ðại-2-479a>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Kàmada bạch Thế Tôn:
@@ -2153,7 +1831,6 @@ Trên đường mất thăng bằng. Con đường đối bậc Thánh, Là con 
 bằng, Bậc Thánh bước thăng bằng, Trên đường mất thăng bằng.
 
 === VII. Pancàlacanda (S.i, 48)( Tạp 49.12 Ban-xà-la, Ðại 2,358b) (Biệt Tạp 15.7, Ðại 2, 477a)
-<vii.-pancàlacanda-s.i-48-tạp-49.12-ban-xà-la-ðại-2358b-biệt-tạp-15.7-ðại-2-477a>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Pancàlacanda nói lên bài kệ này trước Thế Tôn:
@@ -2172,7 +1849,6 @@ Biết từ bỏ, tối thắng, Bậc Mâu-ni, ẩn sĩ
 ]
 
 === VIII. Tàyana (S.i,49) (Dhammapada 313, 314, 311, 312 Thera G 277)
-<viii.-tàyana-s.i49-dhammapada-313-314-311-312-thera-g-277>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Rồi Thiên tử Tàyana, trước kia thuộc ngoại đạo sư, sau khi đêm gần
@@ -2226,7 +1902,6 @@ tu, Kéo đến cõi địa ngục. Mọi sở hành biếng nhác, Mọi hạnh
 ]
 
 === IX. Candima (S.i,50) (Nguyệt Thiên tử, Tạp 22.8 Nguyệt Thiên tử, Ðại 2, 155a) (Biệt Tạp 9.7, Ðại 2, 436a)
-<ix.-candima-s.i50-nguyệt-thiên-tử-tạp-22.8-nguyệt-thiên-tử-ðại-2-155a-biệt-tạp-9.7-ðại-2-436a>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Thế Tôn trú ở Sàvatthi (Xá-vệ). Lúc bấy giờ, Thiên tử Candima bị Ràhu,
@@ -2255,7 +1930,6 @@ Thoát ly thật viên mãn, Còn con bị trói buộc, Hãy cho con quy ngư�
 Với lời kệ đức Phật, Nếu không thả Canda.
 
 === X. Suriya: (S.i,51) Nhật Thiên tử
-<x.-suriya-s.i51-nhật-thiên-tử>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Lúc bấy giờ, Thiên tử Suriya bị Ràhu, vua A-tu-la bắt. Rồi Thiên tử
@@ -2283,9 +1957,7 @@ Nếu không thả Suriya.
 #divider()
 
 === II Phẩm Cấp Cô Ðộc (S.i,51)
-<ii-phẩm-cấp-cô-ðộc-s.i51-1>
 === I. Candimasa Tại Sàvatthi.
-<i.-candimasa-tại-sàvatthi.>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Rồi Thiên tử Candimasa, sau khi đêm đã gần mãn,với dung sắc thù thắng
@@ -2299,7 +1971,6 @@ Nhứt tâm, niệm tỉnh giác, Họ sẽ đi bờ kia, Như cá, phá rách l
 khi chứng Thiền định, Tự chế, vượt lỗi lầm.
 
 === II. Vendu (S.i,52)
-<ii.-vendu-s.i52>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Vendu nói lên bài kệ này trước mặt Thế Tôn: 2)
@@ -2313,7 +1984,6 @@ Trong pháp cú Ta dạy, Tinh cần, không phóng dật, Ðúng thời họ s�
 Thoát khỏi tay tử thần.
 
 === III. Diighalatthi (S.i,52)
-<iii.-diighalatthi-s.i52>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Ràjagaha (Vương Xá), Trúc Lâm,
@@ -2330,7 +2000,6 @@ Với tâm tư giải thoát, Vị Tỷ-kheo tu Thiền, Và với lòng ước 
 thuần không chấp trước, Hưởng lợi quả như chơn.
 
 === IV. Nandana (S.i,52)
-<iv.-nandana-s.i52>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Nandana nói bài kệ với Thế Tôn: Con hỏi Gotama,
@@ -2349,7 +2018,6 @@ Người nào gọi trí tuệ? Người nào vượt sầu khổ? Người nào
 ]
 
 === V. Candana: Ðàn (S.i,53)
-<v.-candana-ðàn-s.i53>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Chiên Thiên tử Candana nói lên bài kệ với Thế Tôn: Làm
@@ -2366,7 +2034,6 @@ phược,
 Ðoạn tận hỷ, hữu ái, Không chìm xuống vực sâu.
 
 === VI. Sudatta (Tu-đạt-đa)
-<vi.-sudatta-tu-đạt-đa>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Sudatta nói lên bài kệ này trước mặt Thế Tôn:
@@ -2378,7 +2045,6 @@ phược,
 ]
 
 === VII. Subrahmà (S.i,53)
-<vii.-subrahmà-s.i53>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Subrahmà nói lên bài kệ với Thế Tôn: Tâm này
@@ -2397,7 +2063,6 @@ phược,
 ]
 
 === VIII. Kakudha (S.i,54)
-<viii.-kakudha-s.i54>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàketa, rừng Anjana, tại vườn
@@ -2448,7 +2113,6 @@ hỷ không khởi lên? Làm sao nay Ngài lại, Ngồi cô độc một mình
 ]
 
 === IX. Uttara (S.i,54)
-<ix.-uttara-s.i54>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên tại thành Vương Xá. Ðứng một bên, Thiên tử Uttara nói lên
@@ -2467,7 +2131,6 @@ làm các công đức, Ðưa đến chơn an lạc.
 ]
 
 === X. Anàthapindika: Cấp Cô Ðộc (S.i,55)
-<x.-anàthapindika-cấp-cô-ðộc-s.i55>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Cấp Cô Ðộc nói lên bài kệ này trước mặt Thế
@@ -2525,9 +2188,7 @@ Anàthapindika hết dạ tín thành đối với Tôn giả Sàriputta?
 #divider()
 
 === III. Phẩm Các Ngoại Ðạo (S.i,56)
-<iii.-phẩm-các-ngoại-ðạo-s.i56-1>
 === I. Siva
-<i.-siva>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vậy tôi nghe. Một thời Thế Tôn trú ở Sàvatthi (Xá- vệ), Jetavana
@@ -2558,7 +2219,6 @@ pháp người hiền Chúng sanh thường hưởng lạc.
 ]
 
 === II. Khema (S.i,57) Ðứng một bên, Thiên tử Khema nói lên bài kệ này trước mặt Thế Tôn:
-<ii.-khema-s.i57-ðứng-một-bên-thiên-tử-khema-nói-lên-bài-kệ-này-trước-mặt-thế-tôn>
 Kẻ ngu không trí tuệ, Lấy ngã làm kẻ thù, Tự làm các ác nghiệp, Ðưa đến
 quả đắng cay. Nghiệp nào không khéo làm, Làm xong bị nung nấu, Với mặt
 đầy nước mắt, Khóc lóc chịu quả báo. Và nghiệp nào khéo làm, Làm xong,
@@ -2570,7 +2230,6 @@ Leo lên đường lồi lõm, Ưu tư nạn gãy trục. Cũng vậy bỏ Chán
 ngu theo phi pháp, Rơi vào miệng tử thần, Ưu tư như gãy trục.
 
 === III. Serì (S.i,57)
-<iii.-serì-s.i57>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Serii nói lên bài kệ với Thế Tôn: Cả hai loại
@@ -2674,7 +2333,6 @@ lại cho con.
 Chúng sanh vẫn hưởng thọ, Công đức trong đời sau.”
 
 === IV. Ghatìkara (S.i,60)
-<iv.-ghatìkara-s.i60>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Ghatìkara nói lên bài kệ này trước mặt Thế Tôn:
@@ -2731,7 +2389,6 @@ Thuở xưa, Ông đồng hương, Cũng là bạn của Ta. Như vậy là hộ
 những bạn thuở xưa, Cả hai khéo tu tập, Mang thân này tối hậu.
 
 === V. Jantu ( S.i,61)
-<v.-jantu-s.i61>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời một số đông Tỷ-kheo trú ở Kosala
@@ -2754,7 +2411,6 @@ Kẻ chết bị quăng bỏ. Những ai sống phóng dật, Vì họ con nói 
 ai không phóng dật, Chân thành, con đảnh lễ.
 
 === VI. Rohita (S.i,61)
-<vi.-rohita-s.i61>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi (Xá-vệ).
@@ -2846,7 +2502,6 @@ làm các công đức, Ðược hưởng cảnh an lạc.
 ]
 
 === VII. Nandivisàla: (S.i,63)
-<vii.-nandivisàla-s.i63>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ðứng một bên, Thiên tử Nandivisàla nói lên bài kệ với Thế Tôn: Bốn
@@ -2858,7 +2513,6 @@ làm các công đức, Ðược hưởng cảnh an lạc.
 ]
 
 === IX. Susima (S.i,63)
-<ix.-susima-s.i63>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -2981,7 +2635,6 @@ Không phẫn hận, ít dục, Nhu thuận và điều phục, Như người kh
 phục, Chờ đợi thời giờ đến, Ðể hưởng quả thuần thục.
 
 === X. Các Ngoại Ðạo Sư (S.i,65)
-<x.-các-ngoại-ðạo-sư-s.i65>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở thành Vương Xá, tại Trúc Lâm, chỗ
@@ -3065,9 +2718,7 @@ chỉ là bẫy mồi, Quăng ra để diệt cá.
 #divider()
 
 == \[03\] Chương III - Tương Ưng Kosala
-<chương-iii---tương-ưng-kosala-1>
 === I. Tuổi Trẻ (S.i,68)
-<i.-tuổi-trẻ-s.i68>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Sàvatthi (Xá- vệ), Jetavana
@@ -3176,7 +2827,6 @@ quy y Thế Tôn, quy y Pháp, quy y chúng Tăng. Mong Thế Tôn nhận con l�
 tử, từ nay trở đi cho đến mạng chung, con trọn đời quy ngưỡng.
 
 === II. Người (S.i,70)
-<ii.-người-s.i70>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại tịnh xá ở Sàvatthi.
@@ -3209,7 +2859,6 @@ Chúng di hại tự ngã, Chúng tác thành tự ngã, Như vỏ và lõi cây
 thành trái cây.
 
 === III. Vua (S.i,71)
-<iii.-vua-s.i71>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -3250,7 +2899,6 @@ vậy, Rồi cũng phải già yếu. Chỉ thiện pháp không già, Bậc thi
 vậy.
 
 === IV. Thân Ái (S.i,71)
-<iv.-thân-ái-s.i71>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -3299,7 +2947,6 @@ Do vậy hãy làm lành, Tích lũy cho đời sau, Công đức cho đời sau
 cứ cho người.
 
 === V. Tự Bảo Hộ (S.i,72)
-<v.-tự-bảo-hộ-s.i72>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ngồi một bên, vua Pasenadi nước Kosala bạch Thế Tôn:
@@ -3333,7 +2980,6 @@ Lành thay tổng bảo vệ! Kẻ liêm sỉ bảo vệ, Tổng quát và cùng
 có tên gọi, Là vị được bảo vệ.
 
 === VI. Thiểu Số (S.i,73)
-<vi.-thiểu-số-s.i73>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -3369,7 +3015,6 @@ ràng,
 họ khổ đau, Chịu quả báo ác nghiệp.
 
 === VII. Xử Kiện (S.i,74)
-<vii.-xử-kiện-s.i74>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ngồi xuống một bên, vua Pasenadi nước Kosala bạch Thế Tôn:
@@ -3401,7 +3046,6 @@ gì con cá, Không thấy đặt bẫy sập. Về sau họ khổ đau, Chịu 
 nghiệp.
 
 === VIII. Mallikà: Mạt-lỵ (S.i,75)
-<viii.-mallikà-mạt-lỵ-s.i75>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -3448,7 +3092,6 @@ hậu.
 ]
 
 === IX. Tế Ðàn (S.i,75)
-<ix.-tế-ðàn-s.i75>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -3493,7 +3136,6 @@ Ai tế lễ như vậy, Chỉ tốt hơn, không xấu, Là tế đàn vĩ đ�
 Thiên hoan hỷ.
 
 === X. Triền Phược (S.i,76)
-<x.-triền-phược-s.i76>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Lúc bấy giờ, vua Pasenadi nước Kosala đang bắt trói một số đông người.
@@ -3523,7 +3165,6 @@ vọng mong cầu, Từ bỏ mọi dục lạc.
 #divider()
 
 === I. Bện Tóc (S.i,77)
-<i.-bện-tóc-s.i77>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở tại Sàvatthi, Pubbàràma (Ðông Viên), tại lâu đài
@@ -3613,7 +3254,6 @@ với ác tuệ.
 Nội thân thật bất tịnh, Mặt ngoài giả mỹ diệu.
 
 === II. Năm Vua (S.i,79)
-<ii.-năm-vua-s.i79>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi.
@@ -3710,7 +3350,6 @@ tưởng khởi lên nơi con.
 ]
 
 === III. Ðại Thực: Ăn nhiều (S.i,81)
-<iii.-ðại-thực-ăn-nhiều-s.i81>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi. Lúc bấy giờ, vua Pasenadi nước Kosala thường ăn bữa ăn
@@ -3876,7 +3515,6 @@ Mắng người, người mắng lại, Não người, người não lại, Do n
 diễn tiến, Bị hại, lại hại người.
 
 === VI. Người Con Gái (S.i,86)
-<vi.-người-con-gái-s.i86>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -3899,7 +3537,6 @@ diễn tiến, Bị hại, lại hại người.
 ]
 
 === VII. Không Phóng Dật (S.i,86)
-<vii.-không-phóng-dật-s.i86>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -3937,7 +3574,6 @@ hiền không phóng dật, Ðược cả hai lợi ích, Lợi ích trong đờ
 chụp lấy, Hạnh phúc cho chính mình.
 
 === VIII. Không Phóng Dật (S.i,87)
-<viii.-không-phóng-dật-s.i87>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi.
@@ -4047,7 +3683,6 @@ hùng được gọi Là bậc chơn hiền trí, Nếu biết nắm chụp lấ
 chính mình.
 
 === IX. Không Con ( S.i,89)
-<ix.-không-con-s.i89>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -4133,7 +3768,6 @@ Nuôi dưỡng và giúp đỡ,
 Vô tội khi bị chết, Ðược sanh lên Thiên giới.
 
 === X. Không Có Con (S.i,91)
-<x.-không-có-con-s.i91>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Rồi vua Pasenadi nước Kosala, giữa trưa, đi đến Thế Tôn, sau khi đến,
@@ -4217,9 +3851,7 @@ gia chủ đang bị nung nấu trong địa ngục Mahàroruva.
 #divider()
 
 === III Phẩm Thứ Ba
-<iii-phẩm-thứ-ba-1>
 === I. Người (S.i,93)
-<i.-người-s.i93>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -4366,7 +3998,6 @@ Và hướng đến bóng tối.
 sáng, Và hướng đến ánh sáng.
 
 === II. Tổ Mẫu (S.i,96)
-<ii.-tổ-mẫu-s.i96>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -4416,7 +4047,6 @@ nghiệp đọa, địa ngục, Thiện nghiệp, lên Thiên giới. Do vậy h
 Tích lũy cho đời sau, Công đức cho đời sau, Làm hậu cứ cho người.
 
 === III. Thế Gian (S.i,98)
-<iii.-thế-gian-s.i98>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -4444,7 +4074,6 @@ Tích lũy cho đời sau, Công đức cho đời sau, Làm hậu cứ cho ngư
 ]
 
 === IV. Cung Thuật (S.i,98)
-<iv.-cung-thuật-s.i98>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -4544,7 +4173,6 @@ mãn kẻ khất sĩ. Kẻ trí tâm hoan hỷ, Phân phát vật ăn uống, N�
 lớn, Do bố thí mang lại, Ðem mưa ân, mưa móc, Trên những người bố thí.
 
 === V. Ví Dụ Hòn Núi (S.i,100)
-<v.-ví-dụ-hòn-núi-s.i100>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -4671,9 +4299,7 @@ Pháp và Tăng. Ai với thân, khẩu, ý, Hành trì đúng Chánh pháp,
 #divider()
 
 == \[04\] Chương IV - Tương Ưng Ác Ma
-<chương-iv---tương-ưng-ác-ma-1>
 === I. Khổ Hạnh Và Nghiệp (S.i,103)
-<i.-khổ-hạnh-và-nghiệp-s.i103>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Uruvelà bên bờ sông Neranjarà,
@@ -4710,7 +4336,6 @@ Giới, định và trí tuệ, Con đường hướng chánh giác. Ta tu tập
 ]
 
 === II. Con Voi (S.i,103)
-<ii.-con-voi-s.i103>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở tại Uruvelà, bên bờ sông
@@ -4741,7 +4366,6 @@ Thôi vừa rồi, Ác ma, Ông đã bị bại trận.
 ]
 
 === III. Tịnh (S.i,104)
-<iii.-tịnh-s.i104>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú tại Uruvelà.
@@ -4765,7 +4389,6 @@ Thôi vừa rồi, Ác ma, Ông đã bị bại trận.
 ]
 
 === IV. Bẫy Sập (S.i,105)
-<iv.-bẫy-sập-s.i105>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở tại Barànasi (Ba- la-nại),
@@ -4800,7 +4423,6 @@ Khỏi triền phược của ma, Này kẻ Tử ma kia, Ông đã bị bại tr
 ]
 
 === V. Bẫy Sập (S.i,105)
-<v.-bẫy-sập-s.i105>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Bàrànasi (Ba-la-nại) tại Isipatana, vườn Lộc
@@ -4838,7 +4460,6 @@ Cả Thiên giới, Nhân giới. Ta đã được giải thoát, Khỏi triền
 ma, Này kẻ Tử ma kia, Ông đã bị bại trận.
 
 === VI. Con Rắn (S.i,106)
-<vi.-con-rắn-s.i106>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha, Veluvana, tại chỗ nuôi dưỡng các con sóc.
@@ -4873,7 +4494,6 @@ y.
 ]
 
 === VII. Thụy Miên (S.i,107)
-<vii.-thụy-miên-s.i107>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha, Veluvana, tại chỗ nuôi dưỡng các con sóc.
@@ -4898,7 +4518,6 @@ Nên Ngài ngủ như vậy, Sao Ngài ngủ như vậy, Khi mặt trời đã m
 ]
 
 === VIII. Hoan Hỷ (S.i,107)
-<viii.-hoan-hỷ-s.i107>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -4920,7 +4539,6 @@ Rồi Ác ma biết rằng: "Thế Tôn đã biết ta, Thiện Thệ đã biế
 biến mất tại chỗ.
 
 === IX. Tuổi Thọ (S.i,108)
-<ix.-tuổi-thọ-s.i108>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Ràjagaha, tại Trúc Lâm, chỗ nuôi
@@ -4952,7 +4570,6 @@ trăm năm, hoặc ít hơn, hoặc nhiều hơn.
 ]
 
 === X. Tuổi Thọ (S.i,108)
-<x.-tuổi-thọ-s.i108>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Ràjagaha (Vương Xá). Tại đây, Thế Tôn nói như sau:
@@ -4983,7 +4600,6 @@ Thọ mạng người xoay vần, Như vành theo trục xe.
 #divider()
 
 === I. Hòn Ðá (S.i,109)
-<i.-hòn-ðá-s.i109>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), trên núi Gijjhakuta (Linh
@@ -5005,7 +4621,6 @@ Thọ mạng người xoay vần, Như vành theo trục xe.
 ]
 
 === II. Con Sư Tử (S.i,106)
-<ii.-con-sư-tử-s.i106>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
@@ -5032,7 +4647,6 @@ hội chúng đông đảo? Nay Ngài có địch thủ, Chớ nghĩ Ngài thắ
 ]
 
 === III. Phiến Ðá (S.i,110)
-<iii.-phiến-ðá-s.i110>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Ràjagaha (Vương Xá), tại
@@ -5069,7 +4683,6 @@ thương chúng sanh.
 ]
 
 === IV. Tương Ưng Thích Nghi (S.i,111)
-<iv.-tương-ưng-thích-nghi-s.i111>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Kosala, tại một làng Bà-la-môn tên là Ekasàlà.
@@ -5100,7 +4713,6 @@ nghịch, Như Lai chơn giải thoát.
 ]
 
 === V. Ý (S.i,111)
-<v.-ý-s.i111>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn
@@ -5122,7 +4734,6 @@ Ta trói buộc lấy Ngài, Này vị Sa-môn kia, Ngài chưa thoát khỏi ta
 ]
 
 === VI. Bình Bát (S.i,112)
-<vi.-bình-bát-s.i112>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi. Lúc bấy giờ Thế Tôn đang thuyết pháp cho các Tỷ-kheo
@@ -5174,7 +4785,6 @@ Mọi kiết sử siêu thoát, Dầu tìm mọi xứ sở, Ma quân không gặ
 ]
 
 === VII. Xứ (S.i,112)
-<vii.-xứ-s.i112>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Vesàli (Tỳ- xá-ly), Ðại Lâm, chỗ Trùng Các
@@ -5218,7 +4828,6 @@ các Ông.
 ]
 
 === VIII. Ðoàn Thực (S.i,113)
-<viii.-ðoàn-thực-s.i113>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Magadha, tại làng Bà-la-môn tên là Pancasàlà.
@@ -5261,7 +4870,6 @@ Quang Âm, Có hào quang sáng chói, Lấy hỷ làm đồ ăn.
 ]
 
 === IX. Người Nông Phu (S.i,114)
-<ix.-người-nông-phu-s.i114>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi. Lúc bấy giờ Thế Tôn đang thuyết pháp cho các
@@ -5350,7 +4958,6 @@ Như vậy, này Sa-môn, Ngài không thoát khỏi ta.
 ]
 
 === X. Thống Trị (S.i,116)
-<x.-thống-trị-s.i116>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Kosala, dưới chân núi Tuyết Sơn, tại một am thất
@@ -5401,9 +5008,7 @@ vậy nên học, Giải trừ mọi buộc ràng.
 #divider()
 
 === III. Phẩm Thứ Ba (Thêm năm kinh)
-<iii.-phẩm-thứ-ba-thêm-năm-kinh-1>
 === I. Ða Số (S,i.117)
-<i.-ða-số-si.117>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở giữa các vị Sakkà, tại Silàvatii
@@ -5486,7 +5091,6 @@ Làm sao người như vậy, Có khuynh hướng các dục? Sau khi biết san
 ràng buộc ở đời, Người biết vậy nên học, Giải trừ mọi buộc ràng.
 
 === II. Samiddhi (S.i,119)
-<ii.-samiddhi-s.i119>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở giữa các vị Sakkà, tại Silàvatii.
@@ -5558,7 +5162,6 @@ là quả đất vỡ tung.
 ]
 
 === III. Godhika (S.i,120)
-<iii.-godhika-s.i120>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Ràjagaha, Veluvana, tại chỗ
@@ -5669,7 +5272,6 @@ Chinh phục ái, ái căn, Godhika nhập diệt. 22) Còn kẻ bị sầu mu�
 nách rơi huyền cầm, Dạ-xoa bị thất vọng, Liền biến mất tại chỗ.
 
 === IV. Bẩy Năm (S.i,122)
-<iv.-bẩy-năm-s.i122>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Uruvelà trên bờ sông
@@ -5740,7 +5342,6 @@ bỏ đi, rồi ngồi kiết-già trên đất, không xa Thế Tôn, im lặng
 thụt vai, cúi đầu, sững sờ, câm miệng, lấy chiếc gậy cào trên đất.
 
 === V. Những Người Con Gái (S.i,124)
-<v.-những-người-con-gái-s.i124>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Rồi các nữ ma Khát ái, Bất lạc và Tham dục, đi đến Ác ma, sau khi đến,
@@ -5906,9 +5507,7 @@ Như Thần gió quét sạch, Các cây lá rơi rụng.
 #divider()
 
 == \[05\] Chương V - Tương Ưng Tỷ Kheo Ni
-<chương-v---tương-ưng-tỷ-kheo-ni-1>
 === I. Alavikhà (S.i.128)
-<i.-alavikhà-s.i.128-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông
@@ -5944,7 +5543,6 @@ làm ta từ bỏ yên tĩnh viễn ly nên đã nói lên bài kệ đó”.
 ]
 
 === II. Somà (S.i.129)
-<ii.-somà-s.i.129-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi. Rồi Tỷ-kheo-ni Somà vào buổi sáng đắp y, cầm y
@@ -5986,7 +5584,6 @@ thật cân xứng.
 ]
 
 === III. Gotamì (S.i.129)
-<iii.-gotamì-s.i.129-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi. Tỷ-kheo-ni Kisà Gotamì, vào buổi sáng đắp y,
@@ -6024,7 +5621,6 @@ Chiến thắng quân thần chết, Vô lậu, ta an trú.
 ]
 
 === IV. Vijayà
-<iv.-vijayà-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi. Tỷ-kheo-ni Vijayà vào buổi sáng đắp y… và ngồi
@@ -6061,7 +5657,6 @@ chứng an tịnh ấy, Mọi nơi, mê ám diệt.
 ]
 
 === V. Uppalavannà (S.i.131)
-<v.-uppalavannà-s.i.131-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên Sàvatthi.
@@ -6107,7 +5702,6 @@ thoát mọi trói buộc, Ta đâu có sợ Ông? Này Hiền giả Ác ma!
 ]
 
 === VI. Càlà (S.i.132)
-<vi.-càlà-s.i.132-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -6148,7 +5742,6 @@ giới, Họ vọng vô sắc giới, Nếu không biết đoạn diệt, Họ �
 ]
 
 === VII. Upacàlà
-<vii.-upacàlà-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -6176,7 +5769,6 @@ giới, Họ vọng vô sắc giới, Nếu không biết đoạn diệt, Họ �
 ]
 
 === VIII. Sisupacàlà
-<viii.-sisupacàlà-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi. Tỷ-kheo-ni Sisupacàlà vào buổi sáng đắp y… rồi ngồi
@@ -6214,7 +5806,6 @@ thích giáo pháp Ngài.
 ]
 
 === IX. Selà (S.i.134)
-<ix.-selà-s.i.134-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi. Tỷ-kheo-ni Selà vào buổi sáng đắp y… ngồi dưới một gốc
@@ -6255,7 +5846,6 @@ diệt.
 ]
 
 === X. Vajirà
-<x.-vajirà-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi. Tỷ-kheo-ni Vajirà vào buổi sáng đắp y, cầm y bát, đi
@@ -6295,9 +5885,7 @@ Ngoài khổ, không gì sanh, Ngoài khổ không gì diệt.
 #divider()
 
 == \[06\] Chương VI - Tương Ưng Phạm Thiên
-<chương-vi---tương-ưng-phạm-thiên-1>
 === I. Thỉnh Cầu (S.i. 136)
-<i.-thỉnh-cầu-s.i.-136>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -6560,7 +6148,6 @@ công đức, Dành an lạc đời sau, Này Nữ Bà-la-môn, Nay bà đã th�
 Bậc Thánh nhân ẩn sĩ, Bậc vượt khỏi bộc lưu.
 
 === IV. Phạm Thiên Baka (S.i.142)
-<iv.-phạm-thiên-baka-s.i.142>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông
@@ -6655,7 +6242,6 @@ vậy.
 Hào quang Ngài sáng chói, An trú Phạm thiên giới.
 
 === V. Tà Kiến Khác (S.i.144)
-<v.-tà-kiến-khác-s.i.144>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -6764,7 +6350,6 @@ nhiều."
 ]
 
 === VI. Phóng Dật (S.i.146)
-<vi.-phóng-dật-s.i.146>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -6861,7 +6446,6 @@ Suddhavàsa; sau khi làm vị Phạm thiên ấy dao động, liền biến m�
 ]
 
 === VII. Kokàlika (S.i,148)
-<vii.-kokàlika-s.i148>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi.
@@ -6880,7 +6464,6 @@ siêu vượt ước lượng? Ta nghĩ kẻ phàm phu, Bị hạn chế bao vâ
 ước lượng được, Bậc siêu vượt ước lượng?
 
 === VIII. Tissaka (S.i,148)
-<viii.-tissaka-s.i148>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -6898,7 +6481,6 @@ siêu vượt ước lượng? Ta nghĩ kẻ phàm phu, Bị hạn chế bao vâ
 ]
 
 === IX. Tudubrahmà (S.i, 149)
-<ix.-tudubrahmà-s.i-149>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -6938,7 +6520,6 @@ lời và ý, Phỉ báng bậc Hiền Thánh, Dùng ác tâm chống đối, S�
 ngục .
 
 === X. Kokàlika (S.i,119)
-<x.-kokàlika-s.i119>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -7110,7 +6691,6 @@ Dùng ác tâm chống đối, Sẽ sa đọa địa ngục
 #divider()
 
 === I. Sanamkumàra - Thường Ðồng tử (S.i,153)
-<i.-sanamkumàra---thường-ðồng-tử-s.i153>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Ràjagaha (Vương Xá), trên bờ sông
@@ -7136,7 +6716,6 @@ thắng giữa Nhơn, Thiên.
 ]
 
 === II. Devadatta (S.i,153)
-<ii.-devadatta-s.i153>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha, trên núi Linh Thứu, khi Devadatta bỏ đi
@@ -7156,7 +6735,6 @@ Thế Tôn và đứng một bên.
 ]
 
 === III. Andhakavinda (S.i,154)
-<iii.-andhakavinda-s.i154>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở giữa dân chúng Magadha, tại Andhakavinda.
@@ -7186,7 +6764,6 @@ sanh loại bàng sanh. Còn các vị còn lại, Theo con đều hưởng phư
 đếm không kể xiết, Sợ rơi vào vọng ngữ.
 
 === IV. Arunavàti (S.i,155)
-<iv.-arunavàti-s.i155>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi…,…
@@ -7318,7 +6895,6 @@ hiện nửa thân giữa thuyết pháp.
 ]
 
 === V. Parinibhàna - Bát-Niết-Bàn (S.i,157)
-<v.-parinibhàna---bát-niết-bàn-s.i157>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Kusinàrà, tại Upavattana, trong rừng cây ta-la,
@@ -7390,11 +6966,8 @@ Bậc Biến Nhãn diệt độ. Với tâm an, bất động, Ngài cảm thọ
 #divider()
 
 == \[07\] Chương VII - Tương Ưng Bà La Môn
-<chương-vii---tương-ưng-bà-la-môn-1>
 === I. Phẩm A-La-Hán Thứ Nhất
-<i.-phẩm-a-la-hán-thứ-nhất-1>
 === I. Dhananjàni (S.i,160)
-<i.-dhananjàni-s.i160>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Ràjagaha (Vương Xá), Veluvana
@@ -7480,7 +7053,6 @@ làm, không còn trở lại trạng thái này nữa".
 ]
 
 === II. Phỉ Báng (S.i,161)
-<ii.-phỉ-báng-s.i161>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), tại
@@ -7578,7 +7150,6 @@ Gotama, quy y Pháp và quy y Tỷ-kheo Tăng. Mong Tôn giả Gotama cho con
 ]
 
 === III. Asurindaka (S.i,163)
-<iii.-asurindaka-s.i163>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), tại chỗ
@@ -7625,7 +7196,6 @@ nữa."
 ]
 
 === IV. Bilangika (S.i,164)
-<iv.-bilangika-s.i164>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha, Veluvana, tại chỗ nuôi dưỡng các con sóc.
@@ -7665,7 +7235,6 @@ nữa".
 ]
 
 === V. Bất Hại - Ahimsaka (S.i,164)
-<v.-bất-hại---ahimsaka-s.i164>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên tại Sàvatthi.
@@ -7698,7 +7267,6 @@ nữa."
 ]
 
 === VI. Bện Tóc (S.i,165)
-<vi.-bện-tóc-s.i165>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -7733,7 +7301,6 @@ thoát triền phược này?
 ]
 
 === VII. Suddhika (S.i,165)
-<vii.-suddhika-s.i165>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana.
@@ -7773,7 +7340,6 @@ Bà-la-môn nên biết!
 ]
 
 === VIII. Aggika: Thờ lửa (S.i,166)
-<viii.-aggika-thờ-lửa-s.i166>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha, Veluvana, tại chỗ nuôi dưỡng các con sóc.
@@ -7825,7 +7391,6 @@ những ai cầu phước.
 ]
 
 === IX. Sundarika (S.i,167)
-<ix.-sundarika-s.i167>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở giữa dân tộc Kosala, trên bờ sông Sundarika.
@@ -7952,7 +7517,6 @@ Gotama!…
 ]
 
 === X. Bahudhiti (S.i,170)
-<x.-bahudhiti-s.i170>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở giữa dân chúng Kosala, tại một khu rừng.
@@ -8029,9 +7593,7 @@ cho con
 ]
 
 === III. Phẩm Cư Sĩ
-<iii.-phẩm-cư-sĩ-1>
 === I. Cày Ruộng (S.i,172)
-<i.-cày-ruộng-s.i172>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở giữa dân chúng Magadha, trên núi
@@ -8113,7 +7675,6 @@ Tăng. Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đến m�
 con trọn đời quy ngưỡng!
 
 === II. Udaya (S.i,173)
-<ii.-udaya-s.i173>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -8153,7 +7714,6 @@ trí, đại tuệ, Không sanh đi, sanh lại.
 tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === III. Devahita (S.i,173)
-<iii.-devahita-s.i173>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -8222,7 +7782,6 @@ về.
 đệ tử cư sĩ, từ nay cho đến mạng chung, con xin trọn đời quy ngưỡng!
 
 === IV. Mahàsàla: Ðại phú giả hay y choàng thô.
-<iv.-mahàsàla-ðại-phú-giả-hay-y-choàng-thô.>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -8302,7 +7861,6 @@ chấp nhận sở phí cho bậc Ðạo Sư của con.
 đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === V. Mànatthada (S.i,177)
-<v.-mànatthada-s.i177>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên tại Sàvatthi.
@@ -8380,7 +7938,6 @@ Gotama!… Mong Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ nay c
 mạng chung, con trọn đời quy ngưỡng!
 
 === VI. Paccaniika (S.i,179)
-<vi.-paccaniika-s.i179>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -8418,7 +7975,6 @@ biết tốt đẹp, Vị ấy nói tốt đẹp.
 đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === VII. Navakammika (S.i,179)
-<vii.-navakammika-s.i179>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở giữa dân chúng Kosala, tại một khu rừng.
@@ -8454,7 +8010,6 @@ Gotama!… Mong Tôn giả Gotama nhận con làm đệ tử cư sĩ, từ nay c
 mạng chung, con trọn đời quy ngưỡng!
 
 === VIII. Katthahàra (S.i,180)
-<viii.-katthahàra-s.i180>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn sống ở giữa dân chúng Kosala, tại một khu rừng.
@@ -8518,7 +8073,6 @@ Vắng lặng, không sợ hãi.
 Gotama!.. từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === IX. Màtaposaka: Nuôi dưỡng mẹ (S.i,181)
-<ix.-màtaposaka-nuôi-dưỡng-mẹ-s.i181>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -8561,7 +8115,6 @@ Mong Tôn giả nhận con làm đệ tử cư
 sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === X. Bhikkhaka (S.i,182)
-<x.-bhikkhaka-s.i182>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -8595,7 +8148,6 @@ pháp, Hành trì theo Phạm hạnh, Sống đời sống chánh trí, Vị ấ
 đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === XI. Sangàrava (S.i,182)
-<xi.-sangàrava-s.i182>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -8671,7 +8223,6 @@ Khi tay chân trong sạch, Họ qua bờ bên kia.
 đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === XII. Khomadusa (S.i,154)
-<xii.-khomadusa-s.i154>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở giữa dân chúng Sakka, tại thị
@@ -8718,9 +8269,7 @@ ngưỡng.
 #divider()
 
 == \[08\] Chương VIII - Tương Ưng Trưởng Lão Vangìsa
-<chương-viii---tương-ưng-trưởng-lão-vangìsa-1>
 === I. Xuất Ly (S.i,185)
-<i.-xuất-ly-s.i185>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Tôn giả Vangìa trú ở Alavi, tại ngôi đền ở
@@ -8759,7 +8308,6 @@ ta từng được nghe, Phật, dòng họ mặt trời, Thuyết giảng Niế
 vậy, Ông đâu thấy đường ta ,
 
 === II. Bất lạc: Arati (S.i,186)
-<ii.-bất-lạc-arati-s.i186>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời…,…
@@ -8804,7 +8352,6 @@ tịnh, Chờ đón thời mệnh chung, Với tâm tư vắng lặng, Thanh tho
 Niết-bàn.
 
 === III. Khinh Miệt Kẻ Ôn Hòa: Pessalà Atìmannanà (S.i,187)
-<iii.-khinh-miệt-kẻ-ôn-hòa-pessalà-atìmannanà-s.i187>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Vangìsa trú ở Alavi, tại đền Aggàlavi, cùng với giáo
@@ -8840,7 +8387,6 @@ Chấm dứt (mọi phiền não), Với trí tuệ quang minh, Ngài được x
 Sống tịch tịnh an lạc.
 
 === IV. Ananda (S.i,188)
-<iv.-ananda-s.i188>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Ananda trú ở Sàvatthi, Jetavana, tại tịnh xá ông
@@ -8870,7 +8416,6 @@ hạnh vô tướng, Ðoạn diệt mạn tùy miên, Nhờ quán sâu kiêu m�
 được an tịnh.
 
 === V. Khéo Nói (S.i,188)
-<v.-khéo-nói-s.i188>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana.
@@ -8938,7 +8483,6 @@ là như vậy. Lời đức Phật nói lên, Ðạt an ổn Niết-bàn, Chấ
 đau, Thật lời nói tối thượng.
 
 === VI. Sàriputta (Xá-lợi-phất) (S.i,189)
-<vi.-sàriputta-xá-lợi-phất-s.i189>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Sàriputta trú ở Sàvatthi, Jetavana, tại vườn ông
@@ -8985,7 +8529,6 @@ chim Sàli, Lời Ngài giảng tuôn trào, Tiếng Ngài nghe ngọt lịm. V�
 khởi hoan hỷ, Này các vị Tỷ-kheo.
 
 === VII. Tự Tứ (S.i,190)
-<vii.-tự-tứ-s.i190>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Sàvatthi, Pubbàràma (Ðông Viên), Migara - màtu
@@ -9070,7 +8613,6 @@ Không ai là vô dụng, Xin chí thành đảnh lễ, Bậc nhổ tên khát �
 thành cung kính, Bậc dòng họ mặt trời.
 
 === VIII. Một Ngàn và Nhiều Hơn (S.i,192)
-<viii.-một-ngàn-và-nhiều-hơn-s.i192>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika (Cấp
@@ -9153,7 +8695,6 @@ vậy? Do vậy trong giáo pháp, Ðức Thế Tôn, Thiện Thệ. Luôn luôn
 phóng dật, Hãy đảnh lễ, tu học.
 
 === IX. Kondanna: Kiều-trần-như (S.i,193)
-<ix.-kondanna-kiều-trần-như-s.i193>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), tại Veluvanna (Trúc Lâm),
@@ -9206,7 +8747,6 @@ chứng được, Nhờ tu học tinh tấn, Ðại uy lực Ba minh, Thiện x�
 người. Phật tử Kondanna, Ðảnh lễ chân Ðạo Sư.
 
 === X. Moggallàna: Mục-kiền-liên (S.i,194)
-<x.-moggallàna-mục-kiền-liên-s.i194>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha, trên sườn núi Isigili, tại núi Hắc
@@ -9254,7 +8794,6 @@ Không còn có sanh y. Như vậy họ hầu hạ, Mâu-ni Gotama, Ngài vượ
 khổ, Mọi sở hành đầy đủ, Mọi đức tánh vẹn toàn .
 
 === XI. Gaggarà (S,i,195)
-<xi.-gaggarà-si195>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Campà, trên bờ hồ Gaggarà với đại chúng Tỷ-kheo
@@ -9291,7 +8830,6 @@ với con.
 ]
 
 === XII. Vangìsa (S.i,196)
-<xii.-vangìsa-s.i196>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi, Jetavana tại vườn ông Anàthapindika
@@ -9314,9 +8852,7 @@ thông.
 #divider()
 
 == \[09\] Chương IX -Tương Ưng Rừng
-<chương-ix--tương-ưng-rừng-1>
 === I. Viễn Ly (S.i,197)
-<i.-viễn-ly-s.i197>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời, một Tỷ-kheo trú giữa dân chúng Kosala, tại
@@ -9347,7 +8883,6 @@ Vùng vẫy khiến rơi rớt, Những bụi đời dính thân.
 ]
 
 === II. Săn Sóc, Hầu Hạ (S.i,197)
-<ii.-săn-sóc-hầu-hạ-s.i197>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một Tỷ-kheo trú giữa dân chúng Kosala, tại một khu rừng.
@@ -9379,7 +8914,6 @@ Sao để dục nhiệt não? Tinh tấn và nhiệt tâm, Thường dõng mãnh
 Hướng vọng đến Niết-bàn, Hạnh xuất gia như vậy, Sao để dục nhiệt não?
 
 === III. Kassapagotta: Thợ Săn: (S.i,198)
-<iii.-kassapagotta-thợ-săn-s.i198>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Kassapagotta trú giữa dân chúng Kosala, tại một khu
@@ -9408,7 +8942,6 @@ không mắt.
 ]
 
 === IV. Ða Số hay Du Hành (S.i,199)
-<iv.-ða-số-hay-du-hành-s.i199>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, nhiều Tỷ-kheo trú giữa dân chúng Kosala tại một khu rừng.
@@ -9428,7 +8961,6 @@ không mắt.
 ]
 
 === V. Ananda (S.i,199)
-<v.-ananda-s.i199>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Ananda trú giữa dân chúng Kosala, tại một khu rừng.
@@ -9447,7 +8979,6 @@ không mắt.
 ]
 
 === VI. Anuruddha. (S.i,200)
-<vi.-anuruddha.-s.i200>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Anuruddha trú ở giữa dân chúng Kosala, tại một khu
@@ -9480,7 +9011,6 @@ Không còn chỗ trú xứ, Trên cảnh giới chư Thiên, Ôi này Jàlinì!
 sanh tử đứt đoạn, Nay tái sanh không còn.
 
 === VII. Nàgadatta (S.i,200)
-<vii.-nàgadatta-s.i200>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Nàgadatta trú giữa dân chúng Kosala, tại một khu
@@ -9507,7 +9037,6 @@ tử thần, Làm sao tránh né được, Khỏi Ác ma chi phối!
 ]
 
 === VIII. Gia Phụ hay Say Ðắm (S.i,201)
-<viii.-gia-phụ-hay-say-ðắm-s.i201>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một Tỷ-kheo trú ở giữa dân chúng Kosala, tại một khu rừng.
@@ -9533,7 +9062,6 @@ Có gì là sai khác?
 ]
 
 === IX. Vajjiputta: Bạt-kỳ Tử hay Tỳ- xá-lỵ (S.i,201)
-<ix.-vajjiputta-bạt-kỳ-tử-hay-tỳ--xá-lỵ-s.i201>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một Tỷ-kheo Vajjiputtaka trú ở Vesàli tại một khu rừng.
@@ -9557,7 +9085,6 @@ Có gì là sai khác?
 ]
 
 === X. Tụng Học Kinh Ðiển hay Pháp (S.i,202)
-<x.-tụng-học-kinh-ðiển-hay-pháp-s.i202>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một Tỷ-kheo sống giữa dân chúng Kosala, tại một khu rừng.
@@ -9585,7 +9112,6 @@ tín. Và ngay đời hiện tại, Ðược mọi người tán thán.
 Chính các bậc Hiền thiện, Giảng dạy là như vậy.
 
 === XI. Bất Chánh Tư Duy: (S.i,203)
-<xi.-bất-chánh-tư-duy-s.i203>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một Tỷ-kheo trú ở giữa dân chúng Kosala tại một khu rừng.
@@ -9610,7 +9136,6 @@ dứt khổ đau.
 ]
 
 === XII. Giưã Trưa hay Tiếng Ðộng (S.i,203)
-<xii.-giưã-trưa-hay-tiếng-ðộng-s.i203>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một Tỷ-kheo trú ở giữa dân chúng Kosala, tại một khu rừng.
@@ -9626,7 +9151,6 @@ dứt khổ đau.
 ]
 
 === XIII. Không Chế Ngự Căn hay Nhiều Tỷ Kheo (S.i,203)
-<xiii.-không-chế-ngự-căn-hay-nhiều-tỷ-kheo-s.i203>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, rất nhiều Tỷ-kheo trú ở giữa dân chúng Kosala, tại một khu
@@ -9653,7 +9177,6 @@ con đảnh lễ.
 ]
 
 === XIV. Sen Hồng hay Sen Trắng (S.i,204)
-<xiv.-sen-hồng-hay-sen-trắng-s.i204>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một Tỷ-kheo trú giữa dân chúng Kosala, tại một khu rừng.
@@ -9699,9 +9222,7 @@ mây trên trời.
 #divider()
 
 == \[10\] Chương X -Tương Ưng Dạ Xoa
-<chương-x--tương-ưng-dạ-xoa-1>
 === I. Indaka (S.i,206)
-<i.-indaka-s.i206>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), núi Indakuuta, tại trú xứ
@@ -9726,7 +9247,6 @@ Gá dính trong thai tạng?
 Con người trong bụng mẹ, Ở đấy, lấy nuôi dưỡng.
 
 === II. Sakka (S.i,206)
-<ii.-sakka-s.i206>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá) trên núi Gijjhakuuta (Linh
@@ -9744,7 +9264,6 @@ Con người trong bụng mẹ, Ở đấy, lấy nuôi dưỡng.
 ]
 
 === III. Suciloma (S.i,207)
-<iii.-suciloma-s.i207>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Gayà, trên hòn đá Tankita tại trú xứ của Dạ-xoa
@@ -9804,7 +9323,6 @@ này Dạ-xoa, Họ vượt bộc lưu này, Bộc lưu thật khó vượt, T�
 vượt qua, Không còn phải tái sanh.
 
 === IV. Manibhadda (S.i,208)
-<iv.-manibhadda-s.i208>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú giữa dân chúng Magadha, tại điện thờ
@@ -9826,7 +9344,6 @@ Manimàlaka, tại một trú xứ của Dạ-xoa Manibhadda.
 Từ tâm mọi hữu tình, Vị ấy không thù hận.
 
 === V. Sanu (S.i,209)
-<v.-sanu-s.i209>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
@@ -9873,7 +9390,6 @@ sống như thế nào, Không làm ai bực phiền. Ðồ vật thoát lửa c
 muốn đốt lại chăng?
 
 === VI. Piyankara (S.i,209)
-<vi.-piyankara-s.i209>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Anuruddha trú ở Sàvatthi, Jetavana, tại vườn ông
@@ -9890,7 +9406,6 @@ muốn đốt lại chăng?
 ]
 
 === VII. Punabbasu (S.i,209)
-<vii.-punabbasu-s.i209>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
@@ -9929,7 +9444,6 @@ chơn an lạc, Nay ta được sống lại, Thấy được chơn Thánh đế
 Uttara! Hãy nghe theo lời ta.
 
 === VIII. Sudatta. (S.i,210)
-<viii.-sudatta.-s.i210>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha (Vương Xá), tại rừng Sìta.
@@ -9996,7 +9510,6 @@ sanh y, Mọi ái trước đoạn diệt, Tâm khổ não điều phục, Tịc
 an lạc, Tâm tư đạt hòa bình.
 
 === IX. Sukkà (S.i,212)
-<ix.-sukkà-s.i212>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), tại Veluvana (Trúc Lâm),
@@ -10016,7 +9529,6 @@ Pháp ấy không trở lui, Cam lồ không lưng vơi. Ta nghĩ người trí 
 nước (cam lồ) ấy, Chẳng khác một đám mưa, Ðối với kẻ lữ hành.
 
 === X. Sukkà (S.i,212)
-<x.-sukkà-s.i212>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha, tại Veluvana, chỗ nuôi dưỡng các con sóc.
@@ -10033,7 +9545,6 @@ trí này, Chắc hưởng nhiều công đức, Ðã cúng dường món ăn, D
 Sukkà, Một vị đã giải thoát, Tất cả mọi triền phược.
 
 === XI. Cirà hay Virà (S.i,215)
-<xi.-cirà-hay-virà-s.i215>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Ràagaha (Vương Xá), tại
@@ -10049,7 +9560,6 @@ Sukkà, Một vị đã giải thoát, Tất cả mọi triền phược.
 ]
 
 === XII. Alava (S.i,218)
-<xii.-alava-s.i218>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở lavi, tại trú xứ của Dạ-xoa
@@ -10166,11 +9676,8 @@ thực và chế ngự, Xả thí và kham nhẫn.
 #divider()
 
 == \[11\] Chương XI - Tương Ưng Sakka
-<chương-xi---tương-ưng-sakka-1>
 === I.Phẩm Thứ Nhất
-<i.phẩm-thứ-nhất-1>
 === I. Suvìra (S.i,216)
-<i.-suvìra-s.i216>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông
@@ -10236,7 +9743,6 @@ tinh tấn để đạt được những gì chưa đạt, để chứng đượ
 chứng, để ngộ được những gì chưa ngộ.
 
 === II. Susìma (S.i,217)
-<ii.-susìma-s.i217>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi, tại Jetavana.
@@ -10292,7 +9798,6 @@ Susìma hãy đi, Giúp ta đạt pháp ấy.
 ]
 
 === III. Dhajaggam: Ðầu Lá Cờ (S.i,218)
-<iii.-dhajaggam-ðầu-lá-cờ-s.i218>
 #block[
 #set enum(numbering: "1)", start: 1)
 + \(Thế Tôn) trú ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
@@ -10399,7 +9904,6 @@ Tư niệm Pháp và Tăng, Sợ hãi hay hoảng hốt, Hay lông tóc dựng n
 Không bao giờ khởi lên.
 
 === IV. Vepacitti hay Kham Nhẫn (S.i,220)
-<iv.-vepacitti-hay-kham-nhẫn-s.i220>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana… (như trên)…
@@ -10487,7 +9991,6 @@ tán thán nhẫn nhục và nhu hòa.
 ]
 
 === V. Thắng Lợi Nhờ Thiện Ngữ (S.i,222)
-<v.-thắng-lợi-nhờ-thiện-ngữ-s.i222>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -10586,7 +10089,6 @@ giỏi Chánh pháp.
 ]
 
 === VI. Tổ Chim (S.i,224)
-<vi.-tổ-chim-s.i224>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -10623,7 +10125,6 @@ Cho các A-tu-la, Còn hơn khiến các chim, Trở thành không tổ ấm.
 ]
 
 === VII. Không Gian Trá (S.i,225)
-<vii.-không-gian-trá-s.i225>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở Sàvatthi.
@@ -10650,7 +10151,6 @@ Cho các A-tu-la, Còn hơn khiến các chim, Trở thành không tổ ấm.
 Người ấy sẽ thọ lãnh, Các quả báo như vậy.
 
 === VIII. Vua A-Tu-La Verocana hay Mục Ðích (S.i,225)
-<viii.-vua-a-tu-la-verocana-hay-mục-ðích-s.i225>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàtthi.
@@ -10691,7 +10191,6 @@ như vậy.
 Không gì tốt đẹp hơn, So sánh với kham nhẫn.
 
 === IX. Các Ẩn Sĩ Ở Rừng hay Hương (S.i,226)
-<ix.-các-ẩn-sĩ-ở-rừng-hay-hương-s.i226>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở Sàvatthi.
@@ -10732,7 +10231,6 @@ vị vua chư Thiên.
 ]
 
 === X. Ẩn Sĩ Ở Bờ Biển hay Sambara (S.i,227)
-<x.-ẩn-sĩ-ở-bờ-biển-hay-sambara-s.i227>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở Sàvatthi.
@@ -10789,7 +10287,6 @@ sẽ hưởng kết quả.
 #divider()
 
 === I. Chư Thiên Hay Cấm Giới (S.i,228)
-<i.-chư-thiên-hay-cấm-giới-s.i228>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -10824,7 +10321,6 @@ người chân thực, Nhiếp phục được phẫn nộ, Với con người n
 Thiên tam thập tam, Gọi là bậc Chơn nhơn.
 
 === II. Chư Thiên (S.i,229)
-<ii.-chư-thiên-s.i229>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở Sàvatthi, Jetavana.
@@ -10886,7 +10382,6 @@ phục được phẫn nộ, Với con người như vậy, Chư Thiên tam th�
 bậc Chơn nhơn.
 
 === III. Chư Thiên (S.i,230)
-<iii.-chư-thiên-s.i230>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -10961,7 +10456,6 @@ phục được phẫn nộ, Với con người như vậy, Chư Thiên tam th�
 bậc Chơn nhơn.
 
 === IV. Người Nghèo (S.i,231)
-<iv.-người-nghèo-s.i231>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), tại chỗ
@@ -11022,7 +10516,6 @@ có trí, Phải kiên trì Phật giáo, Tín thành và trì giới, Trí ki�
 Chánh pháp.
 
 === V. Khả Ái, Khả Lạc (S.i,232)
-<v.-khả-ái-khả-lạc-s.i232>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana.
@@ -11041,7 +10534,6 @@ Chỗ đất thấp hay cao,
 Chỗ nào La-hán trú, Ðịa cảnh ấy khả ái.
 
 === VI. Tổ Chức Lễ Tế Ðàn (S.i,232)
-<vi.-tổ-chức-lễ-tế-ðàn-s.i232>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), tại núi Gijjhakùta (Linh
@@ -11066,7 +10558,6 @@ Chỗ nào sự bố thí, Ðược quả báo thật lớn?
 ]
 
 === VII. Kính Lễ (S.i,233)
-<vii.-kính-lễ-s.i233>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana.
@@ -11090,7 +10581,6 @@ thắng chiến trường, Lãnh đạo đoàn lữ hành, Không mắc nợ m�
 khắp thế giới, Thế Tôn hãy thuyết pháp, Có những người sẽ hiểu.
 
 === VIII. Sakka Kính Lễ (S.i,234)
-<viii.-sakka-kính-lễ-s.i234>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana.
@@ -11137,7 +10627,6 @@ Ta cũng sẽ đảnh lễ, Hỡi này Màtali.
 ]
 
 === IX. Sakka Ðảnh Lễ (S.i,235)
-<ix.-sakka-ðảnh-lễ-s.i235>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana…
@@ -11187,7 +10676,6 @@ Vàsava.
 ]
 
 === X. Sakka Ðảnh Lễ (S.i,235)
-<x.-sakka-ðảnh-lễ-s.i235>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, ở Jetavana.
@@ -11245,9 +10733,7 @@ Hỡi này Màtali!
 #divider()
 
 === III. Phẩm Thứ Ba (hay Sakka Năm Kinh).
-<iii.-phẩm-thứ-ba-hay-sakka-năm-kinh.-1>
 === I. Sát Hại Gì? (S.i,237)
-<i.-sát-hại-gì-s.i237>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana.
@@ -11265,7 +10751,6 @@ Hỡi này Màtali!
 ]
 
 === II. Xấu Xí (S.i,237)
-<ii.-xấu-xí-s.i237>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi, Jetavana.
@@ -11330,7 +10815,6 @@ giận hờn, Và không có khen tặng, Những đức tánh của ta. Thấy 
 ích mình, Ta tự thân chế ngự.
 
 === III. Huyễn Thuật (S.i,238)
-<iii.-huyễn-thuật-s.i238>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi…
@@ -11366,7 +10850,6 @@ giận hờn, Và không có khen tặng, Những đức tánh của ta. Thấy 
 Tại đấy Sambhara, Ðã sống một trăm năm.
 
 === IV. Tội Lỗi (hay Không Phẫn Nộ) (S.i,239)
-<iv.-tội-lỗi-hay-không-phẫn-nộ-s.i239>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi… tại vườn ông Cấp Cô Ðộc.
@@ -11398,7 +10881,6 @@ Tại đấy Sambhara, Ðã sống một trăm năm.
 ]
 
 === V. Không Phẫn Nộ (Không Hại) (S.i,240)
-<v.-không-phẫn-nộ-không-hại-s.i240>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn
@@ -11416,13 +10898,10 @@ Tại đấy Sambhara, Ðã sống một trăm năm.
 #divider()
 
 == TẬP II - THIÊN NHÂN DUYÊN
-<tập-ii---thiên-nhân-duyên-1>
 == \[12\] Chương I - Tương Ưng Nhân Duyên
-<chương-i---tương-ưng-nhân-duyên>
 I. Phẩm Phật Ðà.
 
 === I. Thuyết Pháp -- (Tạp 12.16, Ðại 2,85a) (S.ii,1)
-<i.-thuyết-pháp-tạp-12.16-ðại-285a-s.ii1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi (Xá-vệ), tại Jetavana
@@ -11465,7 +10944,6 @@ uẩn này tập khởi. Này các Tỷ-kheo, như vậy gọi là tập khởi.
 ]
 
 === II. Phân Biệt -- (Tạp 12.16, Ðại 2,85a) (S.ii,2)
-<ii.-phân-biệt-tạp-12.16-ðại-285a-s.ii2>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi (Xá-vệ).
@@ -11572,7 +11050,6 @@ nên sanh diệt. Do sanh diệt nên già chết, sầu, bi, khổ, ưu, não �
 diệt. Như vậy là toàn bộ khổ uẩn này đoạn diệt.
 
 === III. Con Ðường… (S.ii,4)
-<iii.-con-ðường-s.ii4>
 1). \.. Trú ở Sàvatthi… (như trên).
 
 #block[
@@ -11811,17 +11288,14 @@ hành diệt nên thức diệt".
 ]
 
 === V. Sikhì (Thi-khí) (S.ii,9)
-<v.-sikhì-thi-khí-s.ii9>
 -- Này các Tỷ-kheo, với Thế Tôn Sikhì, bậc A-la-hán, Chánh Ðẳng Giác…
 (như trên)…
 
 === VI. Vessabhu (Tỳ-xá-phù) (S.ii,9)
-<vi.-vessabhu-tỳ-xá-phù-s.ii9>
 -- Rồi này các Tỷ-kheo, với Thế Tôn Vessabhu, bậc A-la-hán, Chánh Ðẳng
 Giác… (như trên)…
 
 === VII. Kakusandha (Câu-lưu-tôn) (S.ii,9)
-<vii.-kakusandha-câu-lưu-tôn-s.ii9>
 -- Rồi này các Tỷ-kheo, với Thế Tôn Kakusandha, bậc A-la-hán, Chánh Ðẳng
 Giác… (như trên)… VIII. Konàgamana (Câu-na-hàm). (S.ii,9)
 
@@ -11829,12 +11303,10 @@ Giác… (như trên)… VIII. Konàgamana (Câu-na-hàm). (S.ii,9)
 Giác… (như trên)…
 
 === IX. Kassapa (Ca-diếp) (S.ii,9)
-<ix.-kassapa-ca-diếp-s.ii9>
 -- Rồi này các Tỷ-kheo, với Thế Tôn Kassapa, bậc A-la-hán, Chánh Ðẳng
 Giác… (như trên)…
 
 === X. Mahà Sakya Muni Gotama: Ðại Thích-ca-mâu-ni Cù-đàm. (S.ii,10)
-<x.-mahà-sakya-muni-gotama-ðại-thích-ca-mâu-ni-cù-đàm.-s.ii10>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -11901,9 +11373,7 @@ sanh diệt nên già chết diệt".
 #divider()
 
 === II. Phẩm Ðồ Ăn
-<ii.-phẩm-ðồ-ăn-1>
 === XI. Các Loại Ðồ Ăn (Tạp 15,9 Thực Ðại 2, 101c) (S.ii,11)
-<xi.-các-loại-ðồ-ăn-tạp-159-thực-ðại-2-101c-s.ii11>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -12069,7 +11539,6 @@ hữu sanh khởi". Như vậy là toàn bộ khổ uẩn này tập khởi.
 ]
 
 === XIII. Sa Môn, Bà La Môn (Tạp
-<xiii.-sa-môn-bà-la-môn-tạp>
 14.10-11. Ðại 2,99a) (S.ii,14)
 
 #block[
@@ -12106,7 +11575,6 @@ giác ngộ, chứng đạt và an trú mục đích Sa-môn và mục đích B�
 hạnh.
 
 === XIV. Sa Môn, Bà La Môn (S.ii,15)
-<xiv.-sa-môn-bà-la-môn-s.ii15>
 1). \.. Trú ở Sàvatthi…
 
 #block[
@@ -12169,7 +11637,6 @@ hạnh và mục đích Bà-la-môn hạnh.
 ]
 
 === XV. Kaccàyanagotta: (Ca-chiên-diên Thị) (Tạp 12.19 Ðại 2,85c) (S.ii,16)
-<xv.-kaccàyanagotta-ca-chiên-diên-thị-tạp-12.19-ðại-285c-s.ii16>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi (Xá-vệ)…
@@ -12217,7 +11684,6 @@ Cho đến như vậy, này Kaccàyana là chánh tri kiến.
 ]
 
 === XVI. Vị Thuyết Pháp (Tạp 14.23-4. Thuyết Pháp, Ðại 2,100c) (S.ii,18)
-<xvi.-vị-thuyết-pháp-tạp-14.23-4.-thuyết-pháp-ðại-2100c-s.ii18>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -12260,7 +11726,6 @@ gọi là Tỷ-kheo thuyết pháp.
 ]
 
 === XVII. Loã Thể (Tạp 12.20, Ðại 2,86a Ðại 14,768) (S.ii,18)
-<xvii.-loã-thể-tạp-12.20-ðại-286a-ðại-14768-s.ii18>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), Veluvana
@@ -12433,7 +11898,6 @@ gì nên làm đã làm, không còn trở lại trạng thái này nữa".
 ]
 
 === XVIII. Timbaruka (Tạp 12.21 Ðại 2, 86b) (S.ii,22)
-<xviii.-timbaruka-tạp-12.21-ðại-2-86b-s.ii22>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi…
@@ -12534,7 +11998,6 @@ Tôn, quy y Pháp, quy y chúng Tỷ-kheo Tăng. Xin Tôn giả Gotama nhận co
 làm đệ tử cư sĩ, từ nay cho đến mạng chung, con trọn đời quy ngưỡng.
 
 === XIX. Bậc Hiền So Sánh Với Kẻ Ngu (Tạp 12.12, Ðại 2, 83c) (S.ii,23)
-<xix.-bậc-hiền-so-sánh-với-kẻ-ngu-tạp-12.12-ðại-2-83c-s.ii23>
 1). \.. Trú Tại Sàvatthi.
 
 #block[
@@ -12595,7 +12058,6 @@ Ta nói rằng: "Vị ấy thoát khỏi đau khổ".
 ]
 
 === XX. Duyên (Tạp 12.14, Ðại 2, 84b) (S.ii,25)
-<xx.-duyên-tạp-12.14-ðại-2-84b-s.ii25>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi.
@@ -12693,9 +12155,7 @@ trong tương lai ta sẽ là gì?”
 #divider()
 
 === III. Phẩm Mười Lực
-<iii.-phẩm-mười-lực-1>
 === I. Mười Lực (Tăng 46,3, Ðại 2,776a) (S.ii,27)
-<i.-mười-lực-tăng-463-ðại-2776a-s.ii27>
 1). \.. Trú ở Sàvatthi.
 
 #block[
@@ -12723,7 +12183,6 @@ cái kia diệt.
 ]
 
 === II. Mừơi Lực (Tạp 14.6 Thập Lực, Ðại 2,98a) (S.ii,28)
-<ii.-mừơi-lực-tạp-14.6-thập-lực-ðại-298a-s.ii28>
 1). \.. Trú Tại Sàvatthi.
 
 #block[
@@ -12778,7 +12237,6 @@ Hay này các Tỷ- kheo, thấy lợi cả hai, là vừa đủ để tinh tấ
 phóng dật.
 
 === III. Duyên(S.ii,29)
-<iii.-duyêns.ii29>
 1)… Trú ở Sàvatthi.
 
 #block[
@@ -12904,7 +12362,6 @@ yếm ly; yếm ly duyên ly tham; ly tham duyên giải thoát; giải thoát d
 trí về đoạn diệt.
 
 === IV. Ngoại Ðạo (S.ii,32)
-<iv.-ngoại-ðạo-s.ii32>
 1)… Trú ở Ràjagaha (Vương Xá), tại Veluvana (Trúc Lâm).
 
 #block[
@@ -13254,7 +12711,6 @@ không phải là căn cứ, chúng không phải là xứ, chúng không phải
 sự; do duyên ấy, nội thân khởi lên lạc khổ.
 
 === VI. Upavàna (Ưu-ba-ma-na) (S.ii,41)
-<vi.-upavàna-ưu-ba-ma-na-s.ii41>
 1). \.. Trú ở Sàvatthi.
 
 #block[
@@ -13304,7 +12760,6 @@ làm, không do người khác làm, khổ do tự nhiên sanh. Họ chắc ch�
 tự cảm thọ không cần đến xúc; sự kiện như vậy không xảy ra.
 
 === VII. Duyên (S.ii,42)
-<vii.-duyên-s.ii42>
 1)… Trú ở Sàvatthi.
 
 #block[
@@ -13370,7 +12825,6 @@ hữu học trí, đã đầy đủ hữu học minh, đã nhập được pháp
 minh đạt tuệ, đã đứng gõ vào cửa bất tử.
 
 === VIII. Vị Tỷ Kheo (Tạp 14.14, Lão Tử, Ðại 2,99c) (S.ii.43)
-<viii.-vị-tỷ-kheo-tạp-14.14-lão-tử-ðại-299c-s.ii.43>
 1). \.. Trú ở Sàvatthi.
 
 #block[
@@ -13452,7 +12906,6 @@ thức?…
 đứng gõ vào cửa bất tử.
 
 === IX. Sa Môn, Bà La Môn (Tạp 14,12-3, Sa-môn, Bà-la-môn, Ðại 2,99b) (S.ii,42)
-<ix.-sa-môn-bà-la-môn-tạp-1412-3-sa-môn-bà-la-môn-ðại-299b-s.ii42>
 1)…Trú ở Sàvatthi. 2-12) -- Ở đây, này các Tỷ-kheo, những Sa-môn hay
 Bà-la-môn nào không hiểu rõ già chết, không hiểu rõ già chết tập khởi,
 không hiểu rõ già chết đoạn diệt, không hiểu rõ con đường đưa đến già
@@ -13486,7 +12939,6 @@ xứ… danh sắc… thức… hiểu rõ hành, hiểu rõ hành tập khởi,
 ]
 
 === X. Sa Môn , Bà La Môn (như trên) (S.ii,46)
-<x.-sa-môn-bà-la-môn-như-trên-s.ii46>
 1)… Trú ở Sàvatthi.
 
 #block[
@@ -13515,9 +12967,7 @@ xứ… danh sắc… thức… hiểu rõ hành, hiểu rõ hành tập khởi,
 #divider()
 
 === IV. Phẩm Kalara - Vị Sát Ðế Lị
-<iv.-phẩm-kalara---vị-sát-ðế-lị-1>
 === I. Sanh (Tạp 14.3 Tập sanh, Ðại 2,95b) (S.ii.47)
-<i.-sanh-tạp-14.3-tập-sanh-ðại-295b-s.ii.47>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Sàvatthi.
@@ -13654,7 +13104,6 @@ Này Sàriputta, lời nói tóm tắt này cần hiểu ý nghĩa một cách, 
 như vậy.
 
 === II. Kalàra (S.ii,50)
-<ii.-kalàra-s.ii50>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -13873,7 +13322,6 @@ thế nào?
 ]
 
 === I ---o0o---
-<i-o0o>
 #block[
 #set enum(numbering: "1)", start: 34)
 + Rồi Tôn giả Sàriputta, sau khi Thế Tôn đi chẳng lao lâu, liền bảo các
@@ -13985,7 +13433,6 @@ trọn bảy đêm bảy ngày với những văn cú sai khác, với những p
 khác.
 
 === III. Những Căn Bản Của Trí (Tạp 14.15 Chủng Trí, Ðại 2, 99c) (S.ii,56)
-<iii.-những-căn-bản-của-trí-tạp-14.15-chủng-trí-ðại-2-99c-s.ii56>
 1)… Ở Sàvatthi.
 
 2). \.. Này các Tỷ-kheo. Ta sẽ thuyết về bốn mươi bốn căn bản của trí
@@ -14128,7 +13575,6 @@ là bậc Thánh minh đạt tuệ (nibbedhi kapanno), đã đứng gõ vào c�
 ]
 
 === IV. Những Căn Bản Của Trí (Tạp 14.16 Chủng Trí, Ðại 2, 99c) ( S.ii.59)
-<iv.-những-căn-bản-của-trí-tạp-14.16-chủng-trí-ðại-2-99c-s.ii.59>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14178,7 +13624,6 @@ pháp, ly tham pháp, diệt pháp.
 ]
 
 === V. Do Duyên Vô Minh (Tạp 14.17-8 Vô Minh Tăng, Ðại 2, 100a) (S.ii,60)
-<v.-do-duyên-vô-minh-tạp-14.17-8-vô-minh-tăng-ðại-2-100a-s.ii60>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi…
@@ -14319,7 +13764,6 @@ từ gốc rễ, làm cho như thân cây ta-la, làm cho không thể hiện h�
 cho trong tương lai không thể sanh khởi.
 
 === VI. Do Duyên Vô Minh (S.ii,63)
-<vi.-do-duyên-vô-minh-s.ii63>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14398,7 +13842,6 @@ rằng: "Do duyên sanh có già chết.."\..
 ]
 
 === VII. Không Phải Của Ông (Tạp 12.13, Phi Nhữ Sở Hữu, Ðại 2, 84a) (S.ii,64)
-<vii.-không-phải-của-ông-tạp-12.13-phi-nhữ-sở-hữu-ðại-2-84a-s.ii64>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14422,7 +13865,6 @@ rằng: "Do duyên sanh có già chết.."\..
 nên thức diệt… như vậy là sự đoạn diệt của toàn bộ khổ uẩn này.
 
 === VIII. Cetanà: Tư Tâm Sở (Tạp 14.19, Tư Lường. Ðại 2,100a) (S.ii,65)
-<viii.-cetanà-tư-tâm-sở-tạp-14.19-tư-lường.-ðại-2100a-s.ii65>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14487,7 +13929,6 @@ sắc diệt nên sáu xứ diệt… như vậy là sự đoạn diệt của t
 này.
 
 === X. Tư Tâm Sở (Tạp 14.21 Tư Lường, Ðại 2, 100b) (S.ii,66)
-<x.-tư-tâm-sở-tạp-14.21-tư-lường-ðại-2-100b-s.ii66>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14532,9 +13973,7 @@ của toàn bộ khổ uẩn này.
 #divider()
 
 === V. Phẩm Gia Chủ - Thứ Năm
-<v.-phẩm-gia-chủ---thứ-năm-1>
 === I. Năm Hận Thù Sợ Hãi (S.ii,68)
-<i.-năm-hận-thù-sợ-hãi-s.ii68>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi…
@@ -14658,7 +14097,6 @@ còn bị đọa lạc, ta đã được quyết định; Chánh Ðẳng Giác l
 hậu của ta".
 
 === II. Năm Sợ Hãi Hận Thù (S.ii,70)
-<ii.-năm-sợ-hãi-hận-thù-s.ii70>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14707,7 +14145,6 @@ tuệ được khéo thấy, được khéo thâm nhập.
 ]
 
 === III. Khổ. (S.ii,71)
-<iii.-khổ.-s.ii71>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú Tại Sàvatthi.
@@ -14775,7 +14212,6 @@ toàn bộ khổ uẩn này.
 ]
 
 === IV. Thế Giới (S.ii,73)
-<iv.-thế-giới-s.ii73>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14833,7 +14269,6 @@ sanh khởi. Này các Tỷ-kheo, đây là sự tập khởi của thế giới
 ]
 
 === V. Nàtika (S.ii,84)
-<v.-nàtika-s.ii84>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Nàtika, trong căn nhà gạch.
@@ -14899,7 +14334,6 @@ thuộc lòng pháp môn này. Này Tỷ- kheo, pháp môn (này) liên hệ đ�
 đích và căn bản Phạm hạnh.
 
 === VI. Một Vị (Bà-La-Môn) (Tạp 12.18 Tha, Ðại 2,85c) (S.ii,75)
-<vi.-một-vị-bà-la-môn-tạp-12.18-tha-ðại-285c-s.ii75>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú Tại Sàvatthi.
@@ -14940,7 +14374,6 @@ Gotama!… Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đế
 chung, con xin trọn đời quy ngưỡng.
 
 === VII. Jànussoni (S.ii,76)
-<vii.-jànussoni-s.ii76>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -14976,7 +14409,6 @@ Bà-la-môn, từ bỏ hai cực đoan ấy, Như Lai thuyết pháp theo trung 
 Gotama!…
 
 === VIII. Thuận Thế Phái (S.ii,77)
-<viii.-thuận-thế-phái-s.ii77>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -15026,7 +14458,6 @@ trung đạo.
 -- Thật là vi diệu, thưa Tôn giả Gotama!… con xin trọn đời quy ngưỡng.
 
 === IX. Thánh Ðệ Tử (Tạp 14,8 Thánh đệ tử. Ðại 2,98b) (S.ii,77)
-<ix.-thánh-ðệ-tử-tạp-148-thánh-đệ-tử.-ðại-298b-s.ii77>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -15087,7 +14518,6 @@ vậy. Như vậy là sự đoạn diệt của thế giới này.
 ]
 
 === X. Thánh Ðệ Tử (S.ii,79)
-<x.-thánh-ðệ-tử-s.ii79>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -15148,9 +14578,7 @@ hữu”. Vị ấy hiểu biết như vậy. Như vậy là sự đoạn diệt
 #divider()
 
 === VI. Phẩm Cây
-<vi.-phẩm-cây-1>
 === I. Tư Lường (Tạp 12.10, Ðại 2,82c) (S.ii,80)
-<i.-tư-lường-tạp-12.10-ðại-282c-s.ii80>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng
@@ -15365,7 +14793,6 @@ nên làm đã làm, không còn trở lui trạng thái này nữa".
 ]
 
 === II. Thủ (Tạp 12.4 Thủ, Ðại 2,80b) (S.ii,84)
-<ii.-thủ-tạp-12.4-thủ-ðại-280b-s.ii84>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -15455,7 +14882,6 @@ não sanh khởi. Như vậy là toàn bộ khổ uẩn này tập khởi.
 ]
 
 === IV. Kiết Sử (S.ii,87)
-<iv.-kiết-sử-s.ii87>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -15483,7 +14909,6 @@ sanh khởi… (như trên)… Như vậy là toàn bộ khổ uẩn này tập 
 ]
 
 === V. Cây Lớn (Tạp 12,2 Ðại Thọ, Ðại 2,79b) (S.ii,87)
-<v.-cây-lớn-tạp-122-ðại-thọ-ðại-279b-s.ii87>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú tại Sàvatthi.
@@ -15531,7 +14956,6 @@ trong tương lai không thể sống lại được.
 ]
 
 === VI. Cây Lớn (S.ii,88)
-<vi.-cây-lớn-s.ii88>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú tại Sàvatthi.
@@ -15608,7 +15032,6 @@ ta-la, làm cho không thể tái sanh, trong tương lai không thể sống l�
 ]
 
 === VIII. Danh Sắc (S.ii, 90)
-<viii.-danh-sắc-s.ii-90>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -15638,7 +15061,6 @@ ta-la, làm cho không thể tái sanh, trong tương lai không thể sống l�
 ]
 
 === IX. Thức (S.ii, 91)
-<ix.-thức-s.ii-91>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -15670,7 +15092,6 @@ ta-la, làm cho không thể tái sanh, trong tương lai không thể sống l�
 ]
 
 === X. Nhân (S.ii, 92)
-<x.-nhân-s.ii-92>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú giữa dân chúng Kuru, tại một thị trấn của dân
@@ -15748,9 +15169,7 @@ nào tái sanh, không thể sanh khởi lại trong tương lai.
 #divider()
 
 === VII. Ðại Phẩm Thứ Bảy
-<vii.-ðại-phẩm-thứ-bảy-1>
 === I. Hạng Người Ít Nghe (Tạp 12.7 Vô Văn, Ðại 2, 81c)
-<i.-hạng-người-ít-nghe-tạp-12.7-vô-văn-ðại-2-81c>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn
@@ -15823,7 +15242,6 @@ lên biết được: "Ta giải thoát", vị ấy biết rõ: "Sanh đã tận
 nữa".
 
 === II. Hạng Người Ít Nghe (Tạp 12,8 Vô Văn, Ðại 2, 82a) (S.ii,95)
-<ii.-hạng-người-ít-nghe-tạp-128-vô-văn-ðại-2-82a-s.ii95>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -15915,7 +15333,6 @@ thoát", vị ấy biết rõ : "Sanh đã tận, Phạm hạnh đã thành, nh�
 làm đã làm, không còn trở lại trạng thái này nữa".
 
 === III. Thịt Ðứa Con (Tạp 15.11 Tử Nhục, Ðại 2, 102b) (S.ii,97)
-<iii.-thịt-ðứa-con-tạp-15.11-tử-nhục-ðại-2-102b-s.ii97>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …Ở Sàvatthi.
@@ -16062,7 +15479,6 @@ rõ. Khi danh sắc được hiểu rõ, thời Ta nói rằng vị Thánh đệ
 gì thêm nữa.
 
 === IV. Có Tham (Tạp 15.12-4. Ðại 2,102c) (S.ii,101)
-<iv.-có-tham-tạp-15.12-4.-ðại-2102c-s.ii101>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …Trú ở Sàvatthi.
@@ -16214,7 +15630,6 @@ không có sanh, già chết trong tương lai, Ta nói rằng chỗ ấy không
 sầu, không có khổ, không có não.
 
 === V. Thành Ấp (Tạp 12.5, Ðại 2,80b) (Tăng 384, Ðại
-<v.-thành-ấp-tạp-12.5-ðại-280b-tăng-384-ðại>
 #block[
 #set enum(numbering: "1)", start: 2)
 + \(S.ii,104)
@@ -16361,7 +15776,6 @@ Ta thấy rõ xúc… Ta thấy rõ sáu xứ… Ta thấy rõ danh sắc… Ta 
 ]
 
 === VI. Xúc Chạm, Biết Rõ (Tạp 12.9, Xúc Pháp. Ðại 2.82a) (S.ii,107)
-<vi.-xúc-chạm-biết-rõ-tạp-12.9-xúc-pháp.-ðại-2.82a-s.ii107>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở giữa dân chúng Kuru, tại thị
@@ -16625,7 +16039,6 @@ khổ, thấy là vô ngã, thấy là bệnh, thấy là đáng sợ hãi, họ
 ]
 
 === VII.Bó Lau (Tạp 12.6 Lô, Ðại 2,81a) (S.ii,112)
-<vii.bó-lau-tạp-12.6-lô-ðại-281a-s.ii112>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Sàriputta và Tôn giả Mahàkotthita trú ở Bàrànasi
@@ -16747,7 +16160,6 @@ mươi sáu sự này của Hiền giả Sàriputta, chúng tôi xin tùy hỷ.
 ]
 
 === VIII. Kosambi (Tạp 14.9, Miệt-sư-la. Ðại 2,98c) (S.ii,115)
-<viii.-kosambi-tạp-14.9-miệt-sư-la.-ðại-298c-s.ii115>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Musìla, Tôn giả Sàvittha, Tôn giả Nàrada, Tôn giả
@@ -16895,7 +16307,6 @@ Nàrada?
 ]
 
 === IX. Nước Thủy Triều Dâng (S.ii,118)
-<ix.-nước-thủy-triều-dâng-s.ii118>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -16944,7 +16355,6 @@ dâng lên thời hữu không dâng lên; hữu không dâng lên thời sanh k
 dâng lên; sanh không dâng lên thời già chết không dâng lên.
 
 === X. Susìma (Tạp 14.5 Ðại 2,96b) (S.ii,119)
-<x.-susìma-tạp-14.5-ðại-296b-s.ii119>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vậy tôi nghe.
@@ -17430,7 +16840,6 @@ khỏi cửa thành phía Nam, và chặt đầu người ấy tại thành phí
 #divider()
 
 === VIII. Sa Môn, Bà La Môn: Phẩm Thứ Tám
-<viii.-sa-môn-bà-la-môn-phẩm-thứ-tám-1>
 #block[
 #set enum(numbering: "1.", start: 71)
 + I. Sa Môn, Bà La Môn (Tạp 14.12-3, Sa-môn, Bà-la-môn, Ðại 2,99b)
@@ -17471,16 +16880,13 @@ không biết ái… Họ không biết thọ… Họ không biết xúc… Họ
 xứ… Họ không biết danh sắc… Họ không biết thức…
 
 === XI. (S.ii,130) Họ không biết hành… Họ không biết hành tập khởi, họ không biết hành đoạn diệt, họ không biết con đường đưa đến
-<xi.-s.ii130-họ-không-biết-hành-họ-không-biết-hành-tập-khởi-họ-không-biết-hành-đoạn-diệt-họ-không-biết-con-đường-đưa-đến>
 hành đoạn diệt…. \.. tự mình với thắng trí đạt được, chứng được và an
 trú ngay trong hiện tại mục đích Sa-môn hạnh và mục đích Bà-la-môn hạnh.
 
 #divider()
 
 === IX. Trung Lược Phẩm …Trú ở Sàvatthi.
-<ix.-trung-lược-phẩm-trú-ở-sàvatthi.>
 === I. Ðạo Sư… (S.ii,130)
-<i.-ðạo-sư-s.ii130>
 #block[
 #set enum(numbering: "1)", start: 1)
 + -- Này các Tỷ-kheo, đối với ai không như thật biết và thấy già chết,
@@ -17528,42 +16934,29 @@ không như thật biết và thấy con đường đưa đến già chết đo�
 ]
 
 === II. Học Tập (Tạp 15.4 Tu Tập, Ðại 2,101b) (S.ii,131)
-<ii.-học-tập-tạp-15.4-tu-tập-ðại-2101b-s.ii131>
 … Này các Tỷ-kheo, đối với ai không như thật biết và thấy già chết,
 người ấy cần phải học tập để có như thật trí đối với già chết…(I.11)
 
 === III. Tu Tập (Yoga) (Tạp 15.5, Tam- ma-đề, Ðại 2,101b) (S.ii,131) … Này các Tỷ-kheo, đối với ai không như thật biết và thấy già chết, người ấy
-<iii.-tu-tập-yoga-tạp-15.5-tam--ma-đề-ðại-2101b-s.ii131-này-các-tỷ-kheo-đối-với-ai-không-như-thật-biết-và-thấy-già-chết-người-ấy>
 cần phải tu tập để có như thật trí đối với già chết…(I.11)
 
 === IV. Dục (S.ii,132) … Dục cần phải thực hành…(I.11)
-<iv.-dục-s.ii132-dục-cần-phải-thực-hànhi.11>
 === V. Nỗ Lực (S.ii,132) … Nỗ lực cần phải thực hành…(I.11)
-<v.-nỗ-lực-s.ii132-nỗ-lực-cần-phải-thực-hànhi.11>
 === VI. Bất Thối Chuyển (S.ii,132)
-<vi.-bất-thối-chuyển-s.ii132>
 … Bất thối chuyển cần phải thực hành…(I.11)
 
 === VII. Nhiệt Tâm (S.ii,132) … Nhiệt tâm cần phải thực hành…(I.11)
-<vii.-nhiệt-tâm-s.ii132-nhiệt-tâm-cần-phải-thực-hànhi.11>
 === VIII. Tinh Tấn (S.ii,132) … Tinh tấn cần phải thực hành…(I.11)
-<viii.-tinh-tấn-s.ii132-tinh-tấn-cần-phải-thực-hànhi.11>
 === IX. Kiên Trì (S.ii,132) … Kiên trì cần phải thực hành…(I.11)
-<ix.-kiên-trì-s.ii132-kiên-trì-cần-phải-thực-hànhi.11>
 === X. Chánh Niệm (S.ii,132) … Chánh niệm cần phải thực hành…(I.11)
-<x.-chánh-niệm-s.ii132-chánh-niệm-cần-phải-thực-hànhi.11>
 === XI. Chánh Tri (S.ii,132) … Chánh tri cần phải thực hành…(I.11)
-<xi.-chánh-tri-s.ii132-chánh-tri-cần-phải-thực-hànhi.11>
 === XII. Không Phóng Dật (S.ii,132)
-<xii.-không-phóng-dật-s.ii132>
 … Không phóng dật cần phải thực hành… (I.11)
 
 #divider()
 
 == \[13\] Chương II - Tương Ưng Minh Kiến
-<chương-ii---tương-ưng-minh-kiến-1>
 === I. Ðầu Ngón Tay (S.ii,133)
-<i.-ðầu-ngón-tay-s.ii133>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông
@@ -17596,7 +16989,6 @@ này Ta lấy lên trên đầu ngón tay, hay là quả đất lớn này?
 ]
 
 === II. Hồ Sen (Tạp 5.7, Ðại 2,34a) (S.ii,134)
-<ii.-hồ-sen-tạp-5.7-ðại-234a-s.ii134>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi.
@@ -17630,7 +17022,6 @@ hơn.
 ]
 
 === III. Nước Sông Hợp Dòng (Sii,134)
-<iii.-nước-sông-hợp-dòng-sii134>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17656,7 +17047,6 @@ dòng?
 ]
 
 === IV. Nước Sông Hợp Dòng (S.ii,135)
-<iv.-nước-sông-hợp-dòng-s.ii135>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17682,7 +17072,6 @@ ba giọt nước còn lại?
 ]
 
 === V. Quả Ðất (S.ii,135)
-<v.-quả-ðất-s.ii135>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17706,7 +17095,6 @@ với bảy cục đất tròn được đặt (trên quả đất).
 ]
 
 === VI. Quả Ðất (S.ii,136)
-<vi.-quả-ðất-s.ii136>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17731,7 +17119,6 @@ bảy cục đất tròn lớn bằng hột táo còn lại.
 ]
 
 === VII. Biển (S.ii,136)
-<vii.-biển-s.ii136>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17754,7 +17141,6 @@ nước biển lớn với hai hay ba giọt nước được lấy lên.
 ]
 
 === VIII. Biển (S.ii,137)
-<viii.-biển-s.ii137>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17774,7 +17160,6 @@ nước biển lớn với hai hay ba giọt nước được lấy lên.
 ]
 
 === IX. Ví Dụ Với Núi (S.ii,137)
-<ix.-ví-dụ-với-núi-s.ii137>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17797,7 +17182,6 @@ cải này được đặt (trên núi) hay là vua núi Tuyết Sơn.
 ]
 
 === X. Ví Dụ Núi (S.ii,138)
-<x.-ví-dụ-núi-s.ii138>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17834,7 +17218,6 @@ phải một trăm ngàn lần có thể sánh bằng, khi so sánh với khổ 
 ]
 
 === XI. Ví Dụ Núi (S.ii,138)
-<xi.-ví-dụ-núi-s.ii138>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17871,13 +17254,9 @@ không bằng một ngàn lần, không bằng một trăm ngàn lần.
 #divider()
 
 == \[14\] Chương III - Tương Ưng Giới
-<chương-iii---tương-ưng-giới-1>
 === I. Phẩm Sai Biệt
-<i.-phẩm-sai-biệt-1>
 == Phần Một: Nội Giới Năm Kinh
-<phần-một-nội-giới-năm-kinh>
 === I. Giới (Tạp 16.51 Giới, Ðại 2, 115c) (S.ii,140)
-<i.-giới-tạp-16.51-giới-ðại-2-115c-s.ii140>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17924,7 +17303,6 @@ không bằng một ngàn lần, không bằng một trăm ngàn lần.
 ]
 
 === III. Và Không Phải Như Vậy (S.ii,141)
-<iii.-và-không-phải-như-vậy-s.ii141>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17953,7 +17331,6 @@ khởi; không phải do duyên xúc sai biệt, giới sai biệt sanh khởi?
 ]
 
 === IV. Thọ (S.ii,141)
-<iv.-thọ-s.ii141>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -17981,7 +17358,6 @@ duyên xúc sai biệt, thọ sai biệt sanh khởi.
 ]
 
 === V. Thọ (S.ii,142)
-<v.-thọ-s.ii142>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18020,9 +17396,7 @@ khởi.
 #divider()
 
 == Phần Hai: Ngoại Giới Năm Kinh
-<phần-hai-ngoại-giới-năm-kinh>
 === VI. Giới (S.ii,143)
-<vi.-giới-s.ii143>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18073,7 +17447,6 @@ khởi. Do duyên sắc nhiệt tình, sắc tầm cầu sanh khởi…
 ]
 
 === VIII. Và Không Phải Như Vậy (S.ii,144)
-<viii.-và-không-phải-như-vậy-s.ii144>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18138,7 +17511,6 @@ khởi. Không phải do duyên tư duy sai biệt, tưởng sai biệt sanh kh�
 Không phải do duyên tưởng sai biệt, giới sai biệt sanh khởi.
 
 === IX. Xúc (S.ii,146)
-<ix.-xúc-s.ii146>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18198,7 +17570,6 @@ sanh khởi. Do duyên pháp tầm cầu, pháp sở đắc sanh khởi.
 ]
 
 === X. Xúc (S.ii,147)
-<x.-xúc-s.ii147>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18267,7 +17638,6 @@ sanh khởi.
 #divider()
 
 === II. Phẩm Thứ Hai I. Bảy (Pháp) Này (Tạp 17.1, Ðại 2, 116c) (S.ii,149)
-<ii.-phẩm-thứ-hai-i.-bảy-pháp-này-tạp-17.1-ðại-2-116c-s.ii149>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18325,7 +17695,6 @@ gì được hiển lộ?
 ]
 
 === II. Có Nhân (Ðại 2, 115c, Ðan Tạp 2, Ðại 2,497c, Ðại 2, 504) (S.ii,151)
-<ii.-có-nhân-ðại-2-115c-ðan-tạp-2-ðại-2497c-ðại-2-504-s.ii151>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18427,7 +17796,6 @@ phiền lao, không có sầu não, không có nhiệt não; sau khi thân hoạ
 chung, được sanh vào thiện thú.
 
 === III. Căn Nhà Bằng Gạch (Tạp, Ðại 2, 117a) (S.ii,153)
-<iii.-căn-nhà-bằng-gạch-tạp-ðại-2-117a-s.ii153>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Natika, tại căn nhà bằng gạch.
@@ -18481,7 +17849,6 @@ xướng, vị ấy hiển thị, vị ấy phân biệt, vị ấy tuyên thị
 thắng là sự thọ sanh của vị ấy.
 
 === IV. Liệt Ý Chí (Tạp, Ðại 2, 115a) (S.ii,154)
-<iv.-liệt-ý-chí-tạp-ðại-2-115a-s.ii154>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18514,7 +17881,6 @@ thiện ý chí.
 cùng hòa hợp, cùng đi với chúng sanh thiện ý chí.
 
 === V. Nghiệp (Tạp, Ðại 2, 115a) (S.ii,155)
-<v.-nghiệp-tạp-ðại-2-115a-s.ii155>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), tại núi Gijjakùta (Linh
@@ -18648,7 +18014,6 @@ hợp, cùng đi với chúng sanh thiện ý chí.
 ]
 
 === VI. Kinh Với Các Bài Kệ (Tạp, Ðại 2,115a) (S.ii,157)
-<vi.-kinh-với-các-bài-kệ-tạp-ðại-2115a-s.ii157>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18737,7 +18102,6 @@ Do vậy, hãy tránh xa Kẻ nhác, không tinh tấn, Hãy cọng trú bậc H
 Thánh sống viễn ly, Thường siêng năng tinh tấn, Tinh cần tu Thiền tịnh.
 
 === VII. Bất Tín (S.ii,159)
-<vii.-bất-tín-s.ii159>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18815,7 +18179,6 @@ cùng hòa hợp, cùng đi với kẻ trì niệm. Kẻ có trí tuệ, cùng h
 ]
 
 === VIII. Năm Kinh Về Căn Bản Bất Tín (S.ii,160)
-<viii.-năm-kinh-về-căn-bản-bất-tín-s.ii160>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú tại Sàvatthi.
@@ -18893,7 +18256,6 @@ tuệ.
 ]
 
 === IX. Bốn Kinh Về Căn Bản Không Biết Thẹn (S.ii,162)
-<ix.-bốn-kinh-về-căn-bản-không-biết-thẹn-s.ii162>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàtthi.
@@ -18931,7 +18293,6 @@ tinh cần. Kẻ trí tuệ cùng hòa hợp, cùng đi với kẻ có trí tu�
 ]
 
 === X. Ba Kinh Về Căn Bản Không Biết Sợ (S.ii,163)
-<x.-ba-kinh-về-căn-bản-không-biết-sợ-s.ii163>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18960,7 +18321,6 @@ với kẻ có trí tuệ. 7-9) … thời quá khứ… thời vị lai… th�
 ]
 
 === XI. Hai Kinh Về Ít Nghe (Tạp 16.50 Thiếu văn đẳng. Ðại 2,115c) (S.ii,164)
-<xi.-hai-kinh-về-ít-nghe-tạp-16.50-thiếu-văn-đẳng.-ðại-2115c-s.ii164>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Sàvatthi.
@@ -18981,7 +18341,6 @@ niệm… với kẻ trì niệm…. Kẻ có trí tuệ cùng hòa hợp, cùng
 trí tuệ. 7-9) … thời quá khứ… thời vị lai… thời hiện tại.
 
 === XII. Biếng Nhác (S.ii,165)
-<xii.-biếng-nhác-s.ii165>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -18998,9 +18357,7 @@ trí tuệ. 7-9) … thời quá khứ… thời vị lai… thời hiện tại
 #divider()
 
 === III. Phẩm Nghiệp ÐạoThứ Ba
-<iii.-phẩm-nghiệp-ðạothứ-ba-1>
 === I. Không Tịch Tịnh (S.ii,166)
-<i.-không-tịch-tịnh-s.ii166>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19019,7 +18376,6 @@ trí tuệ. 7-9) … thời quá khứ… thời vị lai… thời hiện tại
 ]
 
 === II. Ác Giới (S.ii,166)
-<ii.-ác-giới-s.ii166>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19038,7 +18394,6 @@ trí tuệ. 7-9) … thời quá khứ… thời vị lai… thời hiện tại
 ]
 
 === III. Năm Học Pháp (S.ii,167)
-<iii.-năm-học-pháp-s.ii167>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19064,7 +18419,6 @@ hợp, cùng đi với kẻ đắm say rượu men, rượu nấu.
 ]
 
 === IV. Bảy Nghiệp Ðạo (S.ii,167)
-<iv.-bảy-nghiệp-ðạo-s.ii167>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19088,7 +18442,6 @@ hợp, cùng đi với kẻ đắm say rượu men, rượu nấu.
 lời phù phiếm cùng hòa hợp, cùng đi với kẻ từ bỏ nói lời phù phiếm.
 
 === V. Mười Nghiệp Ðạo (S.ii,167)
-<v.-mười-nghiệp-ðạo-s.ii167>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19119,7 +18472,6 @@ sân tâm. Kẻ có tà kiến cùng hòa hợp, cùng đi với kẻ có tà ki
 ]
 
 === VI. Tám Chi (S.ii,,168)
-<vi.-tám-chi-s.ii168>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19137,7 +18489,6 @@ sân tâm. Kẻ có tà kiến cùng hòa hợp, cùng đi với kẻ có tà ki
 ]
 
 === VII. Mười Chi (S.ii,168)
-<vii.-mười-chi-s.ii168>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19160,7 +18511,6 @@ thoát cùng hòa hợp, cùng đi với kẻ có chánh giải thoát.
 #divider()
 
 === I. Bốn (S.ii,169)
-<i.-bốn-s.ii169>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
@@ -19170,7 +18520,6 @@ thoát cùng hòa hợp, cùng đi với kẻ có chánh giải thoát.
 ]
 
 === II. Trước (S.ii,169)
-<ii.-trước-s.ii169>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19232,7 +18581,6 @@ Sa-môn và Bà-la- môn, với chư Thiên và loài Người.
 ]
 
 === III. Ta Ðã Ði (S.ii,171)
-<iii.-ta-ðã-ði-s.ii171>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19287,7 +18635,6 @@ Người.
 ]
 
 === IV. Nếu Không Có Cái Này (S.ii,177)
-<iv.-nếu-không-có-cái-này-s.ii177>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19350,7 +18697,6 @@ những chướng ngại được từ bỏ đối với Thiên giới, Ma giớ
 giới, cùng các chúng Sa-môn, Bà-la-môn, với chư Thiên và loài Người.
 
 === V. Khổ (S.ii,173)
-<v.-khổ-s.ii173>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19399,7 +18745,6 @@ giới. Và vì rằng, này các Tỷ-kheo, địa giới là khổ, đầy nh�
 đắm trong lạc; do vậy các chúng sanh nhàm chán phong giới.
 
 === VI. Hoan Hỷ (S.ii,174)
-<vi.-hoan-hỷ-s.ii174>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19432,7 +18777,6 @@ khổ, Ta nói rằng người ấy không giải thoát khỏi khổ.
 ]
 
 === VII. Sanh Khởi (S.ii,175)
-<vii.-sanh-khởi-s.ii175>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19466,7 +18810,6 @@ diệt của khổ, sự tịnh chỉ của tham, sự tiêu diệt của già c
 ]
 
 === VIII. Sa Môn, Bà La Môn (S.ii,175)
-<viii.-sa-môn-bà-la-môn-s.ii175>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19497,7 +18840,6 @@ tại với thắng trí chứng ngộ, chứng đạt và an trú mục đích 
 hay mục đích Bà-la-môn hạnh.
 
 === IX. Sa Môn, Bà La Môn (S.ii,176)
-<ix.-sa-môn-bà-la-môn-s.ii176>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19515,7 +18857,6 @@ hay mục đích Bà-la-môn hạnh.
 ]
 
 === X. Sa Môn, Bà La Môn (S.ii,176)
-<x.-sa-môn-bà-la-môn-s.ii176>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19563,9 +18904,7 @@ quán tri địa giới tập khởi, quán tri địa giới đoạn diệt, qu
 #divider()
 
 == \[15\] Chương IV - Tương Ưng Vô Thỉ (Anamatagga)
-<chương-iv---tương-ưng-vô-thỉ-anamatagga-1>
 === I. Cỏ Và Củi (Tạp, Ðại 2, 24b) (Biệt Tạp, Ðại 2, 486c) (S.ii,178)
-<i.-cỏ-và-củi-tạp-ðại-2-24b-biệt-tạp-ðại-2-486c-s.ii178>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Sàvatthi, Jetavana, tại vườn
@@ -19612,7 +18951,6 @@ có thể đi đến đoạn tận, đoạn diệt.
 ]
 
 === II. Quả Ðất (Tạp, Ðại 2, 241b) (S.ii,179) (Biệt Tạp
-<ii.-quả-ðất-tạp-ðại-2-241b-s.ii179-biệt-tạp>
 16.5, Ðại 2, 486c)
 
 #block[
@@ -19646,7 +18984,6 @@ quả đất lớn này đi đến đoạn tận, đoạn diệt.
 ]
 
 === III. Nước Mắt
-<iii.-nước-mắt>
 \(Tạp, Ðại 2, 240c) (S.ii,179) (Biệt Tạp
 
 16.2 Ðại 2, 486a) (Tăng 51,I, Ðại 2, 814a)
@@ -19713,7 +19050,6 @@ tật chớ không phải nước trong bốn biển.
 ]
 
 === IV. Sữa (Tạp, Ðại 2, 241a) (Biệt Tạp 16.3, Ðại 2, 486b) (S.ii,180)
-<iv.-sữa-tạp-ðại-2-241a-biệt-tạp-16.3-ðại-2-486b-s.ii180>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19743,7 +19079,6 @@ tật chớ không phải nước trong bốn biển.
 ]
 
 === V. Núi (Tạp, Ðại 2, 242c) (Biệt Tạp, Ðại 2, 487c) (S.ii,181)
-<v.-núi-tạp-ðại-2-242c-biệt-tạp-ðại-2-487c-s.ii181>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19783,7 +19118,6 @@ vải kàsi. Này Tỷ-kheo, hòn núi đá lớn ấy được làm như vậy 
 ]
 
 === VI. Hột Cải (Tạp, Ðại 2, 242b) (S.ii,182) (Tăng
-<vi.-hột-cải-tạp-ðại-2-242b-s.ii182-tăng>
 52.3, Ðại 2, 825b) (Biệt Tạp 16.12, Ðại 2, 487c)
 
 #block[
@@ -19819,7 +19153,6 @@ vải kàsi. Này Tỷ-kheo, hòn núi đá lớn ấy được làm như vậy 
 ]
 
 === VII. Các Ðệ Tử (Tạp, Ðại 2, 242c) (Biệt Tạp 16.14, Ðại 2, 488a) (S.ii,182)
-<vii.-các-ðệ-tử-tạp-ðại-2-242c-biệt-tạp-16.14-ðại-2-488a-s.ii182>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19864,7 +19197,6 @@ kiếp, một vài ngàn kiếp, một vài trăm ngàn kiếp.
 ]
 
 === VIII. Sông Hằng (Tạp, Ðại 2, 242) (Biệt Tạp 16.10, Ðại 2, 487b) (S.ii,183)
-<viii.-sông-hằng-tạp-ðại-2-242-biệt-tạp-16.10-ðại-2-487b-s.ii183>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm).
@@ -19920,7 +19252,6 @@ Gotama!… Mong Tôn giả Gotama nhận con làm đệ tử, từ nay cho đế
 chung, con trọn đời quy ngưỡng!
 
 === IX. Cây Gậy (Tạp, Ðại 2,242a. Tạp, Ðại 2,112b, Biệt Tạp, Ðại 2,488b) (S.ii,184)
-<ix.-cây-gậy-tạp-ðại-2242a.-tạp-ðại-2112b-biệt-tạp-ðại-2488b-s.ii184>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -19940,7 +19271,6 @@ chung, con trọn đời quy ngưỡng!
 ]
 
 === X. Người
-<x.-người>
 \(Tạp, Ðại 2,242a. Biệt Tạp. Ðại 2,487b. Ðơn tạp 11, Ðại 2,496b)
 (S.ii,185)
 
@@ -19973,7 +19303,6 @@ chuyển, Tối đa là bảy lần. Là vị đoạn tận khổ, Ðoạn diệ
 #divider()
 
 === I. Khốn Cùng (Tạp, Ðại 2, 241c. Biệt Tạp 16.7, 487a) (S.ii,186)
-<i.-khốn-cùng-tạp-ðại-2-241c.-biệt-tạp-16.7-487a-s.ii186>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi…
@@ -19996,7 +19325,6 @@ tham ái trói buộc.
 ]
 
 === II. An Lạc (Tạp, Ðại 2, 241c) (Biệt Tạp 16.6, Ðại 2, 486c) (S.ii, 186).
-<ii.-an-lạc-tạp-ðại-2-241c-biệt-tạp-16.6-ðại-2-486c-s.ii-186.>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi…
@@ -20011,7 +19339,6 @@ tham ái trói buộc.
 ]
 
 === III. Khoảng Ba Mươi (Tạp, Ðại 2, 240b) (S.ii,187)
-<iii.-khoảng-ba-mươi-tạp-ðại-2-240b-s.ii187>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Vương Xá, Trúc Lâm.
@@ -20104,7 +19431,6 @@ làm đạo tặc, làm kẻ trộm làng bị bắt trong thời gian dài…
 ]
 
 === IV. Mẹ (Tạp, Ðại 2,241c) (Biệt Tạp 16.9, Ðại 2,487a) (S.ii,189)
-<iv.-mẹ-tạp-ðại-2241c-biệt-tạp-16.9-ðại-2487a-s.ii189>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -20119,7 +19445,6 @@ làm đạo tặc, làm kẻ trộm làng bị bắt trong thời gian dài…
 ]
 
 === V. Cha (S.ii,189)
-<v.-cha-s.ii189>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -20131,7 +19456,6 @@ làm đạo tặc, làm kẻ trộm làng bị bắt trong thời gian dài…
 ]
 
 === VI. Anh (S.ii,189)
-<vi.-anh-s.ii189>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú tại Sàvatthi.
@@ -20143,7 +19467,6 @@ làm đạo tặc, làm kẻ trộm làng bị bắt trong thời gian dài…
 gian dài này, lại không một lần đã làm anh…
 
 === VII. Chị (S.ii,189)
-<vii.-chị-s.ii189>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -20153,7 +19476,6 @@ gian dài này, lại không một lần đã làm anh…
 ]
 
 === VIII. Con Trai (S.ii,190)
-<viii.-con-trai-s.ii190>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -20163,7 +19485,6 @@ gian dài này, lại không một lần đã làm anh…
 ]
 
 === IX. Con Gái (Tạp, Ðại 2,241c) (Biệt Tạp 16,9, Ðại 2,487a) (S.ii,190)
-<ix.-con-gái-tạp-ðại-2241c-biệt-tạp-169-ðại-2487a-s.ii190>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -20186,7 +19507,6 @@ gian dài này, lại không một lần đã làm anh…
 ]
 
 === X. Núi Vepulla (Tạp, Ðại 2,243b) (Biệt Tạp 16.21, Ðại 2,488c) (S.ii,190)
-<x.-núi-vepulla-tạp-ðại-2243b-biệt-tạp-16.21-ðại-2488c-s.ii190>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), tại núi Gijjhakùta (Linh
@@ -20299,9 +19619,7 @@ Chúng tịnh là an lạc.
 #divider()
 
 == \[16\] Chương V - Tương Ưng Kassapa (Ca-diếp)
-<chương-v---tương-ưng-kassapa-ca-diếp-1>
 === I. Tri Túc (S.ii,194)
-<i.-tri-túc-s.ii194>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -20367,7 +19685,6 @@ phải học tập”.
 ]
 
 === II. Không Biết Sợ (S.ii,195)
-<ii.-không-biết-sợ-s.ii195>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Tôn giả Mahà Kassapa (Ðại Ca-diếp), và Tôn
@@ -20456,7 +19773,6 @@ sợ. "Các thiện pháp khởi lên nơi ta. Nếu chúng bị đoạn diệt,
 ]
 
 === III. Ví Dụ Với Trăng
-<iii.-ví-dụ-với-trăng>
 \(Tạp 41.18. Nguyệt Dụ, Ðại 2, 199a. Nguyệt Dụ Kinh, Ðại 2, 544b, Biệt
 Tạp
 
@@ -20570,7 +19886,6 @@ như sau:
 ]
 
 === IV. Ði Ðến Các Gia Ðình (Tạp 41.19 Thí Dụ. Ðại 2, 300a) ( Biệt Tạp 6.6, Ðại 2, 414c). (S.ii,200)
-<iv.-ði-ðến-các-gia-ðình-tạp-41.19-thí-dụ.-ðại-2-300a-biệt-tạp-6.6-ðại-2-414c.-s.ii200>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú tại Sàvatthi.
@@ -20655,7 +19970,6 @@ không vì vậy mà bị bực phiền, không do nhân duyên ấy mà cảm t
 ]
 
 === V. Trở Về Già (Tạp 41.23, Lực Lão, Ðại 2, 301c Tăng
-<v.-trở-về-già-tạp-41.23-lực-lão-ðại-2-301c-tăng>
 41.5, Ðại 2, 746a Biệt Tạp 6.10, Ðại 2, 416b) (S.ii,202)
 
 #block[
@@ -20732,7 +20046,6 @@ thời gian dài họ sống hạnh phúc an lạc”.
 ]
 
 === VI. Giáo Giới (Tạp 41.30, Phụ Thắng, Ðại 2, 300b. Tăng 31.11 Vô Trách Tụng, Ðại 2, 673b Biệt Tạp 6.7, Ðại 2, 415a).
-<vi.-giáo-giới-tạp-41.30-phụ-thắng-ðại-2-300b.-tăng-31.11-vô-trách-tụng-ðại-2-673b-biệt-tạp-6.7-ðại-2-415a.>
 \(S.ii,203).
 
 #block[
@@ -20843,7 +20156,6 @@ là tội lỗi,
 như pháp sám hối để ngăn ngừa trong tương lai!
 
 === VII. Giáo Giới (Tạp 41.21 Vô Tín, Ðại 2, 300c. Biệt Tạp 6.8, Ðại 2, 415b) (S.ii,205)
-<vii.-giáo-giới-tạp-41.21-vô-tín-ðại-2-300c.-biệt-tạp-6.8-ðại-2-415b-s.ii205>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Ràjagaha (Vương Xá), tại Veluvana (Trúc Lâm).
@@ -20972,7 +20284,6 @@ thiện pháp; với người ấy, dầu là đêm hay ngày, chờ đợi là 
 ]
 
 === VIII. Giáo Giới (Tạp 41.22, Phật Vi Căn Bổn, Ðại 2, 301a. Biệt Tạp 6.9, Ðại 2, 415c). (S.ii,208)
-<viii.-giáo-giới-tạp-41.22-phật-vi-căn-bổn-ðại-2-301a.-biệt-tạp-6.9-ðại-2-415c.-s.ii208>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Rajagaha (Vương Xá), tại chỗ nuôi dưỡng các con sóc.
@@ -21071,7 +20382,6 @@ Người sống Phạm hạnh phải chịu đựng những hiểm nạn của P
 sống Phạm hạnh phải bị bức não bởi những áp bức của Phạm hạnh.
 
 === IX. Thiền Và Thắng Trí (Tạp 41.21, Lực Lão, Ðại 2, 302a) (Biệt Tạp 6.11, Ðại 2, 416c) (S.ii,210)
-<ix.-thiền-và-thắng-trí-tạp-41.21-lực-lão-ðại-2-302a-biệt-tạp-6.11-ðại-2-416c-s.ii210>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -21229,7 +20539,6 @@ hiện tại, tự mình với thắng trí, chứng ngộ vô lậu tâm giải
 giải thoát, chứng đạt và an trú.
 
 === X. Trú Xứ (Tạp 41.25, Thử Thời, Ðại 2. 302b. Biệt Tạp 6.12, Ðại 2, 417a) (S.ii,214)
-<x.-trú-xứ-tạp-41.25-thử-thời-ðại-2.-302b.-biệt-tạp-6.12-ðại-2-417a-s.ii214>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Tôn giả Kassapa trú ở Sàvatthi (Xá-vệ),
@@ -21372,7 +20681,6 @@ lậu tâm giải thoát, tuệ giải thoát”.
 ]
 
 === XI. Y Áo
-<xi.-y-áo>
 \(Tạp 41.26, Chúng Giảm Thiểu, Ðại 2, 302c Biệt Tạp 6,13, Ðại 2, 417c)
 (S.ii,217)
 
@@ -21582,7 +20890,6 @@ sanh, có tầm, có tứ. 32-46) Và này Hiền giả, tùy theo mong muốn, 
 ]
 
 === XII. Sau Khi Chết (Tạp 32.1, Ngoại Ðạo, Ðại 2, 226a) (Biệt Tạp 6.14, Ðại 2, 419a) (S.ii.222).
-<xii.-sau-khi-chết-tạp-32.1-ngoại-ðạo-ðại-2-226a-biệt-tạp-6.14-ðại-2-419a-s.ii.222.>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Mahà Kassapa và Tôn giả Sàriputta trú ở Bàrànasi (Ba-
@@ -21646,7 +20953,6 @@ tại và không không tồn tại sau khi chết".
 ]
 
 === XIII. Tượng Pháp
-<xiii.-tượng-pháp>
 \(Tạp 32.2 Pháp Giảm Diệt, Ðại 2, 226b (Biệt Tạp 6.15, Ðại 2, 419b)
 (S.ii,223)
 
@@ -21717,9 +21023,7 @@ hơn, nhưng các Tỷ-kheo chứng đắc chánh trí ít hơn?.
 #divider()
 
 == \[17\] Chương VI - Tương Ưng Lợi Ðắc Cung Kính
-<chương-vi---tương-ưng-lợi-ðắc-cung-kính-1>
 === I. Khổ Lụy (S.ii,225)
-<i.-khổ-lụy-s.ii225>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi… tại vườn ông
@@ -21745,7 +21049,6 @@ trú”.
 ]
 
 === II. Lưỡi Câu (S.ii,226)
-<ii.-lưỡi-câu-s.ii226>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -21790,7 +21093,6 @@ các khổ ách.
 ]
 
 === III. Con Rùa (S.ii,226)
-<iii.-con-rùa-s.ii226>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -21848,7 +21150,6 @@ Nay Bạn không còn thuộc chúng ta nữa!”
 ]
 
 === IV. Lông Dài (S.ii,228)
-<iv.-lông-dài-s.ii228>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -21873,7 +21174,6 @@ Nay Bạn không còn thuộc chúng ta nữa!”
 ]
 
 === V. Trùng Phẩn (Tạp, Ðại 2, 346a) (S.ii,228)
-<v.-trùng-phẩn-tạp-ðại-2-346a-s.ii228>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -21917,7 +21217,6 @@ ngày mai, và bình bát của vị ấy được tràn đầy.
 ]
 
 === VI. Sét Ðánh (S.ii,229)
-<vi.-sét-ðánh-s.ii229>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -21937,7 +21236,6 @@ ngày mai, và bình bát của vị ấy được tràn đầy.
 ]
 
 === VII. Trúng Ðộc (S.ii,229)
-<vii.-trúng-ðộc-s.ii229>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -21956,7 +21254,6 @@ ngày mai, và bình bát của vị ấy được tràn đầy.
 ]
 
 === VIII. Con Giả Can (Tạp, Ðại 2, 346a) (S.ii,230)
-<viii.-con-giả-can-tạp-ðại-2-346a-s.ii230>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -21990,7 +21287,6 @@ ngày mai, và bình bát của vị ấy được tràn đầy.
 ]
 
 === IX. Cuồng Phong (Tăng, Ðại 2, 634b) (S.ii,231)
-<ix.-cuồng-phong-tăng-ðại-2-634b-s.ii231>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22024,7 +21320,6 @@ ngày mai, và bình bát của vị ấy được tràn đầy.
 ]
 
 === X. Kinh Với Bài Kệ (S.ii,231)
-<x.-kinh-với-bài-kệ-s.ii231>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22056,7 +21351,6 @@ các sở kiến, Không còn lạc chấp thủ, Ðược gọi bậc Chơn nh�
 #divider()
 
 === I. Bình Bát (Tăng, Ðại 2, 566-567) (S.ii,233)
-<i.-bình-bát-tăng-ðại-2-566-567-s.ii233>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22076,7 +21370,6 @@ các sở kiến, Không còn lạc chấp thủ, Ðược gọi bậc Chơn nh�
 ]
 
 === II. Bình Bát (S.ii,233)
-<ii.-bình-bát-s.ii233>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22096,7 +21389,6 @@ các sở kiến, Không còn lạc chấp thủ, Ðược gọi bậc Chơn nh�
 ]
 
 === III. Từ Một Ðồng Tiền Vàng Cho Ðến Người Mỹ Nhân Ðịa Phương (S.ii,233)
-<iii.-từ-một-ðồng-tiền-vàng-cho-ðến-người-mỹ-nhân-ðịa-phương-s.ii233>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22124,7 +21416,6 @@ không cố ý nói láo.”
 #divider()
 
 === I. Phụ Nữ (S.ii,234)
-<i.-phụ-nữ-s.ii234>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22141,9 +21432,7 @@ không cố ý nói láo.”
 ]
 
 === II. Mỹ Nhân (S.ii,235) … không một mỹ nhân nào…
-<ii.-mỹ-nhân-s.ii235-không-một-mỹ-nhân-nào>
 === III. Con Trai
-<iii.-con-trai>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22174,7 +21463,6 @@ không cố ý nói láo.”
 ]
 
 === IV. Con Gái Một (Tăng, Ðại 2, 562) (S.ii,236)
-<iv.-con-gái-một-tăng-ðại-2-562-s.ii236>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22218,7 +21506,6 @@ lợi đắc, cung kính, danh vọng chạm đến, như vậy là chướng ng
 ]
 
 === V. Sa Môn , Bà La Môn (S.ii,236)
-<v.-sa-môn-bà-la-môn-s.ii236>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22246,7 +21533,6 @@ hạnh.
 ]
 
 === VI. Sa Môn, Bà La Môn (S.ii,237)
-<vi.-sa-môn-bà-la-môn-s.ii237>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22269,7 +21555,6 @@ trong đời sống hiện tại, có thể tự mình giác ngộ với thượ
 đạt và an trú mục đích Sa-môn và mục đích Bà-la-môn hạnh.
 
 === VII. Sa Môn, Bà La Môn (S.ii, 237)
-<vii.-sa-môn-bà-la-môn-s.ii-237>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22290,7 +21575,6 @@ của Bà-la-môn hạnh.
 ]
 
 === VIII. Da (Tăng, Ðại 2, 570c) (S.ii,237)
-<viii.-da-tăng-ðại-2-570c-s.ii237>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22313,7 +21597,6 @@ xương. Sau khi cắt đứt xương, chúng chạm tới tủy và đứng l�
 ]
 
 === IX. Dây (S.ii, 238)
-<ix.-dây-s.ii-238>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22349,7 +21632,6 @@ tới tủy và đứng lại.
 ]
 
 === X. Tỷ Kheo (S.ii,238)
-<x.-tỷ-kheo-s.ii238>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22393,7 +21675,6 @@ nói rằng, lợi đắc, cung kính, danh vọng là chướng ngại pháp.
 #divider()
 
 === I. Cắt (S.ii,239)
-<i.-cắt-s.ii239>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22409,7 +21690,6 @@ nói rằng, lợi đắc, cung kính, danh vọng là chướng ngại pháp.
 ]
 
 === II. Gốc (S.ii,240)
-<ii.-gốc-s.ii240>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22436,7 +21716,6 @@ nói rằng, lợi đắc, cung kính, danh vọng là chướng ngại pháp.
 ]
 
 === IV. Trắng (S.ii,240 )
-<iv.-trắng-s.ii240>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22452,7 +21731,6 @@ nói rằng, lợi đắc, cung kính, danh vọng là chướng ngại pháp.
 ]
 
 === V. Bỏ Ði (S.ii,241)
-<v.-bỏ-ði-s.ii241>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjàgaha (Vương Xá), Veluvana (Trúc Lâm), tại núi
@@ -22500,7 +21778,6 @@ Lợi đắc, cung kính, danh vọng khởi lên, đưa đến diệt vong cho 
 ]
 
 === VI. Xe
-<vi.-xe>
 \(Tạp, Ðại 2, 276b, Biệt Tạp, Ðại 2, 347b, Tăng, Ðại 2, 570b; 614a)
 (S.ii,242)
 
@@ -22549,7 +21826,6 @@ trong thiện pháp, không có sự tăng trưởng.
 ]
 
 === VII. Mẹ (S.ii,242)
-<vii.-mẹ-s.ii242>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22577,7 +21853,6 @@ trong thiện pháp, không có sự tăng trưởng.
 ]
 
 === XIII. Vợ, (S.ii,243)
-<xiii.-vợ-s.ii243>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22613,9 +21888,7 @@ xâm chiếm đã cố ý nói láo.
 #divider()
 
 == \[18\] Chương VII - Tương Ưng Ràhula
-<chương-vii---tương-ưng-ràhula-1>
 === I. Mắt (S.ii,244)
-<i.-mắt-s.ii244>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Sàvatthi (Xá- vệ), tại
@@ -22702,7 +21975,6 @@ cái ấy: "Cái này là của tôi, cái này là tôi, cái này là tự ng�
 ]
 
 === II. Sắc (S.ii,245)
-<ii.-sắc-s.ii245>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22731,7 +22003,6 @@ cái ấy: "Cái này là của tôi, cái này là tôi, cái này là tự ng�
 ]
 
 === III. Thức (S.ii,246)
-<iii.-thức-s.ii246>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22760,7 +22031,6 @@ cái ấy: "Cái này là của tôi, cái này là tôi, cái này là tự ng�
 ]
 
 === IV. Xúc (S.ii,246)
-<iv.-xúc-s.ii246>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22784,7 +22054,6 @@ thường?
 ]
 
 === V. Thọ (S.ii,247)
-<v.-thọ-s.ii247>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22806,7 +22075,6 @@ nhàm chán thọ do thân xúc sanh, nhàm chán thọ do ý xúc sanh… Do nh
 chán, vị ấy ly tham… "…không còn trở lui trạng thái này nữa".
 
 === VI. Tưởng (S.ii,247)
-<vi.-tưởng-s.ii247>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22825,7 +22093,6 @@ nhàm chán xúc tưởng, nhàm chán pháp tưởng… Do nhàm chán, vị �
 "…không còn trở lui trạng thái này nữa".
 
 === VII. Tư (S.ii,247)
-<vii.-tư-s.ii247>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22844,7 +22111,6 @@ hương tư, nhàm chán vị tư, nhàm chán xúc tư, nhàm chán pháp tư. 
 chán, vị ấy ly tham… "…không còn trở lui trạng thái này nữa".
 
 === VIII. Ái (S.ii,248)
-<viii.-ái-s.ii248>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22861,7 +22127,6 @@ hương ái, nhàm chán vị ái, nhàm chán xúc ái, nhàm chán pháp ái. 
 chán, vị ấy ly tham… "…không còn trở lui trạng thái này nữa".
 
 === IX. Giới (S.ii,248)
-<ix.-giới-s.ii248>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22879,7 +22144,6 @@ thức giới. Do nhàm chán, vị ấy ly tham… "…không còn trở lui tr
 này nữa".
 
 === X. Uẩn (S.ii,249)
-<x.-uẩn-s.ii249>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -22907,7 +22171,6 @@ làm; không còn trở lui trạng thái này nữa”.
 #divider()
 
 === I. Mắt (S.ii,249)
-<i.-mắt-s.ii249>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Sàvatthi (Xá- vệ), tại
@@ -22974,7 +22237,6 @@ làm; không còn trở lui trạng thái này nữa”.
 làm; không còn trở lui trạng thái này nữa”.
 
 === II. Sắc (S.ii,250)
-<ii.-sắc-s.ii250>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại Sàvatthi.
@@ -22987,28 +22249,19 @@ làm; không còn trở lui trạng thái này nữa”.
 -- Là vô thường, bạch Thế Tôn. (6-20) -- Thanh… Hương… Vị… Xúc… Pháp…
 
 === III. Thức (S.ii,251) (3-20) -- Nhãn thức… Nhĩ thức… Tỷ thức… Thiệt thức… Thân thức… Ý thức…
-<iii.-thức-s.ii251-3-20-nhãn-thức-nhĩ-thức-tỷ-thức-thiệt-thức-thân-thức-ý-thức>
 === IV. Xúc (S.ii,251) (3-20) -- Nhãn xúc… Nhĩ xúc… Tỷ xúc… Thiệt xúc… Thân xúc… Ý xúc…
-<iv.-xúc-s.ii251-3-20-nhãn-xúc-nhĩ-xúc-tỷ-xúc-thiệt-xúc-thân-xúc-ý-xúc>
 === V. Thọ (S.ii,251) (3-20) -- Thọ do nhãn xúc sanh… Thọ do nhĩ xúc sanh… Thọ do tỷ xúc sanh… Thọ do thiệt xúc sanh… Thọ do thân
-<v.-thọ-s.ii251-3-20-thọ-do-nhãn-xúc-sanh-thọ-do-nhĩ-xúc-sanh-thọ-do-tỷ-xúc-sanh-thọ-do-thiệt-xúc-sanh-thọ-do-thân>
 xúc sanh… Thọ do ý xúc sanh…
 
 === VI. Tưởng (S.ii,251) (3-20) -- Sắc tưởng… Thanh tưởng… Hương tưởng… Vị tưởng… Xúc tưởng… Pháp tưởng…
-<vi.-tưởng-s.ii251-3-20-sắc-tưởng-thanh-tưởng-hương-tưởng-vị-tưởng-xúc-tưởng-pháp-tưởng>
 === VII. Tư (S.ii,251) (3-20) -- Sắc tư… Thanh tư… Hương tư… Vị tư… Xúc tư… Pháp tư…
-<vii.-tư-s.ii251-3-20-sắc-tư-thanh-tư-hương-tư-vị-tư-xúc-tư-pháp-tư>
 === VIII. Ái (S.ii,251) (3-20) -- Sắc ái… Thanh ái… Hương ái… Vị ái… Xúc ái… Pháp ái…
-<viii.-ái-s.ii251-3-20-sắc-ái-thanh-ái-hương-ái-vị-ái-xúc-ái-pháp-ái>
 === IX. Giới (S.ii,251) (3-20) -- Ðịa giới… Thủy giới… Hỏa giới… Phong giới… Không giới… Thức giới…
-<ix.-giới-s.ii251-3-20-ðịa-giới-thủy-giới-hỏa-giới-phong-giới-không-giới-thức-giới>
 === X. Uẩn (S.ii,252) (3-17) -- Sắc… Thọ… Tưởng… Hành… Thức là thường hay vô thường?
-<x.-uẩn-s.ii252-3-17-sắc-thọ-tưởng-hành-thức-là-thường-hay-vô-thường>
 -- Là vô thường, bạch Thế Tôn… (21-22) -- Thấy vậy, này Ràhula, bậc
 Thánh đệ tử nghe nhiều… "…không còn trở lui trạng thái này nữa".
 
 === XI. Tùy Miên
-<xi.-tùy-miên>
 \(Tạp, Ðại 2, 50c, Tạp, Ðại 2, 118c, S.22,91 Ràhula. Tạp, Ðại 2,55a)
 (S.ii,252)
 
@@ -23045,7 +22298,6 @@ ngã của tôi".
 kiến, không có ngã sở kiến, không có mạn tùy miên.
 
 === XII. Viễn Ly (Tạp, Ðại 2, 50c. S.23,92 Ràhula) (Tạp, Ðại 2,b) (Tạp, Ðại 2, 119a). (S.ii,253)
-<xii.-viễn-ly-tạp-ðại-2-50c.-s.2392-ràhula-tạp-ðại-2b-tạp-ðại-2-119a.-s.ii253>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Tại Sàvatthi.
@@ -23089,9 +22341,7 @@ vậy, vị ấy được giải thoát, không có chấp thủ.
 #divider()
 
 == \[19\] Chương VIII - Tương Ưng Lakkhana
-<chương-viii---tương-ưng-lakkhana-1>
 === I. Ðống Xương (Tạp, Ðại 2, 135a) (S.ii,254)
-<i.-ðống-xương-tạp-ðại-2-135a-s.ii254>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), Veluvana
@@ -23174,7 +22424,6 @@ sẽ biết, hay sẽ thấy, hay sẽ chứng thực như vậy.
 và với quả thuần thục còn lại người đó cảm thọ một tự ngã như vậy.
 
 === II. Ðồ Tể Giết Trâu Bò (Gavaghàtako) (Tạp, Ðại 2, 135b) (S.ii,256)
-<ii.-ðồ-tể-giết-trâu-bò-gavaghàtako-tạp-ðại-2-135b-s.ii256>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -23188,7 +22437,6 @@ và với quả thuần thục còn lại người đó cảm thọ một tự n
 ]
 
 === III. Một Miếng Thịt và Kẻ Bắt Chim
-<iii.-một-miếng-thịt-và-kẻ-bắt-chim>
 \(Tạp, Ðại 2, 136a) (S.ii,256)
 
 #block[
@@ -23200,7 +22448,6 @@ và với quả thuần thục còn lại người đó cảm thọ một tự n
 ]
 
 === IV. Người Giết Dê Bị Lột Da (Tạp, Ðại 2, 135c) (S.ii,256)
-<iv.-người-giết-dê-bị-lột-da-tạp-ðại-2-135c-s.ii256>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả… tôi thấy một bị da… cắn mổ nó, cắt xé nó, và nó
@@ -23211,7 +22458,6 @@ và với quả thuần thục còn lại người đó cảm thọ một tự n
 ]
 
 === V. Người Giết Heo Với Ðao Kiếm (Tạp 19-14, Ðại 2, 136c) (S.ii,257)
-<v.-người-giết-heo-với-ðao-kiếm-tạp-19-14-ðại-2-136c-s.ii257>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23224,7 +22470,6 @@ và với quả thuần thục còn lại người đó cảm thọ một tự n
 ]
 
 === VI. Người Săn Thú Với Cây Lao (Tạp, Ðại 2, 136b) (S.ii,257)
-<vi.-người-săn-thú-với-cây-lao-tạp-ðại-2-136b-s.ii257>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23250,7 +22495,6 @@ lên những tiếng kêu đau đớn.
 ]
 
 === VIII. Người Ðánh Xe Với Các Cây Kim (Tạp, Ðại 2, 136b) (S.ii,257)
-<viii.-người-ðánh-xe-với-các-cây-kim-tạp-ðại-2-136b-s.ii257>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23261,7 +22505,6 @@ lên những tiếng kêu đau đớn.
 ]
 
 === IX. NGười Do Thám
-<ix.-người-do-thám>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, thưa Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23283,7 +22526,6 @@ người với lông bằng mũi tên đang đi giữa hư không.
 ]
 
 === X. Người Phán Quan Tham Nhũng Với Hòn Dái Lớn (S.ii,258)
-<x.-người-phán-quan-tham-nhũng-với-hòn-dái-lớn-s.ii258>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này các Tỷ-kheo, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23301,7 +22543,6 @@ người với lông bằng mũi tên đang đi giữa hư không.
 #divider()
 
 === I. Kẻ Thông Dâm Bị Chìm Trong Hố (Tạp, Ðại 2, 137b) (S.ii,259)
-<i.-kẻ-thông-dâm-bị-chìm-trong-hố-tạp-ðại-2-137b-s.ii259>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời, Thế Tôn ở Ràjagaha (Vương Xá), Veluvana
@@ -23315,7 +22556,6 @@ người với lông bằng mũi tên đang đi giữa hư không.
 ]
 
 === II. Tà Ác Là Bà La Môn Ăn Phân (Tạp, Ðại 2, 137c) (S.ii,259)
-<ii.-tà-ác-là-bà-la-môn-ăn-phân-tạp-ðại-2-137c-s.ii259>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23341,7 +22581,6 @@ mổ, rứt xé người ấy và người ấy kêu lên những tiếng kêu �
 ]
 
 === IV. Người Phụ Nữ Xấu Xí Bói Toán (Tạp, Ðại 1, 137b) (S.ii.260)
-<iv.-người-phụ-nữ-xấu-xí-bói-toán-tạp-ðại-1-137b-s.ii.260>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23354,7 +22593,6 @@ mổ, rứt xé người ấy và người ấy kêu lên những tiếng kêu �
 ]
 
 === V. Người Ðàn Bà Khô Héo Ðã Rải Than Ðỏ trên Một Người Ðàn Bà (Tạp 19-25. Sân Nhuế Ðính Du Sái, Ðại 2, 137c) (S.ii, 260).
-<v.-người-ðàn-bà-khô-héo-ðã-rải-than-ðỏ-trên-một-người-ðàn-bà-tạp-19-25.-sân-nhuế-ðính-du-sái-ðại-2-137c-s.ii-260.>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23367,7 +22605,6 @@ mổ, rứt xé người ấy và người ấy kêu lên những tiếng kêu �
 ]
 
 === VI. Kẻ Trộm Cướp Ðứt Ðầu (Tạp 19- 15 Ðoạn Nhơn Ðầu. Ðại 2, 136c) (S.ii,260)
-<vi.-kẻ-trộm-cướp-ðứt-ðầu-tạp-19--15-ðoạn-nhơn-ðầu.-ðại-2-136c-s.ii260>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gujjhakùta bước xuống, tôi thấy
@@ -23400,7 +22637,6 @@ mổ, rứt xé người ấy và người ấy kêu lên những tiếng kêu �
 ]
 
 === IX. Học Nữ (S.ii,261)
-<ix.-học-nữ-s.ii261>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … tôi thấy một học nữ đi giữa hư không.
@@ -23411,7 +22647,6 @@ mổ, rứt xé người ấy và người ấy kêu lên những tiếng kêu �
 ]
 
 === X. Sa Di (S.ii,261)
-<x.-sa-di-s.ii261>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … tôi thấy một Sa-di đi giữa hư không… 2-3) Y Tăng-già-lê của vị ấy bị
@@ -23419,7 +22654,6 @@ mổ, rứt xé người ấy và người ấy kêu lên những tiếng kêu �
 ]
 
 === XI. Sa Di Ni (S.ii,261)
-<xi.-sa-di-ni-s.ii261>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở đây, này Hiền giả, khi tôi từ núi Gijjhakùta bước xuống, tôi thấy
@@ -23463,9 +22697,7 @@ thuần thục còn lại, người đó cảm thọ một tự ngã như vậy.
 #divider()
 
 == \[20\] Chương XI - Tương Ưng Thí Dụ
-<chương-xi---tương-ưng-thí-dụ-1>
 === I. Chóp Mái (S.ii,262)
-<i.-chóp-mái-s.ii262>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Kỳ-đà
@@ -23487,7 +22719,6 @@ thuần thục còn lại, người đó cảm thọ một tự ngã như vậy.
 ]
 
 === II. Ðầu Ngón Tay
-<ii.-ðầu-ngón-tay>
 \(Tạp, Ðại 2. 345a) (Ðơn tạp 22. Trảo Thổ, Ðại 2, 498a) (S.ii,263)
 
 #block[
@@ -23514,7 +22745,6 @@ thuần thục còn lại, người đó cảm thọ một tự ngã như vậy.
 ]
 
 === III. Gia Ðình (Tạp, 47.14, Nhơn Gia, Ðại 2, 344c) (S.ii,263)
-<iii.-gia-ðình-tạp-47.14-nhơn-gia-ðại-2-344c-s.ii263>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23544,7 +22774,6 @@ mãn, làm thành cỗ xe, làm thành căn cứ địa, an trú, tích lũy và
 thực hiện”. Như vậy, này các Tỷ-kheo các Ông cần phải học tập.
 
 === IV. Cái Nồi (Tạp, Ðại 2, 344b) (S.ii,264)
-<iv.-cái-nồi-tạp-ðại-2-344b-s.ii264>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23569,7 +22798,6 @@ việc trước, quả có lớn hơn.
 ]
 
 === V. Cây Lao (Satti) (Tạp, Ðại 2, 344c) Sakti, S.(Hoernh, 1.44-45) (S.ii,265)
-<v.-cây-lao-satti-tạp-ðại-2-344c-sakti-s.hoernh-1.44-45-s.ii265>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23611,7 +22839,6 @@ không khiến cho người ấy mệt nhọc và bị não hại.
 Như vậy, này các Tỷ-kheo, các Ông cần phải học tập.
 
 === VI. Người Bắn Cung (Tạp 24.9, Cung, Ðại 2, 171c) (S.ii,265)
-<vi.-người-bắn-cung-tạp-24.9-cung-ðại-2-171c-s.ii265>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23650,7 +22877,6 @@ mãnh, lão luyện, thuần tay, thiện xảo về cung thuật”.
 ]
 
 === VII. Cái Chốt Trống (Tạp 47.18, Cổ, Ðại 2, 315b) (S.ii,166)
-<vii.-cái-chốt-trống-tạp-47.18-cổ-ðại-2-315b-s.ii166>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23699,7 +22925,6 @@ xuất thế gian, liên hệ đến không sẽ đi đến tiêu diệt.
 ]
 
 === VIII. Cỏ Rơm (Tạp, Ðại 2, 344b) (S.ii,267)
-<viii.-cỏ-rơm-tạp-ðại-2-344b-s.ii267>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Vesàli (Tỳ-xá-ly), Mahàvana (Ðại
@@ -23738,7 +22963,6 @@ xuất thế gian, liên hệ đến không sẽ đi đến tiêu diệt.
 ]
 
 === IX. Voi (Tạp, Ðại 2, 284a) (Biệt Tạp 122. Ðại 2, 380c) (S.ii,268)
-<ix.-voi-tạp-ðại-2-284a-biệt-tạp-122.-ðại-2-380c-s.ii268>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tại ngôi vườn ở Sàvatthi.
@@ -23818,7 +23042,6 @@ những nguy hiểm, hiểu rõ sự xuất ly với trí tuệ”. Như vậy, 
 Tỷ-kheo, các Ông cần phải học tập.
 
 === X. Con Mèo (Tạp, Ðại 2, 345c) (S.ii,270)
-<x.-con-mèo-tạp-ðại-2-345c-s.ii270>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23877,7 +23100,6 @@ không kín đáo, tham dục não hại tâm. Các vị ấy bị tham dục n�
 Như vậy, này các Tỷ-kheo, các Ông cần phải học tập.
 
 === XI. Con Chó Rừng (Giả-can) (Tạp 47.22. Ðại 2, 346a) (S.ii,271)
-<xi.-con-chó-rừng-giả-can-tạp-47.22.-ðại-2-346a-s.ii271>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23904,7 +23126,6 @@ Như vậy, này các Tỷ-kheo, các Ông cần phải học tập.
 ]
 
 === XII. Con Giả Can (S.ii,272)
-<xii.-con-giả-can-s.ii272>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -23930,9 +23151,7 @@ Như vậy, này các Tỷ-kheo, các Ông cần phải học tập.
 #divider()
 
 == \[21\] Chương X - Tương Ưng Tỷ Kheo
-<chương-x---tương-ưng-tỷ-kheo-1>
 === I. Kolita (Tạp, Ðại 2, 132a) (S.ii,273)
-<i.-kolita-tạp-ðại-2-132a-s.ii273>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông
@@ -23983,7 +23202,6 @@ Thánh im lặng, hãy chú định tâm vào Thánh im lặng”.
 ]
 
 === II. Upatissa… (S.ii,274)
-<ii.-upatissa-s.ii274>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhơn duyên ở Sàvatthi.
@@ -24037,7 +23255,6 @@ an lạc cho chư Thiên và loài Người”.
 ]
 
 === III. Cái Ghè (Tạp 18-14 Tịch Diệt, Ðại 2, 132c) (S.ii,275)
-<iii.-cái-ghè-tạp-18-14-tịch-diệt-ðại-2-132c-s.ii275>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -24131,7 +23348,6 @@ vậy, này Moggallàna, là sự tinh cần, tinh tấn”.
 ]
 
 === IV. Tân Tỷ Kheo
-<iv.-tân-tỷ-kheo>
 \(Ðại 2, 277c, 376a) (S.ii,277)
 
 #block[
@@ -24215,7 +23431,6 @@ Vị Tỷ-kheo trẻ này, Là một người tối thượng, Chiến thắng m
 Thọ trì thân tối hậu.
 
 === V. Thiện Sanh (Tạp, Ðại 2, 276a, 374a) (S.ii,278)
-<v.-thiện-sanh-tạp-ðại-2-276a-374a-s.ii278>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi.
@@ -24242,7 +23457,6 @@ không gia đình.
 ]
 
 === VI. Bhaddi (Tạp 38.2, Ố Sắc, Ðại 2, 276a, 374a) (S.ii,279)
-<vi.-bhaddi-tạp-38.2-ố-sắc-ðại-2-276a-374a-s.ii279>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -24279,7 +23493,6 @@ gia đình, sống không gia đình.
 ]
 
 === VII. Visàkha (Tạp, 38.8, Ban Xà Văn, Ðại 2, 277b,377c) (S.ii,280)
-<vii.-visàkha-tạp-38.8-ban-xà-văn-ðại-2-277b377c-s.ii280>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Vesàli (Tỳ-xá-ly), tại Mahàvana
@@ -24333,7 +23546,6 @@ cao Lá cờ các bậc Thánh. Lá cờ bậc Hiền Thánh, Là những lời 
 cờ bậc Hiền Thánh, Chính là lời Chánh pháp.
 
 === VIII. Nanda (Ðại, 2, 277a, 375a) (S.ii,281)
-<viii.-nanda-ðại-2-277a-375a-s.ii281>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Trú ở Sàvatthi.
@@ -24366,7 +23578,6 @@ sống mặc áo phấn tảo, và sống không mong đợi các dục vọng.
 ]
 
 === IX. Tissa
-<ix.-tissa>
 \(Tạp 38.7, Oa? Sư, Ðại 2,277b, 375b. (S.ii,281)
 
 #block[
@@ -24404,7 +23615,6 @@ sống mặc áo phấn tảo, và sống không mong đợi các dục vọng.
 Kiêu mạn và xan tham, Hỡi Tissa, hãy sống, Sống đời sống Phạm hạnh.
 
 === X. Tên Trưởng Lão (Tạp 38.19, Trưởng Lão, Ðại 2, 278a, 376b) (S.ii,282)
-<x.-tên-trưởng-lão-tạp-38.19-trưởng-lão-ðại-2-278a-376b-s.ii282>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Thế Tôn trú ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), tại
@@ -24490,7 +23700,6 @@ làm viên mãn với các chi tiết.
 ]
 
 === XI. Kappina (S.ii,284)
-<xi.-kappina-s.ii284>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -24531,7 +23740,6 @@ Trong Thiền định, Thiền tri, Bà-là-môn chói sáng, Nhưng suốt cả
 ngày, Phật chói sáng hào quang.
 
 === XII. Thân Hữu (S.ii,285)
-<xii.-thân-hữu-s.ii285>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Trú ở Sàvatthi.
@@ -24568,13 +23776,9 @@ ngày, Phật chói sáng hào quang.
 #divider()
 
 == TẬP III - THIÊN UẨN
-<tập-iii---thiên-uẩn>
 == \[22\] Chương I -Tương Ưng Uẩn
-<chương-i--tương-ưng-uẩn>
 === A. Năm Mươi Kinh Căn Bản
-<a.-năm-mươi-kinh-căn-bản-1>
 === I. Phẩm Nakulapità I. Nakulapità (Tạp, 5.5 Trưởng Giả, Ðại 2,33a) (Tăng 13.4, Ðại 2,573a) (S.iii,1)
-<i.-phẩm-nakulapità-i.-nakulapità-tạp-5.5-trưởng-giả-ðại-233a-tăng-13.4-ðại-2573a-s.iii1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn sống giữa dân chúng Bhayga, tại núi
@@ -24777,7 +23981,6 @@ không do thức biến hoại, đổi khác mà khởi lên sầu, bi, khổ, �
 ]
 
 === II. Devadaha (Tạp 5.6, Tây, Ðại 2,33b) (Tăng 41.4, Ðại 2,745b) (S.iii,5)
-<ii.-devadaha-tạp-5.6-tây-ðại-233b-tăng-41.4-ðại-2745b-s.iii5>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -24955,7 +24158,6 @@ thành tựu các thiện pháp, được Thế Tôn tán thán.
 ]
 
 === III. Hàliddikàni (Tạp, 20.15, Kha-lê, Ðại 2,144a) (S.iii,9)
-<iii.-hàliddikàni-tạp-20.15-kha-lê-ðại-2144a-s.iii9>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Tôn giả Mahà Kaccàna (Ma- ha Ca-chiên-diên)
@@ -25127,7 +24329,6 @@ Với lời nói vắn tắt này của Thế Tôn, này Gia chủ, ý nghĩa c�
 một cách rộng rãi như vậy.
 
 === IV. Hàliddikàni (Tạp 20.16 Kha-lê, Ðại 2,144c) (S.iii,12)
-<iv.-hàliddikàni-tạp-20.16-kha-lê-ðại-2144c-s.iii12>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Tôn giả Mahà Kaccàna sống giữa dân chúng
@@ -25176,7 +24377,6 @@ cần phải hiểu một cách rộng rãi như thế nào?
 toàn đạt được mục đích, là bậc tối thượng giữa loài Trời và loài Người”.
 
 === V. Thiền Ðịnh (Tạp 3.7-8 Thọ, Ðại 2,17a) (Tạp 3.1. Sanh Diệt, Ðại 2,15b) (Tạp 3.2 Bất Thừa, Ðại 2,15b) (S.iii,13)
-<v.-thiền-ðịnh-tạp-3.7-8-thọ-ðại-217a-tạp-3.1.-sanh-diệt-ðại-215b-tạp-3.2-bất-thừa-ðại-215b-s.iii13>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú tại Sàvatthi…
@@ -25264,7 +24464,6 @@ sự đoạn diệt của toàn bộ khổ uẩn này.
 ]
 
 === VI. Tỉnh Mặc (Tạp, 3.7-8, Thọ, Ðại 2,17a) (S.iii,15)
-<vi.-tỉnh-mặc-tạp-3.7-8-thọ-ðại-217a-s.iii15>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên tại Sàvatthi…
@@ -25280,7 +24479,6 @@ sự đoạn diệt của toàn bộ khổ uẩn này.
 tập khởi và đoạn diệt ( Như kinh trước, từ số 4 đến số 18 ).
 
 === VII. Chấp Thủ Và Ưu Não (Tạp 2.11 Thủ Trước, Ðại 2,10c) (S.iii,15)
-<vii.-chấp-thủ-và-ưu-não-tạp-2.11-thủ-trước-ðại-210c-s.iii15>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -25401,7 +24599,6 @@ không có khát vọng khởi lên và ưu não.
 ]
 
 === VIII. Chấp Thủ Và Ưu Não (Tạp 2.12, Hị Trước, Ðại 2,11a) (S.iii,18)
-<viii.-chấp-thủ-và-ưu-não-tạp-2.12-hị-trước-ðại-211a-s.iii18>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -25449,7 +24646,6 @@ không có khát vọng khởi lên và ưu não.
 ]
 
 === IX. Ba Thời Là Vô Thường (Tạp 1.8 Quá Khứ, Ðại 2,1c. Tạp 3.29- 30 Lược Thuyết, Ðại 2,20a) (S.iii,19)
-<ix.-ba-thời-là-vô-thường-tạp-1.8-quá-khứ-ðại-21c.-tạp-3.29--30-lược-thuyết-ðại-220a-s.iii19>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -25481,7 +24677,6 @@ diệt.
 ]
 
 === X. Ba Thời Là Khổ
-<x.-ba-thời-là-khổ>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -25504,7 +24699,6 @@ diệt.
 ]
 
 === XI. Ba Thời Là Vô Ngã (S.iii,20)
-<xi.-ba-thời-là-vô-ngã-s.iii20>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -25532,7 +24726,6 @@ diệt.
 ]
 
 === II. Phẩm Vô Thường I. Vô Thường (Tạp 1.1 Vô thường, Ðại 2,1a) (S.iii,21)
-<ii.-phẩm-vô-thường-i.-vô-thường-tạp-1.1-vô-thường-ðại-21a-s.iii21>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Sàvathi…
@@ -25552,7 +24745,6 @@ Trong sự giải thoát, trí khởi lên: "Ta đã được giải thoát". V�
 trở lui trạng thái này nữa".
 
 === II. Khổ (S.iii,21) 1-2) Nhân duyên ở Sàvatthi… 3-7) -- Này các Tỷ-kheo, sắc là khổ…, thọ là khổ…, tưởng là khổ…, các hành
-<ii.-khổ-s.iii21-1-2-nhân-duyên-ở-sàvatthi-3-7-này-các-tỷ-kheo-sắc-là-khổ-thọ-là-khổ-tưởng-là-khổ-các-hành>
 là khổ…, thức là khổ…
 
 #block[
@@ -25562,7 +24754,6 @@ là khổ…, thức là khổ…
 ]
 
 === III. Vô Ngã (S.iii,21) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-vô-ngã-s.iii21-1-2-nhân-duyên-ở-sàvatthi>
 3-7) -- Này các Tỷ-kheo, sắc là vô ngã…, thọ là vô ngã…, tưởng là vô
 ngã…, các hành là vô ngã…, thức là vô ngã…
 
@@ -25577,7 +24768,6 @@ ngã…, các hành là vô ngã…, thức là vô ngã…
 ]
 
 === IV. Cái Gì Vô Thường
-<iv.-cái-gì-vô-thường>
 \(Tạp 1.9, Vô Thường, Ðại 2,2a) (S.iii,22) 1-2) Nhân duyên ở Sàvatthi…
 
 3)-- Sắc,này các Tỷ-kheo, là vô thường; cái gì vô thường là khổ; cái gì
@@ -25606,7 +24796,6 @@ phải tự ngã của tôi".
 ]
 
 === V. Cái Gì Khổ
-<v.-cái-gì-khổ>
 \(Tạp 1.10 Vô Thường. Ðại 2,2a) (S.iii,22) 1-2) Nhân duyên tại Sàvatthi…
 
 #block[
@@ -25635,7 +24824,6 @@ phải là tôi; cái này không phải tự ngã của tôi”.
 ]
 
 === VI. Cái Gì Vô Ngã (S.iii,22) 1-2) Nhân duyên ở Sàvatthi…
-<vi.-cái-gì-vô-ngã-s.iii22-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, là vô ngã. Cái gì vô ngã; cần phải như thật
@@ -25653,7 +24841,6 @@ phải là tôi; cái này không phải tự ngã của tôi”.
 ]
 
 === VII. Có Nhân Là Vô Thường (Tạp 1.11 Nhân. Ðại 2,2a) (S.iii,23) 1-2) Nhân duyên ở Sàvatthi…
-<vii.-có-nhân-là-vô-thường-tạp-1.11-nhân.-ðại-22a-s.iii23-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì là nhân, cái gì là duyên
@@ -25686,7 +24873,6 @@ làm cho sanh khởi, này các Tỷ-kheo, từ đâu có thể thường đư�
 ]
 
 === VIII. Có Nhân Là Khổ (Tạp 1.12 Nhân. Ðại 2,2b) (S.iii,23) 1-2) Nhân duyên ở Sàvatthi…
-<viii.-có-nhân-là-khổ-tạp-1.12-nhân.-ðại-22b-s.iii23-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, là khổ. Cái gì là nhân, cái gì là duyên cho
@@ -25708,7 +24894,6 @@ làm cho sanh khởi, này các Tỷ-kheo, từ đâu có thể thường đư�
 ]
 
 === IX. Có Nhân Là Vô Ngã (S.iii,23) 1-2) Nhân duyên ở Sàvatthi…
-<ix.-có-nhân-là-vô-ngã-s.iii23-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, là vô ngã. Cái gì là nhân, cái gì là duyên
@@ -25729,7 +24914,6 @@ làm cho sanh khởi, này các Tỷ-kheo, từ đâu có thể thường đư�
 ]
 
 === X. Ananda (S.iii,24)
-<x.-ananda-s.iii24>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Ở tại Sàvatthi… trong vườn…
@@ -25769,9 +24953,7 @@ thường…
 #divider()
 
 === III. Phẩm Gánh Nặng
-<iii.-phẩm-gánh-nặng-1>
 === I. Gánh Nặng
-<i.-gánh-nặng>
 \(Tạp, 2.3, Trọng Ðởm. Ðại 2,19a) (Tăng 25.4, Ðại 2,631c) (S.iii,25)
 1-2) Ở Sàvatthi…
 
@@ -25811,7 +24993,6 @@ dòng họ như thế này. Này các Tỷ-kheo, đây gọi là kẻ mang gánh
 ]
 
 === II. Liễu Tri (Parinna) (Tạp 3.22 Trì Pháp. Ðại 2,19a)
-<ii.-liễu-tri-parinna-tạp-3.22-trì-pháp.-ðại-219a>
 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -25831,7 +25012,6 @@ dòng họ như thế này. Này các Tỷ-kheo, đây gọi là kẻ mang gánh
 ]
 
 === III. Thắng Tri (Tạp 1.3, Vô Tri. Ðại 2,1a) (S.iii,27) 1-2) Nhân duyên tại Sàvatthi…
-<iii.-thắng-tri-tạp-1.3-vô-tri.-ðại-21a-s.iii27-1-2-nhân-duyên-tại-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, do không thắng tri sắc, không liễu tri, không ly
@@ -25852,7 +25032,6 @@ dòng họ như thế này. Này các Tỷ-kheo, đây gọi là kẻ mang gánh
 ]
 
 === IV. Dục Tham (Tạp 3.27 Tham, Ðại 2,19c) (S.iii,27) 1-2) Nhân duyên ở Sàvatthi…
-<iv.-dục-tham-tạp-3.27-tham-ðại-219c-s.iii27-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Dục và tham (chandaràga) đối với sắc, này các Tỷ-kheo, hãy từ bỏ
@@ -25878,7 +25057,6 @@ làm cho không thể tái sanh, không thể sanh khởi trong tương lai.
 ]
 
 === V. Vị Ngọt (Tạp 1.14, Vị, Ðại 2,2c) (S.iii,27) 1-2) Nhân duyên ở Sàvatthi…
-<v.-vị-ngọt-tạp-1.14-vị-ðại-22c-s.iii27-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, trước khi Ta giác ngộ, chưa chứng Chánh Ðẳng Giác,
@@ -25939,7 +25117,6 @@ quần chúng Sa-môn, Bà-la-môn, chư Thiên và loài Người.
 ]
 
 === VI. Vị Ngọt (S.iii,29) 1-2) Nhân duyên ở Sàvatthi…
-<vi.-vị-ngọt-s.iii29-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta đã đi tìm cầu vị ngọt của sắc. Vị ngọt của sắc
@@ -25981,7 +25158,6 @@ Tỷ-kheo, Ta đã đi tìm cầu vị ngọt của tưởng… 12-14) Này các
 ]
 
 === VII. Vị Ngọt
-<vii.-vị-ngọt>
 \(Tạp 1.13 Vị, Ðại 2,2bb) (S.iii,29) 1-2) Nhân duyên tại Sàvatthi…
 
 #block[
@@ -26039,7 +25215,6 @@ thoát sự liên hệ, giải thoát, với tâm tự tại.
 ]
 
 === VIII. Hoan Hỷ
-<viii.-hoan-hỷ>
 \(Tạp 1.7, Ư Sắc Hỷ Lạc, Ðại 2,1c)(Tạp 1.5, Ðại 2,1b) (S.iii,31) 1-2)
 Nhân duyên ở Sàvatthi…
 
@@ -26071,7 +25246,6 @@ Nhân duyên ở Sàvatthi…
 ]
 
 === IX. Sanh Khởi (Tạp 3.28 Sanh, Ðại 2,20a) (S.iii,31)
-<ix.-sanh-khởi-tạp-3.28-sanh-ðại-220a-s.iii31>
 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -26098,7 +25272,6 @@ hành đoạn diệt…
 ]
 
 === X. Cội Gốc Của Ðau Khổ (S.iii,32) 1-2) Nhân duyên ở Sàvatthi…
-<x.-cội-gốc-của-ðau-khổ-s.iii32-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết về đau khổ và cội gốc của đau khổ.
@@ -26118,7 +25291,6 @@ hành là đau khổ; thức là đau khổ. Ðây, này các Tỷ-kheo, gọi l
 ]
 
 === XI. Hoại Pháp (Tạp 2,19, Hoại Pháp, Ðại 2,12b) (S.iii,32) 1-2) Nhân duyên ở Sàvatthi…
-<xi.-hoại-pháp-tạp-219-hoại-pháp-ðại-212b-s.iii32-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Và này các Tỷ-kheo, Ta sẽ thuyết về hoại pháp và bất hoại pháp. Hãy
@@ -26140,9 +25312,7 @@ hành là đau khổ; thức là đau khổ. Ðây, này các Tỷ-kheo, gọi l
 ]
 
 === IV. Phẩm Không Phải Của Các Ông
-<iv.-phẩm-không-phải-của-các-ông>
 === I. Không Phải Của Các Ông
-<i.-không-phải-của-các-ông>
 \(Tạp 10.14 Kỳ Lâm, Ðại 2,10b) (S.iii,33) 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -26186,7 +25356,6 @@ Thức không phải của các Ông, hãy từ bỏ nó. Từ bỏ nó sẽ đ�
 phúc, an lạc cho các Ông.
 
 === II. Không Phải Của Các Ông (S.iii,34) 1-2) Nhân duyên ở Sàavatthi…
-<ii.-không-phải-của-các-ông-s.iii34-1-2-nhân-duyên-ở-sàavatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Cái gì không phải của các Ông, này các Tỷ-kheo, hãy từ bỏ nó. Từ bỏ
@@ -26204,7 +25373,6 @@ phúc, an lạc cho các Ông.
 ]
 
 === III. Tỷ Kheo (S.iii,35)
-<iii.-tỷ-kheo-s.iii35>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi. \[I\]
@@ -26266,7 +25434,6 @@ phúc, an lạc cho các Ông.
 ]
 
 === IV. Vị Tỷ Kheo (S.iii,37)
-<iv.-vị-tỷ-kheo-s.iii37>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -26343,7 +25510,6 @@ rãi như vậy.
 ]
 
 === V. Ananda (S.iii,37) 1-2) Nhân duyên ở Sàvatthi…
-<v.-ananda-s.iii37-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Thế Tôn nói với Tôn giả Ananda đang ngồi một bên:
@@ -26383,7 +25549,6 @@ tồn tại, sự biến đổi được thấy rõ. Ðược hỏi vậy, Này 
 trả lời như vậy.
 
 === VI. Ananda (S.iii,38) 1-2) Nhân duyên ở Sàvatthi…
-<vi.-ananda-s.iii38-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này Ananda, nếu Ông được hỏi như sau: “Trong những pháp nào, này
@@ -26489,7 +25654,6 @@ rõ, trong khi tồn tại, sự biến đổi được thấy rõ. Ðược h�
 Ananda, Ông cần phải trả lời như vậy.
 
 === VII. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàavatthi…
-<vii.-tùy-pháp-s.iii41-1-2-nhân-duyên-ở-sàavatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
@@ -26512,16 +25676,13 @@ nhiều yếm ly; đối với thức, vị ấy sống nhiều yếm ly.
 ]
 
 === VIII. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàvatthi… 3-5) -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
-<viii.-tùy-pháp-s.iii41-1-2-nhân-duyên-ở-sàvatthi-3-5-ðối-với-vị-tỷ-kheo-thực-hành-pháp-và-tùy-pháp-tùy-pháp-này-có-mặt>
 Vị ấy sống tùy quán vô thường trong sắc… Ta nói vị ấy giải thoát khỏi
 đau khổ.
 
 === IX. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàvatthi… 3-5) -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
-<ix.-tùy-pháp-s.iii41-1-2-nhân-duyên-ở-sàvatthi-3-5-ðối-với-vị-tỷ-kheo-thực-hành-pháp-và-tùy-pháp-tùy-pháp-này-có-mặt>
 Vị ấy sống tùy quán khổ trong sắc… Ta nói vị ấy giải thoát khỏi đau khổ.
 
 === X. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàvatthi…
-<x.-tùy-pháp-s.iii41-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
@@ -26542,7 +25703,6 @@ Vị ấy sống tùy quán khổ trong sắc… Ta nói vị ấy giải thoát
 V. Phẩm Tự Mình Làm Hòn Ðảo.
 
 === I. Tự Mình Làm Hòn Ðảo (Ðại 2,8a) (S.iii,42) 1-2) Nhân duyên ở Sàvatthi…
-<i.-tự-mình-làm-hòn-ðảo-ðại-28a-s.iii42-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Hãy sống tự mình làm hòn đảo cho chính mình, này các Tỷ-kheo, hãy
@@ -26621,7 +25781,6 @@ sống an lạc. Do sống an lạc, vị Tỷ-kheo được gọi là vị đã
 tướng phần, nhứt hướng Niết-bàn..
 
 === II. Con Ðường (Ðại 2,8a) (S.iii,44) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-con-ðường-ðại-28a-s.iii44-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ giảng cho các Ông con đường đưa đến thân
@@ -26668,7 +25827,6 @@ các hành…
 ]
 
 === III. Vô Thường (Tạp 3,35, Thanh Tịnh, Ðại 2,21c) (S.iii,44) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-vô-thường-tạp-335-thanh-tịnh-ðại-221c-s.iii44-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì vô thường là khổ. Cái gì
@@ -26700,7 +25858,6 @@ mình tịch tịnh. Vị ấy biết: ” Sanh đã tận, Phạm hạnh đã t
 việc nên làm đã làm, không còn trở lui trạng thái này nữa”.
 
 === IV. Vô Thường (Tạp 3,36, Chánh Quán Sát, Ðại 2,21c) (S.iii,45) 1-2) Nhân duyên ở Sàvatthi…
-<iv.-vô-thường-tạp-336-chánh-quán-sát-ðại-221c-s.iii45-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì vô thường là khổ. Cái gì
@@ -26732,7 +25889,6 @@ thường…
 ]
 
 === V. Quán Kiến (Tạp 2,13, Giác, Ðại 2,11b) (S.iii,46) 1-2) Nhân duyên ở Sàvatthi…
-<v.-quán-kiến-tạp-213-giác-ðại-211b-s.iii46-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào quán tự ngã dưới
@@ -26783,7 +25939,6 @@ sắc”… "Tôi sẽ hiện hữu với tưởng"… "Tôi sẽ hiện hữu v
 đi đến chấp kiến: "Tôi sẽ hiện hữu với phi tưởng phi phi tưởng".
 
 === VI. Các Uẩn (Tạp 2,23 Ấm, Ðại 2,13b) (S.iii,47) 1-2) Nhân duyên ở Sàvatthi…
-<vi.-các-uẩn-tạp-223-ấm-ðại-213b-s.iii47-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ giảng năm uẩn và năm thủ uẩn, hãy lắng nghe…
@@ -26825,7 +25980,6 @@ hành gì…
 ]
 
 === VII. Sona (Tạp 1,20, Thu-lữ-na, Ðại 2,6a) (S.iii,48)
-<vii.-sona-tạp-120-thu-lữ-na-ðại-26a-s.iii48>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -26936,7 +26090,6 @@ này không phải là tôi, cái này không phải tự ngã của tôi".
 ]
 
 === VIII. Sona
-<viii.-sona>
 \(Tạp 1,31, Thu-lữ-na, Ðại 2,6c) (S.iii,50)
 
 #block[
@@ -26978,7 +26131,6 @@ ngay trong đời sống hiện tại, còn tự mình chứng tri với thắng
 đạt và an trú mục đích của Sa-môn hạnh hay mục đích của Bà-la-môn hạnh.
 
 === IX. Hỷ Ðược Ðoạn Tận (S.iii,51) 1-2) Nhân duyên ở Sàvatthi…
-<ix.-hỷ-ðược-ðoạn-tận-s.iii51-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, khi một Tỷ- kheo thấy sắc vô thường là vô thường;
@@ -26997,7 +26149,6 @@ ngay trong đời sống hiện tại, còn tự mình chứng tri với thắng
 thoát, vị ấy được gọi là vị đã được khéo giải thoát.
 
 === X. Hỷ Ðược Ðoạn Tận (S.iii,52) 1-2) Nhân duyên ở Sàvatthi…
-<x.-hỷ-ðược-ðoạn-tận-s.iii52-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Hãy như lý tác ý sắc, này các Tỷ- kheo, hãy như thật quán
@@ -27019,11 +26170,8 @@ thoát, vị ấy được gọi là vị đã được khéo giải thoát.
 #divider()
 
 === B. Năm Mươi Kinh Ở Giữa
-<b.-năm-mươi-kinh-ở-giữa-1>
 === I. Phẩm Tham Luyến
-<i.-phẩm-tham-luyến-1>
 === I. Tham Luyến (Tạp 2, Ðại 2,9a) (S.iii,53)
-<i.-tham-luyến-tạp-2-ðại-29a-s.iii53>
 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -27063,7 +26211,6 @@ tịnh hoàn toàn. Vị ấy biết: "Sanh đã tận, Phạm hạnh đã thàn
 nên làm đã làm, không còn trở lui trạng thái này nữa".
 
 === II. Chủng Tử (Tạp 2, Ðại 2,8c) (S.iii,54) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-chủng-tử-tạp-2-ðại-28c-s.iii54-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có năm loại chủng tử. Thế nào là năm? Chủng tử từ
@@ -27134,7 +26281,6 @@ do không có ưu não nên tự mình cảm thấy tịch tịnh hoàn toàn. V
 trở lui trạng thái này nữa".
 
 === III. Lời Cảm Hứng (Tạp 2, Ðại 2,16c) (S.iii,55)
-<iii.-lời-cảm-hứng-tạp-2-ðại-216c-s.iii55>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -27281,7 +26427,6 @@ tìm hỷ, đi đến tăng trưởng, tăng thịnh, lớn mạnh.
 ]
 
 === IV. Thủ Chuyển (Tạp 2, Ðại 2,9b) (S.iii,58) 1-2) Nhân duyên ở Sàvatthi…
-<iv.-thủ-chuyển-tạp-2-ðại-29b-s.iii58-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn,
@@ -27412,7 +26557,6 @@ tức là chánh tri kiến, chánh tư duy… chánh định.
 ]
 
 === V. Bảy Xứ (Sattatthàna) (Tạp 2, Ðại 2,10a; 498c; 875b) (Tăng 35, Ðại 2,754b) (S.iii,61) 1-2) Nhân duyên ở Sàvatthi…
-<v.-bảy-xứ-sattatthàna-tạp-2-ðại-210a-498c-875b-tăng-35-ðại-2754b-s.iii61-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Vị Tỷ-kheo thiện xảo trong bảy xứ, này các Tỷ-kheo, quán sát theo
@@ -27579,7 +26723,6 @@ toàn, thời không thể nêu rõ sự luân chuyển của họ.
 ]
 
 === VI. Chánh Ðẳng Giác. (S.iii,54)
-<vi.-chánh-ðẳng-giác.-s.iii54>
 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -27645,7 +26788,6 @@ tục thành tựu (đạo).
 ]
 
 === VII. Năm Vị (Vô ngã tưởng) (Ðại 2,7c) (Luật tạng, Ðại phẩm q.1, từ trang 3) (S.iii,66)
-<vii.-năm-vị-vô-ngã-tưởng-ðại-27c-luật-tạng-ðại-phẩm-q.1-từ-trang-3-s.iii66>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Bàrànasi (Ba-la- nại), tại Isìpatana (Chư Tiên đọa
@@ -27774,7 +26916,6 @@ thành, những việc nên làm đã làm, không còn trở lui trạng thái 
 ]
 
 === VIII. Mahàli (Tạp 3,32, Phú-Lâu-Na, Ðại 2,20b)(Siii,68)
-<viii.-mahàli-tạp-332-phú-lâu-na-ðại-220bsiii68>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn trú ở Vesàli, trong rừng Ðại Lâm,
@@ -27876,7 +27017,6 @@ nhân, đây là duyên cho sự thanh tịnh của chúng sanh. Do có nhân nh
 do có duyên như vậy, chúng sanh được thanh tịnh.
 
 === IX. Lửa Cháy (S.iii,58) 1-2) Nhân duyên ở Sàvatthi…
-<ix.-lửa-cháy-s.iii58-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, đang bốc cháy; thọ đang bốc cháy; tưởng đang
@@ -27896,7 +27036,6 @@ thoát, trí khởi lên: "Ta đã được giải thoát".
 ]
 
 === X. Ngôn Lộ (S.iii,59) 1-2) Nhân duyên ở Sàvatthi…
-<x.-ngôn-lộ-s.iii59-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có ba loại này, ngôn lộ, danh ngôn lộ, thi thiết
@@ -27980,9 +27119,7 @@ xác nhận là "đã có", không được xác nhận là "sẽ có".
 #divider()
 
 === II. Phẩm A-La-Hán
-<ii.-phẩm-a-la-hán-1>
 === I. Chấp Trước (Tạp 1. Ðại 2,4b) (S.iii,73)
-<i.-chấp-trước-tạp-1.-ðại-24b-s.iii73>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -28050,7 +27187,6 @@ tắt này của Thế Tôn, con hiểu ý nghĩa một cách rộng rãi như v
 ]
 
 === II. Suy Tưởng (S.iii,74) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-suy-tưởng-s.iii74-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Rồi một Tỷ-kheo… bạch Thế Tôn:
@@ -28091,7 +27227,6 @@ hiểu ý nghĩa một cách rộng rãi như vậy. 8-9) Rồi Tỷ-kheo ấy h
 thọ lời Thế Tôn dạy… Vị Tỷ-kheo ấy trở thành một vị A-la-hán nữa.
 
 === III. Hoan Hỷ (S.iii,75) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-hoan-hỷ-s.iii75-1-2-nhân-duyên-ở-sàvatthi>
 3). \.. Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp tóm tắt cho con… con
@@ -28134,7 +27269,6 @@ Tôn con đã hiểu ý nghĩa một cách rộng rãi như vậy.
 thành một vị A-la-hán nữa.
 
 === IV. Vô Thường (Tạp 1, Ðại 2,3b) (S.iii,76) 1-3) Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
-<iv.-vô-thường-tạp-1-ðại-23b-s.iii76-1-3-nhân-duyên-ở-sàvatthi.-rồi-một-tỷ-kheo-bạch-thế-tôn>
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con… con
 sẽ sống một mình, tịnh cư, không phóng dật, nhiệt tâm, tinh cần…
 
@@ -28167,7 +27301,6 @@ một cách rộng rãi như vậy. 8-9) Rồi Tỷ-kheo ấy hoan hỷ, tín th
 Tôn dạy… Tỷ-kheo ấy trở thành một vị A-la-hán nữa.
 
 === V. Khổ (S.iii,77) 1-3) Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
-<v.-khổ-s.iii77-1-3-nhân-duyên-ở-sàvatthi.-rồi-một-tỷ-kheo-bạch-thế-tôn>
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con… con
 sẽ sống một mình, tịnh cư, không phóng dật, nhiệt tâm, tinh cần.
 
@@ -28199,7 +27332,6 @@ phải hiểu ý nghĩa một cách rộng rãi như vậy. 8-9) Rồi Tỷ-kheo
 hỷ, tín thọ lời Thế Tôn dạy… Tỷ-kheo ấy trở thành một vị A-la-hán nữa.
 
 === VI. Vô Ngã (Tạp 1, Ðại 2,3b) (S.iii,77) 1-3) Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
-<vi.-vô-ngã-tạp-1-ðại-23b-s.iii77-1-3-nhân-duyên-ở-sàvatthi.-rồi-một-tỷ-kheo-bạch-thế-tôn>
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con… con
 
 sẽ sống một mình, tịnh cư, không phóng dật, nhiệt tâm, tinh cần.
@@ -28231,7 +27363,6 @@ sẽ sống một mình, tịnh cư, không phóng dật, nhiệt tâm, tinh c�
 ]
 
 === VII. Không Ðáng Thuộc Tự Ngã (Tạp 1, Ðại 2,3c) (S.iii,79)
-<vii.-không-ðáng-thuộc-tự-ngã-tạp-1-ðại-23c-s.iii79>
 1-3) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con….
@@ -28270,7 +27401,6 @@ của Thế Tôn, con hiểu ý nghĩa một cách rộng rãi như vậy.
 thành một vị A-la-hán nữa.
 
 === VIII. Chỉ Trú Cho Ô Nhiễm (Tạp 1, Ðại 2,4a) (S.iii,79) 1-2) Nhân duyên ở Sàvatthi…
-<viii.-chỉ-trú-cho-ô-nhiễm-tạp-1-ðại-24a-s.iii79-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
@@ -28310,7 +27440,6 @@ Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy… Tỷ-kheo ấy tr
 A-la-hán nữa!
 
 === IX. Ràdha (Tạp 6, Ðại 2,37c) (S.iii,79)
-<ix.-ràdha-tạp-6-ðại-237c-s.iii79>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi. 2-3) Rồi Tôn giả Ràdha đi đến Thế Tôn sau khi
@@ -28353,7 +27482,6 @@ cái này không phải là tôi, cái này không phải tự ngã của tôi".
 10). \.. Tôn giả Ràdha trở thành một vị A-la-hán nữa.
 
 === X. Suràdha (S.iii,80)
-<x.-suràdha-s.iii80>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi. 2-3). \.. Rồi Tôn giả Suràdha bạch Thế Tôn:
@@ -28393,9 +27521,7 @@ thủ.
 #divider()
 
 === III. Phẩm Những Gì Ðược Ăn
-<iii.-phẩm-những-gì-ðược-ăn-1>
 === I. Vị Ngọt (S.iii,81) 1-2) Nhân duyên ở Sàvatthi…
-<i.-vị-ngọt-s.iii81-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, kẻ vô văn phàm phu không như thật biết rõ vị ngọt,
@@ -28409,7 +27535,6 @@ thủ.
 ]
 
 === II. Tập Khởi (S.iii,82) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-tập-khởi-s.iii82-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, kẻ vô văn phàm phu không như thật biết rõ sự tập
@@ -28432,7 +27557,6 @@ thủ.
 ]
 
 === III. Tập Khởi (S.iii,82) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-tập-khởi-s.iii82-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, bậc Ða văn Thánh đệ tử như thật biết rõ sự tập
@@ -28444,7 +27568,6 @@ thủ.
 ]
 
 === IV. Các Vị A-La-Hán (S.iii,83) 1-2) Nhân duyên ở Sàvatthi…
-<iv.-các-vị-a-la-hán-s.iii83-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, sắc là vô thường. Cái gì vô thường là khổ. Cái gì
@@ -28506,7 +27629,6 @@ thượng, những bậc ấy là tối thắng ở trong đời, tức là các
 ]
 
 === V. Các Vị A-La-Hán (S.iii,84) 1-2) Nhân duyên ở Sàvatthi…
-<v.-các-vị-a-la-hán-s.iii84-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì vô thường là khổ. Cái gì
@@ -28529,7 +27651,6 @@ thượng, những bậc ấy là tối thắng ở trong đời, tức là các
 ]
 
 === VI. Sư Tử (S.iii,85)
-<vi.-sư-tử-s.iii85>
 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -28600,7 +27721,6 @@ bị thâu nhiếp trong một thân này”.
 ]
 
 === VII. Ðáng Ðược Ăn (Tạp 2, Ðại 2,11) (S.iii,86) 1-2) Nhân duyên ở Sàvatthi…
-<vii.-ðáng-ðược-ăn-tạp-2-ðại-211-s.iii86-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào có nhớ đến các đời
@@ -28807,7 +27927,6 @@ tưởng… các hành… không từ bỏ, không chấp thủ thức.
 ]
 
 === VIII. Người Khất Thực (Tạp 10, Ðại 2,71c) (Trung 34, Ðại 1,647a) (S.iii,91)
-<viii.-người-khất-thực-tạp-10-ðại-271c-trung-34-ðại-1647a-s.iii91>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở giữa dân chúng Sakka, tại Kapilavatthu (Ca-tỳ-
@@ -28974,7 +28093,6 @@ này các Tỷ-kheo, thấy
 vậy… Vị ấy biết: "… không còn trở lui trạng thái này nữa".
 
 === IX. Pàrileyya (Tạp 2, Ðại 2,13c) (S.iii,94)
-<ix.-pàrileyya-tạp-2-ðại-213c-s.iii94>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Kosambi, tại vườn Ghosita.
@@ -29188,7 +28306,6 @@ sanh.
 ]
 
 === X. Trăng Rằm
-<x.-trăng-rằm>
 \(Tạp 2, Ðại 2,14b) (S.iii,100) (Trung Bộ Kinh, trang 109, 110 Tham
 chiếu)
 
@@ -29415,9 +28532,7 @@ thái này nữa".
 #divider()
 
 === IV. Phẩm Trưởng Lão
-<iv.-phẩm-trưởng-lão-1>
 === I. Ananda (Tạp 10, Ðại 2,66a) (S.iii,105)
-<i.-ananda-tạp-10-ðại-266a-s.iii105>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Tôn giả Ananda ở Sàvatthi, tại Jetavana,
@@ -29474,7 +28589,6 @@ trở lui trạng thái này nữa".
 ]
 
 === II. Tissa (Tạp 10, Ðại 2,71a) (S.iii,106)
-<ii.-tissa-tạp-10-ðại-271a-s.iii106>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -29649,7 +28763,6 @@ Tám ngành, tức là chánh tri kiến… chánh định.
 ]
 
 === III. Yamaka
-<iii.-yamaka>
 \(Tạp 5, Ðại 2,30c) (S.iii,109)
 
 #block[
@@ -29972,7 +29085,6 @@ gian dài.
 ]
 
 === IV. Anuràdha (Tạp 5, Ðại 2,32c) (S.iii,116)
-<iv.-anuràdha-tạp-5-ðại-232c-s.iii116>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe. Một thời Thế Tôn ở Vesàli, Ðại Lâm, tại Trùng Các
@@ -30165,7 +29277,6 @@ tại và không không tồn tại sau khi chết' “?
 ]
 
 === V. Vakkàli (Tạp 47, Ðại 2,346b) (Tăng 19, Ðại 2,642b) (S.iii,119)
-<v.-vakkàli-tạp-47-ðại-2346b-tăng-19-ðại-2642b-s.iii119>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Như vầy tôi nghe.
@@ -30469,7 +29580,6 @@ về phía Ðông… đi về phía bốn góc không?
 ]
 
 === VI. Assaji (Tạp 27, Ðại 2,267b) (S.iii,124)
-<vi.-assaji-tạp-27-ðại-2267b-s.iii124>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), tại chỗ
@@ -30591,7 +29701,6 @@ vậy… "… không còn trở lui trạng thái này nữa". Vị ấy biết 
 ]
 
 === VII. Khemaka
-<vii.-khemaka>
 \(Tạp 5, Ðại 2,29c) (S.iii,126)
 
 #block[
@@ -30856,7 +29965,6 @@ triển, phân tích, hiển lộ một cách rộng rãi giáo lý của Thế 
 ]
 
 === VIII. Channa (Tạp 10, Ðại 2,66b) (S.iii,132)
-<viii.-channa-tạp-10-ðại-266b-s.iii132>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, nhiều Tỷ-kheo Trưởng lão trú ở Bàrànasi, Isipatana, vườn Lộc
@@ -31008,7 +30116,6 @@ Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này”.
 ]
 
 === IX. Ràhula (Tạp 1, Ðại 2,5a) (S.iii, 136)
-<ix.-ràhula-tạp-1-ðại-25a-s.iii-136>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -31045,7 +30152,6 @@ không phải tự ngã của tôi".
 ]
 
 === X. Ràhula 1-2) Nhân duyên ở Sàvatthi…
-<x.-ràhula-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràhula bạch Thế Tôn:
@@ -31085,9 +30191,7 @@ thoát.
 #divider()
 
 === V. Phẩm Hoa
-<v.-phẩm-hoa-1>
 === I. Dòng Sông (Tạp 10, Ðại 2,70a) (S.iii,137) 1-2) Nhân duyên ở Sàvatthi…
-<i.-dòng-sông-tạp-10-ðại-270a-s.iii137-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Ví như, này các Tỷ-kheo, một con sông từ núi cao chảy xuống, từ xa
@@ -31138,7 +30242,6 @@ thường hay vô thường?
 lui trạng thái này nữa". Vị ấy biết rõ như vậy.
 
 === II. Bông Hoa (hay Tăng trưởng) (Tạp 2, Ðại 2,8b) (Siii,113) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-bông-hoa-hay-tăng-trưởng-tạp-2-ðại-28b-siii113-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta không tranh luận với đời, chỉ có đời tranh luận
@@ -31234,7 +30337,6 @@ thấy.
 ]
 
 === III. Bọt Nước (Tạp 10, Ðại 2,86b) (S.iii,114)
-<iii.-bọt-nước-tạp-10-ðại-286b-s.iii114>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Ayujjàya, trên bờ sông Hằng.
@@ -31373,7 +30475,6 @@ ra là không có lõi cứng. Làm sao, này các Tỷ-kheo, lại có lõi c�
 #divider()
 
 === IV. Phân Bò (Tạp 10, Ðại 2,67c) (Trang 11, Ðại 1,496a) (Trang 34, Ðại 1,645a) (S.iii,143) 1-2) Nhân duyên ở Sàvatthi…
-<iv.-phân-bò-tạp-10-ðại-267c-trang-11-ðại-1496a-trang-34-ðại-1645a-s.iii143-1-2-nhân-duyên-ở-sàvatthi>
 3-4) Sau khi ngồi, vị Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Bạch Thế Tôn, có thể có sắc nào, sắc ấy là thường còn, thường hằng,
@@ -31580,7 +30681,6 @@ dĩa bàn thứ hai, Ta dùng để ăn đồ ăn tương đương.
 ]
 
 === V. Ðầu Ngón Tay (Tăng 14, Ðại 2,617b) (S.iii,147) 1-2) Nhân duyên ở Sàvatthi…
-<v.-ðầu-ngón-tay-tăng-14-ðại-2617b-s.iii147-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Sau khi ngồi, vị Tỷ-kheo ấy bạch Thế Tôn:
@@ -31657,7 +30757,6 @@ trình bày.
 lui trạng thái này nữa". Vị ấy biết rõ như vậy.
 
 === VI. Thanh Tịnh (hay Biển) (Tạp 18, Ðại 2,69c) (S.iii,149) 1-2) Nhân duyên ở Sàvatthi…
-<vi.-thanh-tịnh-hay-biển-tạp-18-ðại-269c-s.iii149-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi một bên, Tỷ-kheo ấy bạch Thế Tôn:
@@ -31680,7 +30779,6 @@ thường hằng, vĩnh trú không?
 ]
 
 === VII. Dây Thằng
-<vii.-dây-thằng>
 \(Hay Dây Buộc) (Tạp 10, Ðại 2,69b) (S.iii,149) 1-2) Nhân duyên ở
 Sàvatthi…
 
@@ -31744,7 +30842,6 @@ thoát khỏi thức, được giải thoát khỏi sanh, già chết, sầu, bi
 não. Ta nói: "Vị ấy được giải thoát khỏi đau khổ".
 
 === VIII. Dây Thằng (Hay Dây Buộc) (Tạp 10, Ðại 2,69c) (S.iii,151) 1-2) Nhân duyên ở Sàvatthi…
-<viii.-dây-thằng-hay-dây-buộc-tạp-10-ðại-269c-s.iii151-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Vô thỉ, này các Tỷ-kheo, là sự luân hồi này. Ðiểm bắt đầu không thể
@@ -31828,7 +30925,6 @@ liên tục làm cho hiện hữu thức.
 "… không còn trở lui trạng thái này nữa". Vị ấy biết rõ như vậy.
 
 === IX. Cán Búa (Hay Chiếc Thuyền) (Tạp 10, Ðại 2,67a) (S.iii,152) 1-2) Nhân duyên ở Sàvatthi…
-<ix.-cán-búa-hay-chiếc-thuyền-tạp-10-ðại-267a-s.iii152-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Do biết, do thấy, này các Tỷ-kheo, Ta tuyên bố sự đoạn tận các lậu
@@ -31952,7 +31048,6 @@ búa bị hao mòn trên sự hao mòn của cán búa.
 ]
 
 === X. Vô Thường Tánh (Hay Tưởng) (Tạp 10, Ðại 2,70c) (S.iii,155) 1-2) Nhân duyên ở Sàvatthi…
-<x.-vô-thường-tánh-hay-tưởng-tạp-10-ðại-270c-s.iii155-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Do tu tập, làm cho sung mãn vô thường tưởng, tất cả dục tham được
@@ -32040,11 +31135,8 @@ tất cả ngã mạn được tận trừ.
 #divider()
 
 === C. Năm Mươi Kinh Sau
-<c.-năm-mươi-kinh-sau-1>
 === I. Phẩm Biên
-<i.-phẩm-biên-1>
 === I. Biên Kinh (Tạp 3, Ðại 2,18b) (S.iii,157) 1-2) Nhân duyên ở Sàvatthi…
-<i.-biên-kinh-tạp-3-ðại-218b-s.iii157-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Có bốn biên này, này các Tỷ- kheo. Thế nào là bốn? Hữu thân biên,
@@ -32077,7 +31169,6 @@ là năm thủ uẩn.
 ]
 
 === II. Khổ (S.iii,158) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-khổ-s.iii158-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về Khổ, Khổ tập khởi, Khổ
@@ -32106,7 +31197,6 @@ thủ uẩn. Ðây gọi là Khổ, này các Tỷ- kheo.
 Tỷ-kheo, đây gọi là Con đường đưa đến khổ đoạn diệt.
 
 === III. Hữu Thân (Tạp 3, Ðại 2,18b) (S.iii,159) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-hữu-thân-tạp-3-ðại-218b-s.iii159-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ giảng cho các Ông về hữu thân, hữu thân tập
@@ -32132,7 +31222,6 @@ Tỷ-kheo, đây gọi là Con đường đưa đến khổ đoạn diệt.
 ]
 
 === IV. Sở Biến Tri (Tạp 3, Ðại 2,19a) (S.iii,159)
-<iv.-sở-biến-tri-tạp-3-ðại-219a-s.iii159>
 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -32156,7 +31245,6 @@ bậc A-la-hán. Bậc Tôn giả này, với tên như vậy, với dòng họ 
 các Tỷ-kheo, đây gọi là con người đã biến tri.
 
 === V. Các Sa Môn (S.iii,160) 1-2) Nhân duyên ở Sàvatthi…
-<v.-các-sa-môn-s.iii160-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Có năm thủ uẩn, này các Tỷ-kheo. Thế nào là năm? Tức là sắc thủ
@@ -32168,7 +31256,6 @@ các Tỷ-kheo, đây gọi là con người đã biến tri.
 ]
 
 === VI. Các Sa Môn (S.iii,160)
-<vi.-các-sa-môn-s.iii160>
 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -32182,7 +31269,6 @@ các Tỷ-kheo, đây gọi là con người đã biến tri.
 ]
 
 === VII. Dự Lưu (S.iii,160) 1-2) Nhân duyên ở Sàvatthi…
-<vii.-dự-lưu-s.iii160-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có năm thủ uẩn này. Thế nào năm? Tức là sắc thủ
@@ -32196,7 +31282,6 @@ các Tỷ-kheo, đây gọi là con người đã biến tri.
 ]
 
 === VIII. A-La-Hán (S.iii,161) 1-2) Nhân duyên ở Sàvatthi…
-<viii.-a-la-hán-s.iii161-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có năm thủ uẩn này. Thế nào là năm? Tức là sắc thủ
@@ -32213,7 +31298,6 @@ làm đã làm, đã đặt gánh nặng xuống, đã đạt được mục đ�
 được đoạn tận, được giải thoát nhờ chánh trí.
 
 === IX. Dục Ðược Ðoạn Trừ (S.iii,161) 1-2) Nhân duyên ở Sàvatthi…
-<ix.-dục-ðược-ðoạn-trừ-s.iii161-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, phàm có dục nào, tham nào, hỷ nào, khát ái nào đối
@@ -32233,7 +31317,6 @@ làm đã làm, đã đặt gánh nặng xuống, đã đạt được mục đ�
 ]
 
 === X. Dục Ðược Ðoạn Trừ (S.iii,161) 1-2) Nhân duyên ở Sàvatthi…
-<x.-dục-ðược-ðoạn-trừ-s.iii161-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, phàm có dục nào, tham nào, hỷ nào, khát ái nào,
@@ -32256,9 +31339,7 @@ với tưởng… đối với các hành…
 #divider()
 
 === II. Phẩm Thuyết Pháp
-<ii.-phẩm-thuyết-pháp-1>
 === I. Vô Minh (Hay Vị Tỷ-kheo) (S.iii,162)
-<i.-vô-minh-hay-vị-tỷ-kheo-s.iii162>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -32284,7 +31365,6 @@ không biết rõ tưởng… không biết rõ các hành… không biết rõ 
 ]
 
 === II. Minh (Hay Vị Tỷ-kheo) (S.iii,163) 1-4) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, vị Tỷ-kheo ấy bạch
-<ii.-minh-hay-vị-tỷ-kheo-s.iii163-1-4-nhân-duyên-ở-sàvatthi-ngồi-xuống-một-bên-vị-tỷ-kheo-ấy-bạch>
 Thế Tôn:
 
 -- "Minh, minh", bạch Thế Tôn, như vậy được nói đến. Bạch Thế Tôn, như
@@ -32306,7 +31386,6 @@ khởi, biết rõ sắc đoạn diệt, biết rõ con đường đưa đến s
 ]
 
 === III. Vị Thuyết Pháp (Tập 3, Ðại 2,5c) (S.iii,163) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-vị-thuyết-pháp-tập-3-ðại-25c-s.iii163-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Sau khi ngồi xuống, Tỷ-kheo ấy bạch Thế Tôn:
@@ -32342,7 +31421,6 @@ với các hành…
 ]
 
 === IV. Vị Thuyết Pháp (S.iii,164)
-<iv.-vị-thuyết-pháp-s.iii164>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -32378,7 +31456,6 @@ thủ; như vậy là vừa đủ để được gọi là Tỷ- kheo đã đạ
 trong hiện tại.
 
 === V. Trói Buộc (Tạp 2, Ðại 2,19b) (S.iii,164) 1-2) Nhân duyên ở Sàvatthi…
-<v.-trói-buộc-tạp-2-ðại-219b-s.iii164-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Ở đây, này các Tỷ-kheo, kẻ vô văn phàm phu không thấy rõ các bậc
@@ -32429,7 +31506,6 @@ chết bị trói buộc, khi đi từ đời này qua đời khác bị trói b
 ]
 
 === VI. Gỉải Thoát (Tạp 2, Ðại 2,19c) (S.iii,165)
-<vi.-gỉải-thoát-tạp-2-ðại-219c-s.iii165>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -32465,7 +31541,6 @@ này không phải là tôi, cái này không phải tự ngã của tôi”.
 ]
 
 === VII. Gỉải Thoát (Tạp 2, Ðại 2,19c) (S.iii,166)
-<vii.-gỉải-thoát-tạp-2-ðại-219c-s.iii166>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -32500,7 +31575,6 @@ cái này không phải tự ngã của tôi".
 ]
 
 === VIII. Kiết Sử (S.iii,166) 1-2) Nhân duyên ở Sàvatthi…
-<viii.-kiết-sử-s.iii166-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về các pháp bị trói buộc
@@ -32518,7 +31592,6 @@ cái này không phải tự ngã của tôi".
 ]
 
 === IX. Chấp Thủ (S.iii,167) 1-2) Nhân duyên ở Sàvatthi…
-<ix.-chấp-thủ-s.iii167-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết giảng cho các Ông về các pháp bị chấp
@@ -32541,7 +31614,6 @@ cái này không phải tự ngã của tôi".
 ]
 
 === X. Vị Giữ Giới (Tạp 10, Ðại 2,65b) (S.iii,167)
-<x.-vị-giữ-giới-tạp-10-ðại-265b-s.iii167>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Sàriputta (Xá-lợi- phất) và Tôn giả Mahà Kotthika
@@ -32607,9 +31679,7 @@ thể chứng được quả A-la-hán.
 ]
 
 === XI. Vị Có Nghe (S.iii,169) (Hoàn toàn như kinh trước, chỉ thay thế vị có nghe cho vị giữ giới ).
-<xi.-vị-có-nghe-s.iii169-hoàn-toàn-như-kinh-trước-chỉ-thay-thế-vị-có-nghe-cho-vị-giữ-giới-.>
 === XII. Kappa (Tạp 1, Ðại 2,4c) (S.iii,169)
-<xii.-kappa-tạp-1-ðại-24c-s.iii169>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -32647,7 +31717,6 @@ phải là tôi, cái này không phải tự ngã của tôi”.
 ]
 
 === XIII. Kappa (S.iii,170)
-<xiii.-kappa-s.iii170>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -32688,9 +31757,7 @@ không có chấp thủ.
 #divider()
 
 === III. Phẩm Vô Minh
-<iii.-phẩm-vô-minh-1>
 === I. Tập Pháp (Tạp 10, Ðại 2,64b) (S.iii,171)
-<i.-tập-pháp-tạp-10-ðại-264b-s.iii171>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -32743,7 +31810,6 @@ bạch Thế Tôn? Cho đến như thế nào được gọi là minh?
 ]
 
 === II. Tập Pháp (S.iii,172)
-<ii.-tập-pháp-s.iii172>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Sàriputta và Tôn giả Mahà Kotthika trú ở Bàrànasi,
@@ -32759,7 +31825,6 @@ Thế nào là vô minh, thưa Hiền giả Sàruputta? Cho đến như thế n�
 gọi là vô minh? (… như kinh trên).
 
 === III. Tập Pháp (S.iii,173)
-<iii.-tập-pháp-s.iii173>
 1-2) Một thời, Tôn giả Sàriputta và Tôn giả Mahà Kotthika trú ở Bàrànasi
 (Ba-la-nại), Isipatana (Chư Tiên đọa xứ), tại vườn Lộc Uyển.
 
@@ -32773,7 +31838,6 @@ là minh, thưa Hiền giả Sàriputta? Cho đến như thế nào được g�
 (… như kinh trên).
 
 === IV. Vi Ngọt 1-2) Tại Bàrànasi, Isipatana, vườn Lộc Uyển…
-<iv.-vi-ngọt-1-2-tại-bàrànasi-isipatana-vườn-lộc-uyển>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Mahà Kotthika thưa với Tôn giả Sàriputta:
@@ -32794,7 +31858,6 @@ minh?
 ]
 
 === V. Vị Ngọt (S.iii,174) 1-2) Tại Bàrànasi, Isipatana, vườn Lộc Uyển…
-<v.-vị-ngọt-s.iii174-1-2-tại-bàrànasi-isipatana-vườn-lộc-uyển>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Minh, minh", này Hiền giả Sàriputta, được nói đến như vậy. Thế nào
@@ -32807,7 +31870,6 @@ minh?
 ]
 
 === VI. Tập Khởi (S.iii,174) 1-2) Bàrànasi, Isipatana, vườn Lộc Uyển…
-<vi.-tập-khởi-s.iii174-1-2-bàrànasi-isipatana-vườn-lộc-uyển>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Vô minh, vô minh", thưa Hiền giả Sàriputa, được nói đến là như
@@ -32826,7 +31888,6 @@ minh?
 ]
 
 === VII. Tập Khởi (S.iii,174) 1-2) Bàrànasi, Isipatana, vườn Lộc Uyển…
-<vii.-tập-khởi-s.iii174-1-2-bàrànasi-isipatana-vườn-lộc-uyển>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Mahà Kotthika thưa với Tôn giả Sàriputta:
@@ -32849,7 +31910,6 @@ là minh, thưa Hiền giả? Cho đến như thế nào được gọi là minh
 ]
 
 === VIII. Kotthika (S.iii,175)
-<viii.-kotthika-s.iii175>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Bàrànasi, Isipatana, Migadàya.
@@ -32891,7 +31951,6 @@ là minh, thưa Hiền giả? Cho đến như thế nào, được gọi là min
 ]
 
 === IX. Kotthika (S.iii,175)
-<ix.-kotthika-s.iii175>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … Bàrànasi, Isipatana, Migadàya. 2-3) -- "Vô minh, vô minh", thưa Hiền
@@ -32929,7 +31988,6 @@ nào là minh, thưa Hiền giả? Cho đến như thế nào được gọi là
 ]
 
 === X. Kotthika (S.iii,176) 1-2) Nhân duyên như trên.
-<x.-kotthika-s.iii176-1-2-nhân-duyên-như-trên.>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Sàriputta nói với Tôn giả Kotthika:
@@ -32973,9 +32031,7 @@ sắc đoạn diệt. 12-14) … thọ… tưởng… các hành…
 #divider()
 
 === IV. Phẩm Than Ðỏ
-<iv.-phẩm-than-ðỏ-1>
 === I. Than Ðỏ Hực (S.iii,177) 1-2) Nhân duyên ở Sàvatthi…
-<i.-than-ðỏ-hực-s.iii177-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Sắc là than đỏ, này các Tỷ-kheo! Thọ là than đỏ! Tưởng là than đỏ!
@@ -32992,7 +32048,6 @@ sắc đoạn diệt. 12-14) … thọ… tưởng… các hành…
 ]
 
 === II. Vô Thường (S.iii,177)
-<ii.-vô-thường-s.iii177>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -33013,14 +32068,11 @@ lòng dục. Này các Tỷ-kheo, cái gì là vô thường?
 ]
 
 === III. Vô Thường (Như kinh trên, chỉ khác là tham (ràga) thay thế cho dục (chanda).
-<iii.-vô-thường-như-kinh-trên-chỉ-khác-là-tham-ràga-thay-thế-cho-dục-chanda.>
 === IV. Vô Thường (Như kinh trên, chỉ khác là cả dục và tham ). V-VI-VII. Khổ (1,2,3)
-<iv.-vô-thường-như-kinh-trên-chỉ-khác-là-cả-dục-và-tham-.-v-vi-vii.-khổ-123>
 \(Như kinh trên, chỉ khác là khổ thay thế cho vô thường ). VIII-IX-X. Vô
 Ngã (1,2,3) (Như kinh trên, chỉ khác là vô ngã thay thế cho khổ ).
 
 === XI. Thiện Nam Tử Khổ (Tạp 2, Ðại 2,12a) (S.iii,179) 1-2) Nhân duyên ở Sàvatthi…
-<xi.-thiện-nam-tử-khổ-tạp-2-ðại-212a-s.iii179-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Ðối với vị thiện nam tử vì lòng tin xuất gia, này các Tỷ-kheo, đây
@@ -33044,13 +32096,9 @@ Ngã (1,2,3) (Như kinh trên, chỉ khác là vô ngã thay thế cho khổ ).
 ]
 
 === XII. Thiện Nam Tử Khổ (Như kinh trên, chỉ khác là "thấy vô thường" thay thế "sống nhàm chán").
-<xii.-thiện-nam-tử-khổ-như-kinh-trên-chỉ-khác-là-thấy-vô-thường-thay-thế-sống-nhàm-chán.>
 === XIII. Thiện Nam Tử Khổ (Như kinh trên, ở đây chỉ khác là "thấy vô ngã" ).
-<xiii.-thiện-nam-tử-khổ-như-kinh-trên-ở-đây-chỉ-khác-là-thấy-vô-ngã-.>
 === V. Phẩm Kiến
-<v.-phẩm-kiến-1>
 === I. Nội (Tạp 7, Ðại 2,43b) (S.iii,180) 1-2) Ở Sàvatthi…
-<i.-nội-tạp-7-ðại-243b-s.iii180-1-2-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, nội lạc, khổ
@@ -33100,7 +32148,6 @@ thời nội lạc, khổ có thể sanh khởi không?
 ]
 
 === II. Cái Này Là Của Tôi (Tạp 7, Ðại 2,43a) (S.iii,181) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-cái-này-là-của-tôi-tạp-7-ðại-243a-s.iii181-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, do có cái gì, do chấp thủ cái gì, do thiên chấp
@@ -33149,7 +32196,6 @@ tôi"?
 ]
 
 === III. Ngã (Tạp 7, Ðại 2,43c) (S.iii,182) 1-3) Nhân duyên ở Sàvatthi…
-<iii.-ngã-tạp-7-ðại-243c-s.iii182-1-3-nhân-duyên-ở-sàvatthi>
 -- Này các Tỷ-kheo, do có cái gì, do chấp thủ cái gì, do thiên chấp cái
 gì, tà kiến này khởi lên: "Cái này là ngã, cái này là thế giới, cái này
 sau khi chết sẽ thường còn, thường hằng, thường trú, không chịu sự biến
@@ -33204,7 +32250,6 @@ hoại"?
 ]
 
 === IV. Và Nếu Không Phải Của Tôi (S.iii,183)
-<iv.-và-nếu-không-phải-của-tôi-s.iii183>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -33260,7 +32305,6 @@ trở lui trạng thái này nữa".
 #divider()
 
 === V. Tà Kiến (S.iii,184) 1-3) Nhân duyên ở Sàvatthi…
-<v.-tà-kiến-s.iii184-1-3-nhân-duyên-ở-sàvatthi>
 -- Này các Tỷ-kheo, do có cái gì, do chấp thủ gì, do thiên chấp gì, tà
 kiến khởi lên?
 
@@ -33300,15 +32344,10 @@ khởi lên tà kiến không?
 trở lui trạng thái này nữa".
 
 === VI. Hữu Thân (Giống như kinh trước, chỉ thế "hữu thân" cho "tà kiến").
-<vi.-hữu-thân-giống-như-kinh-trước-chỉ-thế-hữu-thân-cho-tà-kiến.>
 === VII. Ngã Kiến (Giống như kinh trước, chỉ thế "ngã kiến" (attànuditthi) cho "hữu thân").
-<vii.-ngã-kiến-giống-như-kinh-trước-chỉ-thế-ngã-kiến-attànuditthi-cho-hữu-thân.>
 === VIII. Thiên Kiến (Giống như kinh trước, chỉ thế bị trói buộc, thiên chấp kiết sử cho ngã kiến).
-<viii.-thiên-kiến-giống-như-kinh-trước-chỉ-thế-bị-trói-buộc-thiên-chấp-kiết-sử-cho-ngã-kiến.>
 === IX. Thiên Kiến (Giống như kinh trước, chỉ thêm: Sự tham trước về sự trói buộc, thiên chấp các kiết sử).
-<ix.-thiên-kiến-giống-như-kinh-trước-chỉ-thêm-sự-tham-trước-về-sự-trói-buộc-thiên-chấp-các-kiết-sử.>
 === X. Ananda (S.iii,187)
-<x.-ananda-s.iii187>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -33355,9 +32394,7 @@ tôi"?
 #divider()
 
 == \[23\] Chương II - Tương Ưng Ràdha
-<chương-ii---tương-ưng-ràdha-1>
 === I. Màra (Tạp 6, Ðại 2,39b) (S.iii,188)
-<i.-màra-tạp-6-ðại-239b-s.iii188>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -33427,7 +32464,6 @@ của câu hỏi. Nhập vào Niết-bàn, này Ràdha, là sự thực hành Ph
 Niết-bàn là mục tiêu cuối cùng; Niết- bàn là cứu cánh.
 
 === II. Chúng Sanh (Tạp 6, Ðại 2,40a) (S.iii,189) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-chúng-sanh-tạp-6-ðại-240a-s.iii189-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
@@ -33478,7 +32514,6 @@ tưởng… các hành…
 ]
 
 === III. Sợi Dây Tái Sanh (Tạp 6, Ðại 2,37c) (S.iii,190) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-sợi-dây-tái-sanh-tạp-6-ðại-237c-s.iii190-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
@@ -33503,7 +32538,6 @@ Thế nào là sự đoạn diệt sợi dây tái sanh?
 đoạn diệt chúng là sự đoạn diệt sợi dây tái sanh.
 
 === IV. Sở Biến Tri (Tạp 6, Ðại 2,37c) (Parinneyya) (S.iii,191) 1-2) Nhân duyên ở Sàvatthi…
-<iv.-sở-biến-tri-tạp-6-ðại-237c-parinneyya-s.iii191-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
@@ -33538,7 +32572,6 @@ này Ràdha, là những pháp cần phải biến tri.
 Như vậy, này Ràdha, là người đã được chánh biến tri.
 
 === V. Sa Môn (S.iii,191) 1-2) Nhân duyên ở Sàvatthi… 3-4) Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
-<v.-sa-môn-s.iii191-1-2-nhân-duyên-ở-sàvatthi-3-4-thế-tôn-nói-với-tôn-giả-ràdha-đang-ngồi-một-bên>
 -- Này Ràdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ
 uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn.
 
@@ -33568,7 +32601,6 @@ hạnh.
 đích của Sa-môn hạnh và mục đích của Bà-la-môn hạnh.
 
 === VI. Sa Môn (S.iii,192) 1-3) Nhân duyên ở Sàvatthi…
-<vi.-sa-môn-s.iii192-1-3-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 4)
 + -- Này Ràdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ
@@ -33578,7 +32610,6 @@ hạnh.
 ]
 
 === VII. Bậc Dự Lưu (S.iii,192) 1-3) Nhân duyên ở Sàvatthi…
-<vii.-bậc-dự-lưu-s.iii192-1-3-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 4)
 + -- Này Ràdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn… thức
@@ -33591,7 +32622,6 @@ hạnh.
 ]
 
 === VIII. Bậc A-La-Hán (S.iii,192) 1-3) Nhân duyên ở Sàvatthi…
-<viii.-bậc-a-la-hán-s.iii192-1-3-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 4)
 + -- Này Rdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn… thức thủ
@@ -33608,7 +32638,6 @@ phải làm, đã đặt gánh nặng xuống, đã đạt được mục đích
 kiết sử, đã giải thoát nhờ chánh trí.
 
 === IX. Dục Tham (S.iii,193) 1-2) Nhân duyên ở Sàvatthi… 3-4) Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
-<ix.-dục-tham-s.iii193-1-2-nhân-duyên-ở-sàvatthi-3-4-thế-tôn-nói-với-tôn-giả-ràdha-đang-ngồi-một-bên>
 -- Này Ràdha, phàm có dục nào, tham nào, hỷ nào, khát ái nào đối với
 sắc, hãy từ bỏ chúng. Như vậy, sắc sẽ được đoạn tận, cắt đứt tận gốc rễ,
 làm cho như thân cây ta-la, làm cho không thể
@@ -33625,12 +32654,10 @@ với tưởng… đối với các hành…
 ]
 
 === X. Dục Tham (Siii, 193) (Như kinh trên, chỉ thêm vào: "Phàm có những chấp thủ phương tiện, tâm kiên trú, thiên chấp tùy miên").
-<x.-dục-tham-siii-193-như-kinh-trên-chỉ-thêm-vào-phàm-có-những-chấp-thủ-phương-tiện-tâm-kiên-trú-thiên-chấp-tùy-miên.>
 
 #divider()
 
 === I. Màra 1-2) Nhân duyên ở Sàvatthi…
-<i.-màra-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
@@ -33656,7 +32683,6 @@ II. Tánh Chất Của Màra. (Như kinh trước, chỉ thay Màra bằng tánh
 của Màra (Màradhamma) ).
 
 === III. Vô Thường 1-2) Nhân duyên ở Sàvatthi…
-<iii.-vô-thường-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
@@ -33674,9 +32700,7 @@ Tôn, thế nào là vô thường?
 ]
 
 === IV. Vô Thường Tánh (Kinh như trên, chỉ thay "vô thường" bằng "vô thường tánh").
-<iv.-vô-thường-tánh-kinh-như-trên-chỉ-thay-vô-thường-bằng-vô-thường-tánh.>
 === V. Khổ 1-2) Nhân duyên ở Sàvatthi…
-<v.-khổ-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
@@ -33694,26 +32718,17 @@ là khổ?
 ]
 
 === VI. Khổ Tánh (Như kinh trên, chỉ thay "khổ" bằng "khổ tánh").
-<vi.-khổ-tánh-như-kinh-trên-chỉ-thay-khổ-bằng-khổ-tánh.>
 === VII. Vô Ngã (Như kinh trên, chỉ thay "khổ" bằng "vô ngã").
-<vii.-vô-ngã-như-kinh-trên-chỉ-thay-khổ-bằng-vô-ngã.>
 === VIII. Vô Ngã Tánh (Như kinh trên, chỉ thay "khổ" bằng "vô ngã tánh").
-<viii.-vô-ngã-tánh-như-kinh-trên-chỉ-thay-khổ-bằng-vô-ngã-tánh.>
 === IX. Tận Pháp (Như kinh trên, chỉ thay "khổ" bằng "tận pháp" (khayadhamma: chịu sự đoạn tận)).
-<ix.-tận-pháp-như-kinh-trên-chỉ-thay-khổ-bằng-tận-pháp-khayadhamma-chịu-sự-đoạn-tận.>
 === X. Diệt Pháp (Như kinh trên, chỉ thay "khổ" bằng "diệt pháp" (vayadhamma: chịu sự đoạn diệt)).
-<x.-diệt-pháp-như-kinh-trên-chỉ-thay-khổ-bằng-diệt-pháp-vayadhamma-chịu-sự-đoạn-diệt.>
 === XI. Tập Khởi Pháp (Samudayadhamma) (Như kinh trên, chỉ thay "khổ" bằng "tập khởi pháp").
-<xi.-tập-khởi-pháp-samudayadhamma-như-kinh-trên-chỉ-thay-khổ-bằng-tập-khởi-pháp.>
 === XII. Ðoạn Diệt Pháp (Nirodhadhamma) (Như kinh trên, chỉ thay "khổ" bằng "đoạn diệt pháp").
-<xii.-ðoạn-diệt-pháp-nirodhadhamma-như-kinh-trên-chỉ-thay-khổ-bằng-đoạn-diệt-pháp.>
 
 #divider()
 
 === III. Phẩm Sơ Vấn
-<iii.-phẩm-sơ-vấn-1>
 === I. Về Màra (Tạp quyển 6, Ðại 2,40c) (S.iii,198) 1-2) Nhân duyên ở Sàvatthi…
-<i.-về-màra-tạp-quyển-6-ðại-240c-s.iii198-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
@@ -33758,7 +32773,6 @@ dục và tham.
 ]
 
 === II. Ðoạn Diệt Tánh (S.iii,199) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-ðoạn-diệt-tánh-s.iii199-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
@@ -33784,40 +32798,24 @@ tâm, tinh cần.
 #divider()
 
 === IV. Phẩm Thân Cận
-<iv.-phẩm-thân-cận-1>
 === I. Màra (Phẩm III - Sơ vấn)
-<i.-màra-phẩm-iii---sơ-vấn>
 === II. Màra Tánh (Phẩm III - Sơ vấn)
-<ii.-màra-tánh-phẩm-iii---sơ-vấn>
 === III. Vô Thường (Phẩm III - Sơ vấn)
-<iii.-vô-thường-phẩm-iii---sơ-vấn>
 === IV. Vô Thường Tánh (Phẩm III - Sơ vấn)
-<iv.-vô-thường-tánh-phẩm-iii---sơ-vấn>
 === V. Khổ (Phẩm III - Sơ vấn)
-<v.-khổ-phẩm-iii---sơ-vấn>
 === VI. Khổ Tánh (Phẩm III - Sơ vấn)
-<vi.-khổ-tánh-phẩm-iii---sơ-vấn>
 === VII. Vô Ngã (Phẩm III - Sơ vấn)
-<vii.-vô-ngã-phẩm-iii---sơ-vấn>
 === VIII. Vô Ngã Tánh (Phẩm III - Sơ vấn)
-<viii.-vô-ngã-tánh-phẩm-iii---sơ-vấn>
 === IX. Tận Diệt (Phẩm III - Sơ vấn)
-<ix.-tận-diệt-phẩm-iii---sơ-vấn>
 === X. Ðoạn Diệt (Phẩm III - Sơ vấn)
-<x.-ðoạn-diệt-phẩm-iii---sơ-vấn>
 === XI. Tập Khởi (Phẩm III - Sơ vấn)
-<xi.-tập-khởi-phẩm-iii---sơ-vấn>
 === XII. Ðoạn Diệt Tánh (Phẩm III - Sơ vấn)
-<xii.-ðoạn-diệt-tánh-phẩm-iii---sơ-vấn>
 
 #divider()
 
 == \[24\] Chương III - Tương Ưng Kiến
-<chương-iii---tương-ưng-kiến-1>
 === I. Phẩm Dự Lưu
-<i.-phẩm-dự-lưu-1>
 === I. Gió (Tạp 7, Ðại 2,45a) (S.iii,202) 1-2) Nhân duyên ở Sàvatthi… Thế Tôn nói với các Tỷ-kheo:
-<i.-gió-tạp-7-ðại-245a-s.iii202-1-2-nhân-duyên-ở-sàvatthi-thế-tôn-nói-với-các-tỷ-kheo>
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: “Gió không thổi, sông không chảy, đàn bà
 mang thai không sanh, mặt trăng, mặt trời không
@@ -33911,7 +32909,6 @@ như cột trụ"?
 ]
 
 === II. Cái Này Là Của Tôi. (S.iii,203) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-cái-này-là-của-tôi.-s.iii203-1-2-nhân-duyên-ở-sàvatthi>
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này được khởi lên: “Cái này là
 
@@ -33989,7 +32986,6 @@ cái này là tự ngã của tôi"?
 ]
 
 === III. Cái Này Là Tự Ngã (S.iii,204) 1-2) Nhân duyên ở Sàvatthi…
-<iii.-cái-này-là-tự-ngã-s.iii204-1-2-nhân-duyên-ở-sàvatthi>
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: "Cái ấy là tự ngã, cái ấy là thế giới. Sau
 khi chết, cái ấy sẽ thường còn, thường hằng, thường trú, không chịu sự
@@ -34075,14 +33071,12 @@ hoặc được đoạn trừ;… đối với con đường đưa đến khổ 
 chứng được Dự lưu, không còn thối đọa, quyết chắc hướng đến giác ngộ.
 
 === IV. Có Thể Không Phải Của Tôi (S.iii,205) 1-2) Nhân duyên ở Sàvatthi…
-<iv.-có-thể-không-phải-của-tôi-s.iii205-1-2-nhân-duyên-ở-sàvatthi>
 -- Do cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái gì,
 (tà) kiến này khởi lên: "Nếu trước không có ta, thời đã không có của ta.
 Nếu sẽ không có ta, thời sẽ không có của ta"? (Như kinh trên, chỉ có sự
 sai khác về "tà kiến").
 
 === V. Không Có (Tạp 7, Ðại 2,43c) (S.iii,206)
-<v.-không-có-tạp-7-ðại-243c-s.iii206>
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: “Không có bố thí, không có lễ hy sinh, không
 có tế tự, không có quả dị thục các nghiệp thiện ác, không có đời này,
@@ -34109,7 +33103,6 @@ diệt, tiêu thất, không còn tồn tại sau khi chết”?
 ]
 
 === VI. Ðối Với Người Hành Ðộng (Tạp 7, Ðại 2,44b) (S.iii,208) 1-2) Nhân duyên ở Sàvatthi…
-<vi.-ðối-với-người-hành-ðộng-tạp-7-ðại-244b-s.iii208-1-2-nhân-duyên-ở-sàvatthi>
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: “Tự làm hay khiến người làm, chém giết hay
 khiến người chém giết, đốt nấu hay khiến người đốt nấu, gây phiền muộn
@@ -34136,7 +33129,6 @@ không có phước đức, không đưa đến phước đức”?
 \(Như kinh trên, chỉ khác phần tà kiến”).
 
 === VII. Nhân (Tạp 7, Ðại 2,44a) (S.iii,210) 1-2) Nhân duyên ở Sàvatthi…
-<vii.-nhân-tạp-7-ðại-244a-s.iii210-1-2-nhân-duyên-ở-sàvatthi>
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: “Không có nhân, không có duyên, các loài hữu
 tình bị nhiễm ô; vô nhân, vô duyên, các loài hữu tình bị nhiễm ô. Không
@@ -34219,27 +33211,17 @@ hiền sau khi lưu chuyển luân hồi sẽ trừ tận khổ đau.
 ]
 
 === IX. Thế Gian Là Thường (S.iii,213) (Như các kinh trên, chỉ khác về "tà kiến". Ở đây "tà kiến" được thay bằng
-<ix.-thế-gian-là-thường-s.iii213-như-các-kinh-trên-chỉ-khác-về-tà-kiến.-ở-đây-tà-kiến-được-thay-bằng>
 "thế gian là thường").
 
 === X. Thế Gian Là Vô Thường (S.iii,214) (Như các kinh trên, chỉ khác về "tà kiến").
-<x.-thế-gian-là-vô-thường-s.iii214-như-các-kinh-trên-chỉ-khác-về-tà-kiến.>
 === XI. Hữu Biên (Như các kinh trên, chỉ khác về "tà kiến")
-<xi.-hữu-biên-như-các-kinh-trên-chỉ-khác-về-tà-kiến>
 === XII. Vô Biên (Như các kinh trên, chỉ khác về "tà kiến")
-<xii.-vô-biên-như-các-kinh-trên-chỉ-khác-về-tà-kiến>
 === XIII. Mạng Với Thân Là Một (Như các kinh trên, chỉ khác về "tà kiến")
-<xiii.-mạng-với-thân-là-một-như-các-kinh-trên-chỉ-khác-về-tà-kiến>
 === XIV. Mạng Với Thân Là Khác (Như các kinh trên, chỉ khác về "tà kiến")
-<xiv.-mạng-với-thân-là-khác-như-các-kinh-trên-chỉ-khác-về-tà-kiến>
 === XV. Như Lai Có Tồn Tại (Như các kinh trên, chỉ khác về "tà kiến")
-<xv.-như-lai-có-tồn-tại-như-các-kinh-trên-chỉ-khác-về-tà-kiến>
 === XVI. Như Lai Không Có Tồn Tại (Như các kinh trên, chỉ khác về "tà kiến")
-<xvi.-như-lai-không-có-tồn-tại-như-các-kinh-trên-chỉ-khác-về-tà-kiến>
 === XVII. Như Lai Có Tồn Tại Và Không Có Tồn Tại (Như các kinh trên, chỉ khác về "tà kiến")
-<xvii.-như-lai-có-tồn-tại-và-không-có-tồn-tại-như-các-kinh-trên-chỉ-khác-về-tà-kiến>
 === XVIII. Như Lai Không Tồn Tại Và Không Không Tồn Tại (S.iii,216) 1-2) Nhân duyên ở Sàvatthi…
-<xviii.-như-lai-không-tồn-tại-và-không-không-tồn-tại-s.iii216-1-2-nhân-duyên-ở-sàvatthi>
 -- Này các Tỷ-kheo, do có cái gì, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: "Như Lai không tồn tại và không không tồn
 tại sau khi chết"?
@@ -34303,57 +33285,40 @@ không tồn tại sau khi chết"?
 #divider()
 
 === II. Phẩm Trùng Thuyết (1)
-<ii.-phẩm-trùng-thuyết-1-1>
 === I. Gió (Những kinh I, II trong phẩm này là giống như những kinh trong Chương
-<i.-gió-những-kinh-i-ii-trong-phẩm-này-là-giống-như-những-kinh-trong-chương>
 Ba, Kiến Tương Ưng từ số I cho đến số XVIII).
 
 === II. Phi Hữu Phi Vô (S.iii,218)
-<ii.-phi-hữu-phi-vô-s.iii218>
 === III. Phẩm Trùng Thuyết (2)
-<iii.-phẩm-trùng-thuyết-2-1>
 === I. Tự Ngã Có Sắc (Những kinh này giống như các kinh trước chỉ khác là "tà kiến" được thay bằng “Tự ngã có sắc, sau khi chết,
-<i.-tự-ngã-có-sắc-những-kinh-này-giống-như-các-kinh-trước-chỉ-khác-là-tà-kiến-được-thay-bằng-tự-ngã-có-sắc-sau-khi-chết>
 không bệnh”). II. Tự Ngã Không Có Sắc. (như trên, được thay bằng "Tự ngã
 không có sắc, sau khi chết, không bệnh"). III. Tự Ngã Có Sắc Và Không
 Sắc.
 
 === IV. Tự Ngã Không Có Sắc Và Không Không Sắc
-<iv.-tự-ngã-không-có-sắc-và-không-không-sắc>
 === V. Thuần Lạc (… "Tự ngã là thuần lạc, sau khi chết, không bệnh").
-<v.-thuần-lạc-tự-ngã-là-thuần-lạc-sau-khi-chết-không-bệnh.>
 === VI. Thuần Khổ
-<vi.-thuần-khổ>
 === VII. Thuần Lạc Và Thuần Khổ
-<vii.-thuần-lạc-và-thuần-khổ>
 === VIII. Chẳng Phải Khổ , Chẳng Phải Lạc (S.iii,220)
-<viii.-chẳng-phải-khổ-chẳng-phải-lạc-s.iii220>
 
 #divider()
 
 === IV. Phẩm Trùng Thuyết (3)
-<iv.-phẩm-trùng-thuyết-3-1>
 === I. (Như kinh Chương Một I, Kinh Nakulapità).
-<i.-như-kinh-chương-một-i-kinh-nakulapità.>
 II- XXV. (Như kinh từ số I, Phẩm Trùng Thuyết 1, đến VII Phẩm Trùng
 Thuyết 2)
 
 === XXVI. Phi Lạc Phi Khổ (Như kinh VIII, Phẩm Trùng Thuyết 2).
-<xxvi.-phi-lạc-phi-khổ-như-kinh-viii-phẩm-trùng-thuyết-2.>
 
 #divider()
 
 === V. Phẩm Trùng Thuyết (4)
-<v.-phẩm-trùng-thuyết-4-1>
 === I - XXVII. Như kinh (I-II) Phẩm Trùng Thuyết 3) (S.iii,222)
-<i---xxvii.-như-kinh-i-ii-phẩm-trùng-thuyết-3-s.iii222>
 
 #divider()
 
 == \[25\] Chương IV - Tương Ưng Nhập
-<chương-iv---tương-ưng-nhập-1>
 === I. Con Mắt (S.iii,225) 1-2) Nhân duyên tại Sàvatthi…
-<i.-con-mắt-s.iii225-1-2-nhân-duyên-tại-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, mắt là vô thường, biến hoại, đổi khác. Tai là vô
@@ -34388,32 +33353,21 @@ chung mà không chứng quả Dự lưu.
 ]
 
 === II. Sắc (Như kinh trên, chỉ thế "sắc, thanh, hương, vị, xúc, pháp" bằng "nhãn, nhĩ, tỷ, thiệt, thân, ý").
-<ii.-sắc-như-kinh-trên-chỉ-thế-sắc-thanh-hương-vị-xúc-pháp-bằng-nhãn-nhĩ-tỷ-thiệt-thân-ý.>
 === III. Thức (Như kinh trên, chỉ thế vào nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức).
-<iii.-thức-như-kinh-trên-chỉ-thế-vào-nhãn-thức-nhĩ-thức-tỷ-thức-thiệt-thức-thân-thức-ý-thức.>
 === IV. Xúc (Như kinh trên, chỉ thế vào "nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, ý xúc").
-<iv.-xúc-như-kinh-trên-chỉ-thế-vào-nhãn-xúc-nhĩ-xúc-tỷ-xúc-thiệt-xúc-thân-xúc-ý-xúc.>
 === V. Thọ (Như kinh trên, chỉ thế vào “thọ do nhãn xúc sanh, thọ do nhĩ xúc sanh, thọ do tỷ xúc sanh, thọ do thiệt xúc sanh,
-<v.-thọ-như-kinh-trên-chỉ-thế-vào-thọ-do-nhãn-xúc-sanh-thọ-do-nhĩ-xúc-sanh-thọ-do-tỷ-xúc-sanh-thọ-do-thiệt-xúc-sanh>
 thọ do thân xúc sanh, thọ do ý xúc sanh”).
 
 === VI. Tưởng (Như kinh trên, chỉ thế vào "sắc tưởng, thanh tưởng, hương tưởng, vị tưởng, xúc tưởng, pháp tưởng").
-<vi.-tưởng-như-kinh-trên-chỉ-thế-vào-sắc-tưởng-thanh-tưởng-hương-tưởng-vị-tưởng-xúc-tưởng-pháp-tưởng.>
 === VII. Tư (Như kinh trên, chỉ thế vào "sắc tư, thanh tư, hương tư, vị tư, xúc tư, pháp tư").
-<vii.-tư-như-kinh-trên-chỉ-thế-vào-sắc-tư-thanh-tư-hương-tư-vị-tư-xúc-tư-pháp-tư.>
 === VIII. Ái (Như kinh trên, chỉ thế vào "sắc ái, thanh ái, hương ái, vị ái, xúc ái, pháp ái").
-<viii.-ái-như-kinh-trên-chỉ-thế-vào-sắc-ái-thanh-ái-hương-ái-vị-ái-xúc-ái-pháp-ái.>
 === IX. Giới (Như kinh trên, chỉ thế vào "địa giới, thủy giới, hỏa giới, phong giới, không giới, thức giới").
-<ix.-giới-như-kinh-trên-chỉ-thế-vào-địa-giới-thủy-giới-hỏa-giới-phong-giới-không-giới-thức-giới.>
 === X. Uẩn (S.iii,227) (Như kinh trên, chỉ thế vào "sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn, thức uẩn").
-<x.-uẩn-s.iii227-như-kinh-trên-chỉ-thế-vào-sắc-uẩn-thọ-uẩn-tưởng-uẩn-hành-uẩn-thức-uẩn.>
 
 #divider()
 
 == \[26\] Chương V - Tương Ưng Sanh
-<chương-v---tương-ưng-sanh-1>
 === I. Mắt (Tạp 13, Ðại 2,90c) (S.iii,228) 1-2) Nhân duyên ở Sàvatthi…
-<i.-mắt-tạp-13-ðại-290c-s.iii228-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, sự sanh, sự trú, sự thành, sự xuất hiện của mắt là
@@ -34431,34 +33385,23 @@ thọ do thân xúc sanh, thọ do ý xúc sanh”).
 dịu của bệnh hoạn, sự chấm dứt của già chết.
 
 === II. Sắc (Như kinh trên, chỉ thế vào sắc, thanh, hương, vị, xúc, pháp).
-<ii.-sắc-như-kinh-trên-chỉ-thế-vào-sắc-thanh-hương-vị-xúc-pháp.>
 === III. Thức (Như kinh trên, chỉ thế vào nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức, ý thức).
-<iii.-thức-như-kinh-trên-chỉ-thế-vào-nhãn-thức-nhĩ-thức-tỷ-thức-thiệt-thức-thân-thức-ý-thức.-1>
 === IV. Xúc (Như kinh trên, chỉ thế vào nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, ý xúc).
-<iv.-xúc-như-kinh-trên-chỉ-thế-vào-nhãn-xúc-nhĩ-xúc-tỷ-xúc-thiệt-xúc-thân-xúc-ý-xúc.-1>
 === V. Thọ
-<v.-thọ>
 \(Như kinh trên, chỉ thế vào thọ do nhãn xúc sanh, thọ do nhĩ xúc sanh,
 thọ do tỷ xúc sanh, thọ do thiệt xúc sanh, thọ do thân xúc sanh, thọ do
 ý xúc sanh).
 
 === VI. Tưởng (Như kinh trên, chỉ thế vào sắc tưởng, thanh tưởng, hương tưởng, vị tưởng, xúc tưởng, pháp tưởng).
-<vi.-tưởng-như-kinh-trên-chỉ-thế-vào-sắc-tưởng-thanh-tưởng-hương-tưởng-vị-tưởng-xúc-tưởng-pháp-tưởng.-1>
 === VII. Tư (Như kinh trên, chỉ thế vào sắc tư, thanh tư, hương tư, vị tư, xúc tư, pháp tư).
-<vii.-tư-như-kinh-trên-chỉ-thế-vào-sắc-tư-thanh-tư-hương-tư-vị-tư-xúc-tư-pháp-tư.-1>
 === VIII. Ái (Như kinh trên, chỉ thế vào sắc ái, thanh ái, hương ái, vị ái, xúc ái, pháp ái).
-<viii.-ái-như-kinh-trên-chỉ-thế-vào-sắc-ái-thanh-ái-hương-ái-vị-ái-xúc-ái-pháp-ái.-1>
 === IX. Giới (Như kinh trên, chỉ thế vào địa, thủy, hỏa, phong, không, thức giới).
-<ix.-giới-như-kinh-trên-chỉ-thế-vào-địa-thủy-hỏa-phong-không-thức-giới.>
 === X. Uẩn (S.iii,231) (Như kinh trên, chỉ thế vào sắc, thọ, tưởng, hành, thức uẩn).
-<x.-uẩn-s.iii231-như-kinh-trên-chỉ-thế-vào-sắc-thọ-tưởng-hành-thức-uẩn.>
 
 #divider()
 
 == \[27\] Chương VI - Tương Ưng Phiền Não
-<chương-vi---tương-ưng-phiền-não-1>
 === I. Con Mắt (S.iii,232) 1-2) Nhân duyên ở Sàvathi…
-<i.-con-mắt-s.iii232-1-2-nhân-duyên-ở-sàvathi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, dục tham đối với mắt là tùy phiền não của tâm. Dục
@@ -34479,28 +33422,19 @@ não của tâm.
 ]
 
 === II. Sắc (Như kinh trên, chỉ thế vào sắc, thanh, hương, vị, xúc, pháp).
-<ii.-sắc-như-kinh-trên-chỉ-thế-vào-sắc-thanh-hương-vị-xúc-pháp.-1>
 === III. Thức
-<iii.-thức>
 \(Như kinh trên, chỉ thế vào nhãn thức, nhĩ thức, tỷ thức, thiệt thức,
 thân thức, ý thức).
 
 === IV. Xúc (Như kinh trên, chỉ thế vào nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc, ý xúc).
-<iv.-xúc-như-kinh-trên-chỉ-thế-vào-nhãn-xúc-nhĩ-xúc-tỷ-xúc-thiệt-xúc-thân-xúc-ý-xúc.-2>
 === V. Thọ (Như kinh trên, chỉ thế vào thọ do nhãn xúc sanh, thọ do nhĩ xúc sanh, thọ do thiệt xúc sanh, thọ do thân xúc sanh,
-<v.-thọ-như-kinh-trên-chỉ-thế-vào-thọ-do-nhãn-xúc-sanh-thọ-do-nhĩ-xúc-sanh-thọ-do-thiệt-xúc-sanh-thọ-do-thân-xúc-sanh>
 thọ do ý xúc sanh).
 
 === VI. Tưởng (Như kinh trên, chỉ thế vào sắc tưởng, thanh tưởng, hương tưởng, vị tưởng, xúc tưởng, pháp tưởng).
-<vi.-tưởng-như-kinh-trên-chỉ-thế-vào-sắc-tưởng-thanh-tưởng-hương-tưởng-vị-tưởng-xúc-tưởng-pháp-tưởng.-2>
 === VII. Tư (Như kinh trên, chỉ thế vào sắc tư, thanh tư, hương tư, vị tư, xúc tư, pháp tư).
-<vii.-tư-như-kinh-trên-chỉ-thế-vào-sắc-tư-thanh-tư-hương-tư-vị-tư-xúc-tư-pháp-tư.-2>
 === VIII. Ái (Như kinh trên, chỉ thế vào sắc ái, thanh ái, hương ái, vị ái, xúc ái, pháp ái).
-<viii.-ái-như-kinh-trên-chỉ-thế-vào-sắc-ái-thanh-ái-hương-ái-vị-ái-xúc-ái-pháp-ái.-2>
 === IX. Giới (Như kinh trên, chỉ thế vào địa giới, thủy giới, hỏa giới, phong giới, không giới, thức giới).
-<ix.-giới-như-kinh-trên-chỉ-thế-vào-địa-giới-thủy-giới-hỏa-giới-phong-giới-không-giới-thức-giới.-1>
 === X. Uẩn (S.iii,234) 1-2) Nhân duyên ở Sàvatthi…
-<x.-uẩn-s.iii234-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, dục tham đối với sắc uẩn là tùy phiền não của tâm.
@@ -34517,9 +33451,7 @@ thọ do ý xúc sanh).
 #divider()
 
 == \[28\] Chương VII - Tương Ưng Sàriputta
-<chương-vii---tương-ưng-sàriputta-1>
 === I. Lý (S.iii,235)
-<i.-lý-s.iii235>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Sàriputta trú ở Sàvatthi (Xá-vệ), tại Jetavana (Kỳ-đà
@@ -34560,7 +33492,6 @@ tịnh, trong sáng. Hôm nay, Hiền giả an trú với sự an trú nào?
 ]
 
 === II. Không Tầm 1-5) Một thời Tôn giả Sàriputta trú ở Sàvatthi…
-<ii.-không-tầm-1-5-một-thời-tôn-giả-sàriputta-trú-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 6)
 + Tôn giả Ananda thấy Tôn giả Sàriputta từ xa đi đến; sau khi thấy, liền
@@ -34587,7 +33518,6 @@ hay "Tôi đã chứng nhập Thiền thứ hai", hay "Tôi đã ra khỏi Thi�
 hai".
 
 === III. Hỷ 1-5) Một thời Tôn giả Sàriputta trú ở Savatthi…
-<iii.-hỷ-1-5-một-thời-tôn-giả-sàriputta-trú-ở-savatthi>
 #block[
 #set enum(numbering: "1)", start: 6)
 + Tôn giả Ananda thấy Tôn giả Sàriputta từ xa đi đến; sau khi thấy, liền
@@ -34607,7 +33537,6 @@ chứng nhập Thiền thứ ba", hay "Tôi đã chứng nhập Thiền thứ ba
 Thiền thứ ba".
 
 === IV. Xả 1-5) Một thời Tôn giả Sàriputta trú ở Sàvatthi…
-<iv.-xả-1-5-một-thời-tôn-giả-sàriputta-trú-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 6)
 + Tôn giả Ananda thấy Tôn giả Sàriputta từ xa đi đến… với sự an trú nào?
@@ -34622,7 +33551,6 @@ Thiền thứ ba".
 ]
 
 === V. Không Vô Biên Xứ 1-6) Một thời Tôn giả Sàriputta trú ở Sàvatthi… … Tôn giả Ananda thấy… với sự an trú
-<v.-không-vô-biên-xứ-1-6-một-thời-tôn-giả-sàriputta-trú-ở-sàvatthi-tôn-giả-ananda-thấy-với-sự-an-trú>
 nào?
 
 7-8) -- Ở đây, này Hiền giả, vượt lên hoàn toàn sắc tưởng, đoạn diệt hữu
@@ -34633,7 +33561,6 @@ lên ý nghĩ… hay "Tôi đã ra khỏi Không vô biên xứ".
 -- Như vậy, chắc chắn Hiền giả… "Tôi đã ra khỏi Không vô biên xứ".
 
 === VI. Thức Vô Biên Xứ 1-6) Một thời, Tôn giả Sàriputta trú ở Sàvatthi… … Tôn giả Ananda thấy… với sự an trú
-<vi.-thức-vô-biên-xứ-1-6-một-thời-tôn-giả-sàriputta-trú-ở-sàvatthi-tôn-giả-ananda-thấy-với-sự-an-trú>
 nào? 7-8) -- Ở đây, này Hiền giả, vượt qua hoàn toàn Không vô biên xứ,
 với ý
 
@@ -34641,13 +33568,11 @@ nghĩ: "Thức là vô biên", tôi chứng đạt và an trú Thức vô biên 
 đã ra khỏi Thức vô biên xứ".
 
 === VII. Vô Sở Hữu Xứ 1-6) Một thời Tôn giả Sàriputta trú ở Sàvatthi. … Tôn giả Ananda thấy… với sự an trú
-<vii.-vô-sở-hữu-xứ-1-6-một-thời-tôn-giả-sàriputta-trú-ở-sàvatthi.-tôn-giả-ananda-thấy-với-sự-an-trú>
 nào? 7-8) -- Ở đây, này Hiền giả, vượt qua hoàn toàn Thức vô biên xứ,
 với ý nghĩ: "Không có vật gì", tôi chứng đạt và an trú Vô sở hữu xứ… hay
 "… đã ra khỏi Vô sở hữu xứ".
 
 === VIII. Phi Tưởng Phi Phi Tưởng Xứ 1-6) Một thời, Tôn giả Sàriputta trú ở Sàvatthi.
-<viii.-phi-tưởng-phi-phi-tưởng-xứ-1-6-một-thời-tôn-giả-sàriputta-trú-ở-sàvatthi.>
 … Tôn giả Ananda thấy… với sự an trú nào? 7-8) -- Ở đây, này Hiền giả,
 vượt qua hoàn toàn Vô sở hữu xứ, tôi chứng đạt và an trú Phi tưởng phi
 phi tưởng xứ… hay "… đã ra khỏi Phi tưởng phi phi tưởng xứ". IX. Diệt
@@ -34672,7 +33597,6 @@ Sàriputta không khởi lên ý nghĩ: "Tôi đang chứng nhập Diệt thọ 
 Diệt thọ tưởng định".
 
 === X. Sùcimukhi (Tịnh Diện) (S.iii,238)
-<x.-sùcimukhi-tịnh-diện-s.iii238>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Sàriputta trú ở Ràjagaha (Vương Xá), Veluvana (Trúc
@@ -34764,9 +33688,7 @@ Thích tử”.
 #divider()
 
 == \[29\] Chương VIII - Tương Ưng Loài Rồng
-<chương-viii---tương-ưng-loài-rồng-1>
 === I. Chủng Loại (Tạp 19, Ðại 2, 646a) (S.iii,240) 1-2) Nhân duyên ở Sàvatthi…
-<i.-chủng-loại-tạp-19-ðại-2-646a-s.iii240-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo có bốn loại Nàga (rồng, rắn) về sanh chủng. Thế nào
@@ -34776,7 +33698,6 @@ Thích tử”.
 ]
 
 === II. Diệu Thắng (S.iii,240) 1-3) Nhân duyên ở Sàvatthi…
-<ii.-diệu-thắng-s.iii240-1-3-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 4)
 + -- Này các Tỷ-kheo, có bốn loại Nàga về sanh chủng. Thế nào là bốn?
@@ -34795,7 +33716,6 @@ Thích tử”.
 ]
 
 === III. Uposatha (Bố-tát) (S.iii,241)
-<iii.-uposatha-bố-tát-s.iii241>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn ở Sàvatthi, Jetavana, tại vườn ông Anàthapindika.
@@ -34831,7 +33751,6 @@ sống giữ hạnh Uposatha và từ bỏ thân của chúng?
 ]
 
 === IV. Uposatha (S.iii,242) 1-2) Nhân duyên ở Sàvatthi… Rồi một Tỷ-kheo…
-<iv.-uposatha-s.iii242-1-2-nhân-duyên-ở-sàvatthi-rồi-một-tỷ-kheo>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
@@ -34849,11 +33768,8 @@ sanh sống giữ hạnh Uposatha và từ bỏ thân của chúng?
 ]
 
 === V. Uposatha (Như kinh trước chỉ thế vào: Loại Nàga từ ẩm ướt sanh ).
-<v.-uposatha-như-kinh-trước-chỉ-thế-vào-loại-nàga-từ-ẩm-ướt-sanh-.>
 === VI. Uposatha (Như kinh trước, chỉ thế vào: Loại Nàga hóa sanh ).
-<vi.-uposatha-như-kinh-trước-chỉ-thế-vào-loại-nàga-hóa-sanh-.>
 === VII. Nghe (S.iii,243) 1-2) Nhân duyên ở Sàvatthi…
-<vii.-nghe-s.iii243-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
@@ -34882,15 +33798,11 @@ sanh?
 ]
 
 === VIII. Nghe (Như kinh trước, chỉ thế vào: Loại Nàga từ thai sanh ).
-<viii.-nghe-như-kinh-trước-chỉ-thế-vào-loại-nàga-từ-thai-sanh-.>
 === IX. Nghe (Như kinh trước, chỉ thế vào: Loại Nàga từ ẩm ướt sanh ).
-<ix.-nghe-như-kinh-trước-chỉ-thế-vào-loại-nàga-từ-ẩm-ướt-sanh-.>
 === X. Nghe
-<x.-nghe>
 \(Như kinh trước, chỉ thế vào: Loại Nàga từ hóa sanh ).
 
 === XI. Ủng Hộ Bố Thí (S.iii,244) 1-3)… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
-<xi.-ủng-hộ-bố-thí-s.iii244-1-3-ngồi-xuống-một-bên-tỷ-kheo-ấy-bạch-thế-tôn>
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, một số (chúng sanh),
 sau khi thân hoại mạng chung, được sanh cọng trú với các Nàaga từ trứng
 sanh?
@@ -34929,9 +33841,7 @@ sanh?
 #divider()
 
 == \[30\] Chương IX - Tương Ưng Kim Xí Ðiểu
-<chương-ix---tương-ưng-kim-xí-ðiểu-1>
 === I. Chủng Loại (S.iii,246) 1-2) Nhân duyên ở Sàvatthi…
-<i.-chủng-loại-s.iii246-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có bốn loại Kim xí điểu về sanh chủng. Thế nào là
@@ -34941,7 +33851,6 @@ sanh?
 ]
 
 === II. Mang Ði (Tăng 19, Ðại 2, 646a) (S.iii,247) 1-2) Nhân duyên ở Sàvatthi…
-<ii.-mang-ði-tăng-19-ðại-2-646a-s.iii247-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có bốn loại Kim xí điểu về sanh chủng. Thế nào là
@@ -34977,7 +33886,6 @@ Nàga từ trứng sanh, từ thai sanh, từ ẩm ướt sanh và các loại h
 ]
 
 === III. Làm Hai Hạnh (S.iii,247)
-<iii.-làm-hai-hạnh-s.iii247>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi.
@@ -35011,9 +33919,7 @@ trứng sanh?
 cọng trú với các Kim xí điểu từ trứng sanh.
 
 === IV. Làm Hại Hạnh (S.iii,248) (Như kinh trước, chỉ thế vào các loại Kim xí điểu từ thai sanh, từ ẩm ướt sanh và các loại hóa sanh ).
-<iv.-làm-hại-hạnh-s.iii248-như-kinh-trước-chỉ-thế-vào-các-loại-kim-xí-điểu-từ-thai-sanh-từ-ẩm-ướt-sanh-và-các-loại-hóa-sanh-.>
 === V. Ủng Hộ Bố Thí (S.iii,248) 1-3) Nhân duyên ở Sàvathi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
-<v.-ủng-hộ-bố-thí-s.iii248-1-3-nhân-duyên-ở-sàvathi-ngồi-xuống-một-bên-tỷ-kheo-ấy-bạch-thế-tôn>
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây một số (chúng sanh), sau
 khi thân hoại mạng chung, được sanh cọng trú với các Kim xí điểu từ
 trứng sanh?
@@ -35047,16 +33953,13 @@ chung, chúng được sanh cọng trú với các Kim xí điểu từ trứng 
 ]
 
 === VI. Ủng Hộ Bố Thí (S.iii,248)
-<vi.-ủng-hộ-bố-thí-s.iii248>
 \(Như kinh trên, câu hỏi được đặt ra với ba loại Kim xí điểu còn lại và
 câu trả lời được nói lên theo mỗi trường hợp).
 
 #divider()
 
 == \[31\] Chương X - Tương Ưng Càn Thát Bà
-<chương-x---tương-ưng-càn-thát-bà-1>
 === I. Chủng Loại (S.iii,249) 1-2) Nhân duyên ở Sàvatthi…
-<i.-chủng-loại-s.iii249-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về chư Thiên thuộc loại
@@ -35081,7 +33984,6 @@ Tỷ-kheo, trú hương vị. Có chư Thiên, này các Tỷ-kheo, trú hương
 ]
 
 === II. Thiện Hành (S.iii,250) 1-3) Nhân duyên ở Sàvatthi…
-<ii.-thiện-hành-s.iii250-1-3-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 4)
 + Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
@@ -35113,7 +34015,6 @@ cọng trú với chư Thiên thuộc loại Gandhabba.
 ]
 
 === III. Kẻ Bố Thí (1) (S.iii,251) 1-4) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
-<iii.-kẻ-bố-thí-1-s.iii251-1-4-nhân-duyên-ở-sàvatthi-ngồi-xuống-một-bên-tỷ-kheo-ấy-bạch-thế-tôn>
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây có loại chúng sanh, sau
 khi
 
@@ -35138,20 +34039,16 @@ thân hoại mạng chung, được sanh cọng trú với chư Thiên trú hư�
 ]
 
 === XIII. Ủng Hộ Bố Thí (1) (Như kinh trên, chỉ thế vào “họ bố thí đồ ăn, đồ uống, vải mặc, cỗ xe, vòng hoa, hương, hương liệu xoa bóp, ngọa
-<xiii.-ủng-hộ-bố-thí-1-như-kinh-trên-chỉ-thế-vào-họ-bố-thí-đồ-ăn-đồ-uống-vải-mặc-cỗ-xe-vòng-hoa-hương-hương-liệu-xoa-bóp-ngọa>
 cụ, nhà cửa, đèn dầu, để sanh cộng trú với chư Thiên sống trên hương từ
 gốc rễ”).
 
 === XIV - XXIII. Ủng Hộ Bằng Bố Thí (2-10) (Như kinh trên, chỉ thế vào "chư Thiên trú trên các loại hương khác"… cho đến
-<xiv---xxiii.-ủng-hộ-bằng-bố-thí-2-10-như-kinh-trên-chỉ-thế-vào-chư-thiên-trú-trên-các-loại-hương-khác-cho-đến>
 "chư Thiên sống trên hương từ hương").
 
 #divider()
 
 == \[32\] Chương XI - Tương Ưng Thần Mây
-<chương-xi---tương-ưng-thần-mây-1>
 === I. Chủng Loại (S.iii,254) 1-2) Trú ở Sàvatthi…
-<i.-chủng-loại-s.iii254-1-2-trú-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về chư Thiên thuộc loại
@@ -35172,7 +34069,6 @@ này các Tỷ-kheo, thuộc loại mây mưa.
 ]
 
 === II. Thiện Hành (S.iii,254) 1-3) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
-<ii.-thiện-hành-s.iii254-1-3-nhân-duyên-ở-sàvatthi-ngồi-xuống-một-bên-tỷ-kheo-ấy-bạch-thế-tôn>
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, có loại (chúng sanh),
 sau
 
@@ -35197,7 +34093,6 @@ thần mây?
 ]
 
 === III. Ủng Hộ Bố Thí (S.iii,254) 1-3) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, vị Tỷ-kheo ấy bạch Thế Tôn:
-<iii.-ủng-hộ-bố-thí-s.iii254-1-3-nhân-duyên-ở-sàvatthi-ngồi-xuống-một-bên-vị-tỷ-kheo-ấy-bạch-thế-tôn>
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, có loại (chúng sanh),
 sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên thuộc
 loại thần mây lạnh?
@@ -35227,7 +34122,6 @@ cọng trú chư Thiên thuộc loại thần mây lạnh. IV-VII. Ủng Hộ B�
 khác như thần mây nóng" … "thần mây mưa").
 
 === VIII. Lạnh 1-3) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
-<viii.-lạnh-1-3-nhân-duyên-ở-sàvatthi-ngồi-xuống-một-bên-tỷ-kheo-ấy-bạch-thế-tôn>
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, có khi trời lạnh?
 
 #block[
@@ -35245,25 +34139,19 @@ của họ, trời lạnh.
 ]
 
 === IX. Trời Nóng (S.iii,256) (Như kinh trên, chỉ khác …. “ở đây là trời nóng và thuộc chư Thiên thuộc loại
-<ix.-trời-nóng-s.iii256-như-kinh-trên-chỉ-khác-.-ở-đây-là-trời-nóng-và-thuộc-chư-thiên-thuộc-loại>
 mây nóng”).
 
 === X. Trời Sấm (Như kinh trên, chỉ khác … "ở đây là trời sấm và thuộc chư Thiên loại mây sấm").
-<x.-trời-sấm-như-kinh-trên-chỉ-khác-ở-đây-là-trời-sấm-và-thuộc-chư-thiên-loại-mây-sấm.>
 === XI. Trời Gió
-<xi.-trời-gió>
 \(Như kinh trên, chỉ khác … "ở đây trời gió và thuộc chư Thiên loại mây
 gió").
 
 === XII. Trời Mưa (Như kinh trên, chỉ khác … "ở đây trời mưa và thuộc chư Thiên loại mây mưa").
-<xii.-trời-mưa-như-kinh-trên-chỉ-khác-ở-đây-trời-mưa-và-thuộc-chư-thiên-loại-mây-mưa.>
 
 #divider()
 
 == \[33\] Chương XII - Tương Ưng Vacchagota
-<chương-xii---tương-ưng-vacchagota-1>
 === I. Vô Tri (1) (S.iii,257) 1-2) Nhân duyên ở Sàvatthi… Rồi du sĩ ngoại đạo Vacchagota đi đến Thế Tôn; sau khi đến, nói lên những lời
-<i.-vô-tri-1-s.iii257-1-2-nhân-duyên-ở-sàvatthi-rồi-du-sĩ-ngoại-đạo-vacchagota-đi-đến-thế-tôn-sau-khi-đến-nói-lên-những-lời>
 chào đón hỏi thăm; sau khi nói lên những lời chào đón hỏi thăm thân hữu,
 liền ngồi xuống một bên.
 
@@ -35298,36 +34186,24 @@ Tri (3)
 tri đối với thức").
 
 === II. Vô Kiến (1-5) (Như trên, ở đây là "vô kiến đối với sắc" … "thọ, …tưởng, …các hành, …thức").
-<ii.-vô-kiến-1-5-như-trên-ở-đây-là-vô-kiến-đối-với-sắc-thọ-tưởng-các-hành-thức.>
 === III. Không Hiện Quán (anabhisamaya) (1-5)
-<iii.-không-hiện-quán-anabhisamaya-1-5>
 \(Như trên, ở đây là "không hiện quán năm uẩn").
 
 === IV. Không Liễu Tri (anubodha) (1-5) (Như trên, ở đây là "không liễu tri năm uẩn")
-<iv.-không-liễu-tri-anubodha-1-5-như-trên-ở-đây-là-không-liễu-tri-năm-uẩn>
 === V. Không Thông Ðạt (appativebha) (1-5) (Như trên, ở đây là "không thông đạt năm uẩn")
-<v.-không-thông-ðạt-appativebha-1-5-như-trên-ở-đây-là-không-thông-đạt-năm-uẩn>
 === VI. Không Ðẳng Quán (asallakkhana) (1-5) (Như trên, ở đây là "không đẳng quán năm uẩn")
-<vi.-không-ðẳng-quán-asallakkhana-1-5-như-trên-ở-đây-là-không-đẳng-quán-năm-uẩn>
 === VII. Không Tùy Quán (anupalakkhana) (1-5)
-<vii.-không-tùy-quán-anupalakkhana-1-5>
 \(Như trên, ở đây là "không tùy quán năm uẩn")
 
 === VIII. Không Cận Quán (appaccupalakkhana) (1-5) (Như trên, ở đây là "không cận quán năm uẩn")
-<viii.-không-cận-quán-appaccupalakkhana-1-5-như-trên-ở-đây-là-không-cận-quán-năm-uẩn>
 === IX. Không Ðẳng Sát (asamapekkana) (1-5) (Như trên, ở đây là "không đẳng sát năm uẩn").
-<ix.-không-ðẳng-sát-asamapekkana-1-5-như-trên-ở-đây-là-không-đẳng-sát-năm-uẩn.>
 === X. Không Cận Sát (appaccupekkhana) (1-5) (Như trên, ở đây là "không cận sát năm uẩn")
-<x.-không-cận-sát-appaccupekkhana-1-5-như-trên-ở-đây-là-không-cận-sát-năm-uẩn>
 === XI. Không Hiện Kiến (appaccakkhakamma) (1-5) (Như trên, ở đây là "không hiện kiến năm uẩn")
-<xi.-không-hiện-kiến-appaccakkhakamma-1-5-như-trên-ở-đây-là-không-hiện-kiến-năm-uẩn>
 
 #divider()
 
 == \[34\] Chương XIII - Tương Ưng Thiền
-<chương-xiii---tương-ưng-thiền-1>
 === I. Thiền Ðịnh Thiền Chứng (Tạp 31, Ðại 2,222c) (S,iii,263) 1-2) Nhân duyên ở Sàvatthi…
-<i.-thiền-ðịnh-thiền-chứng-tạp-31-ðại-2222c-siii263-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này các Tỷ-kheo, có bốn hạng người tu Thiền này. Thế nào là bốn?
@@ -35367,7 +34243,6 @@ tối thắng, là vị thượng thủ, tối thượng, tối diệu.
 ]
 
 === II. Chỉ Trú (S.iii,264) 1-3) Nhân duyên ở Sàvatthi…
-<ii.-chỉ-trú-s.iii264-1-3-nhân-duyên-ở-sàvatthi>
 -- Ở đây, này các Tỷ-kheo, có bốn vị tu Thiền này. Thế nào là bốn?
 
 #block[
@@ -35406,23 +34281,14 @@ Thiền ấy, vị này là vị tối tôn, tối thắng, là vị thượng t
 tối diệu.
 
 === III. Xuất Khởi (Vutthàna) (Như kinh trên, chỉ đổi "thiện xảo về xuất khởi" cho "thiện xảo về chỉ trú").
-<iii.-xuất-khởi-vutthàna-như-kinh-trên-chỉ-đổi-thiện-xảo-về-xuất-khởi-cho-thiện-xảo-về-chỉ-trú.>
 === IV. Thuần Thục (Kallavà) (Như kinh trên, chỉ đổi "thiện xảo về thuần thục" cho "thiện xảo về xuất khởi").
-<iv.-thuần-thục-kallavà-như-kinh-trên-chỉ-đổi-thiện-xảo-về-thuần-thục-cho-thiện-xảo-về-xuất-khởi.>
 === V. Sở Duyên (Arammana) (Như kinh trên, chỉ đổi "thiện xảo về sở duyên").
-<v.-sở-duyên-arammana-như-kinh-trên-chỉ-đổi-thiện-xảo-về-sở-duyên.>
 === VI. Hành Cảnh (Gocara) (Như kinh trên, chỉ đổi "thiện xảo về hành cảnh").
-<vi.-hành-cảnh-gocara-như-kinh-trên-chỉ-đổi-thiện-xảo-về-hành-cảnh.>
 === VII. Sở Nguyện (Abhinnara) (Như kinh trên, chỉ đổi "thiện xảo về sở nguyện").
-<vii.-sở-nguyện-abhinnara-như-kinh-trên-chỉ-đổi-thiện-xảo-về-sở-nguyện.>
 === VIII. Thận Trọng (Sakkaccakàrii) (Như kinh trên, chỉ đổi "thiện xảo về thận trọng").
-<viii.-thận-trọng-sakkaccakàrii-như-kinh-trên-chỉ-đổi-thiện-xảo-về-thận-trọng.>
 === IX. Kiên Trì (Sàtacca) (Như kinh trên, chỉ đổi "thiện xảo về kiên trì").
-<ix.-kiên-trì-sàtacca-như-kinh-trên-chỉ-đổi-thiện-xảo-về-kiên-trì.>
 === X. Thích ứng (Sappàyam) (Như kinh trên, chỉ đổi "thiện xảo về thích ứng").
-<x.-thích-ứng-sappàyam-như-kinh-trên-chỉ-đổi-thiện-xảo-về-thích-ứng.>
 === XI. Chỉ Trú Trong Thiền Chứng (S.iii,269) 1-2) Nhân duyên ở Sàvatthi…
-<xi.-chỉ-trú-trong-thiền-chứng-s.iii269-1-2-nhân-duyên-ở-sàvatthi>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Có bốn hạng tu Thiền này, này các Tỷ-kheo. Thế nào là bốn?
@@ -35452,27 +34318,18 @@ Thiền định, và cũng thiện xảo về chỉ trú trong Thiền định.
 ]
 
 === XII. Xuất Khởi Từ Thiền Chứng ((Như kinh trên, chỉ thế "thiện xảo về xuất khởi" thay cho “thiện xảo về chỉ
-<xii.-xuất-khởi-từ-thiền-chứng-như-kinh-trên-chỉ-thế-thiện-xảo-về-xuất-khởi-thay-cho-thiện-xảo-về-chỉ>
 trú”).
 
 === XIII. Thuần Thục Trong Thiền Chứng
-<xiii.-thuần-thục-trong-thiền-chứng>
 \(Như kinh trên, chỉ thế vào "thiện xảo về thuần thục").
 
 === XIV. Sở Duyên Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về sở duyên").
-<xiv.-sở-duyên-trong-thiền-chứng-như-kinh-trên-chỉ-thế-vào-thiện-xảo-về-sở-duyên.>
 === XV. Hành Cảnh Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về hành cảnh").
-<xv.-hành-cảnh-trong-thiền-chứng-như-kinh-trên-chỉ-thế-vào-thiện-xảo-về-hành-cảnh.>
 === XVI. Sở Nguyện Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về sở nguyện").
-<xvi.-sở-nguyện-trong-thiền-chứng-như-kinh-trên-chỉ-thế-vào-thiện-xảo-về-sở-nguyện.>
 === XVII. Thận Trọng Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về thận trọng").
-<xvii.-thận-trọng-trong-thiền-chứng-như-kinh-trên-chỉ-thế-vào-thiện-xảo-về-thận-trọng.>
 === XVIII. Kiên Trì Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về kiên trì").
-<xviii.-kiên-trì-trong-thiền-chứng-như-kinh-trên-chỉ-thế-vào-thiện-xảo-về-kiên-trì.>
 === XIX. Thích ứng Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về thích ứng").
-<xix.-thích-ứng-trong-thiền-chứng-như-kinh-trên-chỉ-thế-vào-thiện-xảo-về-thích-ứng.>
 === XX. Chỉ Trú - Xuất Khởi ( S.iii,272) 1-3) Nhân duyên ở Sàvatthi…
-<xx.-chỉ-trú---xuất-khởi-s.iii272-1-3-nhân-duyên-ở-sàvatthi>
 -- Có bốn hạng tu Thiền này, này các Tỷ-kheo. Thế nào là bốn?
 
 #block[
@@ -35496,11 +34353,9 @@ trú”).
 thắng, là bậc thượng thủ, bậc tối thượng, tối diệu.
 
 === XXI - XXVII. Thuần Thục Cho Ðến Thích ứng (Như kinh trên, chỉ thế vào “thuần thục, sở duyên, hành cảnh, sở nguyện,
-<xxi---xxvii.-thuần-thục-cho-ðến-thích-ứng-như-kinh-trên-chỉ-thế-vào-thuần-thục-sở-duyên-hành-cảnh-sở-nguyện>
 thận trọng, kiên trì, thích ứng trong chỉ trú”).
 
 === XXVIII. Xuất Khởi - Thuần Thục (S.iii,272) 1-3) Nhân duyên ở Sàvatthi…
-<xxviii.-xuất-khởi---thuần-thục-s.iii272-1-3-nhân-duyên-ở-sàvatthi>
 -- Có bốn hạng người tu Thiền này, này các Tỷ-kheo. Thế nào là bốn?
 
 #block[
@@ -35530,9 +34385,7 @@ Thiền định, nhưng không thiện xảo về thuần thục trong Thiền �
 thượng thủ, tối thượng và tối diệu.
 
 === XXIX - XXXIV. Sở Duyên - Thích ứng (Như kinh trên, chỉ thế vào "sở duyên" … cho đến "thích ứng").
-<xxix---xxxiv.-sở-duyên---thích-ứng-như-kinh-trên-chỉ-thế-vào-sở-duyên-cho-đến-thích-ứng.>
 === XXXV. Thuần Thục - Sở Duyên 1-4) Nhân duyên ở Sàvatthi…
-<xxxv.-thuần-thục---sở-duyên-1-4-nhân-duyên-ở-sàvatthi>
 -- Có bốn hạng người tu Thiền này, này các Tỷ-kheo. Thế nào là bốn? Ở
 đây, này các Tỷ-kheo, có người tu Thiền, thiện xảo về thuần thục trong
 Thiền định, nhưng không thiện xảo về sở duyên trong Thiền định.
@@ -35557,13 +34410,11 @@ Thiền định, nhưng không thiện xảo về sở duyên trong Thiền đ�
 thắng, là bậc thượng thủ, là vị tối thượng, tối diệu.
 
 === XXXVI - XL. Thuần Thục (S.iii,275) (Vị ấy thiện xảo về thuần thục trong Thiền định, nhưng (a) không thiện xảo
-<xxxvi---xl.-thuần-thục-s.iii275-vị-ấy-thiện-xảo-về-thuần-thục-trong-thiền-định-nhưng-a-không-thiện-xảo>
 về hành cảnh… (b) không thiện xảo về sở nguyện, (c) không thiện xảo về
 thận trọng, (d) không thiện xảo về kiên trì, (e) không thiện xảo về
 thích ứng).
 
 === XLI. Sở Duyên - Hành Cảnh 1-7) Nhân duyên ở Sàvatthi… … thiện xảo về sở duyên trong Thiền định, nhưng không thiện xảo về hành
-<xli.-sở-duyên---hành-cảnh-1-7-nhân-duyên-ở-sàvatthi-thiện-xảo-về-sở-duyên-trong-thiền-định-nhưng-không-thiện-xảo-về-hành>
 cảnh trong Thiền định.
 
 … thiện xảo về hành cảnh trong Thiền định, nhưng không thiện xảo về sở
@@ -35572,12 +34423,10 @@ cũng không thiện xảo về hành cảnh trong Thiền định. … thiện 
 duyên trong Thiền định, cũng thiện xảo về hành cảnh trong Thiền định.
 
 === XL.II-XL.V. Sở Duyên … vị ấy thiện xảo về sở duyên trong Thiền định, nhưng (a) không thiện xảo về sở nguyện, (b) không thiện xảo về
-<xl.ii-xl.v.-sở-duyên-vị-ấy-thiện-xảo-về-sở-duyên-trong-thiền-định-nhưng-a-không-thiện-xảo-về-sở-nguyện-b-không-thiện-xảo-về>
 thận trọng, (c) không thiện xảo về kiên trì, (d) không thiện xảo về
 thích ứng.
 
 === XL.VI. Hành Cảnh - Sở Nguyện
-<xl.vi.-hành-cảnh---sở-nguyện>
 … thiện xảo về hành cảnh trong Thiền định, nhưng không thiện xảo về sở
 nguyện trong Thiền định.. \.. thiện xảo về sở nguyện trong Thiền định,
 nhưng không thiện xảo về hành cảnh trong Thiền định.. \.. không thiện
@@ -35594,7 +34443,6 @@ trọng trong Thiền định, (b) không thiện xảo về kiên trì trong Th
 ]
 
 === L. Sỏ Nguyện - Thận Trọng 1-7) Nhân duyên ở Sàvatthi… … thiện xảo về sở nguyện trong Thiền định, nhưng không thiện xảo về thận
-<l.-sỏ-nguyện---thận-trọng-1-7-nhân-duyên-ở-sàvatthi-thiện-xảo-về-sở-nguyện-trong-thiền-định-nhưng-không-thiện-xảo-về-thận>
 trọng trong Thiền định. … thiện xảo về thận trọng trong Thiền định,
 nhưng không thiện xảo về sở nguyện trong Thiền định. … không thiện xảo
 về sở nguyện trong Thiền định, và cũng không thiện xảo về thận trọng
@@ -35606,7 +34454,6 @@ nhưng (a) không thiện xảo về kiên trì, và (b) không thiện xảo v�
 ứng.
 
 === LIII. Thận Trọng Và Kiên Trì … thiện xảo về thận trọng trong Thiền định, nhưng không thiện xảo về kiên trì
-<liii.-thận-trọng-và-kiên-trì-thiện-xảo-về-thận-trọng-trong-thiền-định-nhưng-không-thiện-xảo-về-kiên-trì>
 trong Thiền định.. \.. thiện xảo về kiên trì trong Thiền định, nhưng
 không thiện xảo về thận trọng trong Thiền định. … không thiện xảo về
 thận trọng trong Thiền định, và cũng thiện xảo về kiên trì trong Thiền
@@ -35616,7 +34463,6 @@ thận trọng trong Thiền định, và cũng thiện xảo về kiên trì tr
 trong Thiền định.
 
 === LIV. Kiên Trì Và Thích ứng (S.iii,277) 1-3) Nhân duyên ở Sàvatthi…
-<liv.-kiên-trì-và-thích-ứng-s.iii277-1-3-nhân-duyên-ở-sàvatthi>
 -- Này các Tỷ-kheo, có bốn hạng người tu Thiền này. Thế nào là bốn?
 
 #block[
@@ -35658,13 +34504,9 @@ thượng, và tối diệu.
 #divider()
 
 == TẬP IV - THIÊN SÁU XỨ
-<tập-iv---thiên-sáu-xứ-1>
 == \[35\] Chương I Tương Ưng Sáu Xứ
-<chương-i-tương-ưng-sáu-xứ-1>
 == Phần Một - Năm Mươi Kinh Thứ Nhất
-<phần-một---năm-mươi-kinh-thứ-nhất-1>
 === I. Phẩm Vô Thường
-<i.-phẩm-vô-thường>
 1.I. Vô Thường (1) Nội (S. iv.1)
 
 #block[
@@ -35928,7 +34770,6 @@ chán, ly tham, đoạn diệt.
 #divider()
 
 === II. Phẩm Song Ðôi
-<ii.-phẩm-song-ðôi>
 13.I. Chánh Giác (1) (S.iv,6)
 
 #block[
@@ -36242,7 +35083,6 @@ khởi, tật bệnh chỉ trú, già chết xuất hiện. 3-6) Tai… Mũi… 
 #divider()
 
 === III. Phẩm Tất Cả
-<iii.-phẩm-tất-cả>
 23.I. Tất Cả (S.iv,15)
 
 #block[
@@ -36748,7 +35588,6 @@ làm đã làm, nay không còn trở lui trạng thái này nữa".
 #divider()
 
 === IV. Phẩm Sanh Pháp
-<iv.-phẩm-sanh-pháp>
 33.I. Sanh (S.iv,26)
 
 #block[
@@ -36812,7 +35651,6 @@ thọ gì, lạc, khổ hay bất khổ bất lạc; cảm thọ ấy phải b�
 #divider()
 
 === V. Phẩm Vô Thường
-<v.-phẩm-vô-thường>
 43.I. Vô Thường (S.iv,28)
 
 #block[
@@ -36865,7 +35703,6 @@ mắt… "… không còn trở lui trạng thái này nữa".
 #divider()
 
 == Phần Hai - Năm Mươi Kinh Thứ Hai
-<phần-hai---năm-mươi-kinh-thứ-hai-1>
 Nhân duyên ở Sàtthi.
 
 53.I. Vô Minh (S.iv,30)
@@ -37071,7 +35908,6 @@ này nữa".
 #divider()
 
 === II. Phẩm Migajàla
-<ii.-phẩm-migajàla>
 63.I. Bởi Migajàla (S.iv,35)
 
 #block[
@@ -37555,7 +36391,6 @@ trạng thái này nữa".
 #divider()
 
 === III. Phẩm Bệnh
-<iii.-phẩm-bệnh>
 74.I. Bệnh (1) (S.iv,46)
 
 #block[
@@ -37918,7 +36753,6 @@ có lưỡi… Không có thân…
 #divider()
 
 === IV. Phẩm Channa
-<iv.-phẩm-channa>
 #block[
 #set enum(numbering: "1.", start: 84)
 + I. Biến Hoại (Paloka) (S.iv,53)
@@ -38703,7 +37537,6 @@ biến động, tiêu tan, vô thường biến hoại, tự tánh đổi khác.
 #divider()
 
 === V. Phẩm Từ Bỏ
-<v.-phẩm-từ-bỏ>
 #block[
 #set enum(numbering: "1.", start: 94)
 + I. Thâu Nhiếp (S.iv,70)
@@ -39398,9 +38231,7 @@ lên khổ căn từ trước chưa được đào lên.
 #divider()
 
 == Phần Ba - Năm Mươi Kinh Thứ Ba
-<phần-ba---năm-mươi-kinh-thứ-ba-1>
 === I. Phẩm An Ổn, Khỏi Các Khổ Ách
-<i.-phẩm-an-ổn-khỏi-các-khổ-ách>
 #block[
 #set enum(numbering: "1.", start: 104)
 + I. Người Ðược An Ổn, Khỏi Các Khổ Ách (S.iv,85)
@@ -39764,7 +38595,6 @@ pháp giáo này liên hệ đến mục đích, là cứu cánh Phạm hạnh.
 #divider()
 
 === II. Phẩm Thế Giới Dục Công Ðức
-<ii.-phẩm-thế-giới-dục-công-ðức>
 #block[
 #set enum(numbering: "1.", start: 114)
 + I. Màra (Ma) Lưới Bẫy (S.iv,91)
@@ -40502,7 +39332,6 @@ giác…
 #divider()
 
 === III. Phẩm Gia Chủ
-<iii.-phẩm-gia-chủ>
 #block[
 #set enum(numbering: "1.", start: 124)
 + I. Vesàli (S.iv,109)
@@ -41208,7 +40037,6 @@ quy ngưỡng.
 #divider()
 
 === IV. Phẩm Devadaha
-<iv.-phẩm-devadaha>
 #block[
 #set enum(numbering: "1.", start: 134)
 + I. Sát Na Ở Devadaha (S.iv,124)
@@ -41492,7 +40320,6 @@ Bị Ác ma chi phối, Không giác ngộ pháp này.
 ]
 
 === V. Mới Và Cũ
-<v.-mới-và-cũ>
 #block[
 #set enum(numbering: "1.", start: 145)
 + I. Nghiệp (S.iv,132)
@@ -41869,9 +40696,7 @@ kheo thực hành pháp và thuận pháp. Nếu Tỷ-kheo do nhàm chán, ly th
 #divider()
 
 == Phần Bốn - Năm Mươi Kinh Thứ Tư
-<phần-bốn---năm-mươi-kinh-thứ-tư-1>
 === I. Phẩm Duyệt Hỷ Tiêu Tận
-<i.-phẩm-duyệt-hỷ-tiêu-tận>
 #block[
 #set enum(numbering: "1.", start: 155)
 + I. Duyệt Hỷ Tiêu Tận (S.iv,142)
@@ -42056,7 +40881,6 @@ và thấy cảm thọ ấy là vô thường nên tà kiến được đoạn t
 #divider()
 
 === II. Phẩm Sáu Mươi Lược Thuyết
-<ii.-phẩm-sáu-mươi-lược-thuyết>
 #block[
 #set enum(numbering: "1.", start: 167)
 + I. Do Dục Niệm (18 kinh) (1) (S.iv,148) 1-2) …
@@ -42070,9 +40894,7 @@ và thấy cảm thọ ấy là vô thường nên tà kiến được đoạn t
 ]
 
 === II. Do Dục Niệm (2) (Như kinh trên, chỉ thế tham (ràga) cho dục niệm).
-<ii.-do-dục-niệm-2-như-kinh-trên-chỉ-thế-tham-ràga-cho-dục-niệm.>
 === III. Do Dục Niệm (3) (Như kinh trên, chỉ thế dục và tham cho dục niệm)…
-<iii.-do-dục-niệm-3-như-kinh-trên-chỉ-thế-dục-và-tham-cho-dục-niệm>
 #block[
 #set enum(numbering: "1.", start: 168)
 + IV-VI. Do Dục Niệm (4), (5), (6). (S.iv,149) 1-2) …
@@ -42206,7 +41028,6 @@ dục… lòng tham… lòng dục và tham… Và này các Tỷ-kheo, cái gì
 ]
 
 === XX. Thuộc Quá Khứ (2) 1-2) … 3-8) -- Mắt, này các Tỷ-kheo, là vô thường, thuộc vị lai… Tai… Mũi…
-<xx.-thuộc-quá-khứ-2-1-2-3-8-mắt-này-các-tỷ-kheo-là-vô-thường-thuộc-vị-lai-tai-mũi>
 Lưỡi… Thân… Ý là vô thường, thuộc vị lai.
 
 #block[
@@ -42215,7 +41036,6 @@ Lưỡi… Thân… Ý là vô thường, thuộc vị lai.
 ]
 
 === XXI. Thuộc Quá Khứ (3) 1-2) … 3-8) Mắt, này các Tỷ-kheo, là vô thường, thuộc hiện tại. Tai… Mũi… Lưỡi… Thân… Ý là vô thường, thuộc
-<xxi.-thuộc-quá-khứ-3-1-2-3-8-mắt-này-các-tỷ-kheo-là-vô-thường-thuộc-hiện-tại.-tai-mũi-lưỡi-thân-ý-là-vô-thường-thuộc>
 hiện tại…
 
 #block[
@@ -42317,7 +41137,6 @@ thuộc quá khứ… thuộc vị lai… thuộc hiện tại…
 ]
 
 === XXXIX. Cái Gì Vô Thường (3)
-<xxxix.-cái-gì-vô-thường-3>
 \(Như kinh trên, chỉ khác đây thuộc hiện tại)
 
 #block[
@@ -42447,14 +41266,12 @@ vô thường.
 ]
 
 === LVI. Nội (2) 1-2) … 3-8) -- Mắt, này các Tỷ-kheo, là khổ. Tai… Mũi… Lưỡi… Thân… Ý là khổ…
-<lvi.-nội-2-1-2-3-8-mắt-này-các-tỷ-kheo-là-khổ.-tai-mũi-lưỡi-thân-ý-là-khổ>
 #block[
 #set enum(numbering: "1)", start: 9)
 + Thấy vậy… "… không còn trở lui trạng thái này nữa".
 ]
 
 === LVII. Nội (3) 1-2) …
-<lvii.-nội-3-1-2>
 3-8) Mắt, này các Tỷ-kheo, là vô ngã… Tai… Mũi… Lưỡi… Thân… Ý là vô ngã.
 
 #block[
@@ -42475,12 +41292,10 @@ vô thường.
 ]
 
 === LIX. Ngoại (2) 1-2) …
-<lix.-ngoại-2-1-2>
 3-8) -- Các sắc, này các Tỷ-kheo, là khổ. Các tiếng… Các hương… Các vị…
 Các xúc… Các pháp là khổ…
 
 === LX. Ngoại (3) 1-2) … 3-8) -- Các sắc, này các Tỷ-kheo, là vô ngã. Các tiếng… Các hương… Các vị… Các xúc… Các pháp là vô ngã…
-<lx.-ngoại-3-1-2-3-8-các-sắc-này-các-tỷ-kheo-là-vô-ngã.-các-tiếng-các-hương-các-vị-các-xúc-các-pháp-là-vô-ngã>
 #block[
 #set enum(numbering: "1)", start: 9)
 + Thấy vậy… "… không còn trở lui trạng thái này nữa".
@@ -42489,7 +41304,6 @@ Các xúc… Các pháp là khổ…
 #divider()
 
 === III. Phẩm Biển
-<iii.-phẩm-biển>
 #block[
 #set enum(numbering: "1.", start: 187)
 + I. Biển (1) (S.iv,157)
@@ -43072,7 +41886,6 @@ xúc, thời không khởi lên nội lạc và nội khổ…
 #divider()
 
 === IV. Phẩm Rắn Ðộc
-<iv.-phẩm-rắn-ðộc>
 #block[
 #set enum(numbering: "1.", start: 197)
 + I. Rắn Ðộc (S.iv,172) 1-2) Như vầy tôi nghe. Một thời Thế Tôn trú ở
@@ -44356,9 +43169,7 @@ kheo, các Ông cần phải học tập: "Tôi sẽ sống với tâm không ch
 #divider()
 
 == \[36\] Chương II - Tương Ưng Thọ
-<chương-ii---tương-ưng-thọ-1>
 == Phần Một - Phẩm Có Kệ
-<phần-một---phẩm-có-kệ>
 + I. Thiền Ðịnh (S.iv,204) 1-2) …
 
 #block[
@@ -44844,7 +43655,6 @@ duyên ấy được đoạn diệt, được tịnh chỉ.
 #divider()
 
 == Phần Hai - Phẩm Sống Một Mình
-<phần-hai---phẩm-sống-một-mình>
 #block[
 #set enum(numbering: "1.", start: 11)
 + I. Sống Một Mình (S.iv,216)
@@ -45406,7 +44216,6 @@ Thế Tôn nói với các Tỷ-kheo).
 #divider()
 
 == Phần Ba - Phẩm Một Trăm Lẻ Tám Pháp Môn
-<phần-ba---phẩm-một-trăm-lẻ-tám-pháp-môn>
 #block[
 #set enum(numbering: "1.", start: 21)
 + I. Sìvaka (S.iv,230)
@@ -45824,9 +44633,7 @@ chất… Sự giải thoát liên hệ đến vô sắc là không liên hệ �
 #divider()
 
 == \[37\] Chương III - Tương Ưng Nữ Nhân
-<chương-iii---tương-ưng-nữ-nhân-1>
 == Phần Một - Phẩm Trung Lược
-<phần-một---phẩm-trung-lược-1>
 + I. Khả Ý Và Không Khả Ý (1) (S.iv,238)
 
 #block[
@@ -46011,7 +44818,6 @@ năm?
 #divider()
 
 == Phần Hai - Phẩm Trung Lược (Anuruddha II. Phần trắng)
-<phần-hai---phẩm-trung-lược-anuruddha-ii.-phần-trắng>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -46053,7 +44859,6 @@ cấm)
 #divider()
 
 == Phần Ba - Phẩm Các Sức Mạnh
-<phần-ba---phẩm-các-sức-mạnh-1>
 #block[
 #set enum(numbering: "1.", start: 25)
 + I. Không Sợ Hãi (Visàradà) (S.iv,246)
@@ -46349,9 +45154,7 @@ hạnh như vậy, Nắm giữ được lõi cây, Cho tự mình ở đời.
 #divider()
 
 == \[38\] Chương IV - Tương Ưng Jambukhàdaka
-<chương-iv---tương-ưng-jambukhàdaka-1>
 === I. Nibbàna (Niết-bàn) (S.iv,251)
-<i.-nibbàna-niết-bàn-s.iv251>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Sàriputta trú ở giữa dân chúng Magadha (Ma-kiệt-đà),
@@ -46401,7 +45204,6 @@ giả, đây là con đường, đây là đạo lộ đưa đến chứng đắ
 ]
 
 === II. A-La-Hán (S.iv,251) 1-2) …
-<ii.-a-la-hán-s.iv251-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "A-la-hán, A-la-hán", này Hiền giả Sàriputta, được gọi là như vậy.
@@ -46437,7 +45239,6 @@ chứng đắc A-la-hán ấy.
 ]
 
 === III. Vị Thuyết Pháp (S.iv,252) 1-2) …
-<iii.-vị-thuyết-pháp-s.iv252-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Thưa Hiền giả, những ai là những vị thuyết thuận pháp ở đời? Những
@@ -46494,7 +45295,6 @@ và si ấy; tức là chánh tri kiến… chánh định. Này Hiền giả, �
 ]
 
 === IV. Có Cái Gì? (S.iv,253)
-<iv.-có-cái-gì-s.iv253>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -46531,7 +45331,6 @@ tri khổ ấy.
 ]
 
 === V. Ðiều Hòa Hơi Thở (Assàsa) (S.iv,254) 1-2) …
-<v.-ðiều-hòa-hơi-thở-assàsa-s.iv254-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Ðạt đến điều hòa hơi thở, đạt đến điều hòa hơi thở", này Hiền giả
@@ -46568,7 +45367,6 @@ chứng đắc điều hòa hơi thở ấy.
 ]
 
 === VI. Ðiều Hòa Hơi Thở Tối Thượng (S.iv,254) 1-2) …
-<vi.-ðiều-hòa-hơi-thở-tối-thượng-s.iv254-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Ðạt đến điều hòa hơi thở tối thượng, đạt đến điều hòa hơi thở tối
@@ -46598,7 +45396,6 @@ thở tối thượng ấy.
 ]
 
 === VII. Thọ (S.iv,255) 1-2) …
-<vii.-thọ-s.iv255-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Thọ, thọ", này Hiền giả Sàriputta, được nói đến như vậy. Này Hiền
@@ -46624,7 +45421,6 @@ Hiền giả, đây là những thọ này.
 ]
 
 === VIII. Lậu Hoặc (S.iv,256) 1-2) …
-<viii.-lậu-hoặc-s.iv256-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Lậu hoặc, lậu hoặc", này Hiền giả Sàriputta, được nói đến như vậy.
@@ -46649,7 +45445,6 @@ Hiền giả, đây là ba lậu hoặc này.
 ]
 
 === IX. Vô Minh. (S.iv,256) 1-2) …
-<ix.-vô-minh.-s.iv256-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Vô minh, vô minh", này Hiền giả Sàriputta, được nói đến như vậy.
@@ -46670,7 +45465,6 @@ tập khởi, không biết rõ đối với khổ đoạn diệt, không biết
 5-6) (Như kinh trên, số 5 và số 6, với những thay đổi cần thiết).
 
 === X. Khát Ái (S.iv,257) 1-2) …
-<x.-khát-ái-s.iv257-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + "Khát ái, khát ái", này Hiền giả Sàriputta, được nói đến như vậy. Này
@@ -46690,7 +45484,6 @@ tập khởi, không biết rõ đối với khổ đoạn diệt, không biết
 ấy. 5-6) (Như kinh trước, số 5 và 6, với những thay đổi cần thiết).
 
 === XI. Bộc Lưu (Ogha) (S.iv,257) 1-2) …
-<xi.-bộc-lưu-ogha-s.iv257-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + "Bộc lưu, bộc lưu", này Hiền giả Sàriputta, được nói đến như vậy. Này
@@ -46710,7 +45503,6 @@ lưu, vô minh bộc lưu. Này Hiền giả, có bốn bộc lưu này.
 ấy. 5-6) (Như kinh trước, số 5 và số 6, với những thay đổi cần thiết)
 
 === XII. Chấp Thủ (Upàdànam) (S.iv,258) 1-2) …
-<xii.-chấp-thủ-upàdànam-s.iv258-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Thủ,thủ", này Hiền giả Sàriputta, được gọi là như vậy. Này Hiền
@@ -46730,7 +45522,6 @@ luận thủ. Này Hiền giả, đây là bốn thủ này.
 5-6) (Như kinh trên, số 5 và số 6, với những thay đổi cần thiết).
 
 === XIII. Hữu (S.iv,258) 1-2) …
-<xiii.-hữu-s.iv258-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Hữu, hữu", này Hiền giả Sàriputta, như vậy được nói đến. Này Hiền
@@ -46750,7 +45541,6 @@ giả, đây là các hữu này.
 5-6) (Như kinh trước, số 5 và số 6, với những thay đổi cần thiết).
 
 === XIV. Khổ (S.iv,259) 1-2) …
-<xiv.-khổ-s.iv259-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Khổ, khổ", này Hiền giả Sàriputta, được nói đến như vậy. Này Hiền
@@ -46770,7 +45560,6 @@ khổ tánh. Này Hiền giả, đây là ba khổ tánh này.
 ấy. 5-6) (như kinh trước, số 5 và số 6, với những thay đổi cần thiết).
 
 === XV. Có Thân (Sakkàya) (S.iv,259) 1-2) …
-<xv.-có-thân-sakkàya-s.iv259-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Có thân, có thân", này Hiền giả Sàriputta, được nói đến như vậy.
@@ -46793,7 +45582,6 @@ thủ uẩn này được Thế Tôn gọi là có thân.
 5-6) (như kinh trước, số 5 và số 6, với những thay đổi cần thiết).
 
 === XVI. Khó Làm (S.iv,260) 1-2) …
-<xvi.-khó-làm-s.iv260-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Này Hiền giả Sàriputta, trong Pháp luật này, cái gì là khó làm?
@@ -46828,9 +45616,7 @@ khó làm.
 #divider()
 
 == \[39\] Chương V - Tương Ưng Sàmandaka
-<chương-v---tương-ưng-sàmandaka>
 === I. Niết Bàn (S.iv,261)
-<i.-niết-bàn-s.iv261>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Sàriputta ở giữa dân chúng Vajji, trên bờ sông Hằng,
@@ -46851,14 +45637,11 @@ số 3 đến số 6.) II-XV.(S.iv,262) (Giống như trong Chương Bốn, số
 với những thay đổi cần thiết).
 
 === XVI. Khó Làm (S.iv,262) (Giống như Chương Bốn, số 16)
-<xvi.-khó-làm-s.iv262-giống-như-chương-bốn-số-16>
 
 #divider()
 
 == \[40\] Chương VI - Tương Ưng Moggalàna
-<chương-vi---tương-ưng-moggalàna-1>
 === I. Với Tầm (S.iv,262)
-<i.-với-tầm-s.iv262>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Mahà Moggalàna trú ở Sàvatthi, Jetavana, tại vườn ông
@@ -46911,7 +45694,6 @@ Thiền thứ nhất.
 ]
 
 === II. Không Tầm (S.iv,263) 1-2). \..
-<ii.-không-tầm-s.iv263-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Thiền thứ hai, Thiền thứ hai", được nói đến như vậy. Thế nào là
@@ -46944,7 +45726,6 @@ môn, hãy đặt tâm vào Thiền thứ hai! Hãy nhứt tâm vào Thiền th�
 ]
 
 === III. Với Lạc (S.iv,264) 1-2). \..
-<iii.-với-lạc-s.iv264-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Thiền thứ ba, Thiền thứ ba", như vậy được nói đến. Như thế nào là
@@ -46980,7 +45761,6 @@ ba! Hãy nhứt tâm vào Thiền thứ ba! Hãy định tâm vào Thiền thứ
 ]
 
 === IV. Xả (S.iv,265) 1-2). \..
-<iv.-xả-s.iv265-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Thiền thứ tư, Thiền thứ tư", như vậy được nói đến. Như thế nào là
@@ -47013,7 +45793,6 @@ Thiền thứ tư.
 ]
 
 === V. Hư Không (S.iv,266) 1-2). \..
-<v.-hư-không-s.iv266-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Không vô biên xứ, Không vô biên xứ", như vậy được nói đến. Thế nào
@@ -47050,7 +45829,6 @@ biên xứ! Hãy định tâm vào Không vô biên xứ!”
 ]
 
 === VI. Thức (S.iv,266) 1-2). \..
-<vi.-thức-s.iv266-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Thức vô biên xứ, Thức vô biên xứ", như vậy được nói đến. Thế nào
@@ -47085,7 +45863,6 @@ biên xứ! Hãy định tâm vào Thức vô biên xứ!”
 ]
 
 === VII. Vô Sở Hữu Xứ (S.iv,267) 1-2). \..
-<vii.-vô-sở-hữu-xứ-s.iv267-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Vô sở hữu xứ, Vô sở hữu xứ", như vậy được nói đến. Thế nào là Vô
@@ -47122,7 +45899,6 @@ không có sự vật gì, chứng và trú Vô sở hữu xứ.
 ]
 
 === VIII. Phi Tưởng (S.iv,268) 1-2). \..
-<viii.-phi-tưởng-s.iv268-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Phi tưởng phi phi tưởng xứ, Phi tưởng phi phi tưởng xứ", như vậy
@@ -47153,7 +45929,6 @@ này, các tưởng câu hữu với Vô sở hữu xứ được tác ý và hi
 ]
 
 === IX. Vô Tướng (S.iv,268) 1-2). \..
-<ix.-vô-tướng-s.iv268-1-2.-..>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- "Vô tướng tâm định, Vô tướng tâm định" (animitto cete samàdhi), như
@@ -47182,7 +45957,6 @@ này, các tưởng câu hữu với Vô sở hữu xứ được tác ý và hi
 ]
 
 === X. Sakka (Ðế-thích) (S.iv,269)
-<x.-sakka-ðế-thích-s.iv269>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Mahà Moggalàna trú ở Sàvatthi, tại Jetavana, vườn ông
@@ -47377,15 +46151,12 @@ với 700 chư Thiên… 57-60) Rồi Thiên chủ Sakka với 800 chư Thiên�
 Rồi Thiên chủ Sakka với 8000 chư Thiên… thiên xúc.
 
 === XI. Candana (S.iv,280) 1-63) Rồi Thiên tử Candana… 1-63) Rồi Thiên tử Suyàma… 1-63) Rồi Thiên tử Santusita…
-<xi.-candana-s.iv280-1-63-rồi-thiên-tử-candana-1-63-rồi-thiên-tử-suyàma-1-63-rồi-thiên-tử-santusita>
 1-63) Rồi Thiên chủ Sunimmita… 1-63) Rồi Thiên tử Vasavatti…
 
 #divider()
 
 == \[41\] Chương VII - Tương Ưng Tâm
-<chương-vii---tương-ưng-tâm-1>
 === I. Kiết Sử (S.iv,281)
-<i.-kiết-sử-s.iv281>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một số đông Tỷ-kheo trưởng lão trú ở Macchikasanda, tại rừng
@@ -47486,7 +46257,6 @@ bởi một sợi dây hay bởi một cái ách, ở đây chính cái ấy là
 ]
 
 === II. Isidattà (1) (S.iv,283)
-<ii.-isidattà-1-s.iv283>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, nhiều Tỷ-kheo trưởng lão trú ở Macchikàsanda, tại rừng
@@ -47587,7 +46357,6 @@ Câu hỏi này không được ta trả lời. Này Hiền giả Isidattà, tro
 khác, nếu câu hỏi tương tự khởi lên, Hiền giả hãy trả lời như vậy.
 
 === III. Isidattà (2) (S.iv,285)
-<iii.-isidattà-2-s.iv285>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một số đông Tỷ-kheo trưởng lão trú ở Macchikàsanda, tại rừng
@@ -47761,7 +46530,6 @@ lời. Câu hỏi này không được ta trả lời. Này Hiền giả Isidatt
 khác, nếu câu hỏi tương tự khởi lên, Hiền giả hãy trả lời như vậy.
 
 === IV. Mahaka (S.iv,288)
-<iv.-mahaka-s.iv288>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, một số đông các Tỷ-kheo trưởng lão trú tại Macchikàsanda,
@@ -47867,7 +46635,6 @@ phẩm trị bệnh.
 ]
 
 === V. Kàmabhù (1)(S.iv,291)
-<v.-kàmabhù-1s.iv291>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Kàmabhù trú ở Macchikàsanda, tại rừng Ambàtaka.
@@ -47937,7 +46704,6 @@ lậu hoặc được gọi là không bị trói buộc.
 ]
 
 === VI. Kàmabhù (2) (S.iv,193)
-<vi.-kàmabhù-2-s.iv193>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Kàmabhù trú tại Macchikàsanda, tại rừng Ambàtaka.
@@ -48087,7 +46853,6 @@ giúp đỡ rất nhiều cho Diệt thọ tưởng định được chứng đ�
 Quán.
 
 === VII. Godatta (S.iv,295)
-<vii.-godatta-s.iv295>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Godatta trú ở Macchikàsanda, tại Ambàtavana.
@@ -48190,7 +46955,6 @@ không có tham; trống không, không có sân; trống không, không có si.
 ]
 
 === VIII. Nigantha (Ni-kiền-tử) (S.iv,297) 1-2) Lúc bấy giờ, Nigantha Nàtaputta đã đi đến Macchikàsanda với một đại
-<viii.-nigantha-ni-kiền-tử-s.iv297-1-2-lúc-bấy-giờ-nigantha-nàtaputta-đã-đi-đến-macchikàsanda-với-một-đại>
 chúng Nigantha.
 
 #block[
@@ -48290,7 +47054,6 @@ giải thích, mười câu trả lời.
 ]
 
 === IX. Acela (Lõa thể) (S.iv,300)
-<ix.-acela-lõa-thể-s.iv300>
 1). \..
 
 #block[
@@ -48401,7 +47164,6 @@ trạng thái này nữa".
 ]
 
 === X. Thăm Người Bệnh (S.iv,302) 1-2) Lúc bấy giờ, gia chủ Citta bị bệnh, khổ đau, bị trọng bệnh.
-<x.-thăm-người-bệnh-s.iv302-1-2-lúc-bấy-giờ-gia-chủ-citta-bị-bệnh-khổ-đau-bị-trọng-bệnh.>
 #block[
 #set enum(numbering: "1)", start: 3)
 + Rồi số đông chư Thiên ở hoa viên, chư Thiên ở rừng, chư Thiên ở cây,
@@ -48488,9 +47250,7 @@ giới và có thiện tánh”. Như vậy, các Ông cần phải học tập.
 #divider()
 
 == \[42\] Chương VIII - Tương Ưng Thôn Trưởng
-<chương-viii---tương-ưng-thôn-trưởng-1>
 === I. Canda (Tàn bạo) (S.iv,305)
-<i.-canda-tàn-bạo-s.iv305>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại
@@ -48552,7 +47312,6 @@ làm đệ tử cư sĩ, từ
 nay trở đi cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === II. Puta (S.iv,306)
-<ii.-puta-s.iv306>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), tại Trúc Lâm, chỗ nuôi
@@ -48669,7 +47428,6 @@ thân hoại mạng chung, được sanh cộng trú với chư Thiên hay cư�
 ]
 
 === III. Yodhàjivo (Kẻ chiến đấu) (S.vi,308)
-<iii.-yodhàjivo-kẻ-chiến-đấu-s.vi308>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -48753,7 +47511,6 @@ Thiên tên là Saràjità".
 ]
 
 === IV. Voi (S.iv,310)
-<iv.-voi-s.iv310>
 #block[
 #set enum(numbering: "1)", start: 1)
 + … 2-8) (Giống như kinh trước, chỉ khác đấy là vị tượng sư hay người
@@ -48761,9 +47518,7 @@ Thiên tên là Saràjità".
 ]
 
 === V. Ngựa (S.iv,310) 1-8) (Giống như kinh trước, chỉ khác đấy là vị mã sư hay người huấn luyện ngựa).
-<v.-ngựa-s.iv310-1-8-giống-như-kinh-trước-chỉ-khác-đấy-là-vị-mã-sư-hay-người-huấn-luyện-ngựa.>
 === VI. Người Ðất Phương Tây hay Người Ðã Chết (S.iv,311)
-<vi.-người-ðất-phương-tây-hay-người-ðã-chết-s.iv311>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Nàlandà, tại rừng Pàvàrikamba.
@@ -48887,7 +47642,6 @@ làm đệ tử cư sĩ, từ
 nay trở đi cho đến mạng chung, con trọn đời quy ngưỡng!
 
 === VII. Thuyết Pháp (S.iv,314)
-<vii.-thuyết-pháp-s.iv314>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Nàlandà, tại rừng Pàvàrikamba.
@@ -49016,7 +47770,6 @@ làm chỗ che chở, lấy Ta làm chỗ nương tựa.
 đời quy ngưỡng.
 
 === VIII. Vỏ Ốc (S.iv,317)
-<viii.-vỏ-ốc-s.iv317>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Nàlandà, tại rừng Pàvàrikamba.
@@ -49231,7 +47984,6 @@ quảng đại vô biên, không hận, không sân.
 đời quy ngưỡng.
 
 === IX. Gia Tộc (S.iv,322)
-<ix.-gia-tộc-s.iv322>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn du hành ở giữa dân tộc Kosala cùng với đại chúng Tỷ-
@@ -49337,7 +48089,6 @@ hoạch một cách tự chế.
 đời quy ngưỡng.
 
 === X. Manicùlam (Châu báu trên đỉnh đầu) (S.iv,325)
-<x.-manicùlam-châu-báu-trên-đỉnh-đầu-s.iv325>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Ràjagaha (Vương Xá), Veluvana (Trúc Lâm), tại
@@ -49409,7 +48160,6 @@ bởi ai cần đến người. Nhưng này Thôn trưởng, không bất cứ m
 Ta nói rằng vàng, bạc được chấp nhận, được tìm cầu.
 
 === XI. Bhadra (Hiền) hay Bhagandha- Hat- Thaha (S.iv,327)
-<xi.-bhadra-hiền-hay-bhagandha--hat--thaha-s.iv327>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở giữa dân chúng Malla tại Uruvelakappa, một thị
@@ -49544,7 +48294,6 @@ có khổ gì khởi lên, tất cả khổ ấy đều lấy dục làm căn b�
 sở nhân. Dục là căn bản của đau khổ.
 
 === XII. Ràsiya (S.iv,330)
-<xii.-ràsiya-s.iv330>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -49591,7 +48340,6 @@ không chơn chánh.
 ]
 
 === II.(i)
-<ii.i>
 #block[
 #set enum(numbering: "1)", start: 7)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49601,7 +48349,6 @@ không chơn chánh.
 ]
 
 === II.(ii)
-<ii.ii>
 #block[
 #set enum(numbering: "1)", start: 8)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49611,7 +48358,6 @@ không chơn chánh.
 ]
 
 === II.(iii)
-<ii.iii>
 #block[
 #set enum(numbering: "1)", start: 9)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49621,7 +48367,6 @@ không chơn chánh.
 ]
 
 === II.(iv)
-<ii.iv>
 #block[
 #set enum(numbering: "1)", start: 10)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49632,7 +48377,6 @@ không chơn chánh.
 ]
 
 === II.(v)
-<ii.v>
 #block[
 #set enum(numbering: "1)", start: 11)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49643,7 +48387,6 @@ không chơn chánh.
 ]
 
 === II.(vi)
-<ii.vi>
 #block[
 #set enum(numbering: "1)", start: 12)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49653,7 +48396,6 @@ không chơn chánh.
 ]
 
 === II.(vii)
-<ii.vii>
 #block[
 #set enum(numbering: "1)", start: 13)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49663,7 +48405,6 @@ không chơn chánh.
 ]
 
 === II.(viii)
-<ii.viii>
 #block[
 #set enum(numbering: "1)", start: 14)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49673,7 +48414,6 @@ không chơn chánh.
 ]
 
 === II.(ix)
-<ii.ix>
 #block[
 #set enum(numbering: "1)", start: 15)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49684,7 +48424,6 @@ không chơn chánh.
 ]
 
 === II.(x)
-<ii.x>
 #block[
 #set enum(numbering: "1)", start: 16)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49697,7 +48436,6 @@ không chơn chánh.
 không phạm tội, thấy sự nguy hiểm và với trí huệ xuất ly.
 
 === III.(i)
-<iii.i>
 #block[
 #set enum(numbering: "1)", start: 17)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49715,7 +48453,6 @@ này, người ấy bị chỉ trích. Này Thôn trưởng, người hưởng t
 về ba phương diện bị chỉ trích.
 
 === III.(ii)
-<iii.ii>
 #block[
 #set enum(numbering: "1)", start: 18)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49734,7 +48471,6 @@ người ấy được tán thán. Người hưởng thọ vật dục này, nà
 hai phương diện bị chỉ trích, về một phương diện được tán thán.
 
 === III.(iii)
-<iii.iii>
 #block[
 #set enum(numbering: "1)", start: 19)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49754,7 +48490,6 @@ dục này, này Thôn trưởng, về một phương diện bị chỉ trích, 
 diện được tán thán.
 
 === III.(iv)
-<iii.iv>
 #block[
 #set enum(numbering: "1)", start: 20)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49778,7 +48513,6 @@ này, này Thôn trưởng, về một phương diện được
 tán thán, về ba phương diện bị chỉ trích.
 
 === III.(v)
-<iii.v>
 #block[
 #set enum(numbering: "1)", start: 21)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49800,7 +48534,6 @@ trưởng, về hai phương diện được tán thán, về hai phương diệ
 trích.
 
 === III.(vi)
-<iii.vi>
 #block[
 #set enum(numbering: "1)", start: 22)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49824,7 +48557,6 @@ trưởng, về ba phương diện được tán thán, về một phương di�
 trích.
 
 === III.(vii)
-<iii.vii>
 #block[
 #set enum(numbering: "1)", start: 23)
 + Ở đây, có người hưởng thọ vật dục, này Thôn trưởng, tìm cầu tài sản
@@ -49844,7 +48576,6 @@ hưởng thọ vật dục này, này Thôn trưởng, về một phương diệ
 thán, về hai phương diện bị chỉ trích.
 
 === III.(viii)
-<iii.viii>
 #block[
 #set enum(numbering: "1)", start: 24)
 + Ở đây, có người hưởng thọ vật dục, này Thôn trưởng, tìm cầu tài sản
@@ -49865,7 +48596,6 @@ trưởng, về hai phương diện được tán thán, về một phương di�
 trích.
 
 === III.(xi)
-<iii.xi>
 #block[
 #set enum(numbering: "1)", start: 25)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49890,7 +48620,6 @@ dục này, này Thôn trưởng, về ba phương diện được tán thán, v
 diện bị chỉ trích.
 
 === III.(x)
-<iii.x>
 #block[
 #set enum(numbering: "1)", start: 26)
 + Ở đây, này Thôn trưởng, có người hưởng thọ vật dục, tìm cầu tài sản
@@ -49914,7 +48643,6 @@ Người hưởng thọ vật dục này, này Thôn trưởng, về bốn phư�
 tán thán.
 
 === IV.(i)
-<iv.i>
 #block[
 #set enum(numbering: "1)", start: 27)
 + Này Thôn trưởng, có ba hạng người tu khổ hạnh, sống khắc khổ, có mặt
@@ -49931,7 +48659,6 @@ pháp nào, không chứng ngộ Thượng nhân pháp, tri kiến thù thắng 
 bậc Thánh nào.
 
 === IV.(ii)
-<iv.ii>
 #block[
 #set enum(numbering: "1)", start: 29)
 + Ở đây, này Thôn trưởng, có người tu khổ hạnh, sống khắc khổ, vì lòng
@@ -49943,7 +48670,6 @@ bậc Thánh nào.
 ]
 
 === IV.(iii)
-<iv.iii>
 #block[
 #set enum(numbering: "1)", start: 30)
 + Ở đây, này Thôn trưởng, có người tu khổ hạnh, sống khắc khổ, vì lòng
@@ -49955,7 +48681,6 @@ bậc Thánh nào.
 ]
 
 === V.(i)
-<v.i>
 #block[
 #set enum(numbering: "1)", start: 31)
 + Ở đây, này Thôn trưởng, có người tu khổ hạnh, sống khắc khổ, tự mình
@@ -49974,7 +48699,6 @@ khổ hạnh, sống khắc khổ này, này Thôn trưởng, về ba phương d
 chỉ trích.
 
 === V.(ii)
-<v.ii>
 #block[
 #set enum(numbering: "1)", start: 32)
 + Ở đây, này Thôn trưởng, có người tu khổ hạnh, sống khắc khổ, tự mình
@@ -49994,7 +48718,6 @@ khổ này, này Thôn trưởng, về hai phương diện bị chỉ trích, v�
 diện được tán thán.
 
 === V.(iii)
-<v.iii>
 #block[
 #set enum(numbering: "1)", start: 33)
 + Ở đây, này Thôn trưởng, có người tu khổ hạnh, sống khắc khổ, tự mình
@@ -50021,7 +48744,6 @@ này Thôn trưởng, về một phương diện bị chỉ trích, về hai ph�
 ]
 
 === VI.(i)
-<vi.i>
 #block[
 #set enum(numbering: "1)", start: 35)
 + Phàm người tham dục (ràga), do nhân tham dục, nghĩ đến tự hại, nghĩ
@@ -50033,7 +48755,6 @@ này Thôn trưởng, về một phương diện bị chỉ trích, về hai ph�
 ]
 
 === VI.(ii)
-<vi.ii>
 #block[
 #set enum(numbering: "1)", start: 36)
 + Phàm người sân hận, do nhân sân hận, nghĩ đến tự hại, nghĩ đến hại
@@ -50045,7 +48766,6 @@ này Thôn trưởng, về một phương diện bị chỉ trích, về hai ph�
 ]
 
 === VI.(iii)
-<vi.iii>
 #block[
 #set enum(numbering: "1)", start: 37)
 + Phàm người si mê, do nhân si mê, nghĩ đến tự hại, nghĩ đến hại người
@@ -50069,7 +48789,6 @@ già lão, có hiệu quả tức thời, đến để mà thấy, có khả nă
 đời quy ngưỡng!
 
 === XIII. Pàtali (Khả ý) (S.iv,340)
-<xiii.-pàtali-khả-ý-s.iv340>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở giữa dân chúng Koliya, tại thị trấn của dân
@@ -50109,7 +48828,6 @@ Thiện Thệ? Vậy này Thôn trưởng, về vấn đề này Ta sẽ hỏi �
 kham nhẫn, Ông có thể trả lời.
 
 === I.(i)
-<i.i>
 5)-- Ông nghĩ thế nào, này Thôn trưởng? Ông có biết, này Thôn trưởng,
 các người làm thuê của dân chúng Kosala có búi tóc thòng xuống?
 
@@ -50238,7 +48956,6 @@ tại, cảm thọ khổ ưu. Ai nói láo; tất cả, ngay trong hiện tại,
 khổ ưu”.
 
 === II.(i)
-<ii.i-1>
 #block[
 #set enum(numbering: "1)", start: 21)
 + Nhưng này Thôn trưởng, ở đây, chúng ta thấy có người đeo vòng hoa, đeo
@@ -50310,7 +49027,6 @@ giới.
 -- Thưa không, bạch Thế Tôn.
 
 === II.(iii)
-<ii.iii-1>
 #block[
 #set enum(numbering: "1)", start: 25)
 + -- Nhưng này Thôn trưởng, ở đây, chúng ta thấy có người đeo vòng hoa,
@@ -50326,7 +49042,6 @@ vòng hoa, được đeo bông tai… được các nữ nhân phục vụ các 
 vị vua".
 
 === II.(iv)
-<ii.iv-1>
 #block[
 #set enum(numbering: "1)", start: 26)
 + Nhưng này Thôn trưởng, ở đây, chúng ta thấy có người hai tay bị trói
@@ -50353,7 +49068,6 @@ họ?
 -- Thưa không, bạch Thế Tôn.
 
 === II.(v)
-<ii.v-1>
 #block[
 #set enum(numbering: "1)", start: 29)
 + -- Nhưng này Thôn trưởng, ở đây, chúng ta thấy có người đeo vòng hoa,
@@ -50372,7 +49086,6 @@ người ấy được đeo vòng hoa, được đeo bông tai… được các 
 các dục chẳng khác vị vua".
 
 === II.(vi)
-<ii.vi-1>
 30)-- Nhưng này Thôn trưởng, ở đây, chúng ta thấy có người hai tay bị
 trói chặt… và bị chặt đầu tại cửa thành phía Nam. Về người này, họ nói:
 
@@ -50419,7 +49132,6 @@ với người ấy nên đã thưởng người ấy. Do vậy, người ấy �
 được đeo bông tai… được các nữ nhân phục vụ các dục chẳng khác vị vua".
 
 === II.(viii)
-<ii.viii-1>
 #block[
 #set enum(numbering: "1)", start: 34)
 + -- Nhưng này Thôn trưởng, ở đây, chúng ta thấy có người hai tay bị
@@ -50466,7 +49178,6 @@ có bốn vị Ðạo sư có quan điểm khác nhau, có (kham nhẫn) khác n
 thích khác nhau đến trú ngụ tại ngôi nhà nghĩ mát ấy.
 
 === III.(i)
-<iii.i-1>
 #block[
 #set enum(numbering: "1)", start: 38)
 + Một vị Ðạo sư nói như sau, thấy như sau: "Không có bố thí, không có lễ
@@ -50478,7 +49189,6 @@ thích khác nhau đến trú ngụ tại ngôi nhà nghĩ mát ấy.
 ]
 
 === III.(ii)
-<iii.ii-1>
 #block[
 #set enum(numbering: "1)", start: 39)
 + Một vị Ðạo sư nói như sau, thấy như sau: "Có bố thí, có lễ hy sinh, có
@@ -50489,7 +49199,6 @@ thích khác nhau đến trú ngụ tại ngôi nhà nghĩ mát ấy.
 ]
 
 === III.(iii)
-<iii.iii-1>
 #block[
 #set enum(numbering: "1)", start: 40)
 + Một vị Ðạo sư nói như sau, thấy như sau: “Tự làm, hay khiến người làm,
@@ -50512,7 +49221,6 @@ tế lễ, khiến người tế lễ; do duyên ấy,
 không có công đức, không đi đến công đức”.
 
 === III.(iv)
-<iii.iv-1>
 #block[
 #set enum(numbering: "1)", start: 41)
 + Một vị Ðạo sư nói như sau, thấy như sau: “Tự mình làm hay khiến người
@@ -50533,7 +49241,6 @@ bờ phía Bắc sông Hằng bố thí, khiến người bố thí, tế lễ, 
 lễ; do duyên như vậy, có công đức, có đi đến công đức”.
 
 === III.(v)
-<iii.v-1>
 #block[
 #set enum(numbering: "1)", start: 42)
 + -- Về vấn đề này, bạch Thế Tôn, con có phân vân, con có nghi ngờ. Giữa
@@ -50552,7 +49259,6 @@ Thế Tôn có thể thuyết pháp cho con để sự phân vân này có thể
 phân vân này của Ông. Và này Thôn trưởng, thế nào là pháp Thiền định?
 
 === IV.(i)
-<iv.i-1>
 #block[
 #set enum(numbering: "1)", start: 44)
 + Ở đây, này Thôn trưởng, vị Thánh đệ tử sau khi đoạn tận sát sanh, sống
@@ -50592,7 +49298,6 @@ Này Thôn trưởng, đây là pháp Thiền định. Ở đây,
 nếu Ông được tâm định như vậy, sự phân vân của Ông được đoạn diệt.
 
 === IV.(ii)
-<iv.ii-1>
 #block[
 #set enum(numbering: "1)", start: 45)
 + Vị Thánh đệ tử ấy, này Thôn trưởng, với lòng tham được từ bỏ như vậy,
@@ -50617,7 +49322,6 @@ cõi đời này”. Với vị ấy hân hoan sanh khởi… (như trên, số 
 sự phân vân của Ông được đoạn diệt.
 
 === IV.(iii)
-<iv.iii-1>
 #block[
 #set enum(numbering: "1)", start: 46)
 + Vị Thánh đệ tử, này Thôn trưởng, với lòng tham được từ bỏ như vậy…
@@ -50630,7 +49334,6 @@ sự phân vân của Ông được đoạn diệt.
 ]
 
 === IV.(iv)
-<iv.iv>
 #block[
 #set enum(numbering: "1)", start: 47)
 + Vị Thánh đệ tử, này Thôn trưởng, với lòng tham được từ bỏ như vậy…
@@ -50645,7 +49348,6 @@ có tội lỗi gì..”. (như trên, số 44)… như vậy, sự phân vân c
 đoạn diệt.
 
 === V.(i)
-<v.i-1>
 #block[
 #set enum(numbering: "1)", start: 48)
 + Vị Thánh đệ tử, này Thôn trưởng… (hoàn toàn giống như đoạn (i) số 44,
@@ -50656,17 +49358,14 @@ nay là tâm câu hữu với bi. \.. tâm câu hữu với hỷ. \.. tâm câu 
 xa).
 
 === V.(ii)
-<v.ii-1>
 49)… (giống như đoạn (ii) số 45, chỉ khác, đây với tâm câu hữu với bi.
 \.. câu hữu với hỷ… tâm câu hữu với xả).
 
 === V.(iii)
-<v.iii-1>
 50)… (giống như đoạn (iii) số 46, chỉ khác, đây với tâm câu hữu với bi…
 câu hữu với hỷ… câu hữu với xả).
 
 === V.(iv)
-<v.iv>
 51)… (giống như đoạn (iv) số 47, chỉ khác, ở đây với tâm câu hữu với bi…
 câu hữu với hỷ… câu hữu với xả).
 
@@ -50681,11 +49380,8 @@ cho đến mạng chung, con trọn đời quy ngưỡng.
 #divider()
 
 == \[43\] Chương IX - Tương Ưng Vô Vi
-<chương-ix---tương-ưng-vô-vi-1>
 == Phần Một - Phẩm Một
-<phần-một---phẩm-một-1>
 === I. Thân (S.iv,359)
-<i.-thân-s.iv359>
 #block[
 #set enum(numbering: "1)", start: 1)
 + -- Này các Tỷ-kheo, Ta sẽ giảng về pháp vô vi và con đường đưa đến vô
@@ -50716,7 +49412,6 @@ vi.
 để hối hận về sau. Ðây là lời giáo giới của Ta cho các Ông.
 
 === II. Chỉ (Samatha) (S.iv,360)
-<ii.-chỉ-samatha-s.iv360>
 #block[
 #set enum(numbering: "1)", start: 1)
 + -- Này các Tỷ-kheo, Ta sẽ giảng cho các Ông về vô vi và về con đường
@@ -50731,13 +49426,11 @@ vi.
 ]
 
 === III. Tầm (S.iv,360) 1-2) …
-<iii.-tầm-s.iv360-1-2>
 3)-- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Có định có
 tầm, có tứ; có định không tầm, có tứ; có định không tầm, không tứ. Này
 các Tỷ-kheo, đây gọi là con đường đưa đến vô vi.
 
 === IV. Không 1-2) …
-<iv.-không-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Không định,
@@ -50773,7 +49466,6 @@ các Tỷ-kheo, đây gọi là con đường đưa đến vô vi.
 ]
 
 === XI. Với Con Ðường (S.iv,361) 1-2) …
-<xi.-với-con-ðường-s.iv361-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Con đường
@@ -50798,11 +49490,8 @@ lên lòng từ mẫn đối với họ \; tất cả, Ta đã làm đối với
 #divider()
 
 == Phần Hai - Phẩm Hai
-<phần-hai---phẩm-hai-1>
 === I. Vô Vi
-<i.-vô-vi>
 === I. Chỉ (S.iv,362)
-<i.-chỉ-s.iv362>
 #block[
 #set enum(numbering: "1)", start: 1)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết về vô vi, và về con đường đưa đến vô
@@ -50846,7 +49535,6 @@ vi.
 ]
 
 === III. Sáu Ðịnh (S. iv. 62)
-<iii.-sáu-ðịnh-s.-iv.-62>
 1-2) …
 
 #block[
@@ -50856,12 +49544,10 @@ vi.
 ]
 
 === IV. Sáu Ðịnh (2) 1-2) …
-<iv.-sáu-ðịnh-2-1-2>
 3)-- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không
 tầm, chỉ có tứ \; này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
 === V. Sáu Ðịnh (3) 1-2) …
-<v.-sáu-ðịnh-3-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không
@@ -50870,7 +49556,6 @@ tầm, chỉ có tứ \; này các Tỷ-kheo, đây là con đường đưa đ�
 tầm không tứ; này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
 === VI. Sáu Ðịnh (4) 1-2) …
-<vi.-sáu-ðịnh-4-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Không định,
@@ -50878,7 +49563,6 @@ tầm không tứ; này các Tỷ-kheo, đây là con đường đưa đến vô
 ]
 
 === VII. Sáu Ðịnh (5) 1-2) …
-<vii.-sáu-ðịnh-5-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh Vô
@@ -50886,34 +49570,29 @@ tầm không tứ; này các Tỷ-kheo, đây là con đường đưa đến vô
 ]
 
 === VIII. Sáu Ðịnh (6)
-<viii.-sáu-ðịnh-6>
 1-2) …
 
 3)-- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh Vô
 nguyện, này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
 === IX. Bốn Niệm Xứ (1) (S.iv,363) 1-2) …
-<ix.-bốn-niệm-xứ-1-s.iv363-1-2>
 3)-- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ở đây, này
 các Tỷ-kheo, Tỷ-kheo sống tùy quán thân trên thân, nhiệt tâm, tỉnh giác,
 chánh niệm, nhiếp phục tham ưu ở đời. Này các Tỷ-kheo, đây gọi là con
 đường đưa đến vô vi…
 
 === X - XII. Bốn Niệm Xứ (2-4) 1-2) …
-<x---xii.-bốn-niệm-xứ-2-4-1-2>
 3)… Ở đây, này các Tỷ-kheo, Tỷ-kheo sống tùy quán thọ trên thọ… tùy quán
 tâm trên tâm… tùy quán pháp trên pháp. Này các Tỷ-kheo, đây là con đường
 đưa đến vô vi…
 
 === XIII. Bốn Chánh Cần (1) 1-2) …
-<xiii.-bốn-chánh-cần-1-1-2>
 3)-- Và này các Tỷ-kheo, thế này là con đường đưa đến vô vi? Ở đây, này
 các Tỷ-kheo, Tỷ-kheo phát sanh lòng ước muốn rằng các ác bất thiện pháp
 chưa sanh không cho sanh khởi, tinh cần, tinh tấn, kiên tâm, trì chí.
 Này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
 === XIV - XVI. Bốn Chánh Cần (2-4)
-<xiv---xvi.-bốn-chánh-cần-2-4>
 1-2) …
 
 3)-- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ở đây, này
@@ -50926,7 +49605,6 @@ tinh tấn, kiên tâm, trì chí. Này các Tỷ-kheo, đây là con đường 
 vô vi.
 
 === XVII. Bốn Như Ý Túc (1) (S.iv,365) 1-2) …
-<xvii.-bốn-như-ý-túc-1-s.iv365-1-2>
 3)-- Và này các Tỷ-kheo thế nào là con đường đưa đến vô vi? Ở đây, này
 các Tỷ-kheo, Tỷ-kheo tu tập như ý túc, câu hữu với dục Thiền định, tinh
 cần hành. Này các Tỷ-kheo, đây gọi là con đường đưa đến vô vi… XVIII-XX.
@@ -50938,7 +49616,6 @@ cần hành… câu hữu với tinh tấn Thiền định… câu hữu với t
 định, tinh cần hành. Này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
 === XXI. Năm Căn (1) (S.iv,365)
-<xxi.-năm-căn-1-s.iv365>
 1-2) …
 
 3)-- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ở đây, này
@@ -50980,7 +49657,6 @@ ly, y cứ ly tham, y cứ diệt tận,
 hướng đến từ bỏ. Này các Tỷ-kheo, đây là con đường đưa đến vô vi…
 
 === II. Ðích Cuối Cùng (Antam) (S.iv,368) I-XLV.
-<ii.-ðích-cuối-cùng-antam-s.iv368-i-xlv.>
 1)-- Này các Tỷ-kheo, Ta sẽ thuyết về mục đích cuối cùng và con đường
 đưa đến mục đích cuối cùng, hãy lắng nghe.
 
@@ -50991,7 +49667,6 @@ hướng đến từ bỏ. Này các Tỷ-kheo, đây là con đường đưa đ
 ]
 
 === III. Vô Lậu (S.iv,360) I-XLV.
-<iii.-vô-lậu-s.iv360-i-xlv.>
 1)-- Này các Tỷ-kheo, Ta sẽ thuyết về vô lậu và con đường đưa đến vô
 lậu, hãy lắng nghe.
 
@@ -51011,22 +49686,16 @@ lậu, hãy lắng nghe.
 ]
 
 === XVII. An Ổn (Khemam) XVIII. Ái Ðoạn Tận…
-<xvii.-an-ổn-khemam-xviii.-ái-ðoạn-tận>
 === XIX. Bất Khả Tư Nghì (Acchariyam)… XX. Hy Hữu (Abhutam)… XXI. Không Tai Họa (Anìtika)…
-<xix.-bất-khả-tư-nghì-acchariyam-xx.-hy-hữu-abhutam-xxi.-không-tai-họa-anìtika>
 === XXII. Không Bị Tai Họa (Anitakdhamma)… XXIII. Niết Bàn….
-<xxii.-không-bị-tai-họa-anitakdhamma-xxiii.-niết-bàn.>
 === XXIV. Không Tồn Tại (Avyàpajjho)… XXV. Ly Tham (Viràgo)… XXVI. Thanh Tịnh…. XXVII. Gỉải Thoát (Mutti)…
-<xxiv.-không-tồn-tại-avyàpajjho-xxv.-ly-tham-viràgo-xxvi.-thanh-tịnh.-xxvii.-gỉải-thoát-mutti>
 === XXVIII. Không Chứa Giữ (Anàlayo)… XXIX. Ngọn Ðèn (Dipa)… XXX. Hang ẩn (Lena)… XXXI. Pháo Ðài (Tànam) …
-<xxviii.-không-chứa-giữ-anàlayo-xxix.-ngọn-ðèn-dipa-xxx.-hang-ẩn-lena-xxxi.-pháo-ðài-tànam>
 #block[
 #set enum(numbering: "I.", start: 32)
 + Quy Y (Saranam)…
 ]
 
 === XXXIII. Ðến Bờ Bên Kia (Paràyanam)
-<xxxiii.-ðến-bờ-bên-kia-paràyanam>
 #block[
 #set enum(numbering: "1)", start: 1)
 + -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về sự đến bờ bên kia và
@@ -51054,9 +49723,7 @@ lậu, hãy lắng nghe.
 #divider()
 
 == \[44\] Chương X - Tương Ưng Không Thuyết
-<chương-x---tương-ưng-không-thuyết-1>
 === I. Trưởng Lão Ni Khemà (S.iv,374)
-<i.-trưởng-lão-ni-khemà-s.iv374>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Sàvatthi, tại Jetavana, vườn ông Anàthapindika.
@@ -51270,7 +49937,6 @@ thời.
 ]
 
 === II. Anuràdha. (S.iv380)
-<ii.-anuràdha.-s.iv380>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Thế Tôn trú ở Vesàli, tại Ðại Lâm, ở Trùng Các giảng đường.
@@ -51509,7 +50175,6 @@ không có các hành, không có thức hay không?
 ]
 
 === III. Sàriputta-Kotthika (1) (hay Trú trước) (S.iv,384)
-<iii.-sàriputta-kotthika-1-hay-trú-trước-s.iv384>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Sàriputta và Tôn giả Mahà Kotthika trú ở Barànasi,
@@ -51599,7 +50264,6 @@ không không tồn tại sau khi chết” là chấp trước sắc.
 ]
 
 === IV. Sàriputta - Kotthika (2) (hay Tập khởi) (S.iv,387)
-<iv.-sàriputta---kotthika-2-hay-tập-khởi-s.iv387>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Sàriputta và Tôn giả Mahà Kotthika trú ở Bàranasi
@@ -51657,7 +50321,6 @@ không tồn tại và không không tồn tại sau khi chết".
 ]
 
 === V. Sàriputta - Kotthika (3) (hay Ái) (S.iv,368)
-<v.-sàriputta---kotthika-3-hay-ái-s.iv368>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Sàriputta và Tôn giả Mahà Kotthika trú ở Bàranasi
@@ -51708,7 +50371,6 @@ không tồn tại sau khi chết".
 ]
 
 === VI. Sàriputta - Kotthika (4) (hay Vườn) (S.iv,388)
-<vi.-sàriputta---kotthika-4-hay-vườn-s.iv388>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời Tôn giả Sàriputta và Tôn giả Mahà Kotthika trú ở Bàranasì,
@@ -51845,7 +50507,6 @@ nữa. Ðối với Tỷ-kheo đã được giải thoát
 nhờ đoạn tận ái, thời không còn gì để nêu rõ là được tăng trưởng.
 
 === VII. Moggalàna (hay Xứ) (S.iv.391)
-<vii.-moggalàna-hay-xứ-s.iv.391>
 1). \..
 
 #block[
@@ -52025,7 +50686,6 @@ không tồn tại và không không tồn tại sau khi chết".
 ]
 
 === VIII. Vaccha (hay Trói buộc) (S.iv,395)
-<viii.-vaccha-hay-trói-buộc-s.iv395>
 1). \..
 
 #block[
@@ -52154,7 +50814,6 @@ có sự tương hòa, không có sự mâu thuẫn, tức là tối thượng v
 ]
 
 === IX. Luận Nghị Ðường (Kutùhalasàlà) (S.iv,398)
-<ix.-luận-nghị-ðường-kutùhalasàlà-s.iv398>
 1). \..
 
 #block[
@@ -52243,7 +50902,6 @@ một thân khác, này Vaccha, Ta tuyên bố rằng trong khi ấy chính ái
 (tanhà) là nhiên liệu (upàdànam).
 
 === X. Ananda (hay Sự có mặt của ngã) (S.iv,400)
-<x.-ananda-hay-sự-có-mặt-của-ngã-s.iv400>
 1). \..
 
 #block[
@@ -52296,7 +50954,6 @@ Vacchagotta?
 ]
 
 === XI.Sabhiya (S.iv,401)
-<xi.sabhiya-s.iv401>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Một thời, Tôn giả Sabhiya Kaccàna trú ở Nàtika, tại ngôi nhà bằng
@@ -52388,9 +51045,7 @@ tưởng?
 #divider()
 
 == TẬP V - THIÊN ĐẠI PHẨM
-<tập-v---thiên-đại-phẩm-1>
 == \[45\] Chương I - Tương Ưng Ðạo
-<chương-i---tương-ưng-ðạo-1>
 1.I. Vô Minh (S.v,1)
 
 + Như vầy tôi nghe. Một thời, Thế Tôn trú ở Sàvatthi (Xá- vệ), tại Thắng
@@ -52809,7 +51464,6 @@ cho đến mạng chung, con xin trọn đời quy ngưỡng.
 #divider()
 
 === II. Phẩm Trú
-<ii.-phẩm-trú-1>
 11.I. Trú (1) (S.v,12)
 
 #block[
@@ -53083,7 +51737,6 @@ là cứu cánh Phạm hạnh?
 #divider()
 
 === III. Phẩm Tà Tánh
-<iii.-phẩm-tà-tánh-1>
 21.I. Tà Tánh (S.v,17) 1-2) Nhân duyên ở Sàvatthi…
 
 #block[
@@ -53303,7 +51956,6 @@ Năm dục công đức này, này Uttiya, được Ta nói đến.
 #divider()
 
 === IV. Phẩm Về Hạnh (Patipattivagga)
-<iv.-phẩm-về-hạnh-patipattivagga-1>
 31.I. Hạnh (Patipatti) (S.v,23) 1-2) Nhân duyên ở Sàvatthi… Thế Tôn nói
 như sau:
 
@@ -53726,7 +52378,6 @@ ngành.
 Một Pháp Trung Lược I Tất cả đều nhân duyên ở Sàvatthi.
 
 === I. Liên Hệ Ðến Viễn Ly
-<i.-liên-hệ-ðến-viễn-ly>
 63.I. Bạn Hữu Với Thiện (1) (S.v,32)
 
 #block[
@@ -53792,7 +52443,6 @@ dật…
 #divider()
 
 === II. Nhiếp Phục Tham
-<ii.-nhiếp-phục-tham>
 70.VIII. Bạn Hữu Vớ\`i Thiện (2). Cho đến
 
 76.XVI. Như Lý (2) (S.v,34-35)
@@ -53807,7 +52457,6 @@ dật…
 Một Pháp Trung Lược II Tất cả đều nhân duyên ở Sàvatthi…
 
 === I. Liên hệ Ðến Viễn Ly
-<i.-liên-hệ-ðến-viễn-ly-1>
 77.I. Bạn Hữu Với Thiện (1) (S.v,35)
 
 #block[
@@ -53840,7 +52489,6 @@ Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành.
 thiết).
 
 === II. Nhiếp Phục Tham
-<ii.-nhiếp-phục-tham-1>
 84.VIII. Bạn Hữu Với Thiện (2) (S.v,37)
 
 #block[
@@ -53875,7 +52523,6 @@ Thánh đạo Tám ngành và làm cho sung mãn Thánh đạo Tám ngành?
 Hằng Hà Lược Thuyết Tất cả đều nhân duyên ở Sàvatthi…
 
 === I. Liên Hệ Ðến Viễn Ly
-<i.-liên-hệ-ðến-viễn-ly-2>
 91.I. Phương Ðông (1) (S.v,38)
 
 #block[
@@ -53908,7 +52555,6 @@ Hằng, Yamunà, Aciiravattii, Sarabhuu, Mahii…) 97-102.VII-XII. Biển (1-6)
 không phải hướng về hướng Ðông).
 
 === II. Nhiếp Phục Tham 103-108.I-VI. Hướng Ðông (1-6) (S.v,40) 109-114.VII-XII. Biển (1-6) (S.v,40) 1-2) …
-<ii.-nhiếp-phục-tham-103-108.i-vi.-hướng-ðông-1-6-s.v40-109-114.vii-xii.-biển-1-6-s.v40-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến với cứu cánh
@@ -53917,14 +52563,12 @@ không phải hướng về hướng Ðông).
 ]
 
 === III. Nhập Vào Bất Tử (Amatogadha) 115-120.I-VI. Hướng Ðông (1-6) (S.v,41) 121-126.VII-XII. Biển (1-6) (S.v,41)
-<iii.-nhập-vào-bất-tử-amatogadha-115-120.i-vi.-hướng-ðông-1-6-s.v41-121-126.vii-xii.-biển-1-6-s.v41>
 1-2) …
 
 3)-- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến, nhập vào bất
 tử, hướng về bất tử, cứu cánh là bất tử.
 
 === IV. Thiên Về Niết Bàn 127-132.I-VI. Hướng Ðông (1-6) (S.v,41) 133-138.VII-XII. Biển (1-6) (S.v,41) 1-2) …
-<iv.-thiên-về-niết-bàn-127-132.i-vi.-hướng-ðông-1-6-s.v41-133-138.vii-xii.-biển-1-6-s.v41-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến, thiên về
@@ -53940,7 +52584,6 @@ về Niết-bàn.
 139.I. Như Lai (S.v,41)
 
 === I. Viễn Ly
-<i.-viễn-ly>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -53979,7 +52622,6 @@ bỏ… tu tập chánh định liên hệ đến viễn ly, liên hệ đến l
 ]
 
 === II. Nhiếp Phục Tham 1-2-3) …
-<ii.-nhiếp-phục-tham-1-2-3>
 #block[
 #set enum(numbering: "1)", start: 4)
 + -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến, lấy nhiếp
@@ -54000,7 +52642,6 @@ phục sân làm cứu cánh, lấy nhiếp phục si làm cứu cánh… III. B
 ]
 
 === IV. Niết Bàn 1-2-3) …
-<iv.-niết-bàn-1-2-3>
 #block[
 #set enum(numbering: "1)", start: 4)
 + -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến thiên về
@@ -54150,7 +52791,6 @@ hướng đến từ bỏ.
 #divider()
 
 === VI. Phẩm Việc Làm Cần Sức Mạnh Tất cả đều nhân duyên ở Sàvatthi.
-<vi.-phẩm-việc-làm-cần-sức-mạnh-tất-cả-đều-nhân-duyên-ở-sàvatthi.>
 #block[
 #set enum(numbering: "1.", start: 149)
 + I. Sức lực (S.v,45)
@@ -54575,7 +53215,6 @@ Thánh đạo Tám ngành.
 #divider()
 
 === VII. Phẩm Tầm Cầu (Esanavaggo)
-<vii.-phẩm-tầm-cầu-esanavaggo-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tất cả đều nhân duyên ở Sàvatthi.
@@ -54584,7 +53223,6 @@ Thánh đạo Tám ngành.
 161.I. Tầm Cầu (S.v,54)
 
 === I. Thắng Trí
-<i.-thắng-trí>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -54612,7 +53250,6 @@ ngành này được tu tập. Thế nào là Thánh đạo tám ngành được
 Niết-bàn.
 
 === II. Liễu Tri: Parinnà 10-17) -- Này các Tỷ-kheo, có ba loại tầm cầu. Thế nào là ba? Tầm cầu về dục, tầm cầu về hữu, tầm cầu về Phạm
-<ii.-liễu-tri-parinnà-10-17-này-các-tỷ-kheo-có-ba-loại-tầm-cầu.-thế-nào-là-ba-tầm-cầu-về-dục-tầm-cầu-về-hữu-tầm-cầu-về-phạm>
 hạnh. Những pháp này, này các Tỷ- kheo, là ba tầm cầu. Chính vì liễu tri
 ba tầm cầu này mà Thánh đạo Tám ngành được tu tập. III. Ðoạn Diệt:
 Parikkaya. 18-25) -- Này các Tỷ-kheo, có ba loại tầm cầu. Thế nào là ba?
@@ -54622,7 +53259,6 @@ ba tầm cầu
 này mà Thánh đạo Tám ngành được tu tập.
 
 === IV. Ðoạn Tận: Pahàna 26-33) -- Này các Tỷ-kheo, có ba tầm cầu này. Thế nào là ba? Tầm cầu dục, tầm cầu hữu, tầm cầu Phạm hạnh.
-<iv.-ðoạn-tận-pahàna-26-33-này-các-tỷ-kheo-có-ba-tầm-cầu-này.-thế-nào-là-ba-tầm-cầu-dục-tầm-cầu-hữu-tầm-cầu-phạm-hạnh.>
 Chính vì mục đích đoạn tận ba tầm cầu này mà Thánh đạo Tám ngành được tu
 tập.
 
@@ -54906,9 +53542,7 @@ này các Tỷ-kheo, Thánh đạo Tám ngành này cần phải tu tập.
 #divider()
 
 == \[46\] Chương II - Tương Ưng Giác Chi
-<chương-ii---tương-ưng-giác-chi-1>
 === I. Phẩm Núi
-<i.-phẩm-núi-1>
 1.I. Tuyết Sơn (S.v,63) 1-2) Nhân duyên ở Sàvatthi … Thế Tôn nói như sau
 :
 
@@ -55561,7 +54195,6 @@ có thối thất”. Cũng vậy, thưa Hiền giả Sàriputta, Tỷ-kheo có 
 #divider()
 
 === II. Phẩm Về Bệnh
-<ii.-phẩm-về-bệnh-1>
 11.I. Sanh Loại (S.v,78)
 
 #block[
@@ -55820,7 +54453,6 @@ Niết-bàn.
 #divider()
 
 === III. Phẩm Udàyi
-<iii.-phẩm-udàyi-1>
 21.I. Giác (Bodhanà) (S.v,83)
 
 #block[
@@ -56187,7 +54819,6 @@ biết rằng : "Sanh đã tận… không còn trở lui trạng thái này n�
 #divider()
 
 === IV. Phẩm Triền Cái
-<iv.-phẩm-triền-cái-1>
 31.I.Thiện (1) (S.v,91)
 
 #block[
@@ -56530,7 +55161,6 @@ trí, đoạn diệt trí tuệ, dự phần vào tổn hại, không đưa đ�
 #divider()
 
 === V. Phẩm Chuyển Luân
-<v.-phẩm-chuyển-luân-1>
 41.I. Các Kiêu Mạn (Vidhà) (Tạp 27, 19, Ðại 2, 196a) (S.v,98)
 
 #block[
@@ -56747,7 +55377,6 @@ này các Tỷ-kheo, là Tỷ-kheo làm bạn với thiện, được tu tập b
 #divider()
 
 === VI. Phẩm Tổng Nhiếp Giác Chi
-<vi.-phẩm-tổng-nhiếp-giác-chi-1>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Tất cả nhân duyên ở Sàvatthi…
@@ -56764,7 +55393,6 @@ này các Tỷ-kheo, là Tỷ-kheo làm bạn với thiện, được tu tập b
 ]
 
 === I. Món Ăn Của Các Triền Cái 1-2) …
-<i.-món-ăn-của-các-triền-cái-1-2>
 #block[
 #set enum(numbering: "1)", start: 3)
 + -- Cái gì là món ăn, này các Tỷ- kheo, khiến cho dục tham
@@ -56808,7 +55436,6 @@ cho nghi hoặc chưa sanh được sanh khởi, hay nghi hoặc đã sanh đư�
 trưởng, quảng đại.
 
 === II. Món Ăn Cho Các Giác Chi
-<ii.-món-ăn-cho-các-giác-chi>
 #block[
 #set enum(numbering: "1)", start: 8)
 + -- Cái gì là món ăn, này các Tỷ- kheo, khiến cho niệm giác chi chưa
@@ -56874,7 +55501,6 @@ chính cái này là món ăn khiến cho xả giác chi chưa sanh được san
 hay xả giác chi đã sanh được tu tập, được làm cho viên mãn.
 
 === III. Không Phải Món Ăn Cho Các Triền Cái
-<iii.-không-phải-món-ăn-cho-các-triền-cái>
 #block[
 #set enum(numbering: "1)", start: 15)
 + -- Và này các Tỷ-kheo, cái gì không phải món ăn khiến cho dục tham
@@ -56920,7 +55546,6 @@ thời chính cái này không phải là món ăn khiến cho nghi hoặc chưa
 được sanh khởi, hay nghi hoặc đã sanh được tăng trưởng, quảng đại.
 
 === IV. Không Phải Là Món Ăn Cho Các Giác Chi
-<iv.-không-phải-là-món-ăn-cho-các-giác-chi>
 #block[
 #set enum(numbering: "1)", start: 20)
 + -- Và này các Tỷ-kheo, cái gì không phải là món ăn khiến cho niệm giác
@@ -57082,7 +55707,6 @@ sẽ rơi vào khó khăn.
 ]
 
 === I. Năm Trở Thành Mười
-<i.-năm-trở-thành-mười>
 #block[
 #set enum(numbering: "1)", start: 13)
 + -- Và này các Tỷ-kheo, pháp môn nào, do y cứ pháp môn ấy, năm triền
@@ -57119,7 +55743,6 @@ hai.
 ]
 
 === II. Bảy Trở Thành Mười Bốn
-<ii.-bảy-trở-thành-mười-bốn>
 #block[
 #set enum(numbering: "1)", start: 20)
 + -- Và này các Tỷ-kheo, pháp môn nào, do y cứ pháp môn ấy, bảy giác chi
@@ -57202,7 +55825,6 @@ hỏi vậy, này các Tỷ-kheo, các du sĩ ngoại đạo sẽ không thể c
 Như Lai, hay đệ tử Như Lai, hay những ai được nghe từ hai vị ấy.
 
 === I. Phi Thời
-<i.-phi-thời>
 13)-- Trong khi tâm thụ động, này các Tỷ-kheo, trong khi ấy, không phải
 thời là tu tập khinh an giác chi, không phải thời là tu tập định giác
 chi, không phải thời là tu tập xả giác chi. Vì sao? Khi tâm thụ động,
@@ -57224,7 +55846,6 @@ không phải thời là tu tập khinh an giác chi, không phải thời là t
 khi tâm thụ động, thật khó làm tâm phát khởi nhờ những pháp này.
 
 === II. Phải Thời
-<ii.-phải-thời>
 #block[
 #set enum(numbering: "1)", start: 15)
 + -- Và này các Tỷ-kheo, trong khi tâm thụ động, trong khi ấy, phải thời
@@ -57250,7 +55871,6 @@ chi, phải thời là tu tập hỷ giác chi. Vì sao? Vì rằng, này các T
 khi tâm thụ động, thật dễ làm tâm phát khởi nhờ những pháp này.
 
 === III. Không Phải Thời
-<iii.-không-phải-thời>
 #block[
 #set enum(numbering: "1)", start: 17)
 + -- Và này các Tỷ-kheo, trong khi tâm dao động, trong khi ấy, không
@@ -57273,7 +55893,6 @@ không phải thời là tu tập hỷ giác chi. Vì sao? Vì rằng, tâm dao 
 thật không dễ được tịnh chỉ nhờ những pháp ấy.
 
 === IV. Phải Thời
-<iv.-phải-thời>
 #block[
 #set enum(numbering: "1)", start: 19)
 + -- Và này các Tỷ-kheo, trong khi tâm dao động, trong khi ấy, phải thời
@@ -57798,14 +56417,12 @@ chứng đắc.
 #divider()
 
 === VII. Phẩm Hơi Thở Vô Gơi Thở Ra
-<vii.-phẩm-hơi-thở-vô-gơi-thở-ra-1>
 #block[
 #set enum(numbering: "1.", start: 57)
 + I. Bộ Xương (Tạp 27,38, Ðại 2,198a) (S.v,129)
 ]
 
 === I. Quả Lớn, Lợi Ích lớn
-<i.-quả-lớn-lợi-ích-lớn>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Sàvatthi…
@@ -57831,7 +56448,6 @@ nào, đưa đến quả lớn, đưa đến lợi ích lớn?
 ]
 
 === II. Trí Và Bất Hoàn (Annàsativà)
-<ii.-trí-và-bất-hoàn-annàsativà>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -57854,7 +56470,6 @@ nào, đưa đến quả lớn, đưa đến lợi ích lớn?
 ]
 
 === III. Nghĩa Lợi Lớn
-<iii.-nghĩa-lợi-lớn>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -57867,13 +56482,10 @@ nào, đưa đến quả lớn, đưa đến lợi ích lớn?
 ]
 
 === IV. An Ổn Lớn Khỏi Khổ Ách
-<iv.-an-ổn-lớn-khỏi-khổ-ách>
 \(Như kinh trên, chỉ khác là đưa đến an ổn lớn, khỏi khổ ách)
 
 === V. Hứng Khởi Lớn (Samvegà) (S.v,130) (Như trên, chỉ khác là đưa đến hứng khởi lớn)
-<v.-hứng-khởi-lớn-samvegà-s.v130-như-trên-chỉ-khác-là-đưa-đến-hứng-khởi-lớn>
 === VI. Lạc Trú (S.v,131) (Như kinh trên, chỉ khác là đưa đến lạc trú)
-<vi.-lạc-trú-s.v131-như-kinh-trên-chỉ-khác-là-đưa-đến-lạc-trú>
 #block[
 #set enum(numbering: "1.", start: 58)
 + II. Côn Trùng Ăn (Pulavaka) I-VI) Tu tập tưởng bị trùng ăn, này các
@@ -57914,7 +56526,6 @@ I-VI. Tu tập xả tâm, này các Tỷ-kheo…
 #divider()
 
 === VIII. Phẩm Ðoạn Diệt (S.v,132)
-<viii.-phẩm-ðoạn-diệt-s.v132-1>
 #block[
 #set enum(numbering: "1.", start: 67)
 + I. Bất Tịnh (Tạp 27,30, Ðại 2,197a) I-VI. Tu tập tưởng bất tịnh, này
@@ -57951,7 +56562,6 @@ này các Tỷ-kheo…
 ]
 
 === I. Quả Lớn, Lợi Ích Lớn (S.v,133)
-<i.-quả-lớn-lợi-ích-lớn-s.v133>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -57971,7 +56581,6 @@ này các Tỷ-kheo…
 #divider()
 
 === II. Trí Và Bất Hoàn
-<ii.-trí-và-bất-hoàn>
 #block[
 #set enum(numbering: "1)", start: 2)
 + -- Tu tập tưởng đoạn diệt, làm cho sung mãn, này các Tỷ-kheo, một
@@ -57989,7 +56598,6 @@ này các Tỷ-kheo…
 ]
 
 === III. IV, V, VI. Nghĩa Lợi Lớn, An Ổn Lớn Khỏi Khổ Ách, Hứng Khởi Lớn, Lạc Trú (S.v,133)
-<iii.-iv-v-vi.-nghĩa-lợi-lớn-an-ổn-lớn-khỏi-khổ-ách-hứng-khởi-lớn-lạc-trú-s.v133>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -58019,7 +56627,6 @@ này các Tỷ-kheo…
 #divider()
 
 === IX. Phẩm Sông Hằng Quảng Thuyết
-<ix.-phẩm-sông-hằng-quảng-thuyết-1>
 #block[
 #set enum(numbering: "1.", start: 77)
 + I. Hướng Về Ðông (S.v, 134)
@@ -58045,21 +56652,18 @@ về Niết-bàn. 78-88. II - XII (S.v,134) (Cho đến phẩm Tầm Cầu, như
 #divider()
 
 === X. Phẩm Không Phóng Dật 89-98. I-X. (S.v,135)
-<x.-phẩm-không-phóng-dật-89-98.-i-x.-s.v135>
 -- Này các Tỷ-kheo, như các loài hữu tình không chân, hay có hai chân,
 hay có bốn chân, hay có nhiều chân… (Như trên, theo đoạn bảy giác chi)
 
 #divider()
 
 === XI. Phẩm Cần Dùng Sức Mạnh 99-100. I-XII. (S.v,135)
-<xi.-phẩm-cần-dùng-sức-mạnh-99-100.-i-xii.-s.v135>
 -- Này các Tỷ-kheo, ví như các hành động cần phải dùng sức mạnh… (Như
 trên, theo đoạn bảy giác chi)
 
 #divider()
 
 === XII. Phẩm Tầm Cầu 101-110. I-XII. (S.v,136)
-<xii.-phẩm-tầm-cầu-101-110.-i-xii.-s.v136>
 -- Có ba sự tầm cầu, này các Tỷ-kheo. Thế nào là ba? Tầm cầu dục, tầm
 cầu hữu, tầm cầu Phạm hạnh…
 
@@ -58068,7 +56672,6 @@ cầu hữu, tầm cầu Phạm hạnh…
 #divider()
 
 === XIII. Phẩm Bộc Lưu 111-119 I-IX. (S.v,136)
-<xiii.-phẩm-bộc-lưu-111-119-i-ix.-s.v136>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -58130,26 +56733,22 @@ nhiếp phục si. Cũng vậy, này các Tỷ- kheo, Tỷ-kheo… xuôi về Ni
 #divider()
 
 === XV. Phẩm Không Phóng Dật (Nhiếp phục tham) 132-142. I-X. (S.v,138) Gồm các kinh: Chân Của Như Lai, Nóc Nhọn, Căn
-<xv.-phẩm-không-phóng-dật-nhiếp-phục-tham-132-142.-i-x.-s.v138-gồm-các-kinh-chân-của-như-lai-nóc-nhọn-căn>
 Rễ, Với Lõi, Cây, Hoa Lý, Vua, Mặt Trăng, Mặt Trời, và Vải là thứ mười.
 
 #divider()
 
 === XVI. Phẩm Cần Dùng Sức Mạnh(Nhiếp phục tham) 143-154. I-XII. (S.v,138) Gồm các kinh: Sức Mạnh, Hột Giống, Rắn, Cây, Ghè,
-<xvi.-phẩm-cần-dùng-sức-mạnhnhiếp-phục-tham-143-154.-i-xii.-s.v138-gồm-các-kinh-sức-mạnh-hột-giống-rắn-cây-ghè>
 Râu Lúa Mì, Hư Không, Mây, Tàu, Thuyền, Khách, Sông.
 
 #divider()
 
 === XVII. Phẩm Tầm Cầu (Nhiếp phục tham) 155-164 I-X (S.v, 139) Gồm các kinh:
-<xvii.-phẩm-tầm-cầu-nhiếp-phục-tham-155-164-i-x-s.v-139-gồm-các-kinh>
 Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Chướng Ngại, Vết Nhơ, Ðau Ðớn, Thọ,
 Ái, Khát.
 
 #divider()
 
 === XVIII.Phẩm Bộc Lưu 165-174. I-IX. (S.v,139)
-<xviii.phẩm-bộc-lưu-165-174.-i-ix.-s.v139>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -58207,26 +56806,22 @@ nhiếp phục si. Cũng vậy, này các Tỷ- kheo, Tỷ-kheo… xuôi về Ni
 #divider()
 
 === XV. Phẩm Không Phóng Dật (Nhiếp phục tham) 132-142. I-X. (S.v,138) Gồm các kinh: Chân Của Như Lai, Nóc Nhọn, Căn
-<xv.-phẩm-không-phóng-dật-nhiếp-phục-tham-132-142.-i-x.-s.v138-gồm-các-kinh-chân-của-như-lai-nóc-nhọn-căn-1>
 Rễ, Với Lõi, Cây, Hoa Lý, Vua, Mặt Trăng, Mặt Trời, và Vải là thứ mười.
 
 #divider()
 
 === XVI. Phẩm Cần Dùng Sức Mạnh (Nhiếp phục tham) 143-154. I-XII. (S.v,138) Gồm các kinh: Sức Mạnh, Hột Giống, Rắn, Cây, Ghè,
-<xvi.-phẩm-cần-dùng-sức-mạnh-nhiếp-phục-tham-143-154.-i-xii.-s.v138-gồm-các-kinh-sức-mạnh-hột-giống-rắn-cây-ghè>
 Râu Lúa Mì, Hư Không, Mây, Tàu, Thuyền, Khách, Sông.
 
 #divider()
 
 === XVII. Phẩm Tầm Cầu (Nhiếp phục tham) 155-164 I-X (S.v, 139) Gồm các kinh:
-<xvii.-phẩm-tầm-cầu-nhiếp-phục-tham-155-164-i-x-s.v-139-gồm-các-kinh-1>
 Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Chướng Ngại, Vết Nhơ, Ðau Ðớn, Thọ,
 Ái, Khát.
 
 #divider()
 
 === XVIII. Phẩm Bộc Lưu 165-174. I-IX. (S.v,139)
-<xviii.-phẩm-bộc-lưu-165-174.-i-ix.-s.v139>
 #block[
 #set enum(numbering: "1)", start: 1)
 + Nhân duyên ở Sàvatthi…
@@ -58264,9 +56859,7 @@ Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Chướng Ngại, Vết Nhơ, Ð
 #divider()
 
 == \[47\] Chương III - Tương Ưng Niệm Xứ
-<chương-iii---tương-ưng-niệm-xứ-1>
 === I. Phẩm Ambapàli
-<i.-phẩm-ambapàli-1>
 + I. Ambapàli (Tạp 24,20, Ðại 2,174a) (S.v,141)
 
 #block[
@@ -59051,7 +57644,6 @@ giới của Ta cho các Ông.
 #divider()
 
 === II. Phẩm Nàlanda
-<ii.-phẩm-nàlanda-1>
 #block[
 #set enum(numbering: "1.", start: 11)
 + I. Ðại Nhân (Tạp 24,12, Ðại 2,172a) (S.v,158)
@@ -59664,7 +58256,6 @@ thế nào, này các Tỷ-kheo, người
 #divider()
 
 === III. Phẩm Giới Trú
-<iii.-phẩm-giới-trú-1>
 #block[
 #set enum(numbering: "1.", start: 21)
 + I. Giới (Tạp 24,27, Ðại 2,175b) (S.v,171)
@@ -60000,7 +58591,6 @@ tham ưu ở đời”. Như vậy, này Gia chủ, Ông cần phải học tậ
 #divider()
 
 === IV. Phẩm Chưa Từng Ðược Nghe
-<iv.-phẩm-chưa-từng-ðược-nghe-1>
 #block[
 #set enum(numbering: "1.", start: 31)
 + I. Chưa Từng Ðược Nghe (S.v,178) 1-2) Nhân duyên ở Sàvatthi…
@@ -60243,7 +58833,6 @@ tham ưu ở đời. Như vậy, này các Tỷ- kheo, là sự tu tập niệm 
 #divider()
 
 === V. Phẩm Bất Tử
-<v.-phẩm-bất-tử-1>
 #block[
 #set enum(numbering: "1.", start: 41)
 + I. Bất Tử (Tạp 24,4 Ðại 2,171a) (S.v,184)
@@ -60589,7 +59178,6 @@ nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời.
 #divider()
 
 === VI. Phẩm Sông Hằng Rộng Thuyết (Ðoạn này và bốn mục kế tiếp, cho đến cuối Tương Ưng này, đều được tóm tắt
-<vi.-phẩm-sông-hằng-rộng-thuyết-ðoạn-này-và-bốn-mục-kế-tiếp-cho-đến-cuối-tương-ưng-này-đều-được-tóm-tắt>
 trong nguyên bản, chỉ có tên kinh mà thôi, trừ 51-62, I-XII) 51-62.
 I-XII. (S.v,190)
 
@@ -60615,25 +59203,21 @@ như các kinh trước).
 #divider()
 
 === VII. Phẩm Không Phóng Dật 63-72. I-X. (S.v,191) Gồm các kinh: Như Lai, Dấu Chân, Nóc Nhọn, Rễ Cây. Lõi Cây, Hoa Mưa Sanh, Vua,
-<vii.-phẩm-không-phóng-dật-63-72.-i-x.-s.v191-gồm-các-kinh-như-lai-dấu-chân-nóc-nhọn-rễ-cây.-lõi-cây-hoa-mưa-sanh-vua>
 Mặt Trăng, Mặt Trời, Vải, tất cả là mười kinh. (Các kinh này được thuyết
 rộng theo bốn niệm xứ).
 
 #divider()
 
 === VIII. Phẩm Việc Làm Cần Sức Mạnh 73-82. I-X. (S.v,191) Gồm các kinh: Quả, Chủng Tử, Rồng, Cây, Ghè, Râu Mì, Hư Không, Khách, Sông.
-<viii.-phẩm-việc-làm-cần-sức-mạnh-73-82.-i-x.-s.v191-gồm-các-kinh-quả-chủng-tử-rồng-cây-ghè-râu-mì-hư-không-khách-sông.>
 
 #divider()
 
 === IX. Phẩm Tầm Cầu 83-93. I-XI. (S.v,192) Gồm các kinh: Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Khổ Tánh, Ba Chướng Ngại (khila), Cấu
-<ix.-phẩm-tầm-cầu-83-93.-i-xi.-s.v192-gồm-các-kinh-tầm-cầu-kiêu-mạn-lậu-hoặc-khổ-tánh-ba-chướng-ngại-khila-cấu>
 Uế. Khổ Và Thọ, Ái và Khát, thành phẩm Tầm Cầu.
 
 #divider()
 
 === X. Phẩm Bộc Lưu 93-102. (I-IX) (S.v,191)
-<x.-phẩm-bộc-lưu-93-102.-i-ix-s.v191>
 #block[
 #set enum(numbering: "1.", start: 103)
 + X. Thượng Phần Kiết Sử (S.v,191)
@@ -60665,9 +59249,7 @@ Uế. Khổ Và Thọ, Ái và Khát, thành phẩm Tầm Cầu.
 #divider()
 
 == \[48\] Chương IV - Tương Ưng Căn
-<chương-iv---tương-ưng-căn-1>
 === I. Phẩm Thanh Tịnh
-<i.-phẩm-thanh-tịnh-1>
 + I. Thanh Tịnh (Tạp 26,3, Ðại 2,182c) (S.v,193) 1-2) Tại Sàvatthi… Thế
   Tôn thuyết:
 
@@ -60979,7 +59561,6 @@ Thiền thứ tư, không khổ không lạc, xả niệm thanh tịnh. Này cá
 #divider()
 
 === II. Phẩm Có Phần Yếu Hơn (Mudutaravaggo)
-<ii.-phẩm-có-phần-yếu-hơn-mudutaravaggo-1>
 #block[
 #set enum(numbering: "1.", start: 11)
 + I. Chứng Ðược (S.v,199)
@@ -61213,7 +59794,6 @@ nhẹ hơn là vị đang thực hành để chứng ngộ quả Dự lưu (Dự
 #divider()
 
 === III. Phẩm Sáu Căn
-<iii.-phẩm-sáu-căn-1>
 #block[
 #set enum(numbering: "1.", start: 21)
 + I. Không Có Tái Sanh, hay Người Có Trí (Tạp 26.9, Ðại 2,182c)
@@ -61450,7 +60030,6 @@ và an trú mục đích của Sa-môn hạnh, hay mục đích của Bà-la-mô
 #divider()
 
 === IV. Phẩm Lạc Căn
-<iv.-phẩm-lạc-căn-1>
 #block[
 #set enum(numbering: "1.", start: 31)
 + I. Thanh Tịnh (S.v,207)
@@ -61846,7 +60425,6 @@ là Tỷ- kheo biết rõ sự đoạn diệt của xả căn, tập trung tâm 
 #divider()
 
 === V. Phẩm Về Già
-<v.-phẩm-về-già-1>
 #block[
 #set enum(numbering: "1.", start: 41)
 + I. Già (S.v,216)
@@ -62331,7 +60909,6 @@ tuệ, ta thể nhập chúng, ta thấy chúng rõ ràng".
 #divider()
 
 === VI. Phẩm Thứ Sáu
-<vi.-phẩm-thứ-sáu-1>
 #block[
 #set enum(numbering: "1.", start: 51)
 + I. Sàlà (S.v,227)
@@ -62732,7 +61309,6 @@ của Như Lai, bậc A-la-hán, Chánh Ðẳng Giác.
 #divider()
 
 === VII. Phẩm Giác Phần
-<vii.-phẩm-giác-phần-1>
 #block[
 #set enum(numbering: "1.", start: 61)
 + I. Kiết Sử (S.v,236)
@@ -62878,7 +61454,6 @@ giác ngộ, tuệ căn được xem là tối thượng, tức là về giác n
 #divider()
 
 === VIII. Phẩm Sông Hằng Rộng Thuyết
-<viii.-phẩm-sông-hằng-rộng-thuyết-1>
 #block[
 #set enum(numbering: "1.", start: 71)
 + I. Viễn Ly (S.v,239)
@@ -62910,27 +61485,23 @@ bỏ.
 #divider()
 
 === IX. Phẩm Không Phóng Dật 83-92 I-X Viễn Ly (S.v,240) Gồm các kinh: Như Lai, Chân, Nóc Nhà, Gốc, Lõi, Hạ Sanh Hoa, Vua, Mặt Trăng, Mặt Trời,
-<ix.-phẩm-không-phóng-dật-83-92-i-x-viễn-ly-s.v240-gồm-các-kinh-như-lai-chân-nóc-nhà-gốc-lõi-hạ-sanh-hoa-vua-mặt-trăng-mặt-trời>
 Y; tất cả là mười. (Ðược thuyết rộng như các căn).
 
 #divider()
 
 === X. Phẩm Làm Việc Cần Sứ Mạnh 93-104. I-XII Viễn Ly (S.v,240) Gồm các kinh: Lực, Chủng Tử, Rồng, Cây, Ghè, Mặt
-<x.-phẩm-làm-việc-cần-sứ-mạnh-93-104.-i-xii-viễn-ly-s.v240-gồm-các-kinh-lực-chủng-tử-rồng-cây-ghè-mặt>
 Trời, Hư Không, hai kinh Mây, Thuyền, Khách, Sông. (Ðược thuyết rộng như
 Căn Tương Ưng).
 
 #divider()
 
 === XI. Phẩm Tầm Cầu 105-117. I-XII. Viễn Ly (S.v,240) Gồm các kinh:
-<xi.-phẩm-tầm-cầu-105-117.-i-xii.-viễn-ly-s.v240-gồm-các-kinh>
 Tầm Cầu, Mạn, Lậu Hoặc, HữuK Khổ (ba kinh), Chướng Ngại, Cấu Uế, Dao
 Ðộng, Thọ, Khát ái. (Ðược thuyết rộng như Căn Tương Ưng)
 
 #divider()
 
 === XII. Phẩm Bộc Lưu 118-127. I-IX. Viễn Ly (S.v,241)
-<xii.-phẩm-bộc-lưu-118-127.-i-ix.-viễn-ly-s.v241>
 #block[
 #set enum(numbering: "1.", start: 128)
 + X. Thượng Phần (S.v,241)
@@ -62960,7 +61531,6 @@ thượng phần kiết sử này, năm căn cần phải tu tập. Thế nào l
 #divider()
 
 === XIII. Phẩm Sông Hằng Rộng Thuyết
-<xiii.-phẩm-sông-hằng-rộng-thuyết-1>
 #block[
 #set enum(numbering: "1.", start: 129)
 + I Tham (S.v,241)
@@ -62983,22 +61553,18 @@ thượng phần kiết sử này, năm căn cần phải tu tập. Thế nào l
 #divider()
 
 === XIV. Phẩm Không Phóng Dật 141-150. I-X. Tham (S.v,242)
-<xiv.-phẩm-không-phóng-dật-141-150.-i-x.-tham-s.v242>
 
 #divider()
 
 === XV. Phẩm Việc Làm Cần Sức Mạnh 151-162. I-XII. Tham (S.v,212)
-<xv.-phẩm-việc-làm-cần-sức-mạnh-151-162.-i-xii.-tham-s.v212>
 
 #divider()
 
 === XVI. Phẩm Tầm Cầu 163-175. I-XII. Tham (S.v,242)
-<xvi.-phẩm-tầm-cầu-163-175.-i-xii.-tham-s.v242>
 
 #divider()
 
 === XVII. Phẩm Bộc Lưu 176-184. I-IX. Tham (S.v,242)
-<xvii.-phẩm-bộc-lưu-176-184.-i-ix.-tham-s.v242>
 #block[
 #set enum(numbering: "1.", start: 185)
 + X. Thượng Phần Kiết Sử (S.v,242)
@@ -63018,9 +61584,7 @@ thượng phần kiết sử này, năm căn cần phải tu tập. Thế nào l
 #divider()
 
 == \[49\] Chương V - Tương Ưng Chánh Cần
-<chương-v---tương-ưng-chánh-cần-1>
 === I. Phẩm Sông Hằng Rộng Thuyết 1-12.(I-XII) (S.v,244) 1-2) Tại Sàvatthi. Tại đấy, Thế Tôn nói như sau :
-<i.-phẩm-sông-hằng-rộng-thuyết-1-12.i-xii-s.v244-1-2-tại-sàvatthi.-tại-đấy-thế-tôn-nói-như-sau>
 -- Này các Tỷ-kheo, có bốn chánh cần này. Thế nào là bốn ?
 
 #block[
@@ -63073,13 +61637,11 @@ làm cho viên mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 #divider()
 
 === II. Phẩm Không Phóng Dật 13-22.I-X. (S.v,245) Gồm các kinh : Như Lai, Chân, Nóc Nhọn, Căn, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt Trăng,
-<ii.-phẩm-không-phóng-dật-13-22.i-x.-s.v245-gồm-các-kinh-như-lai-chân-nóc-nhọn-căn-lõi-cây-hạ-sanh-hoa-vua-mặt-trăng>
 Mặt Trời, Vải; tất cả là mười.
 
 #divider()
 
 === III. Phẩm Việc Làm Cần Sức Mạnh 23-34.I-XII. (S.v,246)
-<iii.-phẩm-việc-làm-cần-sức-mạnh-23-34.i-xii.-s.v246>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -63108,7 +61670,6 @@ cho sung mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 #divider()
 
 === IV. Phẩm Tầm Cầu 35-44.I-X. (S.v,246)
-<iv.-phẩm-tầm-cầu-35-44.i-x.-s.v246>
 #block[
 #set enum(numbering: "1)", start: 1)
 + …
@@ -63131,7 +61692,6 @@ cho sung mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 #divider()
 
 === V. Phẩm Bộc Lưu 45-43.I-X (S.v,247)
-<v.-phẩm-bộc-lưu-45-43.i-x-s.v247>
 54.X. Thượng Phần Kiết Sử (S.v,247)
 
 #block[
@@ -63156,7 +61716,6 @@ cho sung mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 #divider()
 
 == \[50\] Chương VI - Tương Ưng Lực
-<chương-vi---tương-ưng-lực-1>
 1.I Viễn Ly (S.v,249)
 
 #block[
@@ -63186,26 +61745,22 @@ cho sung mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 #divider()
 
 === II. Phẩm Không Phóng Dật 13-22.I-X Viễn Ly (S.v,250) Gồm các kinh : Như Lai, Bàn Chân, Nóc Nhà, Cội Gốc, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt
-<ii.-phẩm-không-phóng-dật-13-22.i-x-viễn-ly-s.v250-gồm-các-kinh-như-lai-bàn-chân-nóc-nhà-cội-gốc-lõi-cây-hạ-sanh-hoa-vua-mặt>
 Trăng, Mặt Trời, Vải; gồm tất cả là mười.
 
 #divider()
 
 === III. Phẩm Sức Mạnh (Viễn Ly) 23-34.I-XII (S.v,250) Gồm các kinh: Lực, Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây,
-<iii.-phẩm-sức-mạnh-viễn-ly-23-34.i-xii-s.v250-gồm-các-kinh-lực-chủng-tử-long-cây-ghè-mặt-trời-hư-không-hai-kinh-mây>
 Thuyền, Khách, Sông.
 
 #divider()
 
 === IV. Phẩm Tầm Cầu 35-46.I-XII Viễn Ly (S.v,250) Gồm các kinh : Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Hữu, Khổ, Ba Uế Nhiễm, Chướng Ngại, Cấu
-<iv.-phẩm-tầm-cầu-35-46.i-xii-viễn-ly-s.v250-gồm-các-kinh-tầm-cầu-kiêu-mạn-lậu-hoặc-hữu-khổ-ba-uế-nhiễm-chướng-ngại-cấu>
 Uế. Dao Ðộng, Thọ. Ái. (Phẩm Tầm Cầu được thuyết rộng như chương nói về
 Lực)
 
 #divider()
 
 === V. Phẩm Bộc Lưu 47-55.I-IX. Viễn Ly (S.v,251)
-<v.-phẩm-bộc-lưu-47-55.i-ix.-viễn-ly-s.v251>
 56.X. Thượng Phần Kiết Sử (S.v,251)
 
 #block[
@@ -63252,25 +61807,21 @@ Thượng, Hạ Phần Kiết Sử).
 #divider()
 
 === VII. Phẩm Không Phóng Dật 69-78.II-XII. (S.v,252) Tham
-<vii.-phẩm-không-phóng-dật-69-78.ii-xii.-s.v252-tham>
 Gồm các kinh: Như Lai, Chân, Nóc Nhọn, Rễ, Lõi, Hạ Sanh Hoa, Vua, Mặt
 Trăng, Mặt Trời, Vải, tất cả là mười.
 
 === VIII. Phẩm Lực 79-90.I-XII. (S.v,252) Tham Gồm các kinh : Lực. Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây,
-<viii.-phẩm-lực-79-90.i-xii.-s.v252-tham-gồm-các-kinh-lực.-chủng-tử-long-cây-ghè-mặt-trời-hư-không-hai-kinh-mây>
 Thuyền, Khách, Sông.
 
 #divider()
 
 === IX. Phẩm Tầm Cầu 91-100.I-X.
-<ix.-phẩm-tầm-cầu-91-100.i-x.>
 \(S.v,252) Tham Gồm các kinh: Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Ba
 Chướng Ngại, Cấu Uế, Dao Ðộng, Thọ, Ái.
 
 #divider()
 
 === X. Phẩm Bộc Lưu 101-109 I-IX (S.v,53) Tham
-<x.-phẩm-bộc-lưu-101-109-i-ix-s.v53-tham>
 110.X. Thượng Phần Kiết Sử (S.v,243)
 
 #block[
@@ -63300,9 +61851,7 @@ thượng phần kiết sử này, năm lực cần phải tu tập. Thế nào 
 #divider()
 
 == \[51\] Chương VII - Tương Ưng Như Ý Túc
-<chương-vii---tương-ưng-như-ý-túc-1>
 === I. Phẩm Càpàla
-<i.-phẩm-càpàla-1>
 1.I. Bờ Bên Kia (Tăng 29. 7 Ðại 2, 658a) (S.v,254)
 
 #block[
@@ -63704,7 +62253,6 @@ nhất trú Thiền định, Như thoát áo giáp đang mang mặc.
 #divider()
 
 === II. Phẩm Lầu Rung Chuyển
-<ii.-phẩm-lầu-rung-chuyển-1>
 11.I. Trước hay Nhân (S.v,263)
 
 #block[
@@ -64684,35 +63232,28 @@ con đường đưa đến như ý túc.
 #divider()
 
 === IV. Phẩm Sông Hằng Rộng Thuyết
-<iv.-phẩm-sông-hằng-rộng-thuyết-1>
 33.I - 44 XII (S.v,290-291)
 
 #divider()
 
 === V. Phẩm Không Phóng Dật 45 - 54.I-X. (S.v,291)
-<v.-phẩm-không-phóng-dật-45---54.i-x.-s.v291>
 
 #divider()
 
 === VI. Phẩm Việc Làm Cần Sức Mạnh 55 - 66.I-XII. (S.v,291)
-<vi.-phẩm-việc-làm-cần-sức-mạnh-55---66.i-xii.-s.v291>
 
 #divider()
 
 === VII. Phẩm Tầm Cầu 67 - 76.I-X. (S.v,291)
-<vii.-phẩm-tầm-cầu-67---76.i-x.-s.v291>
 
 #divider()
 
 === VIII. Phẩm Bộc Lưu 77 - 85.I-IX. (S.v,292) (Tất cả đoạn này giống các đoạn trước, chỉ khác, ở đây là tu tập bốn như ý túc).
-<viii.-phẩm-bộc-lưu-77---85.i-ix.-s.v292-tất-cả-đoạn-này-giống-các-đoạn-trước-chỉ-khác-ở-đây-là-tu-tập-bốn-như-ý-túc.>
 
 #divider()
 
 == \[52\] Chương VII - Tương Ưng Anuruddha
-<chương-vii---tương-ưng-anuruddha-1>
 === I. Phẩm Ðộc Cư
-<i.-phẩm-ðộc-cư-1>
 1.I. Ðộc Cư (1) (S.v,294)
 
 #block[
@@ -65332,7 +63873,6 @@ tôi chứng ngộ, chứng đạt và an trú tâm giải thoát, tuệ giải 
 #divider()
 
 == \[53\] Chương IX - Tương Ưng Thiền
-<chương-ix---tương-ưng-thiền-1>
 1.I. Thanh Tịnh Thứ Nhất (S.v,307) 1-2) Tại Sàvatthi…
 
 -- Này các Tỷ-kheo, có bốn Thiền này. Thế nào là bốn?
@@ -65380,17 +63920,14 @@ các Tỷ-kheo, Tỷ-kheo tu tập bốn Thiền như thế nào… xuôi về N
 #divider()
 
 === II. Phẩm Không Phóng Dật 13-22 I-X. (S.v,308)
-<ii.-phẩm-không-phóng-dật-13-22-i-x.-s.v308>
 
 #divider()
 
 === III. Phẩm Làm Việc Cần Sức Mạnh 23-34. I-XII. (S.v,308)
-<iii.-phẩm-làm-việc-cần-sức-mạnh-23-34.-i-xii.-s.v308>
 
 #divider()
 
 === IV. Phẩm Tầm Cầu 35-44. I-X. (S.v,309)
-<iv.-phẩm-tầm-cầu-35-44.-i-x.-s.v309>
 
 #divider()
 
@@ -65425,9 +63962,7 @@ tầm, có tứ… Thiền thứ hai… Thiền thứ ba… Thiền thứ tư.
 #divider()
 
 == \[54\] Chương X - Tương Ưng Hơi Thở Vô, Hơi Thở Ra
-<chương-x---tương-ưng-hơi-thở-vô-hơi-thở-ra-1>
 === I. Phẩm Một Pháp
-<i.-phẩm-một-pháp-1>
 1.I. Một Pháp (S.v,311)
 
 #block[
@@ -66529,9 +65064,7 @@ cây, hay đi đến căn nhà trống… "Quán từ bỏ, tôi sẽ thở ra",
 #divider()
 
 == \[55\] Chương XI - Tương Ưng Dự Lưu
-<chương-xi---tương-ưng-dự-lưu-1>
 === I. Phẩm Veludvàra
-<i.-phẩm-veludvàra-1>
 + I. Vua (S.v,342) 1-2) Sàvatthi. Ở đấy… nói như sau:
 
 #block[
@@ -67357,7 +65890,6 @@ ngộ.
 #divider()
 
 === II. Phẩm Một Ngàn, hay Vườn Vua
-<ii.-phẩm-một-ngàn-hay-vườn-vua-1>
 #block[
 #set enum(numbering: "1.", start: 11)
 + I. Một Ngàn (S.v,360)
@@ -67662,7 +66194,6 @@ thân hoại mạng chung, được sanh lên thiện thú, thiên giới, cõi 
 #divider()
 
 === III. Phẩm Saranàni
-<iii.-phẩm-saranàni-1>
 #block[
 #set enum(numbering: "1.", start: 21)
 + I. Mahànàma (1)
@@ -68464,7 +66995,6 @@ bên trong này là vừa đủ cho ta, tức là lòng tịnh tín đối với
 #divider()
 
 === IV. Phẩm Phước Ðức Sung Mãn
-<iv.-phẩm-phước-ðức-sung-mãn-1>
 #block[
 #set enum(numbering: "1.", start: 31)
 + I. Sung Mãn (1) (S.v,391)
@@ -68870,7 +67400,6 @@ vị Thánh đệ tử trú không phóng dật.
 #divider()
 
 === V. Phẩm Phước Ðức Sung Mãn Với Kệ
-<v.-phẩm-phước-ðức-sung-mãn-với-kệ-1>
 #block[
 #set enum(numbering: "1.", start: 41)
 + I. Sung Mãn (1) (S.v,399)
@@ -69083,7 +67612,6 @@ là bậc Dự lưu… giác ngộ. Thế nào là bốn?“.
 #divider()
 
 === VI. Phẩm Với Trí Tuệ
-<vi.-phẩm-với-trí-tuệ-1>
 #block[
 #set enum(numbering: "1.", start: 51)
 + I. Với Bài Kệ (S,v,404)
@@ -69428,7 +67956,6 @@ ba".
 #divider()
 
 === VII. Phẩm Ðại Trí Tuệ
-<vii.-phẩm-ðại-trí-tuệ-1>
 #block[
 #set enum(numbering: "1.", start: 62)
 + I. Ðại (S.v,412)
@@ -69562,9 +68089,7 @@ ba".
 #divider()
 
 == \[56\] Chương XII -Tương Ưng Sự Thật
-<chương-xii--tương-ưng-sự-thật-1>
 === I. Phẩm Ðịnh
-<i.-phẩm-ðịnh-1>
 1.I. Ðịnh (S.v,414)
 
 #block[
@@ -69871,7 +68396,6 @@ tịnh, thắng trí, giác ngộ, Niết-bàn.
 #divider()
 
 === II. Phẩm Chuyển Pháp Luân
-<ii.-phẩm-chuyển-pháp-luân-1>
 #block[
 #set enum(numbering: "1.", start: 11)
 + I. Như Lai Thuyết (1) (S.v,420)
@@ -70331,7 +68855,6 @@ nào là minh? Và cho đến như thế nào là đi đến minh?
 #divider()
 
 === III. Phẩm Kotigàma
-<iii.-phẩm-kotigàma-1>
 21.I. Minh (1) (S.v,431)
 
 #block[
@@ -70599,7 +69122,6 @@ sau:
 #divider()
 
 === IV. Phẩm Rừng Simsapà
-<iv.-phẩm-rừng-simsapà-1>
 31.I. Simsapà (S.v,437)
 
 #block[
@@ -70978,7 +69500,6 @@ số 8, số 9, kinh 39) …
 #divider()
 
 === V. Phẩm Vực Thẳm
-<v.-phẩm-vực-thẳm-1>
 41.I. Tư Duy (S.v,446)
 
 #block[
@@ -71464,7 +69985,6 @@ lớn, bằng bảy hạt đậu còn lại với núi chúa Sineru đã đi đ�
 #divider()
 
 === VI. Phẩm Chứng Ðạt
-<vi.-phẩm-chứng-ðạt-1>
 #block[
 #set enum(numbering: "1.", start: 51)
 + I. Ðầu Móng tay (S.v,459)
@@ -71727,7 +70247,6 @@ lại. 4-5) … (như đoạn số 4,5, kinh 49) …
 #divider()
 
 === VII. Phẩm Bánh Xe Lược Thuyết
-<vii.-phẩm-bánh-xe-lược-thuyết-1>
 #block[
 #set enum(numbering: "1.", start: 61)
 + I. Người Khác (S.v,465)
@@ -71890,7 +70409,6 @@ các chúng sanh không kính trọng các bậc lớn tuổi trong gia tộc.
 #divider()
 
 === VIII. Phẩm Ít Người Từ Bỏ
-<viii.-phẩm-ít-người-từ-bỏ-1>
 #block[
 #set enum(numbering: "1.", start: 71)
 + I. Sanh Loại (S.v,468) 1-2-3) …
@@ -72015,7 +70533,6 @@ các chúng sanh không kính trọng các bậc lớn tuổi trong gia tộc.
 #divider()
 
 === IX. Phẩm Lúa Gạo Sống Rộng Thuyết
-<ix.-phẩm-lúa-gạo-sống-rộng-thuyết-1>
 81.I. Múa (S.v,470) 1-2-3) …
 
 #block[
@@ -72133,7 +70650,6 @@ múa, hát, nhạc, diễn kịch. …
 #divider()
 
 === X. Phẩm Chúng Sanh Nhiều Hơn
-<x.-phẩm-chúng-sanh-nhiều-hơn-1>
 #block[
 #set enum(numbering: "1.", start: 91)
 + I. Ruộng (S.v,473) 1-2-3) …
@@ -72212,7 +70728,6 @@ sự gian lận bằng cân, tiền bạc, đo lường. …
 #divider()
 
 === XI. Phẩm Năm Sanh Thú
-<xi.-phẩm-năm-sanh-thú-1>
 #block[
 #set enum(numbering: "1.", start: 102)
 + I. Năm Sanh Thú (S.v,474)

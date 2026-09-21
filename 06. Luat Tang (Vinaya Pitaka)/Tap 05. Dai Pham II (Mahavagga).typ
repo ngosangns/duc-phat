@@ -1,5 +1,4 @@
 = Luật Tạng (Vinaya Piṭaka) --- Tập 05: Đại Phẩm II (Mahāvagga)
-<luật-tạng-vinaya-piṭaka-tập-05-đại-phẩm-ii-mahāvagga>
 TAM TẠNG SONG NGỮ PĀLI - VIỆT
 
 VESAK 2550
@@ -8,25 +7,6 @@ Buddhist Cultural Centre 125 Anderson Road, Nedimala, Dehivala, Sri
 Lanka Sabbadānaṃ dhammadānaṃ jināti. Sự bố thí Pháp vượt trên tất cả các
 sự bố thí.
 
-Thí Chủ: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Dâng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Ước Nguyện: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-Hồi hướng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 T TAM TẠNG SONG NGỮ PĀLI - VIỆT - TẬP 05
 
 VINAYAPITAKE
@@ -40,7 +20,6 @@ TẠNG LUẬT
 ĐẠI PHẨM
 
 == TẬP HAI
-<tập-hai>
 PHẬT LỊCH 2553 DƯƠNG LỊCH 2009 In lần thứ nhất: PL 2553 - DL 2009 Số
 Lượng 600 cuốn
 
@@ -55,37 +34,7 @@ Website: www.buddhistcc.com
 Printed by: Ajith Printers (Pvt) Ltd.~342 Old Kesbewa Road Ratanapitiya,
 Borelesgamuwa, Sri Lanka. Tel: 94-11-251 7269
 
-MỤC LỤC TỔNG QUÁT
-
-Mục Lục Tổng Quát iii
-
-Lời Tựa - Sinhala và Việt ngữ v - xiv
-
-Văn Bản của Bộ Tôn Giáo - Anh và Việt ngữ xv - xvi
-
-Thành Phần Nhân Sự xvii
-
-Lược Đồ Tam Tạng xviii - xix
-
-Lời Giới Thiệu xxiii - xxv
-
-Các Chữ Viết Tắt xxvii
-
-Mẫu Tự Pāḷi - Sinhala xxviii - xxix
-
-Mục Lục Đại Phẩm - Tập Hai xxxi - xxxv
-
-Văn Bản Pāḷi và Văn Bản Tiếng Việt 02 - 377
-
-Phần Phụ Chú 379 - 380
-
-Thư Mục Câu Kệ Pāḷi 381 - 383
-
-Thư Mục Danh Từ Riêng 385 - 387
-
-Thư Mục Từ Đặc Biệt 389 - 423
-
-Phương Danh Thí Chủ 425 - 429
+#outline(title: [Mục lục])
 
 #divider()
 
@@ -461,8 +410,7 @@ niệm Buddha Jayanti lần thứ 2550 là chính xác về phần Pali văn. Ph
 Pali văn được phiên âm sang mẫu tự Roman có giá trị tương đương về nội
 dung so với văn bản gốc bằng mẫu tự Sinhala.
 
-=== B. N. Jinasena Thư Ký Chánh văn phòng
-<b.-n.-jinasena-thư-ký-chánh-văn-phòng>
+B. N. Jinasena Thư Ký Chánh văn phòng
 Địa Chỉ: 115 Wijerama Mawatha, Colombo 07, Sri Lanka Office:
 94-11-2690896 Fax: 94-11-2690897 Deputy Minister: 94-11-5375128,
 94-11-2690898 Secretary: 94-11-2690736
@@ -501,10 +449,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 
 Pārājikapāḷi Phân Tích Giới Tỳ Khưu I 01
 
-=== V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
-<v-pācittiyapāḷi-bhikkhu-phân-tích-giới-tỳ-khưu-ii-02>
-=== I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
-<i-l-pācittiyapāḷi-bhikkhunī-phân-tích-giới-tỳ-khưu-ni-03-n-u-mahāvaggapāḷi-i-đại-phẩm-i-04>
+V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
+I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
 A Ậ Mahāvaggapāḷi II Đại Phẩm II 05 Y T Cullavaggapāḷi I Tiểu Phẩm I 06
 A Cullavaggapāḷi II Tiểu Phẩm II 07 Parivārapāḷi I Tập Yếu I 08
 Parivārapāḷi II Tập Yếu II 09
@@ -528,10 +474,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 K Khuddakapāṭha Tiểu Tụng 28 H Dhammapadapāḷi Pháp Cú - U Udānapāḷi Phật
 Tự Thuyết -
 
-=== D Itivuttakapāḷi Phật Thuyết Như Vậy -
-<d-itivuttakapāḷi-phật-thuyết-như-vậy-->
-=== D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
-<d-suttanipātapāḷi-kinh-tập-29-a-vimānavatthupāḷi-chuyện-thiên-cung-30>
+D Itivuttakapāḷi Phật Thuyết Như Vậy -
+D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
 K Petavatthupāḷi Chuyện Ngạ Quỷ - S A Theragathāpāḷi Trưởng Lão Kệ 31 U
 N Therīgāthāpāḷi Trưởng Lão Ni Kệ - T K I Jātakapāḷi I Bổn Sanh I 32 T I
 K Jātakapāḷi II Bổn Sanh II 33 A N Ā Jātakapāḷi III Bổn Sanh III 34 N H
@@ -540,27 +484,21 @@ Paṭisambhidāmagga I Phân Tích Đạo I 37 \* Paṭisambhidāmagga II Phân 
 Đạo II 38 Apadānapāḷi I Thánh Nhân Ký Sự I 39 T Apadānapāḷi II Thánh
 Nhân Ký Sự II 40
 
-=== I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
-<i-apadānapāḷi-iii-thánh-nhân-ký-sự-iii-41-ể-buddhavaṃsapāḷi-phật-sử-42>
+I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
 U Cariyāpiṭakapāḷi Hạnh Tạng - Nettipakaraṇa (chưa dịch) 43 B
 Peṭakopadesa (chưa dịch) 44 Ộ Milindapañhāpāḷi Mi Tiên Vấn Đáp 45
 
 Dhammasaṅganipakaraṇa Bộ Pháp Tụ 46
 
-=== V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
-<v-vibhaṅgapakaraṇa-i-bộ-phân-tích-i-47-a-i-vibhaṅgapakaraṇa-ii-bộ-phân-tích-ii-48>
+V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
 B Kathāvatthu I Bộ Ngữ Tông I 49 H D Kathāvatthu II Bộ Ngữ Tông II 50
 
-=== I I Kathāvatthu III Bộ Ngữ Tông III 51
-<i-i-kathāvatthu-iii-bộ-ngữ-tông-iii-51>
-=== D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
-<d-ệ-dhātukathā-bộ-chất-ngữ---h-u-puggalapaññattipāḷi-bộ-nhân-chế-định-52>
+I I Kathāvatthu III Bộ Ngữ Tông III 51
+D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
 A Yamakapakaraṇa I Bộ Song Đối I 53
 
-=== M P Yamakapakaraṇa II Bộ Song Đối II 54
-<m-p-yamakapakaraṇa-ii-bộ-song-đối-ii-54>
-=== M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
-<m-h-yamakapakaraṇa-iii-bộ-song-đối-iii-55-a-á-patthānapakaraṇa-i-bộ-vị-trí-i-56>
+M P Yamakapakaraṇa II Bộ Song Đối II 54
+M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
 P Patthānapakaraṇa II Bộ Vị Trí II 57 Patthānapakaraṇa III Bộ Vị Trí III
 58
 
@@ -574,8 +512,9 @@ TẠNG LUẬT
 
 ĐẠI PHẨM
 
-== TẬP HAI Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
-<tập-hai-tāni-ca-sutte-otāriyamānāni-vinaye-sandassiyamānāni-sutte-ceva-otaranti-vinaye-ca-sandissanti-niṭṭham-ettha-gantabbaṃ-addhā-idaṃ>
+== TẬP HAI
+
+Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
 tassa bhagavato vacanaṃ, tassa ca therassa suggahitan'ti.
 
 \(Dīghanikāya II, Mahāparinibbānasutta).
@@ -586,7 +525,9 @@ Kinh, cần được xem xét ở Luật, và chỉ khi nào chúng hiện diệ
 chắc chắn là lời giảng dạy của đức Thế Tôn và đã được vị trưởng lão ấy
 tiếp thâu đúng đắn.”
 
-\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn). LỜI GIỚI THIỆU
+\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn).
+
+== Lời giới thiệu
 
 #divider()
 
@@ -597,7 +538,7 @@ Khandhaka - Hợp Phần: Gồm các vấn đề có liên quan với nhau đã 
 xếp thành từng khandhaka, có thể dịch là chương hay phần. Toàn bộ gồm có
 22 khandhaka và được chia làm hai:
 
-- Mahāvagga - Đại Phẩm gồm có 10 khandhaka, và - Cullavagga - Tiểu Phẩm
+-- Mahāvagga - Đại Phẩm gồm có 10 khandhaka, và - Cullavagga - Tiểu Phẩm
   gồm có 12 khandhaka còn lại.
 
 Mahāvagga - Đại Phẩm được trình bày thành hai tập, mỗi tập có 5 chương.
@@ -605,7 +546,7 @@ Phần tóm tắt năm chương đầu đã được trình bày ở tập 1. V�
 lại thuộc Mahāvagga 2 & Đại Phẩm 2 (TTPV 05, Tam Tạng Pāḷi - Việt tập
 05) có nội dung tóm lược như sau:
 
-- Chương 6 nói về dược phẩm và các cách thức chữa bệnh. Chương này gồm
+-- Chương 6 nói về dược phẩm và các cách thức chữa bệnh. Chương này gồm
   có 4 tụng phẩm đề cập đến cách thức chữa trị một số bệnh thông thường,
   về một số quy định đã được áp dụng trong thời kỳ khó khăn về vật thực,
   về đức tin vững chắc của nữ cư sĩ Suppiyā, về vấn đề thọ dụng cá và
@@ -613,20 +554,20 @@ lại thuộc Mahāvagga 2 & Đại Phẩm 2 (TTPV 05, Tam Tạng Pāḷi - Vi�
   một số vấn đề khác vẫn còn có được sự ứng dụng thực tiễn trong thời
   hiện tại.
 
-- Chương 7 giảng giải về lễ dâng y Kaṭhina. Đây là cuộc phước thí có tầm
+-- Chương 7 giảng giải về lễ dâng y Kaṭhina. Đây là cuộc phước thí có tầm
   vóc quan trọng vì sự thành tựu của Kaṭhina không những có ảnh hưởng
   đến phước báu của người thí chủ mà còn có liên quan đến sự tu tập của
   các vị tỳ khưu. Sự giảng giải chi tiết với những sự việc tương phản
   của chương này có lẽ không ngoài mục đích trình bày một số điểm tế nhị
   cần đến sự chú tâm suy xét.
 
-- Chương 8 là chương về Y Phục giảng giải về loại y và các vấn đề có
+-- Chương 8 là chương về Y Phục giảng giải về loại y và các vấn đề có
   liên quan về nhiều phương diện. Điểm thú vị ở chương này là tụng phẩm
   mở đầu với câu chuyện về thầy thuốc Jīvaka Komārabhacca và tài năng
   chữa bệnh của vị này, đáng ngạc nhiên là việc giải phẩu ở đầu và ở
   bụng đã được tiến hành vào thời gian cách đây hơn 2,500 năm.
 
-- Chương 9 được đặt tên theo một sự kiện xảy ra ở Campā nêu lên một tiền
+-- Chương 9 được đặt tên theo một sự kiện xảy ra ở Campā nêu lên một tiền
   lệ không tốt đẹp về việc sử dụng sức mạnh tập thể để áp đặt hành phạt
   sai trái lên cá nhân. Thời bấy giờ còn có đức Phật là vị quan tòa để
   phân xử, trong thời hiện tại trách nhiệm xem xét lại sự việc được trao
@@ -642,7 +583,7 @@ thâu hồi các hành sự ấy cũng được trình bày ở chương này g�
 khiển trách, hành sự chỉ dạy, hành sự xua đuổi, hành sự hòa giải, và ba
 loại hành sự án treo.
 
-- Chương thứ 10 nói về sự việc chia rẽ hội chúng ở Kosambi từ lúc khởi
+-- Chương thứ 10 nói về sự việc chia rẽ hội chúng ở Kosambi từ lúc khởi
   đầu đến hồi kết thúc. Mầm mống chia rẽ trong câu chuyện này chỉ là một
   sự tranh cãi về một điều Luật không quan trọng, từ sự xung đột cá nhân
   đã lan rộng đến tập thể và trở nên căng thẳng không những đưa đến ẩu
@@ -761,8 +702,7 @@ l ka L kha . ga U gha X ṅa p ca P cha c ja ® jha \[ ña g ṭa G ṭha v ḍa
 h ya r ra , la j va i sa y ha \< ḷa x ṃ l ka ld kā ls ki lS kī l= ku l+
 kū fl ke fld ko
 
-=== L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
-<l-kha-ld-khā-ls-khi-ls-khī-lq-khu-lq-khū-fl-khe-fld-kho-.-ga-.d-gā-.s-gi-.s-gī-.-gu-.-gū-f.-ge-f.d-go>
+L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
 PHỤ ÂM LIÊN KẾT
 
 ll kka \[\[ ñña \;% tra uM mpha lL kkha Ky ṇha oo dda un mba lH kya \[p
@@ -771,10 +711,8 @@ uy mha LH khya \[® ñjha Oj dhva hh, hH yya Lj khva gg ṭṭa k; nta hy yha
 \.. gga gG ṭṭha J: ntha ,, lla \.\> ggha vv ḍḍa Jo, | nda ,H lya Xl ṅka
 vV ḍḍha JO ndha ,y lha \.% gra KK ṇṇa \;; nna jh vha
 
-=== XL ṅkha Kg ṇṭa \;y nha ii ssa
-<xl-ṅkha-kg-ṇṭa-y-nha-ii-ssa>
-=== X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
-<x.-ṅga-kg-ṇṭha-mm-ppa-iu-sma-x-ṅgha-kv-ṇḍa-mm-ppha-ij-sva>
+XL ṅkha Kg ṇṭa \;y nha ii ssa
+X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
 pp cca \;; tta nn bba yu hma pP ccha F: ttha nN bbha yj hva cc jja Fj
 tva n% bra \<y ḷha c® jjha um mpa
 
@@ -814,7 +752,6 @@ MAHĀVAGGAPĀḶI - DUTIYO BHĀGO ĐẠI PHẨM - TẬP HAI
 VISAYASŪCI - MỤC LỤC
 
 === VI. BHESAJJAKKHANDHAKAṂ - CHƯƠNG DƯỢC PHẨM:
-<vi.-bhesajjakkhandhakaṃ---chương-dược-phẩm>
 Pañcabhesajjakathā - Phần giảng về năm loại dược phẩm 02
 Vasādībhesajjakathā - Phần giảng về các loại dược phẩm: mỡ thú, v.v
 Pilindivacchavatthu - Câu chuyện về vị Pilindivaccha 12 Guḷādi-anujānanā
@@ -846,7 +783,6 @@ Các câu kệ tóm lược 108
 #divider()
 
 === VII. KAṬHINAKKHANDHAKAṂ - CHƯƠNG KAṬHINA:
-<vii.-kaṭhinakkhandhakaṃ---chương-kaṭhina>
 Kaṭhinānujānanā - Sự cho phép về Kaṭhina 110 Ādāyasattakaṃ - Nhóm bảy về
 ‘cầm lấy' 114 Samādāyasattakaṃ - Nhóm bảy về ‘mang theo' 116
 Ādāyachakkaṃ - Nhóm sáu về ‘cầm lấy' 118 Samādāyachakkaṃ - Nhóm sáu về
@@ -863,7 +799,6 @@ vướng bận và không vướng bận 148 Uddānagāthā - Các câu kệ tó
 #divider()
 
 === VIII. CĪVARAKKHANDHAKAṂ - CHƯƠNG Y PHỤC:
-<viii.-cīvarakkhandhakaṃ---chương-y-phục>
 Jīvakavatthu - Câu chuyện về vị Jīvaka 154 Seṭṭhibhariyāvatthu - Câu
 chuyện về người vợ của nhà đại phú 158 Bimbisārarājavatthu - Câu chuyện
 về đức vua Bimbisāra 162 Rājagahaseṭṭhivatthu - Câu chuyện về nhà đại
@@ -898,7 +833,6 @@ trái và đã được lấy đúng đắn 228 Aṭṭhacīvaramātikā - Tám 
 #divider()
 
 === IX. CAMPEYYAKKHANDHAKAṂ - CHƯƠNG CAMPĀ:
-<ix.-campeyyakkhandhakaṃ---chương-campā>
 Kassapagottavatthu - Câu chuyện về vị Kassapagotta 238
 Adhammenavaggādikathā - Phần giảng về hành sự sai pháp theo phe nhóm,
 v.v Ñattivipannakammādikathā - Phần giảng về hành sự thiếu lời đề nghị,
@@ -952,7 +886,6 @@ tóm lược 318
 #divider()
 
 === X. KOSAMBAKKHANDHAKAṂ - CHƯƠNG KOSAMBI:
-<x.-kosambakkhandhakaṃ---chương-kosambi>
 Kosambavivādakathā - Phần giảng về sự tranh cãi ở Kosambi 324
 Dīghāvuvatthu - Câu chuyện về Dīghāvu 336 Bālakaloṇakāragamanakathā -
 Phần giảng về việc đi đến Bālakaloṇakāra 352 Pācīnavaṃsadāyagamanakathā
@@ -978,7 +911,6 @@ TẠNG LUẬT
 ĐẠI PHẨM
 
 == TẬP HAI VINAYAPIṬAKE
-<tập-hai-vinayapiṭake>
 MAHĀVAGGAPĀḶI DUTIYO BHĀGO
 
 Namo tassa bhagavato arahato sammāsambuddhassa.
@@ -986,7 +918,6 @@ Namo tassa bhagavato arahato sammāsambuddhassa.
 #divider()
 
 === VI. BHESAJJAKKHANDHAKAṂ
-<vi.-bhesajjakkhandhakaṃ>
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme. Tena kho pana samayena bhikkhūnaṃ sāradikena
   ābādhena phuṭṭhānaṃ yāgupi pītā uggacchati, bhattampi bhuttaṃ
@@ -1015,13 +946,11 @@ TẠNG LUẬT
 ĐẠI PHẨM
 
 == TẬP HAI
-<tập-hai-1>
 Kính lễ đức Thế Tôn, bậc A-la-hán, đấng Chánh Biến Tri!
 
 #divider()
 
 === VI. CHƯƠNG DƯỢC PHẨM:
-<vi.-chương-dược-phẩm>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Sāvatthi, Jetavana, tu
   viện của ông Anāthapiṇḍika. Vào lúc bấy giờ, các vị tỳ khưu bị nhiễm
   cơn bệnh thuộc về mùa thu khiến cháo đã húp vào bị ói ra, thức ăn đã
@@ -3708,7 +3637,7 @@ addasa - PTS. 2 ābhato - Ma.
 
 Tạng Luật - Đại Phẩm 2 Chương Dược Phẩm
 
-- “Này các tỳ khưu, không nên thọ dụng cháo đặc của người khác khi đã
+-- “Này các tỳ khưu, không nên thọ dụng cháo đặc của người khác khi đã
   được thỉnh mời của một nơi khác; vị nào thọ dụng thì nên được hành xử
   theo Pháp” (liên quan đến tội pācittiya 33).
 
@@ -3821,7 +3750,7 @@ padhūpāyati - Ma; saṃdhūpāyati - PTS. 5 dakkhantī ti - Syā.
 
 Tạng Luật - Đại Phẩm 2 Chương Dược Phẩm
 
-- “Bạch ngài, mật đường đã được cho đến những người ăn thức ăn còn thừa
+-- “Bạch ngài, mật đường đã được cho đến những người ăn thức ăn còn thừa
   theo như ước muốn, và nhiều mật đường này còn thừa lại. Bạch ngài, con
   sẽ thực hành như thế nào đây?” - “Này Kaccāna, như thế thì ngươi hãy
   làm cho những người ăn thức ăn còn thừa được thỏa mãn với nhiều mật
@@ -6696,7 +6625,7 @@ Tạng Luật - Đại Phẩm 2 Chương Dược Phẩm
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, vật dùng đến hết đêm (trộn lẫn) với vật dùng đến hết
+-- “Này các tỳ khưu, vật dùng đến hết đêm (trộn lẫn) với vật dùng đến hết
   ngọ (nếu) được thọ lãnh trong ngày hôm ấy thì được phép lúc đúng thời,
   phi thời không được phép. Vật dùng trong bảy ngày (trộn lẫn) với vật
   dùng đến hết ngọ (nếu) được thọ lãnh trong ngày hôm ấy thì được phép
@@ -6854,7 +6783,6 @@ TÓM LƯỢC CHƯƠNG NÀY:
 #divider()
 
 === VII. KAṬHINAKKHANDHAKAṂ
-<vii.-kaṭhinakkhandhakaṃ>
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme.
 
@@ -6901,7 +6829,6 @@ pātheyyakā - Javi, Manupa, Tovi. 3 āgacchantā - Ma. 5 bhavissatī ti -
 Ma, Syā.
 
 === VII. CHƯƠNG KAṬHINA:
-<vii.-chương-kaṭhina>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Sāvatthi, Jetavana, tu
   viện của ông Anāthapiṇḍika.
 
@@ -9113,7 +9040,6 @@ Tạng Luật - Đại Phẩm 2 Chương Kaṭhina
 #divider()
 
 === VIII. CĪVARAKKHANDHAKAṂ
-<viii.-cīvarakkhandhakaṃ>
 + Tena samayena buddho bhagavā rājagahe viharati veḷuvane
   kalandakanivāpe. Tena kho pana samayena vesāli iddhā ceva hoti phitā
   ca, 1 bahujanā 2 ākiṇṇamanussā, 3 subhikkhā ca, satta ca
@@ -9168,7 +9094,6 @@ abhisamā - Manupa. 11 tādisiṃ - Ma, Syā, PTS.
 atthikānaṃ atthikānaṃ - Ma, Syā, PTS. 12 jānāhi - PTS.
 
 === VIII. CHƯƠNG Y PHỤC:
-<viii.-chương-y-phục>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Rājagaha, Veḷuvana, nơi
   nuôi dưỡng các con sóc. Vào lúc bấy giờ, thành Vesāli được phồn thịnh
   và còn giàu có nữa, đông dân, người người chen chúc, vật thực dễ dàng,
@@ -13667,7 +13592,6 @@ Tạng Luật - Đại Phẩm 2 Chương Y Phục
 #divider()
 
 === IX. CAMPEYYAKKHANDHAKAṂ
-<ix.-campeyyakkhandhakaṃ>
 + Tena kho pana samayena buddho bhagavā campāyaṃ viharati gaggarāya
   pokkharaṇiyā tīre. Tena kho pana samayena kāsīsu janapadesu
   vāsabhagāmo nāma hoti. Tattha kassapagotto nāma bhikkhu āvāsiko hoti
@@ -13712,7 +13636,6 @@ phāsu - Ma, PTS, Tovi. 3 karoti - Syā.
 tadavasariṃsu - Syā. 4 imaṃ āvāsikaṃ bhikkhuṃ - Syā.
 
 === IX. CHƯƠNG CAMPĀ:
-<ix.-chương-campā>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại Campā ở bờ hồ sen Gaggarā. Vào
   lúc bấy giờ, ở xứ sở Kāsi có ngôi làng tên là Vāsabha. Ở đó có vị tỳ
   khưu tên Kassapagotta là vị thường trú, gắn bó với truyền thống, đã có
@@ -18437,7 +18360,6 @@ Tạng Luật - Đại Phẩm 2 Chương Campā
 #divider()
 
 === X. KOSAMBAKKHANDHAKAṂ
-<x.-kosambakkhandhakaṃ>
 + Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme. Tena kho
   pana samayena aññataro bhikkhu āpattiṃ āpanno. So tassā āpattiyā
   āpattidiṭṭhi hoti. Aññe bhikkhū tassā āpattiyā anāpattidiṭṭhino honti.
@@ -18476,7 +18398,6 @@ Tạng Luật - Đại Phẩm 2 Chương Campā
 jānapadānaṃ - Syā.
 
 === X. CHƯƠNG KOSAMBI:
-<x.-chương-kosambi>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại Kosambi, tu viện Ghosita. Vào
   lúc bấy giờ, có vị tỳ khưu nọ phạm tội. Vị ấy có quan điểm về tội ấy
   là có tội, còn các vị tỳ khưu khác có quan điểm về tội ấy là vô tội.
@@ -21442,8 +21363,7 @@ Ahatākappapilotī 150 Oropentā bhājanañca 234
 G D Gaṅgā koṭi saccakathā 108 Duvepi sambahulāpi 318 Gūthaṃ karontā
 roḷiñca 108 Dūteyya kammesu alaṃ samuggaho 374
 
-=== C Dve dve tammūlakantassa 320 Catunnaṃ ariyasaccānaṃ 60 Dve bhātukā rājagahe 236
-<c-dve-dve-tammūlakantassa-320-catunnaṃ-ariyasaccānaṃ-60-dve-bhātukā-rājagahe-236>
+C Dve dve tammūlakantassa 320 Catunnaṃ ariyasaccānaṃ 60 Dve bhātukā rājagahe 236
 Catuvaggo pañcavaggo 318 Campāyaṃ bhagavā āsi 318 N Cuṇṇaṃ cālinī
 maṃsañca 108 Na kehi chando dātabbo 376 Colaṃ sāsapakuḍḍañca 108
 Nakkhattānaṃ mukhaṃ cando 96 Naggā kusā vākacīraṃ 236 Ñ Na hi verena
@@ -21462,8 +21382,7 @@ Tiṃsapāveyyakā bhikkhū 150 Patirūpakena samaggaṃ 318 Telapākesu majjañ
 savaṭṭakaṃ suttaṃ 108 Pare ca na vijānanti 352 Thullakacchu mukhaṃ
 khomaṃ 236 Passaddhiṃ tesaṃ kammānaṃ 322 Pāpaparisakāṇo ca 320
 
-=== D Pārivāsikacatuttho 320 Dakakoṭṭhaṃ lohitañca 108 Puggalassatthārā sammā 150
-<d-pārivāsikacatuttho-320-dakakoṭṭhaṃ-lohitañca-108-puggalassatthārā-sammā-150>
+D Pārivāsikacatuttho 320 Dakakoṭṭhaṃ lohitañca 108 Puggalassatthārā sammā 150
 Dibbaṃ sā labhate āyuṃ Putto sālavatikāya 234 āgamma 202 Puthusaddo
 samajano 352 Dīghapupphaphaṇadasā 236 Punānuññāsi dubbhikkhe 108 Duve
 kamme ṭhapetvāna 318 Potthakaṃ nīlapītañca 236
@@ -21524,8 +21443,7 @@ Gotamaka (cetiya) 192 P Gotamatittha 60 Pajjota 170, Gotamadvāra 60 172,
 56, 58 Pāṭaliputta 58, 212 GH Pārileyyaka 358, 360 Ghositārāma 324
 Pāveyyaka 110, 150 Pilindigāma 20
 
-=== C Pilindivaccha 12, 14, 18, 20, 22 Campā 238,
-<c-pilindivaccha-12-14-18-20-22-campā-238>
+C Pilindivaccha 12, 14, 18, 20, 22 Campā 238,
 240, 242, 244, 246, 316 PH Phaḷikasandāna 212 J Jātiyāvana 86 B Jīvaka
 156, Bārāṇasī 36, 44, 158, 160, 168, 170, 194, 198, 162, 164, 166, 336,
 338, 340, 342, 344, 348 168, 170, 172, 174, Bālakaloṇakāragāma 352 176,
@@ -21540,8 +21458,7 @@ BH R Bhagu 94, 212, 352, 354 Roja 98, 100, 102, 206 Bhaddavatikā 172
 Bhaddasālamūla 358 L Bhaddiyanagara 82, 84, 86, 90 Licchavi 62, 64, 66,
 108 Bhāradvāja 94 Bhusāgāra 104 V Vajji 56, 58
 
-=== M Vāmaka 94 Mandākinī 32 Vāmadeva 94
-<m-vāmaka-94-mandākinī-32-vāmadeva-94>
+M Vāmaka 94 Mandākinī 32 Vāmadeva 94
 Malla 98, 100, 102, 206 Vāsabhagāma 238, Mahākaccāna 362 240, 242
 Mahākappina 362 Vāseṭṭha 94 Mahākassapa 362 Visākhā 196, Mahākoṭṭhita
 362 198, 202, 206, 366 Mahācunda 362 Vesāli 62, 64, Mahāpajāpatī Gotamī
@@ -21863,8 +21780,7 @@ Gahitāgahitañca 182 Ghaṭe/ehi 22, Gāmakāvāsaṃ 212, 214 28, 30, 50 Gāv�
 
 Đại Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== C CH Cakkaṃ 62, Chammāsikaṃ 82, 84
-<c-ch-cakkaṃ-62-chammāsikaṃ-82-84>
+C CH Cakkaṃ 62, Chammāsikaṃ 82, 84
 288, 290, 298, 300 Chavidosābādho 16 Cakkena cakkaṃ 62 Chārikaṃ 16, 2424
 Cakkhunā 56, 58 Chinnakaṃ 190, 208 Cakkhumanto 52, Chinnaggāni 358 72,
 88, 90 Chedanamattena 112 Cakkhurogābādho 10 Caṇḍo 172 J Catugguṇaṃ 194
@@ -21925,16 +21841,14 @@ Dāyaṃ 354 Theyyasaṃvāsako/ā/assa 224 Dāsakammakaraporisaṃ 82 226, 262,
 188 84, 88, 90, 162, 166, 168, 172 Theve 188 Diguṇaṃ 192
 Diṭṭhadhammasukhavihāraṃ 336,
 
-=== D 350 Dakkhā 102 Diṭṭhadhammo/ā 52,
-<d-350-dakkhā-102-diṭṭhadhammoā-52>
+D 350 Dakkhā 102 Diṭṭhadhammo/ā 52,
 Dakkhiṇamādise 58 74, 88, 90, 100 Daṭṭhabbā 266, 268, 270 Diṭṭhi/iṃ/iyā
 224, Daṭṭhukāmo 160 226, 256, 258, Daḍdḍhaṃ vā 148 260, 262, 266, 268,
 270, Daṇḍakathālikaṃ 188 288, 300, 308, 316, 318, 366
 
 Đại Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== D D Diṭṭho 82, 84, 100, 166 Dussayugasatasahassānaṃ 174, 178
-<d-d-diṭṭho-82-84-100-166-dussayugasatasahassānaṃ-174-178>
+D D Diṭṭho 82, 84, 100, 166 Dussayugasatasahassānaṃ 174, 178
 Dibbena 56, 58 Dussayugasatānaṃ 174, 178 Divasasantatto 52 Dussayugaṃ
 174, 178 Divādivassa 66 Dussayugānaṃ 174, 178 Disaṅgamiko 142, 144
 Dussānaṃ 174, 178, 194 Disāpāmokkho/ā 158, Dussīlassa 56 160, 164, 170
@@ -22152,8 +22066,7 @@ Bhassakārako/ā/ehi 280, 22, 80, 160, 162, 282, 284, 300, 164, 170, 172,
 
 Đại Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== M M Makkhīyati 162, 204 Mahagghāni 160, 162
-<m-m-makkhīyati-162-204-mahagghāni-160-162>
+M M Makkhīyati 162, 204 Mahagghāni 160, 162
 Magadhakkhettaṃ 190 Mahatthiko 374 Magadhamahāmattā 56, Mahaddhano 336
 58, 60 Mahapphalaṃ 74 Maṅku/ū 162, 200, 374 Mahabbalo 336 Maṅkubhūto 56
 Mahallakaṃ 166 Mañcake/ena 36, 160, 166, 216 Mahānubhāvatā 38, 198
@@ -22176,8 +22089,7 @@ Migavaṃ 344
 
 Đại Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== M M Mithubhedā 58 Mokkhaṃ 174, 178
-<m-m-mithubhedā-58-mokkhaṃ-174-178>
+M M Mithubhedā 58 Mokkhaṃ 174, 178
 Mukhapuñchanacoḷakaṃ 206, 208 Moghapurisā 48, Mukhato uggañchi 160 190,
 192, 244, 350 Mukhasattīhi 334 Mocapānaṃ 96 Mukhāyāmaṃ 352 Mohā 330, 332
 Muggatthikena 92 Mohāgatiṃ 182, 184, 186 Muggaṃ 24 Maṃsagandhena 42
@@ -22223,8 +22135,7 @@ Lohitaṃ mocetuṃ 14 Rūhati 16, 262 Lohituppādako/ā/assa 224, Rūḷho 38
 
 Đại Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== V V Vaggakammaṃ 244, Vācāgocarabhāṇino 352
-<v-v-vaggakammaṃ-244-vācāgocarabhāṇino-352>
+V V Vaggakammaṃ 244, Vācāgocarabhāṇino 352
 246, 248, …, 314, 316 Vācitamanuvācenti 94 Vaggattā 246 Vātapānesu 22
 Vaggaṃ bandhitvā 186 Vātābādho 14, 24 Vacatthaṃ 06 Vādānuvādo 66 Vacaṃ
 06 Vādite 154, 156 Vacīkammaṃ 334, 356 Vāmano 264 Vacīduccaritassa 68
@@ -22247,8 +22158,7 @@ Vassikasāṭikaṃ/ā/āya 198, Viññāpentassa 262 202, 208, 210 Viññutaṃ
 
 Đại Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== V V Vitthārena 190, 350 Vivādakārako/ā/ehi 280,
-<v-v-vitthārena-190-350-vivādakārakoāehi-280>
+V V Vitthārena 190, 350 Vivādakārako/ā/ehi 280,
 Viditadhammo/ā 52, 282, 284, 300, 74, 88, 90, 100 358, 360, 364, 366,
 368 Vinaṭṭhaṃ 148 Vivādāpannā 334 Vinayakammaṃ 270, Vivādo 328, 272,
 274, 276, 278 330, 332, 370, 372 Vinayato 324, 326 Vissāsaṃ 206
@@ -22272,8 +22182,7 @@ Virecanaṃ 18, 36, 174, 176 Vedayissāmi 202 Vilumpamānānaṃ 352 Venayiko
 
 Đại Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== V S Veraṃ appeyyaṃ 346 Saṅghasāmaggi/iṃ/iyo/iyā 370,
-<v-s-veraṃ-appeyyaṃ-346-saṅghasāmaggiiṃiyoiyā-370>
+V S Veraṃ appeyyaṃ 346 Saṅghasāmaggi/iṃ/iyo/iyā 370,
 Verena verā na sammati 342, 372 346, 348 Saṅghassa 30, Vesārajjappatto/ā
 52, 66, 76, …, 370, 372 74, 88, 90, 100 Saṅghāṭi/iṃ/yā 112, Vesālikā 62
 114, 190, 192, 194, 208, 210 Vesiyāhi 200 Saṅghikāni 104, 210, 212, 214

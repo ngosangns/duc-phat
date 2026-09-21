@@ -1,5 +1,4 @@
 = 135. Tiểu kinh Nghiệp phân biệt
-<tiểu-kinh-nghiệp-phân-biệt>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Cùlakammavibhanga
 sutta)]
 

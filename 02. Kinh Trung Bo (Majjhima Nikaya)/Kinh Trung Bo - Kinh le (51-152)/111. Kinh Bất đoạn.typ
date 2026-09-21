@@ -1,5 +1,4 @@
 = 111. Kinh Bất đoạn
-<kinh-bất-đoạn>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Anupada sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = 84. Kinh Madhurà
-<kinh-madhurà>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Madhurà sutta)]
 
 #divider()

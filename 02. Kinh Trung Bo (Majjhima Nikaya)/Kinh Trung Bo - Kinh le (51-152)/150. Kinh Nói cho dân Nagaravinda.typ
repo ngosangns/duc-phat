@@ -1,5 +1,4 @@
 = 150. Kinh Nói cho dân Nagaravinda
-<kinh-nói-cho-dân-nagaravinda>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Nagaravindeyya sutta)]
 
 #divider()
@@ -111,7 +110,7 @@ ly sân, hay đang đi trên con đường nhiếp phục sân, hay ly si, hay �
 
 Khi nghe nói vậy, các Bà-la-môn gia chủ ở Nagaravinda nói với Thế Tôn:
 
-- Thật vi diệu thay, Tôn giả Gotama! Thật vị diệu thay, Tôn giả Gotama!
+-- Thật vi diệu thay, Tôn giả Gotama! Thật vị diệu thay, Tôn giả Gotama!
   Như người dựng đứng lại những gì bị quăng ngã xuống, phơi bày những gì
   bị che kín, chỉ đường cho kẻ bị lạc hướng, đem đèn sáng vào trong bóng
   tối để những ai có mắt có thể thấy sắc. Cũng vậy, Chánh pháp đã được

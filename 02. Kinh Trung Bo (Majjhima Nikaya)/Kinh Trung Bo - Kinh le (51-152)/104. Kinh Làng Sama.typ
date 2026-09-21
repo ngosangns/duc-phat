@@ -1,5 +1,4 @@
 = 104. Kinh Làng Sama
-<kinh-làng-sama>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sàmagàma sutta)]
 
 #divider()

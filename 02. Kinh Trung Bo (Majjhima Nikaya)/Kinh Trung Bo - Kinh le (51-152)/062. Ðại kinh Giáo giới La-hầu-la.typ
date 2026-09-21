@@ -1,5 +1,4 @@
 = 62. Ðại kinh Giáo giới La-hầu-la
-<ðại-kinh-giáo-giới-la-hầu-la>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahà Ràhulovàda sutta)]
 
 #divider()

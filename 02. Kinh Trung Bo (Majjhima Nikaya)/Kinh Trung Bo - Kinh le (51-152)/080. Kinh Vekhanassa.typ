@@ -1,5 +1,4 @@
 = 80. Kinh Vekhanassa
-<kinh-vekhanassa>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Vekhanassa sutta)]
 
 #divider()

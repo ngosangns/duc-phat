@@ -1,5 +1,4 @@
 = 152. Kinh Căn tu tập
-<kinh-căn-tu-tập>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Indriyabhàvanà sutta)]
 
 #divider()

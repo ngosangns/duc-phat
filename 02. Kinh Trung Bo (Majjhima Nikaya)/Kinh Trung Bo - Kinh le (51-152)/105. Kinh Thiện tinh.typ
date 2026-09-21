@@ -1,5 +1,4 @@
 = 105. Kinh Thiện tinh
-<kinh-thiện-tinh>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sunakkhatta sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = 79. Tiểu kinh Sakuludayi (Thiện sanh Ưu đà di)
-<tiểu-kinh-sakuludayi-thiện-sanh-ưu-đà-di>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Cùlasakuludàyi sutta)]
 
 #divider()

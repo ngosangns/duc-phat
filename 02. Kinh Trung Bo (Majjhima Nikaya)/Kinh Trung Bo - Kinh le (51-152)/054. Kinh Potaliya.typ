@@ -1,5 +1,4 @@
 = 54. Kinh Potaliya
-<kinh-potaliya>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Potaliya sutta)]
 
 #divider()

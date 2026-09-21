@@ -1,5 +1,4 @@
 = 120. Kinh Hành sanh
-<kinh-hành-sanh>
 #strong[Trung Bộ Kinh#emph[Majjhima Nikaya]] \ #emph[\(Sankhàrupapatti
 sutta)]
 

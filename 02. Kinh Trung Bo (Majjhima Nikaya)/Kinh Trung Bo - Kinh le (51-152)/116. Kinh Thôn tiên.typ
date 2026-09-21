@@ -1,5 +1,4 @@
 = 116. Kinh Thôn tiên
-<kinh-thôn-tiên>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Isigili sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = 97. Kinh Dhànanjàni
-<kinh-dhànanjàni>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Dhànanjàni sutta)]
 
 #divider()

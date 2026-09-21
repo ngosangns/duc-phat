@@ -1,5 +1,4 @@
 = 132. Kinh A-nan Nhất dạ hiền giả
-<kinh-a-nan-nhất-dạ-hiền-giả>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Anandabhaddekaratta
 sutta)]
 

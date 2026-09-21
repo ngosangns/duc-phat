@@ -1,5 +1,4 @@
 = 57. Kinh Hạnh con chó
-<kinh-hạnh-con-chó>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Kukkuravatika sutta)]
 
 #divider()

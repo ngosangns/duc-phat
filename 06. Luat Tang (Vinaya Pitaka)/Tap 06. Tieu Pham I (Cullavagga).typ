@@ -1,5 +1,4 @@
 = Luật Tạng (Vinaya Piṭaka) --- Tập 06: Tiểu Phẩm I (Cullavagga)
-<luật-tạng-vinaya-piṭaka-tập-06-tiểu-phẩm-i-cullavagga>
 TAM TẠNG SONG NGỮ PĀLI - VIỆT
 
 VESAK 2550
@@ -8,25 +7,6 @@ Buddhist Cultural Centre 125 Anderson Road, Nedimala, Dehiwala, Sri
 Lanka Sabbadānaṃ dhammadānaṃ jināti. Sự bố thí Pháp vượt trên tất cả các
 sự bố thí.
 
-Thí Chủ: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Dâng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Ước Nguyện: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-Hồi hướng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 TAM TẠNG SONG NGỮ PĀLI - VIỆT - TẬP 06
 
 VINAYAPITAKE
@@ -40,7 +20,6 @@ TẠNG LUẬT
 TIỂU PHẨM
 
 == TẬP MỘT
-<tập-một>
 PHẬT LỊCH 2554 DƯƠNG LỊCH 2010 In lần thứ nhất: PL 2554 - DL 2010 Số
 Lượng 600 cuốn
 
@@ -55,35 +34,7 @@ Website: www.buddhistcc.com
 Printed by: Ajith Printers (Pvt) Ltd.~342 Old Kesbewa Road Ratanapitiya,
 Borelesgamuwa, Sri Lanka. Tel: 94-11-251 7269
 
-MỤC LỤC TỔNG QUÁT
-
-Mục Lục Tổng Quát iii
-
-Lời Tựa - Sinhala và Việt ngữ v - xiv
-
-Văn Bản của Bộ Tôn Giáo - Anh và Việt ngữ xv - xvi
-
-Thành Phần Nhân Sự xvii
-
-Lược Đồ Tam Tạng xviii - xix
-
-Lời Giới Thiệu xxiii - xxv
-
-Các Chữ Viết Tắt xxvii
-
-Mẫu Tự Pāḷi - Sinhala xxviii - xxix
-
-Mục Lục Tiểu Phẩm - Tập Một xxxi - xxxvi
-
-Văn Bản Pāḷi và Văn Bản Tiếng Việt 02 - 435
-
-Phần Phụ Chú 437 - 438
-
-Thư Mục Danh Từ Riêng 439 - 440
-
-Thư Mục Từ Đặc Biệt 441 - 448
-
-Phương Danh Thí Chủ 449 - 452
+#outline(title: [Mục lục])
 
 #divider()
 
@@ -93,7 +44,7 @@ paṭicchanno.”
 “Này các tỳ khưu, Pháp và Luật đã được công bố bởi đức Như Lai là bộc
 lộ, chói sáng, không che giấu.”
 
--
+#divider()
 
 \(Aṅguttaranikāya Tikanipātapāḷi Kusinaravagga Paṭichannasutta,
 Parivārapāḷi Ekuttarikanaya Tikavāra - Bộ Tăng Chi, Chương Ba Pháp, Phẩm
@@ -459,8 +410,7 @@ niệm Buddha Jayanti lần thứ 2550 là chính xác về phần Pali văn. Ph
 Pali văn được phiên âm sang mẫu tự Roman có giá trị tương đương về nội
 dung so với văn bản gốc bằng mẫu tự Sinhala.
 
-=== B. N. Jinasena Thư Ký Chánh văn phòng
-<b.-n.-jinasena-thư-ký-chánh-văn-phòng>
+B. N. Jinasena Thư Ký Chánh văn phòng
 Địa Chỉ: 115 Wijerama Mawatha, Colombo 07, Sri Lanka Office:
 94-11-2690896 Fax: 94-11-2690897 Deputy Minister: 94-11-5375128,
 94-11-2690898 Secretary: 94-11-2690736
@@ -481,7 +431,7 @@ Nandana Tipiṭaka Dhammāyatana Malegoḍa, Payāgala - Sri Lanka
 CỐ VẤN VI TÍNH: Ven. Mettāvihārī (Đan Mạch) Ban điều hành Mettānet
 Foundation
 
--
+#divider()
 
 ĐIỀU HÀNH TỔNG QUÁT: Tỳ Khưu Indacanda
 
@@ -499,10 +449,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 
 Pārājikapāḷi Phân Tích Giới Tỳ Khưu I 01
 
-=== V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
-<v-pācittiyapāḷi-bhikkhu-phân-tích-giới-tỳ-khưu-ii-02>
-=== I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
-<i-l-pācittiyapāḷi-bhikkhunī-phân-tích-giới-tỳ-khưu-ni-03-n-u-mahāvaggapāḷi-i-đại-phẩm-i-04>
+V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
+I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
 A Ậ Mahāvaggapāḷi II Đại Phẩm II 05 Y T Cullavaggapāḷi I Tiểu Phẩm I 06
 A Cullavaggapāḷi II Tiểu Phẩm II 07 Parivārapāḷi I Tập Yếu I 08
 Parivārapāḷi II Tập Yếu II 09
@@ -526,10 +474,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 K Khuddakapāṭha Tiểu Tụng 28 H Dhammapadapāḷi Pháp Cú - U Udānapāḷi Phật
 Tự Thuyết -
 
-=== D Itivuttakapāḷi Phật Thuyết Như Vậy -
-<d-itivuttakapāḷi-phật-thuyết-như-vậy-->
-=== D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
-<d-suttanipātapāḷi-kinh-tập-29-a-vimānavatthupāḷi-chuyện-thiên-cung-30>
+D Itivuttakapāḷi Phật Thuyết Như Vậy -
+D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
 K Petavatthupāḷi Chuyện Ngạ Quỷ - S A Theragathāpāḷi Trưởng Lão Kệ 31 U
 N Therīgāthāpāḷi Trưởng Lão Ni Kệ - T K I Jātakapāḷi I Bổn Sanh I 32 T I
 K Jātakapāḷi II Bổn Sanh II 33 A N Ā Jātakapāḷi III Bổn Sanh III 34 N H
@@ -538,27 +484,21 @@ Paṭisambhidāmagga I Phân Tích Đạo I 37 \* Paṭisambhidāmagga II Phân 
 Đạo II 38 Apadānapāḷi I Thánh Nhân Ký Sự I 39 T Apadānapāḷi II Thánh
 Nhân Ký Sự II 40
 
-=== I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
-<i-apadānapāḷi-iii-thánh-nhân-ký-sự-iii-41-ể-buddhavaṃsapāḷi-phật-sử-42>
+I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
 U Cariyāpiṭakapāḷi Hạnh Tạng - Nettipakaraṇa (chưa dịch) 43 B
 Peṭakopadesa (chưa dịch) 44 Ộ Milindapañhāpāḷi Mi Tiên Vấn Đáp 45
 
 Dhammasaṅganipakaraṇa Bộ Pháp Tụ 46
 
-=== V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
-<v-vibhaṅgapakaraṇa-i-bộ-phân-tích-i-47-a-i-vibhaṅgapakaraṇa-ii-bộ-phân-tích-ii-48>
+V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
 B Kathāvatthu I Bộ Ngữ Tông I 49 H D Kathāvatthu II Bộ Ngữ Tông II 50
 
-=== I I Kathāvatthu III Bộ Ngữ Tông III 51
-<i-i-kathāvatthu-iii-bộ-ngữ-tông-iii-51>
-=== D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
-<d-ệ-dhātukathā-bộ-chất-ngữ---h-u-puggalapaññattipāḷi-bộ-nhân-chế-định-52>
+I I Kathāvatthu III Bộ Ngữ Tông III 51
+D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
 A Yamakapakaraṇa I Bộ Song Đối I 53
 
-=== M P Yamakapakaraṇa II Bộ Song Đối II 54
-<m-p-yamakapakaraṇa-ii-bộ-song-đối-ii-54>
-=== M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
-<m-h-yamakapakaraṇa-iii-bộ-song-đối-iii-55-a-á-patthānapakaraṇa-i-bộ-vị-trí-i-56>
+M P Yamakapakaraṇa II Bộ Song Đối II 54
+M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
 P Patthānapakaraṇa II Bộ Vị Trí II 57 Patthānapakaraṇa III Bộ Vị Trí III
 58
 
@@ -572,8 +512,9 @@ TẠNG LUẬT
 
 TIỂU PHẨM
 
-== TẬP MỘT Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
-<tập-một-tāni-ca-sutte-otāriyamānāni-vinaye-sandassiyamānāni-sutte-ceva-otaranti-vinaye-ca-sandissanti-niṭṭham-ettha-gantabbaṃ-addhā-idaṃ>
+== TẬP MỘT
+
+Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
 tassa bhagavato vacanaṃ, tassa ca therassa suggahitan'ti.
 
 \(Dīghanikāya II, Mahāparinibbānasutta).
@@ -584,7 +525,9 @@ Kinh, cần được xem xét ở Luật, và chỉ khi nào chúng hiện diệ
 chắc chắn là lời giảng dạy của đức Thế Tôn và đã được vị trưởng lão ấy
 tiếp thâu đúng đắn.”
 
-\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn). LỜI GIỚI THIỆU
+\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn).
+
+== Lời giới thiệu
 
 #divider()
 
@@ -608,7 +551,7 @@ Khandhaka, và Parivāra.
 
 Tổng cọng Vinayapiṭaka - Tạng Luật sẽ được ấn tống thành 9 tập.
 
--
+#divider()
 
 Cullavagga - Tiểu Phẩm gồm có 12 chương được trình bày thành hai tập:
 Cullavagga 1 & Tiểu Phẩm 1 (TTPV 06, Tam Tạng Pāḷi - Việt tập 06) có 4
@@ -648,7 +591,7 @@ phục hồi phẩm vị trước đây cho vị tỳ khưu phạm tội.
   quan đến nhiệm vụ.
 ]
 
--
+#divider()
 
 Về hình thức, văn bản Pāḷi Roman được trình bày ở đây đã được phiên âm
 lại từ văn bản Pāḷi - Sinhala, ấn bản Buddha Jayanti Tripitaka Series
@@ -750,8 +693,7 @@ l ka L kha . ga U gha X ṅa p ca P cha c ja ® jha \[ ña g ṭa G ṭha v ḍa
 h ya r ra , la j va i sa y ha \< ḷa x ṃ l ka ld kā ls ki lS kī l= ku l+
 kū fl ke fld ko
 
-=== L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
-<l-kha-ld-khā-ls-khi-ls-khī-lq-khu-lq-khū-fl-khe-fld-kho-.-ga-.d-gā-.s-gi-.s-gī-.-gu-.-gū-f.-ge-f.d-go>
+L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
 PHỤ ÂM LIÊN KẾT
 
 ll kka \[\[ ñña \;% tra uM mpha lL kkha Ky ṇha oo dda un mba lH kya \[p
@@ -760,10 +702,8 @@ uy mha LH khya \[® ñjha Oj dhva hh, hH yya Lj khva gg ṭṭa k; nta hy yha
 \.. gga gG ṭṭha J: ntha ,, lla \.\> ggha vv ḍḍa Jo, | nda ,H lya Xl ṅka
 vV ḍḍha JO ndha ,y lha \.% gra KK ṇṇa \;; nna jh vha
 
-=== XL ṅkha Kg ṇṭa \;y nha ii ssa
-<xl-ṅkha-kg-ṇṭa-y-nha-ii-ssa>
-=== X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
-<x.-ṅga-kg-ṇṭha-mm-ppa-iu-sma-x-ṅgha-kv-ṇḍa-mm-ppha-ij-sva>
+XL ṅkha Kg ṇṭa \;y nha ii ssa
+X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
 pp cca \;; tta nn bba yu hma pP ccha F: ttha nN bbha yj hva cc jja Fj
 tva n% bra \<y ḷha c® jjha um mpa
 
@@ -803,7 +743,6 @@ CULLAVAGGAPĀḶI - PAṬHAMO BHĀGO TIỂU PHẨM - TẬP MỘT
 VISAYASŪCI - MỤC LỤC
 
 === I. KAMMAKKHANDHAKAṂ - CHƯƠNG HÀNH SỰ:
-<i.-kammakkhandhakaṃ---chương-hành-sự>
 + Tajjanīyakammaṃ - Hành sự khiển trách 02 - 23 Paṇḍukalohitakānaṃ
   bhikkhūnaṃ vatthu - Câu chuyện về các tỳ khưu nhóm Paṇḍuka và Lohitaka
   02 Adhammakammadvādasakaṃ - Mười hai hành sự sai Pháp 08
@@ -879,10 +818,9 @@ Paṭippassambhetabba-aṭṭhārasakaṃ - Mười tám trường hợp nên đ
 
 Uddānagāthā - Các câu kệ tóm lược 152
 
--
+#divider()
 
 === II. PĀRIVĀSIKAKKKHANDHAKAṂ - CHƯƠNG PARIVĀSA:
-<ii.-pārivāsikakkkhandhakaṃ---chương-parivāsa>
 + Pārivāsikavattaṃ - Phận sự của vị hành parivāsa 158
 
 + Mūlāya paṭikassanārahavattaṃ - Phận sự của vị xứng đáng việc đưa về
@@ -896,10 +834,9 @@ Uddānagāthā - Các câu kệ tóm lược 152
 
 Uddānagāthā - Các câu kệ tóm lược 194
 
--
+#divider()
 
 === III. SAMUCCAYAKKHANDHAKAṂ - CHƯƠNG TÍCH LŨY TỘI:
-<iii.-samuccayakkhandhakaṃ---chương-tích-lũy-tội>
 + Sukkavisaṭṭhi - Tội xuất tinh 196 - 251 Apaṭicchannamānattaṃ - Hình
   phạt mānatta của tội không có che giấu 196 Apaṭicchanna-abbhānaṃ -
   Việc giải tội của tội không có che giấu 198 Ekāhapaṭicchannaparivāso -
@@ -963,10 +900,9 @@ Pakkapaṭicchanna-abbhānaṃ - Việc giải tội của tội che giấu nử
 
 Uddānagāthā - Các câu kệ tóm lược 330
 
--
+#divider()
 
 === IV. SAMATHAKKHANDHAKAṂ - CHƯƠNG DÀN XẾP:
-<iv.-samathakkhandhakaṃ---chương-dàn-xếp>
 + Sammukhāvinayo - Hành xử Luật với sự hiện diện 332
 
 + Sativinayo - Hành xử Luật bằng sự ghi nhớ 338
@@ -1010,12 +946,10 @@ TẠNG LUẬT
 TIỂU PHẨM
 
 == TẬP MỘT VINAYAPIṬAKE
-<tập-một-vinayapiṭake>
 CULLAVAGGAPĀḶI Paṭhamo Bhāgo Namo tassa bhagavato arahato
 sammāsambuddhassa.
 
 === I. KAMMAKKHANDHAKAṂ
-<i.-kammakkhandhakaṃ>
 + TAJJANĪYAKAMMAṂ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha-
@@ -1048,9 +982,7 @@ TẠNG LUẬT
 TIỂU PHẨM
 
 == Tập Một Kính lễ đức Thế Tôn, bậc A-la-hán, đấng Chánh Biến Tri!
-<tập-một-kính-lễ-đức-thế-tôn-bậc-a-la-hán-đấng-chánh-biến-tri>
 === I. CHƯƠNG HÀNH SỰ:
-<i.-chương-hành-sự>
 + HÀNH SỰ KHIỂN TRÁCH:
 
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Sāvatthi, Jetavana, tu
@@ -1190,7 +1122,7 @@ một số người đã có đức tin.”
   phù hợp cho các tỳ khưu rồi bảo các tỳ khưu rằng:
 ]
 
-- Này các tỳ khưu, chính vì điều ấy hội chúng hãy thực hiện hành sự
+-- Này các tỳ khưu, chính vì điều ấy hội chúng hãy thực hiện hành sự
   khiển trách đến các tỳ khưu nhóm Paṇḍuka và Lohitaka. Và này các tỳ
   khưu, nên thực hiện như vầy: Trước hết, các tỳ khưu Paṇḍuka và
   Lohitaka cần được quở trách; sau khi quở trách cần được nhắc nhở; sau
@@ -1451,7 +1383,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Adhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -1509,7 +1441,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai hành sự sai pháp.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -1647,7 +1579,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Dhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 ĀKAṄKHAMĀNACHAKKAṂ
 
@@ -1701,7 +1633,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai hành sự đúng pháp.
 
--
+#divider()
 
 SÁU TRƯỜNG HỢP TRONG KHI MONG MUỐN:
 
@@ -1752,7 +1684,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Ākaṅkhamānachakkaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -1796,7 +1728,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt sáu trường hợp trong khi mong muốn.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -1814,7 +1746,7 @@ codetabbo, na sāretabbo, na bhikkhūhi 3 sampayojetabban ”ti.
 
 Aṭṭhārasavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 NAPAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -1866,7 +1798,7 @@ nhắc nhở, không nên cấu kết với các tỳ khưu.”
 
 Dứt mười tám phận sự.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
 
@@ -1907,7 +1839,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Na paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -1933,7 +1865,7 @@ PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
 Paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 \[PAṬIPPASSAMBHANAṂ\]
 
@@ -1959,7 +1891,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười tám trường hợp không nên thu hồi.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
@@ -1987,7 +1919,7 @@ MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
 Dứt mười tám trường hợp nên được thu hồi.
 
--
+#divider()
 
 \[VIỆC THU HỒI\]
 
@@ -2153,7 +2085,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
   chúng tỳ khưu lại và đã hỏi các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, nghe nói tỳ khưu Seyyasaka là kẻ ngu si, thiếu kinh
+-- “Này các tỳ khưu, nghe nói tỳ khưu Seyyasaka là kẻ ngu si, thiếu kinh
   nghiệm, phạm nhiều tội, không có giới hạn (về tội), sống thân cận với
   các gia chủ bằng những giao thiệp không đúng đắn với hàng tại gia. Hơn
   nữa, các tỳ khưu thường xuyên bị bận rộn trong khi ban cho hình phạt
@@ -2213,7 +2145,7 @@ so bhāseyya.
 Kataṃ saṅghena seyyasakassa bhikkhuno niyassakammaṃ, nissāya te
 vatthabbanti. Khamati saṅghassa, tasmā tuṇhī. Evametaṃ dhārayāmī ”ti.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -2268,7 +2200,7 @@ Hành sự chỉ dạy đối với đại đức Seyyasaka rằng: ‘Ngươi c
 sự nương nhờ' đã được hội chúng thực hiện. Sự việc được hội chúng đồng ý
 nên mới im lặng, tôi ghi nhận sự việc này là như vậy.”
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -2319,7 +2251,7 @@ ADHAMMAKAMMADVĀDASAKAṂ
 
 Niyassakamme adhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -2379,7 +2311,7 @@ MƯỜI HAI HÀNH SỰ SAI PHÁP:
 
 Dứt mười hai hành sự sai pháp thuộc hành sự chỉ dạy.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -2430,7 +2362,7 @@ DHAMMAKAMMADVĀDASAKAṂ
 
 Niyassakamme dhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -2491,7 +2423,7 @@ MƯỜI HAI HÀNH SỰ ĐÚNG PHÁP:
 
 Dứt mười hai hành sự đúng pháp thuộc hành sự chỉ dạy.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -2535,7 +2467,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Niyassakamme ākaṅkhamānachakkaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -2587,7 +2519,7 @@ SÁU TRƯỜNG HỢP TRONG KHI MONG MUỐN:
   hạng tỳ khưu này. Dứt sáu trường hợp trong khi mong muốn thuộc hành sự
   chỉ dạy.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -2605,7 +2537,7 @@ codetabbo, na sāretabbo, na bhikkhūhi sampayojetabban ”ti.
 
 Niyassakamme aṭṭhārasavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 NA PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -2656,7 +2588,7 @@ không nên thỉnh ý (để buộc tội), không nên quở trách, không n�
 nhở, không nên cấu kết với các tỳ khưu.” Dứt mười tám phận sự thuộc hành
 sự chỉ dạy.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
 
@@ -2702,7 +2634,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Na paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -2728,7 +2660,7 @@ PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
 Paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 \[PAṬIPPASSAMBHANAṂ\]
 
@@ -2755,7 +2687,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười tám trường hợp không nên thu hồi.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
@@ -2783,7 +2715,7 @@ MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
 Dứt mười tám trường hợp nên được thu hồi.
 
--
+#divider()
 
 \[VIỆC THU HỒI\]
 
@@ -3350,7 +3282,7 @@ vatthabban 'ti. Khamati saṅghassa, tasmā tuṇhī. Evametaṃ dhārayāmī �
 
 \[Pabbājanīyakammakaraṇaṃ niṭṭhitaṃ\]
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -3406,7 +3338,7 @@ chúng đồng ý nên mới im lặng, tôi ghi nhận sự việc này là nh�
 
 \[Dứt việc thực hiện hành sự xua đuổi\]
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -3521,7 +3453,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Pabbājanīyakamme adhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 DHAMMAKAMMADVĀDASAKAṂ
 
@@ -3569,7 +3501,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai hành sự sai pháp thuộc hành sự xua đuổi.
 
--
+#divider()
 
 MƯỜI HAI HÀNH SỰ ĐÚNG PHÁP:
 
@@ -3635,7 +3567,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Pabbājanīyakamme dhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 ĀKAṄKHAMĀNACUDDASAKAṂ
 
@@ -3686,7 +3618,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai hành sự đúng pháp thuộc hành sự xua đuổi.
 
--
+#divider()
 
 MƯỜI BỐN TRƯỜNG HỢP TRONG KHI MONG MUỐN:
 
@@ -3822,7 +3754,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Pabbājanīyakamme ākaṅkhamānacuddasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 AṬṬHĀRASAVATTAṂ
 
@@ -3832,7 +3764,7 @@ na bhikkhūhi sampayojetabban ”ti.
 
 Pabbājanīyakamme aṭṭhārasavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 NA PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -3872,7 +3804,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười bốn trường hợp trong khi mong muốn thuộc hành sự xua đuổi.
 
--
+#divider()
 
 MƯỜI TÁM PHẬN SỰ:
 
@@ -3883,7 +3815,7 @@ Không nên ban phép tu lên bậc trên, không nên ban cho phép nương nh�
 
 Dứt mười tám phận sự thuộc hành sự xua đuổi.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
 
@@ -3899,7 +3831,7 @@ MƯỜI TÁM TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
   tỳ khưu nào ít ham muốn, ―(như trên)― các vị ấy phàn nàn, phê phán,
   chê bai rằng:
 
-- “Vì sao các tỳ khưu nhóm Assaji và Punabbasuka khi được hội chúng thực
+-- “Vì sao các tỳ khưu nhóm Assaji và Punabbasuka khi được hội chúng thực
   hiện hành sự xua đuổi lại không làm phận sự đúng đắn, không trở nên
   thu thúc, không làm bổn phận để sửa đổi, không làm cho các tỳ khưu hài
   lòng, họ lại mắng nhiếc, họ lại gièm pha, do có sự thiên vị vì thương,
@@ -3942,7 +3874,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Pabbājanīyakamme na paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -3990,7 +3922,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười tám trường hợp không nên thu hồi thuộc hành sự xua đuổi.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
@@ -4022,7 +3954,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Pabbājanīyakamme paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 \[PAṬIPPASSAMBHANAṂ\]
 
@@ -4065,7 +3997,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười tám trường hợp nên được thu hồi thuộc hành sự xua đuổi.
 
--
+#divider()
 
 \[VIỆC THU HỒI\]
 
@@ -4453,7 +4385,7 @@ Kataṃ saṅghena sudhammassa bhikkhuno paṭisāraṇīyakammaṃ: ‘Citto te
 gahapati khamāpetabbo 'ti. Khamati saṅghassa, tasmā tuṇhī. Evametaṃ
 dhārayāmī ”ti.
 
--
+#divider()
 
 ADHAMMAKAMMADVĀDASAKAṂ
 
@@ -4500,7 +4432,7 @@ Hành sự hòa giải đối với tỳ khưu Sudhamma rằng: ‘Ngươi nên 
 chủ Citta thứ lỗi' đã được hội chúng thực hiện. Sự việc được hội chúng
 đồng ý nên mới im lặng, tôi ghi nhận sự việc này là như vậy.”
 
--
+#divider()
 
 MƯỜI HAI HÀNH SỰ SAI PHÁP:
 
@@ -4565,7 +4497,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Paṭisāraṇīyakamme adhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 DHAMMAKAMMADVĀDASAKAṂ
 
@@ -4618,7 +4550,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai hành sự sai pháp thuộc hành sự hòa giải.
 
--
+#divider()
 
 MƯỜI HAI HÀNH SỰ ĐÚNG PHÁP:
 
@@ -4777,7 +4709,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Ākaṅkhamānacatukkaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 PAṬISĀRAṆĪYAKAMME AṬṬHĀRASAVATTAṂ
 
@@ -4793,7 +4725,7 @@ kāretabbo, na codetabbo, na sāretabbo, na bhikkhūhi sampayojetabban ”ti.
 
 Paṭisāraṇīyakamme aṭṭhārasavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 hīnena vambheti - Ma, PTS potthakesu gihī iti saddo na dissate.
 
@@ -4830,7 +4762,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt bốn trường hợp trong khi mong muốn.
 
--
+#divider()
 
 MƯỜI TÁM PHẬN SỰ THUỘC HÀNH SỰ HÒA GIẢI:
 
@@ -4849,7 +4781,7 @@ nhắc nhở, không nên cấu kết với các tỳ khưu.”
 
 Dứt mười tám phận sự thuộc hành sự hòa giải.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -4962,7 +4894,7 @@ paggaṇhāpetvā sā āpatti desāpetabbā ”ti.2
   paṭisāraṇīyakammaṃ paṭippassambhetu.
 ]
 
--
+#divider()
 
 NAPAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -4988,7 +4920,7 @@ NAPAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
 Paṭisāraṇīyakamme na paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 sudhammo bhikkhu - Ma, PTS. 2 taṃ āpattiṃ desāpetabbo ti - Ma.
 
@@ -5011,7 +4943,7 @@ lên, và bảo sám hối tội ấy.”
   hội chúng hãy thu hồi hành sự hòa giải đối với tỳ khưu Sudhamma.
 ]
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
 
@@ -5037,7 +4969,7 @@ MƯỜI TÁM TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
 
 Dứt mười tám trường hợp không nên thu hồi thuộc hành sự hòa giải.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -5065,7 +4997,7 @@ PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
 Paṭisāraṇīyakamme paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 \[PAṬIPPASSAMBHANAṂ\]
 
@@ -5116,7 +5048,7 @@ MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
 Dứt mười tám trường hợp nên được thu hồi thuộc hành sự hòa giải.
 
--
+#divider()
 
 \[VIỆC THU HỒI\]
 
@@ -5416,7 +5348,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Adhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 DHAMMAKAMMADVĀDASAKAṂ
 
@@ -5459,7 +5391,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai hành sự sai pháp.
 
--
+#divider()
 
 MƯỜI HAI HÀNH SỰ ĐÚNG PHÁP:
 
@@ -5516,7 +5448,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Dhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -5563,7 +5495,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai hành sự đúng pháp.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -5662,7 +5594,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Āpattiyā adassane ukkhepanīyakamme ākaṅkhamānachakkaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 ĀPATTIYĀ ADASSANE UKKHEPANĪYAKAMME TECATTĀRĪSAVATTAṂ
 
@@ -5690,7 +5622,7 @@ bhikkhūhi sampayojetabban ”ti.
 
 Āpattiyā adassane ukkhepanīyakamme tecattārīsavattaṃ3 niṭṭhitaṃ.
 
--
+#divider()
 
 na bhikkhu bhikkhūhi bhedetabbā - Syā. 3 tecattālīsavattaṃ - Ma;
 
@@ -5711,7 +5643,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 Dứt sáu trường hợp trong khi mong muốn thuộc hành sự án treo về việc
 không nhìn nhận tội.
 
--
+#divider()
 
 BỐN MƯƠI BA PHẬN SỰ THUỘC HÀNH SỰ ÁN TREO VỀ VIỆC KHÔNG NHÌN NHẬN TỘI:
 
@@ -5746,7 +5678,7 @@ nhắc nhở, không nên cấu kết với các tỳ khưu.”
 Dứt bốn mươi ba phận sự thuộc hành sự án treo về việc không nhìn nhận
 tội.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -5949,7 +5881,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 Dứt bốn mươi ba trường hợp không nên thu hồi thuộc hành sự án treo về
 việc không nhìn nhận tội.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -6277,7 +6209,7 @@ Evametaṃ dhārayāmī ”ti.
 Āvāsaparamparañca bhikkhave, saṃsatha: “Channo bhikkhu 1 āpattiyā
 appaṭikamme ukkhepanīyakammakato asambhogaṃ saṅghenā ”ti.
 
--
+#divider()
 
 ADHAMMAKAMMADVĀDASAKAṂ
 
@@ -6329,7 +6261,7 @@ Và này các tỳ khưu, hãy thông báo từ trú xứ này sang trú xứ kh
 “Tỳ khưu Channa đã được (hội chúng) thực hiện hành sự án treo về việc
 không sửa chữa lỗi (tức là) việc không cùng thọ hưởng với hội chúng.”
 
--
+#divider()
 
 MƯỜI HAI HÀNH SỰ SAI PHÁP:
 
@@ -6612,7 +6544,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Āpattiyā appaṭikamme ukkhepanīyakamme ākaṅkhamānachakkaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -6662,7 +6594,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 Dứt sáu trường hợp trong khi mong muốn thuộc hành sự án treo về việc
 không sửa chữa lỗi.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -6692,7 +6624,7 @@ bhikkhūhi sampayojetabban ”ti.
 
 Āpattiyā appaṭikamme ukkhepanīyakamme tecattārīsavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 + Atha kho saṅgho channassa bhikkhuno āpattiyā appaṭikamme
   ukkhepanīyakammaṃ akāsi asambhogaṃ saṅghena.
@@ -6735,7 +6667,7 @@ nhắc nhở, không nên cấu kết với các tỳ khưu.”
 Dứt bốn mươi ba phận sự thuộc hành sự án treo về việc không sửa chữa
 lỗi.
 
--
+#divider()
 
 + Sau đó, hội chúng đã thực hiện hành sự án treo về việc không sửa chữa
   lỗi đối với tỳ khưu Channa (tức là) việc không cùng thọ hưởng với hội
@@ -6770,7 +6702,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
   ukkhepanīyakammaṃ paṭippassambhetu.
 ]
 
--
+#divider()
 
 NA PAṬIPPASSAMBHETABBA-TECATTĀRĪSAKAṂ
 
@@ -6812,7 +6744,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
   sự án treo về việc không sửa chữa lỗi đối với tỳ khưu Channa.
 ]
 
--
+#divider()
 
 BỐN MƯƠI BA TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
 
@@ -6912,7 +6844,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 Āpattiyā appaṭikamme ukkhepanīyakamme na paṭippassambhetabba
 tecattārīsakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 PAṬIPPASSAMBHETABBA-TECATTĀRĪSAKAṂ
 
@@ -6958,7 +6890,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 Dứt bốn mươi ba trường hợp không nên thu hồi thuộc hành sự án treo về
 việc không sửa chữa lỗi.
 
--
+#divider()
 
 BỐN MƯƠI BA TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
@@ -7017,7 +6949,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 Āpattiyā appaṭikamme ukkhepanīyakamme paṭippassambhetabba-tecattārīsakaṃ
 niṭṭhitaṃ.
 
--
+#divider()
 
 \[PAṬIPPASSAMBHANAṂ\]
 
@@ -7067,7 +6999,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 Dứt bốn mươi ba trường hợp nên được thu hồi thuộc hành sự án treo về
 việc không sửa chữa lỗi.
 
--
+#divider()
 
 \[VIỆC THU HỒI\]
 
@@ -7237,12 +7169,12 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
   trước đây là người huấn luyện chim ưng điều này:
 ]
 
-- “Này đại đức Ariṭṭha, nghe nói đại đức đã sanh khởi tà kiến ác như
+-- “Này đại đức Ariṭṭha, nghe nói đại đức đã sanh khởi tà kiến ác như
   vầy: ‘Theo như ta hiểu về Pháp đã được đức Thế Tôn thuyết giảng thì
   những pháp chướng ngại được đức Thế Tôn đề cập không có khả năng đem
   lại sự chướng ngại cho người thực hành,' có đúng không vậy?”
 
-- “Này các đại đức, đúng như vậy. Theo như tôi hiểu về Pháp đã được đức
+-- “Này các đại đức, đúng như vậy. Theo như tôi hiểu về Pháp đã được đức
   Thế Tôn thuyết giảng thì những pháp chướng ngại được đức Thế Tôn đề
   cập không có khả năng đem lại sự chướng ngại cho người thực hành.”
 
@@ -7365,11 +7297,11 @@ khưu ấy đã đi đến gặp đức Thế Tôn, sau khi đến đã trình s
   năng đem lại sự chướng ngại cho người thực hành,' có đúng không vậy?”
 ]
 
-- “Bạch ngài, đúng như vậy. Theo như con hiểu về Pháp đã được đức Thế
+-- “Bạch ngài, đúng như vậy. Theo như con hiểu về Pháp đã được đức Thế
   Tôn thuyết giảng thì những pháp chướng ngại được đức Thế Tôn đề cập
   không có khả năng đem lại sự chướng ngại cho người thực hành.”
 
-- “Này kẻ rồ dại, vì sao ngươi lại hiểu Pháp được ta thuyết giảng là như
+-- “Này kẻ rồ dại, vì sao ngươi lại hiểu Pháp được ta thuyết giảng là như
   thế? Này kẻ rồ dại, không phải ta đã giảng giải bằng nhiều phương thức
   rằng các pháp chướng ngại có khả năng đem đến sự chướng ngại cho người
   thực hành hay sao?
@@ -7474,7 +7406,7 @@ Dục tình đã được ta giảng giải như là đầu rắn độc, nhiề
   trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, chính vì điều ấy hội chúng hãy thực hiện hành sự án
+-- “Này các tỳ khưu, chính vì điều ấy hội chúng hãy thực hiện hành sự án
   treo về việc không từ bỏ tà kiến ác đối với tỳ khưu Ariṭṭha (tức là)
   việc không cùng thọ hưởng với hội chúng.
 
@@ -7529,7 +7461,7 @@ saṅghassa, tasmā tuṇhī. Evametaṃ dhārayāmī ”ti.
   ukkhepanīyakammakato asambhogaṃ saṅghenā ”ti.
 ]
 
--
+#divider()
 
 saṅghena - PTS potthake na dissate.
 
@@ -7587,7 +7519,7 @@ hưởng với hội chúng đã được hội chúng thực hiện. Sự việ
   là) việc không cùng thọ hưởng với hội chúng.”
 ]
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -7695,7 +7627,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
 Adhammakammadvādasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 DHAMMAKAMMADVĀDASAKAṂ
 
@@ -7743,7 +7675,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
 Dứt mười hai trường hợp về hành sự sai pháp.
 
--
+#divider()
 
 MƯỜI HAI HÀNH SỰ ĐÚNG PHÁP:
 
@@ -7916,7 +7848,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme ākaṅkhamānachakkaṃ
 niṭṭhitaṃ.
 
--
+#divider()
 
 TECATTĀRĪSAVATTAṂ
 
@@ -7934,7 +7866,7 @@ kāretabbo, na codetabbo, na sāretabbo, na bhikkhūhi sampayojetabban ”ti.
 Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme tecattārīsavattaṃ
 niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -8008,7 +7940,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
   saṅgho pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakammaṃ
   paṭippassambhetu.
 
--
+#divider()
 
 NAPAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -8060,7 +7992,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
   Này các tỳ khưu, chính vì điều ấy hội chúng hãy thu hồi hành sự án
   treo về việc không từ bỏ tà kiến ác.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP KHÔNG NÊN THU HỒI:
 
@@ -8098,7 +8030,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme na
 paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 
@@ -8129,7 +8061,7 @@ PAṬIPPASSAMBHETABBA-AṬṬHĀRASAKAṂ
 Pāpikāya diṭṭhiyā appaṭinissagge ukkhepanīyakamme
 paṭippassambhetabba-aṭṭhārasakaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 
@@ -8147,7 +8079,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Hành Sự
 Dứt mười tám trường hợp không nên thu hồi thuộc hành sự án treo về việc
 không từ bỏ tà kiến ác.
 
--
+#divider()
 
 MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 
@@ -8178,7 +8110,7 @@ MƯỜI TÁM TRƯỜNG HỢP NÊN ĐƯỢC THU HỒI:
 Dứt mười tám trường hợp nên được thu hồi thuộc hành sự án treo về việc
 không từ bỏ tà kiến ác.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Kammakkhandhakaṃ
 
@@ -8576,7 +8508,6 @@ Dứt Chương Hành Sự.
 #divider()
 
 === II. PĀRIVĀSIKAKKHANDHAKAṂ
-<ii.-pārivāsikakkhandhakaṃ>
 + PĀRIVĀSIKAVATTAṂ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane anātha-
@@ -8615,7 +8546,6 @@ Dứt Chương Hành Sự.
 yathāvuḍḍhaṃ - Ma, Syā, PTS, evaṃ sabbattha.
 
 === II. CHƯƠNG PARIVĀSA:
-<ii.-chương-parivāsa>
 + PHẬN SỰ CỦA VỊ HÀNH PARIVĀSA:
 
 + Lúc bấy giờ, đức Phật Thế tôn ngự tại Sāvatthi, Jetavana, tu viện của
@@ -8974,7 +8904,7 @@ chamāya caṅkamante caṅkame caṅkamitabbaṃ.
 
 Catunavuti pārivāsikavattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 23)
@@ -9032,7 +8962,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Parivāsa
   vị hành parivāsa.
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 23)
@@ -10388,7 +10318,7 @@ Abbhānārahavattaṃ niṭṭhitaṃ.
 
 Pārivāsikakkhandhako niṭṭhito dutiyo.
 
--
+#divider()
 
 taṃvīso - Ma; vīso - PTS. 2 akammaṃ taṃ - Syā.
 
@@ -10451,7 +10381,7 @@ Dứt phận sự của vị xứng đáng sự giải tội.
 
 Dứt Chương Parivāsa là thứ nhì.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Pārivāsikakkhandhakaṃ
 
@@ -10580,7 +10510,6 @@ TÓM LƯỢC CHƯƠNG NÀY:
 #divider()
 
 === III. SAMUCCAYAKKHANDHAKAṂ
-<iii.-samuccayakkhandhakaṃ>
 + SUKKAVISAṬṬHI
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -10630,7 +10559,6 @@ APAṬICCHANNAMĀNATTAṂ
 sukkavissaṭṭhiṃ - Ma. 4 sohaṃ bhante - Ma, Syā.
 
 === III. CHƯƠNG TÍCH LŨY TỘI:
-<iii.-chương-tích-lũy-tội>
 + TỘI XUẤT TINH:
 
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại Sāvatthi, Jetavana, tu viện của
@@ -10703,7 +10631,7 @@ tasmā tuṇhī. Evametaṃ dhārayāmī '”ti.
 
 Apaṭicchannamānattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 APAṬICCHANNA-ABBHĀNAṂ
 
@@ -10752,7 +10680,7 @@ giấu đã được hội chúng ban cho tỳ khưu Udāyi. Sự việc đượ
 
 Dứt hình phạt mānatta của tội không có che giấu.
 
--
+#divider()
 
 VIỆC GIẢI TỘI CỦA TỘI KHÔNG CÓ CHE GIẤU:
 
@@ -10890,7 +10818,7 @@ Evametaṃ dhārayāmī '”ti.
 
 Apaṭicchanna-abbhānaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 EKĀHAPAṬICCHANNAPARIVĀSO
 
@@ -10944,7 +10872,7 @@ nên mới im lặng, tôi ghi nhận sự việc này là như vậy.'”
 
 Dứt việc giải tội của tội không có che giấu.
 
--
+#divider()
 
 HÌNH PHẠT PARIVĀSA CỦA TỘI CHE GIẤU MỘT NGÀY:
 
@@ -11001,7 +10929,7 @@ dhārayāmī '”ti.
 
 Ekāhapaṭicchannaparivāso niṭṭhito.
 
--
+#divider()
 
 EKĀHAPAṬIPACCHANNAMĀNATTAṂ
 
@@ -11052,7 +10980,7 @@ hội chúng đồng ý nên mới im lặng, tôi ghi nhận sự việc này l
 
 Dứt hình phạt parivāsa của tội che giấu một ngày.
 
--
+#divider()
 
 HÌNH PHẠT MĀNATTA CỦA TỘI CHE GIẤU MỘT NGÀY:
 
@@ -11122,7 +11050,7 @@ saṅghassa, tasmā tuṇhī. Evametaṃ dhārayāmī '”ti.
 
 Ekāhapaṭicchannamānattaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 EKĀHAPAṬICCHANNA-ABBHĀNAṂ
 
@@ -11174,7 +11102,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Tích Lũy Tội
   ngày.
 ]
 
--
+#divider()
 
 VIỆC GIẢI TỘI CỦA TỘI CHE GIẤU MỘT NGÀY:
 
@@ -11334,7 +11262,7 @@ Khamati saṅghassa, tasmā tuṇhī. Evametaṃ dhārayāmī '”ti.
 
 Pañcāhapaṭicchannaparivāso niṭṭhito.
 
--
+#divider()
 
 āyasmā udāyi bhikkhu - Syā.
 
@@ -11386,7 +11314,7 @@ HÌNH PHẠT PARIVĀSA CỦA TỘI CHE GIẤU NĂM NGÀY:
 
 Dứt hình phạt parivāsa của tội che giấu năm ngày.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samuccayakkhandhakaṃ
 
@@ -11510,7 +11438,7 @@ tasmā tuṇhī. Evametaṃ dhārayāmī '”ti.
 
 Pārivāsikamūlāya paṭikassanā niṭṭhitā.
 
--
+#divider()
 
 MĀNATTĀRAHAMŪLĀYA PAṬIKASSANĀ
 
@@ -11561,7 +11489,7 @@ vậy.'”
 
 Dứt việc đưa về lại (hình phạt) ban đầu của vị hành parivāsa.
 
--
+#divider()
 
 VIỆC ĐƯA VỀ LẠI (HÌNH PHẠT) BAN ĐẦU CỦA VỊ XỨNG ĐÁNG HÌNH PHẠT MĀNATTA:
 
@@ -11704,7 +11632,7 @@ sukkavisaṭṭhiyā apaṭicchannāya mūlāya paṭikassanā. Khamati saṅgha
 tasmā tuṇhī. Evametaṃ dhārayāmī '”ti. Mānattārahamūlāya paṭikassanā
 niṭṭhitā.
 
--
+#divider()
 
 TIKĀPATTIMĀNATTAṂ
 
@@ -11757,7 +11685,7 @@ có sự cố ý, không có che giấu. Sự việc được hội chúng đồ
 lặng, tôi ghi nhận sự việc này là như vậy.'” Dứt việc đưa về lại (hình
 phạt) ban đầu của vị xứng đáng hình phạt mānatta.
 
--
+#divider()
 
 HÌNH PHẠT MĀNATTA CỦA NHÓM BA TỘI:
 
@@ -12139,7 +12067,7 @@ abbhānaṃ yācāmi - Syā.
 
 Tạng Luật - Tiểu Phẩm 1 Chương Tích Lũy Tội
 
-- “Này các tỳ khưu, chính vì điều ấy hội chúng hãy giải tội cho tỳ khưu
+-- “Này các tỳ khưu, chính vì điều ấy hội chúng hãy giải tội cho tỳ khưu
   Udāyi. Và này các tỳ khưu, nên giải tội như vầy: Này các tỳ khưu, tỳ
   khưu Udāyi ấy nên đi đến hội chúng, ―(như trên)― và nên nói như vầy:
 
@@ -12304,7 +12232,7 @@ bhāseyya. Dutiyampi etamatthaṃ vadāmi. ―pe― Tatiyampi etamatthaṃ vadā
 ―pe― Abbhito saṅghena udāyī bhikkhu. Khamati saṅghassa, tasmā tuṇhī.
 Evametaṃ dhārayāmī '”ti. Mūlāya paṭikassita-abbhānaṃ.
 
--
+#divider()
 
 PAKKHAPAṬICCHANNAPARIVĀSO
 
@@ -12350,7 +12278,7 @@ hội chúng giải tội. Sự việc được hội chúng đồng ý nên m�
 ghi nhận sự việc này là như vậy.'” Việc giải tội của vị được đưa về lại
 (hình phạt) ban đầu.
 
--
+#divider()
 
 HÌNH PHẠT PARIVĀSA CỦA TỘI CHE GIẤU NỬA THÁNG:
 
@@ -12398,7 +12326,7 @@ tasmā tuṇhī. Evametaṃ dhārayāmī '”ti.
 
 Pakkhapaṭicchannaparivāso.
 
--
+#divider()
 
 PAKKHAPĀRIVĀSIKAMŪLĀYA PAṬIKASSANAṂ
 
@@ -12448,7 +12376,7 @@ hội chúng đồng ý nên mới im lặng, tôi ghi nhận sự việc này l
 
 Hình phạt parivāsa của tội che giấu nửa tháng.
 
--
+#divider()
 
 VIỆC ĐƯA VỀ LẠI (HÌNH PHẠT) BAN ĐẦU CỦA VỊ HÀNH PARIVĀSA NỬA THÁNG:
 
@@ -13400,7 +13328,7 @@ tasmā tuṇhī. Evametaṃ dhārayāmī '”ti.
 
 Agghasamodhānaparivāso niṭṭhito.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Tích Lũy Tội
 
@@ -13459,7 +13387,7 @@ là như vậy.'”
 
 Hình phạt parivāsa kết hợp với giá trị của tội.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samuccayakkhandhakaṃ
 
@@ -13802,7 +13730,7 @@ dhārayāmī ”ti.
 
 Tena bhikkhave, bhikkhunā tadupādāya dvemāsā parivasitabbā.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Tích Lũy Tội
 
@@ -13850,7 +13778,7 @@ chúng đồng ý nên mới im lặng, tôi ghi nhận sự việc này là nh�
 
 Này các tỳ khưu, vì lý do ấy vị tỳ khưu ấy nên hành parivāsa hai tháng.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samuccayakkhandhakaṃ
 
@@ -14332,7 +14260,7 @@ Dutiyampi yācitabbo. Tatiyampi yācitabbo.
 
 Tạng Luật - Tiểu Phẩm 1 Chương Tích Lũy Tội
 
-- “Này các đại đức, tôi đã phạm hai tội saṅghādisesa đã được che giấu
+-- “Này các đại đức, tôi đã phạm hai tội saṅghādisesa đã được che giấu
   hai tháng. Tôi đây đã khởi ý rằng: ‘Ta đã phạm hai tội saṅghādisesa đã
   được che giấu hai tháng, hay là ta nên thỉnh cầu hội chúng hình phạt
   parivāsa một tháng của hai tội đã được che giấu hai tháng?' Tôi đây đã
@@ -14751,7 +14679,7 @@ hai tháng.
   như vầy:
 ]
 
-- “Này các đại đức, vị tỳ khưu này đã phạm tội gì? Vì sao vị tỳ khưu này
+-- “Này các đại đức, vị tỳ khưu này đã phạm tội gì? Vì sao vị tỳ khưu này
   hành parivāsa?” Các vị ấy nói như vầy: - “Này đại đức, vị tỳ khưu này
   đã phạm hai tội saṅghādisesa đã được che giấu hai tháng: một tháng đã
   được che giấu có nhận biết, một tháng đã được che giấu không nhận
@@ -14821,7 +14749,7 @@ adhammikaṃ tassa māsassa parivāsadānaṃ, adhammattā na rūhati. Ekassa
 
 \[Dvemāsaparivāsitabbavidhi niṭṭhitā.\]
 
--
+#divider()
 
 SUDDHANTAPARIVĀSO
 
@@ -14835,7 +14763,7 @@ so - PTS potthake na dissate.
 
 Tạng Luật - Tiểu Phẩm 1 Chương Tích Lũy Tội
 
-- “Này các đại đức, vị tỳ khưu này đã phạm tội gì? Vì sao vị tỳ khưu này
+-- “Này các đại đức, vị tỳ khưu này đã phạm tội gì? Vì sao vị tỳ khưu này
   hành parivāsa?” Các vị ấy nói như vầy: - “Này đại đức, vị tỳ khưu này
   đã phạm hai tội saṅghādisesa đã được che giấu hai tháng: một tháng đã
   được che giấu có ghi nhớ, một tháng đã được che giấu không ghi nhớ. Vị
@@ -14939,7 +14867,7 @@ evaṃ kho - Ma, PTS.
 
 Tạng Luật - Tiểu Phẩm 1 Chương Tích Lũy Tội
 
-- “Này các đại đức, tôi đã phạm nhiều tội saṅghādisesa. Tôi không biết
+-- “Này các đại đức, tôi đã phạm nhiều tội saṅghādisesa. Tôi không biết
   số lượng của các tội, không biết số lượng của các đêm (đã dấu), không
   nhớ số lượng của các tội, không nhớ số lượng của các đêm (đã dấu), có
   nghi ngờ về số lượng của các tội, có nghi ngờ về số lượng của các đêm
@@ -17518,7 +17446,6 @@ TÓM LƯỢC CHƯƠNG NÀY:
 #divider()
 
 === IV. SAMATHAKKHANDHAKAṂ
-<iv.-samathakkhandhakaṃ>
 + SAMMUKHĀVINAYO Tena samayena buddho bhagavā sāvatthiyaṃ viharati
   jetavane anātha- piṇḍikassa ārāme. Tena kho pana samayena chabbaggiyā
   bhikkhū asammukhībhūtānaṃ bhikkhūnaṃ kammāni karonti: tajjanīyampi
@@ -17564,7 +17491,6 @@ kaṇhapakkhanavakanti potthakesu dissate. 4 dhammavādipuggalaṃ - Sīmu, Sī
 1, 2.
 
 === IV. CHƯƠNG DÀN XẾP:
-<iv.-chương-dàn-xếp>
 + HÀNH XỬ LUẬT VỚI SỰ HIỆN DIỆN: Lúc bấy giờ, đức Phật Thế Tôn ngự tại
   Sāvatthi, Jetavana, tu viện của ông Anāthapiṇḍika. Vào lúc bấy giờ,
   các tỳ khưu nhóm Lục Sư thực hiện các hành sự khiển trách, chỉ dạy,
@@ -17651,7 +17577,7 @@ Vinayapiṭake Cullavaggapāḷi 1 Samathakkhandhakaṃ
   Adhammavādīnavakaṃ niṭṭhitaṃ.
 ]
 
--
+#divider()
 
 DHAMMAVĀDĪNAVAKAṂ
 
@@ -17721,7 +17647,7 @@ Tạng Luật - Tiểu Phẩm 1 Chương Dàn Xếp
 
 Dứt chín trường hợp nói sai pháp.
 
--
+#divider()
 
 CHÍN TRƯỜNG HỢP NÓI ĐÚNG PHÁP:
 
@@ -18943,7 +18869,7 @@ kāreyya - katthaci. 2 āma āvuso - Ma.
 
 Tạng Luật - Tiểu Phẩm 1 Chương Dàn Xếp
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
   nói Pháp thoại rồi bảo các tỳ khưu rằng: - “Này các tỳ khưu, hành sự
   khiển trách, hoặc chỉ dạy, hoặc xua đuổi, hoặc hòa giải, hoặc án treo
   không nên thực hiện đối với các tỳ khưu không có sự thừa nhận; vị nào
@@ -19265,7 +19191,7 @@ ADHAMMAKAMMADVĀDASAKAṂ
   tajjanīyakammaṃ evaṃ vitthāretabbaṃ.\]
 ]
 
--
+#divider()
 
 DHAMMAKAMMADVĀDASAKAṂ
 
@@ -19280,7 +19206,7 @@ DHAMMAKAMMADVĀDASAKAṂ
   tajjanīyakamme sukkapakkhaṃ evaṃ vitthāretabbaṃ.\]
 ]
 
--
+#divider()
 
 ĀKAṄKHAMĀNACHAKKAṂ
 
@@ -19314,7 +19240,7 @@ MƯỜI HAI HÀNH SỰ SAI PHÁP:
   \[Nên được giải thích chi tiết như hành sự khiển trách\].
 ]
 
--
+#divider()
 
 MƯỜI HAI HÀNH SỰ ĐÚNG PHÁP:
 
@@ -19331,7 +19257,7 @@ MƯỜI HAI HÀNH SỰ ĐÚNG PHÁP:
   trách\].
 ]
 
--
+#divider()
 
 SÁU TRƯỜNG HỢP ‘TRONG KHI MONG MUỐN':
 
@@ -19379,7 +19305,7 @@ kareyya. (6)
 
 Ākaṅkhamānachakkaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Dàn Xếp
 
@@ -19415,7 +19341,7 @@ của vị ấy đối với ba hạng tỳ khưu này. (6)
 
 Dứt sáu trường hợp ‘trong khi mong muốn'.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samathakkhandhakaṃ
 
@@ -19929,7 +19855,7 @@ anavassavo hoti. Imāni cha vivādamūlāni vivādādhikaraṇassa mūlaṃ.
 + Katamāni tīṇi akusalamūlāni vivādādhikaraṇassa mūlaṃ?
 ]
 
-- Idha bhikkhave, bhikkhū 2 luddhacittā vivadanti, duṭṭhacittā
+-- Idha bhikkhave, bhikkhū 2 luddhacittā vivadanti, duṭṭhacittā
   vivadanti, mūḷhacittā vivadanti: ‘dhammo 'ti vā ‘adhammo 'ti vā
   ‘vinayo 'ti vā ‘avinayo 'ti vā ‘bhāsitaṃ lapitaṃ tathāgatenā 'ti vā
   ‘abhāsitaṃ alapitaṃ tathāgatenā 'ti vā ‘āciṇṇaṃ tathāgatenā 'ti vā
@@ -19977,7 +19903,7 @@ tụng liên quan đến tranh cãi.
   quan đến tranh cãi?
 ]
 
-- Này các tỳ khưu, trường hợp các vị tỳ khưu tranh cãi do tâm tham lam,
+-- Này các tỳ khưu, trường hợp các vị tỳ khưu tranh cãi do tâm tham lam,
   tranh cãi do tâm xấu xa, tranh cãi do tâm mê muội rằng: ‘Đây là Pháp,'
   hoặc ‘Đây không phải là Pháp,' hoặc ‘Đây là Luật,' hoặc ‘Đây không
   phải là Luật,' hoặc ‘Điều ấy đã được đấng Thiện Thệ thuyết giảng và
@@ -20935,7 +20861,7 @@ Saṅghasammukhatā dhammasammukhatā vinayasammukhatā puggalasammukhatā.
 ―pe― Evaṃ vūpasantaṃ ce bhikkhave adhikaraṇaṃ kārako ukkoṭeti,
 ukkoṭanakaṃ pācittiyaṃ. Chandadāyako khīyati, khīyanakaṃ pācittiyaṃ.
 
--
+#divider()
 
 UBBĀHIKĀYA VŪPASAMANAṂ
 
@@ -20990,7 +20916,7 @@ khơi lại sự tranh tụng đã được giải quyết như thế, vị khơ
 pācittiya; (nếu) vị gởi thỏa thuận phê phán, vị phê phán phạm tội
 pācittiya.
 
--
+#divider()
 
 CÁCH GIẢI QUYẾT THEO LỐI ĐẠI BIỂU:
 
@@ -21130,7 +21056,7 @@ Dhammasammukhatā vinayasammukhatā puggalasammukhatā. ―pe― Evaṃ
 vūpasantaṃ ce bhikkhave adhikaraṇaṃ kārako ukkoṭeti, ukkoṭanakaṃ
 pācittiyaṃ.
 
--
+#divider()
 
 hoti - PTS na dissate.
 
@@ -21174,7 +21100,7 @@ diện của Luật, sự hiện diện của nhân sự. ―(như trên)― Nà
 nếu có vị khơi lại sự tranh tụng đã được giải quyết như thế, vị khơi lại
 phạm tội pācittiya.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samathakkhandhakaṃ
 
@@ -21280,7 +21206,7 @@ yebhuyyasikā.
 Evaṃ vūpasantaṃ ce bhikkhave adhikaraṇaṃ kārako ukkoṭeti, ukkoṭanakaṃ
 pācittiyaṃ. Chandadāyako khīyati, khīyanakaṃ pācittiyan ”ti.
 
--
+#divider()
 
 TIVIDHASALĀKAGĀHO
 
@@ -21324,7 +21250,7 @@ Này các tỳ khưu, nếu có vị khơi lại sự tranh tụng đã được
 thế, vị khơi lại phạm tội pācittiya; (nếu) vị gởi thỏa thuận phê phán,
 vị phê phán phạm tội pācittiya.”
 
--
+#divider()
 
 BA CÁCH PHÂN PHÁT THẺ:
 
@@ -21432,7 +21358,7 @@ thế ấy là đã được giải quyết tốt đẹp,' rồi đã giải quy
   sự việc ấy lên đức Thế Tôn. Đức Thế Tôn đã nói điều này:
 ]
 
-- “Này các tỳ khưu, sự tranh tụng này đã được dứt điểm, đã được yên
+-- “Này các tỳ khưu, sự tranh tụng này đã được dứt điểm, đã được yên
   lặng, và đã được giải quyết, đã được giải quyết tốt đẹp. Này các tỳ
   khưu, vì sự nhận thức rõ ràng của các tỳ khưu ấy, ta cho phép ba cách
   phân phát thẻ: lối kín đáo, sự nói nhỏ vào tai, lối công khai.”
@@ -21460,7 +21386,7 @@ vivaṭako salākagāho hoti.
 
 Ime kho bhikkhave, tayo salākagāhā ”ti.
 
--
+#divider()
 
 SATIVINAYO
 
@@ -21514,7 +21440,7 @@ khai. Này các tỳ khưu, như vậy là cách phân phát thẻ theo lối c�
 
 Này các tỳ khưu, đây là ba cách phân phát thẻ.”
 
--
+#divider()
 
 HÀNH XỬ LUẬT BẰNG SỰ GHI NHỚ:
 
@@ -21575,7 +21501,7 @@ sativinayasmiṃ. Evaṃ vūpasantaṃ ce bhikkhave adhikaraṇaṃ kārako
 ukkoṭeti, ukkoṭanakaṃ pācittiyaṃ. Chandadāyako khīyati, khīyanakaṃ
 pācittiyaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Dàn Xếp
 
@@ -21628,7 +21554,7 @@ hành xử Luật bằng sự ghi nhớ. Này các tỳ khưu, nếu có vị kh
 tranh tụng đã được giải quyết như thế, vị khơi lại phạm tội pācittiya;
 (nếu) vị gởi thỏa thuận phê phán, vị phê phán phạm tội pācittiya.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samathakkhandhakaṃ
 
@@ -21748,7 +21674,7 @@ apaṭikkosanā, idaṃ tattha amūḷhavinayasmiṃ. Evaṃ vūpasantaṃ ce bh
 adhikaraṇaṃ kārako ukkoṭeti, ukkoṭanakaṃ pācittiyaṃ. Chandadāyako
 khīyati, khīyanakaṃ pācittiyaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Dàn Xếp
 
@@ -21796,7 +21722,7 @@ cuồng. Này các tỳ khưu, nếu có vị khơi lại sự tranh tụng đã
 quyết như thế, vị khơi lại phạm tội pācittiya; (nếu) vị gởi thỏa thuận
 phê phán, vị phê phán phạm tội pācittiya.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samathakkhandhakaṃ
 
@@ -21927,7 +21853,7 @@ adhivāsanā apaṭikkosanā, ayaṃ tattha tassapāpiyyasikāya. Evaṃ vūpasa
 ce bhikkhave adhikaraṇaṃ kārako ukkoṭeti, ukkoṭanakaṃ pācittiyaṃ.
 Chandadāyako khīyati, khīyanakaṃ pācittiyaṃ.
 
--
+#divider()
 
 so evaṃ vadesi - Ma. 2 tassa kho - Ma, PTS; tassa khvetaṃ - Syā.
 
@@ -21980,7 +21906,7 @@ khơi lại sự tranh tụng đã được giải quyết như thế, vị khơ
 pācittiya; (nếu) vị gởi thỏa thuận phê phán, vị phê phán phạm tội
 pācittiya.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samathakkhandhakaṃ
 
@@ -22118,7 +22044,7 @@ puggalasammukhatā. ―pe― Evaṃ vūpasantañ ce bhikkhave adhikaraṇaṃ
 paṭiggāhako ukkoṭeti, ukkoṭanakaṃ pācittiyaṃ. Chandadāyako khīyati,
 khīyanakaṃ pācittiyaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 1 Chương Dàn Xếp
 
@@ -22166,7 +22092,7 @@ sự hiện diện của Pháp, sự hiện diện của Luật, sự hiện di�
 giải quyết như thế, vị khơi lại phạm tội pācittiya; (nếu) vị gởi thỏa
 thuận phê phán, vị phê phán phạm tội pācittiya.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 1 Samathakkhandhakaṃ
 
@@ -22449,7 +22375,7 @@ CULLAVAGGAPĀḶI - TIỂU PHẨM PAṬHAMO BHĀGO - TẬP MỘT
 
 PHẦN PHỤ CHÚ:
 
--
+#divider()
 
 CÁC TỪ CHUYÊN MÔN:
 
@@ -22531,7 +22457,7 @@ VINAYAPIṬAKE
 
 CULLAVAGGAPĀḶI - TIỂU PHẨM PAṬHAMO BHĀGO - TẬP MỘT
 
--
+#divider()
 
 SAÑÑĀNĀMĀNUKKAMANIKĀ - THƯ MỤC DANH TỪ RIÊNG:
 
@@ -22543,8 +22469,7 @@ Trang Trang A G Anāthapiṇḍika 02, Gagga 350, 44, 68, 128, 352, 354 158,
 
 Ā C Ānanda 64 Citta (gahapati) 64, 66, 68,
 
-=== I 70, 72, 80, 82 Isigili 340 Corapapāta 340
-<i-70-72-80-82-isigili-340-corapapāta-340>
+I 70, 72, 80, 82 Isigili 340 Corapapāta 340
 U CH Udāyī 196, Channa 86, 198, 200, …, 248, 250 88, 98, Upāli 64, 166,
 188 102, 106, Uvāḷa 362, 364, 370 108, 110, 118, 100, 120, 126, 128, 376
 K Chabbaggiyā 332, 356 Kalyāṇabhattika (gahapati) 342, 344 Kīṭāgiri 40,
@@ -22556,8 +22481,7 @@ Tiểu Phẩm 1 - Thư Mục Danh Từ Riêng
 T R Tapodakandarā 340 Rājagaha 338, 342 Tapodārāma 340 Rāhula 64
 Tindukakandarā 340 Revata 64
 
-=== D V Dabbamallaputta 338, Veḷuvana 338, 342
-<d-v-dabbamallaputta-338-veḷuvana-338-342>
+D V Dabbamallaputta 338, Veḷuvana 338, 342
 340, 342, 344, 346, 348 S P Sattapaṇṇiguhā 340 Paṇḍukalohitakā 02,
 Sappasoṇḍikapabbhāra 340 04, 06, 18, 20, 22 Sāriputta 46, 64, 66
 Sāriputtamoggallāna 46, 58 M Sāvatthi 02, Macchikāsaṇḍa 64, 66, 68, 80,
@@ -22573,7 +22497,7 @@ VINAYAPIṬAKE
 
 CULLAVAGGAPĀḶI - TIỂU PHẨM PAṬHAMO BHĀGO - TẬP MỘT
 
--
+#divider()
 
 VISESAPADĀNUKKAMAṆIKĀ - THƯ MỤC TỪ ĐẶC BIỆT:
 
@@ -22644,8 +22568,7 @@ Tiểu Phẩm 1 - Thư Mục Từ Đặc Biệt
 
 GH T Ghaṭikāyapi 40, 42 Tassapāpiyyasikā 364, 366, 368,
 
-=== C 370, 414, 422, 424 Catukkabhattaṃ 342 Tiṇavatthārakaṃ/ena 370,
-<c-370-414-422-424-catukkabhattaṃ-342-tiṇavatthārakaṃena-370>
+C 370, 414, 422, 424 Catukkabhattaṃ 342 Tiṇavatthārakaṃ/ena 370,
 Cāvanādhippāyehi 346 372, 374, 426, 430, 432, 434 Ciṅgulakenapi 40, 44
 Tiṇukkūpamā kāmā 130, 134 Ciṇṇamānatto 198, Titthiyadhajo 98, 118 200,
 202, 206, Tiracchānakathikā 340 208, 224, 226, 228, Tilasaṅguḷikā 68
@@ -22718,8 +22641,7 @@ Manesikāyapi 40, 44 Rukkhaphalūpamā 132, 134
 
 Tiểu Phẩm 1 - Thư Mục Từ Đặc Biệt
 
-=== L V Lajjidhammo 256, Vihārapariyanto 160,
-<l-v-lajjidhammo-256-vihārapariyanto-160>
+L V Lajjidhammo 256, Vihārapariyanto 160,
 258, 260, 170, 176, 182, 190 262, 268, 270, 272, 274 Vedanaṭṭo 286,
 Lāsentipi 40, 42 288, 290, 300, 310, 312 Luddhacittā 380, 384
 Vematikapaṭicchannā 268, 280 Vematiko 264, 276, V 280, 282, 284,

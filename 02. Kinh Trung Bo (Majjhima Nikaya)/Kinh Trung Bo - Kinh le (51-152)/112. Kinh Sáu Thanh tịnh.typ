@@ -1,5 +1,4 @@
 = 112. Kinh Sáu Thanh tịnh
-<kinh-sáu-thanh-tịnh>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Chabbisodhana sutta)]
 
 #divider()

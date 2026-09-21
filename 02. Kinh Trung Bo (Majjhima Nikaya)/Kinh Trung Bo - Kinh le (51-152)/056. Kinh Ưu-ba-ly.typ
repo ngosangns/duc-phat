@@ -1,5 +1,4 @@
 = 56. Kinh Ưu-ba-ly
-<kinh-ưu-ba-ly>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Upàli sutta)]
 
 #divider()

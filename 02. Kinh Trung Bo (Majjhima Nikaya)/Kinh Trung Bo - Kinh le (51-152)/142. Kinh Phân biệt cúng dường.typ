@@ -1,5 +1,4 @@
 = 142. Kinh Phân biệt cúng dường
-<kinh-phân-biệt-cúng-dường>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Dakkhinàvibhanga
 sutta)]
 

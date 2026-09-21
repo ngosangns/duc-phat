@@ -1,5 +1,4 @@
 = 137. Kinh Phân biệt sáu xứ
-<kinh-phân-biệt-sáu-xứ>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Salàyatanavibhanga
 sutta)]
 

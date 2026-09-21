@@ -1,5 +1,4 @@
 = 141. Kinh Phân biệt về Sự thật
-<kinh-phân-biệt-về-sự-thật>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Saccavibhanga sutta)]
 
 #divider()

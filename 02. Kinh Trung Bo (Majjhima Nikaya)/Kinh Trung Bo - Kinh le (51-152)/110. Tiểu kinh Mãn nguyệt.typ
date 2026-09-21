@@ -1,5 +1,4 @@
 = 110. Tiểu kinh Mãn nguyệt
-<tiểu-kinh-mãn-nguyệt>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Cùlapunnama sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = 101. Kinh Devadaha
-<kinh-devadaha>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Devadaha sutta)]
 
 #divider()

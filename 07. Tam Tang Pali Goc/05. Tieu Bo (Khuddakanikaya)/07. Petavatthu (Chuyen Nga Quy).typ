@@ -1,11 +1,9 @@
 = Mūla Sutta Piṭaka Khuddakanikāyo Petavatthupāḷi
-<mūla-sutta-piṭaka-khuddakanikāyo-petavatthupāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Khuddakanikāye Petavatthupāḷi
 
 == 1. Uragavaggo
-<uragavaggo>
 + Khettūpamapetavatthu
 
 + ‘‘Khettūpamā arahanto, dāyakā kassakūpamā; Bījūpamaṃ deyyadhammaṃ,
@@ -399,7 +397,6 @@ Khettañca sūkaraṃ pūti, piṭṭhaṃ cāpi tirokuṭṭaṃ; Pañcāpi sat
 goṇaṃ pesakārakañca; Tathā khallāṭiyaṃ nāgaṃ, dvādasaṃ uragañcevāti.
 
 == 2. Ubbarivaggo
-<ubbarivaggo>
 + Saṃsāramocakapetivatthu
 
 + ‘‘Naggā dubbaṇṇarūpāsi, kisā dhamanisanthatā; Upphāsulike \[uppāsuḷike
@@ -1417,7 +1414,6 @@ Mocakaṃ \[paṇḍu (sabbattha)\] mātā mattā \[pitā (sī. ka.), patiyā
 \[vihāra (sabbattha)\] suttakaṇṇa \[sopāna (sabbattha)\] ubbarīti.
 
 == 3. Cūḷavaggo
-<cūḷavaggo>
 + Abhijjamānapetavatthu
 
 + ‘‘Abhijjamāne vārimhi, gaṅgāya idha gacchasi; Naggo pubbaddhapetova
@@ -1921,7 +1917,6 @@ Abhijjamāno kuṇḍiyo \[koṇḍañño (sabbattha)\], rathakārī bhusena ca;
 Kumāro gaṇikā ceva, dve luddā piṭṭhipūjanā; Vaggo tena pavuccatīti.
 
 == 4. Mahāvaggo
-<mahāvaggo>
 + Ambasakkarapetavatthu
 
 + Vesālī nāma nagaratthi vajjīnaṃ, tattha ahu licchavi ambasakkaro

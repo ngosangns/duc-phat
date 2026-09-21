@@ -1,5 +1,4 @@
 = 88. Kinh Bàhitika
-<kinh-bàhitika>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bàhitika sutta)]
 
 #divider()

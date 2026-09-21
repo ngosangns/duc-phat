@@ -1,5 +1,4 @@
 = Luật Tạng (Vinaya Piṭaka) --- Tập 01: Phân Tích Giới Tỳ Khưu I (Pārājika)
-<luật-tạng-vinaya-piṭaka-tập-01-phân-tích-giới-tỳ-khưu-i-pārājika>
 TAM TẠNG SONG NGỮ PĀLI - VIỆT
 
 VESAK 2550
@@ -8,25 +7,6 @@ Buddhist Cultural Centre 125 Anderson Road, Nedimala, Dehivala, Sri
 Lanka Sabbadānaṃ dhammadānaṃ jināti. Sự bố thí Pháp vượt trên tất cả các
 sự bố thí.
 
-Thí Chủ: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Dâng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Ước Nguyện: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-Hồi hướng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 TAM TẠNG SONG NGỮ PĀLI - VIỆT - TẬP 01
 
 VINAYAPITAKE
@@ -42,7 +22,6 @@ BỘ PĀRĀJIKA
 PHÂN TÍCH GIỚI TỲ KHƯU
 
 == TẬP MỘT
-<tập-một>
 PHẬT LỊCH 2553 DƯƠNG LỊCH 2009 In lần thứ nhất: PL 2553 - DL 2009 Số
 Lượng 600 cuốn
 
@@ -57,35 +36,7 @@ Website: www.buddhistcc.com
 Printed by: Ajith Printers 85/4 Old Kesbewa Road Gangodawila, Nugegoda
 Sri Lanka. Tel: 94-11-251 7269
 
-MỤC LỤC TỔNG QUÁT
-
-Mục Lục Tổng Quát iii
-
-Lời Tựa - Sinhala và Việt ngữ v - xiv
-
-Văn Bản của Bộ Tôn Giáo - Anh và Việt ngữ xv - xvi
-
-Thành Phần Nhân Sự xvii
-
-Lược Đồ Tam Tạng xviii - xix
-
-Lời Giới Thiệu xxiii - xxviii
-
-Các Chữ Viết Tắt xxix
-
-Mẫu Tự Pāḷi - Sinhala xxx - xxxi
-
-Mục Lục Phân Tích Giới Tỳ Khưu - Tập Một xxxiii - lvii
-
-Văn Bản Pāḷi và Văn Bản Tiếng Việt 02 - 641
-
-Phần Phụ Chú 643 - 654
-
-Thư Mục Danh Từ Riêng 655 - 658
-
-Thư Mục Từ Đặc Biệt 659 - 683
-
-Phương Danh Thí Chủ 685 - 689
+#outline(title: [Mục lục])
 
 #divider()
 
@@ -95,7 +46,7 @@ paṭicchanno.”
 “Này các tỳ khưu, Pháp và Luật đã được công bố bởi đức Như Lai là bộc
 lộ, chói sáng, không che giấu.”
 
--
+#divider()
 
 \(Aṅguttaranikāya Tikanipātapāḷi Kusinaravagga Paṭichannasutta,
 Parivārapāḷi Ekuttarikanaya Tikavāra - Bộ Tăng Chi, Chương Ba Pháp, Phẩm
@@ -461,8 +412,7 @@ niệm Buddha Jayanti lần thứ 2550 là chính xác về phần Pali văn. Ph
 Pali văn được phiên âm sang mẫu tự Roman có giá trị tương đương về nội
 dung so với văn bản gốc bằng mẫu tự Sinhala.
 
-=== B. N. Jinasena Thư Ký Chánh văn phòng
-<b.-n.-jinasena-thư-ký-chánh-văn-phòng>
+B. N. Jinasena Thư Ký Chánh văn phòng
 Địa Chỉ: 115 Wijerama Mawatha, Colombo 07, Sri Lanka Office:
 94-11-2690896 Fax: 94-11-2690897 Deputy Minister: 94-11-5375128,
 94-11-2690898 Secretary: 94-11-2690736
@@ -483,7 +433,7 @@ Nandana Tipiṭaka Dhammāyatana Malegoḍa, Payāgala - Sri Lanka
 CỐ VẤN VI TÍNH: Ven. Mettāvihārī (Đan Mạch) Ban điều hành Mettānet
 Foundation
 
--
+#divider()
 
 ĐIỀU HÀNH TỔNG QUÁT: Tỳ Khưu Indacanda
 
@@ -501,10 +451,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 
 Pārājikapāḷi Phân Tích Giới Tỳ Khưu I 01
 
-=== V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
-<v-pācittiyapāḷi-bhikkhu-phân-tích-giới-tỳ-khưu-ii-02>
-=== I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
-<i-l-pācittiyapāḷi-bhikkhunī-phân-tích-giới-tỳ-khưu-ni-03-n-u-mahāvaggapāḷi-i-đại-phẩm-i-04>
+V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
+I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
 A Ậ Mahāvaggapāḷi II Đại Phẩm II 05 Y T Cullavaggapāḷi I Tiểu Phẩm I 06
 A Cullavaggapāḷi II Tiểu Phẩm II 07 Parivārapāḷi I Tập Yếu I 08
 Parivārapāḷi II Tập Yếu II 09
@@ -528,10 +476,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 K Khuddakapāṭha Tiểu Tụng 28 H Dhammapadapāḷi Pháp Cú - U Udānapāḷi Phật
 Tự Thuyết -
 
-=== D Itivuttakapāḷi Phật Thuyết Như Vậy -
-<d-itivuttakapāḷi-phật-thuyết-như-vậy-->
-=== D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
-<d-suttanipātapāḷi-kinh-tập-29-a-vimānavatthupāḷi-chuyện-thiên-cung-30>
+D Itivuttakapāḷi Phật Thuyết Như Vậy -
+D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
 K Petavatthupāḷi Chuyện Ngạ Quỷ - S A Theragathāpāḷi Trưởng Lão Kệ 31 U
 N Therīgāthāpāḷi Trưởng Lão Ni Kệ - T K I Jātakapāḷi I Bổn Sanh I 32 T I
 K Jātakapāḷi II Bổn Sanh II 33 A N Ā Jātakapāḷi III Bổn Sanh III 34 N H
@@ -540,27 +486,21 @@ Paṭisambhidāmagga I Phân Tích Đạo I 37 \* Paṭisambhidāmagga II Phân 
 Đạo II 38 Apadānapāḷi I Thánh Nhân Ký Sự I 39 T Apadānapāḷi II Thánh
 Nhân Ký Sự II 40
 
-=== I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
-<i-apadānapāḷi-iii-thánh-nhân-ký-sự-iii-41-ể-buddhavaṃsapāḷi-phật-sử-42>
+I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
 U Cariyāpiṭakapāḷi Hạnh Tạng - Nettipakaraṇa (chưa dịch) 43 B
 Peṭakopadesa (chưa dịch) 44 Ộ Milindapañhāpāḷi Mi Tiên Vấn Đáp 45
 
 Dhammasaṅganipakaraṇa Bộ Pháp Tụ 46
 
-=== V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
-<v-vibhaṅgapakaraṇa-i-bộ-phân-tích-i-47-a-i-vibhaṅgapakaraṇa-ii-bộ-phân-tích-ii-48>
+V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
 B Kathāvatthu I Bộ Ngữ Tông I 49 H D Kathāvatthu II Bộ Ngữ Tông II 50
 
-=== I I Kathāvatthu III Bộ Ngữ Tông III 51
-<i-i-kathāvatthu-iii-bộ-ngữ-tông-iii-51>
-=== D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
-<d-ệ-dhātukathā-bộ-chất-ngữ---h-u-puggalapaññattipāḷi-bộ-nhân-chế-định-52>
+I I Kathāvatthu III Bộ Ngữ Tông III 51
+D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
 A Yamakapakaraṇa I Bộ Song Đối I 53
 
-=== M P Yamakapakaraṇa II Bộ Song Đối II 54
-<m-p-yamakapakaraṇa-ii-bộ-song-đối-ii-54>
-=== M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
-<m-h-yamakapakaraṇa-iii-bộ-song-đối-iii-55-a-á-patthānapakaraṇa-i-bộ-vị-trí-i-56>
+M P Yamakapakaraṇa II Bộ Song Đối II 54
+M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
 P Patthānapakaraṇa II Bộ Vị Trí II 57 Patthānapakaraṇa III Bộ Vị Trí III
 58
 
@@ -576,8 +516,9 @@ BỘ PĀRĀJIKA
 
 PHÂN TÍCH GIỚI TỲ KHƯU
 
-== TẬP MỘT Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
-<tập-một-tāni-ca-sutte-otāriyamānāni-vinaye-sandassiyamānāni-sutte-ceva-otaranti-vinaye-ca-sandissanti-niṭṭham-ettha-gantabbaṃ-addhā-idaṃ>
+== TẬP MỘT
+
+Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
 tassa bhagavato vacanaṃ, tassa ca therassa suggahitan'ti.
 
 \(Dīghanikāya II, Mahāparinibbānasutta).
@@ -588,7 +529,9 @@ Kinh, cần được xem xét ở Luật, và chỉ khi nào chúng hiện diệ
 chắc chắn là lời giảng dạy của đức Thế Tôn và đã được vị trưởng lão ấy
 tiếp thâu đúng đắn.”
 
-\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn). LỜI GIỚI THIỆU
+\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn).
+
+== Lời giới thiệu
 
 #divider()
 
@@ -634,7 +577,7 @@ thành từng chương. Khandhaka được chia làm hai:
 trình bày dưới dạng vấn đáp, có thể được xem như là cuốn cẩm nang hướng
 dẫn việc hành xử Luật.
 
--
+#divider()
 
 Dựa theo văn bản được ghi lại bằng mẫu tự Pāḷi -- Sinhala thuộc ấn bản
 Buddha Jayanti Tripitaka Series của nước quốc giáo Sri Lanka, Công Trình
@@ -876,8 +819,7 @@ l ka L kha . ga U gha X ṅa p ca P cha c ja ® jha \[ ña g ṭa G ṭha v ḍa
 h ya r ra , la j va i sa y ha \< ḷa x ṃ l ka ld kā ls ki lS kī l= ku l+
 kū fl ke fld ko
 
-=== L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
-<l-kha-ld-khā-ls-khi-ls-khī-lq-khu-lq-khū-fl-khe-fld-kho-.-ga-.d-gā-.s-gi-.s-gī-.-gu-.-gū-f.-ge-f.d-go>
+L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
 PHỤ ÂM LIÊN KẾT
 
 ll kka \[\[ ñña \;% tra uM mpha lL kkha Ky ṇha oo dda un mba lH kya \[p
@@ -886,10 +828,8 @@ uy mha LH khya \[® ñjha Oj dhva hh, hH yya Lj khva gg ṭṭa k; nta hy yha
 \.. gga gG ṭṭha J: ntha ,, lla \.\> ggha vv ḍḍa Jo, | nda ,H lya Xl ṅka
 vV ḍḍha JO ndha ,y lha \.% gra KK ṇṇa \;; nna jh vha
 
-=== XL ṅkha Kg ṇṭa \;y nha ii ssa
-<xl-ṅkha-kg-ṇṭa-y-nha-ii-ssa>
-=== X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
-<x.-ṅga-kg-ṇṭha-mm-ppa-iu-sma-x-ṅgha-kv-ṇḍa-mm-ppha-ij-sva>
+XL ṅkha Kg ṇṭa \;y nha ii ssa
+X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
 pp cca \;; tta nn bba yu hma pP ccha F: ttha nN bbha yj hva cc jja Fj
 tva n% bra \<y ḷha c® jjha um mpa
 
@@ -929,7 +869,6 @@ PĀRĀJIKAPĀḶI BHIKKHUVIBHAṄGO Paṭhamo Bhāgo - Visayasūci
 BỘ PĀRĀJIKAPĀḶI PHÂN TÍCH GIỚI TỲ KHƯU
 
 == Tập Một - Mục Lục
-<tập-một---mục-lục>
 
 #divider()
 
@@ -950,7 +889,7 @@ việc quy định điều học của Sāriputta 16 Verañjabrāhmaṇassa dham
 \- Sự thuyết giảng Giáo Pháp cho vị Bà-la-môn Verañja 24 Bhagavato
 janapadacārikā - Sự du hành trong xứ sở của đức Thế Tôn 26
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 2)
@@ -1009,7 +948,7 @@ Vattukāmavārakathā - Giảng về trường hợp ‘Có ý định nói' 226
 Paccayapaṭisaṃyuttavārakathā - Giảng về các trường hợp liên quan đến vật
 dụng 230 VINĪTAVATTHU - CHUYỆN DẪN GIẢI 236-255
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 3)
@@ -1092,7 +1031,7 @@ Padabhājanīyaṃ - Phân tích từ ngữ 436-447
   học 476 Padabhājanīyaṃ - Phân tích từ ngữ 478-483
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 4)
@@ -1109,7 +1048,7 @@ Padabhājanīyaṃ - Phân tích từ ngữ 436-447
 
 Padabhājanīyaṃ - Phân tích từ ngữ 492-497
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 5)
@@ -1313,14 +1252,13 @@ BỘ PĀRĀJIKA
 PHÂN TÍCH GIỚI TỲ KHƯU
 
 == TẬP MỘT VINAYAPIṬAKE
-<tập-một-vinayapiṭake>
 PĀRĀJIKAPĀḶI
 
 BHIKKHUVIBHAṄGO PAṬHAMO BHĀGO
 
 Namo tassa bhagavato arahato sammāsambuddhassa.
 
--
+#divider()
 
 + VERAÑJAKAṆḌO
 
@@ -1347,10 +1285,9 @@ BỘ PĀRĀJIKA
 PHÂN TÍCH GIỚI TỲ KHƯU
 
 == TẬP MỘT
-<tập-một-1>
 Kính lễ đức Thế Tôn, bậc A-la-hán, đấng Chánh Biến Tri!
 
--
+#divider()
 
 + CHƯƠNG VERAÑJĀ:
 
@@ -1979,20 +1916,20 @@ Phân Tích Giới Tỳ Khưu 1 Chương Verañjā
   thọ dụng chất bổ dưỡng (ấy).” 1
 ]
 
-- “Này Moggallāna, còn các chúng sanh sống ở quả địa cầu thì ngươi sẽ
+-- “Này Moggallāna, còn các chúng sanh sống ở quả địa cầu thì ngươi sẽ
   giải quyết thế nào?”
 
-- “Bạch Ngài, con sẽ biến hoá một bàn tay trở thành giống như đại địa
+-- “Bạch Ngài, con sẽ biến hoá một bàn tay trở thành giống như đại địa
   cầu và sẽ di chuyển chúng sanh sống ở quả địa cầu đến đó, rồi con sẽ
   lật ngửa quả địa cầu ra bằng cánh tay kia.”
 
-- “Này Moggallāna, thôi đi. Ngươi chớ thích thú để lật ngửa quả địa cầu
+-- “Này Moggallāna, thôi đi. Ngươi chớ thích thú để lật ngửa quả địa cầu
   ra nữa khiến chúng sanh sẽ phải gánh chịu sự xáo trộn.”
 
-- “Bạch Ngài, thật tốt thay nếu tất cả hội chúng tỳ khưu có thể đi đến
+-- “Bạch Ngài, thật tốt thay nếu tất cả hội chúng tỳ khưu có thể đi đến
   Uttarakuru để khất thực.”
 
-- “Này Moggallāna, thôi đi. Ngươi chớ thích thú đến việc đi đến
+-- “Này Moggallāna, thôi đi. Ngươi chớ thích thú đến việc đi đến
   Uttarakuru để khất thực của toàn bộ hội chúng tỳ khưu nữa.”
 
 #block[
@@ -2014,7 +1951,7 @@ Phân Tích Giới Tỳ Khưu 1 Chương Verañjā
   tại lâu dài? Phạm hạnh thời chư Phật Thế Tôn nào đã tồn tại lâu dài?”
 ]
 
-- “Này Sāriputta, Phạm hạnh thời đức Thế Tôn Vipassī, thời đức Thế Tôn
+-- “Này Sāriputta, Phạm hạnh thời đức Thế Tôn Vipassī, thời đức Thế Tôn
   Sikhī, và thời đức Thế Tôn Vessabhū đã không tồn tại lâu dài. Này
   Sāriputta, Phạm hạnh thời đức Thế Tôn Kakusandha, thời đức Thế Tôn
   Konāgamana, và thời đức Thế Tôn Kassapa đã tồn tại lâu dài.”
@@ -2527,10 +2464,10 @@ hoti - PTS.
   gia sống không nhà. Xin đức Thế Tôn hãy (làm lễ) xuất gia cho con.”
 ]
 
-- “Này Sudinna, vậy ngươi đã được mẹ và cha cho phép về việc rời nhà
+-- “Này Sudinna, vậy ngươi đã được mẹ và cha cho phép về việc rời nhà
   xuất gia sống không nhà chưa?”
 
-- “Bạch Ngài, con chưa được mẹ và cha cho phép về việc rời nhà xuất gia
+-- “Bạch Ngài, con chưa được mẹ và cha cho phép về việc rời nhà xuất gia
   sống không nhà.”
 
 Dịch sát từ sẽ là: “Sau khi nhìn thấy, điều này đã khởi đến anh ta: …”
@@ -2583,10 +2520,10 @@ parihato - katthaci.
 
 Phân Tích Giới Tỳ Khưu 1 Điều pārājika về việc đôi lứa - 1
 
-- “Này Sudinna, các đức Như Lai không (làm lễ) xuất gia cho người con
+-- “Này Sudinna, các đức Như Lai không (làm lễ) xuất gia cho người con
   trai chưa được mẹ và cha cho phép.”
 
-- “Bạch Ngài, bằng cách nào khiến mẹ và cha sẽ cho phép con về việc rời
+-- “Bạch Ngài, bằng cách nào khiến mẹ và cha sẽ cho phép con về việc rời
   nhà xuất gia sống không nhà thì con đây sẽ làm theo cách ấy.”
 
 #block[
@@ -3262,7 +3199,7 @@ brahmacariyaṃ caritun '”ti.
 
 Phân Tích Giới Tỳ Khưu 1 Điều pārājika về việc đôi lứa - 1
 
-- “Này các đại đức, không phải tôi không thỏa thích thực hành Phạm hạnh
+-- “Này các đại đức, không phải tôi không thỏa thích thực hành Phạm hạnh
   mà tôi đã tạo nên ác nghiệp, tôi đã thực hiện việc đôi lứa với người
   vợ cũ. Này các đại đức, tôi đây đã có sự ăn năn, đã có nỗi ân hận:
   ‘Thật là điều không lợi ích đã có cho ta! Thật là điều lợi ích đã
@@ -3635,7 +3572,7 @@ Phân Tích Giới Tỳ Khưu 1 Điều pārājika về việc đôi lứa - 1
   “Bạch Thế Tôn, đúng vậy.” Đức Phật Thế Tôn đã khiển trách rằng:
 ]
 
-- “Này kẻ rồ dại, thật không đúng đắn, không hợp lẽ, không tốt đẹp,
+-- “Này kẻ rồ dại, thật không đúng đắn, không hợp lẽ, không tốt đẹp,
   không xứng pháp Sa-môn, không được phép, không nên làm! Này kẻ rồ dại,
   tại sao ngươi sau khi xuất gia trong Pháp và Luật được khéo thuyết
   giảng như vầy lại không thể thực hành Phạm hạnh thanh tịnh một cách
@@ -3834,7 +3771,7 @@ yo ca kho bhikkhave - Ma, PTS.
 
 Phân Tích Giới Tỳ Khưu 1 Điều pārājika về việc đôi lứa - 1
 
-- “Này Ānanda, việc Như Lai có thể hủy bỏ điều học pārājika đã được quy
+-- “Này Ānanda, việc Như Lai có thể hủy bỏ điều học pārājika đã được quy
   định cho các đệ tử vì lý do của các vị Vajjī hoặc của những người con
   trai của các vị Vajjī là điều không có cơ sở và không hợp lý.” Sau đó,
   đức Thế Tôn nhân lý do ấy nhân sự kiện ấy đã nói Pháp thoại rồi bảo
@@ -4136,7 +4073,7 @@ Pārājikapāḷi Paṭhamapārājikaṃ
   bhikkhave dubbalyāvīkammañceva hoti sikkhā ca apaccakkhātā.
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 19)
@@ -4187,7 +4124,7 @@ Phân Tích Giới Tỳ Khưu 1 Điều pārājika về việc đôi lứa - 1
   học tập chưa được lìa bỏ.
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 19)
@@ -5680,7 +5617,7 @@ Phân Tích Giới Tỳ Khưu 1 Điều pārājika về việc đôi lứa - 1
   ấy) bị nhầy nhụa nên đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, dương vật trở nên thích ứng do năm lý do: do ái dục,
+-- “Này các tỳ khưu, dương vật trở nên thích ứng do năm lý do: do ái dục,
   do phân, do nước tiểu, do gió, do bị cắn bởi sâu bọ. Này các tỳ khưu,
   đây là năm lý do làm cho dương vật trở nên thích ứng. Này các tỳ khưu,
   dương vật của vị tỳ khưu ấy trở nên thích ứng do ái dục là điều không
@@ -6458,7 +6395,7 @@ vuccati pārājiko hotī 'ti.
 Asaṃvāso 'ti saṃvāso nāma ekaṃ kammaṃ ekuddeso samasikkhātā, eso saṃvāso
 nāma. So tena saddhiṃ natthī 'ti, tena vuccati asaṃvāso 'ti.
 
--
+#divider()
 
 \[Nayamātikā\]
 
@@ -11538,7 +11475,7 @@ Suññāgāre abhiratī 'ti paṭhamena jhānena suññāgāre abhirati, dutiyen
 jhānena suññāgāre abhirati, tatiyena jhānena suññāgāre abhirati,
 catutthena jhānena suññāgāre abhirati.
 
--
+#divider()
 
 + Tīhākārehi ‘paṭhamaṃ jhānaṃ samāpajjin 'ti sampajānamusā bhaṇantassa
   āpatti pārājikassa: pubbevassa hoti ‘musā bhaṇissan 'ti, bhaṇantassa
@@ -11590,7 +11527,7 @@ Sự thỏa thích ở nơi thanh vắng: là sự thỏa thích ở nơi thanh 
 thiền, sự thỏa thích ở nơi thanh vắng với nhị thiền, sự thỏa thích ở nơi
 thanh vắng với tam thiền, sự thỏa thích ở nơi thanh vắng với tứ thiền.
 
--
+#divider()
 
 + Với ba yếu tố, vị cố tình nói điều dối trá: “Tôi đã chứng sơ thiền” bị
   phạm tội pārājika: Trước đó, vị ấy khởi ý rằng: ‘Ta sẽ nói điều dối
@@ -12721,7 +12658,7 @@ Pārājikapāḷi Catutthapārājikaṃ
 
 Vattuvissārakassa 1 ekamūlakassa khaṇḍacakkaṃ.
 
--
+#divider()
 
 + Tīhākārehi ‘dutiyaṃ jhānaṃ samāpajjin 'ti vattukāmo ‘tatiyaṃ jhānaṃ
   samāpajjin 'ti sampajānamusā bhaṇantassa paṭivijānantassa āpatti
@@ -12762,7 +12699,7 @@ Phân Tích Giới Tỳ Khưu 1 Điều pārājika về pháp thượng nhân - 
 Dứt sự luân phiên từng phần của một nhân tố theo lời phát biểu của người
 nói.
 
--
+#divider()
 
 + Với ba yếu tố, vị có ý định nói rằng: “Tôi đã chứng nhị thiền” lại cố
   tình nói điều dối trá: “Tôi đã chứng tam thiền,” (người nghe) hiểu
@@ -12786,7 +12723,7 @@ Pārājikapāḷi Catutthapārājikaṃ
 
 Vattuvissārakassa ekamūlakassa baddhacakkaṃ.
 
--
+#divider()
 
 MŪLAKAṂ SAṄKHITTAṂ:
 
@@ -12807,7 +12744,7 @@ Vattuvissārakassa ekamūlakaṃ niṭṭhitaṃ.
   kātabbaṃ.
 ]
 
--
+#divider()
 
 IDAṂ SABBAMŪLAKAṂ:
 
@@ -12838,7 +12775,7 @@ Phân Tích Giới Tỳ Khưu 1 Điều pārājika về pháp thượng nhân - 
 
 Sự luân phiên kết hợp của một nhân tố theo lời phát biểu của người nói.
 
--
+#divider()
 
 PHẦN NHÂN TỐ ĐƯỢC TÓM LƯỢC:
 
@@ -12861,7 +12798,7 @@ Dứt phần một nhân tố theo lời phát biểu của người nói.
   tố, phần mười nhân tố nên được thực hiện y như thế.
 ]
 
--
+#divider()
 
 ĐÂY LÀ PHẦN TẤT CẢ CÁC NHÂN TỐ:
 
@@ -12918,7 +12855,7 @@ Pārājikapāḷi Catutthapārājikaṃ
 Sabbamūlakaṃ. Vattuvissārakassa cakkapeyyālaṃ niṭṭhitaṃ.
 Vattukāmavārakathā niṭṭhitā.
 
--
+#divider()
 
 + Tīhākārehi ‘yo te vihāre vasi, so bhikkhu paṭhamaṃ jhānaṃ samāpajji,
   samāpajjati, samāpanno, so bhikkhu paṭhamassa jhānassa lābhī, vasī,
@@ -12969,7 +12906,7 @@ Phân Tích Giới Tỳ Khưu 1 Điều pārājika về pháp thượng nhân - 
 Phần tất cả các nhân tố. Dứt phần giản lược về sự luân phiên theo lời
 phát biểu của người nói. Dứt phần giảng về trường hợp ‘Có ý định nói.'
 
--
+#divider()
 
 + Với ba yếu tố, vị cố tình nói điều dối trá: “Vị tỳ khưu cư ngụ trong
   trú xá của đạo hữu đã chứng, chứng, đã chứng được sơ thiền, vị tỳ khưu
@@ -13121,7 +13058,7 @@ Pārājikapāḷi Catutthapārājikaṃ
 Peyyālapaṇṇarasakaṃ niṭṭhitaṃ. Paccayapaṭisaṃyuttavārakathā niṭṭhitā.
 Uttarimanussadhammacakkapeyyālaṃ niṭṭhitaṃ.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 10)
@@ -13173,7 +13110,7 @@ Dứt mười lăm phần giản lược. Dứt phần giảng về các trườ
 đến vật dụng. Dứt phần giản lược về sự luân phiên của các Pháp Thượng
 Nhân.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 10)
@@ -13212,7 +13149,7 @@ vinayassa pabbajuṃ pāpakammamakariṃsu tāvade.
 Tapodā rājagahe yuddhaṃ nāgānogāhanena ca, sobhito arahaṃ bhikkhu pañca
 kappasataṃ sare ”ti.
 
--
+#divider()
 
 + Tena kho pana samayena aññataro bhikkhu adhimānena aññaṃ vyākāsi.
   Tassa kukkuccaṃ ahosi: ‘Bhagavatā sikkhāpadaṃ paññattaṃ, kacci nu kho
@@ -13258,7 +13195,7 @@ trong Luật của Phật Kassapa chúng đã làm ác nghiệp.
 Dòng sông Tapodā, thành Rājagaha, chiến trận (Licchavi), và chuyện rồng
 lặn hụp, tỳ khưu Sobhita là vị A-la-hán nhớ được năm trăm kiếp.
 
--
+#divider()
 
 + Vào lúc bấy giờ, có vị tỳ khưu nọ do sự tự tin thái quá đã nói về trí
   giải thoát. Vị ấy đã có nỗi nghi hoặc: “Điều học đã được đức Thế Tôn
@@ -14383,7 +14320,7 @@ sukkavissaṭṭhi- Ma.
 
 Phân Tích Giới Tỳ Khưu 1 Điều saṅghādisesa về xuất tinh - 1
 
-- “Này đại đức Seyyasaka, có phải đại đức gắng sức làm xuất ra tinh dịch
+-- “Này đại đức Seyyasaka, có phải đại đức gắng sức làm xuất ra tinh dịch
   bằng chính bàn tay thọ dụng vật tín thí?” - “Này các đại đức, đúng
   vậy.” Các tỳ khưu nào ít ham muốn, các vị ấy phàn nàn, phê phán, chê
   bai rằng: - “Vì sao đại đức Seyyasaka lại dùng bàn tay gắng sức làm
@@ -14954,7 +14891,7 @@ Pārājikapāḷi Sukkavisaṭṭhisikkhāpadaṃ - 1
   aṭṭhamūlakampi navamūlakampi evameva vitthāretabbaṃ.
 ]
 
--
+#divider()
 
 IDAṂ SABBAMŪLAKAṂ:
 
@@ -19562,7 +19499,6 @@ Baddhacakkaṃ. Mūlaṃ saṅkhittaṃ.
 Phân Tích Giới Tỳ Khưu 1 Điều saṅghādisesa về mai mối - 5
 
 == PHẦN MƯỜI NHÂN TỐ:
-<phần-mười-nhân-tố>
 #block[
 #set enum(numbering: "1.", start: 29)
 + Người nam phái vị tỳ khưu đi: “Thưa ngài, hãy đi đến và nói với người
@@ -20551,7 +20487,7 @@ etarahi kho - Syā.
 
 Phân Tích Giới Tỳ Khưu 1 Điều saṅghādisesa về làm cốc liêu - 6
 
-- “Này các đại đức, thành Āḷavi này trước đây vật thực dồi dào, đồ khất
+-- “Này các đại đức, thành Āḷavi này trước đây vật thực dồi dào, đồ khất
   thực nhận được mau chóng, dễ dàng sinh sống bằng sự ra sức khất thực.
   Hiện nay, thành Āḷavi này quả thật có sự khó khăn về vật thực, đồ khất
   thực nhận được khó khăn, không dễ dàng sinh sống bằng sự ra sức khất
@@ -20887,10 +20823,10 @@ Phân Tích Giới Tỳ Khưu 1 Điều saṅghādisesa về làm cốc liêu - 
   thốt lên với Raṭṭhapāla con trai nhà danh giá bằng lời kệ rằng:
 ]
 
-- “Này Raṭṭhapāla, có rất là nhiều người dầu ta không biết họ, họ vẫn đi
+-- “Này Raṭṭhapāla, có rất là nhiều người dầu ta không biết họ, họ vẫn đi
   đến gặp và cầu xin ta, sao con lại không xin ta?”
 
-- “Kẻ xin không được ưa thích, kẻ không cho khi được xin cũng không được
+-- “Kẻ xin không được ưa thích, kẻ không cho khi được xin cũng không được
   ưa thích; chính vì lý do ấy tôi không cầu xin ông, chớ có ghét bỏ
   tôi.”
 
@@ -22943,7 +22879,7 @@ savātaṃ - Ma.
 
 Phân Tích Giới Tỳ Khưu 1 Điều saṅghādisesa thứ nhất về vị xấu xa - 8
 
-- “Bạch ngài, điều này là không đúng đắn, không hợp lý. Bạch ngài, chính
+-- “Bạch ngài, điều này là không đúng đắn, không hợp lý. Bạch ngài, chính
   ở quốc độ nào không có sự sợ hãi, không có tai họa, không có sầu khổ
   thì chính ở quốc độ ấy có sự sợ hãi, có tai họa, và có sầu khổ. Từ nơi
   nào gió lặng đi thì từ nơi ấy có bão tố. Con nghĩ rằng nước đã bùng
@@ -29257,7 +29193,7 @@ nāgamissantīti - PTS.
 
 Phân Tích Giới Tỳ Khưu 1 Điều nissaggiya về đức vua - 10
 
-- “Này đạo hữu, tôi có nhu cầu về y.” - “Thưa ngài, xin hãy chờ cho ngày
+-- “Này đạo hữu, tôi có nhu cầu về y.” - “Thưa ngài, xin hãy chờ cho ngày
   hôm nay. Hôm nay là ngày hội họp của thị trấn. Và thị trấn đã thực
   hiện quy định là: ‘Ai đi đến trễ bị phạt năm mươi tiền.'” - “Này đạo
   hữu, hãy dâng y cho tôi ngay hôm nay,” rồi đã nắm lấy dây thắt lưng
@@ -30309,7 +30245,7 @@ sikkhāpadesu samādāya vattitabbaṃ. Anujānāmi upasena ye te bhikkhū
 
 Phân Tích Giới Tỳ Khưu 1 Điều nissaggiya về tấm trải lót - 15
 
-- “Này Upasena, tập thể này quả là có niềm tin đối với ngươi. Này
+-- “Này Upasena, tập thể này quả là có niềm tin đối với ngươi. Này
   Upasena, ngươi hướng dẫn tập thể thế nào?” - “Bạch ngài, ai cầu xin
   con sự tu lên bậc trên thì con nói với người ấy như vầy: ‘Này đạo hữu,
   ta là vị hành pháp ở rừng, hành pháp đi khất thực, hành pháp sử dụng y
@@ -31490,7 +31426,7 @@ Syā.
 
 Phân Tích Giới Tỳ Khưu 1 Điều nissaggiya về mua bán - 20
 
-- “Vì sao đại đức Upananda con trai dòng Sakya lại tiến hành việc mua
+-- “Vì sao đại đức Upananda con trai dòng Sakya lại tiến hành việc mua
   bán với du sĩ ngoại đạo?” Sau đó, các vị tỳ khưu ấy đã trình sự việc
   ấy lên đức Thế Tôn. - “Này Upananda, nghe nói ngươi tiến hành việc mua
   bán với du sĩ ngoại đạo, có đúng không vậy?” - “Bạch Thế Tôn, đúng
@@ -34035,7 +33971,7 @@ Pariṇataṃ nāma ‘dassāma karissāmā 'ti vācā bhinnā hoti.
 
 Phân Tích Giới Tỳ Khưu 1 Điều nissaggiya về việc thuyết phục - 30
 
-- “Vì sao các tỳ khưu nhóm Lục Sư dầu biết lợi lộc đã được khẳng định là
+-- “Vì sao các tỳ khưu nhóm Lục Sư dầu biết lợi lộc đã được khẳng định là
   dâng đến hội chúng lại thuyết phục dâng cho bản thân?” Sau đó, các vị
   tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn. - “Này các tỳ khưu,
   nghe nói các ngươi dầu biết lợi lộc đã được khẳng định là dâng đến hội
@@ -34297,7 +34233,7 @@ tính là 5 điều thành 71; “không nên tiếp nhận sự đảnh lễ, s
 điều thành 72; “không nên bôi nhọ vị tỳ khưu trong sạch với sự hư hỏng
 về giới, v.v…” tính là 10 điều; tổng cộng là 82 phận sự.
 
-- Từ “bất cộng trụ” đã được sử dụng quen thuộc khi đề cập đến tội
+-- Từ “bất cộng trụ” đã được sử dụng quen thuộc khi đề cập đến tội
   pārājika. Thật ra, “bất cộng trụ” là từ dịch của asaṃvāso trong câu
   “ayampi pārājiko hoti asaṃvāso,” chứ không phải của pārājika. Pārājika
   được xem là tên của tội, còn asaṃvàso có thể xem như là một hình thức
@@ -34419,11 +34355,11 @@ assasati là thở ra, passasati là thở vào. Nếu hiểu như vậy thì ph
 pháp Ānāpānassati hay “Niệm hơi thở” nên được trình bày và tu tập theo
 thứ tự hơi thở ra trước rồi mới đến hơi thở vào.
 
-- Trong bốn mệnh đề đầu, động từ được sử dụng là pajānāti (biết rõ) và
+-- Trong bốn mệnh đề đầu, động từ được sử dụng là pajānāti (biết rõ) và
   có liên từ “vā” (hay là, hoặc là) xen vào giữa. Từ mệnh đề thứ năm trở
   đi, động từ là sikkhati (thực tập, thực hành, học tập).
 
-- Theo lời giải thích của ngài Buddhaghosa, sabbakāya nên được hiểu là
+-- Theo lời giải thích của ngài Buddhaghosa, sabbakāya nên được hiểu là
   phần đầu, phần giữa, và phần cuối của toàn bộ hơi thở ra mỗi khi thở
   ra, hoặc toàn bộ hơi thở vào mỗi khi thở vào (VinA. ii, 411)
 
@@ -34437,7 +34373,7 @@ TRANG 247: - Ngài Buddhaghosa giải thích các chim kên kên, chim quạ,
 chim ưng này là các Dạ-xoa có dạng chim, “yakkhagijjhā yakkhakākā
 yakkhakulalā” (VinA. ii, 507).
 
-- Ngài Buddhaghosa giải thích về người không có lớp da bao bọc là do
+-- Ngài Buddhaghosa giải thích về người không có lớp da bao bọc là do
   việc người này đã giết các con dê rồi lột da nên bị quả báu không có
   lớp da bao bọc (VinA. ii, 509).
 
@@ -34452,7 +34388,7 @@ vị ấy không còn được tham dự các lễ Uposatha (lễ Bố Tát), l�
 (lễ Tự Tứ), việc đọc tụng giới bổn Pātimokkha, và các loại hành sự của
 hội chúng (VinA. ii, 516).
 
-- Trước đây như thế nào thì sau này là như vậy (yathā pure tathā pacchā)
+-- Trước đây như thế nào thì sau này là như vậy (yathā pure tathā pacchā)
   nghĩa là trước đây còn tại gia chưa tu lên bậc trên sự cách biệt đối
   với các vị tỳ khưu như thế nào, bây giờ sau khi phạm tội pārājika thì
   phải theo đúng như thế ấy (VinA. ii, 516).
@@ -34567,7 +34503,7 @@ TRANG 485: - Xem xét khi nào không có ai qua lại thì hỏi han chuyện g
 không bị đói?” v.v… Khi nào có ai đi lại gần thì nói Pháp: “Nên thọ bát
 quan trai giới. Nên dâng thức ăn theo thẻ.” v.v… (VinA. iii, 631).
 
-- Ngài Buddhaghosa giải thích là bà Visākhā có 10 người con trai và 10
+-- Ngài Buddhaghosa giải thích là bà Visākhā có 10 người con trai và 10
   người con gái. Mỗi người con trai hoặc gái có 20 người con. Tổng cộng
   bà có hơn 420 người con cháu (VinA. iii, 631).
 
@@ -34615,7 +34551,7 @@ thức. Một trong những cách thức đã được các tỳ khưu thời �
 đi vào mộ địa nhặt lấy các vải quấn tử thi đem về giặt sạch, cắt may
 thành y, nhuộm màu, v.v… (ND).
 
-- Ngài Buddhaghosa giải thích “từ vật sở hữu của bản thân” là phát sanh
+-- Ngài Buddhaghosa giải thích “từ vật sở hữu của bản thân” là phát sanh
   lên do bông vải, chỉ sợi, v.v… của bản thân (VinA. iii, 659).
 
 TRANG 517: - Ngài Buddhaghosa giải thích như sau: “Nếu y căn bản là mịn
@@ -34660,7 +34596,7 @@ là ăn hết 1 lon gạo chứ không phải 1 lon cơm, Ngài Mahāsamaṇa Ch
 giải thích tương tợ; trong khi đó dịch giả I.B. Horner dịch theo ý sau,
 nghĩa là “lượng cơm là ½ āḷhaka.”
 
-- Theo ngài Mahāsamaṇa Chao giải thích ở Vinayamukha thì 1 āḷhaka = 4
+-- Theo ngài Mahāsamaṇa Chao giải thích ở Vinayamukha thì 1 āḷhaka = 4
   nāḷi/nāḷika = 8 pattha (1 nāli = 2 pattha). Pattha là lượng chứa do
   hai tay bụm lại. Khi dùng các lượng ½ āḷhaka, 1 nāli, 1 pattha gạo rồi
   nấu lên thành cơm thì các lượng cơm ấy theo thứ tự là sức chứa đựng
@@ -34675,7 +34611,7 @@ TRANG 603:
 
 Phân Tích Giới Tỳ Khưu 1 - Phần Phụ Chú
 
-- Theo lời giải thích của Ngài Buddhaghosa thì vị nào vì lòng thương hại
+-- Theo lời giải thích của Ngài Buddhaghosa thì vị nào vì lòng thương hại
   mà không nhận lấy thì mới phạm tội dukkaṭa, còn vị tự biết đủ (nghĩ
   rằng): “Bình bát khác cho tôi làm gì?” rồi không nhận lấy thì vô tội
   (VinA. iii, 708).
@@ -34764,8 +34700,7 @@ Lakkhaṇa 244 BH Licchavi 40, 42, Bhaddiyejātiyāvana 88 92, 236, 252
 Bhārukaccha 90 Bhummadeva 42 V Bhūtavajjaka 186 Vaggumudātīriyā 152,
 192, 194, 196, 198
 
-=== M Vajjigāma 34 Maṇikaṇṭha 378, Vajjiputtaka 54, 80
-<m-vajjigāma-34-maṇikaṇṭha-378-vajjiputtaka-54-80>
+M Vajjigāma 34 Maṇikaṇṭha 378, Vajjiputtaka 54, 80
 380 Vassakāra 98 Maddakucchi 418 Vipassī 16, 18, 20 Mahākassapa 374,
 Visākhā 484, 490, 492 376 Vebhāra (passe) 418 Mahāmoggallāna 16,
 Verañjabrāhmaṇa 02, 04, 244, 246, 14, 24, 26 250, 252, 254 Verañjā 02,
@@ -34776,8 +34711,7 @@ Migalaṇḍika 152, 158 194, 498, Migāramātu 484, 490 556 Mettiyabhummajaka
 
 Phân Tích Giới Tỳ Khưu 1 - Thư Mục Danh Từ Riêng
 
-=== V S Veḷuvana 244, Sāvatthī 88, 92,
-<v-s-veḷuvana-244-sāvatthī-88-92>
+V S Veḷuvana 244, Sāvatthī 88, 92,
 374, 416, 126, 144, 256, 418, 434, 448, 456, 292, 320, 330, 338, 522,
 580, 620 340, 466, 470, 484, 490, 502, 512, 516, 522, 526, 528, S 532,
 536, 540, 546, 558, 562, Sakka (janapada) 576, 566, 568, 572, 584, 588,
@@ -35015,8 +34949,7 @@ Cetiyarukkhaṃ 404, 406 Ghanakataṃ 584 Gharāvāsā 24 CH Ghātento 196
 Chagalakaṃ 434 Ghoravisaṃ 46, 52 Chandavāsinī 346, 348, 352, 356, 358,
 360,
 
-=== C 362, 364, 366, 368, 370 Cakkabhedaṃ 448, 450, 456 Chandaṃ 456, 458
-<c-362-364-366-368-370-cakkabhedaṃ-448-450-456-chandaṃ-456-458>
+C 362, 364, 366, 368, 370 Cakkabhedaṃ 448, 450, 456 Chandaṃ 456, 458
 Cakkhubhūtā 246, 252 Channā 338 Caccaranissitaṃ 386 Chamāyaṃ 148
 Catukkabhattaṃ 420 Chambhitattaṃ 38, 154 Catutthaṃ jhānaṃ 10, 202,
 Chaḷabhiñño 192, 194 210, 226, 232, 234 Chādetvā 180
@@ -35055,8 +34988,7 @@ Dubbuddhino 450 Thenosi 102, 104, 106 Dubbhāsitaṃ 444, 446
 Theyyasaṅkhātaṃ 102, 104, 106 Dubbhikkho 14, 16, 34, Thometi 322 132,
 144, 192, 376 Dubharatāya 48, 52,
 
-=== D 102, 198, 258 Dakavaṇṇaṃ 260, 264, Dummaṅkūnaṃ 48, 54
-<d-102-198-258-dakavaṇṇaṃ-260-264-dummaṅkūnaṃ-48-54>
+D 102, 198, 258 Dakavaṇṇaṃ 260, 264, Dummaṅkūnaṃ 48, 54
 276, 278, 280, 282 Dummano 42 Dakkho 338 Duranurakkhiyā 382 Dantaponaṃ
 106, 116 Dulladdhaṃ 42, 44, 152, 554 Dabba dabbā 424, 436 Dussaddhāpayā
 484, 490 Davatthāya 260, 264 Dussayugena 26 Dasapade 468, 472
@@ -35205,16 +35137,14 @@ Milakkhassa 66 558, 560, 566, 572 Mihitapubbaṅgamā 468 Bhūtapubbaṃ 18,
 Muṭṭhassati 260 Bhogavāsinī 346, …, 370 Mudupiṭṭhiko 84 Bhogavyasanena
 54 Mudubhūte 10, 12 Muddhappasannā 90, 92
 
-=== M Musalaṃ 174 Makkaṭī 50 Muhuttikā 346, 348, …, 368, 370
-<m-musalaṃ-174-makkaṭī-50-muhuttikā-346-348-368-370>
+M Musalaṃ 174 Makkaṭī 50 Muhuttikā 346, 348, …, 368, 370
 Makkhikāmadhu 610 Muhuttena 42 Maṅkubhūtā 422 Mūlaṭṭhassa 118, 120,
 Majjhekalyāṇaṃ 02 164, 166, 172 Mañcapīṭhabhisibimbohanaṃ 292
 Mūlapaññatti 48, 102 Mañjarikaṃ 466, 472 Methunaṃ 42, 44, …, 492
 
 Phân Tích Giới Tỳ Khưu 1 - Thư Mục Từ Đặc Biệt
 
-=== M R Methunadhammaṃ 66 Rahogatassa 16, 416
-<m-r-methunadhammaṃ-66-rahogatassa-16-416>
+M R Methunadhammaṃ 66 Rahogatassa 16, 416
 Medavaṭṭi 150 Rahosaññī 164, 166 Medhāvī 338 Rāgavirāgāya 44, 46, 258
 Mokkhacikāya 468, 472 Rājabhoggo 548, 550 Mokkhādhippāyo 314 Rāji 600
 Moghapurisa 46, …, 638 Rāhassaṃ 48, 52 Riñcanti 470, 472, 576 Y Rūparasā
@@ -35235,8 +35165,7 @@ Lohamāsako 582, 584 Rasarasā 04 Lohitakā 152, 260, …, 282
 
 Phân Tích Giới Tỳ Khưu 1 - Thư Mục Từ Đặc Biệt
 
-=== V V Vaṭaṃsakaṃ 466, 472 Vijāyeyyaṃ 186
-<v-v-vaṭaṃsakaṃ-466-472-vijāyeyyaṃ-186>
+V V Vaṭaṃsakaṃ 466, 472 Vijāyeyyaṃ 186
 Vatiṃ 112, Vijitaṃ 04 114, 130 Vijjācaraṇasampanno 02 Vaṭṭupacchedāya
 44, 46 Viññattibahulaṃ 374, Vaṇṇavā 42, 194, 256 376, 382, 562 Vattukāmo
 226, Viññāpeti 58, 228, 230 60, 62, 64, 66, Vattuvissārakassa 230 530,
@@ -35259,8 +35188,7 @@ Vijaṭehi 578 Vippaṭipajjanto 434
 
 Phân Tích Giới Tỳ Khưu 1 - Thư Mục Từ Đặc Biệt
 
-=== V V Vippaṭipādesuṃ 92 Viheṭhayissati 522
-<v-v-vippaṭipādesuṃ-92-viheṭhayissati-522>
+V V Vippaṭipādesuṃ 92 Viheṭhayissati 522
 Vippaṭisārī 42, 44, 88, Vītikkamo 162, 260 120, 122, 152, Vītisāretvā 04
 166, 236, 240, 588 Vutto vajjehi 138 Vippavuttha 506, Vutthā 24, 94, 194
 510, 634 Vusitaṃ 12 Vippasannachavivaṇṇo 42, 256 Vejjikāya 478

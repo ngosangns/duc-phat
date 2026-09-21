@@ -1,5 +1,4 @@
 = 125. Kinh Ðiều ngự địa
-<kinh-ðiều-ngự-địa>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Dantabhùmi sutta)]
 
 #divider()

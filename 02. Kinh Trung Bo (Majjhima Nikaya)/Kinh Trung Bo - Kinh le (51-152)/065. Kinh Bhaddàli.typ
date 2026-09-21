@@ -1,5 +1,4 @@
 = 65. Kinh Bhaddàli
-<kinh-bhaddàli>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bhaddàli sutta)]
 
 #divider()

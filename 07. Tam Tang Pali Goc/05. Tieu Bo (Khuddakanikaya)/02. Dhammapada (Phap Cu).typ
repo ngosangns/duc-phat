@@ -1,11 +1,9 @@
 = Mūla Sutta Piṭaka Khuddakanikāyo Dhammapadapāḷi
-<mūla-sutta-piṭaka-khuddakanikāyo-dhammapadapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Khuddakanikāye Dhammapadapāḷi
 
 == 1. Yamakavaggo
-<yamakavaggo>
 + Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena,
   bhāsati vā karoti vā; Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.
 
@@ -79,7 +77,6 @@ Evaṃ abhāvitaṃ cittaṃ, rāgo samativijjhati.
 Yamakavaggo paṭhamo niṭṭhito.
 
 == 2. Appamādavaggo
-<appamādavaggo>
 #block[
 #set enum(numbering: "1.", start: 21)
 + Appamādo amatapadaṃ \[amataṃ padaṃ (ka.)\], pamādo maccuno padaṃ;
@@ -128,7 +125,6 @@ Pabbataṭṭhova bhūmaṭṭhe \[bhummaṭṭhe (sī. syā.)\], dhīro bāle a
 Appamādavaggo dutiyo niṭṭhito.
 
 == 3. Cittavaggo
-<cittavaggo>
 #block[
 #set enum(numbering: "1.", start: 33)
 + Phandanaṃ capalaṃ cittaṃ, dūrakkhaṃ \[durakkhaṃ (sabbattha)\]
@@ -168,7 +164,6 @@ Appamādavaggo dutiyo niṭṭhito.
 Cittavaggo tatiyo niṭṭhito.
 
 == 4. Pupphavaggo
-<pupphavaggo>
 #block[
 #set enum(numbering: "1.", start: 44)
 + Ko imaṃ \[komaṃ (ka.)\] pathaviṃ vicessati \[vijessati (sī. syā.
@@ -228,7 +223,6 @@ Cittavaggo tatiyo niṭṭhito.
 Pupphavaggo catuttho niṭṭhito.
 
 == 5. Bālavaggo
-<bālavaggo>
 #block[
 #set enum(numbering: "1.", start: 60)
 + Dīghā jāgarato ratti, dīghaṃ santassa yojanaṃ; Dīgho bālānaṃ saṃsāro,
@@ -291,7 +285,6 @@ māno ca vaḍḍhati.
 Bālavaggo pañcamo niṭṭhito.
 
 == 6. Paṇḍitavaggo
-<paṇḍitavaggo>
 #block[
 #set enum(numbering: "1.", start: 76)
 + Nidhīnaṃva pavattāraṃ, yaṃ passe vajjadassinaṃ; Niggayhavādiṃ
@@ -343,7 +336,6 @@ Bālavaggo pañcamo niṭṭhito.
 Paṇḍitavaggo chaṭṭho niṭṭhito.
 
 == 7. Arahantavaggo
-<arahantavaggo>
 #block[
 #set enum(numbering: "1.", start: 90)
 + Gataddhino visokassa, vippamuttassa sabbadhi; Sabbaganthappahīnassa,
@@ -381,7 +373,6 @@ Paṇḍitavaggo chaṭṭho niṭṭhito.
 ]
 
 == 8. Sahassavaggo
-<sahassavaggo>
 #block[
 #set enum(numbering: "1.", start: 100)
 + Sahassamapi ce vācā, anatthapadasaṃhitā; Ekaṃ atthapadaṃ seyyo, yaṃ
@@ -442,7 +433,6 @@ Ekaṃ dhammapadaṃ seyyo, yaṃ sutvā upasammati.
 Sahassavaggo aṭṭhamo niṭṭhito.
 
 == 9. Pāpavaggo
-<pāpavaggo>
 #block[
 #set enum(numbering: "1.", start: 116)
 + Abhittharetha kalyāṇe, pāpā cittaṃ nivāraye; Dandhañhi karoto puññaṃ,
@@ -493,7 +483,6 @@ Sahassavaggo aṭṭhamo niṭṭhito.
 Pāpavaggo navamo niṭṭhito.
 
 == 10. Daṇḍavaggo
-<daṇḍavaggo>
 #block[
 #set enum(numbering: "1.", start: 129)
 + Sabbe tasanti daṇḍassa, sabbe bhāyanti maccuno; Attānaṃ upamaṃ katvā,
@@ -558,7 +547,6 @@ Pāpavaggo navamo niṭṭhito.
 Daṇḍavaggo dasamo niṭṭhito.
 
 == 11. Jarāvaggo
-<jarāvaggo>
 #block[
 #set enum(numbering: "1.", start: 146)
 + Ko nu hāso \[kinnu hāso (ka.)\] kimānando, niccaṃ pajjalite sati;
@@ -599,7 +587,6 @@ Daṇḍavaggo dasamo niṭṭhito.
 Jarāvaggo ekādasamo niṭṭhito.
 
 == 12. Attavaggo
-<attavaggo>
 #block[
 #set enum(numbering: "1.", start: 157)
 + Attānañce piyaṃ jaññā, rakkheyya naṃ surakkhitaṃ; Tiṇṇaṃ aññataraṃ
@@ -639,7 +626,6 @@ Jarāvaggo ekādasamo niṭṭhito.
 Attavaggo dvādasamo niṭṭhito.
 
 == 13. Lokavaggo
-<lokavaggo>
 #block[
 #set enum(numbering: "1.", start: 167)
 + Hīnaṃ dhammaṃ na seveyya, pamādena na saṃvase; Micchādiṭṭhiṃ na
@@ -682,7 +668,6 @@ Attavaggo dvādasamo niṭṭhito.
 Lokavaggo terasamo niṭṭhito.
 
 == 14. Buddhavaggo
-<buddhavaggo>
 #block[
 #set enum(numbering: "1.", start: 179)
 + Yassa jitaṃ nāvajīyati, jitaṃ yassa \[jitamassa (sī. syā. pī.), jitaṃ
@@ -747,7 +732,6 @@ Lokavaggo terasamo niṭṭhito.
 Buddhavaggo cuddasamo niṭṭhito.
 
 == 15. Sukhavaggo
-<sukhavaggo>
 #block[
 #set enum(numbering: "1.", start: 197)
 + Susukhaṃ vata jīvāma, verinesu averino; Verinesu manussesu, viharāma
@@ -797,7 +781,6 @@ Buddhavaggo cuddasamo niṭṭhito.
 Sukhavaggo pannarasamo niṭṭhito.
 
 == 16. Piyavaggo
-<piyavaggo>
 #block[
 #set enum(numbering: "1.", start: 209)
 + Ayoge yuñjamattānaṃ, yogasmiñca ayojayaṃ; Atthaṃ hitvā piyaggāhī,
@@ -844,7 +827,6 @@ Sukhavaggo pannarasamo niṭṭhito.
 Piyavaggo soḷasamo niṭṭhito.
 
 == 17. Kodhavaggo
-<kodhavaggo>
 #block[
 #set enum(numbering: "1.", start: 221)
 + Kodhaṃ jahe vippajaheyya mānaṃ, saṃyojanaṃ sabbamatikkameyya; Taṃ
@@ -895,7 +877,6 @@ Manasā saṃvutā dhīrā, te ve suparisaṃvutā.
 Kodhavaggo sattarasamo niṭṭhito.
 
 == 18. Malavaggo
-<malavaggo>
 #block[
 #set enum(numbering: "1.", start: 235)
 + Paṇḍupalāsova dānisi, yamapurisāpi ca te \[taṃ (sī. syā. kaṃ. pī.)\]
@@ -971,7 +952,6 @@ Kodhavaggo sattarasamo niṭṭhito.
 Malavaggo aṭṭhārasamo niṭṭhito.
 
 == 19. Dhammaṭṭhavaggo
-<dhammaṭṭhavaggo>
 #block[
 #set enum(numbering: "1.", start: 256)
 + Na tena hoti dhammaṭṭho, yenatthaṃ sāhasā \[sahasā (sī. syā. ka.)\]
@@ -1034,7 +1014,6 @@ Sa vantadoso medhāvī, ‘‘sādhurūpo''ti vuccati.
 Dhammaṭṭhavaggo ekūnavīsatimo niṭṭhito.
 
 == 20. Maggavaggo
-<maggavaggo>
 #block[
 #set enum(numbering: "1.", start: 273)
 + Maggānaṭṭhaṅgiko seṭṭho, saccānaṃ caturo padā; Virāgo seṭṭho
@@ -1097,7 +1076,6 @@ Dhammaṭṭhavaggo ekūnavīsatimo niṭṭhito.
 Maggavaggo vīsatimo niṭṭhito.
 
 == 21. Pakiṇṇakavaggo
-<pakiṇṇakavaggo>
 #block[
 #set enum(numbering: "1.", start: 290)
 + Mattāsukhapariccāgā, passe ce vipulaṃ sukhaṃ; Caje mattāsukhaṃ dhīro,
@@ -1158,7 +1136,6 @@ gacchanti āsavā.
 Pakiṇṇakavaggo ekavīsatimo niṭṭhito.
 
 == 22. Nirayavaggo
-<nirayavaggo>
 #block[
 #set enum(numbering: "1.", start: 306)
 + Abhūtavādī nirayaṃ upeti, yo vāpi \[yo cāpi (sī. pī. ka.)\] katvā na
@@ -1209,7 +1186,6 @@ Pakiṇṇakavaggo ekavīsatimo niṭṭhito.
 Nirayavaggo dvāvīsatimo niṭṭhito.
 
 == 23. Nāgavaggo
-<nāgavaggo>
 #block[
 #set enum(numbering: "1.", start: 320)
 + Ahaṃ nāgova saṅgāme, cāpato patitaṃ saraṃ; Ativākyaṃ titikkhissaṃ,
@@ -1263,7 +1239,6 @@ Yathāttanā sudantena, danto dantena gacchati.
 Nāgavaggo tevīsatimo niṭṭhito.
 
 == 24. Taṇhāvaggo
-<taṇhāvaggo>
 #block[
 #set enum(numbering: "1.", start: 334)
 + Manujassa pamattacārino, taṇhā vaḍḍhati māluvā viya; So plavatī
@@ -1363,7 +1338,6 @@ hoti mahapphalaṃ.
 Taṇhāvaggo catuvīsatimo niṭṭhito.
 
 == 25. Bhikkhuvaggo
-<bhikkhuvaggo>
 #block[
 #set enum(numbering: "1.", start: 360)
 + Cakkhunā saṃvaro sādhu, sādhu sotena saṃvaro; Ghānena saṃvaro sādhu,
@@ -1450,7 +1424,6 @@ Adhigacche padaṃ santaṃ, saṅkhārūpasamaṃ sukhaṃ.
 Bhikkhuvaggo pañcavīsatimo niṭṭhito.
 
 == 26. Brāhmaṇavaggo
-<brāhmaṇavaggo>
 #block[
 #set enum(numbering: "1.", start: 383)
 + Chinda sotaṃ parakkamma, kāme panuda brāhmaṇa; Saṅkhārānaṃ khayaṃ

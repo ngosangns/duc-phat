@@ -1,5 +1,4 @@
 = 123. Kinh Hy hữu vị tằng hữu pháp
-<kinh-hy-hữu-vị-tằng-hữu-pháp>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Acchariya-abbhùtadhamma
 sutta)]
 

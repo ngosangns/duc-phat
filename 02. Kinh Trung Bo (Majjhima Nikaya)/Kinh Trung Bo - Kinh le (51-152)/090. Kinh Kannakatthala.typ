@@ -1,5 +1,4 @@
 = 90. Kinh Kannakatthala
-<kinh-kannakatthala>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Kannakatthala sutta)]
 
 #divider()

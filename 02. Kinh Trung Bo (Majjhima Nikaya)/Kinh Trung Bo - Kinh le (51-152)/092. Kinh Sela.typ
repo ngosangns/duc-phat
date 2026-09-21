@@ -1,5 +1,4 @@
 = 92. Kinh Sela
-<kinh-sela>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sela sutta)]
 
 #divider()

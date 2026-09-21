@@ -1,5 +1,4 @@
 = 86. Kinh Angulimàla
-<kinh-angulimàla>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Angulimàla sutta)]
 
 #divider()

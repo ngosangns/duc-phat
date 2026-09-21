@@ -1,5 +1,4 @@
 = 133. Kinh Ðại Ca-chiên-diên Nhất dạ hiền giả
-<kinh-ðại-ca-chiên-diên-nhất-dạ-hiền-giả>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \
 #emph[\(Mahàkaccànabhaddekaratta sutta)]
 

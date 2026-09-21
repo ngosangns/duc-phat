@@ -1,5 +1,4 @@
 = 149. Ðại kinh Sáu xứ
-<ðại-kinh-sáu-xứ>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahàsalàyatanika
 sutta)]
 

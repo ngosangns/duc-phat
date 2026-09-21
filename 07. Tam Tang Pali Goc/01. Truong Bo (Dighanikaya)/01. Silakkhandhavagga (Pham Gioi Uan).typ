@@ -1,11 +1,9 @@
 = Mūla Sutta Piṭaka Dīghanikāyo Sīlakkhandhavaggapāḷi
-<mūla-sutta-piṭaka-dīghanikāyo-sīlakkhandhavaggapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Dīghanikāyo Sīlakkhandhavaggapāḷi
 
 === 1. Brahmajālasuttaṃ Paribbājakakathā
-<brahmajālasuttaṃ-paribbājakakathā>
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā antarā ca rājagahaṃ antarā ca
   nāḷandaṃ addhānamaggappaṭipanno hoti mahatā bhikkhusaṅghena saddhiṃ
   pañcamattehi bhikkhusatehi. Suppiyopi kho paribbājako antarā ca
@@ -1539,7 +1537,6 @@ naṃ dakkhanti devamanussā''ti.
 Brahmajālasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 
 === 2. Sāmaññaphalasuttaṃ Rājāmaccakathā
-<sāmaññaphalasuttaṃ-rājāmaccakathā>
 #block[
 #set enum(numbering: "1.", start: 150)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati jīvakassa
@@ -2906,7 +2903,6 @@ Ajātasattuupāsakattapaṭivedanā
 Sāmaññaphalasuttaṃ niṭṭhitaṃ dutiyaṃ.
 
 === 3. Ambaṭṭhasuttaṃ
-<ambaṭṭhasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 254)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā
@@ -3706,7 +3702,6 @@ sukhāyā''ti. ‘‘Kalyāṇaṃ vuccati, brāhmaṇā''ti.
 Ambaṭṭhasuttaṃ niṭṭhitaṃ tatiyaṃ.
 
 === 4. Soṇadaṇḍasuttaṃ Campeyyakabrāhmaṇagahapatikā
-<soṇadaṇḍasuttaṃ-campeyyakabrāhmaṇagahapatikā>
 #block[
 #set enum(numbering: "1.", start: 300)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā aṅgesu cārikaṃ caramāno mahatā
@@ -4230,7 +4225,6 @@ Soṇadaṇḍaupāsakattapaṭivedanā
 Soṇadaṇḍasuttaṃ niṭṭhitaṃ catutthaṃ.
 
 === 5. Kūṭadantasuttaṃ Khāṇumatakabrāhmaṇagahapatikā
-<kūṭadantasuttaṃ-khāṇumatakabrāhmaṇagahapatikā>
 #block[
 #set enum(numbering: "1.", start: 323)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā magadhesu cārikaṃ caramāno
@@ -5020,7 +5014,6 @@ sampahaṃsetvā uṭṭhāyāsanā pakkāmīti.
 Kūṭadantasuttaṃ niṭṭhitaṃ pañcamaṃ.
 
 === 6. Mahālisuttaṃ Brāhmaṇadūtavatthu
-<mahālisuttaṃ-brāhmaṇadūtavatthu>
 #block[
 #set enum(numbering: "1.", start: 359)
 + Evaṃ me sutaṃ -- uekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane
@@ -5309,7 +5302,6 @@ oṭṭhaddho licchavī bhagavato bhāsitaṃ abhinandīti.
 Mahālisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 === 7. Jāliyasuttaṃ Dvepabbajitavatthu
-<jāliyasuttaṃ-dvepabbajitavatthu>
 #block[
 #set enum(numbering: "1.", start: 378)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme.
@@ -5362,7 +5354,6 @@ Mahālisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 Jāliyasuttaṃ niṭṭhitaṃ sattamaṃ.
 
 === 8. Mahāsīhanādasuttaṃ Acelakassapavatthu
-<mahāsīhanādasuttaṃ-acelakassapavatthu>
 #block[
 #set enum(numbering: "1.", start: 381)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā uruññāyaṃ \[ujuññāyaṃ (sī. syā.
@@ -5851,7 +5842,6 @@ arahataṃ ahosīti.
 Mahāsīhanādasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 
 === 9. Poṭṭhapādasuttaṃ Poṭṭhapādaparibbājakavatthu
-<poṭṭhapādasuttaṃ-poṭṭhapādaparibbājakavatthu>
 #block[
 #set enum(numbering: "1.", start: 406)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -6600,7 +6590,6 @@ labheyyaṃ upasampada''nti.
 Poṭṭhapādasuttaṃ niṭṭhitaṃ navamaṃ.
 
 === 10. Subhasuttaṃ Subhamāṇavavatthu
-<subhasuttaṃ-subhamāṇavavatthu>
 #block[
 #set enum(numbering: "1.", start: 444)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ āyasmā ānando sāvatthiyaṃ viharati
@@ -7194,7 +7183,6 @@ gotamaṃ saraṇaṃ gacchāmi dhammañca bhikkhusaṅghañca. Upāsakaṃ ma�
 Subhasuttaṃ niṭṭhitaṃ dasamaṃ.
 
 === 11. Kevaṭṭasuttaṃ Kevaṭṭagahapatiputtavatthu
-<kevaṭṭasuttaṃ-kevaṭṭagahapatiputtavatthu>
 #block[
 #set enum(numbering: "1.", start: 481)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā nāḷandāyaṃ viharati
@@ -7533,7 +7521,6 @@ asesaṃ uparujjhati; Viññāṇassa nirodhena, etthetaṃ uparujjhatī'ti.
 Kevaṭṭasuttaṃ niṭṭhitaṃ ekādasamaṃ.
 
 === 12. Lohiccasuttaṃ Lohiccabrāhmaṇavatthu
-<lohiccasuttaṃ-lohiccabrāhmaṇavatthu>
 #block[
 #set enum(numbering: "1.", start: 501)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā
@@ -7817,7 +7804,6 @@ codanā abhūtā atacchā adhammikā sāvajjā''ti.
 Lohiccasuttaṃ niṭṭhitaṃ dvādasamaṃ.
 
 === 13. Tevijjasuttaṃ
-<tevijjasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 518)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā

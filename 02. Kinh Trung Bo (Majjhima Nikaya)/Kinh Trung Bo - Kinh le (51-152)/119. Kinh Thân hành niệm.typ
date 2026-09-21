@@ -1,5 +1,4 @@
 = 119. Kinh Thân hành niệm
-<kinh-thân-hành-niệm>
 #strong[Trung Bộ Kinh#emph[Majjhima Nikaya]] \ #emph[\(Kàyagatàsati
 sutta)]
 

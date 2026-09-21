@@ -1,5 +1,4 @@
 = Mūla Sutta Piṭaka Khuddakanikāyo Buddhavaṃsapāḷi
-<mūla-sutta-piṭaka-khuddakanikāyo-buddhavaṃsapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Khuddakanikāye Buddhavaṃsapāḷi

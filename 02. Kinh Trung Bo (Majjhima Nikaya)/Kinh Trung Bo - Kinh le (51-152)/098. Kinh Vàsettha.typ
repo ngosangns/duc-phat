@@ -1,5 +1,4 @@
 = 98. Kinh Vàsettha
-<kinh-vàsettha>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Vàsettha sutta)]
 
 #divider()

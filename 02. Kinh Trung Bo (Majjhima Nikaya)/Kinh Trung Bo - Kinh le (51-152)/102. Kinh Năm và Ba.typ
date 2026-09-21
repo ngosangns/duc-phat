@@ -1,5 +1,4 @@
 = 102. Kinh Năm và Ba
-<kinh-năm-và-ba>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Pancattaya sutta)]
 
 #divider()

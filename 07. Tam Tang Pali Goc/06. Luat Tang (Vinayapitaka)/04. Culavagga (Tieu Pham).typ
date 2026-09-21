@@ -1,5 +1,4 @@
 = Mūla Vinaya Piṭaka Cūḷavaggapāḷi
-<mūla-vinaya-piṭaka-cūḷavaggapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Vinayapiṭake Cūḷavaggapāḷi

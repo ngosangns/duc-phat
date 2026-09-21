@@ -1,5 +1,4 @@
 = 113. Kinh Chân nhân
-<kinh-chân-nhân>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sappurisa sutta)]
 
 #divider()

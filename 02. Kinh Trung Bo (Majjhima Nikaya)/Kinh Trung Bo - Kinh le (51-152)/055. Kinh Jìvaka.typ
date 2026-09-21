@@ -1,5 +1,4 @@
 = 55. Kinh Jìvaka
-<kinh-jìvaka>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Jìvaka sutta)]
 
 #divider()

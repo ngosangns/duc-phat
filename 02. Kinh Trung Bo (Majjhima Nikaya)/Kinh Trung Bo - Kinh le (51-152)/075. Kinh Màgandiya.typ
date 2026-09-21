@@ -1,5 +1,4 @@
 = 75. Kinh Màgandiya
-<kinh-màgandiya>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Màgandiya sutta)]
 
 #divider()
@@ -470,7 +469,6 @@ Bodhi dịch, 1995).]
 #strong[Majjhima Nikaya 75]
 
 == Magandiya Sutta \ 
-<magandiya-sutta>
 To Magandiya
 
 \(excerpt)

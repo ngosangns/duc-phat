@@ -1,13 +1,10 @@
 = Mūla Sutta Piṭaka Majjhimanikāyo Majjhimapaṇṇāsapāḷi
-<mūla-sutta-piṭaka-majjhimanikāyo-majjhimapaṇṇāsapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Majjhimanikāye Majjhimapaṇṇāsapāḷi
 
 == 1. Gahapativaggo
-<gahapativaggo>
 === 1. Kandarakasuttaṃ
-<kandarakasuttaṃ>
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā campāyaṃ viharati gaggarāya
   pokkharaṇiyā tīre mahatā bhikkhusaṅghena saddhiṃ. Atha kho pesso
   \[peyo (ka.)\] ca hatthārohaputto kandarako ca paribbājako yena
@@ -393,7 +390,6 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 Kandarakasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 
 === 2. Aṭṭhakanāgarasuttaṃ
-<aṭṭhakanāgarasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 17)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ āyasmā ānando vesāliyaṃ viharati
@@ -536,7 +532,6 @@ acchādesi, āyasmantañca ānandaṃ ticīvarena acchādesi, āyasmato ca
 Aṭṭhakanāgarasuttaṃ niṭṭhitaṃ dutiyaṃ.
 
 === 3. Sekhasuttaṃ
-<sekhasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 22)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sakkesu viharati
@@ -752,7 +747,6 @@ sakyā āyasmato ānandassa bhāsitaṃ abhinandunti.
 Sekhasuttaṃ niṭṭhitaṃ tatiyaṃ.
 
 === 4. Potaliyasuttaṃ
-<potaliyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 31)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā aṅguttarāpesu viharati āpaṇaṃ
@@ -1120,7 +1114,6 @@ bhagavā dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata''nti.
 Potaliyasuttaṃ niṭṭhitaṃ catutthaṃ.
 
 === 5. Jīvakasuttaṃ
-<jīvakasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 51)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati jīvakassa
@@ -1246,7 +1239,6 @@ pāṇupetaṃ saraṇaṃ gata''nti.
 Jīvakasuttaṃ niṭṭhitaṃ pañcamaṃ.
 
 === 6. Upālisuttaṃ
-<upālisuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 56)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā nāḷandāyaṃ viharati
@@ -1873,7 +1865,6 @@ tassa sāvakohamasmī''ti.
 Upālisuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 === 7. Kukkuravatikasuttaṃ
-<kukkuravatikasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 78)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā koliyesu viharati haliddavasanaṃ
@@ -2049,7 +2040,6 @@ panāyasmā seniyo arahataṃ ahosīti.
 Kukkuravatikasuttaṃ niṭṭhitaṃ sattamaṃ.
 
 === 8. Abhayarājakumārasuttaṃ
-<abhayarājakumārasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 83)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane
@@ -2191,7 +2181,6 @@ bhante, abhikkantaṃ, bhante…pe… ajjatagge pāṇupetaṃ saraṇaṃ gata'
 Abhayarājakumārasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 
 === 9. Bahuvedanīyasuttaṃ
-<bahuvedanīyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 88)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -2337,7 +2326,6 @@ abhinandīti.
 Bahuvedanīyasuttaṃ niṭṭhitaṃ navamaṃ.
 
 === 10. Apaṇṇakasuttaṃ
-<apaṇṇakasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 92)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā
@@ -2826,9 +2814,7 @@ Kandaranāgarasekhavato ca, potaliyo puna jīvakabhacco; Upālidamatho
 kukkuraabhayo, bahuvedanīyāpaṇṇakato dasamo.
 
 == 2. Bhikkhuvaggo
-<bhikkhuvaggo>
 === 1. Ambalaṭṭhikarāhulovādasuttaṃ
-<ambalaṭṭhikarāhulovādasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 107)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane
@@ -3067,7 +3053,6 @@ abhinandīti.
 Ambalaṭṭhikarāhulovādasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 
 === 2. Mahārāhulovādasuttaṃ
-<mahārāhulovādasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 113)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -3268,7 +3253,6 @@ abhinandīti.
 Mahārāhulovādasuttaṃ niṭṭhitaṃ dutiyaṃ.
 
 === 3. Cūḷamālukyasuttaṃ
-<cūḷamālukyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 122)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -3468,7 +3452,6 @@ abhinandīti.
 Cūḷamālukyasuttaṃ niṭṭhitaṃ tatiyaṃ.
 
 === 4. Mahāmālukyasuttaṃ
-<mahāmālukyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 129)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -3650,7 +3633,6 @@ abhinandīti.
 Mahāmālukyasuttaṃ niṭṭhitaṃ catutthaṃ.
 
 === 5. Bhaddālisuttaṃ
-<bhaddālisuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 134)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -4022,7 +4004,6 @@ abhinandīti.
 Bhaddālisuttaṃ niṭṭhitaṃ pañcamaṃ.
 
 === 6. Laṭukikopamasuttaṃ
-<laṭukikopamasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 148)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā aṅguttarāpesu viharati āpaṇaṃ
@@ -4332,7 +4313,6 @@ Idamavoca bhagavā. Attamano āyasmā udāyī bhagavato bhāsitaṃ abhinandīti
 Laṭukikopamasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 === 7. Cātumasuttaṃ
-<cātumasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 157)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā cātumāyaṃ viharati āmalakīvane.
@@ -4544,7 +4524,6 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 Cātumasuttaṃ niṭṭhitaṃ sattamaṃ.
 
 === 8. Naḷakapānasuttaṃ
-<naḷakapānasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 166)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu viharati naḷakapāne
@@ -4806,7 +4785,6 @@ abhinandīti.
 Naḷakapānasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 
 === 9. Goliyānisuttaṃ
-<goliyānisuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 173)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane
@@ -4965,7 +4943,6 @@ vattitabbā pageva gāmantavihārinā''ti.
 Goliyānisuttaṃ niṭṭhitaṃ navamaṃ.
 
 === 10. Kīṭāgirisuttaṃ
-<kīṭāgirisuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 174)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kāsīsu cārikaṃ carati mahatā
@@ -5293,9 +5270,7 @@ Kuñjara-rāhula-sassataloko, mālukyaputto ca bhaddāli-nāmo;
 Khudda-dijātha-sahampatiyācaṃ, nāḷaka-raññikiṭāgirināmo.
 
 == 3. Paribbājakavaggo
-<paribbājakavaggo>
 === 1. Tevijjavacchasuttaṃ
-<tevijjavacchasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 185)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā vesāliyaṃ viharati mahāvane
@@ -5378,7 +5353,6 @@ abhinandīti.
 Tevijjavacchasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 
 === 2. Aggivacchasuttaṃ
-<aggivacchasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 187)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -5618,7 +5592,6 @@ pāṇupetaṃ saraṇaṃ gata''nti.
 Aggivacchasuttaṃ niṭṭhitaṃ dutiyaṃ.
 
 === 3. Mahāvacchasuttaṃ
-<mahāvacchasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 193)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane
@@ -5916,7 +5889,6 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 Mahāvacchasuttaṃ niṭṭhitaṃ tatiyaṃ.
 
 === 4. Dīghanakhasuttaṃ
-<dīghanakhasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 201)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati gijjhakūṭe
@@ -6056,7 +6028,6 @@ vivadati, yañca loke vuttaṃ tena voharati, aparāmasa''nti.
 Dīghanakhasuttaṃ niṭṭhitaṃ catutthaṃ.
 
 === 5. Māgaṇḍiyasuttaṃ
-<māgaṇḍiyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 207)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kurūsu viharati kammāsadhammaṃ
@@ -6461,7 +6432,6 @@ arahataṃ ahosīti.
 Māgaṇḍiyasuttaṃ niṭṭhitaṃ pañcamaṃ.
 
 === 6. Sandakasuttaṃ
-<sandakasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 223)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosambiyaṃ viharati ghositārāme.
@@ -6931,7 +6901,6 @@ sammadaññā vimutto abhabbo so imāni pañcaṭṭhānāni ajjhācaritu''nti.
 Sandakasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 === 7. Mahāsakuludāyisuttaṃ
-<mahāsakuludāyisuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 237)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane
@@ -7649,7 +7618,6 @@ abhinandīti.
 Mahāsakuludāyisuttaṃ niṭṭhitaṃ sattamaṃ.
 
 === 8. Samaṇamuṇḍikasuttaṃ
-<samaṇamuṇḍikasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 260)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -7903,7 +7871,6 @@ abhinandīti.
 Samaṇamuṇḍikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 
 === 9. Cūḷasakuludāyisuttaṃ
-<cūḷasakuludāyisuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 269)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane
@@ -8270,7 +8237,6 @@ antarāyamakāsi bhagavati brahmacariyeti.
 Cūḷasakuludāyisuttaṃ niṭṭhitaṃ navamaṃ.
 
 === 10. Vekhanasasuttaṃ
-<vekhanasasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 278)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -8433,9 +8399,7 @@ Puṇḍarī-aggisaha-kathināmo, dīghanakho puna bhāradvājagotto;
 Sandakaudāyimuṇḍikaputto, maṇiko tathākaccāno varavaggo.
 
 == 4. Rājavaggo
-<rājavaggo>
 === 1. Ghaṭikārasuttaṃ
-<ghaṭikārasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 282)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā
@@ -8743,7 +8707,6 @@ abhinandīti.
 Ghaṭikārasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 
 === 2. Raṭṭhapālasuttaṃ
-<raṭṭhapālasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 293)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kurūsu cārikaṃ caramāno mahatā
@@ -9332,7 +9295,6 @@ rāja, Apaṇṇakaṃ sāmaññameva seyyo''ti.
 Raṭṭhapālasuttaṃ niṭṭhitaṃ dutiyaṃ.
 
 === 3. Maghadevasuttaṃ
-<maghadevasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 308)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā mithilāyaṃ viharati
@@ -9624,7 +9586,6 @@ abhinandīti.
 Maghadevasuttaṃ niṭṭhitaṃ tatiyaṃ.
 
 === 4. Madhurasuttaṃ
-<madhurasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 317)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ āyasmā mahākaccāno madhurāyaṃ viharati
@@ -9861,7 +9822,6 @@ pāṇupetaṃ saraṇaṃ gata''nti.
 Madhurasuttaṃ niṭṭhitaṃ catutthaṃ.
 
 === 5. Bodhirājakumārasuttaṃ
-<bodhirājakumārasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 324)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā bhaggesu viharati susumāragire
@@ -10671,7 +10631,6 @@ adhigamissatī''ti!
 Bodhirājakumārasuttaṃ niṭṭhitaṃ pañcamaṃ.
 
 === 6. Aṅgulimālasuttaṃ
-<aṅgulimālasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 347)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -10933,7 +10892,6 @@ kataṃ buddhassa sāsana''ntntti.
 Aṅgulimālasuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 === 7. Piyajātikasuttaṃ
-<piyajātikasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 353)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -11130,7 +11088,6 @@ tassa bhagavato arahato sammāsambuddhassā''ti.
 Piyajātikasuttaṃ niṭṭhitaṃ sattamaṃ.
 
 === 8. Bāhitikasuttaṃ
-<bāhitikasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 358)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -11338,7 +11295,6 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 Bāhitikasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 
 === 9. Dhammacetiyasuttaṃ
-<dhammacetiyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 364)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sakkesu viharati medāḷupaṃ
@@ -11565,7 +11521,6 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 Dhammacetiyasuttaṃ niṭṭhitaṃ navamaṃ.
 
 === 10. Kaṇṇakatthalasuttaṃ
-<kaṇṇakatthalasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 375)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā uruññāyaṃ \[ujuññāyaṃ (sī. pī.),
@@ -11807,9 +11762,7 @@ Ghaṭikāro raṭṭhapālo, maghadevo madhuriyaṃ; Bodhi aṅgulimālo ca,
 piyajātaṃ bāhitikaṃ; Dhammacetiyasuttañca, dasamaṃ kaṇṇakatthalaṃ.
 
 == 5. Brāhmaṇavaggo
-<brāhmaṇavaggo>
 === 1. Brahmāyusuttaṃ
-<brahmāyusuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 383)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā videhesu cārikaṃ carati mahatā
@@ -12298,7 +12251,6 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 Brahmāyusuttaṃ niṭṭhitaṃ paṭhamaṃ.
 
 === 2. Selasuttaṃ
-<selasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 396)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā aṅguttarāpesu cārikaṃ caramāno
@@ -12554,7 +12506,6 @@ vandantu satthuno''ti.
 Selasuttaṃ niṭṭhitaṃ dutiyaṃ.
 
 === 3. Assalāyanasuttaṃ
-<assalāyanasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 401)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -12895,7 +12846,6 @@ saraṇaṃ gata''nti.
 Assalāyanasuttaṃ niṭṭhitaṃ tatiyaṃ.
 
 === 4. Ghoṭamukhasuttaṃ
-<ghoṭamukhasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 412)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ āyasmā udeno bārāṇasiyaṃ viharati
@@ -13293,7 +13243,6 @@ upaṭṭhānasālaṃ kārāpesi. Sā etarahi ‘ghoṭamukhī'ti vuccatīti.
 Ghoṭamukhasuttaṃ niṭṭhitaṃ catutthaṃ.
 
 === 5. Caṅkīsuttaṃ
-<caṅkīsuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 422)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu cārikaṃ caramāno mahatā
@@ -13714,7 +13663,6 @@ dhāretu ajjatagge pāṇupetaṃ saraṇaṃ gata''nti.
 Caṅkīsuttaṃ niṭṭhitaṃ pañcamaṃ.
 
 === 6. Esukārīsuttaṃ
-<esukārīsuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 436)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -13965,7 +13913,6 @@ ajjatagge pāṇupetaṃ saraṇaṃ gata''nti.
 Esukārīsuttaṃ niṭṭhitaṃ chaṭṭhaṃ.
 
 === 7. Dhanañjānisuttaṃ
-<dhanañjānisuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 445)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā rājagahe viharati veḷuvane
@@ -14346,7 +14293,6 @@ sahabyatāya maggo''.
 Dhanañjānisuttaṃ niṭṭhitaṃ sattamaṃ.
 
 === 8. Vāseṭṭhasuttaṃ
-<vāseṭṭhasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 454)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā icchānaṅgale \[icchānaṅkale (sī.
@@ -14608,7 +14554,6 @@ brahmā sakko vijānata''nti.
 Vāseṭṭhasuttaṃ niṭṭhitaṃ aṭṭhamaṃ.
 
 === 9. Subhasuttaṃ
-<subhasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 462)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
@@ -15032,7 +14977,6 @@ kosalassa yassa vijite tathāgato viharati arahaṃ sammāsambuddho''ti.
 Subhasuttaṃ niṭṭhitaṃ navamaṃ.
 
 === 10. Saṅgāravasuttaṃ
-<saṅgāravasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 473)
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā kosalesu cārikaṃ carati mahatā

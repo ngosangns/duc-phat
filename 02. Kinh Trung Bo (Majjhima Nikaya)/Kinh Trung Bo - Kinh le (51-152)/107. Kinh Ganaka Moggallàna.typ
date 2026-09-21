@@ -1,5 +1,4 @@
 = 107. Kinh Ganaka Moggallàna
-<kinh-ganaka-moggallàna>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Ganakamoggallàna
 sutta)]
 

@@ -1,5 +1,4 @@
 = 138. Kinh Tổng thuyết và Biệt thuyết
-<kinh-tổng-thuyết-và-biệt-thuyết>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Uddesavibhanga sutta)]
 
 #divider()

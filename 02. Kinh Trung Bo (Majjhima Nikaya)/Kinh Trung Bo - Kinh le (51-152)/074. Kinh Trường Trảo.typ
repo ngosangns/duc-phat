@@ -1,5 +1,4 @@
 = 74. Kinh Trường Trảo
-<kinh-trường-trảo>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Dìghanakha sutta)]
 
 #divider()

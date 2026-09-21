@@ -1,5 +1,4 @@
 = 109. Ðại kinh Mãn nguyệt
-<ðại-kinh-mãn-nguyệt>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahàpunnama sutta)]
 
 #divider()

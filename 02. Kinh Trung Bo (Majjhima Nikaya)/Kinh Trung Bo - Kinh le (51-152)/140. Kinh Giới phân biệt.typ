@@ -1,5 +1,4 @@
 = 140. Kinh Giới phân biệt
-<kinh-giới-phân-biệt>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Dhàtuvibhanga sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = 115. Kinh Ða giới
-<kinh-ða-giới>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bahudhàtuka sutta)]
 
 #divider()

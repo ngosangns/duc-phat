@@ -1,5 +1,4 @@
 = 146. Kinh Giáo giới Nandaka
-<kinh-giáo-giới-nandaka>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Nandakovàda sutta)]
 
 #divider()

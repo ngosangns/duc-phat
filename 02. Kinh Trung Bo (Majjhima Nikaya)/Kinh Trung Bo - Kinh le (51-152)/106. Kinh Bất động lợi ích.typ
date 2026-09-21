@@ -1,5 +1,4 @@
 = 106. Kinh Bất động lợi ích
-<kinh-bất-động-lợi-ích>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Anenjasappàya sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = Luật Tạng (Vinaya Piṭaka) --- Tập 02: Phân Tích Giới Tỳ Khưu II (Pācittiya)
-<luật-tạng-vinaya-piṭaka-tập-02-phân-tích-giới-tỳ-khưu-ii-pācittiya>
 TAM TẠNG SONG NGỮ PĀLI - VIỆT
 
 VESAK 2550
@@ -8,25 +7,6 @@ Buddhist Cultural Centre 125 Anderson Road, Nedimala, Dehivala, Sri
 Lanka Sabbadānaṃ dhammadānaṃ jināti. Sự bố thí Pháp vượt trên tất cả các
 sự bố thí.
 
-Thí Chủ: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Dâng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Ước Nguyện: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-Hồi hướng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 TAM TẠNG SONG NGỮ PĀLI - VIỆT - TẬP 02
 
 VINAYAPITAKE
@@ -42,7 +22,6 @@ BỘ PĀCITTIYA
 PHÂN TÍCH GIỚI TỲ KHƯU
 
 == TẬP HAI
-<tập-hai>
 PHẬT LỊCH 2553 DƯƠNG LỊCH 2009 In lần thứ nhất: PL 2553 - DL 2009 Số
 Lượng 600 cuốn
 
@@ -57,37 +36,7 @@ Website www.buddhistcc.com
 Printed by: Ajith Printers 85/4 Old Kesbewa Road Gangodawila, Nugegoda
 Sri Lanka. Tel: 94-11-2517269
 
-MỤC LỤC TỔNG QUÁT
-
-Mục Lục Tổng Quát iii
-
-Lời Tựa - Sinhala và Việt ngữ v - xiv
-
-Văn Bản của Bộ Tôn Giáo - Anh và Việt ngữ xv - xvi
-
-Thành Phần Nhân Sự xvii
-
-Lược Đồ Tam Tạng xviii - xix
-
-Lời Giới Thiệu xxiii - xxv
-
-Các Chữ Viết Tắt xxvii
-
-Mẫu Tự Pāḷi - Sinhala xxviii - xxix
-
-Mục Lục Phân Tích Giới Tỳ Khưu - Tập Hai xxxi - xxxvi
-
-Văn Bản Pāḷi và Văn Bản Tiếng Việt 02 - 559
-
-Phần Phụ Chú 561 - 563
-
-Thư Mục Câu Kệ Pāḷi 565
-
-Thư Mục Danh Từ Riêng 567 - 569
-
-Thư Mục Từ Đặc Biệt 570 - 579
-
-Phương Danh Thí Chủ 581 - 585
+#outline(title: [Mục lục])
 
 #divider()
 
@@ -97,7 +46,7 @@ paṭicchanno.”
 “Này các tỳ khưu, Pháp và Luật đã được công bố bởi đức Như Lai là bộc
 lộ, chói sáng, không che giấu.”
 
--
+#divider()
 
 \(Aṅguttaranikāya Tikanipātapāḷi Kusinaravagga Paṭichannasutta,
 Parivārapāḷi Ekuttarikanaya Tikavāra - Bộ Tăng Chi, Chương Ba Pháp, Phẩm
@@ -463,8 +412,7 @@ niệm Buddha Jayanthi lần thứ 2550 là chính xác về phần Pali văn. P
 Pali văn được phiên âm sang mẫu tự Roman có giá trị tương đương về nội
 dung so với văn bản gốc bằng mẫu tự Sinhala.
 
-=== B. N. Jinasena Thư Ký Chánh văn phòng
-<b.-n.-jinasena-thư-ký-chánh-văn-phòng>
+B. N. Jinasena Thư Ký Chánh văn phòng
 Địa Chỉ: 115 Wijerama Mawatha, Colombo 07, Sri Lanka Office:
 94-11-2690896 Fax: 94-11-2690897 Deputy Minister: 94-11-5375128,
 94-11-2690898 Secretary: 94-11-2690736
@@ -485,7 +433,7 @@ Nandana Tipiṭaka Dhammāyatana Malegoḍa, Payāgala - Sri Lanka
 CỐ VẤN VI TÍNH: Ven. Mettāvihārī (Đan Mạch) Ban điều hành Mettānet
 Foundation
 
--
+#divider()
 
 ĐIỀU HÀNH TỔNG QUÁT: Tỳ Khưu Indacanda
 
@@ -503,10 +451,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 
 Pārājikapāḷi Phân Tích Giới Tỳ Khưu I 01
 
-=== V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
-<v-pācittiyapāḷi-bhikkhu-phân-tích-giới-tỳ-khưu-ii-02>
-=== I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
-<i-l-pācittiyapāḷi-bhikkhunī-phân-tích-giới-tỳ-khưu-ni-03-n-u-mahāvaggapāḷi-i-đại-phẩm-i-04>
+V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
+I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
 A Ậ Mahāvaggapāḷi II Đại Phẩm II 05 Y T Cullavaggapāḷi I Tiểu Phẩm I 06
 A Cullavaggapāḷi II Tiểu Phẩm II 07 Parivārapāḷi I Tập Yếu I 08
 Parivārapāḷi II Tập Yếu II 09
@@ -530,10 +476,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 K Khuddakapāṭha Tiểu Tụng 28 H Dhammapadapāḷi Pháp Cú - U Udānapāḷi Phật
 Tự Thuyết -
 
-=== D Itivuttakapāḷi Phật Thuyết Như Vậy -
-<d-itivuttakapāḷi-phật-thuyết-như-vậy-->
-=== D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
-<d-suttanipātapāḷi-kinh-tập-29-a-vimānavatthupāḷi-chuyện-thiên-cung-30>
+D Itivuttakapāḷi Phật Thuyết Như Vậy -
+D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
 K Petavatthupāḷi Chuyện Ngạ Quỷ - S A Theragathāpāḷi Trưởng Lão Kệ 31 U
 N Therīgāthāpāḷi Trưởng Lão Ni Kệ - T K I Jātakapāḷi I Bổn Sanh I 32 T I
 K Jātakapāḷi II Bổn Sanh II 33 A N Ā Jātakapāḷi III Bổn Sanh III 34 N H
@@ -542,27 +486,21 @@ Paṭisambhidāmagga I Phân Tích Đạo I 37 \* Paṭisambhidāmagga II Phân 
 Đạo II 38 Apadānapāḷi I Thánh Nhân Ký Sự I 39 T Apadānapāḷi II Thánh
 Nhân Ký Sự II 40
 
-=== I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
-<i-apadānapāḷi-iii-thánh-nhân-ký-sự-iii-41-ể-buddhavaṃsapāḷi-phật-sử-42>
+I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
 U Cariyāpiṭakapāḷi Hạnh Tạng - Nettipakaraṇa (chưa dịch) 43 B
 Peṭakopadesa (chưa dịch) 44 Ộ Milindapañhāpāḷi Mi Tiên Vấn Đáp 45
 
 Dhammasaṅganipakaraṇa Bộ Pháp Tụ 46
 
-=== V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
-<v-vibhaṅgapakaraṇa-i-bộ-phân-tích-i-47-a-i-vibhaṅgapakaraṇa-ii-bộ-phân-tích-ii-48>
+V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
 B Kathāvatthu I Bộ Ngữ Tông I 49 H D Kathāvatthu II Bộ Ngữ Tông II 50
 
-=== I I Kathāvatthu III Bộ Ngữ Tông III 51
-<i-i-kathāvatthu-iii-bộ-ngữ-tông-iii-51>
-=== D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
-<d-ệ-dhātukathā-bộ-chất-ngữ---h-u-puggalapaññattipāḷi-bộ-nhân-chế-định-52>
+I I Kathāvatthu III Bộ Ngữ Tông III 51
+D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
 A Yamakapakaraṇa I Bộ Song Đối I 53
 
-=== M P Yamakapakaraṇa II Bộ Song Đối II 54
-<m-p-yamakapakaraṇa-ii-bộ-song-đối-ii-54>
-=== M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
-<m-h-yamakapakaraṇa-iii-bộ-song-đối-iii-55-a-á-patthānapakaraṇa-i-bộ-vị-trí-i-56>
+M P Yamakapakaraṇa II Bộ Song Đối II 54
+M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
 P Patthānapakaraṇa II Bộ Vị Trí II 57 Patthānapakaraṇa III Bộ Vị Trí III
 58
 
@@ -578,8 +516,9 @@ BỘ PĀCITTIYA
 
 PHÂN TÍCH GIỚI TỲ KHƯU
 
-== TẬP HAI Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
-<tập-hai-tāni-ca-sutte-otāriyamānāni-vinaye-sandassiyamānāni-sutte-ceva-otaranti-vinaye-ca-sandissanti-niṭṭham-ettha-gantabbaṃ-addhā-idaṃ>
+== TẬP HAI
+
+Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
 tassa bhagavato vacanaṃ, tassa ca therassa suggahitan'ti.
 
 \(Dīghanikāya II, Mahāparinibbānasutta).
@@ -590,7 +529,9 @@ Kinh, cần được xem xét ở Luật, và chỉ khi nào chúng hiện diệ
 chắc chắn là lời giảng dạy của đức Thế Tôn và đã được vị trưởng lão ấy
 tiếp thâu đúng đắn.
 
-\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn). LỜI GIỚI THIỆU
+\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn).
+
+== Lời giới thiệu
 
 #divider()
 
@@ -599,11 +540,11 @@ Tạng Luật (Vinayapiṭaka) được chia làm 3 phần chính là Suttavibha
 đó Suttavibhaṅga (Phân Tích Giới Bổn) gồm có hai bộ là Pārājikapāḷi và
 Pācittiyapāḷi. Suttavibhaṅga sẽ được in làm ba tập:
 
-- Pārājikapāḷi được in thành một tập tức là Phân Tích Giới Tỳ Khưu tập
+-- Pārājikapāḷi được in thành một tập tức là Phân Tích Giới Tỳ Khưu tập
   1, ký hiệu là TTPV tập 01 (TTPV là từ viết tắt của Tam Tạng Song Ngữ
   Pāḷi - Việt).
 
-- Pācittiyapāḷi được in thành hai tập là Phân Tích Giới Tỳ Khưu tập 2
+-- Pācittiyapāḷi được in thành hai tập là Phân Tích Giới Tỳ Khưu tập 2
   (TTPV tập 02), và Phân Tích Giới Tỳ Khưu Ni (TTPV tập 03).
 
 Hai tập Phân Tích Giới Tỳ Khưu tập 1 và Phân Tích Giới Tỳ Khưu tập 2
@@ -626,7 +567,7 @@ theo lời yêu cầu của đức vua Parakkamabāhu I (1153-
 
 1186).
 
--
+#divider()
 
 Cũng cần nói thêm là văn bản Pāḷi - Roman trình bày ở đây đã được phiên
 âm từ Tam Tạng ghi chép bằng mẫu tự Pāḷi -- Sinhala thuộc ấn bản Buddha
@@ -729,8 +670,7 @@ l ka L kha . ga U gha X ṅa p ca P cha c ja ® jha \[ ña g ṭa G ṭha v ḍa
 h ya r ra , la j va i sa y ha \< ḷa x ṃ l ka ld kā ls ki lS kī l= ku l+
 kū fl ke fld ko
 
-=== L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
-<l-kha-ld-khā-ls-khi-ls-khī-lq-khu-lq-khū-fl-khe-fld-kho-.-ga-.d-gā-.s-gi-.s-gī-.-gu-.-gū-f.-ge-f.d-go>
+L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
 PHỤ ÂM LIÊN KẾT
 
 ll kka \[\[ ñña \;% tra uM mpha lL kkha Ky ṇha oo dda un mba lH kya \[p
@@ -739,10 +679,8 @@ uy mha LH khya \[® ñjha Oj dhva hh, hH yya Lj khva gg ṭṭa k; nta hy yha
 \.. gga gG ṭṭha J: ntha ,, lla \.\> ggha vv ḍḍa Jo, | nda ,H lya Xl ṅka
 vV ḍḍha JO ndha ,y lha \.% gra KK ṇṇa \;; nna jh vha
 
-=== XL ṅkha Kg ṇṭa \;y nha ii ssa
-<xl-ṅkha-kg-ṇṭa-y-nha-ii-ssa>
-=== X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
-<x.-ṅga-kg-ṇṭha-mm-ppa-iu-sma-x-ṅgha-kv-ṇḍa-mm-ppha-ij-sva>
+XL ṅkha Kg ṇṭa \;y nha ii ssa
+X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
 pp cca \;; tta nn bba yu hma pP ccha F: ttha nN bbha yj hva cc jja Fj
 tva n% bra \<y ḷha c® jjha um mpa
 
@@ -782,7 +720,6 @@ PĀCITTIYAPĀḶI BHIKKHUVIBHAṄGO Dutiyo Bhāgo - Visayasūci
 BỘ PĀCITTIYA PHÂN TÍCH GIỚI TỲ KHƯU
 
 == Tập Hai - Mục Lục
-<tập-hai---mục-lục>
 
 #divider()
 
@@ -997,7 +934,7 @@ BỘ PĀCITTIYA PHÂN TÍCH GIỚI TỲ KHƯU
 + Nandatthera --- - --- về trưởng lão Nanda 460-463
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 7)
@@ -1015,7 +952,7 @@ BỘ PĀCITTIYA PHÂN TÍCH GIỚI TỲ KHƯU
   480-487
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 8)
@@ -1188,14 +1125,14 @@ BỘ PĀCITTIYA PHÂN TÍCH GIỚI TỲ KHƯU
 
 Sekhiyā Uddānaṃ - Phần Tóm Lược Các Điều Sekhiya 556-557
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 9)
 + ADHIKARAṆASAMATHĀ DHAMMĀ - CÁC PHÁP DÀN XẾP TRANH TỤNG: 558-559
 ]
 
--
+#divider()
 
 BHIKKHUVIBHAṄGO NIṬṬHITO - PHÂN TÍCH GIỚI TỲ KHƯU ĐƯỢC CHẤM DỨT
 
@@ -1216,14 +1153,13 @@ BỘ PĀCITTIYA
 PHÂN TÍCH GIỚI TỲ KHƯU
 
 == TẬP HAI VINAYAPIṬAKE
-<tập-hai-vinayapiṭake>
 PĀCITTIYAPĀḶI
 
 BHIKKHUVIBHAṄGO DUTIYO BHĀGO
 
 Namo tassa bhagavato arahato sammāsambuddhassa.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 6)
@@ -1267,10 +1203,9 @@ BỘ PĀCITTIYA
 PHÂN TÍCH GIỚI TỲ KHƯU
 
 == TẬP HAI
-<tập-hai-1>
 Kính lễ đức Thế Tôn, bậc A-la-hán, đấng Chánh Biến Tri!
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 6)
@@ -1846,7 +1781,7 @@ balībaddo - Ma; balibaddo - Syā, PTS. 4 gaccha - Ma, PTS.
   đúng không vậy?”
 ]
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)― Này những kẻ rồ dại,
 vì sao các ngươi trong khi cãi cọ với các tỳ khưu hiền thiện lại mắng
@@ -4101,7 +4036,7 @@ Syā, PTS.
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Nói Dối - Điều Pācittiya 06
 
-- “Này Anuruddha, nghe nói ngươi nằm chung chỗ ngụ với người nữ, có đúng
+-- “Này Anuruddha, nghe nói ngươi nằm chung chỗ ngụ với người nữ, có đúng
   không vậy?” - “Bạch Thế Tôn, đúng vậy.” Đức Phật Thế Tôn đã khiển
   trách rằng: ―(như trên)― Này Anuruddha, vì sao ngươi lại nằm chung chỗ
   ngụ với người nữ vậy? Này Anuruddha, sự việc này không đem lại niềm
@@ -5913,7 +5848,7 @@ chindā ti - Syā. 2 panetaṃ - Syā. 3 viheṭhentī ti - Ma, Syā, PTS.
   gặp đức Thế Tôn, sau khi đến đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này Thiên nhân, lành thay, lành thay! Này Thiên nhân, lành thay ngươi
+-- “Này Thiên nhân, lành thay, lành thay! Này Thiên nhân, lành thay ngươi
   đã không đoạt lấy mạng sống của vị tỳ khưu ấy. Này Thiên nhân, nếu hôm
   nay ngươi đã đoạt lấy mạng sống của vị tỳ khưu ấy, này Thiên nhân
   ngươi đã gây ra nhiều sự vô phước. Này Thiên nhân, hãy đi, ở chỗ kia
@@ -7761,7 +7696,7 @@ sinh vật.
   không vậy?”
 ]
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Pācittiyapāḷi - Bhikkhuvibhaṅgo Bhikkhunovādavaggo - Pāc. 6. 3. 1.
 
@@ -8338,7 +8273,7 @@ Phân Tích Giới Tỳ Khưu 2 Phẩm Giáo Giới TK Ni - Điều Pācittiya 2
   Cūḷapanthaka đã nói với các tỳ khưu ni ấy đang ngồi một bên điều này:
 ]
 
-- “Này các sư tỷ, các vị đã đến đầy đủ chưa?” - “Thưa ngài, chúng tôi đã
+-- “Này các sư tỷ, các vị đã đến đầy đủ chưa?” - “Thưa ngài, chúng tôi đã
   đến đầy đủ.” - “Này các sư tỷ, tám Trọng Pháp có được thực hành
   không?” - “Thưa ngài, có được thực hành.” - “Này các sư tỷ, đây là lời
   giáo giới.” Sau khi ban lời trên, vị ấy đã đọc đi đọc lại bài cảm hứng
@@ -8450,7 +8385,7 @@ ngài đại đức Cūḷapanthaka!”
   vậy?”
 ]
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)― Này Cūḷapanthaka, vì
 sao ngươi lại giáo giới các tỳ khưu ni khi mặt trời đã lặn vậy? Này
@@ -8565,7 +8500,7 @@ học về (mặt trời) đã lặn là thứ nhì.
   giáo giới.”
 ]
 
-- “Này các ni sư, chúng tôi cũng nên đi vì lý do giáo giới, tuy nhiên
+-- “Này các ni sư, chúng tôi cũng nên đi vì lý do giáo giới, tuy nhiên
   các ngài đại đức nhóm Lục Sư đây giáo giới cho chúng tôi ngay tại
   đây.”
 
@@ -8577,10 +8512,10 @@ tỳ khưu ít ham muốn, ―(như trên)― các vị ấy phàn nàn, phê ph
 rằng: - “Vì sao các tỳ khưu nhóm Lục Sư sau khi đi đến chỗ ngụ của tỳ
 khưu ni lại giáo giới cho các tỳ khưu ni?” ―(như trên)―
 
-- “Này các tỳ khưu, nghe nói các ngươi sau khi đi đến chỗ ngụ của tỳ
+-- “Này các tỳ khưu, nghe nói các ngươi sau khi đi đến chỗ ngụ của tỳ
   khưu ni rồi giáo giới cho các tỳ khưu ni, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Pācittiyapāḷi - Bhikkhuvibhaṅgo Bhikkhunovādavaggo - Pāc.6. 3. 3.
 
@@ -8656,10 +8591,10 @@ Và điều học này đã được đức Thế Tôn quy định cho các tỳ
   Mọi việc có được thuận tiện không?”
 ]
 
-- “Thưa các ngài, sức khoẻ tôi không khá. Mọi việc không được thuận
+-- “Thưa các ngài, sức khoẻ tôi không khá. Mọi việc không được thuận
   tiện. Thưa các ngài, xin hãy giảng Pháp.”
 
-- “Này sư tỷ, sau khi đi đến chỗ ngụ của tỳ khưu ni không được phép
+-- “Này sư tỷ, sau khi đi đến chỗ ngụ của tỳ khưu ni không được phép
   giảng Pháp cho các tỳ khưu ni.” Rồi trong lúc ngần ngại đã không
   thuyết giảng.
 
@@ -8672,7 +8607,7 @@ Và điều học này đã được đức Thế Tôn quy định cho các tỳ
   được thuận tiện không?”
 ]
 
-- “Bạch ngài, trước đây các tỳ khưu trưởng lão đi đến gặp con thường
+-- “Bạch ngài, trước đây các tỳ khưu trưởng lão đi đến gặp con thường
   giảng Pháp cho con, vì thế con được an lạc. Giờ đây, các vị (nghĩ
   rằng): ‘Đức Thế Tôn đã ngăn cấm,' trong lúc ngần ngại không thuyết
   giảng, vì thế con không được an lạc.
@@ -8848,12 +8783,12 @@ vadanti - Ma, PTS. 2 ovadituṃ - Ma, Syā, PTS. 3 therā bhikkhū - Ma, PTS.
   nhân vật chất'?” ―(như trên)―
 ]
 
-- “Này các tỳ khưu, nghe nói các ngươi phát ngôn như vầy: ‘Các tỳ khưu
+-- “Này các tỳ khưu, nghe nói các ngươi phát ngôn như vầy: ‘Các tỳ khưu
   trưởng lão không vì tôn kính Pháp mà giáo giới các tỳ khưu ni; các tỳ
   khưu trưởng lão giáo giới các tỳ khưu ni vì nguyên nhân vật chất,' có
   đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)― Này những kẻ rồ dại,
 vì sao các ngươi lại phát ngôn như vầy: ‘Các tỳ khưu trưởng lão không vì
@@ -9029,16 +8964,16 @@ Sīmu, Syā, PTS.
   trên)―
 ]
 
-- “Này tỳ khưu, nghe nói ngươi cho y đến tỳ khưu ni, có đúng không vậy?”
+-- “Này tỳ khưu, nghe nói ngươi cho y đến tỳ khưu ni, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
-- “Này tỳ khưu, là nữ thân quyến của ngươi hay không phải là nữ thân
+-- “Này tỳ khưu, là nữ thân quyến của ngươi hay không phải là nữ thân
   quyến?”
 
-- “Bạch Thế Tôn, không phải là nữ thân quyến.”
+-- “Bạch Thế Tôn, không phải là nữ thân quyến.”
 
-- “Này kẻ rồ dại, người nam không phải là thân quyến không biết điều gì
+-- “Này kẻ rồ dại, người nam không phải là thân quyến không biết điều gì
   thích hợp hay không thích hợp, điều gì đúng hay không đúng đối với
   người nữ không phải là thân quyến. Này kẻ rồ dại, vì sao ngươi lại cho
   y đến tỳ khưu ni không phải là thân quyến vậy? Này kẻ rồ dại, sự việc
@@ -9237,14 +9172,14 @@ PTS.
   rằng: - “Vì sao đại đức Udāyi lại may y cho tỳ khưu ni?” ―(như trên)―
 ]
 
-- “Này Udāyi, nghe nói ngươi may y cho tỳ khưu ni, có đúng không vậy?”
+-- “Này Udāyi, nghe nói ngươi may y cho tỳ khưu ni, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
-- “Này Udāyi, là nữ thân quyến của ngươi hay không phải là nữ thân
+-- “Này Udāyi, là nữ thân quyến của ngươi hay không phải là nữ thân
   quyến?”
 
-- “Bạch Thế Tôn, không phải là nữ thân quyến.”
+-- “Bạch Thế Tôn, không phải là nữ thân quyến.”
 
 Chú giải cho biết rằng: “Sau khi nhuộm y, đại đức Udāyi đã dùng nhiều
 màu sắc phác họa ở phần giữa của y ấy hình ảnh người nam và người nữ với
@@ -9298,7 +9233,7 @@ sibbessasi - Syā, PTS.
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Giáo Giới TK Ni - Điều Pācittiya 26
 
-- “Này kẻ rồ dại, người nam không phải là thân quyến không biết điều gì
+-- “Này kẻ rồ dại, người nam không phải là thân quyến không biết điều gì
   thích hợp hay không thích hợp, điều gì làm hài lòng hay không làm hài
   lòng người nữ không phải là thân quyến. Này kẻ rồ dại, vì sao ngươi
   lại may y cho tỳ khưu ni không phải là thân quyến vậy? Này kẻ rồ dại,
@@ -9408,10 +9343,10 @@ sāvatthiyaṃ - Sīmu.
   chung đường xa với các tỳ khưu ni?” ―(như trên)―
 ]
 
-- “Này các tỳ khưu, nghe nói các ngươi hẹn trước rồi đi chung đường xa
+-- “Này các tỳ khưu, nghe nói các ngươi hẹn trước rồi đi chung đường xa
   với các tỳ khưu ni, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)― Này những kẻ rồ dại,
 vì sao các ngươi lại hẹn trước rồi đi chung đường xa với các tỳ khưu ni
@@ -9679,10 +9614,10 @@ uttaritabbā - Syā. 4 tiriyantaraṇāya - Syā.
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Giáo Giới TK Ni - Điều Pācittiya 28
 
-- “Này các tỳ khưu, nghe nói các ngươi sau khi hẹn trước rồi cùng lên
+-- “Này các tỳ khưu, nghe nói các ngươi sau khi hẹn trước rồi cùng lên
   một chiếc thuyền với các tỳ khưu ni, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)― Này những kẻ rồ dại,
 vì sao các ngươi sau khi hẹn trước rồi cùng lên một chiếc thuyền với các
@@ -9890,23 +9825,23 @@ Syā.
   sau khi đến đã nói với gia chủ ấy điều này:
 ]
 
-- “Này gia chủ, việc gì mà nhiều vật thực loại cứng loại mềm này được
+-- “Này gia chủ, việc gì mà nhiều vật thực loại cứng loại mềm này được
   chuẩn bị vậy?”
 
-- “Thưa ni sư, tôi đã thỉnh mời các vị trưởng lão.”
+-- “Thưa ni sư, tôi đã thỉnh mời các vị trưởng lão.”
 
-- “Này gia chủ, các trưởng lão của ngươi là những vị nào vậy?”
+-- “Này gia chủ, các trưởng lão của ngươi là những vị nào vậy?”
 
-- “Ngài Sāriputta, ngài Mahāmoggallāna, ngài Mahākaccāna, ngài
+-- “Ngài Sāriputta, ngài Mahāmoggallāna, ngài Mahākaccāna, ngài
   Mahākoṭṭhita, ngài Mahākappina, ngài Mahācunda, ngài Anuruddha, ngài
   Revata, ngài Upāli, ngài Ānanda, ngài Rāhula.”
 
-- “Này gia chủ, việc gì khiến ngươi lại thỉnh mời những hạng thứ yếu
+-- “Này gia chủ, việc gì khiến ngươi lại thỉnh mời những hạng thứ yếu
   trong khi các khổng long đang còn tồn tại?”
 
-- “Thưa ni sư, những vị nào là các khổng long của cô vậy?”
+-- “Thưa ni sư, những vị nào là các khổng long của cô vậy?”
 
-- “Ngài Devadatta, ngài Kokālika, ngài Kaṭamorakatissako con trai của
+-- “Ngài Devadatta, ngài Kokālika, ngài Kaṭamorakatissako con trai của
   Khaṇḍadevī, ngài Samuddadatto.”
 
 Lúc này lời nói này của tỳ khưu ni Thullanandā đã bị gián đoạn nửa
@@ -10970,7 +10905,7 @@ peyyā - Ma, PTS. 4 thokaṃ thokaṃ - Ma, Syā, PTS.
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Vật Thực - Điều Pācittiya 33
 
-- “Thưa cậu chủ, tôi muốn thực hiện bữa trai phạn dâng hội chúng tỳ khưu
+-- “Thưa cậu chủ, tôi muốn thực hiện bữa trai phạn dâng hội chúng tỳ khưu
   có đức Phật đứng đầu, hãy cho tôi tiền lương.” Cậu chủ tên Kira ấy
   cũng có niềm tin và mộ đạo. Khi ấy, cậu chủ tên Kira ấy đã cho người
   lao công nghèo ấy tiền lương phụ trội. Sau đó, người lao công nghèo ấy
@@ -11643,7 +11578,7 @@ ayya - Syā.
   thêm) lại thọ thực ở nơi khác, có đúng không vậy?”
 ]
 
-- “Bạch Thế Tôn, đúng vậy.” Đức Phật Thế Tôn đã khiển trách rằng: ―(như
+-- “Bạch Thế Tôn, đúng vậy.” Đức Phật Thế Tôn đã khiển trách rằng: ―(như
   trên)― Này các tỳ khưu, vì sao những kẻ rồ dại ấy thọ thực xong và đã
   ngăn (vật thực dâng thêm) lại thọ thực ở nơi khác vậy? Này các tỳ
   khưu, sự việc này không đem lại niềm tin cho những kẻ chưa có đức tin,
@@ -14967,20 +14902,20 @@ Sāgata trong lúc đang đi ra khỏi thành phố đã té ngã ở cổng th�
 Khi ấy, đại đức Sāgata đã xoay tròn vòng đưa hai chân hướng về đức Thế
 Tôn rồi nằm ngủ. Khi ấy, đức Thế Tôn đã bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, phải chăng Sāgata đã có sự tôn kính và có sự vâng
+-- “Này các tỳ khưu, phải chăng Sāgata đã có sự tôn kính và có sự vâng
   lời đối với Như Lai?”
 
-- “Bạch ngài, đúng vậy.”
+-- “Bạch ngài, đúng vậy.”
 
-- “Này các tỳ khưu, vậy bây giờ Sāgata có sự tôn kính và có sự vâng lời
+-- “Này các tỳ khưu, vậy bây giờ Sāgata có sự tôn kính và có sự vâng lời
   đối với Như Lai không?”
 
-- “Bạch ngài, điều ấy không có.”
+-- “Bạch ngài, điều ấy không có.”
 
-- “Này các tỳ khưu, phải chăng Sāgata đã gây chiến với con rồng ở
+-- “Này các tỳ khưu, phải chăng Sāgata đã gây chiến với con rồng ở
   Ambatittha?”
 
-- “Bạch ngài, đúng vậy.”
+-- “Bạch ngài, đúng vậy.”
 
 Pācittiyapāḷi - Bhikkhuvibhaṅgo Surāpānavaggo - Pāc. 6. 6. 1.
 
@@ -15031,17 +14966,17 @@ nāgena - Ma, PTS. 2 odanasurā - Ma, Syā, PTS.
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Uống Rượu - Điều Pācittiya 51
 
-- “Này các tỳ khưu, vậy bây giờ Sāgata có đủ sức gây chiến với con rắn
+-- “Này các tỳ khưu, vậy bây giờ Sāgata có đủ sức gây chiến với con rắn
   nước không?”
 
-- “Bạch ngài, điều ấy không có.”
+-- “Bạch ngài, điều ấy không có.”
 
-- “Này các tỳ khưu, vậy loại thức uống nào sau khi uống vào sẽ trở thành
+-- “Này các tỳ khưu, vậy loại thức uống nào sau khi uống vào sẽ trở thành
   mất tỉnh táo thì có nên uống loại ấy không?”
 
-- “Bạch ngài, điều ấy không nên.”
+-- “Bạch ngài, điều ấy không nên.”
 
-- “Này các tỳ khưu, thật không đúng đắn cho Sāgata, thật không hợp lẽ,
+-- “Này các tỳ khưu, thật không đúng đắn cho Sāgata, thật không hợp lẽ,
   không tốt đẹp, không xứng pháp Sa-môn, không được phép, không nên làm!
   Này các tỳ khưu, vì sao Sāgata lại uống men say vậy? Này các tỳ khưu,
   sự việc này không đem lại niềm tin cho những kẻ chưa có đức tin, ―(như
@@ -17151,7 +17086,7 @@ Duṭṭhullasikkhāpadaṃ catutthaṃ.
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Có Sinh Vật - Điều Pācittiya 64
 
-- “Vì sao vị tỳ khưu trong khi biết tội xấu xa của vị tỳ khưu vẫn che
+-- “Vì sao vị tỳ khưu trong khi biết tội xấu xa của vị tỳ khưu vẫn che
   giấu?” ―(như trên)― “Này tỳ khưu, nghe nói ngươi trong khi biết tội
   xấu xa của vị tỳ khưu vẫn che giấu, có đúng không vậy?” - “Bạch Thế
   Tôn, đúng vậy.” Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)―
@@ -17516,7 +17451,7 @@ saṃvidahati, visaṅketena gacchati, āpadāsu, ummattakassa, ādikammikassā
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Có Sinh Vật - Điều Pācittiya 66
 
-- “Vì sao vị tỳ khưu trong khi biết vẫn hẹn trước rồi đi chung đường xa
+-- “Vì sao vị tỳ khưu trong khi biết vẫn hẹn trước rồi đi chung đường xa
   với đám người đạo tặc?” ―(như trên)― “Này tỳ khưu, nghe nói ngươi
   trong khi biết vẫn hẹn trước rồi đi chung đường xa với đám người đạo
   tặc, có đúng không vậy?” - “Bạch Thế Tôn, đúng vậy.” Đức Phật Thế Tôn
@@ -22249,7 +22184,7 @@ pīḷakā - Ma. 2 assavo - Sī 1. 3 thallukacchā - Syā.
 
 Phân Tích Giới Tỳ Khưu 2 Phẩm Đức Vua - Điều Pācittiya 90
 
-- “Vì sao các tỳ khưu nhóm Lục Sư lại sử dụng các y đắp ghẻ không theo
+-- “Vì sao các tỳ khưu nhóm Lục Sư lại sử dụng các y đắp ghẻ không theo
   kích thước?” ―(như trên)― “Này các tỳ khưu, nghe nói các ngươi sử dụng
   các y đắp ghẻ không theo kích thước, có đúng không vậy?” - “Bạch Thế
   Tôn, đúng vậy.” Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)― Này
@@ -27266,7 +27201,7 @@ Phân Tích Giới Tỳ Khưu 2 Phẩm Giày Dép - Điều Sekhiya 67 - 69
   là luẩn quẩn!' rồi đã rơi xuống ngay tại chỗ ấy (nói rằng):
 ]
 
-- ‘Cả hai không biết mục đích, cá hai không nhìn thấy Pháp. Vị dạy bài
+-- ‘Cả hai không biết mục đích, cá hai không nhìn thấy Pháp. Vị dạy bài
   chú thuật, và vị học đều sai trái.' (Vị Bà-la-môn đáp): - ‘Ta ăn cơm
   gạo sālī có trộn lẫn thịt tinh khiết, do đó ta không thực hành các
   Pháp. Pháp đã được các bậc Thánh nhân ca ngợi.' (Người hạng cùng
@@ -27933,7 +27868,7 @@ thích rằng: “piṇḍukkhepakan ti piṇḍaṃ ukkhipitvā ukkhipitvā” 
 lên rồi đưa lên” nên đã ghi lại lời dịch Việt là: “thọ thực theo lối đưa
 thức ăn (vào miệng) một cách liên tục.”
 
-- Hợp từ kabaḷāvacchedaka được dịch sát nghĩa là “sự cắn vắt cơm làm
+-- Hợp từ kabaḷāvacchedaka được dịch sát nghĩa là “sự cắn vắt cơm làm
   hai.” Cũng như điều trên, khi xem đến phần không phạm tội với các vật
   thực cứng, các thứ trái cây, các món ăn đặc biệt, chúng tôi hiểu lời
   giải thích “kabaḷāvacchedakan ti kabaḷaṃ avacchinditvā avacchindivā”
@@ -27988,8 +27923,7 @@ Phân Tích Giới Tỳ Khưu 2 - Thư Mục Danh Từ Riêng
 G D Gotamagotta 18 Dabbamallaputta 116, 118, 412 GH Devadatta 190, 204
 Ghositārāma 110, 138, 306, 380, 530 N Nanda 460
 
-=== C Nandivisāla 14 Cullapanthaka 158, 160 Nigrodhārāma 162,
-<c-nandivisāla-14-cullapanthaka-158-160-nigrodhārāma-162>
+C Nandivisāla 14 Cullapanthaka 158, 160 Nigrodhārāma 162,
 276, 444, 480 CH Channa 110, 112, P 138, 140, 306, 380 Paṭiyāloka 224,
 350 Chabbaggiyā 14, 42, 52, Pasenadikosala 284, 68, 98, 128, 132, 304,
 422, 424 146, 150, 162, 168, 180, 184, 200, 238, 244, 278, 280, B 284,
@@ -28120,8 +28054,7 @@ Telasampāke 300 Dhaniṭṭhakaṃ 16, 20, 22 Dhammakathikaṃ 30, 32, TH 34,
 40, 382 Thakite 160, 316 Dhammo 52, 70, 538 Thūpīkataṃ 510 Dhutāya 308,
 382 Theyyasatthena 350, 352 Dhuvaphalo 548
 
-=== D N Daṇḍapāṇissa 538 Naṭapubbako 530
-<d-n-daṇḍapāṇissa-538-naṭapubbako-530>
+D N Daṇḍapāṇissa 538 Naṭapubbako 530
 Daṇḍo 538 Navakammaṃ 102, Davā 12, 530 106, 142, 320 Dasasikkhāpadiko
 328 Nahāpitaṃ 24 Dasikasuttaṃ 414, 418 Naḷakāraṃ 24 Dārakasadda 348
 Nāvaṃ 184, Diṭṭhadhammikānaṃ 04 186, 188, 212 Diṭṭhiyā suppaṭividdhā 152
@@ -28173,8 +28106,7 @@ Muddikaṃ 24, 26, 32, 46
 
 Phân Tích Giới Tỳ Khưu 2 - Thư Mục Từ Đặc Biệt
 
-=== M R Meṇḍaṃ 30 Rūpaṃ 52, 310, 312, 346
-<m-r-meṇḍaṃ-30-rūpaṃ-52-310-312-346>
+M R Meṇḍaṃ 30 Rūpaṃ 52, 310, 312, 346
 Merayo 300 Moghapurisa 04, L 42, 68, …, 464, 530 Latākammaṃ 140
 Monapathesu 158 Liṅgaṃ 18 Mohanake 388 Lekhakaṃ 24, 26 Mohapariyuṭṭhitaṃ
 28 Lekhaṃ 346 Mohetukāmā 390, 392
@@ -28195,8 +28127,7 @@ Rathasammaddaṃ 428 Vivitto 106 Ravā 12 Visaṅketena 184, Raho 20 188,
 
 Phân Tích Giới Tỳ Khưu 2 - Thư Mục Từ Đặc Biệt
 
-=== V S Vīṭhe 446 Saddhādeyyaṃ 98
-<v-s-vīṭhe-446-saddhādeyyaṃ-98>
+V S Vīṭhe 446 Saddhādeyyaṃ 98
 Vītadosaṃ 28 Sannidhikārakaṃ 242 Vītamohaṃ 28 Sapadānaṃ 512 Vītarāgaṃ 28
 Sappaṭibhayaṃ 184, 482 Vīsativasso 152, 348 Sappasirūpamā 358,
 Veṭhitasīso 544 360, 372 Veṇaṃ 20, 36 Sappāṇakaṃ 142, 338 Vematiko 12,

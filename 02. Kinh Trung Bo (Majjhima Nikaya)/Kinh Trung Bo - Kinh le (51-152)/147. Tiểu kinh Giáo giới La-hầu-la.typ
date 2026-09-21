@@ -1,5 +1,4 @@
 = 147. Tiểu kinh Giáo giới La-hầu-la
-<tiểu-kinh-giáo-giới-la-hầu-la>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Cùlaràhulovàda sutta)]
 
 #divider()

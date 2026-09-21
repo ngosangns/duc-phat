@@ -1,5 +1,4 @@
 = Mūla Sutta Piṭaka Khuddakanikāyo Khuddakapāṭhapāḷi
-<mūla-sutta-piṭaka-khuddakanikāyo-khuddakapāṭhapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Khuddakanikāye Khuddakapāṭhapāḷi
@@ -88,7 +87,6 @@ Dvattiṃsākāro niṭṭhito.
 Kumārapañhā niṭṭhitā.
 
 === 5. Maṅgalasuttaṃ
-<maṅgalasuttaṃ>
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme. Atha kho aññatarā devatā abhikkantāya rattiyā
   abhikkantavaṇṇā kevalakappaṃ jetavanaṃ obhāsetvā yena bhagavā
@@ -136,7 +134,6 @@ Kumārapañhā niṭṭhitā.
 Maṅgalasuttaṃ niṭṭhitaṃ.
 
 === 6. Ratanasuttaṃ
-<ratanasuttaṃ>
 + Yānīdha bhūtāni samāgatāni, bhummāni \[bhūmāni (ka.)\] vā yāni va
   antalikkhe; Sabbeva bhūtā sumanā bhavantu, athopi sakkacca suṇantu
   bhāsitaṃ.
@@ -214,7 +211,6 @@ Etena saccena suvatthi hotu.
 Ratanasuttaṃ niṭṭhitaṃ.
 
 === 7. Tirokuṭṭasuttaṃ
-<tirokuṭṭasuttaṃ>
 + Tirokuṭṭesu tiṭṭhanti, sandhisiṅghāṭakesu ca; Dvārabāhāsu tiṭṭhanti,
   āgantvāna sakaṃ gharaṃ.
 
@@ -257,7 +253,6 @@ Ratanasuttaṃ niṭṭhitaṃ.
 Tirokuṭṭasuttaṃ niṭṭhitaṃ.
 
 === 8. Nidhikaṇḍasuttaṃ
-<nidhikaṇḍasuttaṃ>
 + Nidhiṃ nidheti puriso, gambhīre odakantike; Atthe kicce samuppanne,
   atthāya me bhavissati.
 
@@ -311,7 +306,6 @@ Tirokuṭṭasuttaṃ niṭṭhitaṃ.
 Nidhikaṇḍasuttaṃ niṭṭhitaṃ.
 
 === 9. Mettasuttaṃ
-<mettasuttaṃ>
 + Karaṇīyamatthakusalena, yantasantaṃ padaṃ abhisamecca; Sakko ujū ca
   suhujū \[sūjū (sī.)\] ca, suvaco cassa mudu anatimānī.
 

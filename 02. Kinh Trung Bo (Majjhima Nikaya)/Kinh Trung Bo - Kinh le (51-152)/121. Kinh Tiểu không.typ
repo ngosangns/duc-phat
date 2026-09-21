@@ -1,5 +1,4 @@
 = 121. Kinh Tiểu không
-<kinh-tiểu-không>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Cùlasunnata sutta)]
 
 #divider()

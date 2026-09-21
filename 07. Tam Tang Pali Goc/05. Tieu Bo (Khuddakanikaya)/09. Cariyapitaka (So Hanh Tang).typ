@@ -1,11 +1,9 @@
 = Mūla Sutta Piṭaka Khuddakanikāyo Cariyāpiṭakapāḷi
-<mūla-sutta-piṭaka-khuddakanikāyo-cariyāpiṭakapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Khuddakanikāye Cariyāpiṭakapāḷi
 
 == 1. Akittivaggo
-<akittivaggo>
 + Akitticariyā
 
 + ‘‘Kappe ca satasahasse, caturo ca asaṅkhiye; Etthantare yaṃ caritaṃ,
@@ -532,7 +530,6 @@ esā me dānapāramīti.
 Dānapāraminiddeso niṭṭhito.
 
 == 2. Hatthināgavaggo
-<hatthināgavaggo>
 + Mātuposakacariyā
 
 + ‘‘Yadā ahosiṃ pavane, kuñjaro mātuposako; Na tadā atthi mahiyā, guṇena
@@ -902,7 +899,6 @@ tasmā sā sīlapāramīti.
 Sīlapāraminiddeso niṭṭhito.
 
 == 3. Yudhañjayavaggo
-<yudhañjayavaggo>
 + Yudhañjayacariyā
 
 + ‘‘Yadāhaṃ amitayaso, rājaputto yudhañjayo; Ussāvabinduṃ sūriyātape,

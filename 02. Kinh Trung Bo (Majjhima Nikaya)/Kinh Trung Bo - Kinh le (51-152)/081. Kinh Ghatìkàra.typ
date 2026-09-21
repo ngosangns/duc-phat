@@ -1,5 +1,4 @@
 = 81. Kinh Ghatìkàra
-<kinh-ghatìkàra>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Ghatìkàra sutta)]
 
 #divider()

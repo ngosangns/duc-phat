@@ -1,5 +1,4 @@
 = 64. Ðại kinh Màlunkyà
-<ðại-kinh-màlunkyà>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahà Màlunkyà sutta)]
 
 #divider()

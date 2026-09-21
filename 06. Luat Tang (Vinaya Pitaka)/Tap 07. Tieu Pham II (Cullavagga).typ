@@ -1,5 +1,4 @@
 = Luật Tạng (Vinaya Piṭaka) --- Tập 07: Tiểu Phẩm II (Cullavagga)
-<luật-tạng-vinaya-piṭaka-tập-07-tiểu-phẩm-ii-cullavagga>
 TAM TẠNG SONG NGỮ PĀLI - VIỆT
 
 VESAK 2550
@@ -8,25 +7,6 @@ Buddhist Cultural Centre 125 Anderson Road, Nedimala, Dehiwala, Sri
 Lanka Sabbadānaṃ dhammadānaṃ jināti. Sự bố thí Pháp vượt trên tất cả các
 sự bố thí.
 
-Thí Chủ: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Dâng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-#divider()
-
-Ước Nguyện: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-#divider()
-
-Hồi hướng đến: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 TAM TẠNG SONG NGỮ PĀLI - VIỆT - TẬP 07
 
 VINAYAPITAKE
@@ -40,7 +20,6 @@ TẠNG LUẬT
 TIỂU PHẨM
 
 == TẬP HAI
-<tập-hai>
 PHẬT LỊCH 2554 DƯƠNG LỊCH 2010 In lần thứ nhất: PL 2554 - DL 2010 Số
 Lượng 600 cuốn
 
@@ -55,37 +34,7 @@ Website: www.buddhistcc.com
 Printed by: Ajith Printers (Pvt) Ltd.~342 Old Kesbewa Road Ratanapitiya,
 Borelesgamuwa, Sri Lanka. Tel: 94-11-251 7269
 
-MỤC LỤC TỔNG QUÁT
-
-Mục Lục Tổng Quát iii
-
-Lời Tựa - Sinhala và Việt ngữ v - xiv
-
-Văn Bản của Bộ Tôn Giáo - Anh và Việt ngữ xv - xvi
-
-Thành Phần Nhân Sự xvii
-
-Lược Đồ Tam Tạng xviii - xix
-
-Lời Giới Thiệu xxiii - xxvi
-
-Các Chữ Viết Tắt xxvii
-
-Mẫu Tự Pāḷi - Sinhala xxviii - xxix
-
-Mục Lục Tiểu Phẩm - Tập Hai xxxi - xxxiv
-
-Văn Bản Pāḷi và Văn Bản Tiếng Việt 02 - 599
-
-Phần Phụ Chú 601 - 602
-
-Thư Mục Câu Kệ Pāḷi 603 - 604
-
-Thư Mục Danh Từ Riêng 605 - 608
-
-Thư Mục Từ Đặc Biệt 609 - 632
-
-Phương Danh Thí Chủ 633 - 636
+#outline(title: [Mục lục])
 
 #divider()
 
@@ -95,7 +44,7 @@ paṭicchanno.”
 “Này các tỳ khưu, Pháp và Luật đã được công bố bởi đức Như Lai là bộc
 lộ, chói sáng, không che giấu.”
 
--
+#divider()
 
 \(Aṅguttaranikāya Tikanipātapāḷi Kusinaravagga Paṭichannasutta,
 Parivārapāḷi Ekuttarikanaya Tikavāra - Bộ Tăng Chi, Chương Ba Pháp, Phẩm
@@ -461,8 +410,7 @@ niệm Buddha Jayanti lần thứ 2550 là chính xác về phần Pali văn. Ph
 Pali văn được phiên âm sang mẫu tự Roman có giá trị tương đương về nội
 dung so với văn bản gốc bằng mẫu tự Sinhala.
 
-=== B. N. Jinasena Thư Ký Chánh văn phòng
-<b.-n.-jinasena-thư-ký-chánh-văn-phòng>
+B. N. Jinasena Thư Ký Chánh văn phòng
 Địa Chỉ: 115 Wijerama Mawatha, Colombo 07, Sri Lanka Office:
 94-11-2690896 Fax: 94-11-2690897 Deputy Minister: 94-11-5375128,
 94-11-2690898 Secretary: 94-11-2690736
@@ -483,7 +431,7 @@ Nandana Tipiṭaka Dhammāyatana Malegoḍa, Payāgala - Sri Lanka
 CỐ VẤN VI TÍNH: Ven. Mettāvihārī (Đan Mạch) Ban điều hành Mettānet
 Foundation
 
--
+#divider()
 
 ĐIỀU HÀNH TỔNG QUÁT: Tỳ Khưu Indacanda
 
@@ -501,10 +449,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 
 Pārājikapāḷi Phân Tích Giới Tỳ Khưu I 01
 
-=== V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
-<v-pācittiyapāḷi-bhikkhu-phân-tích-giới-tỳ-khưu-ii-02>
-=== I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
-<i-l-pācittiyapāḷi-bhikkhunī-phân-tích-giới-tỳ-khưu-ni-03-n-u-mahāvaggapāḷi-i-đại-phẩm-i-04>
+V Pācittiyapāḷi bhikkhu Phân Tích Giới Tỳ Khưu II 02
+I L Pācittiyapāḷi bhikkhunī Phân Tích Giới Tỳ Khưu Ni 03 N U Mahāvaggapāḷi I Đại Phẩm I 04
 A Ậ Mahāvaggapāḷi II Đại Phẩm II 05 Y T Cullavaggapāḷi I Tiểu Phẩm I 06
 A Cullavaggapāḷi II Tiểu Phẩm II 07 Parivārapāḷi I Tập Yếu I 08
 Parivārapāḷi II Tập Yếu II 09
@@ -528,10 +474,8 @@ Piṭaka Tạng Tên Pāḷi Tựa Việt Ngữ Số tt.
 K Khuddakapāṭha Tiểu Tụng 28 H Dhammapadapāḷi Pháp Cú - U Udānapāḷi Phật
 Tự Thuyết -
 
-=== D Itivuttakapāḷi Phật Thuyết Như Vậy -
-<d-itivuttakapāḷi-phật-thuyết-như-vậy-->
-=== D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
-<d-suttanipātapāḷi-kinh-tập-29-a-vimānavatthupāḷi-chuyện-thiên-cung-30>
+D Itivuttakapāḷi Phật Thuyết Như Vậy -
+D Suttanipātapāḷi Kinh Tập 29 A Vimānavatthupāḷi Chuyện Thiên Cung 30
 K Petavatthupāḷi Chuyện Ngạ Quỷ - S A Theragathāpāḷi Trưởng Lão Kệ 31 U
 N Therīgāthāpāḷi Trưởng Lão Ni Kệ - T K I Jātakapāḷi I Bổn Sanh I 32 T I
 K Jātakapāḷi II Bổn Sanh II 33 A N Ā Jātakapāḷi III Bổn Sanh III 34 N H
@@ -540,27 +484,21 @@ Paṭisambhidāmagga I Phân Tích Đạo I 37 \* Paṭisambhidāmagga II Phân 
 Đạo II 38 Apadānapāḷi I Thánh Nhân Ký Sự I 39 T Apadānapāḷi II Thánh
 Nhân Ký Sự II 40
 
-=== I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
-<i-apadānapāḷi-iii-thánh-nhân-ký-sự-iii-41-ể-buddhavaṃsapāḷi-phật-sử-42>
+I Apadānapāḷi III Thánh Nhân Ký Sự III 41 Ể Buddhavaṃsapāḷi Phật Sử 42
 U Cariyāpiṭakapāḷi Hạnh Tạng - Nettipakaraṇa (chưa dịch) 43 B
 Peṭakopadesa (chưa dịch) 44 Ộ Milindapañhāpāḷi Mi Tiên Vấn Đáp 45
 
 Dhammasaṅganipakaraṇa Bộ Pháp Tụ 46
 
-=== V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
-<v-vibhaṅgapakaraṇa-i-bộ-phân-tích-i-47-a-i-vibhaṅgapakaraṇa-ii-bộ-phân-tích-ii-48>
+V Vibhaṅgapakaraṇa I Bộ Phân Tích I 47 A I Vibhaṅgapakaraṇa II Bộ Phân Tích II 48
 B Kathāvatthu I Bộ Ngữ Tông I 49 H D Kathāvatthu II Bộ Ngữ Tông II 50
 
-=== I I Kathāvatthu III Bộ Ngữ Tông III 51
-<i-i-kathāvatthu-iii-bộ-ngữ-tông-iii-51>
-=== D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
-<d-ệ-dhātukathā-bộ-chất-ngữ---h-u-puggalapaññattipāḷi-bộ-nhân-chế-định-52>
+I I Kathāvatthu III Bộ Ngữ Tông III 51
+D Ệ Dhātukathā Bộ Chất Ngữ - H U Puggalapaññattipāḷi Bộ Nhân Chế Định 52
 A Yamakapakaraṇa I Bộ Song Đối I 53
 
-=== M P Yamakapakaraṇa II Bộ Song Đối II 54
-<m-p-yamakapakaraṇa-ii-bộ-song-đối-ii-54>
-=== M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
-<m-h-yamakapakaraṇa-iii-bộ-song-đối-iii-55-a-á-patthānapakaraṇa-i-bộ-vị-trí-i-56>
+M P Yamakapakaraṇa II Bộ Song Đối II 54
+M H Yamakapakaraṇa III Bộ Song Đối III 55 A Á Patthānapakaraṇa I Bộ Vị Trí I 56
 P Patthānapakaraṇa II Bộ Vị Trí II 57 Patthānapakaraṇa III Bộ Vị Trí III
 58
 
@@ -574,8 +512,9 @@ TẠNG LUẬT
 
 TIỂU PHẨM
 
-== TẬP HAI Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
-<tập-hai-tāni-ca-sutte-otāriyamānāni-vinaye-sandassiyamānāni-sutte-ceva-otaranti-vinaye-ca-sandissanti-niṭṭham-ettha-gantabbaṃ-addhā-idaṃ>
+== TẬP HAI
+
+Tāni ca sutte otāriyamānāni vinaye sandassiyamānāni sutte ceva otaranti vinaye ca sandissanti, niṭṭham ettha gantabbaṃ: ‘Addhā idaṃ
 tassa bhagavato vacanaṃ, tassa ca therassa suggahitan'ti.
 
 \(Dīghanikāya II, Mahāparinibbānasutta).
@@ -586,7 +525,9 @@ Kinh, cần được xem xét ở Luật, và chỉ khi nào chúng hiện diệ
 chắc chắn là lời giảng dạy của đức Thế Tôn và đã được vị trưởng lão ấy
 tiếp thâu đúng đắn.”
 
-\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn). LỜI GIỚI THIỆU
+\(Trường Bộ II, Kinh Đại Bát-Niết-Bàn).
+
+== Lời giới thiệu
 
 #divider()
 
@@ -597,18 +538,18 @@ Khandhaka - Hợp Phần: Gồm các vấn đề có liên quan với nhau đã 
 xếp thành từng khandhaka, có thể dịch là chương hay phần. Toàn bộ gồm có
 22 khandhaka và được chia làm hai:
 
-- Mahāvagga - Đại Phẩm gồm có 10 khandhaka, và
+-- Mahāvagga - Đại Phẩm gồm có 10 khandhaka, và
 
-- Cullavagga - Tiểu Phẩm gồm có 12 khandhaka còn lại.
+-- Cullavagga - Tiểu Phẩm gồm có 12 khandhaka còn lại.
 
--
+#divider()
 
 Cullavagga - Tiểu Phẩm được trình bày thành hai tập, tập một có 4 chương
 và tập hai là 8 chương còn lại. Phần tóm tắt bốn chương đầu đã được
 trình bày ở tập một. Và 8 chương còn lại thuộc Cullavagga 2 & Tiểu Phẩm
 2 (TTPV 07, Tam Tạng Pāḷi - Việt tập 07) có nội dung tóm lược như sau:
 
-- Chương 5 là chương Các Tiểu Sự đề cập đến nhiều vấn đề có liên quan
+-- Chương 5 là chương Các Tiểu Sự đề cập đến nhiều vấn đề có liên quan
   đến sự sinh hoạt hàng ngày của vị tỳ khưu về nhiều khía cạnh khác nhau
   như cách phục sức, thuyết Pháp, các vật dụng, v.v…
 
@@ -689,7 +630,7 @@ thứ hai sau lần ở Kosambī được ghi chép lại, tiếc rằng sử li
 ở thời điểm kết thúc của lần kết tập này mà không tiết lộ thêm chi tiết
 nào về sự phân chia tông phái về sau này.
 
--
+#divider()
 
 Về hình thức, văn bản Pāḷi Roman được trình bày ở đây đã được phiên âm
 lại từ văn bản Pāḷi - Sinhala, ấn bản Buddha Jayanti Tripitaka Series
@@ -793,8 +734,7 @@ l ka L kha . ga U gha X ṅa p ca P cha c ja ® jha \[ ña g ṭa G ṭha v ḍa
 h ya r ra , la j va i sa y ha \< ḷa x ṃ l ka ld kā ls ki lS kī l= ku l+
 kū fl ke fld ko
 
-=== L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
-<l-kha-ld-khā-ls-khi-ls-khī-lq-khu-lq-khū-fl-khe-fld-kho-.-ga-.d-gā-.s-gi-.s-gī-.-gu-.-gū-f.-ge-f.d-go>
+L kha Ld khā Ls khi LS khī Lq khu LQ khū fL khe fLd kho . ga \.d gā \.s gi \.S gī \.= gu \.+ gū f.~ge f.d go
 PHỤ ÂM LIÊN KẾT
 
 ll kka \[\[ ñña \;% tra uM mpha lL kkha Ky ṇha oo dda un mba lH kya \[p
@@ -803,10 +743,8 @@ uy mha LH khya \[® ñjha Oj dhva hh, hH yya Lj khva gg ṭṭa k; nta hy yha
 \.. gga gG ṭṭha J: ntha ,, lla \.\> ggha vv ḍḍa Jo, | nda ,H lya Xl ṅka
 vV ḍḍha JO ndha ,y lha \.% gra KK ṇṇa \;; nna jh vha
 
-=== XL ṅkha Kg ṇṭa \;y nha ii ssa
-<xl-ṅkha-kg-ṇṭa-y-nha-ii-ssa>
-=== X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
-<x.-ṅga-kg-ṇṭha-mm-ppa-iu-sma-x-ṅgha-kv-ṇḍa-mm-ppha-ij-sva>
+XL ṅkha Kg ṇṭa \;y nha ii ssa
+X. ṅga KG ṇṭha mm ppa iu sma X\> ṅgha Kv ṇḍa mM ppha ij sva
 pp cca \;; tta nn bba yu hma pP ccha F: ttha nN bbha yj hva cc jja Fj
 tva n% bra \<y ḷha c® jjha um mpa
 
@@ -846,14 +784,12 @@ CULLAVAGGAPĀḶI - DUTIYO BHĀGO TIỂU PHẨM - TẬP HAI
 VISAYASŪCI - MỤC LỤC
 
 === V. KHUDDAKAVATTHUKKHANDHAKAṂ - CHƯƠNG CÁC TIỂU SỰ :
-<v.-khuddakavatthukkhandhakaṃ---chương-các-tiểu-sự>
 Khuddakavatthūni - Các tiểu sự 02 Tatiyabhāṇavāro - Tụng phẩm thứ ba 68
 Uddānagāthā - Các câu kệ tóm lược 116
 
--
+#divider()
 
 === VI. SENĀSANAKKHANDHAKAṂ - CHƯƠNG SÀNG TỌA:
-<vi.-senāsanakkhandhakaṃ---chương-sàng-tọa>
 Vihārānujānanaṃ - Sự cho phép về trú xá 128 Mañcapīṭhādi-anujānanaṃ - Sự
 cho phép giường, ghế, v.v Setavaṇṇādi-anujānanaṃ - Sự cho phép (sơn) màu
 trắng, v.v Paṭibhānacittapaṭikkhepaṃ - Sự ngăn cấm về hình ảnh gợi cảm
@@ -881,10 +817,9 @@ Appamattakavissajjakasammuti - Sự chỉ định vị phân phát vật linh ti
 230 Sāṭiyaggāhāpakādisammuti - Sự chỉ định vị phân phối vải choàng 232
 Uddānagāthā - Các câu kệ tóm lược 236
 
--
+#divider()
 
 === VII. SAṄGHABHEDAKKHANDHAKAṂ - CHƯƠNG CHIA RẼ HỘI CHÚNG:
-<vii.-saṅghabhedakkhandhakaṃ---chương-chia-rẽ-hội-chúng>
 Chasakyapabbajjākathā - Phần giảng về sự xuất gia của sáu vị dòng Sakya
 246 Devadattavatthu - Câu chuyện về Devadatta 256 Pañcasatthukathā -
 Phần giảng về năm hạng đạo sư 262 Pakāsanīyakammaṃ - Hành sự công bố 270
@@ -896,10 +831,9 @@ sự yêu cầu năm sự việc 294 Saṅghabhedakathā - Phần giảng về v
 hội chúng 306 Upālipañhā - Các câu hỏi của vị Upāli 318 Uddānagāthā -
 Các câu kệ tóm lược 332
 
--
+#divider()
 
 === VIII. VATTAKKHANDHAKAṂ - CHƯƠNG PHẬN SỰ:
-<viii.-vattakkhandhakaṃ---chương-phận-sự>
 Āgantukavattaṃ - Phận sự của vị vãng lai 334 Āvāsikavattaṃ - Phận sự của
 vị thường trú 340
 
@@ -916,10 +850,9 @@ Phận sự đối với đệ tử 386 Ācariyavattaṃ - Phận sự đối v�
 394 Antevāsikavattaṃ - Phận sự đối với học trò 404 Uddānagāthā - Các câu
 kệ tóm lược 410
 
--
+#divider()
 
 === IX. PĀTIMOKKHAṬṬHAPANAKKHANDHAKAṂ - CHƯƠNG ĐÌNH CHỈ GIỚI BỔN PĀTIMOKKHA:
-<ix.-pātimokkhaṭṭhapanakkhandhakaṃ---chương-đình-chỉ-giới-bổn-pātimokkha>
 Pātimokkhuddesayācanaṃ - Thỉnh cầu tuyên đọc giới bổn Pātimokkha 424
 Mahāsamudde aṭṭha-acchariyā - Tám pháp kỳ diệu về biển cả 426
 Dhammavinaye aṭṭha-acchariyā - Tám pháp kỳ diệu ở Pháp và Luật 430
@@ -932,29 +865,26 @@ quán xét bởi vị khiển trách 456 Codakacuditakapaṭisaṃyuttakathā - 
 giảng về mối liên quan giữa vị khiển trách và vị bị khiển trách 460
 Uddānagāthā - Các câu kệ tóm lược 464
 
--
+#divider()
 
 === X. BHIKKHUNĪKKHANDHAKAṂ - CHƯƠNG TỲ KHƯU NI:
-<x.-bhikkhunīkkhandhakaṃ---chương-tỳ-khưu-ni>
 Mahāpajāpatigotamīvatthu - Câu chuyện về bà Mahāpajāpatī Gotamī 468
 Atthagarudhammā - Tám Trọng Pháp 472 Bhikkhunī-upasampadānujānanaṃ - Sự
 cho phép về việc tu lên bậc trên của tỳ khưu ni 476 Dutiyabhāṇavāro -
 Tụng phẩm thứ nhì 490 Tatiyabhāṇavāro - Tụng phẩm thứ ba 512 Uddānagāthā
 \- Các câu kệ tóm lược 536
 
--
+#divider()
 
 === XI. PAÑCASATIKAKKHANDHAKAṂ - CHƯƠNG LIÊN QUAN NĂM TRĂM VỊ:
-<xi.-pañcasatikakkhandhakaṃ---chương-liên-quan-năm-trăm-vị>
 Saṅgītinidānaṃ - Duyên khởi của việc kết tập 544
 Khuddānukhuddakasikkhāpadakathā - Phần giảng về các điều học nhỏ nhặt và
 ít quan trọng 552 Brahmadaṇḍakathā - Phần giảng về hình phạt Phạm Thiên
 558 Uddānagāthā - Các câu kệ tóm lược 564
 
--
+#divider()
 
 === XII. SATTASATIKAKKHANDHAKAṂ - CHƯƠNG LIÊN QUAN BẢY TRĂM VỊ:
-<xii.-sattasatikakkhandhakaṃ---chương-liên-quan-bảy-trăm-vị>
 Paṭhamabhāṇavāro - Tụng phẩm thứ nhất 566 Dutiyabhāṇavāro - Tụng phẩm
 thứ nhì 582 Uddānagāthā - Các câu kệ tóm lược 598
 
@@ -973,12 +903,10 @@ TẠNG LUẬT
 TIỂU PHẨM
 
 == TẬP HAI VINAYAPIṬAKE
-<tập-hai-vinayapiṭake>
 CULLAVAGGAPĀḶI Dutiyo Bhāgo Namo tassa bhagavato arahato
 sammāsambuddhassa.
 
 === V. KHUDDAKAVATTHUKKHANDHAKAṂ
-<v.-khuddakavatthukkhandhakaṃ>
 + KHUDDAKAVATTHŪNI
 
 + Tena samayena buddho bhagavā rājagahe viharati veḷuvane
@@ -1017,9 +945,7 @@ TẠNG LUẬT
 TIỂU PHẨM
 
 == Tập Hai Kính lễ đức Thế Tôn, bậc A-la-hán, đấng Chánh Biến Tri!
-<tập-hai-kính-lễ-đức-thế-tôn-bậc-a-la-hán-đấng-chánh-biến-tri>
 === V. CHƯƠNG CÁC TIỂU SỰ:
-<v.-chương-các-tiểu-sự>
 + CÁC TIỂU SỰ:
 
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Rājagaha, Veḷuvana, nơi
@@ -1048,7 +974,7 @@ kẻ chưa có đức tin và làm thay đổi (niềm tin) của một số ng�
 tin.” Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu
 rằng:
 
-- “Này các tỳ khưu, vị tỳ khưu trong lúc tắm không nên cọ xát cơ thể vào
+-- “Này các tỳ khưu, vị tỳ khưu trong lúc tắm không nên cọ xát cơ thể vào
   thân cây; vị nào cọ xát thì phạm tội dukkaṭa.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -1116,7 +1042,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   thoại rồi bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, vị tỳ khưu trong lúc tắm không nên cọ xát cơ thể vào
+-- “Này các tỳ khưu, vị tỳ khưu trong lúc tắm không nên cọ xát cơ thể vào
   cột trụ; vị nào cọ xát thì phạm tội dukkaṭa.”
 
 #block[
@@ -1131,7 +1057,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   rồi bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, trong lúc tắm không nên cọ xát cơ thể vào tường nhà;
+-- “Này các tỳ khưu, trong lúc tắm không nên cọ xát cơ thể vào tường nhà;
   vị nào cọ xát thì phạm tội dukkaṭa.”
 
 #block[
@@ -1146,7 +1072,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, không nên tắm (cọ xát) ở tấm ván xẻ; vị nào tắm thì
+-- “Này các tỳ khưu, không nên tắm (cọ xát) ở tấm ván xẻ; vị nào tắm thì
   phạm tội dukkaṭa.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -1299,7 +1225,7 @@ vòng ở ngực ―(như trên)― đeo đồ trang sức ở tay ―(như trê
 ngón, có đúng không vậy?” - “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau
 khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, không nên đeo hoa tai, không nên đeo hoa tai dạng
+-- “Này các tỳ khưu, không nên đeo hoa tai, không nên đeo hoa tai dạng
   chuỗi, không nên đeo dây chuỗi ở cổ, không nên đeo dây chuỗi ở hông,
   không nên đeo vòng, không nên đeo vòng ở ngực, không nên đeo đồ trang
   sức ở tay, không nên đeo nhẫn; vị nào đeo thì phạm tội dukkaṭa.”
@@ -1311,7 +1237,7 @@ khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu r�
   vậy.” Các vị đã trình sự việc ấy lên đức Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, không nên để tóc dài; vị nào để (tóc dài) thì phạm
+-- “Này các tỳ khưu, không nên để tóc dài; vị nào để (tóc dài) thì phạm
   tội dukkaṭa. Này các tỳ khưu, ta cho phép (để tóc) hai tháng hoặc (để
   dài) hai lóng tay.”
 
@@ -1322,7 +1248,7 @@ dầu nước. Dân chúng phàn nàn, phê phán, chê bai rằng: - “Giống
 kẻ tại gia hưởng dục vậy.” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ―(như trên)―
 
-- “Này các tỳ khưu, không nên chải tóc bằng lược, không nên chải tóc
+-- “Này các tỳ khưu, không nên chải tóc bằng lược, không nên chải tóc
   bằng vật giống hình mang rắn, không nên chải tóc bằng tay xòe ra,
   không nên chải tóc với sáp ong, không nên chải tóc với dầu nước; vị
   nào chải tóc thì phạm tội dukkaṭa.”
@@ -1397,7 +1323,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên nhìn nét mặt ở gương soi hoặc ở trong chậu
+-- “Này các tỳ khưu, không nên nhìn nét mặt ở gương soi hoặc ở trong chậu
   nước; vị nào nhìn thì phạm tội dukkaṭa.”
 
 #block[
@@ -1408,7 +1334,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   thế đó.” Vị ấy không tin. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, do nhân duyên bệnh ta cho phép nhìn nét mặt ở gương
+-- “Này các tỳ khưu, do nhân duyên bệnh ta cho phép nhìn nét mặt ở gương
   soi hoặc ở trong chậu nước.”
 
 #block[
@@ -1421,7 +1347,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   trên)―
 ]
 
-- “Này các tỳ khưu, không nên thoa dầu khuôn mặt, không nên xoa bóp
+-- “Này các tỳ khưu, không nên thoa dầu khuôn mặt, không nên xoa bóp
   khuôn mặt, không nên thoa phấn khuôn mặt, không nên tô điểm khuôn mặt
   bằng bột phấn đỏ, không nên vẽ màu ở thân thể, không nên vẽ màu ở
   khuôn mặt, không nên vẽ màu ở thân thể và ở khuôn mặt; vị nào thực
@@ -1433,7 +1359,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, do nhân duyên bệnh ta cho phép thoa dầu khuôn mặt.”
+-- “Này các tỳ khưu, do nhân duyên bệnh ta cho phép thoa dầu khuôn mặt.”
 
 #block[
 #set enum(numbering: "1.", start: 30)
@@ -1444,7 +1370,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đã trình sự việc ấy lên đức Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, không nên đi xem vũ, ca, hoặc tấu nhạc; vị nào đi
+-- “Này các tỳ khưu, không nên đi xem vũ, ca, hoặc tấu nhạc; vị nào đi
   thì phạm tội dukkaṭa.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -1519,7 +1445,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   trên)― Sau khi thuyết Pháp thoại, ngài đã bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, đây là năm điều bất lợi khi ngâm nga Pháp theo âm
+-- “Này các tỳ khưu, đây là năm điều bất lợi khi ngâm nga Pháp theo âm
   điệu ca hát với sự kéo dài: Bản thân vị ấy bị say đắm trong âm điệu,
   luôn cả những kẻ khác cũng bị say đắm trong âm điệu, hàng tại gia phàn
   nàn, trong khi ra sức thể hiện âm điệu thiền định bị phân tán, người
@@ -1541,7 +1467,7 @@ Tôn. - “Này các tỳ khưu, ta cho phép việc thuyết giảng với gi�
   Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, không nên mặc áo choàng có phủ lông phía bên ngoài;
+-- “Này các tỳ khưu, không nên mặc áo choàng có phủ lông phía bên ngoài;
   vị nào mặc thì phạm tội dukkaṭa.”
 
 #block[
@@ -1626,7 +1552,7 @@ tử lại thọ dụng xoài của đức vua không biết chừng mực vậy
 đã nghe được những người dân ấy phàn nàn, phê phán, chê bai. Sau đó, các
 vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn. ―(như trên)―
 
-- “Này các tỳ khưu, không nên thọ dụng xoài; vị nào thọ dụng thì phạm
+-- “Này các tỳ khưu, không nên thọ dụng xoài; vị nào thọ dụng thì phạm
   tội dukkaṭa.”
 
 #block[
@@ -1636,7 +1562,7 @@ vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn. ―(nh
   không thọ lãnh.
 ]
 
-- “Này các tỳ khưu, hãy thọ lãnh và thọ dụng. Này các tỳ khưu, ta cho
+-- “Này các tỳ khưu, hãy thọ lãnh và thọ dụng. Này các tỳ khưu, ta cho
   phép (thọ dụng) xoài miếng.”
 
 Vào lúc bấy giờ, có bữa trai phạn dâng đến hội chúng của nhóm người nọ.
@@ -1644,7 +1570,7 @@ Họ đã không học hỏi để làm xoài thành miếng. Ở phòng ăn, h�
 với các trái xoài hãy còn nguyên vẹn. Các tỳ khưu ngần ngại không thọ
 lãnh.
 
-- “Này các tỳ khưu, hãy thọ lãnh và thọ dụng. Này các tỳ khưu, ta cho
+-- “Này các tỳ khưu, hãy thọ lãnh và thọ dụng. Này các tỳ khưu, ta cho
   phép thọ dụng trái cây đã được làm thành được phép đối với Sa-môn theo
   năm cách: đã được hoại bởi lửa, đã được hoại bởi dao, đã được hoại bởi
   móng tay, không có hột, và hột đã được lấy ra là cách thứ năm. Này các
@@ -1899,7 +1825,7 @@ Piṇḍolabhāradvāja. Đức Thế Tôn đã nghe âm thanh ồn ào âm than
 khi nghe đã bảo đại đức Ānanda rằng: - “Này Ānanda, âm thanh ồn ào âm
 thanh ầm ĩ ấy là gì vậy?”
 
-- “Bạch ngài, cái bình bát của nhà đại phú thành Rājagaha đã được lấy
+-- “Bạch ngài, cái bình bát của nhà đại phú thành Rājagaha đã được lấy
   xuống bởi đại đức Piṇḍolabhāradvāja. Bạch ngài, dân chúng đã nghe
   rằng: ‘Nghe nói cái bình bát của nhà đại phú thành Rājagaha đã được
   lấy xuống bởi ngài đại đức Piṇḍolabhāradvāja.' Và bạch ngài, những
@@ -1912,7 +1838,7 @@ tỳ khưu lại và đã hỏi đại đức Piṇḍolabhāradvāja rằng: - 
 nghe nói cái bình bát của nhà đại phú thành Rājagaha đã được nhà ngươi
 lấy xuống, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: - “Này Bhāradvāja, thật không đúng
 đắn, không hợp lẽ, không thích đáng, không xứng pháp Sa-môn, không được
@@ -1987,7 +1913,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
 Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, không nên phô bày pháp thượng nhân tức là sự kỳ diệu
+-- “Này các tỳ khưu, không nên phô bày pháp thượng nhân tức là sự kỳ diệu
   của phép thần thông đến hàng tại gia; vị nào phô bày thì phạm tội
   dukkaṭa. Này các tỳ khưu, hãy đập vỡ bình bát gỗ ấy, nghiền thành bột
   mịn, rồi hãy dâng đến các tỳ khưu làm hương liệu của thuốc cao. Này
@@ -2002,7 +1928,7 @@ Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khư
   sự việc ấy lên đức Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, không nên sử dụng bình bát làm bằng vàng, không nên
+-- “Này các tỳ khưu, không nên sử dụng bình bát làm bằng vàng, không nên
   sử dụng bình bát làm bằng bạc, không nên sử dụng bình bát làm bằng
   ngọc ma-ni, không nên sử dụng bình bát làm bằng ngọc bích, không nên
   sử dụng bình bát làm bằng pha-lê, không nên sử dụng bình bát làm bằng
@@ -2018,25 +1944,25 @@ Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khư
   lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) vòng đế bình bát.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) vòng đế bình bát.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư sử dụng các vòng đế bình bát đủ
 loại làm bằng vàng, làm bằng bạc. Dân chúng phàn nàn, phê phán, chê bai
 rằng: - “Giống như các kẻ tại gia hưởng dục vậy.” Các vị đã trình sự
 việc ấy lên đức Thế Tôn. ―(như trên)―
 
-- “Này các tỳ khưu, không nên sử dụng các vòng đế bình bát đủ loại; vị
+-- “Này các tỳ khưu, không nên sử dụng các vòng đế bình bát đủ loại; vị
   nào sử dụng thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép hai
   loại vòng đế bình bát: loại làm bằng thiếc và loại làm bằng chì.”
 
 Những vòng đế dày cộm không giữ yên (bình bát). Các vị đã trình việc ấy
 lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép đẽo gọt bớt.”
+-- “Này các tỳ khưu, ta cho phép đẽo gọt bớt.”
 
 Chúng bị lỏng chỏng. ―(như trên)―
 
-- “Này các tỳ khưu, ta cho phép cắt răng cá kiếm (cắm vào để giữ bình
+-- “Này các tỳ khưu, ta cho phép cắt răng cá kiếm (cắm vào để giữ bình
   bát).”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -2215,7 +2141,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đặt bình bát xuống ở mép của bục nền xung
+-- “Này các tỳ khưu, không nên đặt bình bát xuống ở mép của bục nền xung
   quanh; vị nào đặt xuống thì phạm tội dukkaṭa.”
 
 #block[
@@ -2224,30 +2150,30 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   miệng (bình bát) bị trầy. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) miếng lót bằng cỏ.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) miếng lót bằng cỏ.”
 
 Miếng lót bằng cỏ bị các con mối ăn. Các vị đã trình sự việc ấy lên đức
 Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) mảnh vải.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) mảnh vải.”
 
 Mảnh vải bị các con mối ăn. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) bục kê bình bát.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) bục kê bình bát.”
 
 Bình bát rơi từ bục kê bình bát và bị vỡ. Các vị đã trình sự việc ấy lên
 đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) giỏ mây chứa bình bát.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) giỏ mây chứa bình bát.”
 
 Ở trong giỏ mây chứa bình bát, bình bát bị trầy. Các vị đã trình sự việc
 ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) túi đựng bình bát.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) túi đựng bình bát.”
 
 Dây mang vai không có. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) dây mang vai là chỉ kết lại.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) dây mang vai là chỉ kết lại.”
 
 #block[
 #set enum(numbering: "1.", start: 48)
@@ -2256,7 +2182,7 @@ Dây mang vai không có. Các vị đã trình sự việc ấy lên đức Th�
   ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên treo bình bát; vị nào treo thì phạm tội
+-- “Này các tỳ khưu, không nên treo bình bát; vị nào treo thì phạm tội
   dukkaṭa.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -2333,7 +2259,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đặt bình bát xuống ở giường; vị nào đặt
+-- “Này các tỳ khưu, không nên đặt bình bát xuống ở giường; vị nào đặt
   xuống thì phạm tội dukkaṭa.”
 
 #block[
@@ -2343,7 +2269,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đặt bình bát xuống ở ghế; vị nào đặt xuống
+-- “Này các tỳ khưu, không nên đặt bình bát xuống ở ghế; vị nào đặt xuống
   thì phạm tội dukkaṭa.”
 
 #block[
@@ -2353,7 +2279,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đặt bình bát xuống ở bắp vế; vị nào đặt
+-- “Này các tỳ khưu, không nên đặt bình bát xuống ở bắp vế; vị nào đặt
   xuống thì phạm tội dukkaṭa.”
 
 #block[
@@ -2363,7 +2289,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đặt bình bát xuống ở trên cái dù; vị nào
+-- “Này các tỳ khưu, không nên đặt bình bát xuống ở trên cái dù; vị nào
   đặt xuống thì phạm tội dukkaṭa.”
 
 #block[
@@ -2373,7 +2299,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   Tôn.
 ]
 
-- “Này các tỳ khưu, không nên mở cửa với bình bát ở tay; vị nào mở cửa
+-- “Này các tỳ khưu, không nên mở cửa với bình bát ở tay; vị nào mở cửa
   thì phạm tội dukkaṭa.”
 
 #block[
@@ -2383,7 +2309,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đạo vậy?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đi khất thực (chứa) ở bầu đựng nước; vị
+-- “Này các tỳ khưu, không nên đi khất thực (chứa) ở bầu đựng nước; vị
   nào đi (khất thực như thế) thì phạm tội dukkaṭa.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -2455,7 +2381,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đạo vậy?” Các vị đã trình sự việc ấy lên đức Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, không nên đi khất thực (chứa) ở chậu đựng nước; vị
+-- “Này các tỳ khưu, không nên đi khất thực (chứa) ở chậu đựng nước; vị
   nào đi (khất thực như thế) thì phạm tội dukkaṭa.”
 
 #block[
@@ -2469,7 +2395,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   sự việc ấy lên đức Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, không nên sử dụng bình bát (làm bằng) đầu lâu của
+-- “Này các tỳ khưu, không nên sử dụng bình bát (làm bằng) đầu lâu của
   người chết; vị nào sử dụng thì phạm tội dukkaṭa. Này các tỳ khưu,
   không nên sinh tồn chỉ nhờ vào các vật bị quăng bỏ; vị nào sinh tồn
   (như thế) thì phạm tội dukkaṭa.”
@@ -2483,7 +2409,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   trên)―
 ]
 
-- “Này các tỳ khưu, không nên dùng bình bát để mang đi các đồ thừa thãi,
+-- “Này các tỳ khưu, không nên dùng bình bát để mang đi các đồ thừa thãi,
   xương xóc, hay nước cặn; vị nào mang đi thì phạm tội dukkaṭa. Này các
   tỳ khưu, ta cho phép (sử dụng) vật đựng (rác).”
 
@@ -2493,7 +2419,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   mỹ. Các vị đã trình sự việc ấy lên đức Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) dao nhỏ có vỏ bọc.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) dao nhỏ có vỏ bọc.”
 
 #block[
 #set enum(numbering: "1.", start: 59)
@@ -2501,7 +2427,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) dao nhỏ có cán.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) dao nhỏ có cán.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
 
@@ -2566,7 +2492,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   việc ấy lên đức Thế Tôn. ―(như trên)―
 ]
 
-- “Này các tỳ khưu, không nên sử dụng các cán dao đủ loại; vị nào sử
+-- “Này các tỳ khưu, không nên sử dụng các cán dao đủ loại; vị nào sử
   dụng thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép làm bằng
   xương, làm bằng ngà răng, làm bằng sừng, làm bằng sậy, làm bằng tre,
   làm bằng gỗ, làm bằng nhựa cây, làm bằng trái cây, làm bằng đồng, làm
@@ -2750,7 +2676,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên sử dụng các vật bao ngón tay đủ loại; vị
+-- “Này các tỳ khưu, không nên sử dụng các vật bao ngón tay đủ loại; vị
   nào sử dụng thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép làm
   bằng xương, làm bằng ngà răng, làm bằng sừng, làm bằng sậy, làm bằng
   tre, làm bằng gỗ, làm bằng nhựa cây, làm bằng trái cây, làm bằng đồng,
@@ -3061,7 +2987,7 @@ ottharikan ti - Syā. 2 aṭṭhitā - Ma, Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
-- “Này các tỳ khưu, ta cho phép đồ lược nước gắn ở các cây gậy. Đồ lược
+-- “Này các tỳ khưu, ta cho phép đồ lược nước gắn ở các cây gậy. Đồ lược
   nước gắn ở các cây gậy không làm trong (nước) được. Các vị đã trình sự
   việc ấy lên đức Thế Tôn. - “Này các tỳ khưu, ta cho phép (sử dụng) vại
   lọc nước.”
@@ -3853,14 +3779,14 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   hại.”
 ]
 
-- “Thưa các ngài đại đức, tôi làm được điều gì?”
+-- “Thưa các ngài đại đức, tôi làm được điều gì?”
 
-- “Này đạo hữu Vaḍḍha, nếu ngươi chịu làm thì ngay trong ngày hôm nay
+-- “Này đạo hữu Vaḍḍha, nếu ngươi chịu làm thì ngay trong ngày hôm nay
   đức Thế Tôn có thể trục xuất đại đức Dabba Mallaputta.”
 
-- “Thưa các ngài đại đức, tôi làm được điều gì? Tôi có thể làm điều gì?”
+-- “Thưa các ngài đại đức, tôi làm được điều gì? Tôi có thể làm điều gì?”
 
-- “Này đạo hữu Vaḍḍha, hãy đến. Ngươi hãy đi đến gặp đức Thế Tôn, sau
+-- “Này đạo hữu Vaḍḍha, hãy đến. Ngươi hãy đi đến gặp đức Thế Tôn, sau
   khi đến hãy nói với đức Thế Tôn như vầy: ‘Bạch ngài, điều này là không
   đúng đắn, không thích đáng. Bạch ngài, chính ở quốc độ nào không có sự
   sợ hãi, không có tai họa, không có sầu khổ thì chính ở quốc độ ấy có
@@ -3909,7 +3835,7 @@ anāvāsāya - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
-- “Thưa các ngài đại đức, xin vâng.” Rồi Vaḍḍha Licchavi nghe theo các
+-- “Thưa các ngài đại đức, xin vâng.” Rồi Vaḍḍha Licchavi nghe theo các
   tỳ khưu nhóm Mettiya và Bhummajaka đã đi đến gặp đức Thế Tôn, sau khi
   đến đã đảnh lễ đức Thế Tôn rồi ngồi xuống một bên. Khi đã ngồi xuống
   một bên, Vaḍḍha Licchavi đã nói với đức Thế Tôn điều này: - “Bạch
@@ -3924,19 +3850,19 @@ tỳ khưu lại và hỏi đại đức Dabba Mallaputta rằng: - “Này Dabb
 nhớ ngươi là kẻ đã làm việc như thế, giống như điều vị Vaḍḍha này đã nói
 không?”
 
-- “Bạch ngài, con như thế nào đức Thế Tôn biết mà.”
+-- “Bạch ngài, con như thế nào đức Thế Tôn biết mà.”
 
 Đến lần thứ nhì, đức Thế Tôn ―(như trên)― Đến lần thứ ba, đức Thế Tôn đã
 nói với đại đức Dabba Mallaputta điều này: - “Này Dabba, ngươi có nhớ
 ngươi là kẻ đã làm việc như thế, giống như điều vị Vaḍḍha này đã nói
 không?”
 
-- “Bạch ngài, con như thế nào đức Thế Tôn biết mà.”
+-- “Bạch ngài, con như thế nào đức Thế Tôn biết mà.”
 
-- “Này Dabba, các vị (dòng dõi) Dabba không phủ nhận như thế. Nếu ngươi
+-- “Này Dabba, các vị (dòng dõi) Dabba không phủ nhận như thế. Nếu ngươi
   có làm, hãy nói: ‘Có làm;' nếu không làm, hãy nói: ‘Không làm.'”
 
-- “Bạch ngài, từ khi con được sanh ra con không thấy mình là kẻ đã thực
+-- “Bạch ngài, từ khi con được sanh ra con không thấy mình là kẻ đã thực
   hành việc đôi lứa ngay cả trong lúc ngủ mơ, huống gì là tỉnh thức.”
 
 Sau đó, đức Thế Tôn đã bảo các tỳ khưu rằng: - “Này các tỳ khưu, chính
@@ -4071,7 +3997,7 @@ iṅgha - Syā. 2 anāvāsāya - Syā. 3 yācitabbā - Syā, PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
-- “Này đạo hữu Vaḍḍha, đúng như thế. Tội lỗi đã chiếm ngự lấy ngươi
+-- “Này đạo hữu Vaḍḍha, đúng như thế. Tội lỗi đã chiếm ngự lấy ngươi
   khiến ngươi như là ngu khờ, như là mê muội, như là không có đạo đức
   nên ngươi đã bôi nhọ đại đức Dabba Mallaputta với sự hư hỏng về giới
   không có nguyên cớ. Này đạo hữu Vaḍḍha, chính từ việc đó ngươi đã thấy
@@ -4124,7 +4050,7 @@ Khamati saṅghassa, tasmā tuṇhī. Evametaṃ dhārayāmī '”ti.
 
 Dutiya bhāṇavāraṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
@@ -4143,7 +4069,7 @@ cùng thọ hưởng với hội chúng (đã được thực hiện). Sự vi�
 
 Tụng phẩm thứ nhì.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
 
@@ -4218,7 +4144,7 @@ mạnh, sống thoải mái (như vầy): ‘Bạch ngài, vương tử Bodhi xi
 như vầy: ‘Bạch đức Thế Tôn, xin ngài cùng với hội chúng tỳ khưu nhận lời
 bữa thọ trai vào ngày mai của vương tử Bodhi.'”
 
-- “Thưa ngài, xin vâng.” Rồi chàng thanh niên con trai bà Sañjikā nghe
+-- “Thưa ngài, xin vâng.” Rồi chàng thanh niên con trai bà Sañjikā nghe
   lời vương tử Bodhi đã đi đến gặp đức Thế Tôn, sau khi đến đã bày tỏ sự
   thân thiện đối với đức Thế Tôn, sau khi trao đổi lời xã giao thân
   thiện rồi đã ngồi xuống một bên. Khi đã ngồi xuống một bên, chàng
@@ -4390,7 +4316,7 @@ nào bước lên thì phạm tội dukkaṭa.”
   bước lên tấm vải.” Các tỳ khưu trong khi ngần ngại không bước lên.
 ]
 
-- “Thưa các ngài, xin hãy bước lên tấm vải để đem lại sự may mắn.” Các
+-- “Thưa các ngài, xin hãy bước lên tấm vải để đem lại sự may mắn.” Các
   tỳ khưu trong khi ngần ngại đã không bước lên.
 
 Khi ấy, người đàn bà ấy phàn nàn, phê phán, chê bai rằng: - “Tại sao các
@@ -4574,10 +4500,10 @@ tỳ khưu nhóm Lục Sư mang ô dù đang đi lại, sau khi nhìn thấy đ�
 nam cư sĩ ấy điều này: - “Này ông, các bậc khả kính kia của ông mang ô
 dù đi đến kìa, giống như đám quan đại thần vậy.”
 
-- “Này quý vị, các vị ấy không phải là các tỳ khưu, là các du sĩ ngoại
+-- “Này quý vị, các vị ấy không phải là các tỳ khưu, là các du sĩ ngoại
   đạo.”
 
-- ‘Là các tỳ khưu, không phải là các tỳ khưu,' họ đã thực hiện việc cá
+-- ‘Là các tỳ khưu, không phải là các tỳ khưu,' họ đã thực hiện việc cá
   độ. Sau đó, nam cư sĩ ấy khi đi lại gần biết được rõ ràng nên mới phàn
   nàn, phê phán, chê bai rằng: - “Tại sao các ngài đại đức lại mang ô dù
   đi đó đây?”
@@ -4665,9 +4591,9 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   cho các tỳ khưu.
 ]
 
-- “Này đại đức, có phải đại đức mang theo gậy và dây thừng?”
+-- “Này đại đức, có phải đại đức mang theo gậy và dây thừng?”
 
-- “Này các đại đức, đúng vậy.”
+-- “Này các đại đức, đúng vậy.”
 
 Các tỳ khưu nào ít ham muốn, tự biết đủ, khiêm tốn, có hối hận, ưa thích
 sự học tập, các vị ấy phàn nàn, phê phán, chê bai rằng: - “Vì sao tỳ
@@ -4675,10 +4601,10 @@ khưu lại mang theo gậy và dây thừng?”
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này tỳ khưu, nghe nói ngươi mang theo gậy và dây thừng, có đúng không
+-- “Này tỳ khưu, nghe nói ngươi mang theo gậy và dây thừng, có đúng không
   vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Thế Tôn đã khiển trách rằng: ―(như trên)― Sau khi khiển trách, ngài
 đã nói Pháp thoại rồi bảo các tỳ khưu rằng: - “Này các tỳ khưu, không
@@ -4769,7 +4695,7 @@ sự việc này là như vậy.'”
   thể mang bình bát. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép ban cho sự đồng ý về (việc sử dụng) dây
+-- “Này các tỳ khưu, ta cho phép ban cho sự đồng ý về (việc sử dụng) dây
   thừng đến tỳ khưu bị bệnh. Và này các tỳ khưu, nên ban cho như vầy: Vị
   tỳ khưu bị bệnh ấy cần đi đến gặp hội chúng, đắp thượng y một bên vai,
   đảnh lễ ở chân các tỳ khưu trưởng thượng, ngồi chồm hổm, chắp tay lên,
@@ -4855,7 +4781,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép ban cho sự đồng ý về (việc sử dụng) gậy
+-- “Này các tỳ khưu, ta cho phép ban cho sự đồng ý về (việc sử dụng) gậy
   và dây thừng đến tỳ khưu bị bệnh. Và này các tỳ khưu, nên ban cho như
   vầy: Vị tỳ khưu bị bệnh ấy cần đi đến gặp hội chúng, đắp thượng y một
   bên vai, đảnh lễ ở chân các tỳ khưu trưởng thượng, ngồi chồm hổm, chắp
@@ -4893,7 +4819,7 @@ tôi ghi nhận sự việc này là như vậy.'”
   trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, vị tỳ khưu ấy trước đây không lâu thuộc nòi giống
+-- “Này các tỳ khưu, vị tỳ khưu ấy trước đây không lâu thuộc nòi giống
   trâu bò đã bị chết đi. Này các tỳ khưu, ta cho phép việc nhai lại đối
   với vị có tật nhai lại. Và này các tỳ khưu, sau khi ợ lên ở cửa miệng
   (vật đã ăn vào) không nên nuốt xuống; vị nào nuốt xuống thì nên được
@@ -4969,13 +4895,13 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   này: - “Ngài ơi, hãy đến. Hãy thực hiện việc lứa đôi đi.”
 ]
 
-- “Này chị gái, thôi đi. Việc ấy không được phép.”
+-- “Này chị gái, thôi đi. Việc ấy không được phép.”
 
-- “Ngài ơi, nếu ngài không thực hiện, giờ đây tôi sẽ cào cấu khắp mình
+-- “Ngài ơi, nếu ngài không thực hiện, giờ đây tôi sẽ cào cấu khắp mình
   mẩy bằng các móng tay của mình rồi sẽ làm ầm ĩ: ‘Tỳ khưu này xúc phạm
   tôi.'”
 
-- “Này chị gái, cô nên biết điều.”
+-- “Này chị gái, cô nên biết điều.”
 
 Khi ấy, người đàn bà ấy đã cào cấu khắp mình mẩy bằng các móng tay của
 mình rồi đã làm ầm ĩ: “Tỳ khưu này xúc phạm tôi.”
@@ -4988,9 +4914,9 @@ khưu không phải là người làm' rồi đã thả vị tỳ khưu ấy ra.
 Sau đó, vị tỳ khưu ấy đã đi đến tu viện và kể lại sự việc ấy cho các tỳ
 khưu.
 
-- “Này đại đức, có phải đại đức đã để dài các móng?”
+-- “Này đại đức, có phải đại đức đã để dài các móng?”
 
-- “Này các đại đức, đúng vậy.”
+-- “Này các đại đức, đúng vậy.”
 
 Các tỳ khưu nào ít ham muốn, tự biết đủ, khiêm tốn, có hối hận, ưa thích
 sự học tập, các vị ấy phàn nàn, phê phán, chê bai rằng: - “Vì sao các tỳ
@@ -5066,11 +4992,11 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép việc cắt móng.”
+-- “Này các tỳ khưu, ta cho phép việc cắt móng.”
 
 Các vị cắt móng làm chảy máu. Các ngón bị đau.
 
-- “Này các tỳ khưu, ta cho phép cắt móng đến sát phần thịt.”
+-- “Này các tỳ khưu, ta cho phép cắt móng đến sát phần thịt.”
 
 #block[
 #set enum(numbering: "1.", start: 116)
@@ -5080,7 +5006,7 @@ Các vị cắt móng làm chảy máu. Các ngón bị đau.
   Tôn.
 ]
 
-- “Này các tỳ khưu, không nên bảo trau chuốt hai mươi (móng tay và
+-- “Này các tỳ khưu, không nên bảo trau chuốt hai mươi (móng tay và
   chân); vị nào bảo trau chuốt thì phạm tội dukkaṭa. Này các tỳ khưu, ta
   cho phép lấy đất ra (từ các móng).”
 
@@ -5090,10 +5016,10 @@ Các vị cắt móng làm chảy máu. Các ngón bị đau.
   ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, các tỳ khưu có khả năng để xuống tóc cho nhau
+-- “Này các tỳ khưu, các tỳ khưu có khả năng để xuống tóc cho nhau
   không?”
 
-- “Bạch Thế Tôn, có khả năng.”
+-- “Bạch Thế Tôn, có khả năng.”
 
 Khi ấy, đức Thế Tôn nhân lý do ấy nhân sự kiện ấy đã nói Pháp thoại rồi
 bảo các tỳ khưu rằng: - “Này các tỳ khưu, ta cho phép (sử dụng) dao cạo,
@@ -5109,7 +5035,7 @@ quan đến dao cạo.”
   tại gia hưởng dục vậy.” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên tỉa râu, không nên để râu dài ra, không
+-- “Này các tỳ khưu, không nên tỉa râu, không nên để râu dài ra, không
   nên tạo dáng chòm râu dưới cằm, không nên tạo dáng chòm râu hình
   vuông, không nên tạo dáng lông ngực, không nên tạo dáng lông bụng,
   không nên làm đứng giống ngà voi, không nên nhổ (cạo) lông ở chỗ kín;
@@ -5176,7 +5102,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   thể bám vào. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép nhổ (cạo) lông ở chỗ kín do duyên cớ
+-- “Này các tỳ khưu, ta cho phép nhổ (cạo) lông ở chỗ kín do duyên cớ
   bệnh.”
 
 #block[
@@ -5186,7 +5112,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   hưởng dục vậy.” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên bảo cắt tóc bằng kéo; vị nào bảo cắt thì
+-- “Này các tỳ khưu, không nên bảo cắt tóc bằng kéo; vị nào bảo cắt thì
   phạm tội dukkaṭa.”
 
 #block[
@@ -5195,7 +5121,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   xuống tóc bằng dao cạo. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép bảo cắt tóc bằng kéo do duyên cớ bệnh.”
+-- “Này các tỳ khưu, ta cho phép bảo cắt tóc bằng kéo do duyên cớ bệnh.”
 
 #block[
 #set enum(numbering: "1.", start: 122)
@@ -5204,7 +5130,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên để lông mũi dài; vị nào để thì phạm tội
+-- “Này các tỳ khưu, không nên để lông mũi dài; vị nào để thì phạm tội
   dukkaṭa.”
 
 #block[
@@ -5214,13 +5140,13 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) cái nhíp (nhổ lông).”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) cái nhíp (nhổ lông).”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư bảo nhổ tóc bạc. Dân chúng phàn
 nàn, phê phán, chê bai rằng: - “Giống như các kẻ tại gia hưởng dục vậy.”
 Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên bảo nhổ tóc bạc; vị nào bảo nhổ thì phạm
+-- “Này các tỳ khưu, không nên bảo nhổ tóc bạc; vị nào bảo nhổ thì phạm
   tội dukkaṭa.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -5286,14 +5212,14 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) đồ lấy ráy tai.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) đồ lấy ráy tai.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư sử dụng các đồ lấy ráy tai đủ
 loại làm bằng vàng, làm bằng bạc. Dân chúng phàn nàn, phê phán, chê bai
 rằng: - “Giống như các kẻ tại gia hưởng dục vậy.” Các vị đã trình sự
 việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên sử dụng các đồ lấy ráy tai đủ loại; vị nào
+-- “Này các tỳ khưu, không nên sử dụng các đồ lấy ráy tai đủ loại; vị nào
   sử dụng thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép làm bằng
   xương, làm bằng ngà răng, làm bằng sừng, làm bằng sậy, làm bằng tre,
   làm bằng gỗ, làm bằng nhựa cây, làm bằng trái cây, làm bằng đồng, làm
@@ -5309,14 +5235,14 @@ việc ấy lên đức Thế Tôn.
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên tích trữ đồ vật làm bằng đồng thau và đồ
+-- “Này các tỳ khưu, không nên tích trữ đồ vật làm bằng đồng thau và đồ
   vật làm bằng đồng đỏ; vị nào tích trữ thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu ngần ngại (sử dụng) thuốc cao, que bôi
 thuốc cao, đồ lấy ráy tai, và vật dùng làm cán (tay cầm). Các vị đã
 trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) thuốc cao, que bôi thuốc cao,
+-- “Này các tỳ khưu, ta cho phép (sử dụng) thuốc cao, que bôi thuốc cao,
   đồ lấy ráy tai, vật dùng làm cán (tay cầm).”
 
 #block[
@@ -5326,13 +5252,13 @@ trình sự việc ấy lên đức Thế Tôn.
   lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên ngồi ôm đầu gối bằng y hai lớp; vị nào
+-- “Này các tỳ khưu, không nên ngồi ôm đầu gối bằng y hai lớp; vị nào
   ngồi thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, có vị tỳ khưu nọ bị bệnh. Không có vải băng bó, vị ấy
 không được thoải mái. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) vải băng bó.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) vải băng bó.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
 
@@ -5389,7 +5315,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 Khi ấy, các tỳ khưu đã khởi ý điều này: “Vải băng bó nên được làm ra như
 thế nào?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) khung dệt, con thoi, sợi dệt,
+-- “Này các tỳ khưu, ta cho phép (sử dụng) khung dệt, con thoi, sợi dệt,
   kim dệt, và tất cả vật dụng liên quan đến việc dệt.”
 
 #block[
@@ -5401,7 +5327,7 @@ thế nào?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
   trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, vị không buộc dây thắt lưng không nên đi vào làng;
+-- “Này các tỳ khưu, vị không buộc dây thắt lưng không nên đi vào làng;
   vị nào đi vào thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép dây
   thắt lưng.”
 
@@ -5414,7 +5340,7 @@ thế nào?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên sử dụng các dây thắt lưng đủ loại: loại do
+-- “Này các tỳ khưu, không nên sử dụng các dây thắt lưng đủ loại: loại do
   nhiều sợi bện lại, loại giống hình đầu rắn nước, loại có bện cái trống
   nhỏ, loại giống như dây xích; vị nào sử dụng thì phạm tội dukkaṭa. Này
   các tỳ khưu, ta cho phép (sử dụng) hai loại dây thắt lưng: loại bằng
@@ -5495,7 +5421,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên sử dụng các khóa thắt lưng đủ loại; vị nào
+-- “Này các tỳ khưu, không nên sử dụng các khóa thắt lưng đủ loại; vị nào
   sử dụng thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép làm bằng
   xương, làm bằng ngà răng, làm bằng sừng, làm bằng sậy, làm bằng tre,
   làm bằng gỗ, làm bằng nhựa cây, làm bằng trái cây, làm bằng đồng, làm
@@ -5509,14 +5435,14 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   các tỳ khưu. Các tỳ khưu đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) hột nút, cái nơ buộc.”
+-- “Này các tỳ khưu, ta cho phép (sử dụng) hột nút, cái nơ buộc.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư sử dụng các hột nút đủ loại làm
 bằng vàng, làm bằng bạc. Dân chúng phàn nàn, phê phán, chê bai rằng: -
 “Giống như các kẻ tại gia hưởng dục vậy.” Các vị đã trình sự việc ấy lên
 đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên sử dụng các hột nút đủ loại; vị nào sử
+-- “Này các tỳ khưu, không nên sử dụng các hột nút đủ loại; vị nào sử
   dụng thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép làm bằng
   xương, làm bằng ngà răng, làm bằng sừng, làm bằng sậy, làm bằng tre,
   làm bằng gỗ, làm bằng nhựa cây, làm bằng trái cây, làm bằng đồng, làm
@@ -5528,14 +5454,14 @@ bằng vàng, làm bằng bạc. Dân chúng phàn nàn, phê phán, chê bai r�
   bị sờn. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) hột nút hình dẹp, cái nơ buộc
+-- “Này các tỳ khưu, ta cho phép (sử dụng) hột nút hình dẹp, cái nơ buộc
   hình dẹp.”
 
 Các vị cài hột nút hình dẹp, cài cái nơ buộc hình dẹp ở góc chéo (của
 y). Phần cuối (của y) bị mở ra. Các vị đã trình sự việc ấy lên đức Thế
 Tôn.
 
-- “Này các tỳ khưu, ta cho phép cài hột nút hình dẹp ở góc chéo (của y),
+-- “Này các tỳ khưu, ta cho phép cài hột nút hình dẹp ở góc chéo (của y),
   cài cái nơ buộc hình dẹp sau khi lùi vào bảy lóng tay hoặc tám lóng
   tay.”
 
@@ -5594,7 +5520,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên mặc vải lót trong của người tại gia: loại
+-- “Này các tỳ khưu, không nên mặc vải lót trong của người tại gia: loại
   quấn như vòi voi, loại vắt lên như đuôi cá, loại để hở bốn góc, loại
   vải có tua, loại vải thật dài; vị nào mặc thì phạm tội dukkaṭa.”
 
@@ -5605,14 +5531,14 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên mặc váy; vị nào mặc thì phạm tội dukkaṭa.”
+-- “Này các tỳ khưu, không nên mặc váy; vị nào mặc thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư trùm loại vải choàng bên ngoài
 của người tại gia. Dân chúng phàn nàn, phê phán, chê bai rằng: - “Giống
 như các kẻ tại gia hưởng dục vậy.” Các vị đã trình sự việc ấy lên đức
 Thế Tôn.
 
-- “Này các tỳ khưu, không nên trùm loại vải choàng bên ngoài của người
+-- “Này các tỳ khưu, không nên trùm loại vải choàng bên ngoài của người
   tại gia; vị nào trùm thì phạm tội dukkaṭa.”
 
 #block[
@@ -5622,7 +5548,7 @@ Thế Tôn.
   đức vua vậy?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đeo túi quàng ở hai vai; vị nào đeo thì
+-- “Này các tỳ khưu, không nên đeo túi quàng ở hai vai; vị nào đeo thì
   phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép túi đeo một bên vai,
   túi hai người xách, vật đội trên đầu, vật mang ở vai, vật mang ở hông,
   túi xách.”
@@ -5695,7 +5621,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   mùi hôi. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, đây là năm điều bất lợi trong việc không nhai gỗ chà
+-- “Này các tỳ khưu, đây là năm điều bất lợi trong việc không nhai gỗ chà
   răng: Không có ích lợi cho mắt, miệng trở nên có mùi hôi, các vị giác
   không tinh tế, mật và đờm che lấp thức ăn, vị ấy không hứng thú với
   thức ăn. Này các tỳ khưu, đây là năm điều bất lợi trong việc không
@@ -5713,7 +5639,7 @@ khưu, đây là năm điều lợi ích trong việc nhai gỗ chà răng.”
   trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên nhai gỗ chà răng loại dài; vị nào nhai thì
+-- “Này các tỳ khưu, không nên nhai gỗ chà răng loại dài; vị nào nhai thì
   phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép gỗ chà răng dài tối đa
   tám ngón tay và không nên đánh (gõ) sa di bằng cây gỗ ấy; vị nào đánh
   thì phạm tội dukkaṭa.”
@@ -5731,7 +5657,7 @@ khưu, đây là năm điều lợi ích trong việc nhai gỗ chà răng.”
   đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên đốt đám lửa lớn; vị nào đốt thì phạm tội
+-- “Này các tỳ khưu, không nên đốt đám lửa lớn; vị nào đốt thì phạm tội
   dukkaṭa.”
 
 Vào lúc bấy giờ, các tu viện có cỏ rậm rạp. Trong khi đám lửa lớn bị
@@ -5739,7 +5665,7 @@ phát cháy, các tu viện bị phát cháy. Các tỳ khưu ngần ngại (kh�
 nên ngọn lửa nghịch chiều để thực hiện sự bảo vệ. Các vị đã trình sự
 việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, khi đám lửa lớn phát cháy ta cho phép tạo nên ngọn
+-- “Này các tỳ khưu, khi đám lửa lớn phát cháy ta cho phép tạo nên ngọn
   lửa nghịch chiều để thực hiện sự bảo vệ.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
@@ -5805,7 +5731,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
   Tôn.
 ]
 
-- “Này các tỳ khưu, không nên trèo lên cây; vị nào trèo lên thì phạm tội
+-- “Này các tỳ khưu, không nên trèo lên cây; vị nào trèo lên thì phạm tội
   dukkaṭa.”
 
 Vào lúc bấy giờ, có vị tỳ khưu nọ trong khi đi đến thành Sāvatthi ở xứ
@@ -5815,7 +5741,7 @@ chạy lại gần gốc cây, trong lúc ngần ngại đã không trèo lên c
 và kể lại sự việc ấy cho các tỳ khưu. Các tỳ khưu đã trình sự việc ấy
 lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép trèo lên cây với tầm cao của con người
+-- “Này các tỳ khưu, ta cho phép trèo lên cây với tầm cao của con người
   khi có việc cần làm, và đến tầm cao cần thiết trong những lúc hiểm
   nguy.”
 
@@ -5840,7 +5766,7 @@ lên đức Thế Tôn.
   trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, không nên hoán chuyển lời dạy của chư Phật sang dạng
+-- “Này các tỳ khưu, không nên hoán chuyển lời dạy của chư Phật sang dạng
   có niêm luật; vị nào hoán chuyển thì phạm tội dukkaṭa. Này các tỳ
   khưu, ta cho phép học tập lời dạy của đức Phật bằng tiếng địa phương
   của chính bản thân.”\[\*\]
@@ -5900,38 +5826,38 @@ no hetaṃ bhante ti - Syā. 2 vutto - Ma, Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
-- “Này các tỳ khưu, kẻ chuyên chú trong việc giải đoán điềm lành dữ có
+-- “Này các tỳ khưu, kẻ chuyên chú trong việc giải đoán điềm lành dữ có
   thể đạt được sự tiến triển, sự tăng trưởng, sự lớn mạnh trong Pháp và
   Luật này không?”
 
-- “Bạch ngài, không có điều ấy.”
+-- “Bạch ngài, không có điều ấy.”
 
-- “Hoặc vị chuyên chú trong Pháp và Luật này có thể học tập việc giải
+-- “Hoặc vị chuyên chú trong Pháp và Luật này có thể học tập việc giải
   đoán điềm lành dữ không?”
 
-- “Bạch ngài, không có điều ấy.”
+-- “Bạch ngài, không có điều ấy.”
 
-- “Này các tỳ khưu, không nên học tập việc giải đoán điềm lành dữ; vị
+-- “Này các tỳ khưu, không nên học tập việc giải đoán điềm lành dữ; vị
   nào học tập thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư dạy việc giải đoán điềm lành
 dữ. ―(như trên)― Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên dạy việc giải đoán điềm lành dữ; vị nào
+-- “Này các tỳ khưu, không nên dạy việc giải đoán điềm lành dữ; vị nào
   dạy thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư học tập kiến thức nhảm nhí. Dân
 chúng phàn nàn, phê phán, chê bai rằng: - “Giống như các kẻ tại gia
 hưởng dục vậy.” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên học tập kiến thức nhảm nhí; vị nào học tập
+-- “Này các tỳ khưu, không nên học tập kiến thức nhảm nhí; vị nào học tập
   thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư dạy kiến thức nhảm nhí. Dân
 chúng phàn nàn, phê phán, chê bai rằng: - “Giống như các kẻ tại gia
 hưởng dục vậy.” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên dạy kiến thức nhảm nhí; vị nào dạy thì
+-- “Này các tỳ khưu, không nên dạy kiến thức nhảm nhí; vị nào dạy thì
   phạm tội dukkaṭa.”
 
 #block[
@@ -5999,9 +5925,9 @@ paribāhiyo - Ma.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
-- “Bạch ngài, không có điều ấy.”
+-- “Bạch ngài, không có điều ấy.”
 
-- “Này các tỳ khưu, khi (ai đó) hắt hơi không nên nói rằng: ‘Mong rằng
+-- “Này các tỳ khưu, khi (ai đó) hắt hơi không nên nói rằng: ‘Mong rằng
   người hãy sống.' Vị nào nói thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, khi các tỳ khưu hắt hơi, dân chúng nói rằng: - “Thưa
@@ -6010,7 +5936,7 @@ không đáp lại. Dân chúng phàn nàn, phê phán, chê bai rằng: - “T�
 các Sa-môn Thích tử khi được nói rằng: ‘Thưa ngài, mong rằng ngài hãy
 sống' lại không đáp lời?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, những người tại gia mong điều tốt lành. Này các tỳ
+-- “Này các tỳ khưu, những người tại gia mong điều tốt lành. Này các tỳ
   khưu, khi được nói rằng: ‘Thưa ngài, mong rằng ngài hãy sống,' ta cho
   phép đáp lại người tại gia rằng: ‘Mong rằng người sống lâu.'”
 
@@ -6024,29 +5950,29 @@ sống' lại không đáp lời?” Các vị đã trình sự việc ấy lên
   khưu ấy đã ngồi xuống ở một góc vậy?”
 ]
 
-- “Bạch ngài, vị tỳ khưu ấy vừa mới nhai tỏi. Vị ấy (nghĩ rằng): ‘Chớ để
+-- “Bạch ngài, vị tỳ khưu ấy vừa mới nhai tỏi. Vị ấy (nghĩ rằng): ‘Chớ để
   các tỳ khưu bị phiền toái' nên đã ngồi xuống ở một góc.”
 
-- “Này các tỳ khưu, sau khi nhai một vật gì mà phải bị loại ra khỏi cuộc
+-- “Này các tỳ khưu, sau khi nhai một vật gì mà phải bị loại ra khỏi cuộc
   giảng Pháp như thế này thì có nên nhai vật ấy không?”
 
-- “Bạch ngài, điều ấy không nên.”
+-- “Bạch ngài, điều ấy không nên.”
 
-- “Này các tỳ khưu, không nên nhai tỏi; vị nào nhai thì phạm tội
+-- “Này các tỳ khưu, không nên nhai tỏi; vị nào nhai thì phạm tội
   dukkaṭa.”
 
 Vào lúc bấy giờ, đại đức Sāriputta bị bệnh đau bụng gió. Khi ấy, đại đức
 Mahāmoggallāna đã đi đến gặp đại đức Sāriputta, sau khi đến đã nói với
 đại đức Sāriputta điều này:
 
-- “Này đại đức Sāriputta, trước đây khi bị bệnh đau bụng gió, đại đức
+-- “Này đại đức Sāriputta, trước đây khi bị bệnh đau bụng gió, đại đức
   được thoải mái nhờ vật gì?”
 
-- “Này đại đức, đối với tôi nhờ tỏi.”
+-- “Này đại đức, đối với tôi nhờ tỏi.”
 
 Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép nhai tỏi do duyên cớ bệnh.”
+-- “Này các tỳ khưu, ta cho phép nhai tỏi do duyên cớ bệnh.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
 
@@ -6171,7 +6097,7 @@ avalekhanapidharan ti - PTS. 4 ogumphetvā - Ma, Syā, PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
-- “Này các tỳ khưu, ta cho phép ba loại bậc thang: bậc thang bằng gạch,
+-- “Này các tỳ khưu, ta cho phép ba loại bậc thang: bậc thang bằng gạch,
   bậc thang bằng đá, bậc thang bằng gỗ.”
 
 Các vị bị té trong khi bước lên (bậc thang). - “Này các tỳ khưu, ta cho
@@ -6344,7 +6270,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Các Tiểu Sự
 
 Bục ngồi rửa ở nơi trống trải. Các tỳ khưu hổ thẹn khi rửa.
 
-- “Này các tỳ khưu, ta cho phép rào quanh (bằng) ba loại hàng rào: hàng
+-- “Này các tỳ khưu, ta cho phép rào quanh (bằng) ba loại hàng rào: hàng
   rào bằng gạch, hàng rào bằng đá, hàng rào bằng gỗ.”
 
 Lu nước rửa không được đậy lại nên bị các rác cỏ luôn cả các vật dơ rơi
@@ -6421,7 +6347,7 @@ katakaṃ ca kumbhakārikañca sabbaṃ mattikābhaṇḍan ”ti.
 
 Khuddakavatthukkhandhakaṃ pañcamaṃ.4
 
--
+#divider()
 
 usseḷentipi - Ma; usseḷhentipi - Syā. 3 naccakiṃ - Ma.
 
@@ -6459,14 +6385,14 @@ cách; vị nào cư xử thì nên được hành xử theo Pháp.”
 Các vị đã trình sự việc ấy lên đức Thế Tôn. Khi ấy, đức Thế Tôn nhân lý
 do ấy nhân sự kiện ấy đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, ta cho phép tất cả đồ vật bằng kim loại ngoại trừ vũ
+-- “Này các tỳ khưu, ta cho phép tất cả đồ vật bằng kim loại ngoại trừ vũ
   khí, tất cả đồ vật bằng gỗ ngoại trừ ghế trường kỷ, ghế nệm lông thú,
   bình bát bằng gỗ, giày dép bằng gỗ, tất cả đồ vật bằng gốm sứ ngoại
   trừ đồ chà chân và loại lu lớn.”
 
 Chương Các Tiểu Sự là thứ năm.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Khuddakavatthukkhandhakaṃ
 
@@ -6969,7 +6895,6 @@ Dứt Phần Tóm Lược.
 #divider()
 
 === VI. SENĀSANAKKHANDHAKAṂ
-<vi.-senāsanakkhandhakaṃ>
 + Tena samayena buddho bhagavā rājagahe viharati veḷuvane
   kalandakanivāpe. Tena kho pana samayena bhagavatā bhikkhūnaṃ senāsanaṃ
   apaññattaṃ hoti. Te ca 1 bhikkhū tahaṃ tahaṃ 2 viharanti araññe
@@ -7016,7 +6941,6 @@ seṭṭhī - Ma, Syā. 8 pañca leṇāni - Ma;
 kāreyyaṃ - Syā; kārāpeyya - PTS. pañca senāsanāni - Syā.
 
 === VI. CHƯƠNG SÀNG TỌA:\[\*\]
-<vi.-chương-sàng-tọa>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại thành Rājagaha, Veḷuvana, chỗ
   nuôi dưỡng các con sóc. Vào lúc bấy giờ, chỗ trú ngụ chưa được đức Thế
   Tôn quy định cho các tỳ khưu. Và các tỳ khưu ấy cư ngụ ở nơi này nơi
@@ -7044,7 +6968,7 @@ kāreyyaṃ - Syā; kārāpeyya - PTS. pañca senāsanāni - Syā.
     các ngài, chính vì điều ấy các ngài có thể hỏi đức Thế Tôn rồi báo
     cho tôi hay.”
 
-- “Này gia chủ, đúng vậy.” Rồi các vị tỳ khưu ấy nghe theo nhà đại phú
+-- “Này gia chủ, đúng vậy.” Rồi các vị tỳ khưu ấy nghe theo nhà đại phú
   thành Rājagaha đã đi đến gặp đức Thế tôn, sau khi đến đã đảnh lễ đức
   Thế Tôn rồi ngồi xuống một bên. Khi đã ngồi xuống một bên, các vị tỳ
   khưu ấy đã nói với đức Thế Tôn điều này: - “Bạch ngài, nhà đại phú ở
@@ -7132,10 +7056,10 @@ bên. Khi đã ngồi xuống một bên, nhà đại phú thành Rājagaha đã
 xây dựng vì mục đích phước báu, vì mục đích cõi trời. Bạch ngài, tôi nên
 thực hành như thế nào về những trú xá này?”
 
-- “Này gia chủ, chính vì điều ấy ngươi hãy cho thiết lập sáu mươi trú xá
+-- “Này gia chủ, chính vì điều ấy ngươi hãy cho thiết lập sáu mươi trú xá
   ấy dành cho hội chúng bốn phương hiện tại và vị lai.” 1
 
-- “Bạch ngài, xin vâng.” Rồi nhà đại phú thành Rājagaha nghe theo đức
+-- “Bạch ngài, xin vâng.” Rồi nhà đại phú thành Rājagaha nghe theo đức
   Thế Tôn đã thiết lập sáu mươi trú xá ấy dành cho hội chúng bốn phương
   hiện tại và vị lai.
 
@@ -7667,7 +7591,7 @@ sabbattha.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, ta cho phép giường được bọc nệm, ghế được bọc nệm.”
+-- “Này các tỳ khưu, ta cho phép giường được bọc nệm, ghế được bọc nệm.”
 
 Các vị trải lên nhưng không làm tấm lót nên đã bị rơi ra từ bên dưới.
 ―(như trên)― - “Này các tỳ khưu, ta cho phép làm tấm lót (bên dưới),
@@ -7750,7 +7674,7 @@ gaṇḍumattikaṃ - Ma; laṇḍumattikaṃ - Syā. 3 paṭibhāṇacittaṃ -
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, ta cho phép để nắm vỏ trấu vào, dùng cái bay gạt
+-- “Này các tỳ khưu, ta cho phép để nắm vỏ trấu vào, dùng cái bay gạt
   bằng, rồi bôi màu đỏ lên.”
 
 Màu đỏ không dính chặt vào. ―(như trên)― - “Này các tỳ khưu, ta cho phép
@@ -7786,7 +7710,7 @@ Màu đen không dính chặt vào. Các vị đã trình sự việc ấy lên 
   việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên bảo thực hiện hình ảnh gợi cảm ở trú xá:
+-- “Này các tỳ khưu, không nên bảo thực hiện hình ảnh gợi cảm ở trú xá:
   hình ảnh người nữ, hình ảnh người nam; vị nào bảo thực hiện thì phạm
   tội dukkaṭa. Này các tỳ khưu, ta cho phép trang hoàng hình vòng hoa,
   trang hoàng hình tua, chốt treo bằng răng cá kiếm, vải trang hoàng năm
@@ -7934,7 +7858,7 @@ bhikkhave vihāre - Ma, Syā. osarakan ti - PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, ta cho phép (sử dụng) tấm chắn bảo vệ, vữa hồ.” 1
+-- “Này các tỳ khưu, ta cho phép (sử dụng) tấm chắn bảo vệ, vữa hồ.” 1
 
 Vào lúc bấy giờ, rắn từ mái cỏ rơi xuống trên vai của vị tỳ khưu nọ. Bị
 hoảng sợ, vị ấy đã kêu thét lên. Các tỳ khưu đã chạy lại và nói với vị
@@ -8247,13 +8171,13 @@ sudhāchadanaṃ tiṇacchadanaṃ paṇṇacchadanan ”ti.
 
 Paṭhamabhāṇavāraṃ.
 
--
+#divider()
 
 koṭṭhakā - PTS. 2 chadanaṃ anuññātan ti - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, ta cho phép cổng ra vào, hai cánh cửa gắn nhánh cây
+-- “Này các tỳ khưu, ta cho phép cổng ra vào, hai cánh cửa gắn nhánh cây
   có gai, vòm cổng, và móc khóa.”
 
 Rác cỏ rơi ở cổng ra vào. ―(như trên)― - “Này các tỳ khưu, ta cho phép
@@ -8279,13 +8203,13 @@ rãnh thoát nước.”
   ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép năm loại mái che: mái che lợp ngói, mái
+-- “Này các tỳ khưu, ta cho phép năm loại mái che: mái che lợp ngói, mái
   che lợp đá phiến, mái che bằng vữa hồ, mái che lợp cỏ, mái che lợp
   lá.”
 
 Tụng phẩm thứ nhất.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Senāsanakkhandhakaṃ
 
@@ -8369,7 +8293,7 @@ ngon.' Này gia chủ, không lẽ vào ngày mai ông có đám rước dâu, h
 đám đưa dâu, hay là sắp xếp cho buổi đại lễ cúng tế, hay là có mời thỉnh
 đức vua Seniya Bimbisāra xứ Magadha cùng với đội quân binh?”
 
-- “Này gia chủ, không phải tôi có đám rước dâu, cũng không có đám đưa
+-- “Này gia chủ, không phải tôi có đám rước dâu, cũng không có đám đưa
   dâu, cũng không có mời thỉnh đức vua Seniya Bimbisāra xứ Magadha cùng
   với đội quân binh, nhưng mà tôi sắp xếp cho buổi đại lễ cúng dường.
   Hội chúng có đức Phật đứng đầu đã được thỉnh mời vào ngày mai.”
@@ -8434,11 +8358,11 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
     nói: ‘Đức Phật?” - “Ồ gia chủ, tôi nói là: ‘Đức Phật.'”
 ]
 
-- “Này gia chủ, cái âm này thật khó được nghe ở thế gian, đó là từ: ‘Đức
+-- “Này gia chủ, cái âm này thật khó được nghe ở thế gian, đó là từ: ‘Đức
   Phật.' Này gia chủ, vào giờ này tôi có thể đi đến để diện kiến đức Thế
   Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy không vậy?”
 
-- “Này gia chủ, giờ này không phải là lúc để đi đến để diện kiến đức Thế
+-- “Này gia chủ, giờ này không phải là lúc để đi đến để diện kiến đức Thế
   Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy. Để đến sáng sớm ngày mai, dượng
   sẽ đi đến để diện kiến đức Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy
   vậy.”
@@ -8455,7 +8379,7 @@ trở lui.
 
 Khi ấy, dạ xoa Sīvaka không có hiện hình đã nói lời rằng:
 
-- “Một trăm con voi, một trăm con ngựa, một trăm xe kéo bởi lừa, một
+-- “Một trăm con voi, một trăm con ngựa, một trăm xe kéo bởi lừa, một
   trăm ngàn thiếu nữ (trang điểm) với ngọc trai, ngọc ma-ni, và các bông
   hoa tai, mười sáu lần như thế không giá trị bằng một bước chân đi
   tới.”
@@ -8523,7 +8447,7 @@ cetasā ti - Ma. anupubbikathaṃ - PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Một trăm con voi, một trăm con ngựa, một trăm xe kéo bởi lừa, một
+-- “Một trăm con voi, một trăm con ngựa, một trăm xe kéo bởi lừa, một
   trăm ngàn thiếu nữ (trang điểm) với ngọc trai, ngọc ma-ni, và các bông
   hoa tai, mười sáu lần như thế không giá trị bằng một bước chân đi
   tới.”
@@ -8549,7 +8473,7 @@ rời đường kinh hành đi đến ngồi ở chỗ ngồi được sắp đ�
   rằng đức Thế Tôn đã nghỉ ngơi được thoải mái?”
 ]
 
-- “Đúng thế, vị Bà-la-môn đã chứng ngộ Niết Bàn luôn luôn nghỉ ngơi được
+-- “Đúng thế, vị Bà-la-môn đã chứng ngộ Niết Bàn luôn luôn nghỉ ngơi được
   thoải mái, là người không bị vấy nhơ trong các dục, có trạng thái mát
   mẻ, không còn mầm tái sanh.
 
@@ -8743,9 +8667,9 @@ chủ Anāthapiṇḍika đã nói với đức Thế Tôn điều này: - “B�
 Thế Tôn nhận lời con về việc an cư mùa mưa tại thành Sāvatthi cùng với
 hội chúng tỳ khưu.”
 
-- “Này gia chủ, các đức Như Lai chỉ thỏa thích ở trú xứ thanh vắng.”
+-- “Này gia chủ, các đức Như Lai chỉ thỏa thích ở trú xứ thanh vắng.”
 
-- “Bạch Thế Tôn, con đã biết được. Bạch Thiện Thệ, con đã được biết.”
+-- “Bạch Thế Tôn, con đã biết được. Bạch Thiện Thệ, con đã được biết.”
 
 Sau đó, đức Thế Tôn đã chỉ dạy, thức tỉnh, khuyến khích, và tạo niềm
 phấn khởi cho gia chủ Anāthapiṇḍika bằng bài Pháp thoại, rồi đã từ chỗ
@@ -8842,10 +8766,10 @@ cho việc thiền tịnh, sau khi nhìn thấy đã đi đến gặp vương t�
 khi đến đã nói với vương tử Jeta điều này: - “Thưa công tử, hãy cho tôi
 khu vườn để xây dựng tu viện.”
 
-- “Này gia chủ, khu vườn không thể cho, ngay cả với việc trải ra mười
+-- “Này gia chủ, khu vườn không thể cho, ngay cả với việc trải ra mười
   triệu.” - “Thưa công tử, khu vườn đã được bán.”
 
-- “Này gia chủ, khu vườn chưa được bán.”
+-- “Này gia chủ, khu vườn chưa được bán.”
 
 \(Họ đã cãi nhau): “Đã được bán, chưa được bán,” rồi đã hỏi các viên đại
 thần lo việc xử án. Các viên quan đại thần đã nói như vầy: - “Thưa công
@@ -8973,7 +8897,7 @@ tôi).”
   thoại rồi bảo các tỳ khưu rằng:
 ]
 
-- “Này các tỳ khưu, ta cho phép giao công trình mới. Này các tỳ khưu, vị
+-- “Này các tỳ khưu, ta cho phép giao công trình mới. Này các tỳ khưu, vị
   tỳ khưu là vị phụ trách công trình mới sẽ thể hiện sự tích cực (suy
   nghĩ rằng): ‘Có cách gì để trú xá có thể đạt đến việc hoàn thành nhanh
   chóng?' và sẽ sửa chữa chỗ bị đổ vỡ và hư hỏng. Và này các tỳ khưu,
@@ -9052,9 +8976,9 @@ trong lúc không có chỗ nằm đã ngồi xuống ở gốc cây nọ. Sau �
 Tôn trong đêm vào lúc hừng sáng, sau khi thức dậy đã đằng hắng. Đại đức
 Sāriputta cũng đã đằng hắng. - “Ai ở nơi này vậy?”
 
-- “Bạch ngài, con là Sāriputta.”
+-- “Bạch ngài, con là Sāriputta.”
 
-- “Này Sāriputta, vì sao ngươi lại ngồi ở đây?”
+-- “Này Sāriputta, vì sao ngươi lại ngồi ở đây?”
 
 Khi ấy, đại đức Sāriputta đã trình sự việc ấy lên đức Thế Tôn. Sau đó,
 đức Thế Tôn nhân lý do ấy nhân sự kiện ấy đã triệu tập hội chúng tỳ khưu
@@ -9244,20 +9168,20 @@ thực tốt nhất.”
 Này các tỳ khưu, khi ấy con chim đa đa và con khỉ đã hỏi con long tượng
 rằng: - ‘Này bạn, bạn nhớ gì về thời xa xưa?'
 
-- ‘Hai bạn à, khi tôi còn nhỏ tôi thường để cây đa này ở giữa hai chân
+-- ‘Hai bạn à, khi tôi còn nhỏ tôi thường để cây đa này ở giữa hai chân
   rồi bước qua, ngọn cây chạm vào bụng của tôi. Hai bạn à, đó là điều
   tôi nhớ được về thời xa xưa.'
 
 Này các tỳ khưu, sau đó con chim đa đa và con long tượng đã hỏi con khỉ
 rằng: - ‘Này bạn, bạn nhớ gì về thời xa xưa?'
 
-- ‘Hai bạn à, khi tôi còn nhỏ tôi thường ngồi trên mặt đất nhai đọt non
+-- ‘Hai bạn à, khi tôi còn nhỏ tôi thường ngồi trên mặt đất nhai đọt non
   của cây đa này. Hai bạn à, đó là điều tôi nhớ được về thời xa xưa.'
 
 Này các tỳ khưu, sau đó con khỉ và con long tượng đã hỏi con chim đa đa
 rằng: - ‘Này bạn, bạn nhớ gì về thời xa xưa?'
 
-- ‘Hai bạn à, ở khu vực kia đã có cây đa cổ thụ. Tại đó, tôi đã ăn trái
+-- ‘Hai bạn à, ở khu vực kia đã có cây đa cổ thụ. Tại đó, tôi đã ăn trái
   cây rồi đại tiện ở chỗ này, từ đó cây đa này đã được sanh ra. Hai bạn
   à, như thế tính theo sự sinh ra thì tôi là lớn nhất.'
 
@@ -9501,7 +9425,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   ngồi lên. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ngoại trừ ba thứ là ghế trường kỷ, ghế nệm lông thú,
+-- “Này các tỳ khưu, ngoại trừ ba thứ là ghế trường kỷ, ghế nệm lông thú,
   thảm bông gòn, ta cho phép ngồi lên chỗ đã được trưng bày bởi gia chủ
   nhưng không được nằm lên.”
 
@@ -9509,7 +9433,7 @@ Vào lúc bấy giờ, dân chúng sắp xếp ở trong phòng ăn, ở trong n
 giường và ghế độn bông gòn. Các tỳ khưu trong khi ngần ngại không ngồi
 lên. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép ngồi lên chỗ đã được trưng bày bởi gia
+-- “Này các tỳ khưu, ta cho phép ngồi lên chỗ đã được trưng bày bởi gia
   chủ nhưng không được nằm lên.”
 
 #block[
@@ -9583,10 +9507,10 @@ tay đã rời khỏi bình bát, gia chủ Anāthapiṇḍika đã ngồi xuố
 Khi đã ngồi xuống một bên, gia chủ Anāthapiṇḍika đã nói với đức Thế Tôn
 điều này: - “Bạch ngài, con tiến hành như thế nào về Jetavana?”
 
-- “Này gia chủ, chính vì điều ấy ngươi hãy cho thiết lập Jetavana dành
+-- “Này gia chủ, chính vì điều ấy ngươi hãy cho thiết lập Jetavana dành
   cho hội chúng bốn phương hiện tại và vị lai.”
 
-- “Bạch ngài, xin vâng.” Rồi gia chủ Anāthapiṇḍika nghe theo đức Thế Tôn
+-- “Bạch ngài, xin vâng.” Rồi gia chủ Anāthapiṇḍika nghe theo đức Thế Tôn
   đã thiết lập Jetavana dành cho hội chúng bốn phương hiện tại và vị
   lai.
 
@@ -9686,11 +9610,11 @@ tỳ khưu ngồi kế cận có sự thọ thực chưa xong phải đứng d�
 đã có sự xáo động?” Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên
 đức Thế Tôn.
 
-- “Này Upananda, nghe nói ngươi đi đến trễ còn làm cho vị tỳ khưu ngồi
+-- “Này Upananda, nghe nói ngươi đi đến trễ còn làm cho vị tỳ khưu ngồi
   kế cận có sự thọ thực chưa xong phải đứng dậy khiến nhà ăn đã có sự
   xáo động, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: - “Này kẻ rồ dại, vì sao ngươi đi
 đến trễ lại còn cho vị tỳ khưu ngồi kế cận có sự thọ thực chưa xong phải
@@ -9698,7 +9622,7 @@ tỳ khưu ngồi kế cận có sự thọ thực chưa xong phải đứng d�
 không đem lại niềm tin cho những kẻ chưa có đức tin, ―(như trên)― Sau
 khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, không nên bảo vị tỳ khưu ngồi kế cận có sự thọ thực
+-- “Này các tỳ khưu, không nên bảo vị tỳ khưu ngồi kế cận có sự thọ thực
   chưa xong đứng dậy; vị nào bảo đứng dậy thì phạm tội dukkaṭa. Nếu bảo
   đứng dậy, nên nói với vị được yêu cầu (đứng dậy) rằng: ‘Hãy đi lấy
   nước đem lại.' Nếu việc ấy đạt được như thế, việc ấy như vậy là tốt
@@ -9770,20 +9694,20 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên bảo các vị bị bệnh phải đứng dậy, vị nào
+-- “Này các tỳ khưu, không nên bảo các vị bị bệnh phải đứng dậy, vị nào
   bảo đứng dậy thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư (bảo rằng): ‘Chúng tôi bị bệnh,
 không nên bảo chúng tôi đứng dậy' rồi chiếm chỗ nằm tốt nhất. Các vị đã
 trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép nhường chỗ nằm thích hợp cho vị bị
+-- “Này các tỳ khưu, ta cho phép nhường chỗ nằm thích hợp cho vị bị
   bệnh.”
 
 Vào lúc bấy giờ, các tỳ khưu nhóm Lục Sư dùng mánh lới xâm chiếm chỗ trú
 ngụ. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên dùng mánh lới xâm chiếm chỗ trú ngụ; vị
+-- “Này các tỳ khưu, không nên dùng mánh lới xâm chiếm chỗ trú ngụ; vị
   nào xâm chiếm thì phạm tội dukkaṭa.”
 
 #block[
@@ -9801,14 +9725,14 @@ ngụ. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 Sau đó, các tỳ khưu nhóm Lục Sư đã nói với các tỳ khưu nhóm Mười Bảy Sư
 điều này: - “Này các đại đức, hãy tránh ra. Trú xá thuộc về chúng tôi.”
 
-- “Này các đại đức, không phải là điều cần phải được báo trước hay sao?
+-- “Này các đại đức, không phải là điều cần phải được báo trước hay sao?
   Và chúng tôi đã có thể sửa chữa cái khác.”
 
-- “Này các đại đức, không phải trú xá thuộc về hội chúng hay sao?”
+-- “Này các đại đức, không phải trú xá thuộc về hội chúng hay sao?”
 
-- “Này các đại đức, đúng vậy. Trú xá thuộc về hội chúng.”
+-- “Này các đại đức, đúng vậy. Trú xá thuộc về hội chúng.”
 
-- “Này các đại đức, hãy tránh ra. Trú xá thuộc về chúng tôi.”
+-- “Này các đại đức, hãy tránh ra. Trú xá thuộc về chúng tôi.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Senāsanakkhandhakaṃ
 
@@ -9854,15 +9778,15 @@ bhikkhū saṅghikā vihārā nikkaḍḍhitabbā - Syā. 3 gāhitāgāhitañca 
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các đại đức, trú xá thì lớn, các vị ở được, chúng tôi cũng sẽ ở
+-- “Này các đại đức, trú xá thì lớn, các vị ở được, chúng tôi cũng sẽ ở
   được.”
 
-- “Này các đại đức, hãy tránh ra. Trú xá thuộc về chúng tôi.” Rồi (các
+-- “Này các đại đức, hãy tránh ra. Trú xá thuộc về chúng tôi.” Rồi (các
   tỳ khưu nhóm Lục Sư) nổi giận, bất bình nắm (các vị kia) ở cổ lôi kéo
   ra ngoài. Trong khi bị lôi kéo ra ngoài, các vị kia khóc lóc. Các tỳ
   khưu đã nói như vầy: - “Này các đại đức, vì sao các vị khóc?”
 
-- “Thưa các đại đức, những tỳ khưu nhóm Lục Sư này nổi giận, bất bình
+-- “Thưa các đại đức, những tỳ khưu nhóm Lục Sư này nổi giận, bất bình
   rồi lôi kéo chúng tôi ra khỏi trú xá thuộc về hội chúng.”
 
 Các tỳ khưu nào ít ham muốn, ―(như trên)― các vị ấy phàn nàn, phê phán,
@@ -9876,7 +9800,7 @@ vậy?” - “Bạch Thế Tôn, đúng vậy.” Đức Phật Thế Tôn đã
 ―(như trên)― Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ
 khưu rằng:
 
-- “Này các tỳ khưu, vị nổi giận, bất bình không nên lôi kéo các tỳ khưu
+-- “Này các tỳ khưu, vị nổi giận, bất bình không nên lôi kéo các tỳ khưu
   ra khỏi trú xá thuộc về hội chúng; vị nào lôi kéo ra thì nên hành xử
   đúng theo Pháp. 1 Này các tỳ khưu, ta cho phép phân phối chỗ trú ngụ.”
 
@@ -9886,7 +9810,7 @@ khưu rằng:
   phối bởi vị nào?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phối chỗ trú ngụ là vị
+-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phối chỗ trú ngụ là vị
   tỳ khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, không
   thể bị chi phối bởi sự sân hận, không thể bị chi phối bởi sự si mê,
   không thể bị chi phối bởi sự sợ hãi, vị biết (chỗ trú ngụ) đã được
@@ -9949,21 +9873,21 @@ Khi ấy, các tỳ khưu là các vị phân phối chỗ trú ngụ đã khở
 “Chỗ trú ngụ nên được phân phối như thế nào?” Các vị đã trình sự việc ấy
 lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép trước tiên đếm số lượng tỳ khưu; sau khi
+-- “Này các tỳ khưu, ta cho phép trước tiên đếm số lượng tỳ khưu; sau khi
   đếm số lượng tỳ khưu rồi đếm số lượng chỗ nằm; sau khi đếm số lượng
   chỗ nằm thì phân phối theo chỗ nằm.”
 
 Trong khi phân phối theo chỗ nằm, các chỗ nằm đã được thừa ra.
 
-- “Này các tỳ khưu, ta cho phép phân phối theo trú xá.”
+-- “Này các tỳ khưu, ta cho phép phân phối theo trú xá.”
 
 Trong khi phân phối theo trú xá, các trú xá đã được thừa ra. ―nt―
 
-- “Này các tỳ khưu, ta cho phép phân phối theo phòng ở.”
+-- “Này các tỳ khưu, ta cho phép phân phối theo phòng ở.”
 
 Trong khi phân phối theo phòng ở, các phòng ở đã được thừa ra.
 
-- “Này các tỳ khưu, ta cho phép phân phối luôn cả phần còn lại. Khi phần
+-- “Này các tỳ khưu, ta cho phép phân phối luôn cả phần còn lại. Khi phần
   còn lại đã được nhận, có vị tỳ khưu khác đi đến, nếu (các vị) không
   sẵn lòng thì không cần phải cho.”
 
@@ -9995,7 +9919,7 @@ antarāmuttako gāhetabbo. Ime kho bhikkhave tayo senāsanagāhā ”ti.
 
 Dutiyabhāṇavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 gahetvā - Syā. 2 utukālaṃ pana na paṭibāhitun ti - Ma.
 
@@ -10007,20 +9931,20 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   ranh giới. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên phân phối sàng tọa cho vị đứng ở ngoài
+-- “Này các tỳ khưu, không nên phân phối sàng tọa cho vị đứng ở ngoài
   ranh giới; vị nào phân phối thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu sau khi nhận chỗ trú ngụ rồi chiếm giữ
 luôn. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, sau khi nhận chỗ trú ngụ không nên chiếm giữ luôn;
+-- “Này các tỳ khưu, sau khi nhận chỗ trú ngụ không nên chiếm giữ luôn;
   vị nào chiếm giữ thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho phép
   chiếm giữ trong ba tháng của mùa mưa, mùa khác không được chiếm giữ.”
 
 Khi ấy, các tỳ khưu đã khởi ý điều này: “Có bao nhiêu thời điểm phân
 phối chỗ trú ngụ?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, đây là ba thời điểm phân phối chỗ trú ngụ: thời điểm
+-- “Này các tỳ khưu, đây là ba thời điểm phân phối chỗ trú ngụ: thời điểm
   trước, thời điểm sau, thời điểm trung gian. Vào ngày kế ngày rằm của
   tháng Āsāḷhā 1 là thời điểm trước nên được phân phối, một tháng kế sau
   ngày rằm của tháng Āsāḷhā là thời điểm sau nên được phân phối, một
@@ -10030,7 +9954,7 @@ phối chỗ trú ngụ?” Các vị đã trình sự việc ấy lên đức T
 
 Dứt tụng phẩm thứ nhì.
 
--
+#divider()
 
 Tương đương ngày 16 tháng sáu âm lịch, tức là ngày đầu tiên của thời kỳ
 an cư mùa mưa đợt đầu (ND).
@@ -10100,14 +10024,14 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 Sau đó, các vị tỳ khưu ấy đã nói với đại đức Upananda con trai dòng
 Sakya điều này:
 
-- “Này đại đức Upananda, không phải đại đức đã nhận chỗ trú ngụ ở thành
+-- “Này đại đức Upananda, không phải đại đức đã nhận chỗ trú ngụ ở thành
   Sāvatthi rồi hay sao?”
 
-- “Này các đại đức, đúng vậy.”
+-- “Này các đại đức, đúng vậy.”
 
-- “Này đại đức Upananda, tại sao đại đức là một lại chiếm giữ hai?”
+-- “Này đại đức Upananda, tại sao đại đức là một lại chiếm giữ hai?”
 
-- “Này các đại đức, giờ tôi bỏ cái chỗ này, giữ lại cái chỗ kia.”
+-- “Này các đại đức, giờ tôi bỏ cái chỗ này, giữ lại cái chỗ kia.”
 
 Các tỳ khưu nào ít ham muốn, tự biết đủ khiêm tốn, có hối hận, ưa thích
 sự học tập, các vị ấy phàn nàn, phê phán, chê bai rằng: - “Vì sao đại
@@ -10117,7 +10041,7 @@ sự kiện ấy đã triệu tập hội chúng tỳ khưu lại và đã hỏi
 rằng: - “Này Upananda, nghe nói ngươi là một lại chiếm giữ hai, có đúng
 không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: - “Này kẻ rồ dại, vì sao ngươi là
 một lại chiếm giữ hai? Này kẻ rồ dại, chỗ kia ngươi giữ lại, chỗ này
@@ -10202,7 +10126,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
 Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép vị tỳ khưu mới tu ngồi chỗ ngồi ngang
+-- “Này các tỳ khưu, ta cho phép vị tỳ khưu mới tu ngồi chỗ ngồi ngang
   bằng hoặc cao hơn trong khi giảng giải vì tôn kính Giáo Pháp; vị tỳ
   khưu trưởng lão ngồi chỗ ngồi ngang bằng hoặc thấp hơn trong khi nghe
   giảng vì tôn kính Giáo Pháp.”
@@ -10274,20 +10198,20 @@ ayyikā - Ma, Syā. 7 bhūmattharaṇaṃ - Ma.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, ta cho phép giường đối với nhóm hai vị, ghế đối với
+-- “Này các tỳ khưu, ta cho phép giường đối với nhóm hai vị, ghế đối với
   nhóm hai vị.”
 
 Vào lúc bấy giờ, các tỳ khưu ngần ngại không ngồi xuống trên ghế dài
 cùng với các vị không đồng đẳng cấp. Các vị đã trình sự việc ấy lên đức
 Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép ngồi trên ghế dài cùng với những vị
+-- “Này các tỳ khưu, ta cho phép ngồi trên ghế dài cùng với những vị
   không đồng đẳng cấp ngoại trừ người vô căn, phụ nữ, người lưỡng căn.”
 
 Khi ấy, các tỳ khưu đã khởi ý điều này: “Vậy ghế dài tối thiểu (ngắn
 nhất) là bao nhiêu?” ―(như trên)―
 
-- “Này các tỳ khưu, ta cho phép ghế dài có chiều dài tối thiểu là đủ cho
+-- “Này các tỳ khưu, ta cho phép ghế dài có chiều dài tối thiểu là đủ cho
   ba người.”
 
 #block[
@@ -10299,7 +10223,7 @@ nhất) là bao nhiêu?” ―(như trên)―
   vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép tất cả công trình phụ của tòa nhà dài.”
+-- “Này các tỳ khưu, ta cho phép tất cả công trình phụ của tòa nhà dài.”
 
 Vào lúc bấy giờ, bà nội của đức vua Pasenadi xứ Kosala từ trần. Khi bà
 ta từ trần, nhiều vật dụng không được phép đã phát sanh đến hội chúng
@@ -10311,7 +10235,7 @@ voi, thảm ở mình ngựa, thảm lót xe, thảm da beo, thảm da nai giố
 thảm có che phủ ở bên trên và có màu đỏ ở hai đầu. Các vị đã trình sự
 việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép sử dụng sau khi cắt ngắn các chân của
+-- “Này các tỳ khưu, ta cho phép sử dụng sau khi cắt ngắn các chân của
   ghế trường kỷ, (cho phép) sử dụng sau khi đã hủy đi lông ở ghế nệm
   lông thú, (cho phép) tháo gỡ nệm bông gòn để làm gối, (cho phép) dùng
   làm thảm lót trên nền đất các vật còn lại.”
@@ -10374,19 +10298,19 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   “Này các đại đức, hãy xếp đặt sàng tọa cho chúng tôi.”
 ]
 
-- “Này các đại đức, sàng tọa thuộc về hội chúng không có, chúng tôi đã
+-- “Này các đại đức, sàng tọa thuộc về hội chúng không có, chúng tôi đã
   cho tất cả đến một vị.” - “Này các đại đức, có phải các vị phân tán
   sàng tọa thuộc về hội chúng?”
 
-- “Này các đại đức, đúng vậy.” Các tỳ khưu nào ít ham muốn, ―(như trên)―
+-- “Này các đại đức, đúng vậy.” Các tỳ khưu nào ít ham muốn, ―(như trên)―
   các vị ấy phàn nàn, phê phán, chê bai rằng: - “Vì sao các tỳ khưu lại
   phân tán sàng tọa thuộc về hội chúng?” Sau đó, các vị tỳ khưu ấy đã
   trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói các tỳ khưu phân tán sàng tọa thuộc về hội
+-- “Này các tỳ khưu, nghe nói các tỳ khưu phân tán sàng tọa thuộc về hội
   chúng, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: - “Này các tỳ khưu, vì sao những
 kẻ rồ dại ấy lại phân tán sàng tọa thuộc về hội chúng? Này các tỳ khưu,
@@ -10394,7 +10318,7 @@ việc ấy không đem lại niềm tin cho những kẻ chưa có đức tin, 
 trên)― Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu
 rằng:
 
-- “Này các tỳ khưu, đây là năm vật không nên phân tán, không được phân
+-- “Này các tỳ khưu, đây là năm vật không nên phân tán, không được phân
   tán bởi hội chúng, hoặc bởi nhóm, hoặc bởi cá nhân. Ngay cả những vật
   đã được phân tán vẫn là chưa được phân tán; vị nào phân tán thì phạm
   tội thullaccaya. Năm vật ấy là gì?”
@@ -10543,7 +10467,7 @@ avebhaṅgikaṃ - Sīmu.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Bạch ngài, xin vâng.” Rồi các vị tỳ khưu ấy nghe theo đức Thế Tôn đã
+-- “Bạch ngài, xin vâng.” Rồi các vị tỳ khưu ấy nghe theo đức Thế Tôn đã
   đi đến gặp các tỳ khưu nhóm Assaji và Punabbasuka, sau khi đến đã nói
   với các tỳ khưu nhóm Assaji và Punabbasuka điều này: - “Này các đại
   đức, đức Thế Tôn đi đến cùng với đại chúng tỳ khưu gồm năm trăm vị tỳ
@@ -10551,16 +10475,16 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   trú ngụ cho đức Thế Tôn cùng hội chúng tỳ khưu có cả Sāriputta và
   Moggallāna.”
 
-- “Này các đại đức, sàng tọa thuộc về hội chúng không có. Tất cả đã được
+-- “Này các đại đức, sàng tọa thuộc về hội chúng không có. Tất cả đã được
   chúng tôi chia nhau. Này các đại đức, hoan nghênh đức Thế Tôn. Đức Thế
   Tôn thích trú xá nào thì ngài sẽ ngự ở trú xá ấy. Sāriputta và
   Moggallāna có lòng tham muốn sái quấy, bị chi phối bởi lòng tham muốn
   sái quấy, chúng tôi sẽ không sắp đặt chỗ trú ngụ cho họ.”
 
-- “Này các đại đức, có phải các vị đã phân chia sàng tọa thuộc về hội
+-- “Này các đại đức, có phải các vị đã phân chia sàng tọa thuộc về hội
   chúng?”
 
-- “Này các đại đức, đúng vậy.”
+-- “Này các đại đức, đúng vậy.”
 
 Các tỳ khưu nào ít ham muốn, ―(như trên)― các vị ấy phàn nàn, phê phán,
 chê bai rằng: - “Vì sao các tỳ khưu nhóm Assaji và Punabbasuka lại phân
@@ -10568,15 +10492,15 @@ chia sàng tọa thuộc về hội chúng?”
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế tôn.
 
-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?” - “Bạch
+-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?” - “Bạch
   Thế Tôn, đúng vậy.”
 
-- “Này các tỳ khưu, vì sao những kẻ rồ dại ấy lại phân chia sàng tọa
+-- “Này các tỳ khưu, vì sao những kẻ rồ dại ấy lại phân chia sàng tọa
   thuộc về hội chúng? Này các tỳ khưu, sự việc này không đem lại niềm
   tin cho những kẻ chưa có đức tin, ―(như trên)― Sau khi khiển trách,
   ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, đây là năm vật không nên phân chia, không được phân
+-- “Này các tỳ khưu, đây là năm vật không nên phân chia, không được phân
   chia bởi hội chúng, hoặc bởi nhóm, hoặc bởi cá nhân. Ngay cả những vật
   đã được phân chia vẫn là chưa được phân chia; vị nào phân chia thì
   phạm tội thullaccaya. Năm vật ấy là gì?
@@ -10716,11 +10640,11 @@ bảo chất lại thành đống, ―(như trên)― họ giao công trình m�
 đã được hoàn tất cho đến khi (chết và) hỏa táng?” Các vị đã trình sự
 việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?” - “Bạch
+-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?” - “Bạch
   Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã nói Pháp
   thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, không nên giao công trình mới với mỗi một việc bảo
+-- “Này các tỳ khưu, không nên giao công trình mới với mỗi một việc bảo
   chất lại thành đống, không nên giao công trình mới với mỗi một việc tô
   vữa bức tường, không nên giao công trình mới với mỗi một việc lắp đặt
   cánh cửa, không nên giao công trình mới với mỗi một việc làm tay nắm,
@@ -10798,25 +10722,25 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, không nên giao công trình mới là toàn bộ trú xá; vị
+-- “Này các tỳ khưu, không nên giao công trình mới là toàn bộ trú xá; vị
   nào giao thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu giao hai công trình mới đến một vị. Các vị
 đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, không nên giao hai (công trình mới) đến một vị; vị
+-- “Này các tỳ khưu, không nên giao hai (công trình mới) đến một vị; vị
   nào giao thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, sau khi nhận lãnh công trình mới các tỳ khưu cho vị
 khác trú ngụ. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, sau khi nhận lãnh công trình mới không nên cho vị
+-- “Này các tỳ khưu, sau khi nhận lãnh công trình mới không nên cho vị
   khác trú ngụ; vị nào cho trú ngụ thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, sau khi nhận lãnh công trình mới các tỳ khưu chiếm giữ
 vật thuộc về hội chúng. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, sau khi nhận lãnh công trình mới không nên chiếm giữ
+-- “Này các tỳ khưu, sau khi nhận lãnh công trình mới không nên chiếm giữ
   vật thuộc về hội chúng; vị nào chiếm giữ thì phạm tội dukkaṭa. Này các
   tỳ khưu, ta cho phép nhận lãnh một chỗ nằm tốt nhất.”
 
@@ -10829,7 +10753,7 @@ giới; vị nào giao thì phạm tội dukkaṭa.”
 Vào lúc bấy giờ, sau khi nhận lãnh công trình mới các tỳ khưu chiếm giữ
 luôn. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, sau khi nhận lãnh công trình mới không nên chiếm giữ
+-- “Này các tỳ khưu, sau khi nhận lãnh công trình mới không nên chiếm giữ
   luôn; vị nào chiếm giữ thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho
   phép chiếm giữ trong ba tháng mùa mưa, mùa khác không được chiếm giữ.”
 
@@ -10886,7 +10810,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
 Các vị đã trình sự việc ấy lên đức Thế Tôn. ―(như trên)―
 
-- “Này các tỳ khưu, trường hợp sau khi nhận lãnh công trình mới, vị tỳ
+-- “Này các tỳ khưu, trường hợp sau khi nhận lãnh công trình mới, vị tỳ
   khưu bỏ đi. (Nên nghĩ rằng): ‘Chớ làm tổn hại đến hội chúng' rồi nên
   giao cho vị khác. Này các tỳ khưu, trường hợp sau khi nhận lãnh công
   trình mới, vị tỳ khưu hoàn tục, từ trần, được biết là (xuống) sa di,
@@ -11019,7 +10943,7 @@ undriyati - Ma. 5 cakkalī uppannā - Syā, PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, không nên sử dụng đồ đạc của địa điểm này tại địa
+-- “Này các tỳ khưu, không nên sử dụng đồ đạc của địa điểm này tại địa
   điểm khác; vị nào sử dụng thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu trong khi ngần ngại di chuyển (thảm lót)
@@ -11108,7 +11032,7 @@ bhittiṃ ca - Ma, Syā; bhittiṃ hanti - PTS, Sīmu.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, không nên bước lên chỗ nằm ngồi với các bàn chân
+-- “Này các tỳ khưu, không nên bước lên chỗ nằm ngồi với các bàn chân
   chưa rửa; vị nào bước lên thì phạm tội dukkaṭa.”
 
 Vào lúc bấy giờ, các tỳ khưu bước lên chỗ nằm ngồi với các bàn chân bị
@@ -11202,7 +11126,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   tháng. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép bữa trai phạn dâng đến hội chúng, bữa ăn
+-- “Này các tỳ khưu, ta cho phép bữa trai phạn dâng đến hội chúng, bữa ăn
   dâng đến các vị được chỉ định, sự thỉnh mời, bữa ăn dâng theo thẻ, vào
   mỗi nửa tháng, vào mỗi kỳ Uposatha, vào ngày đầu của mỗi nửa tháng.”
 
@@ -11213,7 +11137,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị sắp xếp các bữa ăn là vị tỳ
+-- “Này các tỳ khưu, ta cho phép chỉ định vị sắp xếp các bữa ăn là vị tỳ
   khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, không
   thể bị chi phối bởi sự sân hận, không thể bị chi phối bởi sự si mê,
   không thể bị chi phối bởi sự sợ hãi, vị biết (bữa ăn) đã được sắp xếp
@@ -11280,7 +11204,7 @@ Khi ấy, các tỳ khưu là những vị sắp xếp các bữa ăn đã khở
 “Bữa ăn nên được sắp xếp như thế nào?” Các vị đã trình sự việc ấy lên
 đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép buộc vào thẻ hoặc tấm phiếu, lần lượt
+-- “Này các tỳ khưu, ta cho phép buộc vào thẻ hoặc tấm phiếu, lần lượt
   rút ra, rồi sắp xếp các bữa ăn.”
 
 #block[
@@ -11289,7 +11213,7 @@ Khi ấy, các tỳ khưu là những vị sắp xếp các bữa ăn đã khở
   trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị phân bố chỗ trú ngụ là vị tỳ
+-- “Này các tỳ khưu, ta cho phép chỉ định vị phân bố chỗ trú ngụ là vị tỳ
   khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, không
   thể bị chi phối bởi sự sân hận, không thể bị chi phối bởi sự si mê,
   không thể bị chi phối bởi sự sợ hãi, vị biết vật đã được phân bố và
@@ -11366,7 +11290,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị giữ kho đồ đạc là vị tỳ khưu
+-- “Này các tỳ khưu, ta cho phép chỉ định vị giữ kho đồ đạc là vị tỳ khưu
   có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, không thể bị
   chi phối bởi sự sân hận, không thể bị chi phối bởi sự si mê, không thể
   bị chi phối bởi sự sợ hãi, vị biết vật đã được cất giữ và chưa được
@@ -11393,7 +11317,7 @@ này là như vậy.'”
   việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị tiếp nhận y là vị tỳ khưu có
+-- “Này các tỳ khưu, ta cho phép chỉ định vị tiếp nhận y là vị tỳ khưu có
   năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, không thể bị chi
   phối bởi sự sân hận, không thể bị chi phối bởi sự si mê, không thể bị
   chi phối bởi sự sợ hãi, vị biết vật đã được tiếp nhận và chưa được
@@ -11554,7 +11478,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
   Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị phân chia thức ăn khô là vị
+-- “Này các tỳ khưu, ta cho phép chỉ định vị phân chia thức ăn khô là vị
   tỳ khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, không
   thể bị chi phối bởi sự sân hận, không thể bị chi phối bởi sự si mê,
   không thể bị chi phối bởi sự sợ hãi, vị biết vật đã được phân chia và
@@ -11581,7 +11505,7 @@ việc này là như vậy.'”
   dào. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phát vật linh tinh là
+-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phát vật linh tinh là
   vị tỳ khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích,
   ―(như trên)― vị biết vật đã được phân chia và chưa được phân chia.
 
@@ -11657,7 +11581,7 @@ sử dụng. Nếu vật cần dùng có thêm thì nên trao tiếp tục.”
   trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phối vải choàng là vị
+-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phối vải choàng là vị
   tỳ khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, ―(như
   trên)― vị biết được vật đã được nhận hoặc chưa được nhận. Và này các
   tỳ khưu, nên chỉ định như vầy: Trước hết, vị tỳ khưu cần được yêu cầu,
@@ -11714,7 +11638,7 @@ việc này là như vậy.'”
 Vào lúc bấy giờ, hội chúng không có vị phân phối bình bát. Các vị đã
 trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phối bình bát là vị tỳ
+-- “Này các tỳ khưu, ta cho phép chỉ định vị phân phối bình bát là vị tỳ
   khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, ―(như
   trên)― vị biết được vật đã được nhận hoặc chưa được nhận.
 
@@ -11729,7 +11653,7 @@ mới im lặng, tôi ghi nhận sự việc này là như vậy.”
   việc. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị quản trị các người phụ việc
+-- “Này các tỳ khưu, ta cho phép chỉ định vị quản trị các người phụ việc
   chùa là vị tỳ khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa
   thích, ―(như trên)― vị biết được việc cần quản trị và việc không cần
   quản trị. Và này các tỳ khưu, nên chỉ định như vầy: ―(như trên)― nên
@@ -11761,7 +11685,7 @@ Tatiyakabhāṇavāraṃ.
 
 Senāsanakkhandhako niṭṭhito chaṭṭho. 1
 
--
+#divider()
 
 TASSUDDĀNAṂ
 
@@ -11784,7 +11708,7 @@ vihāraṃ - Ma, Syā, PTS, Sīmu. 4 te - Ma, PTS na dissate.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 
-- “Này các tỳ khưu, ta cho phép chỉ định vị quản trị các sa di là vị tỳ
+-- “Này các tỳ khưu, ta cho phép chỉ định vị quản trị các sa di là vị tỳ
   khưu có năm yếu tố: Vị không thể bị chi phối bởi sự ưa thích, không
   thể bị chi phối bởi sự sân hận, không thể bị chi phối bởi sự si mê,
   không thể bị chi phối bởi sự sợ hãi, vị biết được việc cần quản trị và
@@ -11809,7 +11733,7 @@ Tụng phẩm thứ ba.
 
 Dứt Chương Sàng Tọa là thứ sáu.
 
--
+#divider()
 
 TÓM LƯỢC CHƯƠNG NÀY:
 
@@ -12167,7 +12091,6 @@ Tạng Luật - Tiểu Phẩm 2 Chương Sàng Tọa
 #divider()
 
 === VII. SAṄGHABHEDAKAKKHANDHAKAṂ PAṬHAMABHĀṆAVĀRAṂ
-<vii.-saṅghabhedakakkhandhakaṃ-paṭhamabhāṇavāraṃ>
 CHASAKYAPABBAJJĀ
 
 + Tena samayena buddho bhagavā anupiyāyaṃ viharati anupiyaṃ nāma
@@ -12214,7 +12137,6 @@ niddāpetvā - Syā; 9 bhusikaṃ - Ma, Syā; bhusikā - PTS. niḍḍāpetabba�
 niḍḍāpetvā - PTS. 10 ophunāpetabbaṃ ophunāpetvā - Syā.
 
 === VII. CHƯƠNG CHIA RẼ HỘI CHÚNG: TỤNG PHẨM THỨ NHẤT:
-<vii.-chương-chia-rẽ-hội-chúng-tụng-phẩm-thứ-nhất>
 SỰ XUẤT GIA CỦA SÁU VỊ DÒNG SAKYA:
 
 + Lúc bấy giờ, đức Phật Thế Tôn ngụ tại Anupiyā. Anupiyā là tên của một
@@ -12239,10 +12161,10 @@ thuộc dòng dõi Sakya đã xuất gia noi theo gương đức Thế Tôn (là
 xuất gia sống không nhà cả. Chính vì điều ấy, hoặc là em hoặc là anh nên
 xuất gia.”
 
-- “Em thì mảnh mai, em không thể rời nhà xuất gia sống không nhà. Anh
+-- “Em thì mảnh mai, em không thể rời nhà xuất gia sống không nhà. Anh
   hãy xuất gia đi.”
 
-- “Anuruddha yêu dấu, hãy đến. Anh sẽ chỉ dạy công việc gia đình cho em.
+-- “Anuruddha yêu dấu, hãy đến. Anh sẽ chỉ dạy công việc gia đình cho em.
   Trước tiên, cần bảo cày xới ruộng nương, sau khi bảo cày xới rồi cần
   bảo gieo hạt, sau khi bảo gieo hạt rồi cần bảo đưa nước vào, sau khi
   bảo đưa nước vào rồi cần bảo tưới nước đều khắp các ruộng, sau khi bảo
@@ -12308,17 +12230,17 @@ mātāpitaro - Syā. 8 ‘so ca' iti Ma, PTS natthi.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Thế các công việc không được ngưng lại hay sao? Sự chấm dứt của các
+-- “Thế các công việc không được ngưng lại hay sao? Sự chấm dứt của các
   công việc không được biết đến hay sao? Khi nào các công việc sẽ được
   ngưng lại? Khi nào sự chấm dứt các công việc sẽ được biết đến? Khi nào
   chúng ta mới được rảnh rỗi mà hưởng thụ năm phần dục lạc đã được ban
   cho, đã được sở hữu?”
 
-- “Này Anuruddha yêu dấu, công việc không được ngưng lại. Sự chấm dứt
+-- “Này Anuruddha yêu dấu, công việc không được ngưng lại. Sự chấm dứt
   của các công việc không được biết đến. Khi công việc vẫn chưa ngưng
   lại, cha mẹ và ông đã qua đời.”
 
-- “Chính vì điều ấy nên chính anh hãy biết lấy công việc gia đình. Em sẽ
+-- “Chính vì điều ấy nên chính anh hãy biết lấy công việc gia đình. Em sẽ
   rời nhà xuất gia sống không nhà.”
 
 #block[
@@ -12338,7 +12260,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 “Thưa mẹ, con muốn rời nhà xuất gia sống không nhà. Mẹ hãy cho phép con
 rời nhà xuất gia sống không nhà.”
 
-- “Này Anuruddha yêu dấu, các con là hai người con trai thân thương, quý
+-- “Này Anuruddha yêu dấu, các con là hai người con trai thân thương, quý
   mến, yêu dấu của mẹ. Chỉ có sự chết thì mẹ đành phải xa con một cách
   miễn cưỡng; làm sao trong lúc con đang còn sống mẹ lại cho phép con về
   việc rời nhà xuất gia sống không nhà được?”
@@ -12408,17 +12330,17 @@ Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
   “Này bạn, việc xuất gia của tôi tùy thuộc vào bạn đó.”
 ]
 
-- “Này bạn, nếu việc xuất gia của bạn tùy thuộc vào tôi, vậy hãy làm cho
+-- “Này bạn, nếu việc xuất gia của bạn tùy thuộc vào tôi, vậy hãy làm cho
   nó không còn tùy thuộc nữa. Tôi với bạn … cứ việc xuất gia một cách
   thoải mái.” 1
 
-- “Này bạn, hãy đến. Cả hai ta sẽ rời nhà xuất gia sống không nhà.”
+-- “Này bạn, hãy đến. Cả hai ta sẽ rời nhà xuất gia sống không nhà.”
 
-- “Này bạn, tôi không thể rời nhà xuất gia sống không nhà. Điều gì khác
+-- “Này bạn, tôi không thể rời nhà xuất gia sống không nhà. Điều gì khác
   mà tôi có thể làm cho bạn thì tôi sẽ làm cho bạn. Bạn hãy xuất gia
   đi.”
 
-- “Này bạn, mẹ đã nói với tôi như vầy: ‘Này Anuruddha yêu dấu, nếu đức
+-- “Này bạn, mẹ đã nói với tôi như vầy: ‘Này Anuruddha yêu dấu, nếu đức
   vua Bhaddiya dòng Sakya rời nhà xuất gia sống không nhà, như vậy thì
   con cũng hãy xuất gia.' Này bạn, hơn nữa bạn đã nói lời nói này: ‘Này
   bạn, nếu việc xuất gia của bạn tùy thuộc vào tôi, hãy làm cho nó không
@@ -12430,15 +12352,15 @@ Khi ấy, đức vua Bhaddiya dòng Sakya đã nói với Anuruddha dòng Sakya 
 này: - “Này bạn, hãy chờ đợi bảy năm. Sau bảy năm, cả hai chúng ta sẽ
 rời nhà xuất gia sống không nhà.”
 
-- “Này bạn, bảy năm quá lâu. Tôi không thể chờ đợi bảy năm.”
+-- “Này bạn, bảy năm quá lâu. Tôi không thể chờ đợi bảy năm.”
 
-- “Này bạn, hãy chờ đợi sáu năm. ―(như trên)― năm năm. ―(như trên)― bốn
+-- “Này bạn, hãy chờ đợi sáu năm. ―(như trên)― năm năm. ―(như trên)― bốn
   năm. ―(như trên)― ba năm. ―(như trên)― hai năm. ―(như trên)― một năm.
   Sau một năm, cả hai chúng ta sẽ rời nhà xuất gia sống không nhà.”
 
-- “Này bạn, một năm quá lâu. Tôi không thể chờ đợi một năm.”
+-- “Này bạn, một năm quá lâu. Tôi không thể chờ đợi một năm.”
 
-- “Này bạn, hãy chờ đợi bảy tháng. Sau bảy tháng, cả hai chúng ta sẽ rời
+-- “Này bạn, hãy chờ đợi bảy tháng. Sau bảy tháng, cả hai chúng ta sẽ rời
   nhà xuất gia sống không nhà.”
 
 Ngài Buddhaghosa giải thích rằng: Bhaddiya vì thương mến bạn muốn nói
@@ -12498,19 +12420,19 @@ kimaṅgaṃ - Ma, Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Này bạn, bảy tháng quá lâu. Tôi không thể chờ đợi bảy tháng.”
+-- “Này bạn, bảy tháng quá lâu. Tôi không thể chờ đợi bảy tháng.”
 
-- “Này bạn, hãy chờ đợi sáu tháng. ―(như trên)― năm tháng. ―(như trên)―
+-- “Này bạn, hãy chờ đợi sáu tháng. ―(như trên)― năm tháng. ―(như trên)―
   bốn tháng. ―(như trên)― ba tháng. ―(như trên)― hai tháng. ―(như trên)―
   một tháng. ―(như trên)― nửa tháng. Sau nửa tháng, cả hai chúng ta sẽ
   rời nhà xuất gia sống không nhà.”
 
-- “Này bạn, nửa tháng quá lâu. Tôi không thể chờ đợi nửa tháng.”
+-- “Này bạn, nửa tháng quá lâu. Tôi không thể chờ đợi nửa tháng.”
 
-- “Này bạn, hãy chờ đợi bảy ngày đến khi tôi trao lại vương quốc cho các
+-- “Này bạn, hãy chờ đợi bảy ngày đến khi tôi trao lại vương quốc cho các
   người con trai và các người em trai xong.”
 
-- “Này bạn, bảy ngày không lâu lắm. Tôi sẽ chờ đợi.”
+-- “Này bạn, bảy ngày không lâu lắm. Tôi sẽ chờ đợi.”
 
 #block[
 #set enum(numbering: "1.", start: 4)
@@ -12534,7 +12456,7 @@ dòng Sakya ấy đã nhìn thấy thợ cạo Upāli đang từ đàng xa đi l
 nhìn thấy đã nói với thợ cạo Upāli điều này: - “Này khanh Upāli, vì sao
 ngươi quay lại?”
 
-- “Thưa các vương tử, ở đây trong khi quay trở về tôi đã khởi ý điều
+-- “Thưa các vương tử, ở đây trong khi quay trở về tôi đã khởi ý điều
   này: ‘Những người dòng Sakya thật là ác độc (nghĩ rằng): ‘Các vương tử
   đã bỏ đi vì gã này,' cũng có thể ra lệnh giết ta. Chính các vương tử
   dòng Sakya này còn rời nhà xuất gia sống không nhà, việc gì ta lại
@@ -12594,7 +12516,7 @@ Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Này khanh Upāli, ngươi đã hành động đúng về việc người đã quay trở
+-- “Này khanh Upāli, ngươi đã hành động đúng về việc người đã quay trở
   lại vì những người dòng Sakya quả là ác độc (nghĩ rằng): ‘Các vương tử
   đã bỏ đi vì gã này,' cũng có thể ra lệnh giết ngươi.”
 
@@ -12691,7 +12613,7 @@ PTS, Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Này đại đức, xin vâng.” Rồi đại đức Bhaddiya nghe theo vị tỳ khưu ấy
+-- “Này đại đức, xin vâng.” Rồi đại đức Bhaddiya nghe theo vị tỳ khưu ấy
   đã đi đến gặp đức Thế tôn, sau khi đến đã đảnh lễ đức Thế tôn rồi ngồi
   xuống một bên. Khi đại đức Bhaddiya đã ngồi xuống một bên, đức Thế Tôn
   đã nói với đại đức Bhaddiya điều này: - “Này Bhaddiya, nghe nói ngươi
@@ -12699,13 +12621,13 @@ Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
   vẫn thường xuyên thốt lên lời cảm hứng rằng: ‘Ôi sự an lạc! Ôi sự an
   lạc!' có đúng không vậy?”
 
-- “Bạch ngài, đúng vậy.”
+-- “Bạch ngài, đúng vậy.”
 
-- “Này Bhaddiya, trong khi cảm nhận được lợi ích gì khiến ngươi, mặc dầu
+-- “Này Bhaddiya, trong khi cảm nhận được lợi ích gì khiến ngươi, mặc dầu
   ở trong rừng, mặc dầu ở dưới cội cây, mặc dầu ở nơi đồng trống, thường
   xuyên thốt lên lời cảm hứng: ‘Ôi sự an lạc! Ôi sự an lạc!' vậy?”
 
-- “Bạch ngài, trước đây khi con làm vua, mặc dầu có sự bảo vệ được sắp
+-- “Bạch ngài, trước đây khi con làm vua, mặc dầu có sự bảo vệ được sắp
   đặt cẩn thận bên trong hậu cung, mặc dầu có sự bảo vệ được sắp đặt cẩn
   thận bên ngoài hậu cung, mặc dầu có sự bảo vệ được sắp đặt cẩn thận
   bên trong thành phố, mặc dầu có sự bảo vệ được sắp đặt cẩn thận bên
@@ -12798,13 +12720,13 @@ trai mình quấn đầy rắn xuất hiện ở trên bắp vế của hoàng t
 Khi ấy, hoàng tử Ajātasattuđã trở nên sợ hãi, khiếp đảm, lo âu, hồi hộp.
 Khi ấy, Devadatta đã nói với hoàng tử Ajātasattu điều này:
 
-- “Hoàng tử, ngài sợ tôi hay sao?”
+-- “Hoàng tử, ngài sợ tôi hay sao?”
 
-- “Vâng, ta sợ lắm. Ngươi là ai?”
+-- “Vâng, ta sợ lắm. Ngươi là ai?”
 
-- “Tôi là Devadatta.”
+-- “Tôi là Devadatta.”
 
-- “Thưa ngài, nếu ngươi là ngài đại đức Devadatta, xin hãy hiện ra với
+-- “Thưa ngài, nếu ngươi là ngài đại đức Devadatta, xin hãy hiện ra với
   hình dáng của chính ngài đi.”
 
 #block[
@@ -12899,16 +12821,16 @@ Mahāmoggallāna, hướng vai phải nhiễu quanh, rồi biến mất ngay t�
   mất ngay tại chỗ ấy.”
 ]
 
-- “Này Moggallāna, có phải Thiên tử Kakudha với ngươi có tâm hiểu và
+-- “Này Moggallāna, có phải Thiên tử Kakudha với ngươi có tâm hiểu và
   biết (lẫn nhau) bằng tâm nên bất cứ điều gì Thiên tử Kakudha nói
   (ngươi biết được) tất cả điều ấy đều theo chính cách ấy, chứ không
   phải cách nào khác?”
 
-- “Bạch ngài, Thiên tử Kakudha với con có tâm hiểu và biết (lẫn nhau)
+-- “Bạch ngài, Thiên tử Kakudha với con có tâm hiểu và biết (lẫn nhau)
   bằng tâm nên bất cứ điều gì Thiên tử Kakudha nói (con biết được) tất
   cả điều ấy đều theo chính cách ấy, chứ không phải cách nào khác.”
 
-- “Này Moggallāna, hãy giữ kín lời nói này. Này Moggallāna, hãy giữ kín
+-- “Này Moggallāna, hãy giữ kín lời nói này. Này Moggallāna, hãy giữ kín
   lời nói này. Đã đến lúc kẻ rồ dại ấy tự chính mình sẽ làm bộc lộ bản
   thân.”
 
@@ -13212,11 +13134,11 @@ hanti gabbho assatariṃ yathā ”ti.
 
 Paṭhamakabhāṇavāraṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Này các tỳ khưu, chớ có ganh tỵ với Devadatta về sự lợi lộc, trọng
+-- “Này các tỳ khưu, chớ có ganh tỵ với Devadatta về sự lợi lộc, trọng
   vọng, và tôn vinh. Này các tỳ khưu, cho đến khi nào hoàng tử
   Ajātasattu còn sáng chiều đi đến phục vụ Devadatta cùng với đoàn xe
   năm trăm chiếc, và vật cúng dường về thực phẩm là năm trăm phần cơm
@@ -13264,7 +13186,7 @@ tợ như bào thai hại chết con lừa.”
 
 Tụng phẩm thứ nhất.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Saṅghabhedakakkhandhakaṃ
 
@@ -13312,12 +13234,12 @@ Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
   Tôn, và đã nói với đức Thế Tôn điều này:
 ]
 
-- “Bạch ngài, đức Thế Tôn nay đã tàn tạ, già cả, lớn tuổi, đã sống thọ,
+-- “Bạch ngài, đức Thế Tôn nay đã tàn tạ, già cả, lớn tuổi, đã sống thọ,
   đã đạt đến đoạn cuối cuộc đời. Bạch ngài, giờ đây xin đức Thế Tôn hãy
   sống gắn bó vào sự lạc trú trong hiện tại, còn hội chúng tỳ khưu hãy
   bàn giao cho tôi, tôi sẽ cai quản hội chúng tỳ khưu.”
 
-- “Này Devadatta, thôi đi. Ngươi chớ có mong để được cai quản hội chúng
+-- “Này Devadatta, thôi đi. Ngươi chớ có mong để được cai quản hội chúng
   tỳ khưu.”
 
 Đến lần thứ nhì, Devadatta ―(như trên)― Đến lần thứ ba, Devadatta đã nói
@@ -13327,7 +13249,7 @@ cả, lớn tuổi, đã sống thọ, đã đạt đến đoạn cuối cuộc 
 hội chúng tỳ khưu hãy bàn giao cho tôi, tôi sẽ cai quản hội chúng tỳ
 khưu.”
 
-- “Này Devadatta, ngay cả Sāriputta và Moggallāna ta còn không thể bàn
+-- “Này Devadatta, ngay cả Sāriputta và Moggallāna ta còn không thể bàn
   giao hội chúng tỳ khưu, làm sao (có thể bàn giao) cho kẻ tồi tệ đáng
   phỉ nhổ như ngươi được?”
 
@@ -13432,7 +13354,7 @@ lặng, tôi ghi nhận sự việc này là như vậy.'”
   Rājagaha.”
 ]
 
-- “Bạch ngài, trước đây ở trong thành Rājagaha con đã khen ngợi về
+-- “Bạch ngài, trước đây ở trong thành Rājagaha con đã khen ngợi về
   Devadatta rằng: ‘Con trai của Godhi có đại thần lực! Con trai của
   Godhi có đại năng lực!' Bạch ngài, làm sao con công bố về Devadatta ở
   trong thành Rājagaha được?”
@@ -13476,20 +13398,20 @@ tena daṭṭhabbo 'ti. Khamati saṅghassa, tasmā tuṇhī. Evametaṃ dhāray
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Này Sāriputta, khi ngươi khen ngợi về Devadatta ở trong thành
+-- “Này Sāriputta, khi ngươi khen ngợi về Devadatta ở trong thành
   Rājagaha rằng: ‘Con trai của Godhi có đại thần lực! Con trai của Godhi
   có đại năng lực!' phải chăng là đúng sự thật?”
 
-- “Bạch ngài, đúng vậy.”
+-- “Bạch ngài, đúng vậy.”
 
-- “Này Sāriputta, cũng tương tợ như vậy, ngươi hãy công bố đúng sự thật
+-- “Này Sāriputta, cũng tương tợ như vậy, ngươi hãy công bố đúng sự thật
   về Devadatta ở trong thành Rājagaha.”
 
-- “Bạch ngài, xin vâng.” Đại đức Sāriputta đã đáp lời đức Thế Tôn.
+-- “Bạch ngài, xin vâng.” Đại đức Sāriputta đã đáp lời đức Thế Tôn.
 
 Sau đó, đức Thế Tôn đã bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, chính vì điều ấy hội chúng hãy chỉ định Sāriputta để
+-- “Này các tỳ khưu, chính vì điều ấy hội chúng hãy chỉ định Sāriputta để
   công bố về Devadatta ở trong thành Rājagaha rằng: ‘Bản chất của
   Devadatta trước đây khác, nay bản chất đã khác. Việc gì Devadatta làm
   bằng thân hoặc bằng lời nói, không nên xem điều ấy là (của) đức Phật,
@@ -13591,11 +13513,11 @@ một cách vội vã, sau khi nhìn thấy họ đã giữ lại. Trong lúc kh
 đã thấy con dao găm buộc ở đùi nên đã nói với hoàng tử Ajātasattu điều
 này: - “Tâu hoàng tử, ngài có ý định làm điều gì vậy?”
 
-- “Ta có ý định giết cha.”
+-- “Ta có ý định giết cha.”
 
-- “Do ai xúi giục?”
+-- “Do ai xúi giục?”
 
-- “Do ngài đại đức Devadatta.”
+-- “Do ngài đại đức Devadatta.”
 
 Một số quan đại thần đã đưa ý kiến như vầy: - “Hoàng tử phải bị giết
 chết, Devadatta và tất cả các tỳ khưu phải bị giết chết.”
@@ -13659,9 +13581,9 @@ Sau đó, các quan đại thần ấy đã đưa hoàng tử Ajātasattu đi đ
 vua Seniya Bimbisāra xứ Magadha, sau khi đến đã trình báo sự việc ấy lên
 đức vua Seniya Bimbisāra xứ Magadha.
 
-- “Này các khanh, các quan đại thần đã có ý kiến thế nào?”
+-- “Này các khanh, các quan đại thần đã có ý kiến thế nào?”
 
-- “Tâu bệ hạ, một số quan đại thần đã đưa ý kiến như vầy: ‘Hoàng tử phải
+-- “Tâu bệ hạ, một số quan đại thần đã đưa ý kiến như vầy: ‘Hoàng tử phải
   bị giết chết, Devadatta và tất cả các tỳ khưu phải bị giết chết.' Một
   số quan đại thần khác đã đưa ý kiến như vầy: ‘Các tỳ khưu không phải
   chết. Các vị tỳ khưu không làm điều gì tổn hại. Còn hoàng tử và
@@ -13670,7 +13592,7 @@ vua Seniya Bimbisāra xứ Magadha, sau khi đến đã trình báo sự việc 
   cũng không phải chết. Nên trình báo lên đức vua. Đức vua ra lệnh như
   thế nào thì chúng ta sẽ làm thế ấy.'”
 
-- “Này các khanh, đức Phật, hoặc Giáo Pháp, hoặc Hội Chúng sẽ làm điều
+-- “Này các khanh, đức Phật, hoặc Giáo Pháp, hoặc Hội Chúng sẽ làm điều
   gì? Chẳng phải đức Thế Tôn đã cảnh giác và đã cho công bố về Devadatta
   trong thành Rājagaha rằng: ‘Bản chất của Devadatta trước đây khác, nay
   bản chất đã khác. Việc gì Devadatta làm bằng thân hoặc bằng lời nói,
@@ -13691,7 +13613,7 @@ Sau đó, đức vua Seniya Bimbisāra xứ Magadha đã nói với hoàng tử
 Ajātasattu điều này: - “Này hoàng tử, tại sao con có ý định giết ta?” -
 “Tâu bệ hạ, con muốn được vương quyền.”
 
-- “Này hoàng tử, nếu con muốn được vương quyền, thì vương quyền này là
+-- “Này hoàng tử, nếu con muốn được vương quyền, thì vương quyền này là
   của con.” Rồi đã trao vương quyền cho hoàng tử Ajātasattu.
 
 Vinayapiṭake Cullavaggapāḷi 2 Saṅghabhedakakkhandhakaṃ
@@ -13967,7 +13889,7 @@ Sau đó, người đàn ông ấy một mình đã đi đến gặp Devadatta, 
 sống của đức Thế tôn ấy. Đức Thế Tôn ấy có đại thần lực, có đại năng
 lực.”
 
-- “Này ông bạn, thôi đi. Ngươi chớ đoạt lấy mạng sống của Sa-môn Gotama,
+-- “Này ông bạn, thôi đi. Ngươi chớ đoạt lấy mạng sống của Sa-môn Gotama,
   chính ta sẽ đoạt lấy mạng sống của Sa-môn Gotama.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Saṅghabhedakakkhandhakaṃ
@@ -14044,20 +13966,20 @@ tiếng động lớn, tiếng đọc tụng, sau khi nghe đã bảo đại đ�
 \- “Này Ānanda, tiếng động ồn, tiếng động lớn, tiếng đọc tụng ấy là gì
 vậy?”
 
-- “Bạch ngài, các tỳ khưu đã nghe rằng: ‘Nghe nói Devadatta mưu đồ giết
+-- “Bạch ngài, các tỳ khưu đã nghe rằng: ‘Nghe nói Devadatta mưu đồ giết
   hại đức Thế Tôn.' Bạch ngài, và các vị tỳ khưu ấy đi kinh hành vòng
   quanh trú xá của đức Thế Tôn tạo nên âm thanh ồn và âm thanh lớn trong
   khi đọc tụng để bảo vệ, che chở, và canh gác cho đức Thế Tôn. Bạch Thế
   Tôn, đó là tiếng động ồn, tiếng động lớn, tiếng đọc tụng ấy.”
 
-- “Này Ānanda, chính vì điều ấy ngươi hãy gọi các tỳ khưu ấy với lời nói
+-- “Này Ānanda, chính vì điều ấy ngươi hãy gọi các tỳ khưu ấy với lời nói
   của ta rằng: ‘Bậc Đạo Sư gọi các đại đức.'”
 
-- “Bạch ngài, xin vâng.” Rồi đại đức Ānanda nghe theo đức Thế Tôn đã đi
+-- “Bạch ngài, xin vâng.” Rồi đại đức Ānanda nghe theo đức Thế Tôn đã đi
   đến gặp các vị tỳ khưu ấy, sau khi đến đã nói với các vị tỳ khưu ấy
   điều này: - “Bậc Đạo Sư gọi các đại đức.”
 
-- “Này đại đức, xin vâng.” Rồi các vị tỳ khưu ấy nghe theo đại đức
+-- “Này đại đức, xin vâng.” Rồi các vị tỳ khưu ấy nghe theo đại đức
   Ānanda đã đi đến gặp đức Thế Tôn, sau khi đến đã đảnh lễ đức Thế Tôn
   rồi ngồi xuống một bên. Đức Thế Tôn đã nói với các vị tỳ khưu ấy đang
   ngồi một bên điều này:
@@ -14303,7 +14225,7 @@ tỳ khưu ấy đã nói với đức Thế Tôn điều này: - “Bạch ngà
 Nālāgiri này dữ tợn, là con thú giết người đã đi vào con đường này. Bạch
 ngài, xin đức Thế Tôn hãy trở lui, xin đấng Thiện Thệ hãy trở lui.”
 
-- “Này các tỳ khưu, hãy đi đến, chớ có sợ hãi. Này các tỳ khưu, việc
+-- “Này các tỳ khưu, hãy đi đến, chớ có sợ hãi. Này các tỳ khưu, việc
   người nào có thể tước đoạt mạng sống của đức Như Lai bằng sự hãm hại
   là không hợp lý và không có cơ sở. Này các tỳ khưu, các đức Như Lai Vô
   Dư Niết Bàn không do sự hãm hại.”
@@ -14460,15 +14382,15 @@ nhóm lại liên tục yêu cầu ở các gia đình rồi thọ thực?”
 
 Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này Devadatta, nghe nói ngươi cùng phe nhóm liên tục yêu cầu ở các
+-- “Này Devadatta, nghe nói ngươi cùng phe nhóm liên tục yêu cầu ở các
   gia đình rồi thọ thực, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: ―(như trên)― Sau khi khiển trách,
 ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, chính vì điều ấy đối với các tỳ khưu ta sẽ quy định
+-- “Này các tỳ khưu, chính vì điều ấy đối với các tỳ khưu ta sẽ quy định
   vật thực theo nhóm ba vị ở các gia đình vì ba lý do: “Nhằm kiềm chế
   những kẻ tồi tệ, vì sự sống an lạc của các tỳ khưu hiền thiện: ‘Chớ để
   các tỳ khưu ác xấu nương tựa vào phe cánh mà chia rẽ hội chúng,' và vì
@@ -14489,7 +14411,7 @@ Khi được nói như thế, Kokālika đã nói với Devadatta điều này: 
 chúng ta sẽ tiến hành việc chia rẽ hội chúng của Sa-môn Gotama, tức là
 việc phân chia quyền lãnh đạo được?”
 
-- “Này các đại đức, hãy đến. Chúng ta sẽ đi đến gặp Sa-môn Gotama và yêu
+-- “Này các đại đức, hãy đến. Chúng ta sẽ đi đến gặp Sa-môn Gotama và yêu
   cầu năm sự việc: ‘Bạch ngài, đức Thế Tôn là người khen ngợi sự ít ham
   muốn, sự tự biết đủ, sự đoạn trừ, sự từ bỏ, sự hoan hỷ, sự giảm thiểu,
   sự ra sức nỗ lực bằng nhiều phương thức. Bạch ngài, đây là năm sự việc
@@ -14555,7 +14477,7 @@ tội.'
 Sa-môn Gotama sẽ không cho phép năm sự việc này. Và chúng ta đây sẽ công
 bố cho dân chúng biết về năm sự việc này.”
 
-- “Này đại đức, với năm sự việc này có thể tiến hành việc chia rẽ hội
+-- “Này đại đức, với năm sự việc này có thể tiến hành việc chia rẽ hội
   chúng của Sa-môn Gotama, tức là việc phân chia quyền lãnh đạo. Này đại
   đức, bởi vì dân chúng có niềm tin với khổ hạnh.”
 
@@ -14566,7 +14488,7 @@ bố cho dân chúng biết về năm sự việc này.”
   bên, Devadatta đã nói với đức Thế Tôn điều này:
 ]
 
-- “Bạch ngài, đức Thế Tôn là người khen ngợi sự ít ham muốn, sự tự biết
+-- “Bạch ngài, đức Thế Tôn là người khen ngợi sự ít ham muốn, sự tự biết
   đủ, sự đoạn trừ, sự từ bỏ, sự hoan hỷ, sự giảm thiểu, sự ra sức nỗ lực
   bằng nhiều phương thức. Bạch ngài, đây là năm sự việc đưa đến sự ít
   ham muốn, sự tự biết đủ, sự đoạn trừ, sự từ bỏ, sự hoan hỷ, sự giảm
@@ -14625,7 +14547,7 @@ Là các vị sống ở gốc cây cho đến trọn đời, vị nào đi đ�
 Không ăn cá thịt cho đến trọn đời, vị nào ăn cá thịt thì vị ấy phạm
 tội.”
 
-- “Này Devadatta, thôi đi. Vị nào muốn thì hãy trở thành vị sống ở rừng,
+-- “Này Devadatta, thôi đi. Vị nào muốn thì hãy trở thành vị sống ở rừng,
   vị nào muốn thì hãy cư ngụ ở trong làng.
 
 Vị nào muốn thì hãy trở thành vị khất thực, vị nào muốn thì hãy ưng
@@ -14687,7 +14609,7 @@ dhūtā - Syā. 3 kappaṭṭhikaṃ - Ma, PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Này các đạo hữu, chúng tôi đã đi đến gặp Sa-môn Gotama và đã yêu cầu
+-- “Này các đạo hữu, chúng tôi đã đi đến gặp Sa-môn Gotama và đã yêu cầu
   năm sự việc: ‘Bạch ngài, đức Thế Tôn là người khen ngợi sự ít ham
   muốn, ―(như trên)― là người khen ngợi sự ra sức nỗ lực bằng nhiều
   phương thức. Bạch ngài, đây là năm sự việc đưa đến sự ít ham muốn,
@@ -14715,9 +14637,9 @@ chúng của đức Thế Tôn, tức là việc phân chia quyền lãnh đạo
   phân chia quyền lãnh đạo, có đúng không vậy?”
 ]
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
-- “Này Devadatta, thôi đi. Ngươi chớ có thích thú việc chia rẽ hội
+-- “Này Devadatta, thôi đi. Ngươi chớ có thích thú việc chia rẽ hội
   chúng. Này Devadatta, chia rẽ hội chúng là việc nghiêm trọng. Này
   Devadatta, kẻ nào phá vỡ sự hợp nhất, kẻ ấy gây nên tội lỗi tồn tại
   trọn kiếp 1 và bị nung nấu trong địa ngục trọn kiếp. Và này Devadatta,
@@ -14756,7 +14678,7 @@ pāpamariyehi dukkaran ”ti.
 
 Dutiyaṃ bhāṇavāraṃ.
 
--
+#divider()
 
 ajjatagge - Ma.
 
@@ -14790,7 +14712,7 @@ lên lời cảm hứng này:
 
 Tụng phẩm thứ nhì.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Saṅghabhedakakkhandhakaṃ
 
@@ -14859,7 +14781,7 @@ bên, đại đức Sāriputta đã nói với đức Thế Tôn điều này: -
 Devadatta đã chia rẽ hội chúng và dẫn năm trăm tỳ khưu ra đi về phía
 đỉnh đồi Gayā.”
 
-- “Này Sāriputta và Moggallāna, không lẽ các ngươi không có lòng trắc ẩn
+-- “Này Sāriputta và Moggallāna, không lẽ các ngươi không có lòng trắc ẩn
   đối với các tỳ khưu mới tu ấy hay sao? Này Sāriputta và Moggallāna,
   các ngươi hãy đi đến trước khi các tỳ khưu ấy tạo nên điều sai trái và
   hư hỏng.” - “Bạch ngài, xin vâng.” Rồi Sāriputta và Moggallāna nghe
@@ -14922,11 +14844,11 @@ Vào lúc bấy giờ, có vị tỳ khưu nọ đứng không xa đức Thế T
 lóc. Khi ấy, đức Thế Tôn đã nói với vị tỳ khưu ấy điều này: - “Này tỳ
 khưu, vì sao ngươi khóc?”
 
-- “Bạch ngài, ngay cả hai vị Thinh Văn hàng đầu của đức Thế Tôn là
+-- “Bạch ngài, ngay cả hai vị Thinh Văn hàng đầu của đức Thế Tôn là
   Sāriputta và Moggallāna cũng thích thú với giáo lý của Devadatta và đi
   đến với Devadatta rồi.”
 
-- “Này tỳ khưu, việc Sāriputta và Moggallāna có thể thích thú với giáo
+-- “Này tỳ khưu, việc Sāriputta và Moggallāna có thể thích thú với giáo
   lý của Devadatta là việc không hợp lý và không có cơ sở; tuy nhiên, họ
   đã đi để cảnh tỉnh các tỳ khưu.”
 
@@ -14944,13 +14866,13 @@ khưu, vì sao ngươi khóc?”
   xa.”
 ]
 
-- “Này đại đức, thôi đi. Hãy chào mừng bọn họ bởi vì họ thích thú với
+-- “Này đại đức, thôi đi. Hãy chào mừng bọn họ bởi vì họ thích thú với
   giáo lý của ta.”
 
 Sau đó, Devadatta đã mời đại đức Sāriputta với một nửa chỗ ngồi (của
 mình): - “Này đại đức Sāriputta, hãy đến. Hãy ngồi xuống ở đây.”
 
-- “Này đại đức, thôi đi.” Rồi đại đức Sāriputta đã chọn chỗ ngồi khác và
+-- “Này đại đức, thôi đi.” Rồi đại đức Sāriputta đã chọn chỗ ngồi khác và
   đã ngồi xuống ở một góc. Còn đại đức Mahāmoggallāna cũng đã chọn chỗ
   ngồi khác và đã ngồi xuống ở một góc.
 
@@ -15038,13 +14960,13 @@ chi phối bởi những ước muốn xấu xa.'” Khi ấy, ngay tại chỗ 
   có thể tu lên bậc trên lại.”
 ]
 
-- “Này Sāriputta, thôi đi. Ngươi chớ có thích thú với việc tu lên bậc
+-- “Này Sāriputta, thôi đi. Ngươi chớ có thích thú với việc tu lên bậc
   trên lại của các tỳ khưu là những người ủng hộ kẻ chia rẽ. Này
   Sāriputta, chính vì điều ấy ngươi hãy cho các tỳ khưu là những người
   ủng hộ kẻ chia rẽ trình báo tội thullaccaya. Này Sāriputta, Devadatta
   đã cư xử với ngươi như thế nào?”
 
-- “Bạch ngài, cũng tương tợ như đức Thế Tôn đã chỉ dạy, thức tỉnh,
+-- “Bạch ngài, cũng tương tợ như đức Thế Tôn đã chỉ dạy, thức tỉnh,
   khuyến khích, và tạo niềm phấn khởi cho các tỳ khưu bằng bài Pháp
   thoại gần như trọn đêm rồi đã yêu cầu con rằng: ‘Này Sāriputta, hội
   chúng tỳ khưu đã qua cơn dã dượi và buồn ngủ. Này Sāriputta, mong rằng
@@ -15380,7 +15302,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
   đồng trong hội chúng và là sự chia rẽ hội chúng?”
 ]
 
-- “Này Upāli, một bên có một người, một bên có hai người, người thứ tư
+-- “Này Upāli, một bên có một người, một bên có hai người, người thứ tư
   phân phát thẻ biểu quyết tuyên bố rằng: ‘Đây là Pháp, đây là Luật, đây
   là lời giáo huấn của bậc Đạo Sư. Hãy nhận lấy thẻ này, hãy ủng hộ việc
   này.' Này Upāli, như vậy chỉ là sự bất đồng trong hội chúng mà không
@@ -15483,7 +15405,7 @@ có thể chia rẽ hội chúng.”
   chúng.' Bạch ngài, cho đến như thế nào thì hội chúng bị chia rẽ?”
 ]
 
-- “Ở đây, này Upāli, các tỳ khưu tuyên bố phi Pháp là ‘Pháp;' tuyên bố
+-- “Ở đây, này Upāli, các tỳ khưu tuyên bố phi Pháp là ‘Pháp;' tuyên bố
   Pháp là: ‘Phi Pháp;' tuyên bố phi Luật là: ‘Luật;' tuyên bố Luật là:
   ‘Phi Luật;' tuyên bố điều đã không được giảng, không được nói bởi đức
   Như Lai là: ‘Điều đã được giảng, đã được nói bởi đức Như Lai;' tuyên
@@ -15582,7 +15504,7 @@ có sự hợp nhất.”
     gì?”
 ]
 
-- “Này Upāli, sau khi chia rẽ hội chúng hợp nhất, kẻ gây nên tội lỗi
+-- “Này Upāli, sau khi chia rẽ hội chúng hợp nhất, kẻ gây nên tội lỗi
   chịu đựng trọn kiếp, bị nung nấu trong địa ngục trọn kiếp.”
 
 “Kẻ chia rẽ hội chúng là kẻ sanh đọa xứ, là kẻ đi địa ngục, phải chịu
@@ -15590,7 +15512,7 @@ có sự hợp nhất.”
 sự an ổn của thiền, sau khi đã chia rẽ hội chúng có sự hợp nhất, bị nung
 nấu trong địa ngục trọn kiếp.”
 
-- “Bạch ngài, sau khi làm hợp nhất hội chúng đã bị chia rẽ, vị ấy tạo
+-- “Bạch ngài, sau khi làm hợp nhất hội chúng đã bị chia rẽ, vị ấy tạo
   được điều gì?”
 
 Vinayapiṭake Cullavaggapāḷi 2 Saṅghabhedakakkhandhakaṃ
@@ -15635,7 +15557,7 @@ ca anuggaho - Ma; ca anaggaho - Sīmu. 2 siyā nu kho pana bhante - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Chia Rẽ Hội Chúng
 
-- “Này Upāli, sau khi làm hợp nhất hội chúng đã bị chia rẽ, vị ấy tạo
+-- “Này Upāli, sau khi làm hợp nhất hội chúng đã bị chia rẽ, vị ấy tạo
   được phước báu của Phạm Thiên, được vui hưởng ở cõi trời trọn kiếp.”
 
 “An lạc thay sự hợp nhất của hội chúng, và tán đồng với những ai sống
@@ -15649,21 +15571,21 @@ nhất, được vui hưởng ở cõi trời trọn kiếp.”
   kẻ đi địa ngục, phải chịu đựng trọn kiếp, không thể sửa đổi được?”
 ]
 
-- “Này Upāli, kẻ chia rẽ hội chúng có thể sẽ là kẻ sanh đọa xứ, là kẻ đi
+-- “Này Upāli, kẻ chia rẽ hội chúng có thể sẽ là kẻ sanh đọa xứ, là kẻ đi
   địa ngục, phải chịu đựng trọn kiếp, không thể sửa đổi được.”
 
-- “Bạch ngài, có thể nào kẻ chia rẽ hội chúng sẽ không là kẻ sanh đọa
+-- “Bạch ngài, có thể nào kẻ chia rẽ hội chúng sẽ không là kẻ sanh đọa
   xứ, không là kẻ đi địa ngục, không phải chịu đựng trọn kiếp, có thể
   sửa đổi được?”
 
-- “Này Upāli, kẻ chia rẽ hội chúng có thể sẽ không là kẻ sanh đọa xứ,
+-- “Này Upāli, kẻ chia rẽ hội chúng có thể sẽ không là kẻ sanh đọa xứ,
   không là kẻ đi địa ngục, không phải chịu đựng trọn kiếp, có thể sửa
   đổi được.”
 
-- “Bạch ngài, thế nào là kẻ chia rẽ hội chúng (sẽ) là kẻ sanh đọa xứ, là
+-- “Bạch ngài, thế nào là kẻ chia rẽ hội chúng (sẽ) là kẻ sanh đọa xứ, là
   kẻ đi địa ngục, phải chịu đựng trọn kiếp, không thể sửa đổi được?”
 
-- “Này Upāli, trường hợp vị tỳ khưu tuyên bố phi Pháp là: ‘Pháp.' (Vị
+-- “Này Upāli, trường hợp vị tỳ khưu tuyên bố phi Pháp là: ‘Pháp.' (Vị
   ấy) có quan điểm là sai Pháp về việc ấy, có quan điểm là sai Pháp về
   việc chia rẽ, sau khi che giấu quan điểm, sau khi che giấu điều mong
   mỏi, sau khi che giấu điều khao khát, sau khi che giấu ý định, rồi
@@ -15914,7 +15836,7 @@ chia rẽ hội chúng (sẽ) là kẻ sanh đọa xứ, là kẻ đi địa ng�
     thể sửa đổi được?”
 ]
 
-- “Này Upāli, trường hợp vị tỳ khưu tuyên bố phi Pháp là: ‘Phi Pháp.'
+-- “Này Upāli, trường hợp vị tỳ khưu tuyên bố phi Pháp là: ‘Phi Pháp.'
   (Vị ấy) có quan điểm là đúng Pháp về việc ấy, có quan điểm là đúng
   Pháp về việc chia rẽ, sau khi không che giấu quan điểm, sau khi không
   che giấu điều mong mỏi, sau khi không che giấu điều khao khát, sau khi
@@ -15953,7 +15875,7 @@ Tatiyabhāṇavāraṃ.
 
 Saṅghabhedakakkhandhakaṃ sattamaṃ. 1
 
--
+#divider()
 
 TASSUDDĀNAṂ
 
@@ -16003,7 +15925,7 @@ Tụng phẩm thứ ba.
 
 Chương Chia Rẽ Hội Chúng là thứ bảy.
 
--
+#divider()
 
 TÓM LƯỢC CHƯƠNG NÀY:
 
@@ -16025,7 +15947,6 @@ rẽ, với tội thullaccaya, ba nhóm gồm tám điều, rồi lại ba đi�
 #divider()
 
 === VIII. VATTAKKHANDHAKAṂ
-<viii.-vattakkhandhakaṃ>
 + ĀGANTUKAVATTAṂ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -16060,7 +15981,6 @@ Vigarahitvā dhammiṃ kathaṃ katvā bhikkhū āmantesi:
 napi - Ma, Syā. 2 ahi khandhe - Ma, Syā, PTS.
 
 === VIII. CHƯƠNG PHẬN SỰ:
-<viii.-chương-phận-sự>
 + PHẬN SỰ CỦA VỊ VÃNG LAI:
 
 + Lúc bấy giờ, đức Phật Thế tôn ngự tại thành Sāvatthi, Jetavana, tu
@@ -16082,10 +16002,10 @@ căng dù, ―(như trên)― không hỏi về chỗ trú ngụ?”
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói các tỳ khưu vãng lai đi vào tu viện vẫn
+-- “Này các tỳ khưu, nghe nói các tỳ khưu vãng lai đi vào tu viện vẫn
   mang dép, ―(như trên)― không hỏi về chỗ trú ngụ, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: - “Này các tỳ khưu, vì sao các tỳ
 khưu vãng lai lại đi vào tu viện vẫn mang dép, ―(như trên)― không hỏi về
@@ -16155,7 +16075,7 @@ yena hatthena … na teneva hatthena - Syā. uparipuñjakitaṃ - PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 
-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự cho các tỳ
+-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự cho các tỳ
   khưu vãng lai, các tỳ khưu vãng lai nên thực hành như thế. Này các tỳ
   khưu, vị tỳ khưu vãng lai (nghĩ rằng): ‘Bây giờ ta sẽ đi vào tu viện,'
   nên tháo dép ra, để dưới thấp, giũ sạch, rồi cầm lấy, hạ dù xuống, cởi
@@ -16312,7 +16232,7 @@ hoti paribhojanīyaṃ upaṭṭhapetabbaṃ. Sace ācamanakumbhiyā udakaṃ na
 Idaṃ kho bhikkhave āgantukānaṃ bhikkhūnaṃ vattaṃ yathā āgantukehi
 bhikkhūhi vattitabban ”ti. 1
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 2)
@@ -16358,7 +16278,7 @@ vào hũ nước súc miệng.
 Này các tỳ khưu, đây là phận sự của các tỳ khưu vãng lai, các tỳ khưu
 vãng lai nên thực hành như thế.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 2)
@@ -16422,7 +16342,7 @@ nikkhamitabban 'ti.
 Idaṃ kho bhikkhave āvāsikānaṃ bhikkhūnaṃ vattaṃ yathā āvāsikehi
 bhikkhūhi vattitabban ”ti.
 
--
+#divider()
 
 pānīyena pucchitabbo paribhojanīyena pucchitabbo - Syā.
 
@@ -16438,13 +16358,13 @@ abhivādāpetabbo - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 
-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?”
+-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)―
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)―
 
 Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự cho các tỳ
+-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự cho các tỳ
   khưu thường trú, các tỳ khưu thường trú nên thực hành như thế.
 
 #block[
@@ -16480,7 +16400,7 @@ về gậy để chống. Nên nói rõ về qui định của hội chúng: ‘
 Này các tỳ khưu, đây là phận sự của các tỳ khưu thường trú, các tỳ khưu
 thường trú nên thực hành như thế.”
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
 
@@ -16559,13 +16479,13 @@ Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?”
+-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)―
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)―
 
 Sau khi khiển trách, ngài đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự cho các tỳ
+-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự cho các tỳ
   khưu xuất hành, các tỳ khưu xuất hành nên thực hành như thế.
 
 #block[
@@ -16605,7 +16525,7 @@ seseyyun 'ti.
 Idaṃ kho bhikkhave gamikānaṃ bhikkhūnaṃ vattaṃ yathā gamikehi
 vattitabban ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 4)
@@ -16657,7 +16577,7 @@ thứ này sẽ còn được tồn tại.'
 Này các tỳ khưu, đây là phận sự của các tỳ khưu xuất hành, các tỳ khưu
 xuất hành nên thực hành như thế.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 4)
@@ -16673,14 +16593,14 @@ xuất hành nên thực hành như thế.”
 Khi ấy, đức Thế Tôn nhân lý do ấy nhân sự kiện ấy đã nói Pháp thoại rồi
 bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, ta cho phép nói lời tùy hỷ ở chỗ thọ thực.”
+-- “Này các tỳ khưu, ta cho phép nói lời tùy hỷ ở chỗ thọ thực.”
 
 Sau đó, các vị tỳ khưu ấy đã khởi ý điều này: “Vị nào sẽ nói lời tùy hỷ
 ở chỗ thọ thực?” Các vị đã trình sự việc ấy lên đức Thế Tôn. Khi ấy, đức
 Thế Tôn nhân lý do ấy nhân sự kiện ấy đã nói Pháp thoại rồi bảo các tỳ
 khưu rằng:
 
-- “Này các tỳ khưu, ta cho phép vị tỳ khưu trưởng lão nói lời tùy hỷ ở
+-- “Này các tỳ khưu, ta cho phép vị tỳ khưu trưởng lão nói lời tùy hỷ ở
   chỗ thọ thực.”
 
 Vào lúc bấy giờ, có bữa trai phạn dâng đến hội chúng của nhóm người nọ.
@@ -16709,7 +16629,7 @@ vaccaṃ sandhāretuṃ asakkonto2 mucchito papati. Bhagavato etamatthaṃ
 “Anujānāmi bhikkhave satikaraṇīye ānantarikaṃ bhikkhuṃ āpucchitvā gantun
 ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 5)
@@ -16748,17 +16668,17 @@ Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 Sau đó, đức Thế Tôn nhân lý do ấy nhân sự kiện ấy đã nói Pháp thoại rồi
 bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, ta cho phép bốn hay năm vị tỳ khưu trưởng lão hoặc
+-- “Này các tỳ khưu, ta cho phép bốn hay năm vị tỳ khưu trưởng lão hoặc
   kế tiếp vị trưởng lão chờ đợi ở chỗ thọ thực.”
 
 Vào lúc bấy giờ, có vị tỳ khưu trưởng lão nọ bị mắc tiêu đã chờ đợi ở
 chỗ thọ thực. Trong lúc không thể kiềm chế việc đại tiện, vị ấy bị ngất
 xỉu ngã xuống. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép ra đi khi có việc cần làm sau khi đã
+-- “Này các tỳ khưu, ta cho phép ra đi khi có việc cần làm sau khi đã
   thông báo cho vị tỳ khưu kế bên.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 5)
@@ -16780,17 +16700,17 @@ xỉu ngã xuống. Các vị đã trình sự việc ấy lên đức Thế Tô
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói các tỳ khưu nhóm Lục Sư mặc y luộm thuộm,
+-- “Này các tỳ khưu, nghe nói các tỳ khưu nhóm Lục Sư mặc y luộm thuộm,
   trùm y luộm thuộm, không đúng quy cách đi đến chỗ thọ thực, ―(như
   trên)― lại còn trải ra y hai lớp rồi ngồi xuống ở trong xóm nhà, có
   đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Thế Tôn đã khiển trách rằng: ―(như trên)― Sau khi khiển trách, ngài
 đã nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự ở chỗ thọ
+-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự ở chỗ thọ
   thực cho các tỳ khưu, các tỳ khưu ở chỗ thọ thực nên thực hành như
   thế.
 
@@ -16940,7 +16860,7 @@ vattitabban ”ti.
 
 Paṭhamaṃ bhāṇavāraṃ.
 
--
+#divider()
 
 sapadāno - PTS. 2 sabbe va - Ma, Syā.
 
@@ -16994,7 +16914,7 @@ khưu ở chỗ thọ thực nên thực hành như thế.”
 
 Tụng phẩm thứ nhất.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
 
@@ -17068,9 +16988,9 @@ Khi ấy, người đàn bà ấy đã thức dậy vì tiếng động ấy và
 chồng ấy điều này: - “Phu quân, vì sao ông lại đánh đòn vị tỳ khưu này
 vậy?”
 
-- “Gã tỳ khưu này đã làm nhơ bà.”
+-- “Gã tỳ khưu này đã làm nhơ bà.”
 
-- “Phu quân, thiếp không có bị vị tỳ khưu này làm nhơ. Vị tỳ khưu ấy
+-- “Phu quân, thiếp không có bị vị tỳ khưu này làm nhơ. Vị tỳ khưu ấy
   không có làm.” Và đã bảo thả vị tỳ khưu ấy.
 
 Sau đó, vị tỳ khưu ấy đã đi đến tu viện và kể lại sự việc ấy cho các tỳ
@@ -17083,7 +17003,7 @@ không suy xét trước, đi vào vô cùng vội vã, đi ra cũng vô cùng v
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?” - “Bạch
+-- “Này các tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?” - “Bạch
   Thế Tôn, đúng vậy.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
@@ -17206,7 +17126,7 @@ bhinditabbā.
 Idaṃ kho bhikkhave piṇḍacārikānaṃ bhikkhūnaṃ vattaṃ yathā piṇḍacārikehi
 bhikkhūhi vattitabban ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 7)
@@ -17255,7 +17175,7 @@ ra bằng lời.
 Này các tỳ khưu, đây là phận sự của các tỳ khưu đi khất thực, các tỳ
 khưu đi khất thực nên thực hành như thế.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 7)
@@ -17268,17 +17188,17 @@ khưu đi khất thực nên thực hành như thế.”
   nói với các tỳ khưu ấy điều này: - “Thưa ngài có nước uống không?”
 ]
 
-- “Anh bạn à, không có.”
+-- “Anh bạn à, không có.”
 
-- “Thưa ngài, có nước rửa không?”
+-- “Thưa ngài, có nước rửa không?”
 
-- “Anh bạn à, không có.”
+-- “Anh bạn à, không có.”
 
-- “Thưa ngài, có lửa không?”
+-- “Thưa ngài, có lửa không?”
 
-- “Anh bạn à, không có.”
+-- “Anh bạn à, không có.”
 
-- “Thưa ngài, có vật tạo lửa không?”
+-- “Thưa ngài, có vật tạo lửa không?”
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
 
@@ -17333,23 +17253,23 @@ corā yime - PTS . 3 dvāravātapānāni - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 
-- “Anh bạn à, không có.”
+-- “Anh bạn à, không có.”
 
-- “Thưa ngài, có các vị trí của những ngôi sao không?”
+-- “Thưa ngài, có các vị trí của những ngôi sao không?”
 
-- “Anh bạn à, chúng tôi không biết.”
+-- “Anh bạn à, chúng tôi không biết.”
 
-- “Thưa ngài, có phương hướng và khu vực không?”
+-- “Thưa ngài, có phương hướng và khu vực không?”
 
-- “Anh bạn à, chúng tôi không biết.”
+-- “Anh bạn à, chúng tôi không biết.”
 
-- “Thưa ngài, hôm nay liên quan đến điều gì?”
+-- “Thưa ngài, hôm nay liên quan đến điều gì?”
 
-- “Anh bạn à, chúng tôi không biết.”
+-- “Anh bạn à, chúng tôi không biết.”
 
-- “Thưa ngài, hướng này là hướng gì?”
+-- “Thưa ngài, hướng này là hướng gì?”
 
-- “Anh bạn à, chúng tôi không biết.”
+-- “Anh bạn à, chúng tôi không biết.”
 
 Khi ấy, bọn trộm cướp ấy (nghĩ rằng): ‘Những người này không có nước
 uống, không có nước rửa, không có lửa, không có vật tạo lửa, không biết
@@ -17411,7 +17331,7 @@ saṅgharitvā sīse karitvā upāhanaṃ ārohitvā gantabbaṃ.
   bhikkhūnaṃ vattaṃ yathā ārakaññikehi bhikkhūhi vattitabban ”ti.
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 8)
@@ -17463,7 +17383,7 @@ vai, cuốn tròn y lại, đội lên đầu, mang dép vào, rồi đi về.
   thế.”
 ]
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 8)
@@ -17476,7 +17396,7 @@ vai, cuốn tròn y lại, đội lên đầu, mang dép vào, rồi đi về.
   phán, chê bai rằng:
 ]
 
-- “Vì sao các tỳ khưu nhóm Lục Sư lại đập giũ sàng tọa ngược chiều gió ở
+-- “Vì sao các tỳ khưu nhóm Lục Sư lại đập giũ sàng tọa ngược chiều gió ở
   trước mái hiên khiến các tỳ khưu bị lấm bụi?”
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
@@ -17525,7 +17445,7 @@ các tỳ khưu, nghe nói các tỳ khưu nhóm Lục Sư đập giũ sàng t�
 chiều gió ở trước mái hiên khiến các tỳ khưu bị lấm bụi, có đúng không
 vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
   nói Pháp thoại rồi bảo các tỳ khưu rằng: - “Này các tỳ khưu, chính vì
   điều ấy ta sẽ quy định phận sự ở nơi cư ngụ cho các tỳ khưu, các tỳ
   khưu ở nơi cư ngụ nên thực hành như thế.
@@ -17664,7 +17584,7 @@ kaṇṇena ghaṭṭetabbo.
 Idaṃ kho bhikkhave bhikkhūnaṃ senāsanavattaṃ yathā bhikkhūhi senāsane
 vattitabban ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 9)
@@ -17710,7 +17630,7 @@ xoay lại và không nên va chạm vị thâm niên dù là bằng chéo y hai
 Này các tỳ khưu, đây là phận sự ở nơi cư ngụ của các tỳ khưu, các tỳ
 khưu ở nơi cư ngụ nên thực hành như thế.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 9)
@@ -17731,16 +17651,16 @@ khưu ở nơi cư ngụ nên thực hành như thế.”
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói các tỳ khưu nhóm Lục Sư ở trong nhà tắm hơi
+-- “Này các tỳ khưu, nghe nói các tỳ khưu nhóm Lục Sư ở trong nhà tắm hơi
   trong khi bị cản trở bởi các tỳ khưu trưởng lão, do không kính trọng
   nên đem lại nhiều củi, đốt lửa, đóng cửa ra vào, và ngồi xuống ở cửa
   ra vào khiến các tỳ khưu bị hành hạ bởi sức nóng, không mở cửa được,
   nên bị ngất xỉu ngã xuống, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
   nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, ở trong nhà tắm hơi trong khi bị cản trở bởi các tỳ
+-- “Này các tỳ khưu, ở trong nhà tắm hơi trong khi bị cản trở bởi các tỳ
   khưu trưởng lão, do không kính trọng không nên đem lại nhiều củi và
   đốt lửa; vị nào đốt thì phạm tội dukkaṭa. Này các tỳ khưu, không nên
   đóng cửa ra vào rồi ngồi xuống ở cửa ra vào; vị nào ngồi thì phạm tội
@@ -17776,7 +17696,7 @@ pakkamitabbaṃ.
 Idaṃ kho bhikkhave bhikkhūnaṃ jantāgharavattaṃ yathā bhikkhūhi
 jantāghare vattitabban ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 10)
@@ -17824,7 +17744,7 @@ ghế ngồi của nhà tắm hơi, nên dập tắt lửa, nên đóng cửa, r
 Này các tỳ khưu, đây là phận sự ở nhà tắm hơi của các tỳ khưu, các tỳ
 khưu ở nhà tắm hơi nên thực hành như thế.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 10)
@@ -17836,9 +17756,9 @@ khưu ở nhà tắm hơi nên thực hành như thế.”
   ấy đã kể lại sự việc ấy cho các tỳ khưu.
 ]
 
-- “Này đại đức, có phải đại đức đại tiện xong mà không rửa sạch?”
+-- “Này đại đức, có phải đại đức đại tiện xong mà không rửa sạch?”
 
-- “Này các đại đức, đúng vậy.”
+-- “Này các đại đức, đúng vậy.”
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
 
@@ -17893,13 +17813,13 @@ chê bai rằng: - “Vì sao vị tỳ khưu đại tiện xong lại không r�
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này tỳ khưu, nghe nói ngươi đại tiện xong lại không rửa sạch, có đúng
+-- “Này tỳ khưu, nghe nói ngươi đại tiện xong lại không rửa sạch, có đúng
   không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
   nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, sau khi đại tiện xong nếu có nước không nên không
+-- “Này các tỳ khưu, sau khi đại tiện xong nếu có nước không nên không
   rửa sạch; vị nào không rửa sạch thì phạm tội dukkaṭa.”
 
 #block[
@@ -17911,10 +17831,10 @@ Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Th�
   nghe nói ―(như trên)― có đúng không vậy?”
 ]
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
   nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, việc đại tiện ở nhà vệ sinh không nên thực hành theo
+-- “Này các tỳ khưu, việc đại tiện ở nhà vệ sinh không nên thực hành theo
   thứ tự thâm niên; vị nào thực hành thì phạm tội dukkaṭa. Này các tỳ
   khưu, ta cho phép thực hiện việc đại tiện theo thứ tự đi đến.”
 
@@ -17967,7 +17887,7 @@ sammajjitabbaṃ. Sace koṭṭhako uklāpo hoti koṭṭhako sammajjitabbo. Sac
 Idaṃ kho bhikkhave bhikkhūnaṃ vaccakuṭivattaṃ yathā bhikkhūhi
 vaccakuṭiyā vattitabban ”ti.
 
--
+#divider()
 
 bahi ṭhitena - PTS, tena iti saddo natthi. 3 uhatā - Ma.
 
@@ -17978,12 +17898,12 @@ Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn. ―(như
 trên)―
 
-- “Này tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?”
+-- “Này tỳ khưu, nghe nói ―(như trên)― có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
   nói Pháp thoại rồi bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự ở nhà vệ
+-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự ở nhà vệ
   sinh cho các tỳ khưu, các tỳ khưu ở nhà vệ sinh nên thực hành như thế.
 
 Vị đi đến nhà vệ sinh, đứng ở bên ngoài, nên tằng hắng. Vị ngồi bên
@@ -18008,7 +17928,7 @@ nước rửa không có nước, nên đổ nước vào lu nước rửa.
 Này các tỳ khưu, đây là phận sự ở nhà vệ sinh của các tỳ khưu, các tỳ
 khưu ở nhà vệ sinh nên thực hành như thế.”
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
 
@@ -18070,10 +17990,10 @@ Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 
 Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói các người đệ tử không thực hành phận sự
+-- “Này các tỳ khưu, nghe nói các người đệ tử không thực hành phận sự
   đúng đắn đối với các vị thầy tế độ, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.”
+-- “Bạch Thế Tôn, đúng vậy.”
 
 Đức Phật Thế Tôn đã khiển trách rằng: - “Này các tỳ khưu, vì sao các
 người đệ tử lại không thực hành phận sự đúng đắn đối với các vị thầy tế
@@ -18084,7 +18004,7 @@ tin ở những kẻ chưa có đức tin và làm thay đổi (niềm tin) củ
 người đã có đức tin.” Sau khi khiển trách, ngài đã nói Pháp thoại rồi
 bảo các tỳ khưu rằng:
 
-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự đối với các
+-- “Này các tỳ khưu, chính vì điều ấy ta sẽ quy định phận sự đối với các
   vị thầy tế độ cho các người đệ tử, đối với các vị thầy tế độ các người
   đệ tử nên thực hành như thế.
 
@@ -18477,7 +18397,7 @@ vuṭṭhānamassa āgametabbaṃ.
 Idaṃ kho bhikkhave saddhivihārikānaṃ upajjhāyesu vattaṃ yathā
 saddhivihārikehi upajjhāyesu vattitabban ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 12)
@@ -18521,7 +18441,7 @@ trọn đời, nên chờ đợi (đến khi) vị ấy có sự hồi phục.
 Này các tỳ khưu, đây là phận sự đối với các vị thầy tế độ của các người
 đệ tử, các người đệ tử đối với các vị thầy tế độ nên thực hành như thế.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 12)
@@ -18538,7 +18458,7 @@ Sau đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Th�
 các tỳ khưu, nghe nói các vị thầy tế độ không thực hành phận sự đúng đắn
 đối với các người đệ tử, có đúng không vậy?”
 
-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
+-- “Bạch Thế Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã
   nói Pháp thoại rồi bảo các tỳ khưu rằng: - “Này các tỳ khưu, chính vì
   điều ấy ta sẽ quy định phận sự đối với các người đệ tử cho các vị thầy
   tế độ, các vị thầy tế độ đối với các người đệ tử nên thực hành như
@@ -18760,7 +18680,7 @@ upajjhāyehi saddhivihārikesu vattitabban ”ti.
 
 Dutiyabhāṇavāraṃ niṭṭhitaṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
 
@@ -18805,7 +18725,7 @@ tế độ. Các vị thầy tế độ đối với các người đệ tử n�
 
 Dứt tụng phẩm thứ nhì.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Vattakkhandhakaṃ
 
@@ -18858,7 +18778,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Phận Sự
   ấy đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, nghe nói các người học trò không thực hành phận sự
+-- “Này các tỳ khưu, nghe nói các người học trò không thực hành phận sự
   đúng đắn đối với các vị thầy dạy học, có đúng không vậy?” - “Bạch Thế
   Tôn, đúng vậy.” ―(như trên)― Sau khi khiển trách, ngài đã nói Pháp
   thoại rồi bảo các tỳ khưu rằng: - “Này các tỳ khưu, chính vì điều ấy
@@ -19238,7 +19158,7 @@ Vuṭṭhānamassa āgametabbaṃ.
 Idaṃ kho bhikkhave antevāsikānaṃ ācariyesu vattaṃ yathā antevāsikehi
 ācariyesu vattitabban ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 14)
@@ -19283,7 +19203,7 @@ Này các tỳ khưu, đây là phận sự đối với các vị thầy dạy 
 người học trò, các người học trò đối với các vị thầy dạy học nên thực
 hành như thế.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 14)
@@ -19539,7 +19459,7 @@ antevāsikesu vattitabban ”ti.
 
 Vattakkhandhakaṃ aṭṭhamaṃ. 1
 
--
+#divider()
 
 Imamhi khandhake vatthupañcapaṇṇāsa. 2
 
@@ -19588,7 +19508,7 @@ hành như thế.”
 
 Chương Phận Sự là thứ tám.
 
--
+#divider()
 
 Trong chương này có năm mươi lăm sự việc.
 
@@ -20249,7 +20169,6 @@ bhikkhūnaṃ pātimokkhan ”ti.
 tadahuposathe paṇṇarase - Syā. 2 uddhate - PTS.
 
 === IX. CHƯƠNG ĐÌNH CHỈ GIỚI BỔN PĀTIMOKKHA: TỤNG PHẨM THỨ NHẤT:
-<ix.-chương-đình-chỉ-giới-bổn-pātimokkha-tụng-phẩm-thứ-nhất>
 THỈNH CẦU TUYÊN ĐỌC GIỚI BỔN PĀTIMOKKHA:
 
 + Lúc bấy giờ, đức Phật Thế Tôn ngự tại Sāvatthi, tu viện Pubba, ở tòa
@@ -20278,7 +20197,7 @@ minh đã rạng, trời đêm lộ vẻ rạng rỡ, hội chúng tỳ khưu ng
 Bạch ngài, xin đức Thế Tôn tuyên đọc giới bổn Pātimokkha cho các tỳ
 khưu.”
 
-- “Này Ānanda, hội chúng không thanh tịnh.”
+-- “Này Ānanda, hội chúng không thanh tịnh.”
 
 Tòa nhà này được xây dựng bởi mẹ của Migāra, tức là nữ cư sĩ Visākhā
 (ND).
@@ -20317,7 +20236,7 @@ bhikkhūnaṃ pātimokkhan ”ti.
 “Acchariyaṃ moggallāna, abbhutaṃ moggallāna, yāva bāhāgahaṇāpi nāma so
 moghapuriso āgamessatī ”ti.
 
--
+#divider()
 
 MAHĀSAMUDDE AṬṬHA ACCHARIYĀ
 
@@ -20365,10 +20284,10 @@ bên ngoài cánh cửa của cổng ra vào, gài chốt cửa lại, rồi đ�
 nhân vật ấy đã bị con đẩy ra ngoài rồi; hội chúng được thanh tịnh. Bạch
 ngài, xin đức Thế Tôn tuyên đọc giới bổn Pātimokkha cho các tỳ khưu.”
 
-- “Này Moggallāna, thật kỳ lạ thay! Này Moggallāna thật khác thường
+-- “Này Moggallāna, thật kỳ lạ thay! Này Moggallāna thật khác thường
   thay! Gã rồ dại ấy lại chờ cho đến lúc bị nắm lấy cánh tay.”
 
--
+#divider()
 
 TÁM PHÁP KỲ DIỆU VỀ BIỂN CẢ:
 
@@ -20834,7 +20753,7 @@ khưu nhóm Lục Sư lại đình chỉ giới bổn Pātimokkha của các t�
 sạch không có phạm tội khi không có cơ sở, không có nguyên nhân?” Sau
 đó, các vị tỳ khưu ấy đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, nghe nói các tỳ khưu nhóm Lục Sư đình chỉ giới bổn
+-- “Này các tỳ khưu, nghe nói các tỳ khưu nhóm Lục Sư đình chỉ giới bổn
   Pātimokkha của các tỳ khưu trong sạch không có phạm tội khi không có
   cơ sở, không có nguyên nhân, có đúng không vậy?” - “Bạch Thế Tôn, đúng
   vậy.” ―(như trên)―
@@ -21566,7 +21485,7 @@ pātimokkhaṭṭhapanānī ”ti.
 
 Paṭhamaṃ bhāṇavāraṃ.
 
--
+#divider()
 
 Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
 
@@ -21611,7 +21530,7 @@ Pātimokkha đúng Pháp.”
 
 Tụng phẩm thứ nhất.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Pātimokkhaṭṭhapanakkhandhakaṃ
 
@@ -21664,7 +21583,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
   tố khi có bao nhiêu yếu tố?”
 ]
 
-- “Này Upāli, vị tỳ khưu có ý muốn áp dụng việc đích thân khởi tố nên áp
+-- “Này Upāli, vị tỳ khưu có ý muốn áp dụng việc đích thân khởi tố nên áp
   dụng việc đích thân khởi tố khi có năm yếu tố: Này Upāli, vị tỳ khưu
   có ý muốn áp dụng việc đích thân khởi tố nên quán xét như sau: ‘Việc
   ta có ý muốn áp dụng việc đích thân khởi tố này là đúng thời điểm để
@@ -21770,7 +21689,7 @@ không đem lại sự ân hận sau này.”
   quán xét bản thân bao nhiêu pháp rồi mới nên khiển trách vị khác?”
 ]
 
-- “Này Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên
+-- “Này Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên
   quán xét bản thân năm pháp rồi mới nên khiển trách vị khác. Này Upāli,
   vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên quán xét như
   vầy: ‘Ta có sở hành về thân trong sạch không? Ta có sở hành về thân
@@ -21933,7 +21852,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
     khơi dậy ở nội tâm bao nhiêu pháp rồi mới nên khiển trách vị khác?”
 ]
 
-- “Này Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên
+-- “Này Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên
   khơi dậy ở nội tâm năm pháp rồi mới nên khiển trách vị khác: ‘Ta sẽ
   nói hợp thời, không phải sái thời; ta sẽ nói với sự thật, không phải
   với sự sai trái; ta sẽ nói với sự mềm mỏng, không phải bằng cách thô
@@ -21942,10 +21861,10 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
   Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên khơi
   dậy ở nội tâm năm pháp này rồi mới nên khiển trách vị khác.”
 
-- “Bạch ngài, sự ân hận sẽ được xảy đến cho vị tỳ khưu khiển trách không
+-- “Bạch ngài, sự ân hận sẽ được xảy đến cho vị tỳ khưu khiển trách không
   đúng Pháp với bao nhiêu hình thức?”
 
-- “Này Upāli, sự ân hận sẽ được xảy đến cho vị tỳ khưu khiển trách không
+-- “Này Upāli, sự ân hận sẽ được xảy đến cho vị tỳ khưu khiển trách không
   đúng Pháp với năm hình thức. (Ai đó có thể nói rằng): ‘Đại đức khiển
   trách sái thời, không hợp thời, thế là đủ để đưa đến sự ân hận cho
   ngài. Đại đức khiển trách với sự sai trái, không phải với sự thật, thế
@@ -21965,7 +21884,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
     khiển trách không đúng Pháp với bao nhiêu hình thức?”
 ]
 
-- “Này Upāli, sự không có ân hận sẽ được xảy đến cho vị tỳ khưu bị khiển
+-- “Này Upāli, sự không có ân hận sẽ được xảy đến cho vị tỳ khưu bị khiển
   trách không đúng Pháp với năm hình thức. (Ai đó có thể nói rằng): ‘Đại
   đức bị khiển trách sái thời, không hợp thời, thế là đủ để không đưa
   đến sự ân hận cho ngài. Đại đức bị khiển trách với sự sai trái, không
@@ -22031,7 +21950,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
     trách đúng Pháp với bao nhiêu hình thức?”
 ]
 
-- “Này Upāli, sự không có ân hận sẽ được xảy đến cho vị tỳ khưu khiển
+-- “Này Upāli, sự không có ân hận sẽ được xảy đến cho vị tỳ khưu khiển
   trách đúng Pháp với năm hình thức. (Ai đó có thể nói rằng): ‘Đại đức
   khiển trách hợp thời, không sái thời, thế là đủ để không đưa đến sự ân
   hận cho ngài. Đại đức khiển trách với sự thật, không phải với sự sai
@@ -22051,7 +21970,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
     trách đúng Pháp với bao nhiêu hình thức?”
 ]
 
-- “Này Upāli, sự có ân hận sẽ được xảy đến cho vị tỳ khưu bị khiển trách
+-- “Này Upāli, sự có ân hận sẽ được xảy đến cho vị tỳ khưu bị khiển trách
   đúng Pháp với năm hình thức. (Ai đó có thể nói rằng): ‘Đại đức bị
   khiển trách hợp thời, không sái thời, thế là đủ để đưa đến sự ân hận
   cho ngài. Đại đức bị khiển trách với sự thật, không phải với sự sai
@@ -22070,7 +21989,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
     tác ý nội tâm bao nhiêu pháp rồi mới nên khiển trách vị khác?”
 ]
 
-- “Này Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên
+-- “Này Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác nên
   tác ý nội tâm năm pháp rồi mới nên khiển trách vị khác: ‘Lòng bi mẫn,
   sự tầm cầu lợi ích, lòng thương xót, sự thoát khỏi tội, sự tôn trọng
   Luật.' Này Upāli, vị tỳ khưu khiển trách có ý muốn khiển trách vị khác
@@ -22087,7 +22006,7 @@ Dutiya bhāṇavāraṃ.
 
 Pātimokkhaṭṭhapanakkhandhakaṃ navamaṃ.
 
--
+#divider()
 
 Imamhi khandhake vatthu tiṃsa.
 
@@ -22125,17 +22044,17 @@ nivuttho - Syā; 6 catusāvake - Syā. niccuddo - PTS. 7 yathāṭhiti - PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
 
-- “Bạch ngài, vị tỳ khưu bị khiển trách nên an trú trong bao nhiêu
+-- “Bạch ngài, vị tỳ khưu bị khiển trách nên an trú trong bao nhiêu
   pháp?”
 
-- “Này Upāli, vị tỳ khưu bị khiển trách nên an trú trong hai pháp: chân
+-- “Này Upāli, vị tỳ khưu bị khiển trách nên an trú trong hai pháp: chân
   thật và không nổi giận.”
 
 Tụng phẩm thứ nhì.
 
 Chương Đình Chỉ Giới Bổn Pātimokkha là thứ chín.
 
--
+#divider()
 
 Trong chương này có ba mươi sự việc.
 
@@ -22276,7 +22195,6 @@ Tạng Luật - Tiểu Phẩm 2 Chương Đình Chỉ Giới Bổn Pātimokkha
 #divider()
 
 === X. BHIKKHUNĪKKHANDHAKAṂ
-<x.-bhikkhunīkkhandhakaṃ>
 + Tena samayena buddho bhagavā sakkesu viharati kapilavatthusmiṃ
   nigrodhārāme. Atha kho mahāpajāpatī 1 gotamī yena bhagavā
   tenupasaṅkami, upasaṅkamitvā bhagavantaṃ abhivādetvā ekamantaṃ
@@ -22312,7 +22230,6 @@ kūṭāgārasālāyaṃ.
 mahāpajāpati - Ma.
 
 === X. CHƯƠNG TỲ KHƯU NI:
-<x.-chương-tỳ-khưu-ni>
 + Lúc bấy giờ, đức Phật Thế Tôn ngự trong lãnh thổ của dòng Sakya ở
   thành Kapilavatthu, tu viện Nigrodha. Khi ấy, bà Mahāpajāpatī Gotamī
   đã đi đến gặp đức Thế Tôn, sau khi đến đã đảnh lễ đức Thế Tôn rồi đứng
@@ -22321,7 +22238,7 @@ mahāpajāpati - Ma.
   sự xuất gia rời nhà sống không nhà trong Pháp và Luật đã được đức Như
   Lai công bố.”
 
-- “Này Gotamī, thôi đi! Bà chớ có quan tâm đến việc người nữ xuất gia
+-- “Này Gotamī, thôi đi! Bà chớ có quan tâm đến việc người nữ xuất gia
   rời nhà sống không nhà trong Pháp và Luật đã được đức Như Lai công bố
   nữa.”
 
@@ -22329,14 +22246,14 @@ mahāpajāpati - Ma.
 \- “Bạch ngài, tốt đẹp thay người nữ có thể đạt được sự xuất gia ―(như
 trên)―.”
 
-- “Này Gotamī, thôi đi! Bà chớ có quan tâm đến việc người nữ xuất gia
+-- “Này Gotamī, thôi đi! Bà chớ có quan tâm đến việc người nữ xuất gia
   ―(như trên)―.”
 
 Đến lần thứ ba, bà Mahāpajāpatī Gotamī đã nói với đức Thế Tôn điều này:
 \- “Bạch ngài, tốt đẹp thay người nữ có thể đạt được sự xuất gia rời nhà
 sống không nhà trong Pháp và Luật đã được đức Như Lai công bố.”
 
-- “Này Gotamī, thôi đi! Bà chớ có quan tâm đến việc người nữ xuất gia
+-- “Này Gotamī, thôi đi! Bà chớ có quan tâm đến việc người nữ xuất gia
   rời nhà sống không nhà trong Pháp và Luật đã được đức Như Lai công bố
   nữa.”
 
@@ -22432,20 +22349,20 @@ nhà sống không nhà trong Pháp và Luật đã được đức Như Lai cô
 ngài, tốt đẹp thay người nữ có thể đạt được sự xuất gia rời nhà sống
 không nhà trong Pháp và Luật đã được đức Như Lai công bố.”
 
-- “Này Ānanda, thôi đi! Ngươi chớ có quan tâm đến việc người nữ xuất gia
+-- “Này Ānanda, thôi đi! Ngươi chớ có quan tâm đến việc người nữ xuất gia
   rời nhà sống không nhà trong Pháp và Luật đã được đức Như Lai công bố
   nữa.”
 
 Đến lần thứ nhì, đại đức Ānanda đã nói với đức Thế Tôn điều này: - “Bạch
 ngài, tốt đẹp thay người nữ có thể đạt được sự xuất gia ―(như trên)―.”
 
-- “Này Ānanda, thôi đi! Ngươi chớ có quan tâm đến việc người nữ xuất gia
+-- “Này Ānanda, thôi đi! Ngươi chớ có quan tâm đến việc người nữ xuất gia
   ―(như trên)―.”
 
 Đến lần thứ ba, đại đức Ānanda đã nói với đức Thế Tôn điều này: - “Bạch
 ngài, tốt đẹp thay người nữ có thể đạt được sự xuất gia ―(như trên)―.”
 
-- “Này Ānanda, thôi đi! Ngươi chớ có quan tâm đến việc người nữ xuất gia
+-- “Này Ānanda, thôi đi! Ngươi chớ có quan tâm đến việc người nữ xuất gia
   rời nhà sống không nhà trong Pháp và Luật đã được đức Như Lai công bố
   nữa.”
 
@@ -22511,11 +22428,11 @@ nhà trong Pháp và Luật đã được đức Như Lai công bố, có khả 
 ngộ quả vị Nhập Lưu, hoặc quả vị Nhất Lai, hoặc quả vị Bất Lai, hoặc
 phẩm vị A-la- hán hay không?”
 
-- “Này Ānanda, người nữ sau khi xuất gia rời nhà sống không nhà trong
+-- “Này Ānanda, người nữ sau khi xuất gia rời nhà sống không nhà trong
   Pháp và Luật đã được đức Như Lai công bố, có khả năng chứng ngộ quả vị
   Nhập Lưu, quả vị Nhất Lai, quả vị Bất Lai, luôn cả phẩm vị A-la-hán.”
 
-- “Bạch ngài, nếu người nữ ―(như trên)― có khả năng chứng ngộ ―(như
+-- “Bạch ngài, nếu người nữ ―(như trên)― có khả năng chứng ngộ ―(như
   trên)― luôn cả phẩm vị A-la-hán nữa; bạch ngài, bà Mahāpajāpatī Gotamī
   có nhiều công đức đối với đức Thế Tôn, là dì ruột, là người chăm sóc,
   là người nuôi dưỡng, là người cho sữa, bà đã cho đức Thế Tôn bú sữa
@@ -22625,7 +22542,7 @@ các tỳ khưu đến các tỳ khưu ni không bị ngăn cấm. Đây cũng l
 Này bà Gotamī, nếu bà có thể thọ nhận tám Trọng Pháp này thì chính điều
 ấy sẽ là sự tu lên bậc trên đối với bà.”
 
-- “Thưa đại đức Ānanda, cũng giống như người nữ hoặc người nam còn trẻ,
+-- “Thưa đại đức Ānanda, cũng giống như người nữ hoặc người nam còn trẻ,
   ở tuổi thanh niên, ưa thích trang điểm, vừa mới gội đầu, sau khi nhận
   được tràng hoa sen, hoặc tràng hoa nhài, hoặc tràng hoa đủ loại nên
   thọ lãnh bằng hai tay rồi đặt lên ở đỉnh đầu; thưa đại đức Ānanda,
@@ -22671,7 +22588,7 @@ bhikkhunīnaṃ aṭṭha garudhammā paññattā yāvajīvaṃ anatikkamanīyā
 
 Bhikkhunīnaṃ aṭṭha garudhammā.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 5)
@@ -22694,7 +22611,7 @@ mañjiṭṭhikā - Ma. 4 pāḷiṃ - Syā; āliṃ - PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
 
-- “Này Ānanda, nếu người nữ không đạt được sự xuất gia rời nhà sống
+-- “Này Ānanda, nếu người nữ không đạt được sự xuất gia rời nhà sống
   không nhà trong Pháp và Luật đã được đức Như Lai công bố, này Ānanda,
   Phạm hạnh có thể sẽ được tồn tại lâu dài, Thánh Pháp có thể tồn tại
   một ngàn năm. Này Ānanda, bởi vì người nữ đã xuất gia rời nhà sống
@@ -22726,7 +22643,7 @@ các tỳ khưu ni cho đến trọn đời không được vi phạm.”
 
 Tám Trọng Pháp của các tỳ khưu ni.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 5)
@@ -22822,7 +22739,7 @@ tỳ khưu.'”
   Các tỳ khưu ni nên được cho tu lên bậc trên bởi các tỳ khưu.'”
 ]
 
-- “Này Ānanda, kể từ lúc bà Mahāpajāpatī Gotamī thọ nhận tám Trọng Pháp,
+-- “Này Ānanda, kể từ lúc bà Mahāpajāpatī Gotamī thọ nhận tám Trọng Pháp,
   chính vào lúc ấy bà đã được tu lên bậc trên.”
 
 #block[
@@ -22887,7 +22804,7 @@ yamahaṃ bhagavato dhammaṃ - Ma, Syā, PTS, Sīmu.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
 
-- “Này Ānanda, việc đức Như Lai có thể cho phép sự đảnh lễ, sự đứng dậy,
+-- “Này Ānanda, việc đức Như Lai có thể cho phép sự đảnh lễ, sự đứng dậy,
   sự chắp tay, (và) hành động thích hợp đến người nữ là điều không có cơ
   sở và không hợp lý. Này Ānanda, bởi vì các ngoại đạo này có giáo lý
   được thuyết giảng tồi còn không thực hành sự đảnh lễ, sự đứng dậy, sự
@@ -22908,15 +22825,15 @@ Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
   khưu, bạch ngài, chúng con thực hành những điều học ấy như thế nào?”
 ]
 
-- “Này Gotamī, những điều học nào của các tỳ khưu ni là (được quy định)
+-- “Này Gotamī, những điều học nào của các tỳ khưu ni là (được quy định)
   chung với các tỳ khưu, các tỳ khưu học tập như thế nào các ngươi hãy
   học tập những điều học ấy như thế ấy.”
 
-- “Bạch ngài, có những điều học của các tỳ khưu ni là không (được quy
+-- “Bạch ngài, có những điều học của các tỳ khưu ni là không (được quy
   định) chung với các tỳ khưu, bạch ngài, chúng con thực hành những điều
   học ấy như thế nào?”
 
-- “Này Gotamī, những điều học nào của các tỳ khưu ni là không (được quy
+-- “Này Gotamī, những điều học nào của các tỳ khưu ni là không (được quy
   định) chung với các tỳ khưu, các ngươi hãy học tập những điều học ấy
   như đã được quy định.”
 
@@ -22979,7 +22896,7 @@ Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
 
-- “Và này Gotamī, các Pháp nào mà bà có thể biết rằng các pháp này đưa
+-- “Và này Gotamī, các Pháp nào mà bà có thể biết rằng các pháp này đưa
   đến tham ái mà không đưa đến sự xa lìa tham ái, đưa đến sự ràng buộc
   mà không đưa đến sự thoát khỏi ràng buộc, đưa đến sự tích lũy mà không
   đưa đến sự không tích lũy, đưa đến sự ham muốn nhiều mà không đưa đến
@@ -23006,13 +22923,13 @@ Pháp, điều này là Luật, điều này là lời giáo huấn của bậc 
   khưu ni. Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, ta cho phép đọc tụng giới bổn Pātimokkha cho các tỳ
+-- “Này các tỳ khưu, ta cho phép đọc tụng giới bổn Pātimokkha cho các tỳ
   khưu ni.”
 
 Khi ấy, các tỳ khưu đã khởi ý điều này: “Ai sẽ đọc giới bổn Pātimokkha
 cho các tỳ khưu ni?” Các vị đã trình sự việc ấy lên đức Thế Tôn.
 
-- “Này các tỳ khưu, ta cho phép các tỳ khưu đọc tụng giới bổn Pātimokkha
+-- “Này các tỳ khưu, ta cho phép các tỳ khưu đọc tụng giới bổn Pātimokkha
   cho các tỳ khưu ni.”
 
 Vào lúc bấy giờ, các tỳ khưu đi đến chỗ ngụ của các tỳ khưu ni và đọc
@@ -23189,7 +23106,7 @@ khưu, ta cho phép các tỳ khưu thực hiện hành sự cho các tỳ khưu
   Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, các tỳ khưu không nên thực hiện hành sự cho các tỳ
+-- “Này các tỳ khưu, các tỳ khưu không nên thực hiện hành sự cho các tỳ
   khưu ni; vị nào thực thi thì phạm tội dukkaṭa. Này các tỳ khưu, ta cho
   phép các tỳ khưu ni thực hiện hành sự cho các tỳ khưu ni.”
 
@@ -23239,13 +23156,13 @@ bhikkhunīnaṃ āpattiṃ paṭiggahetun ”ti.
 
 Paṭhama bhāṇavāraṃ.
 
--
+#divider()
 
 anubandhā - Ma, Syā. 2 anubaddhā - PTS.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
 
-- “Này các tỳ khưu, ta cho phép các tỳ khưu xác định hành sự của các tỳ
+-- “Này các tỳ khưu, ta cho phép các tỳ khưu xác định hành sự của các tỳ
   khưu ni rồi bàn giao lại cho các tỳ khưu ni, và các tỳ khưu ni được
   thực hiện hành sự cho các tỳ khưu ni; (cho phép) các tỳ khưu xác định
   tội của các tỳ khưu ni rồi bàn giao lại cho các tỳ khưu ni, và các tỳ
@@ -23269,7 +23186,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
 
 Tụng phẩm thứ nhất.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Bhikkhunīkkhandhakaṃ
 
@@ -23343,7 +23260,7 @@ hội chúng tỳ khưu ni không cần thực hiện việc đảnh lễ đối
   tâm đến chúng ta.' Các vị đã trình sự việc ấy lên đức Thế Tôn.
 ]
 
-- “Này các tỳ khưu, tỳ khưu không nên vén hở thân rồi phô bày cho các tỳ
+-- “Này các tỳ khưu, tỳ khưu không nên vén hở thân rồi phô bày cho các tỳ
   khưu ni thấy, không nên vén hở đùi rồi phô bày cho các tỳ khưu ni
   thấy, không nên vén hở chỗ kín rồi phô bày cho các tỳ khưu ni thấy,
   không nên trò chuyện với các tỳ khưu ni, không nên giao lưu với các tỳ
@@ -23677,7 +23594,7 @@ ovādaṃ gahetuṃ saṃketañca kātuṃ atra paṭiharissāmī ”ti.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
 
-- “Này các chị gái, bởi vì tôi ngu dốt, làm sao tôi nhận lãnh việc giáo
+-- “Này các chị gái, bởi vì tôi ngu dốt, làm sao tôi nhận lãnh việc giáo
   giới được?” - “Thưa ngài, xin ngài hãy nhận lãnh việc giáo giới bởi vì
   đức Thế Tôn đã quy định như vầy: ‘Các tỳ khưu nên nhận lãnh việc giáo
   giới cho các tỳ khưu ni.'” Các vị đã trình sự việc ấy lên đức Thế Tôn.
@@ -24225,7 +24142,7 @@ bandhitun ”ti. Suttakaṃ chijjati. Bhagavato etamatthaṃ ārocesuṃ.
 
 Dutiya bhāṇavāraṃ.
 
--
+#divider()
 
 bhikkhunīhi - Ma ūnaṃ. 4 makkhiyyati - Ma; makkhiyati- Syā, PTS.
 
@@ -24282,7 +24199,7 @@ phép (sử dụng) váy, băng vải buộc ở hông.”
 
 Tụng phẩm thứ nhì.
 
--
+#divider()
 
 Vinayapiṭake Cullavaggapāḷi 2 Bhikkhunīkkhandhakaṃ
 
@@ -25432,7 +25349,7 @@ Tatiya bhāṇavāraṃ.
 
 Bhikkhunīkkhandhakaṃ dasamaṃ.
 
--
+#divider()
 
 Imamhi khandhake vatthu ekasataṃ cha.4
 
@@ -25496,7 +25413,7 @@ Tụng phẩm thứ ba.
 
 Chương Tỳ Khưu Ni là thứ mười.
 
--
+#divider()
 
 Trong chương này có một trăm lẻ sáu sự việc.
 
@@ -25818,7 +25735,6 @@ Tạng Luật - Tiểu Phẩm 2 Chương Tỳ Khưu Ni
 #divider()
 
 === XI. PAÑCASATIKAKKHANDHAKAṂ SAṂGĪTI NIDĀNAṂ
-<xi.-pañcasatikakkhandhakaṃ-saṃgīti-nidānaṃ>
 + Atha kho āyasmā mahākassapo bhikkhū āmantesi: “Ekamidāhaṃ āvuso
   samayaṃ pāvāya kusināraṃ addhānamaggapaṭipanno mahatā bhikkhusaṅghena
   saddhiṃ pañcamattehi bhikkhusatehi. Athakhvāhaṃ āvuso maggā okkamma
@@ -25853,7 +25769,6 @@ chinnapātaṃ papatanti - Ma; chinnapādāva patanti - Syā. 3 paṭikacceva -
 Ma, Syā.
 
 === XI. CHƯƠNG LIÊN QUAN NĂM TRĂM VỊ: DUYÊN KHỞI CỦA VIỆC KẾT TẬP:
-<xi.-chương-liên-quan-năm-trăm-vị-duyên-khởi-của-việc-kết-tập>
 + Khi ấy, đại đức Mahākassapa đã bảo các tỳ khưu rằng: - “Này các sư đệ,
   vào lúc ấy ta đang thực hiện cuộc hành trình đường xa từ Pāvā đi
   Kusinārā cùng với đại chúng tỳ khưu có số lượng năm trăm vị tỳ khưu.
@@ -25942,7 +25857,7 @@ triển và Luật bị bỏ quên, trước khi những kẻ nói về phi Phá
 mạnh và những người nói về Pháp yếu đi, trước khi những kẻ nói về phi
 Luật trở nên mạnh và những người nói về Luật yếu đi.”
 
-- “Thưa ngài, chính vì điều ấy xin vị trưởng lão hãy tuyển chọn các tỳ
+-- “Thưa ngài, chính vì điều ấy xin vị trưởng lão hãy tuyển chọn các tỳ
   khưu.” Khi ấy, đại đức Mahākassapa đã tuyển chọn bốn trăm chín mươi
   chín vị A-la-hán. Các vị tỳ khưu đã nói với đại đức Mahākassapa điều
   này: - “Thưa ngài, vị đại đức Ānanda này tuy còn là bậc Hữu Học nhưng
@@ -26103,7 +26018,7 @@ Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Năm Trăm Vị
 
-- “Này sư đệ Upāli, điều pārājika thứ ba đã được quy định ở đâu?” -
+-- “Này sư đệ Upāli, điều pārājika thứ ba đã được quy định ở đâu?” -
   “Thưa ngài, ở Vesāli.” - “Liên quan đến ai?” - “Liên quan đến nhiều vị
   tỳ khưu.” - “Về sự việc gì?” - “Về việc tước đoạt mạng người.” Rồi đại
   đức Mahākassapa đã hỏi đại đức Upāli về câu chuyện, đã hỏi về nguyên
@@ -26111,7 +26026,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Năm Trăm Vị
   thêm, đã hỏi về sự phạm tội, và đã hỏi về sự không phạm tội của điều
   pārājika thứ ba.
 
-- “Này sư đệ Upāli, điều pārājika thứ tư đã được quy định ở đâu?” -
+-- “Này sư đệ Upāli, điều pārājika thứ tư đã được quy định ở đâu?” -
   “Thưa ngài, ở Vesāli.” - “Liên quan đến ai?” - “Liên quan đến các tỳ
   khưu ở bờ sông Vaggumudā.” - “Về sự việc gì?” - “Về pháp thượng nhân.”
   Rồi đại đức Mahākassapa đã hỏi đại đức Upāli về câu chuyện, đã hỏi về
@@ -26137,7 +26052,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Năm Trăm Vị
   nhân sự của kinh Brahmajāla.
 ]
 
-- “Này sư đệ Ānanda, kinh Sāmaññaphala (Sa-môn Quả) đã được thuyết ở
+-- “Này sư đệ Ānanda, kinh Sāmaññaphala (Sa-môn Quả) đã được thuyết ở
   đâu?” - “Thưa ngài, ở Rājagaha nơi vườn xoài của Jīvaka.” - “Với ai?”
   \- “Với Ajātasattu con trai của Videhi.” Rồi đại đức Mahākassapa đã
   hỏi đại đức Ānanda về duyên khởi, đã hỏi về nhân sự của kinh
@@ -26319,20 +26234,20 @@ việc này là như vậy.”
   trọng là các điều nào?' Ngươi hãy trình báo tội dukkaṭa ấy.”
 ]
 
-- “Thưa các ngài, vì không lưu ý nên tôi đã không hỏi đức Thế Tôn rằng:
+-- “Thưa các ngài, vì không lưu ý nên tôi đã không hỏi đức Thế Tôn rằng:
   ‘Bạch ngài, vậy các điều học nhỏ nhặt và ít quan trọng là các điều
   nào?' Tôi không nhìn thấy tội dukkaṭa ấy, nhưng vì niềm tin đối với
   các đại đức tôi xin trình báo tội dukkaṭa ấy.”
 
-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc ngươi đạp
+-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc ngươi đạp
   lên y tắm mưa của đức Thế Tôn rồi may. Ngươi hãy trình báo tội dukkaṭa
   ấy.”
 
-- “Thưa các ngài, không phải vì không kính trọng mà tôi đã đạp lên y tắm
+-- “Thưa các ngài, không phải vì không kính trọng mà tôi đã đạp lên y tắm
   mưa của đức Thế Tôn rồi may. Tôi không nhìn thấy tội dukkaṭa ấy, nhưng
   vì niềm tin đối với các đại đức tôi xin trình báo tội dukkaṭa ấy.”
 
-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc ngươi cho
+-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc ngươi cho
   phép phụ nữ đảnh lễ nhục thân của đức Thế Tôn trước tiên; trong khi họ
   khóc lóc nhục thân của đức Thế Tôn đã bị lấm lem bởi nước mắt. Ngươi
   hãy trình báo tội dukkaṭa ấy.”
@@ -26384,12 +26299,12 @@ bhikkhūhi - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Năm Trăm Vị
 
-- “Thưa các ngài, (nghĩ rằng): ‘Những người nữ này không nên ở lại vào
+-- “Thưa các ngài, (nghĩ rằng): ‘Những người nữ này không nên ở lại vào
   ban đêm,' nên tôi đã cho phép phụ nữ đảnh lễ nhục thân của đức Thế Tôn
   trước tiên. Tôi không nhìn thấy tội dukkaṭa ấy, nhưng vì niềm tin đối
   với các đại đức tôi xin trình báo tội dukkaṭa ấy.”
 
-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc trong khi
+-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc trong khi
   được ra dấu hiệu rõ ràng, trong khi được làm biểu hiện rõ rệt bởi đức
   Thế Tôn, ngươi đã không cầu khẩn đức Thế Tôn rằng: ‘Xin đức Thế Tôn
   hãy tồn tại trọn kiếp, xin đấng Thiện Thệ hãy tồn tại trọn kiếp vì sự
@@ -26397,7 +26312,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Năm Trăm Vị
   đối với thế gian, vì sự tấn hoá, vì sự lợi ích, vì sự an lạc của chư
   Thiên và nhân loại.' Ngươi hãy trình báo tội dukkaṭa ấy.”
 
-- “Thưa các ngài, vì tâm đã bị Ma Vương ám ảnh nên tôi đã không cầu khẩn
+-- “Thưa các ngài, vì tâm đã bị Ma Vương ám ảnh nên tôi đã không cầu khẩn
   đức Thế Tôn rằng: ‘Xin đức Thế Tôn hãy tồn tại trọn kiếp, xin đấng
   Thiện Thệ Tôn hãy tồn tại trọn kiếp vì sự lợi ích cho nhiều người, vì
   sự an lạc cho nhiều người, vì lòng bi mẫn đối với thế gian, vì sự tấn
@@ -26405,11 +26320,11 @@ Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Năm Trăm Vị
   không nhìn thấy tội dukkaṭa ấy, nhưng vì niềm tin đối với các đại đức
   tôi xin trình báo tội dukkaṭa ấy.”
 
-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc ngươi đã
+-- “Này sư đệ Ānanda, đây cũng là tội dukkaṭa cho ngươi về việc ngươi đã
   nỗ lực cho sự xuất gia của phụ nữ trong Pháp và Luật đã được đức Như
   Lai công bố. Ngươi hãy trình báo tội dukkaṭa ấy.”
 
-- “Thưa các ngài, (nghĩ rằng): ‘Bà Mahāpajāpatī Gotamī này là dì ruột
+-- “Thưa các ngài, (nghĩ rằng): ‘Bà Mahāpajāpatī Gotamī này là dì ruột
   của đức Thế Tôn, là người chăm sóc, là người nuôi dưỡng, là người cho
   sữa, khi người mẹ ruột qua đời bà đã cho đức Thế Tôn bú sữa' nên tôi
   đã nỗ lực cho sự xuất gia của phụ nữ trong Pháp và Luật đã được đức
@@ -26509,7 +26424,7 @@ GIẢNG VỀ HÌNH PHẠT PHẠM THIÊN:
   sư đệ hãy áp đặt hình phạt Phạm Thiên đối với tỳ khưu Channa.”
 ]
 
-- “Thưa các ngài, làm thế nào tôi áp đặt hình phạt Phạm Thiên đối với tỳ
+-- “Thưa các ngài, làm thế nào tôi áp đặt hình phạt Phạm Thiên đối với tỳ
   khưu Channa được? Vị tỳ khưu ấy dữ tợn và thô lỗ.” - “Này sư đệ
   Ānanda, chính vì điều ấy ngươi hãy đi cùng với nhiều vị tỳ khưu.” -
   “Thưa các ngài, xin vâng.” Rồi đại đức Ānanda ngheo theo các tỳ khưu
@@ -26612,25 +26527,25 @@ sẽ làm nhà buôn vải hay bày ra gian hàng tơ lụa?”
   của ngài đã đến đây.”
 ]
 
-- “Vậy chớ họ đã dâng vật gì đến ngài Ānanda?” - “Tâu đại vương, họ đã
+-- “Vậy chớ họ đã dâng vật gì đến ngài Ānanda?” - “Tâu đại vương, họ đã
   dâng đến tôi năm trăm thượng y.”
 
-- “Vậy chớ ngài Ānanda sẽ làm gì với nhiều y đến thế?” - “Tâu đại vương,
+-- “Vậy chớ ngài Ānanda sẽ làm gì với nhiều y đến thế?” - “Tâu đại vương,
   các vị tỳ khưu nào có y bị tàn tạ tôi sẽ chia sẻ với các vị ấy.”
 
-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những y cũ và tàn tạ?” -
+-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những y cũ và tàn tạ?” -
   “Tâu đại vương, chúng tôi sẽ dùng chúng làm khăn trải.”
 
-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những khăn trải bị cũ đi?”
+-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những khăn trải bị cũ đi?”
   \- “Tâu đại vương, chúng tôi sẽ dùng chúng làm vải bọc nệm.”
 
-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những vải bọc nệm bị cũ
+-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những vải bọc nệm bị cũ
   đi?” - “Tâu đại vương, chúng tôi sẽ dùng chúng làm thảm lót sàn.”
 
-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những thảm lót sàn bị cũ
+-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những thảm lót sàn bị cũ
   đi?” - “Tâu đại vương, chúng tôi sẽ dùng chúng làm giẻ chùi chân.”
 
-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những giẻ chùi chân bị cũ
+-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những giẻ chùi chân bị cũ
   đi?”
 
 Vinayapiṭake Cullavaggapāḷi 2 Pañcasatikakkhandhakaṃ
@@ -26681,12 +26596,12 @@ cīvarabhikkhā cīvaraparikkhāro - Syā. 5 bhikkhu - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Năm Trăm Vị
 
-- “Tâu đại vương, chúng tôi sẽ dùng chúng làm giẻ lau bụi.”
+-- “Tâu đại vương, chúng tôi sẽ dùng chúng làm giẻ lau bụi.”
 
-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những giẻ lau bụi bị cũ
+-- “Thưa ngài Ānanda, vậy các vị sẽ làm gì với những giẻ lau bụi bị cũ
   đi?”
 
-- “Tâu đại vương, chúng tôi sẽ nghiền nhỏ chúng ra trộn với bùn đất rồi
+-- “Tâu đại vương, chúng tôi sẽ nghiền nhỏ chúng ra trộn với bùn đất rồi
   trét làm bục nền xung quanh.”
 
 Khi ấy đức vua Udena (khởi ý rằng): ‘Chính tất cả các Sa-môn Thích tử
@@ -26705,7 +26620,7 @@ thí về y đã phát sanh đến đại đức Ānanda một ngàn y.
   Ānanda, vậy hình phạt Phạm Thiên là như thế nào?”
 ]
 
-- “Này sư đệ Channa, điều gì sư đệ muốn với các tỳ khưu thì sư đệ có thể
+-- “Này sư đệ Channa, điều gì sư đệ muốn với các tỳ khưu thì sư đệ có thể
   nói điều ấy. Còn các tỳ khưu chẳng những không được nói chuyện, còn
   không được nhắc nhở, không được giảng dạy sư đệ.” - “Thưa sư huynh
   Ānanda, như vậy không phải sư đệ đã bị giết chết hay sao, bởi vì các
@@ -26739,7 +26654,7 @@ ahesuṃ. Tasmā ayaṃ vinayasaṅgīti pañcasatikāti 2 vuccatī ”ti.
 
 Pañcasatikakkhandhakaṃ ekādasamaṃ.
 
--
+#divider()
 
 Imamhi khandhake vatthu tevīsati.
 
@@ -26791,7 +26706,7 @@ Trong cuộc kết tập về Luật này đã hiện diện năm trăm vị t�
 thiếu không dư. Do đó, cuộc kết tập về Luật này được gọi là “Liên quan
 năm trăm vị.” Chương Liên Quan Năm Trăm Vị là thứ mười một.
 
--
+#divider()
 
 Trong chương này gồm có hai mươi ba sự kiện.
 
@@ -26827,7 +26742,6 @@ TÓM LƯỢC CHƯƠNG NÀY:
 #divider()
 
 === XII. SATTASATIKAKKHANDHAKAṂ PAṬHAMA BHĀṆAVĀRAṂ
-<xii.-sattasatikakkhandhakaṃ-paṭhama-bhāṇavāraṃ>
 + Tena kho pana samayena vassasataparinibbute bhagavati vesālikā
   vajjiputtakā bhikkhū vesāliyaṃ dasavatthūni dīpenti: “Kappati
   siṅgiloṇakappo, kappati dvaṅgulakappo, kappati gāmantarakappo, kappati
@@ -26869,7 +26783,6 @@ kaṃsacāṭiṃ - Syā. 5 bhikkhuggena - Syā.
 āgate - PTS. 6 paṭivīsaṃ - Ma; paṭivisaṃ - Syā, PTS.
 
 === XII. CHƯƠNG LIÊN QUAN BẢY TRĂM VỊ: TỤNG PHẨM THỨ NHẤT:
-<xii.-chương-liên-quan-bảy-trăm-vị-tụng-phẩm-thứ-nhất>
 + Vào lúc bấy giờ, khi đức Thế Tôn Vô Dư Niết Bàn được một trăm năm, các
   tỳ khưu dòng dõi Vajji ở Vesāli truyền bá trong thành Vesāli mười sự
   việc là: “Quy định cất giữ muối trong ống sừng là được phép, quy định
@@ -27198,7 +27111,7 @@ thôn trưởng Maṇicūḷaka đã có thể thuyết phục được nhóm ng
   Giáo Pháp, không rơi vào vị thế bị chê trách?”
 ]
 
-- “Này Thôn trưởng, đúng vậy. Trong khi nói như thế, ngươi là người đã
+-- “Này Thôn trưởng, đúng vậy. Trong khi nói như thế, ngươi là người đã
   nói đúng lời của ta và ngươi không vu khống ta một cách sai trái.
   Ngươi đã nói theo lý lẽ của Giáo Pháp và người nào có lời nói hợp với
   giáo lý, đúng theo Giáo Pháp, không rơi vào vị thế đáng bị chê trách.
@@ -27364,7 +27277,7 @@ pāṭheyyakā - Syā, PTS . 7 na phāsu gamissāmi - Ma;
 
 Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Bảy Trăm Vị
 
-- “Thưa ngài, các tỳ khưu dòng dõi Vajji này ở Vesāli truyền bá trong
+-- “Thưa ngài, các tỳ khưu dòng dõi Vajji này ở Vesāli truyền bá trong
   thành Vesāli mười sự việc: ‘Quy định cất giữ muối trong ống sừng là
   được phép, quy định hai ngón tay là được phép, quy định trong làng là
   được phép, quy định về chỗ trú ngụ là được phép, quy định về sự thỏa
@@ -27493,7 +27406,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Bảy Trăm Vị
   sư đệ nên đi đến gặp đại đức Revata và hỏi về mười sự việc ấy.”
 ]
 
-- “Thưa ngài, xin vâng.” Đại đức Yasa con trai của Kākaṇḍaka đã trả lời
+-- “Thưa ngài, xin vâng.” Đại đức Yasa con trai của Kākaṇḍaka đã trả lời
   đại đức Sambhūta Sāṇavāsī. Khi ấy, đại đức Revata đã gọi vị tỳ khưu đệ
   tử chuyên đọc tụng về âm từ. Vào lúc chấm dứt phần đọc tụng về âm từ
   của vị tỳ khưu ấy, khi ấy đại đức Yasa con trai của Kākaṇḍaka đã đi
@@ -27610,7 +27523,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Bảy Trăm Vị
     bạc là được phép?” - “Này sư đệ, không được phép.”
 ]
 
-- “Thưa ngài, các tỳ khưu dòng dõi Vajji ấy ở Vesāli truyền bá trong
+-- “Thưa ngài, các tỳ khưu dòng dõi Vajji ấy ở Vesāli truyền bá trong
   thành Vesāli mười sự việc này. Thưa ngài, chúng ta hãy nắm lấy sự
   tranh tụng này trước khi điều phi Pháp phát triển và Pháp bị bỏ quên,
   trước khi điều phi Luật phát triển và Luật bị bỏ quên, trước khi những
@@ -27784,7 +27697,7 @@ bình bát, y phục, vật lót ngồi, ống đựng kim, dây thắt lưng, �
 nước, và đồ lọc nước thông thường.” - “Này các đại đức, thôi đi. Ta đã
 đầy đủ ba y.” Và đã không muốn thọ nhận.
 
-- “Này đại đức Uttara, dân chúng thường dâng vật dụng cần thiết cho Sa-
+-- “Này đại đức Uttara, dân chúng thường dâng vật dụng cần thiết cho Sa-
   môn đến đức Thế Tôn. Nếu đức Thế Tôn thọ nhận, chính vì điều ấy họ trở
   nên hoan hỷ. Nếu đức Thế tôn không thọ nhận, họ dâng đến đại đức
   Ānanda: ‘Thưa ngài, xin trưởng lão hãy nhận lấy vật dụng cần thiết cho
@@ -27853,14 +27766,14 @@ vūpasamessāma - Ma, Syā. 4 vīsavassasatiko - Ma.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Bảy Trăm Vị
 
-- “Này tỳ khưu, ngươi đã xúi giục ta trong việc phi Pháp.” Vị trưởng lão
+-- “Này tỳ khưu, ngươi đã xúi giục ta trong việc phi Pháp.” Vị trưởng lão
   đã đuổi đại đức Uttara đi. Khi ấy, các tỳ khưu dòng dõi Vajji ở Vesāli
   đã nói với đại đức Uttara điều này: - “Này đại đức Uttara, ngài trưởng
   lão đã nói gì?” - “Này các đại đức, chúng ta đã làm điều tầm bậy. Ngài
   trưởng lão đã đuổi tôi đi (nói rằng): ‘Này tỳ khưu, ngươi đã xúi giục
   ta trong việc phi Pháp.'”
 
-- “Này đại đức Uttara, không phải đại đức đã thâm niên hai mươi năm rồi
+-- “Này đại đức Uttara, không phải đại đức đã thâm niên hai mươi năm rồi
   hay sao?” - “Này các đại đức, đúng vậy. Tuy nhiên, chúng tôi còn giữ
   sự nương nhờ với vị thầy.”
 
@@ -27940,14 +27853,14 @@ thường xuyên an trú với sự an trú tâm từ.” - “Này sư đệ m�
 hiện nay ngươi thường xuyên an trú với sự an trú còn nông cạn. Này sư đệ
 mến, sự an trú còn nông cạn ấy tức là tâm từ.”
 
-- “Thưa ngài, trước đây khi tôi còn là người tại gia, tâm từ đã được
+-- “Thưa ngài, trước đây khi tôi còn là người tại gia, tâm từ đã được
   thực hành. Vì thế, hiện nay tôi thường xuyên an trú với sự an trú tâm
   từ, hơn nữa tôi đã chứng đạt phẩm vị A-la-hán lâu nay. Thưa ngài, hiện
   nay ngài trưởng lão thường xuyên an trú với sự an trú nào?” - “Này sư
   đệ mến, hiện nay ta thường xuyên an trú với sự an trú trạng thái
   không?”
 
-- “Thưa ngài, nghe nói hiện nay ngài trưởng lão thường xuyên an trú với
+-- “Thưa ngài, nghe nói hiện nay ngài trưởng lão thường xuyên an trú với
   sự an trú của bậc đại nhân. Thưa ngài, sự an trú của bậc đại nhân ấy
   tức là trạng thái không.” - “Này sư đệ mến, trước đây khi ta còn là
   người tại gia, trạng thái không đã được thực hành. Vì thế, ngay cả bây
@@ -28026,7 +27939,7 @@ pācīnakānaṃ catuṇṇaṃ - Syā.
 
 Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Bảy Trăm Vị
 
-- “Này sư đệ, ngươi cũng đã học tập được nhiều Pháp và Luật ở nguồn gốc
+-- “Này sư đệ, ngươi cũng đã học tập được nhiều Pháp và Luật ở nguồn gốc
   của thầy tế độ; này sư đệ, khi ngươi quán xét về Pháp và Luật thì khởi
   ý thế nào? Những ai là người nói đúng Pháp, là các tỳ khưu ở về hướng
   Đông hay là các tỳ khưu ở Pāvā?” - “Thưa ngài, khi tôi quán xét về
@@ -28035,7 +27948,7 @@ Tạng Luật - Tiểu Phẩm 2 Chương Liên Quan Bảy Trăm Vị
   nhiên tôi không bộc lộ quan điểm cho đến khi ấy, có lẽ (hội chúng) sẽ
   chỉ định tôi trong sự tranh tụng này.”
 
-- “Này đệ, ngay cả ta khi quán xét về Pháp và Luật cũng khởi ý như vầy:
+-- “Này đệ, ngay cả ta khi quán xét về Pháp và Luật cũng khởi ý như vầy:
   ‘Các tỳ khưu ở về hướng Đông là các vị nói phi Pháp, các tỳ khưu ở
   Pāvā là các vị nói đúng Pháp;' tuy nhiên ta không bộc lộ quan điểm cho
   đến khi ấy, có lẽ (hội chúng) sẽ chỉ định ta trong sự tranh tụng này.”
@@ -28356,7 +28269,7 @@ bhikkhūnaṃ saññattiyā ”ti.
 
 Sattasatikakkhandhakaṃ.
 
--
+#divider()
 
 Imamhi khandhake vatthu pañcavīsati.
 
@@ -28371,7 +28284,7 @@ TASSUDDĀNAṂ
 + Pattanāvāya ujjavī rahosi upanāmayaṃ, 2 garu 3 saṅgho ca vesāli4 mettā
   saṅgho ubbāhikā ”ti.
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 4)
@@ -28411,7 +28324,7 @@ quyết tốt đẹp. Này sư đệ, tuy nhiên sư đệ nên hỏi ta về m�
 
 Chương Liên Quan Bảy Trăm Vị.
 
--
+#divider()
 
 Trong chương này có hai mươi lăm sự việc.
 
@@ -28427,7 +28340,7 @@ TÓM LƯỢC CHƯƠNG NÀY:
   đến, vị thầy, và hội chúng, thành Vesāli, tâm từ, hội chúng, các đại
   biểu.”
 
--
+#divider()
 
 #block[
 #set enum(numbering: "1.", start: 4)
@@ -28448,7 +28361,7 @@ CULLAVAGGAPĀḶI - TIỂU PHẨM DUTIYO BHĀGO - TẬP HAI
 
 PHẦN PHỤ CHÚ:
 
--
+#divider()
 
 CÁC TỪ CHUYÊN MÔN:
 
@@ -28526,7 +28439,7 @@ VINAYAPIṬAKE
 
 CULLAVAGGAPĀḶI - TIỂU PHẨM DUTIYO BHĀGO - TẬP HAI
 
--
+#divider()
 
 GĀTHĀDIPĀDASŪCI - THƯ MỤC CÂU KỆ PĀḶI:
 
@@ -28572,7 +28485,7 @@ VINAYAPIṬAKE
 
 CULLAVAGGAPĀḶI - TIỂU PHẨM DUTIYO BHĀGO - TẬP HAI
 
--
+#divider()
 
 SAÑÑĀNĀMĀNUKKAMANIKĀ - THƯ MỤC DANH TỪ RIÊNG:
 
@@ -28629,8 +28542,7 @@ seṭṭhi 18, 20, Bhaddiya 248, 128, 130, 132, 158, 164, 166 250, 252, 254,
 256 Revata 576, Bhāradvāja 18, 20 578, 580, 582, Bhesakalāvana 68 584,
 586, 588, 590, 592, 598
 
-=== M V Makkhaligosāla 18 Vaggumudātīriya 550
-<m-v-makkhaligosāla-18-vaggumudātīriya-550>
+M V Makkhaligosāla 18 Vaggumudātīriya 550
 Maṇicūḷaka 570, 572 Vajjiputtaka 306, Mahākassapa 544, 566, 568, 574,
 576, 546, 548, 550, 552 580, 582, 584, 586, 588 Mahānāma 246 Vaḍḍha
 licchavi 58, Mahāpajāpatī 468, 60, 62, 64, 66 470, 472, 474, 476, 478,
@@ -28638,8 +28550,7 @@ licchavi 58, Mahāpajāpatī 468, 60, 62, 64, 66 470, 472, 474, 476, 478,
 
 Tiểu Phẩm 2 - Thư Mục Danh Từ Riêng
 
-=== V S Virūpakkha 14, 16 Sahajāti 578, 582
-<v-s-virūpakkha-14-16-sahajāti-578-582>
+V S Virūpakkha 14, 16 Sahajāti 578, 582
 Visākhā migāramātā 72, 74, 200 Sākiyā 252, 254 Vedehiputta 550 Sākiyāni
 470, 476 Vesāli 38, Sāṇavāsī 574, 40, 42, 68, 576, 578, 170, 172, 468,
 470, 586, 588, 590 490, 548, 550, 566, 568, 574, Sāmaññaphala 550 576,
@@ -28660,7 +28571,7 @@ VINAYAPIṬAKE
 
 CULLAVAGGAPĀḶI - TIỂU PHẨM DUTIYO BHĀGO - TẬP HAI
 
--
+#divider()
 
 VISESAPADĀNUKKAMAṆIKĀ - THƯ MỤC TỪ ĐẶC BIỆT:
 
@@ -28899,8 +28810,7 @@ Thālipākasatāni 258, Diṭṭhiṃ/iyā 214, 216, 324, 326, 266, 268 328, 330
 Theve 384, 392, 402, 410 Diṭṭhivipattiyā 438, 440, 442, 452 Divā divassa
 276
 
-=== D Disākusalena 362 Daṇḍakaṭhinaṃ 34 Disābhāgaṃ 358, 360
-<d-disākusalena-362-daṇḍakaṭhinaṃ-34-disābhāgaṃ-358-360>
+D Disākusalena 362 Daṇḍakaṭhinaṃ 34 Disābhāgaṃ 358, 360
 Daṇḍaparissāvanaṃ 42 Dīghadasāni 504 Daṇḍasatthakaṃ 30 Dīghāsanaṃ/e 200
 Daṇḍasammatiṃ/iyā 78, 80 Dukkhī 468, 470 Daṇḍasikkaṃ 78 Duṭṭhullaṃ 320,
 322, 328, 332 Daṇḍasikkāsammatiṃ/iyā 82 Dubbuddhino 276, 292, 302
@@ -28915,8 +28825,7 @@ Deḍḍuhakaṃ 92 54, 106, 146, 150, 154 Deva 164, 278, 558, 560 Dārupattaṃ
 
 Tiểu Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== D DH Dosāgatiṃ 190, Dhuvalohitā 512, 514
-<d-dh-dosāgatiṃ-190-dhuvalohitā-512-514>
+D DH Dosāgatiṃ 190, Dhuvalohitā 512, 514
 222, 224, 226, 236 Dhūmakālikaṃ 208, Dvaṅgulakappo 566, 210, 252, 554
 576, 580, 588, 592 Dhūmanettaṃ 46 Dvāraṃ 160, Dhūmarajo 568 354, 368,
 370 Dhotapādakaṃ/ā 72, 220 Dvāraṭṭhapanamattena 208, 210 Dvāravātapānaṃ
@@ -29062,8 +28971,7 @@ Mandāravapupphaṃ 544 Makasavījanī 74 Marumbaṃ 48, 110, 152, 156 Makkaṭo
 
 Tiểu Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== M M Masāragallaṃ 430, 432 Mūladāyakā 586
-<m-m-masāragallaṃ-430-432-mūladāyakā-586>
+M M Masāragallaṃ 430, 432 Mūladāyakā 586
 Massuṃ 86 Mūlāya paṭikassanāraho 178, Mahatthiko 168 384, 392, 402, 408
 Mahantataro 176, 178 Mūsikā 16 Mahāpurisavihāro 588 Mūḷhassa 164, 282
 Mahāmatte/ehi 168, 278 Mettāvihārena 588 Mahāyañño 158 Methunadhammā/e
@@ -29099,8 +29007,7 @@ Vaccakuṭi/iṃ/iyo/iyā 108, Rukkhamūlikā 298, 300 110, 168, 340, Rudamānā
 468, 470 366, 372, 382, 400, 534 Ruhiraṃ 286 Vaccakūpo/aṃ/assa/amhi 106,
 Romanthako 82 108, 372, 374 Vaccapādukaṃ/āya 108, 374
 
-=== L Vaccamagge 370 Lañchenti 10, 502 Vaccito 348
-<l-vaccamagge-370-lañchenti-10-502-vaccito-348>
+L Vaccamagge 370 Lañchenti 10, 502 Vaccito 348
 Latātūlaṃ 140 Vaṭaṃsakaṃ 112 Lasunaṃ 104 Vaṭṭaṃ 92 Lahuṭṭhānaṃ 68
 Vaḍḍhiṃ 502 Lābhasakkārasiloko/aṃ/ena 258, Vaṇapaṭikammaṃ 534 260, 268
 Vaṇṭikamālaṃ 112 Lūkhappasannā 298 Vaṇṇo/ena/āya 24, Lesakappena 188
@@ -29110,8 +29017,7 @@ Vatthaṃ 162, 282 Lomaṃ 30, Vadhakacitto/ena 280, 286 64, 66, 86, Vadho
 
 Tiểu Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== V V Vallikaṃ 08 Vinayapurekkhāratā 462
-<v-v-vallikaṃ-08-vinayapurekkhāratā-462>
+V V Vallikaṃ 08 Vinayapurekkhāratā 462
 Vallī 204, 208 Vinayavatthusmiṃ 594 Vassāvāsaṃ 166 Vinayasaṃgīti 564,
 598 Vassikamālaṃ 474 Vinayātisāre 594 Vassikasāṭikaṃ 554 Viniveṭhiyati
 38, 118 Vākabhisiṃ 140 Vinīvaraṇacittaṃ 162, 282 Vātapānakavāṭakaṃ 134
@@ -29135,8 +29041,7 @@ Vesiṃ 502 Vinandhanasuttakaṃ 34 Vessā 432 Vinayadharo 174, Veḷagge 18
 
 Tiểu Phẩm 2 - Thư Mục Từ Đặc Biệt
 
-=== V S Veḷuriyo 430, 432 Saṅgharantena 378,
-<v-s-veḷuriyo-430-432-saṅgharantena-378>
+V S Veḷuriyo 430, 432 Saṅgharantena 378,
 Veḷuvaṭaṃ 154 388, 396, 406 Vehāsaṃ 18, 574 Saṅgharāji 318, 320, 456
 Vodakaṃ 24, 378, 380, 388, Saṅgharitvā 362 396, 398, 406, 408
 Saṅghavavatthānaṃ 456 Vohārike 168 Saṅghāṭi/iṃ/iyo/iyā 90, 94,

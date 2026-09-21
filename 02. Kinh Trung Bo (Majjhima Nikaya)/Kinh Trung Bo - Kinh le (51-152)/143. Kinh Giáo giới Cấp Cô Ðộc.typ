@@ -1,5 +1,4 @@
 = 143. Kinh Giáo giới Cấp Cô Ðộc
-<kinh-giáo-giới-cấp-cô-ðộc>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Anàthapindikovàda
 sutta)]
 

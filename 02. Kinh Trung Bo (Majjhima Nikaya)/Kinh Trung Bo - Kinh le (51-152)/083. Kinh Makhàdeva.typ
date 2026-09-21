@@ -1,5 +1,4 @@
 = 83. Kinh Makhàdeva
-<kinh-makhàdeva>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Makhàdeva sutta)]
 
 #divider()

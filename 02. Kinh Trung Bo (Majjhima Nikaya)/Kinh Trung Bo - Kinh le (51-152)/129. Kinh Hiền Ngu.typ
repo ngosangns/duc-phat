@@ -1,5 +1,4 @@
 = 129. Kinh Hiền Ngu
-<kinh-hiền-ngu>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Bàlapandita sutta)]
 
 #divider()

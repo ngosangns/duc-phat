@@ -1,5 +1,4 @@
 = 91. Kinh Brahmàyu
-<kinh-brahmàyu>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Brahmàyu sutta)]
 
 #divider()

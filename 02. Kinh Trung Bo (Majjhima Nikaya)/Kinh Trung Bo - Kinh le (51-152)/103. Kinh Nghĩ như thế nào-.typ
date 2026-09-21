@@ -1,5 +1,4 @@
 = 103. Kinh Nghĩ như thế nào?
-<kinh-nghĩ-như-thế-nào>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Kinti sutta)]
 
 #divider()

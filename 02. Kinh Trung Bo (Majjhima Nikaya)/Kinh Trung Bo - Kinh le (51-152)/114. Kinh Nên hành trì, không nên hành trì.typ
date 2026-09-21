@@ -1,5 +1,4 @@
 = 114. Kinh Nên hành trì, không nên hành trì
-<kinh-nên-hành-trì-không-nên-hành-trì>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sevitabba-asevitabba
 sutta)]
 

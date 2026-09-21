@@ -1,113 +1,12 @@
 = Kinh Trung Bộ (Majjhima Nikāya) --- Tập I (Kinh 1--50)
-<kinh-trung-bộ-majjhima-nikāya-tập-i-kinh-150>
 KINH TRUNG BỘ Ðại Tạng Kinh Việt Nam Dìgha Nikàya
 
 Việt Dịch HT.Minh Châu - Phật Lịch 2536 - 1992
-http:/\/www.thuvienhoasen.org
+http://www.thuvienhoasen.org
 
-Mục Lục
+#outline(title: [Mục lục])
 
-+ Lời Nói Ðầu (trong bản in lần thứ nhất năm 1973)
-
-=== 1. Kinh Pháp Môn Căn Bản (Mùlapariyàya sutta)
-<kinh-pháp-môn-căn-bản-mùlapariyàya-sutta>
-=== 2. Kinh Tất cả các lậu hoặc (Sabbàsava sutta)
-<kinh-tất-cả-các-lậu-hoặc-sabbàsava-sutta>
-=== 3. Kinh thừa tự Pháp
-<kinh-thừa-tự-pháp>
-=== 4. Kinh Sợ hãi khiếp đảm (Bhayabherava sutta)
-<kinh-sợ-hãi-khiếp-đảm-bhayabherava-sutta>
-=== 5. Kinh Không uế nhiễm (Anangana sutta)
-<kinh-không-uế-nhiễm-anangana-sutta>
-=== 6. Kinh Ước Nguyện (Akankheyya sutta)
-<kinh-ước-nguyện-akankheyya-sutta>
-=== 7. Kinh Ví dụ tấm vải (Vatthùpama sutta)
-<kinh-ví-dụ-tấm-vải-vatthùpama-sutta>
-=== 8. Kinh Ðoạn giảm (Sallekha sutta)
-<kinh-ðoạn-giảm-sallekha-sutta>
-=== 9. Kinh Chánh tri kiến (Sammàditthi sutta)
-<kinh-chánh-tri-kiến-sammàditthi-sutta>
-=== 10. Kinh Niệm xứ (Satipatthàna sutta)
-<kinh-niệm-xứ-satipatthàna-sutta>
-=== 11. Tiểu kinh Sư tử hống (Cùlasìhanàda sutta)
-<tiểu-kinh-sư-tử-hống-cùlasìhanàda-sutta>
-=== 12. Ðại kinh Sư tử hống (Mahàsìhanàda sutta)
-<ðại-kinh-sư-tử-hống-mahàsìhanàda-sutta>
-=== 13. Ðại kinh Khổ uẩn (Mahàdukkhakkhanda sutta)
-<ðại-kinh-khổ-uẩn-mahàdukkhakkhanda-sutta>
-=== 14. Tiểu kinh Khổ uẩn (Cùladukkhakkhanda sutta)
-<tiểu-kinh-khổ-uẩn-cùladukkhakkhanda-sutta>
-=== 15. Kinh Tư lượng (Anumàna sutta)
-<kinh-tư-lượng-anumàna-sutta>
-=== 16. Kinh Tâm hoang vu (Cetokhila sutta)
-<kinh-tâm-hoang-vu-cetokhila-sutta>
-=== 17. Kinh Khu rừng (Vanapattha sutta)
-<kinh-khu-rừng-vanapattha-sutta>
-=== 18. Kinh Mật hoàn (Madhupindika sutta)
-<kinh-mật-hoàn-madhupindika-sutta>
-=== 19. Kinh Song tầm (Dvedhàvitakka sutta)
-<kinh-song-tầm-dvedhàvitakka-sutta>
-=== 20. Kinh An trú tầm (Vtakkasanthàna sutta)
-<kinh-an-trú-tầm-vtakkasanthàna-sutta>
-=== 21. Kinh Ví dụ cái cưa (Kakacùpama sutta)
-<kinh-ví-dụ-cái-cưa-kakacùpama-sutta>
-=== 22. Kinh Ví dụ con rắn (Alagaddùpama sutta)
-<kinh-ví-dụ-con-rắn-alagaddùpama-sutta>
-=== 23. Kinh Gò mối (Vammika sutta)
-<kinh-gò-mối-vammika-sutta>
-=== 24. Kinh Trạm xe (Rathavinìta sutta)
-<kinh-trạm-xe-rathavinìta-sutta>
-=== 25. Kinh Bẫy mồi (Nivàpa sutta)
-<kinh-bẫy-mồi-nivàpa-sutta>
-=== 26. Kinh Thánh cầu (Ariyapariyesanà sutta)
-<kinh-thánh-cầu-ariyapariyesanà-sutta>
-=== 27. Tiểu kinh Dụ dấu chân voi (Cùlahatthipadopama sutta)
-<tiểu-kinh-dụ-dấu-chân-voi-cùlahatthipadopama-sutta>
-=== 28. Ðại kinh Dụ dấu chân voi (Mahàhatthipadopama sutta)
-<ðại-kinh-dụ-dấu-chân-voi-mahàhatthipadopama-sutta>
-=== 29. Ðại kinh Thí dụ Lõi cây Mahasaropama-sutta
-<ðại-kinh-thí-dụ-lõi-cây-mahasaropama-sutta>
-=== 30. Tiểu kinh Dụ lõi cây (Cùlasàropama sutta)
-<tiểu-kinh-dụ-lõi-cây-cùlasàropama-sutta>
-=== 31. Tiểu kinh Rừng sừng bò (Cùlagosinga sutta)
-<tiểu-kinh-rừng-sừng-bò-cùlagosinga-sutta>
-=== 32. Ðại kinh Rừng sừng bò (Mahàgosinga sutta)
-<ðại-kinh-rừng-sừng-bò-mahàgosinga-sutta>
-=== 33. Ðại kinh Người chăn bò (Mahàgopàlaka sutta)
-<ðại-kinh-người-chăn-bò-mahàgopàlaka-sutta>
-=== 34. Tiểu kinh Người chăn bò (Cùlagopàlaka sutta)
-<tiểu-kinh-người-chăn-bò-cùlagopàlaka-sutta>
-=== 35. Tiểu kinh Saccaka (Cùlasaccaka sutta)
-<tiểu-kinh-saccaka-cùlasaccaka-sutta>
-=== 36. Ðại kinh Saccaka (Mahàsaccaka sutta)
-<ðại-kinh-saccaka-mahàsaccaka-sutta>
-=== 38. Ðại kinh Ðoạn tận ái (Mahàtanhàsankhaya sutta)
-<ðại-kinh-ðoạn-tận-ái-mahàtanhàsankhaya-sutta>
-=== 39. Ðại kinh Xóm ngựa (Mahà- Assapura sutta)
-<ðại-kinh-xóm-ngựa-mahà--assapura-sutta>
-=== 40. Tiểu kinh Xóm ngựa (Cùla- Assapura sutta)
-<tiểu-kinh-xóm-ngựa-cùla--assapura-sutta>
-=== 41. Kinh Sàleyyaka (Sàleyyaka sutta)
-<kinh-sàleyyaka-sàleyyaka-sutta>
-=== 42. Kinh Veranjaka (Veranjaka sutta)
-<kinh-veranjaka-veranjaka-sutta>
-=== 43. Ðại kinh Phương quảng (Mahàvedalla sutta)
-<ðại-kinh-phương-quảng-mahàvedalla-sutta>
-=== 44. Tiểu kinh Phương quảng (Cùlavedalla sutta)
-<tiểu-kinh-phương-quảng-cùlavedalla-sutta>
-=== 45. Tiểu kinh Pháp hành (Cùladhammasamàdàna sutta)
-<tiểu-kinh-pháp-hành-cùladhammasamàdàna-sutta>
-=== 46. Ðại kinh Pháp hành (Mahàdhammasamàdàna sutta)
-<ðại-kinh-pháp-hành-mahàdhammasamàdàna-sutta>
-=== 47. Kinh Tư sát (Vìmamsaka sutta)
-<kinh-tư-sát-vìmamsaka-sutta>
-=== 48. Kinh Kosambiya (Kosambiya sutta)
-<kinh-kosambiya-kosambiya-sutta>
-=== 49. Kinh Phạm Thiên cầu thỉnh (Brahmanimantanika sutta)
-<kinh-phạm-thiên-cầu-thỉnh-brahmanimantanika-sutta>
-=== 50. Kinh Hàng ma (Màratajjanìya sutta) HẾT
-<kinh-hàng-ma-màratajjanìya-sutta-hết>
-Giới thiệu Trung Bộ Kinh Hòa thượng Thích Minh Châu
+== Giới thiệu
 
 + Lời Nói Ðầu (trong bản in lần thứ nhất năm 1973) Tập Kinh Trung Bộ
   (Majjhima Nikàya) gồm 152 kinh tất cả, chia thành 3 tập : tập I, gồm
@@ -286,7 +185,6 @@ Sài Gòn, ngày 8 tháng 11 năm 1986 Tỷ kheo Thích Minh Châu Thiền việ
 Hạnh (Bình Anson tổng hợp, 11/99)
 
 === 1. Kinh Pháp Môn Căn Bản (Mùlapariyàya sutta)
-<kinh-pháp-môn-căn-bản-mùlapariyàya-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn trú tại (tụ lạc) Ukkattha, trong rừng
 Subhaga (rừng Hạnh phúc), dưới gốc cây Sa-la vương. Tại chỗ ấy, Thế Tôn
 gọi các Tỷ-kheo: "Này các Tỷ-kheo!". - "Bạch Thế Tôn", những Tỷ-kheo ấy
@@ -424,7 +322,7 @@ thắng tri địa đại là địa đại. Vì thắng tri địa đại là �
 không nghĩ đến địa đại, không nghĩ đến (tự ngã) đối chiếu với địa đại,
 không nghĩ đến (tự ngã) như là địa đại, không nghĩ: "Ðịa đại là của ta"
 
-- không dục hỷ địa đại. Vì sao vậy? Ta nói vì Như Lai đã liễu tri địa
+-- không dục hỷ địa đại. Vì sao vậy? Ta nói vì Như Lai đã liễu tri địa
   đại. Như Lai thắng tri thủy đại… hỏa đại… Như Lai thắng tri Niết-bàn
   là Niết-bàn. Vì thắng tri Niết-bàn là Niết-bàn, Như Lai không nghĩ đến
   Niết-bàn, không nghĩ đến (tự ngã) đối chiếu với Niết- bàn, không nghĩ
@@ -474,7 +372,6 @@ of Existence", Bhikkhu Bodhi, Buddhist Publication Society, Sri Lanka,
 1980).
 
 === 2. Kinh Tất cả các lậu hoặc (Sabbàsava sutta)
-<kinh-tất-cả-các-lậu-hoặc-sabbàsava-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Khi ở tại chỗ ấy, Thế
 Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo!" --"Bạch Thế Tôn", các Tỷ-kheo ấy
@@ -686,7 +583,6 @@ quán kiêu mạn, đã diệt tận khổ đau. Như vậy Thế Tôn thuyết 
 Tỷ-kheo ấy hoan hỷ, tín thọ lời dạy của Thế Tôn.
 
 === 3. Kinh thừa tự Pháp (Dhammadàyàda sutta)
-<kinh-thừa-tự-pháp-dhammadàyàda-sutta>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), Jetavana (Kỳ-đà Lâm), vườn ông
@@ -871,7 +767,6 @@ Tôn giả Sariputta thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ,
 lời giảng của Tôn giả Sariputta.
 
 === 4. Kinh Sợ hãi khiếp đảm (Bhayabherava sutta)
-<kinh-sợ-hãi-khiếp-đảm-bhayabherava-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Rồi Bà- la-môn
 Janussoni đến chỗ Thế Tôn ở, khi đến xong, nói lên những lời chào đón
@@ -1198,7 +1093,6 @@ con làm đệ tử; từ này trở đi cho đến mạng chung, con trọn đ�
 ngưỡng.
 
 === 5. Kinh Không uế nhiễm (Anangana sutta)
-<kinh-không-uế-nhiễm-anangana-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Ở tại đây, Tôn giả
 Sariputta (Xá-lợi-phất) gọi các Tỷ-kheo. "Chư Hiền Tỷ-kheo".
@@ -1575,7 +1469,6 @@ an trú vào chánh thiện! Như vậy hai vị cao đức ấy cùng nhau thi�
 thuyết, cùng nhau tùy hỷ.
 
 === 6. Kinh Ước Nguyện (Akankheyya sutta)
-<kinh-ước-nguyện-akankheyya-sutta-1>
 Như vầy tôi nghe.
 
 Một thời, Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông
@@ -1714,7 +1607,6 @@ Thế Tôn thuyết giảng như vậy, các Tỷ- kheo ấy hoan hỷ tín th�
 của Thế Tôn.
 
 === 7. Kinh Ví dụ tấm vải (Vatthùpama sutta)
-<kinh-ví-dụ-tấm-vải-vatthùpama-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ Thế Tôn
 gọi các Tỷ-kheo: "Này các Tỷ-kheo". --"Bạch Thế Tôn", các vị Tỷ-kheo ấy
@@ -1858,7 +1750,6 @@ việc nên làm đã làm, không còn trở lui trạng thái này nữa". Nh�
 giả Bharadvaja trở thành một vị A-la-hán nữa.
 
 === 8. Kinh Ðoạn giảm (Sallekha sutta)
-<kinh-ðoạn-giảm-sallekha-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ, Tôn giả
 Maha Cunda, vào buổi chiều từ chỗ độc cư Thiền tịnh đứng dậy, đến tại
@@ -2105,7 +1996,6 @@ Tôn thuyết giảng như vậy. Tôn giả Maha Cunda hoan hỷ, tín thọ l�
 của Thế Tôn.
 
 === 9. Kinh Chánh tri kiến (Sammàditthi sutta)
-<kinh-chánh-tri-kiến-sammàditthi-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ, Tôn giả
 Sariputta (Xá-lợi-phất) gọi các Tỷ-kheo: "Này các Tỷ-kheo"\.-- "Hiền
@@ -2506,7 +2396,6 @@ giả Sariputta thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ, tín
 giảng của Tôn giả Sariputta.
 
 === 10. Kinh Niệm xứ (Satipatthàna sutta)
-<kinh-niệm-xứ-satipatthàna-sutta-1>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn ở xứ Kuru (Câu-lâu), Kammassadhamma (kiềm-ma sắt đàm)
@@ -2878,7 +2767,6 @@ Thế Tôn thuyết giảng như vậy. Các Tỷ- kheo ấy hoan hỷ, tín th�
 của Thế Tôn.
 
 === 11. Tiểu kinh Sư tử hống (Cùlasìhanàda sutta)
-<tiểu-kinh-sư-tử-hống-cùlasìhanàda-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), trong vườn ông Anathapindika (Cấp Cô Ðộc). Ở đây, Thế Tôn
 gọi các Tỷ-kheo: "Này các Tỷ-kheo." --"Bạch Thế Tôn," những Tỷ-kheo ấy
@@ -3052,7 +2940,6 @@ này nữa". Thế Tôn thuyết giảng như vậy. Các Tỷ- kheo ấy hoan h
 lời dạy của Thế Tôn.
 
 === 12. Ðại kinh Sư tử hống (Mahàsìhanàda sutta)
-<ðại-kinh-sư-tử-hống-mahàsìhanàda-sutta-1>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn trú tại Vesali (Tỳ-xá- ly), ở phía ngoài thành, trong
@@ -3669,7 +3556,6 @@ ngược". Ông hãy như vậy thọ trì. Thế Tôn thuyết giảng như v�
 Nagasamala hoan hỷ, tín thọ lời dạy Thế Tôn.
 
 === 13. Ðại kinh Khổ uẩn (Mahàdukkhakkhanda sutta)
-<ðại-kinh-khổ-uẩn-mahàdukkhakkhanda-sutta-1>
 Tôi nghe như vầy: Một thời, Thế Tôn ở Savatthi, tại Jetavana (Kỳ-đà
 Lâm), trong vườn ông Anathapindika (Cấp Cô Ðộc). Lúc ấy nhiều Tỷ-kheo
 buổi sáng đắp y, cầm y bát, vào thành Savatthi khất thực. Rồi các
@@ -3968,7 +3854,6 @@ tuệ tri các cảm thọ, sự kiện như vậy có xảy ra. Thế Tôn thuy
 vậy. Các Tỷ- kheo ấy hoan hỷ, tín thọ lời dạy Thế Tôn.
 
 === 14. Tiểu kinh Khổ uẩn (Cùladukkhakkhanda sutta)
-<tiểu-kinh-khổ-uẩn-cùladukkhakkhanda-sutta-1>
 Như vầy tôi nghe: Một thời, Thế Tôn sống giữa giòng họ Sakka (Thích-ca),
 trong thành Kapilavatthu (Ca-tỳ-la-vệ) tại vườn Nigrodha (Ni-câu-luật
 Viên). Lúc ấy, có người Sakka tên Mahànàma đến chỗ Thế Tôn ở, sau khi
@@ -4221,7 +4106,6 @@ Seniya Bimbisara." Thế Tôn thuyết giảng như vậy. Mahànàma thuộc gi
 Sakka hoan hỷ, tín thọ lời dạy của Thế Tôn.
 
 === 15. Kinh Tư lượng (Anumàna sutta)
-<kinh-tư-lượng-anumàna-sutta-1>
 Như vầy tôi nghe: Một thời, Tôn giả Mahamoggallana sống giữa những người
 thuộc dòng họ Bhagga, tại núi Sumsumaragira, rừng Bhesakala, vườn Lộc
 Uyển. Ở đây, Tôn giả Mahamoggallana (Ðại Mục- kiền-liên) gọi các
@@ -4470,7 +4354,6 @@ thiện pháp ấy. Chư Hiền, nếu Tỷ-kheo trong khi quán sát thấy rõ
 Tỷ-kheo ấy hoan hỷ, tín thọ lời dạy của Tôn giả Mahamoggallana.
 
 === 16. Kinh Tâm hoang vu (Cetokhila sutta)
-<kinh-tâm-hoang-vu-cetokhila-sutta-1>
 Như vầy tôi nghe. Một thời, Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Ở đây, Thế Tôn gọi các
 Tỷ-kheo: "Này chư Tỷ-kheo". --“Thưa vâng, bạch Thế
@@ -4616,7 +4499,6 @@ có đủ khả năng để phá vỡ, có đủ khả năng để chánh giác,
 như vậy. Các Tỷ- kheo ấy hoan hỷ, tín thọ lời dạy Thế Tôn.
 
 === 17. Kinh Khu rừng (Vanapattha sutta)
-<kinh-khu-rừng-vanapattha-sutta-1>
 Tôi nghe như vầy: Một thời, Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Ở đây,
 
@@ -4758,7 +4640,6 @@ Thế Tôn thuyết giảng như vậy. Những Tỷ-kheo ấy hoan hỷ, tín t
 Thế Tôn.
 
 === 18. Kinh Mật hoàn (Madhupindika sutta)
-<kinh-mật-hoàn-madhupindika-sutta-1>
 Tôi nghe như vầy: Một thời, Thế Tôn sống giữa các vị dòng họ Sakka
 (Thích-ca), tại Kapilavatthu (Ca-tỳ-la-vệ), ở vườn Nigrodharama. Rồi Thế
 Tôn vào buổi sáng, đắp y, cầm y bát vào thành Kapilavatthu để khất thực.
@@ -5004,7 +4885,6 @@ hoàn). Hãy như vậy thọ trì! Thế Tôn thuyết giảng như vậy. Tôn
 hoan hỷ, tín thọ lời dạy Thế Tôn
 
 === 19. Kinh Song tầm (Dvedhàvitakka sutta)
-<kinh-song-tầm-dvedhàvitakka-sutta-1>
 Tôi nghe như vầy:
 
 Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông
@@ -5203,7 +5083,6 @@ về sau. Ðó là lời giáo huấn của Ta. Thế Tôn thuyết giảng như
 Tỷ- kheo ấy hoan hỷ, tín thọ lời dạy Thế Tôn.
 
 === 20. Kinh An trú tầm (Vtakkasanthàna sutta)
-<kinh-an-trú-tầm-vtakkasanthàna-sutta-1>
 Như vầy tôi nghe. Một thời, Thế Tôn trú ở Savatthi (Xá- vệ), tại
 Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Tại đây, Thế
 Tôn gọi các Tỷ-kheo: “Chư
@@ -5321,7 +5200,6 @@ khéo chinh phục kiêu mạn, đã chấm dứt khổ đau. Thế Tôn thuyế
 vậy. Các Tỷ- kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 21. Kinh Ví dụ cái cưa (Kakacùpama sutta)
-<kinh-ví-dụ-cái-cưa-kakacùpama-sutta-1>
 Như vầy tôi nghe.
 
 Một thời, Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana (Kỳ-đà Lâm), vườn ông
@@ -5665,7 +5543,6 @@ và các Ông sẽ được hạnh phúc an lạc lâu ngày. Thế Tôn thuyế
 vậy. Các Tỷ- kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 22. Kinh Ví dụ con rắn (Alagaddùpama sutta)
-<kinh-ví-dụ-con-rắn-alagaddùpama-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ, Tỷ-kheo
 tên là Arittha, xưa làm nghề huấn luyện chim ưng, khởi lên ác tà kiến
@@ -6250,7 +6127,6 @@ Thế Tôn thuyết giảng như vậy. Những Tỷ-kheo ấy hoan hỷ, tín t
 Tôn dạy.
 
 === 23. Kinh Gò mối (Vammika sutta)
-<kinh-gò-mối-vammika-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn ông
 Anathapindika. Lúc bấy giờ, Tôn giả Kumara Kassapa trú tại Andhavana.
 Rồi một vị Thiên, đêm đã gần tàn, với hào quang rực rỡ chiếu sáng toàn
@@ -6349,7 +6225,6 @@ nghĩa này. Thế Tôn thuyết giảng như vậy. Tỷ- kheo ấy hoan hỷ, 
 lời Thế Tôn dạy.
 
 === 24. Kinh Trạm xe (Rathavinìta sutta)
-<kinh-trạm-xe-rathavinìta-sutta-1>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Rajagaha (Vương Xá) tại Veluvana (Trúc Lâm),
@@ -6623,7 +6498,6 @@ vị ấy! Thật hạnh phúc cho chúng tôi, thật chơn hạnh phúc cho ch
 đức ấy cùng nhau thiện thuyết, cùng nhau tùy hỷ.
 
 === 25. Kinh Bẫy mồi (Nivàpa sutta)
-<kinh-bẫy-mồi-nivàpa-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn ông
 Anathapindika (Cấp Cô Ðộc). Ở đây, Thế Tôn gọi các Tỷ-kheo: "Này các
 Tỷ-kheo". --"Bạch Thế Tôn", các Tỷ-kheo ấy vâng đáp
@@ -6961,7 +6835,6 @@ vượt khỏi tham trước ở đời. Thế Tôn thuyết giảng như vậy.
 ấy hoan hỷ tín thọ lời Thế Tôn dạy.
 
 === 26. Kinh Thánh cầu (Ariyapariyesanà sutta)
-<kinh-thánh-cầu-ariyapariyesanà-sutta-1>
 Tôi nghe như vầy: Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn ông
 Anathapindika (Cấp Cô Ðộc).
 
@@ -7504,7 +7377,6 @@ Tỷ-kheo, vì vị ấy vượt khỏi tầm tay của Ác ma. Thế Tôn thuy�
 vậy. Các Tỷ- kheo hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 27. Tiểu kinh Dụ dấu chân voi (Cùlahatthipadopama sutta)
-<tiểu-kinh-dụ-dấu-chân-voi-cùlahatthipadopama-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ) tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ Bà-la-môn
 Janussoni, với một cỗ xe toàn trắng do ngựa cái kéo, vào buổi sáng sớm,
@@ -7847,7 +7719,6 @@ Tôn giả Gotama nhận con làm đệ tử, từ nay trở đi cho đến mệ
 trọn đời quy ngưỡng!
 
 === 28. Ðại kinh Dụ dấu chân voi (Mahàhatthipadopama sutta)
-<ðại-kinh-dụ-dấu-chân-voi-mahàhatthipadopama-sutta-1>
 Như vầy tôi nghe. Một thời, Thế Tôn trú ở Savatthi (Xá- vệ), tại
 Jetavana (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Ở đây, Tôn
 giả Sariputta (Xá-lợi-phất) gọi các Tỷ-kheo:
@@ -8124,7 +7995,6 @@ này, chư Hiền, Tỷ-kheo đã làm rất nhiều. Tôn giả Sariputta thuy�
 như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Tôn giả Sariputta dạy.
 
 === 29. Ðại kinh Thí dụ Lõi cây Mahasaropama-sutta
-<ðại-kinh-thí-dụ-lõi-cây-mahasaropama-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở tại Rajagaha (Vương Xá), núi
 Gijjhakuta (Linh Thứu), khi Devadatta (Ðề-bà-đạt-đa) từ bỏ (Chúng Tăng)
 ra đi không bao lâu. Ÿ đây, nhân việc Devadatta, Thế Tôn cho gọi các
@@ -8336,7 +8206,6 @@ Thế Tôn thuyết giảng như vậy. Các Tỷ- kheo ấy hoan hỷ, tín th�
 Tôn dạy.
 
 === 30. Tiểu kinh Dụ lõi cây (Cùlasàropama sutta)
-<tiểu-kinh-dụ-lõi-cây-cùlasàropama-sutta-1>
 Như vầy tôi nghe: Một thời Thế Tôn trú tại Savatthi (Xá- vệ), Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Rồi Bà-la-môn
 Pingalakoccha đi đến chỗ Thế Tôn ở, sau khi đến nói lên với Thế Tôn
@@ -8601,7 +8470,6 @@ Tỷ- kheo Tăng. Mong Tôn giả Gotama nhận con làm đệ tử, từ nay tr
 đến mạng chung, con trọn đời quy ngưỡng!
 
 === 31. Tiểu kinh Rừng sừng bò (Cùlagosinga sutta)
-<tiểu-kinh-rừng-sừng-bò-cùlagosinga-sutta-1>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Nadika, tại Ginjakavasatha. Lúc bấy giờ Tôn giả
@@ -8855,7 +8723,6 @@ Thế Tôn thuyết giảng như vậy. Dạ xoa Digha Parajana hoan hỷ, tín 
 Thế Tôn dạy.
 
 === 32. Ðại kinh Rừng sừng bò (Mahàgosinga sutta)
-<ðại-kinh-rừng-sừng-bò-mahàgosinga-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở tại khu vườn trong rừng Gosinga có
 nhiều cây ta-la cùng với một số đông Thượng Tọa đệ tử nổi tiếng như Tôn
 giả Sariputta (Xá-lợi- phất) Tôn giả Maha Moggallana (Ðại
@@ -9174,7 +9041,6 @@ Thế Tôn thuyết giảng như vậy. Các Tôn giả ấy hoan hỷ, tín th�
 Tôn dạy.
 
 === 33. Ðại kinh Người chăn bò (Mahàgopàlaka sutta)
-<ðại-kinh-người-chăn-bò-mahàgopàlaka-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở tại Savatthi (Xá- vệ), Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Ở tại đây, Thế Tôn gọi
 các Tỷ-kheo:
@@ -9375,7 +9241,6 @@ trong Pháp, Luật này. Thế Tôn thuyết giảng như vậy, các Tỷ- khe
 hỷ, tín thọ lời Thế Tôn dạy.
 
 === 34. Tiểu kinh Người chăn bò (Cùlagopàlaka sutta)
-<tiểu-kinh-người-chăn-bò-cùlagopàlaka-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở giữa các bộ lạc Vajji (Bạt-kỳ) tại
 Ukkacela, trên bờ sông Hằng. Tại đây Thế Tôn gọi các Tỷ-kheo.
 
@@ -9475,7 +9340,6 @@ chặt ngang, Nát tan và hư hoại, Hãy sống sung mãn hỷ, Ðạt an ổ
 Niết-bàn, (Này các Tỷ-kheo).
 
 === 35. Tiểu kinh Saccaka (Cùlasaccaka sutta)
-<tiểu-kinh-saccaka-cùlasaccaka-sutta-1>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn ở tại Vesali, rừng Ðại Lâm, tại giảng đường Trùng Các.
@@ -9907,7 +9771,6 @@ cho Ông, này Aggivessana, đối với người đáng được cúng dường
 Ta là người không có tham, không có sân, không có si.
 
 === 36. Ðại kinh Saccaka (Mahàsaccaka sutta)
-<ðại-kinh-saccaka-mahàsaccaka-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở tại Vesali, rừng Ðại Lâm, tại giảng
 đường Trùng Các.
 
@@ -10564,7 +10427,6 @@ Niganthaputta Saccaka hoan hỷ, tín thọ lời Thế Tôn giảng, từ chỗ
 đứng dậy và từ biệt.
 
 === 38. Ðại kinh Ðoạn tận ái (Mahàtanhàsankhaya sutta)
-<ðại-kinh-ðoạn-tận-ái-mahàtanhàsankhaya-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ) tại Jetavana
 (Kỳ-đà Lâm), vườn ông Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ, Tỷ-kheo
 tên là Sati, con của người đánh cá, khởi lên ác tà kiến như sau: "Theo
@@ -10722,7 +10584,7 @@ các Tỷ-kheo, các Ông có thấy sanh vật này không?
 
 -- Bạch Thế Tôn, có thấy.
 
-- -Này các Tỷ-kheo, các Ông có thấy sự tác thành sanh vật do món ăn ấy
+-- -Này các Tỷ-kheo, các Ông có thấy sự tác thành sanh vật do món ăn ấy
   không?
 
 -- Bạch Thế Tôn có thấy.
@@ -11264,7 +11126,6 @@ trong sự rối loạn của ái. Thế Tôn thuyết giảng như vậy. Các 
 hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 39. Ðại kinh Xóm ngựa (Mahà-Assapura sutta)
-<ðại-kinh-xóm-ngựa-mahà-assapura-sutta>
 Như vầy tôi nghe. Một thời Thế Tôn ở giữa dân chúng Anga (Ương- già),
 tại một xã ấp của dân chúng Anga, tên là Assapura (xóm Ngựa). Lúc bấy
 giờ Thế Tôn gọi các Tỷ-kheo:
@@ -11687,7 +11548,6 @@ Tỷ- kheo là bậc A-la-hán. Thế Tôn thuyết giảng như vậy. Các T�
 hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 40. Tiểu kinh Xóm ngựa (Cùla-Assapura sutta)
-<tiểu-kinh-xóm-ngựa-cùla-assapura-sutta>
 Như vầy tôi nghe. Một thời Thế Tôn ở giữa dân chúng Anga (Ương già), tại
 một xã ấp của dân chúng Anga, tên là Assapura (xóm Ngựa). Lúc bấy giờ
 Thế Tôn gọi các Tỷ-kheo:
@@ -11881,7 +11741,6 @@ thành Sa-môn nhờ đoạn diệt các lậu hoặc. Thế Tôn thuyết giả
 Các Tỷ- kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 41. Kinh Sàleyyaka (Sàleyyaka sutta)
-<kinh-sàleyyaka-sàleyyaka-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn đang du hành trong nước Kosala (Kiều
 tất la) cùng với Ðại chúng Tỷ-kheo đi đến một làng Bà-la- môn của dân
 chúng Kosala tên là Sala. Các gia chủ Bà-la-môn ở Sala nghe rằng: “Người
@@ -12098,7 +11957,6 @@ nhận chúng con làm đệ tử, từ nay trở đi cho đến mạng chung, c
 trọn đời quy ngưỡng!
 
 === 42. Kinh Veranjaka (Veranjaka sutta)
-<kinh-veranjaka-veranjaka-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi (Xá-vệ), tại Jetavana
 (Kỳ-đà Lâm), tịnh xá ông Anathapindika (Cấp Cô Ðộc). Lúc bấy giờ các gia
 chủ Bà-la-môn Veranjaka đến trú tại Savatthi vì một vài công việc. Các
@@ -12316,7 +12174,6 @@ nhận chúng con làm đệ tử, từ nay trở đi cho đến mạng chung, c
 trọn đời quy ngưỡng!
 
 === 43. Ðại kinh Phương quảng (Mahàvedalla sutta)
-<ðại-kinh-phương-quảng-mahàvedalla-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi, tại Jetavana, tịnh xá ông
 Anathapindika. Lúc bấy giờ, Tôn giả Maha Kotthita (Ðại Câu-hy-la), vào
 buổi chiều, khi thiền định xong, đứng dậy, đi đến chỗ Tôn giả Sariputta
@@ -12655,7 +12512,6 @@ Sariputta thuyết giảng như vậy. Tôn giả Maha Kotthita hoan hỷ, tín 
 lời Tôn giả Sariputta dạy.
 
 === 44. Tiểu kinh Phương quảng (Cùlavedalla sutta)
-<tiểu-kinh-phương-quảng-cùlavedalla-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Rajagaha (Vương Xá), tai Veluvana
 (Trúc Lâm), chỗ Kalandaka Nivapa. Rồi nam cư sĩ Visakha đến chỗ
 Tỷ-kheo-ni Dhammadinna ở, sau khi đến, đảnh lễ Tỷ-kheo-ni Dhammadinna
@@ -12944,7 +12800,6 @@ nghĩa ấy, Ta cũng trả lời như Tỷ- kheo-ni Dhammadinna đã trả lờ
 Nam cư sĩ Visakha hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 45. Tiểu kinh Pháp hành (Cùladhammasamàdàna sutta)
-<tiểu-kinh-pháp-hành-cùladhammasamàdàna-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi, tại Jetavana, tịnh xá ông
 Anathapindika (Cấp Cô Ðộc). Rồi Thế Tôn gọi các Tỷ-kheo:
 
@@ -13109,7 +12964,6 @@ cũng lạc. Này các Tỷ-kheo, như vậy là bốn loại pháp hành. Thế
 giảng như vậy. Các Tỷ- kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 46. Ðại kinh Pháp hành (Mahàdhammasamàdàna sutta)
-<ðại-kinh-pháp-hành-mahàdhammasamàdàna-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi, Jetavana, tại tịnh xá Ông
 Anathapindika (Cấp Cô Ðộc). Ở đây Thế Tôn gọi các Tỷ-kheo:
 
@@ -13379,7 +13233,6 @@ Sa-môn, Bà-la-môn tầm thường, chói sáng, hực sáng và rực sáng. 
 thuyết giảng như vậy. Các Tỷ- kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 47. Kinh Tư sát (Vìmamsaka sutta)
-<kinh-tư-sát-vìmamsaka-sutta-1>
 Như vầy tôi nghe. Một thời Thế Tôn ở Savatthi, tại Jetavana, tịnh xá của
 Ông Anathapindika (Cấp Cô Ðộc). Ở đây, Thế Tôn gọi các Tỷ-kheo:
 
@@ -13519,7 +13372,6 @@ khéo tìm hiểu một cách đúng pháp. Thế Tôn thuyết giảng như v�
 kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 
 === 48. Kinh Kosambiya (Kosambiya sutta)
-<kinh-kosambiya-kosambiya-sutta-1>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Kosambi, tại tịnh xá Ghosita. Lúc bấy giờ, các
@@ -13740,7 +13592,6 @@ quả. Thế Tôn thuyết giảng như vậy. Các Tỷ- kheo ấy hoan hỷ, t
 Thế Tôn dạy.
 
 === 49. Kinh Phạm Thiên cầu thỉnh (Brahmanimantanika sutta)
-<kinh-phạm-thiên-cầu-thỉnh-brahmanimantanika-sutta-1>
 Như vầy tôi nghe.
 
 Một thời Thế Tôn ở Savatthi, tại Jetavana, vườn Ông Anathapindika (Cấp
@@ -13982,7 +13833,6 @@ bại, không thể thuyết phục (Ta), vì có lời mời Phạm thiên, nê
 lời này cũng được gọi là Kinh Phạm Thiên Cầu Thỉnh.
 
 === 50. Kinh Hàng ma (Màratajjanìya sutta)
-<kinh-hàng-ma-màratajjanìya-sutta>
 Như vầy tôi nghe. Một thời Tôn giả Maha Moggallana trú giữa dân chúng
 Bhagga, tại Sumsumaragira, rừng Bhessakalavana, vườn Lộc Uyển. Lúc bấy
 giờ, Tôn giả Maha Moggallana đang đi kinh hành ngoài trời. Khi ấy Ác ma

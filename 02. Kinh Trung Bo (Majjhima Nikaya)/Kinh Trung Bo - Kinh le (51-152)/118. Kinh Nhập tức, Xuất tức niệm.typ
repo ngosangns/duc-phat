@@ -1,5 +1,4 @@
 = 118. Kinh Nhập tức, Xuất tức niệm
-<kinh-nhập-tức-xuất-tức-niệm>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ (Kinh Quán niệm hơi thở) \
 #emph[\(Anàpànasati sutta)]
 

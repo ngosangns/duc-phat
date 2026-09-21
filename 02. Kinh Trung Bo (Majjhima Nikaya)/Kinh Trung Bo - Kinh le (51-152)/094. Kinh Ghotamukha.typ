@@ -1,5 +1,4 @@
 = 94. Kinh Ghotamukha
-<kinh-ghotamukha>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Ghotamukha sutta)]
 
 #divider()

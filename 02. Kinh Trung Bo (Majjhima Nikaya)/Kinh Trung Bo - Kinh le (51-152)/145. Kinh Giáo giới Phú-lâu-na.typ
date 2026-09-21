@@ -1,5 +1,4 @@
 = 145. Kinh Giáo giới Phú-lâu-na
-<kinh-giáo-giới-phú-lâu-na>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Punnovàda sutta)]
 
 #divider()

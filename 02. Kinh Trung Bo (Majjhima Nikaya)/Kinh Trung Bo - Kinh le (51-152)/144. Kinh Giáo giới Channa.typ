@@ -1,5 +1,4 @@
 = 144. Kinh Giáo giới Channa
-<kinh-giáo-giới-channa>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Channovàda sutta)]
 
 #divider()

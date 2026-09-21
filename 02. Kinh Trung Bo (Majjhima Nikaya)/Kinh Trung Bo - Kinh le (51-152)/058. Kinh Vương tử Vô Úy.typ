@@ -1,5 +1,4 @@
 = 58. Kinh Vương tử Vô Úy
-<kinh-vương-tử-vô-úy>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Abhayaràjakumàra
 sutta)]
 

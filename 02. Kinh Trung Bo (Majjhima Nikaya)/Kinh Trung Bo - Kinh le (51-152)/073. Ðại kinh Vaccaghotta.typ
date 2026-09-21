@@ -1,5 +1,4 @@
 = 73. Ðại kinh Vaccaghotta
-<ðại-kinh-vaccaghotta>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahàvacchagotta sutta)]
 
 #divider()

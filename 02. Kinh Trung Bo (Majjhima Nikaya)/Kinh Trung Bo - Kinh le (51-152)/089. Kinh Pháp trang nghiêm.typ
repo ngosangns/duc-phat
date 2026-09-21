@@ -1,5 +1,4 @@
 = 89. Kinh Pháp trang nghiêm
-<kinh-pháp-trang-nghiêm>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Dhammacetiya sutta)]
 
 #divider()

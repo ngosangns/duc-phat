@@ -1,5 +1,4 @@
 = 67. Kinh Càtumà
-<kinh-càtumà>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Càtumà sutta)]
 
 #divider()

@@ -1,5 +1,4 @@
 = 122. Kinh Ðại không
-<kinh-ðại-không>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahàsunnata sutta)]
 
 #divider()

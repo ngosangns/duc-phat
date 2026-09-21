@@ -1,5 +1,4 @@
 = Mūla Vinaya Piṭaka Pācittiyapāḷi
-<mūla-vinaya-piṭaka-pācittiyapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Vinayapiṭake Pācittiyapāḷi
@@ -10,7 +9,6 @@ Vinayapiṭake Pācittiyapāḷi
 ]
 
 == 1. Musāvādavaggo
-<musāvādavaggo>
 + Musāvādasikkhāpadaṃ
 
 Ime kho panāyasmanto dvenavuti pācittiyā
@@ -1980,7 +1978,6 @@ Musā omasapesuññaṃ, padaseyyāya ve duve; Aññatra viññunā bhūtā,
 duṭṭhullāpatti khaṇanāti.
 
 == 2. Bhūtagāmavaggo
-<bhūtagāmavaggo>
 + Bhūtagāmasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā āḷaviyaṃ viharati aggāḷave cetiye. Tena
@@ -2784,7 +2781,6 @@ Bhūtaṃ aññāya ujjhāyaṃ, pakkamantena te duve; Pubbe nikkaḍḍhanāhac
 dvāraṃ sappāṇakena cāti.
 
 == 3. Ovādavaggo
-<ovādavaggo>
 + Ovādasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -3803,7 +3799,6 @@ Asammataatthaṅgatū, passayāmisadānena; Sibbati addhānaṃ nāvaṃ bhuñje
 eko ekāya te dasāti.
 
 == 4. Bhojanavaggo
-<bhojanavaggo>
 + Āvasathapiṇḍasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -4889,7 +4884,6 @@ Piṇḍo gaṇaṃ paraṃ pūvaṃ, dve ca vuttā pavāraṇā; Vikāle sannid
 dantaponena te dasāti.
 
 == 5. Acelakavaggo
-<acelakavaggo>
 + Acelakasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā vesāliyaṃ viharati mahāvane
@@ -5760,7 +5754,6 @@ senāviddho ime dasāti \[acelakaṃ uyyojañca, sabhojanaṃ duve raho;
 sabhattakañca bhesajjaṃ, uyyuttaṃ senuyyodhikaṃ\].
 
 == 6. Surāpānavaggo
-<surāpānavaggo>
 + Surāpānasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā cetiyesu cārikaṃ caramāno yena
@@ -6547,7 +6540,6 @@ Surā aṅguli hāso ca \[toyañca (itipi)\], anādariyañca bhiṃsanaṃ;
 Jotinahānadubbaṇṇaṃ, sāmaṃ apanidhena cāti.
 
 == 7. Sappāṇakavaggo
-<sappāṇakavaggo>
 + Sañciccasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -7386,7 +7378,6 @@ Sañciccavadhasappāṇaṃ, ukkoṭaṃ duṭṭhullachādanaṃ; Ūnavīsati s
 saṃvidhānaṃ ariṭṭhakaṃ; Ukkhittaṃ kaṇṭakañceva, dasa sikkhāpadā imeti.
 
 == 8. Sahadhammikavaggo
-<sahadhammikavaggo>
 + Sahadhammikasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme. Tena kho
@@ -8199,7 +8190,6 @@ Sahadhamma-vivaṇṇañca, mohāpanaṃ pahārakaṃ; Talasatti amūlañca, sa�
 ca upassuti; Paṭibāhanachandañca, dabbañca pariṇāmananti.
 
 == 9. Ratanavaggo
-<ratanavaggo>
 + Antepurasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -9527,7 +9517,6 @@ Pāṭidesanīyakaṇḍaṃ niṭṭhitaṃ.
 ]
 
 == 1. Parimaṇḍalavaggo
-<parimaṇḍalavaggo>
 Ime kho panāyasmanto sekhiyā
 
 Dhammā uddesaṃ āgacchanti.
@@ -9733,7 +9722,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Parimaṇḍalavaggo paṭhamo.
 
 == 2. Ujjagghikavaggo
-<ujjagghikavaggo>
 #block[
 #set enum(numbering: "1.", start: 586)
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -9911,7 +9899,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Ujjagghikavaggo dutiyo.
 
 == 3. Khambhakatavaggo
-<khambhakatavaggo>
 #block[
 #set enum(numbering: "1.", start: 596)
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -10088,7 +10075,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Khambhakatavaggo tatiyo.
 
 == 4. Sakkaccavaggo
-<sakkaccavaggo>
 #block[
 #set enum(numbering: "1.", start: 606)
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -10304,7 +10290,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Sakkaccavaggo catuttho.
 
 == 5. Kabaḷavaggo
-<kabaḷavaggo>
 #block[
 #set enum(numbering: "1.", start: 617)
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -10473,7 +10458,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Kabaḷavaggo pañcamo.
 
 == 6. Surusuruvaggo
-<surusuruvaggo>
 #block[
 #set enum(numbering: "1.", start: 627)
 + Tena samayena buddho bhagavā kosambiyaṃ viharati ghositārāme. Tena kho
@@ -10719,7 +10703,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Surusuruvaggo chaṭṭho.
 
 == 7. Pādukavaggo
-<pādukavaggo>
 #block[
 #set enum(numbering: "1.", start: 638)
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -12875,7 +12858,6 @@ Bhikkhunivibhaṅge saṅghādisesakaṇḍaṃ niṭṭhitaṃ.
 ]
 
 == 1. Pattavaggo
-<pattavaggo>
 + Paṭhamasikkhāpadaṃ
 
 Ime kho panāyyāyo tiṃsa nissaggiyā pācittiyā
@@ -13718,7 +13700,6 @@ Bhikkhunivibhaṅge nissaggiyakaṇḍaṃ niṭṭhitaṃ.
 ]
 
 == 1. Lasuṇavaggo
-<lasuṇavaggo>
 + Paṭhamasikkhāpadaṃ
 
 Ime kho panāyyāyo chasaṭṭhisatā pācittiyā
@@ -14246,7 +14227,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Lasuṇavaggo paṭhamo.
 
 == 2. Andhakāravaggo
-<andhakāravaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -14808,7 +14788,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Andhakāravaggo dutiyo.
 
 == 3. Naggavaggo
-<naggavaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -15359,7 +15338,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Naggavaggo tatiyo.
 
 == 4. Tuvaṭṭavaggo
-<tuvaṭṭavaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -15900,7 +15878,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Tuvaṭṭavaggo catuttho.
 
 == 5. Cittāgāravaggo
-<cittāgāravaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -16380,7 +16357,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Cittāgāravaggo pañcamo.
 
 == 6. Ārāmavaggo
-<ārāmavaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -16926,7 +16902,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Ārāmavaggo chaṭṭho.
 
 == 7. Gabbhinīvaggo
-<gabbhinīvaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -17580,7 +17555,6 @@ Dasamasikkhāpadaṃ niṭṭhitaṃ.
 Gabbhinivaggo sattamo.
 
 == 8. Kumārībhūtavaggo
-<kumārībhūtavaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -18331,7 +18305,6 @@ Terasamasikkhāpadaṃ niṭṭhitaṃ.
 Kumārībhūtavaggo aṭṭhamo.
 
 == 9. Chattupāhanavaggo
-<chattupāhanavaggo>
 + Paṭhamasikkhāpadaṃ
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
@@ -19010,7 +18983,6 @@ Bhikkhunivibhaṅge pāṭidesanīyakaṇḍaṃ niṭṭhitaṃ.
 ]
 
 == 1. Parimaṇḍalavaggo
-<parimaṇḍalavaggo-1>
 Ime kho panāyyāyo sekhiyā
 
 Dhammā uddesaṃ āgacchanti.
@@ -19043,7 +19015,6 @@ Anāpatti asañcicca, assatiyā, ajānantiyā, gilānāya, āpadāsu,
 ummattikāya, ādikammikāyāti…pe… (saṃkhittaṃ).
 
 == 7. Pādukavaggo
-<pādukavaggo-1>
 #block[
 #set enum(numbering: "1.", start: 1241)
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane

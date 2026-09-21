@@ -1,5 +1,4 @@
 = 69. Kinh Gulisàni
-<kinh-gulisàni>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Gulisàni sutta)]
 
 #divider()

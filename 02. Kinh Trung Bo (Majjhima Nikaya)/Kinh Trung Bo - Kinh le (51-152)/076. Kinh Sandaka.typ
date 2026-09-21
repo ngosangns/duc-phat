@@ -1,5 +1,4 @@
 = 76. Kinh Sandaka
-<kinh-sandaka>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Sandaka sutta)]
 
 #divider()

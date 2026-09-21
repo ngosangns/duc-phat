@@ -1,5 +1,4 @@
 = 99. Kinh Subha
-<kinh-subha>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Subha sutta)]
 
 #divider()

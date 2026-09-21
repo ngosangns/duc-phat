@@ -1,5 +1,4 @@
 = 60. Kinh Không gì chuyển hướng
-<kinh-không-gì-chuyển-hướng>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Apannaka sutta)]
 
 #divider()

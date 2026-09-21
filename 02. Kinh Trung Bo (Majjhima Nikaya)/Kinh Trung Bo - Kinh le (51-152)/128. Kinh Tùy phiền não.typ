@@ -1,5 +1,4 @@
 = 128. Kinh Tùy phiền não
-<kinh-tùy-phiền-não>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Upakkilesa sutta)]
 
 #divider()

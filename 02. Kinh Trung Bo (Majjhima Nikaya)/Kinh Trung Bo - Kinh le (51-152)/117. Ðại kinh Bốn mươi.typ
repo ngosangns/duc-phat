@@ -1,5 +1,4 @@
 = 117. Ðại kinh Bốn mươi
-<ðại-kinh-bốn-mươi>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Mahàcattàrìsaka sutta)]
 
 #divider()

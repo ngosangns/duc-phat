@@ -1,5 +1,4 @@
 = 108. Kinh Gopaka Moggallàna
-<kinh-gopaka-moggallàna>
 #emph[Trung Bộ Kinh (Majjhima Nikāya)] \ #emph[\(Gopakamoggallàna
 sutta)]
 

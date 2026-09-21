@@ -1,5 +1,4 @@
 = Mūla Sutta Piṭaka Aṅguttaranikāyo Dukanipātapāḷi
-<mūla-sutta-piṭaka-aṅguttaranikāyo-dukanipātapāḷi>
 Namo tassa bhagavato arahato sammāsambuddhassa
 
 Aṅguttaranikāyo Dukanipātapāḷi
@@ -7,9 +6,7 @@ Aṅguttaranikāyo Dukanipātapāḷi
 + Paṭhamapaṇṇāsakaṃ
 
 == 1. Kammakaraṇavaggo
-<kammakaraṇavaggo>
 === 1. Vajjasuttaṃ
-<vajjasuttaṃ>
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi --
   ‘‘bhikkhavo''ti. ‘‘Bhadante''ti te bhikkhū bhagavato paccassosuṃ.
@@ -67,7 +64,6 @@ Vajjabhīruno, bhikkhave, vajjabhayadassāvino etaṃ pāṭikaṅkhaṃ yaṃ
 parimuccissati sabbavajjehī''ti. Paṭhamaṃ.
 
 === 2. Padhānasuttaṃ
-<padhānasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 2)
 + ‘‘Dvemāni, bhikkhave, padhānāni durabhisambhavāni lokasmiṃ. Katamāni
@@ -84,7 +80,6 @@ sikkhitabbaṃ -- ‘sabbūpadhipaṭinissaggatthaṃ padhānaṃ padahissāmā'
 Evañhi vo, bhikkhave, sikkhitabba''nti. Dutiyaṃ.
 
 === 3. Tapanīyasuttaṃ
-<tapanīyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 3)
 + ‘‘Dveme, bhikkhave, dhammā tapanīyā. Katame dve? Idha, bhikkhave,
@@ -98,7 +93,6 @@ Evañhi vo, bhikkhave, sikkhitabba''nti. Dutiyaṃ.
 ]
 
 === 4. Atapanīyasuttaṃ
-<atapanīyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 4)
 + ‘‘Dveme, bhikkhave, dhammā atapanīyā. Katame dve? Idha, bhikkhave,
@@ -112,7 +106,6 @@ Evañhi vo, bhikkhave, sikkhitabba''nti. Dutiyaṃ.
 ]
 
 === 5. Upaññātasuttaṃ
-<upaññātasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 5)
 + ‘‘Dvinnāhaṃ, bhikkhave, dhammānaṃ upaññāsiṃ -- yā ca asantuṭṭhitā
@@ -137,7 +130,6 @@ Evañhi vo, bhikkhave, sikkhitabba''nti. Dutiyaṃ.
 ]
 
 === 6. Saṃyojanasuttaṃ
-<saṃyojanasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 6)
 + ‘‘Dveme, bhikkhave, dhammā. Katame dve? Yā ca saṃyojaniyesu dhammesu
@@ -156,7 +148,6 @@ dukkhehi domanassehi upāyāsehi. Parimuccati dukkhasmāti vadāmi. Ime kho,
 bhikkhave, dve dhammā''ti. Chaṭṭhaṃ.
 
 === 7. Kaṇhasuttaṃ
-<kaṇhasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 7)
 + ‘‘Dveme, bhikkhave, dhammā kaṇhā. Katame dve? Ahirikañca anottappañca.
@@ -164,7 +155,6 @@ bhikkhave, dve dhammā''ti. Chaṭṭhaṃ.
 ]
 
 === 8. Sukkasuttaṃ
-<sukkasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 8)
 + ‘‘Dveme, bhikkhave, dhammā sukkā. Katame dve? Hirī \[hiri (sī. syā.
@@ -173,7 +163,6 @@ bhikkhave, dve dhammā''ti. Chaṭṭhaṃ.
 ]
 
 === 9. Cariyasuttaṃ
-<cariyasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 9)
 + ‘‘Dveme, bhikkhave, dhammā sukkā lokaṃ pālenti. Katame dve? Hirī ca
@@ -187,7 +176,6 @@ bhikkhave, dve dhammā''ti. Chaṭṭhaṃ.
 ]
 
 === 10. Vassūpanāyikasuttaṃ
-<vassūpanāyikasuttaṃ>
 #block[
 #set enum(numbering: "1.", start: 10)
 + ‘‘Dvemā, bhikkhave, vassūpanāyikā. Katamā dve? Purimikā ca pacchimikā
@@ -202,7 +190,6 @@ Vajjā padhānā dve tapanīyā, upaññātena pañcamaṃ; Saṃyojanañca ka�
 sukkaṃ cariyā vassūpanāyikena vaggo.
 
 == 2. Adhikaraṇavaggo
-<adhikaraṇavaggo>
 #block[
 #set enum(numbering: "1.", start: 11)
 + ‘‘Dvemāni, bhikkhave, balāni. Katamāni dve? Paṭisaṅkhānabalañca
@@ -466,7 +453,6 @@ kusalaṃ bhāvitaṃ hitāya sukhāya saṃvattati tasmāhaṃ evaṃ vadāmi -
 Adhikaraṇavaggo dutiyo.
 
 == 3. Bālavaggo
-<bālavaggo>
 #block[
 #set enum(numbering: "1.", start: 22)
 + ‘‘‘Dveme, bhikkhave, bālā. Katame dve? Yo ca accayaṃ accayato na
@@ -533,7 +519,6 @@ Adhikaraṇavaggo dutiyo.
 Bālavaggo tatiyo.
 
 == 4. Samacittavaggo
-<samacittavaggo>
 #block[
 #set enum(numbering: "1.", start: 33)
 + ‘‘Asappurisabhūmiñca vo, bhikkhave, desessāmi sappurisabhūmiñca. Taṃ
@@ -828,7 +813,6 @@ cimaṃ saddhammaṃ ṭhapentī''ti.
 Samacittavaggo catuttho.
 
 == 5. Parisavaggo
-<parisavaggo>
 #block[
 #set enum(numbering: "1.", start: 43)
 + ‘‘Dvemā, bhikkhave, parisā. Katamā dve? Uttānā ca parisā gambhīrā ca
