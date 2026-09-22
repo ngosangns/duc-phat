@@ -14,7 +14,7 @@ nén lại thành một dải số (vd. "96–622") được dịch gọn thành
 duy nhất, giữ đủ ý nghĩa, không tách lẻ ra hàng trăm bản dịch gần như giống
 hệt nhau. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc.
 
-_Trạng thái: đã dịch 42/205 kinh/nhóm; còn lại 43–205._
+_Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 #outline(title: [Mục lục])
 
@@ -62,7 +62,7 @@ _Trạng thái: đã dịch 42/205 kinh/nhóm; còn lại 43–205._
 
 #strong[Tổng thuyết kệ:] Lỗi lầm, tinh cần, hai điều thiêu đốt, điều tự chứng ngộ là thứ năm; kiết sử, pháp đen, pháp trắng, sự duy trì thế gian, và ngày nhập hạ — đó là phẩm.
 
-== 2. Adhikaraṇavaggo (chưa đặt tên Việt)
+== 2. Vụ Tranh Tụng (Adhikaraṇavaggo)
 
 === AN 2.11
 
@@ -108,7 +108,7 @@ _Trạng thái: đã dịch 42/205 kinh/nhóm; còn lại 43–205._
 
 #super[1] "Này các thầy, có hai pháp này đưa đến sự trụ vững, không lu mờ, không biến mất của Chánh pháp. Hai pháp nào? Chữ và câu được sắp đặt đúng, và ý nghĩa được diễn giải đúng. Này các thầy, khi chữ và câu được sắp đặt đúng thì ý nghĩa cũng được diễn giải đúng theo. Này các thầy, đó là hai pháp đưa đến sự trụ vững, không lu mờ, không biến mất của Chánh pháp."
 
-== 3. Bālavaggo (chưa đặt tên Việt)
+== 3. Kẻ Ngu (Bālavaggo)
 
 === AN 2.22
 
@@ -154,7 +154,7 @@ _Trạng thái: đã dịch 42/205 kinh/nhóm; còn lại 43–205._
 
 #super[1] "Này các thầy, có hai pháp này thuộc phần minh. Hai pháp nào? Chỉ và quán. Này các thầy, chỉ khi được tu tập thì đạt được lợi ích gì? Tâm được tu tập. Tâm được tu tập thì đạt được lợi ích gì? Tham được đoạn trừ. Này các thầy, quán khi được tu tập thì đạt được lợi ích gì? Tuệ được tu tập. Tuệ được tu tập thì đạt được lợi ích gì? Vô minh được đoạn trừ. Này các thầy, tâm bị ô nhiễm bởi tham thì không được giải thoát; tuệ bị ô nhiễm bởi vô minh thì không được tu tập. Như vậy, này các thầy, do ly tham mà có tâm giải thoát, do ly vô minh mà có tuệ giải thoát." (Hết phẩm thứ ba.)
 
-== 4. Samacittavaggo (chưa đặt tên Việt)
+== 4. Tâm Bình Đẳng (Samacittavaggo)
 
 === AN 2.33
 
@@ -196,656 +196,670 @@ _Trạng thái: đã dịch 42/205 kinh/nhóm; còn lại 43–205._
 
 #super[1] "Này các thầy, những Tỷ-kheo nào, vì nắm giữ sai những bài kinh với câu chữ na ná giống nhau, mà làm sai lạc ý nghĩa và Chánh pháp, những Tỷ-kheo ấy thực hành vì bất lợi cho số đông, vì an lạc không đến với số đông, vì tổn hại, bất lợi, khổ đau cho số đông chư thiên và loài người. Này các thầy, những Tỷ-kheo ấy tạo ra nhiều điều vô phước, và chính họ khiến cho Chánh pháp này biến mất. Này các thầy, những Tỷ-kheo nào, nhờ nắm giữ đúng những bài kinh với câu chữ na ná giống nhau, mà thuận theo đúng ý nghĩa và Chánh pháp, những Tỷ-kheo ấy thực hành vì lợi ích cho số đông, vì an lạc cho số đông, vì lợi ích, hạnh phúc, an lạc cho số đông chư thiên và loài người. Này các thầy, những Tỷ-kheo ấy tạo ra nhiều phước đức, và chính họ giữ vững Chánh pháp này." (Hết phẩm thứ tư.)
 
-== 5. Parisavaggo (chưa đặt tên Việt)
+== 5. Hội Chúng (Parisavaggo)
 
 === AN 2.43
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng nông cạn, và hội chúng thâm sâu. Này các thầy, thế nào là hội chúng nông cạn? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo kiêu căng, ngạo mạn, khinh suất, lắm lời, nói năng tùy tiện, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn, các căn buông thả — này các thầy, đó gọi là hội chúng nông cạn. Này các thầy, thế nào là hội chúng thâm sâu? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không kiêu căng, không ngạo mạn, không khinh suất, không lắm lời, không nói năng tùy tiện, có niệm hiện tiền, tỉnh giác, định tĩnh, nhất tâm, các căn được chế ngự — này các thầy, đó gọi là hội chúng thâm sâu. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng thâm sâu là hạng nhất."
 
 === AN 2.44
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng chia rẽ, và hội chúng hòa hợp. Này các thầy, thế nào là hội chúng chia rẽ? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo sinh sự tranh cãi, sinh sự cãi vã, rơi vào tranh chấp, đâm chọc nhau bằng những lời như gươm đao — này các thầy, đó gọi là hội chúng chia rẽ. Này các thầy, thế nào là hội chúng hòa hợp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo hòa hợp, hoan hỷ với nhau, không tranh cãi, hòa quyện như nước với sữa, nhìn nhau bằng ánh mắt thân ái — này các thầy, đó gọi là hội chúng hòa hợp. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng hòa hợp là hạng nhất."
 
 === AN 2.45
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng không hạng nhất, và hội chúng hạng nhất. Này các thầy, thế nào là hội chúng không hạng nhất? Ở đây, này các thầy, trong hội chúng nào mà các vị trưởng lão sống xa hoa, biếng nhác, dẫn đầu trong sự thoái hóa, bỏ bê hạnh viễn ly, không phát khởi tinh tấn để đạt được điều chưa đạt, để chứng được điều chưa chứng, để thực chứng điều chưa thực chứng — thì thế hệ sau noi theo cách nhìn ấy, cũng trở nên như vậy. Này các thầy, đó gọi là hội chúng không hạng nhất. Này các thầy, thế nào là hội chúng hạng nhất? Ở đây, này các thầy, trong hội chúng nào mà các vị trưởng lão không sống xa hoa, không biếng nhác, buông bỏ sự thoái hóa, dẫn đầu trong hạnh viễn ly, phát khởi tinh tấn để đạt được điều chưa đạt — thì thế hệ sau noi theo cách nhìn ấy, cũng trở nên như vậy. Này các thầy, đó gọi là hội chúng hạng nhất. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng hạng nhất là hạng nhất."
 
 === AN 2.46
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng không phải bậc Thánh, và hội chúng bậc Thánh. Này các thầy, thế nào là hội chúng không phải bậc Thánh? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không như thật biết rõ bốn sự thật: đây là khổ, đây là nguồn gốc của khổ, đây là sự đoạn diệt khổ, đây là con đường đưa đến sự đoạn diệt khổ — này các thầy, đó gọi là hội chúng không phải bậc Thánh. Này các thầy, thế nào là hội chúng bậc Thánh? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo như thật biết rõ bốn sự thật ấy — này các thầy, đó gọi là hội chúng bậc Thánh. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng bậc Thánh là hạng nhất."
 
 === AN 2.47
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng cặn bã, và hội chúng tinh túy. Này các thầy, thế nào là hội chúng cặn bã? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo thiên vị vì ưa thích, thiên vị vì sân hận, thiên vị vì si mê, thiên vị vì sợ hãi — này các thầy, đó gọi là hội chúng cặn bã. Này các thầy, thế nào là hội chúng tinh túy? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không thiên vị vì ưa thích, sân hận, si mê, hay sợ hãi — này các thầy, đó gọi là hội chúng tinh túy. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng tinh túy là hạng nhất."
 
 === AN 2.48
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng được huấn luyện bằng cách áp đặt, không phải bằng cách chất vấn; và hội chúng được huấn luyện bằng cách chất vấn, không phải bằng cách áp đặt. Này các thầy, thế nào là hội chúng được huấn luyện bằng cách áp đặt? Ở đây, này các thầy, trong hội chúng nào mà khi những bài kinh do Như Lai thuyết, thâm sâu, ý nghĩa thâm sâu, siêu thế, liên hệ đến tánh Không, được đọc tụng, các Tỷ-kheo không muốn nghe, không lắng tai, không chú tâm để hiểu rõ, không xem đó là những pháp cần học thuộc; nhưng khi những bài kinh do các đệ tử soạn ra, có tính thi phú, dùng từ ngữ hoa mỹ, câu chữ chải chuốt, thuộc ngoại điển, được đọc tụng, thì họ lại muốn nghe, lắng tai, chú tâm, xem đó là những pháp cần học thuộc. Sau khi học thuộc, họ không hỏi lẫn nhau, không xem xét kỹ càng: 'Điều này nghĩa là gì?' Họ không mở ra những gì chưa được mở ra, không xua tan mối nghi ngờ. Này các thầy, đó gọi là hội chúng được huấn luyện bằng cách áp đặt. Này các thầy, thế nào là hội chúng được huấn luyện bằng cách chất vấn? Ở đây, này các thầy, trong hội chúng nào mà thái độ hoàn toàn ngược lại như trên — trọng những bài kinh thâm sâu do Như Lai thuyết, không trọng những bài kinh thi phú của đệ tử, học thuộc rồi biết hỏi han, xem xét, mở ra những gì chưa mở, xua tan nghi ngờ. Này các thầy, đó gọi là hội chúng được huấn luyện bằng cách chất vấn. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng được huấn luyện bằng cách chất vấn là hạng nhất."
 
 === AN 2.49
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng coi trọng vật chất, không coi trọng Chánh pháp; và hội chúng coi trọng Chánh pháp, không coi trọng vật chất. Này các thầy, thế nào là hội chúng coi trọng vật chất? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo, trước mặt những người cư sĩ áo trắng, khen ngợi lẫn nhau rằng: 'Vị kia được giải thoát cả hai phần, vị kia được tuệ giải thoát, vị kia là chứng nhân bằng thân, vị kia đạt được kiến, vị kia được tín giải thoát, vị kia tùy pháp hành, vị kia tùy tín hành, vị kia có giới hạnh, có thiện pháp; còn vị kia phá giới, có ác pháp.' Nhờ đó họ nhận được lợi dưỡng. Nhận được rồi, họ đắm say, mê mẩn, chìm sâu, không thấy được sự nguy hiểm, không có trí tuệ về sự xuất ly mà cứ thọ dụng. Này các thầy, đó gọi là hội chúng coi trọng vật chất. Này các thầy, thế nào là hội chúng coi trọng Chánh pháp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không khen ngợi lẫn nhau như vậy trước mặt người cư sĩ áo trắng. Dù vẫn nhận được lợi dưỡng, nhưng sau khi nhận được, họ không đắm say, thấy được sự nguy hiểm, có trí tuệ về sự xuất ly mà thọ dụng. Này các thầy, đó gọi là hội chúng coi trọng Chánh pháp. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng coi trọng Chánh pháp là hạng nhất."
 
 === AN 2.50
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng bất chính, và hội chúng chân chính. Này các thầy, thế nào là hội chúng bất chính? Ở đây, này các thầy, trong hội chúng nào mà những hành vi phi pháp, phi luật được thực hiện và được nêu bật lên, còn những hành vi đúng pháp, đúng luật thì không được thực hiện, không được nêu bật lên. Này các thầy, đó gọi là hội chúng bất chính. Này các thầy, thế nào là hội chúng chân chính? Ở đây, này các thầy, trong hội chúng nào mà những hành vi đúng pháp, đúng luật được thực hiện và được nêu bật lên, còn những hành vi phi pháp, phi luật thì không được thực hiện, không được nêu bật lên. Này các thầy, đó gọi là hội chúng chân chính. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng chân chính là hạng nhất."
 
 === AN 2.51
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng phi pháp, và hội chúng đúng pháp. [Theo đúng khuôn mẫu như kinh trước.] Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng đúng pháp là hạng nhất."
 
 === AN 2.52
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng nói phi pháp, và hội chúng nói đúng pháp. Này các thầy, thế nào là hội chúng nói phi pháp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo, khi có một vụ tranh tụng xảy ra, dù đúng pháp hay phi pháp, sau khi nhận lấy vụ ấy, họ không thuyết phục lẫn nhau, không đi đến sự đồng thuận, không tìm hiểu thấu đáo, không đi đến sự thấu hiểu lẫn nhau. Họ không có khả năng đồng thuận, không chịu từ bỏ lập trường, cứ khăng khăng bám chặt vào vụ tranh tụng ấy mà tuyên bố: 'Chỉ điều này mới đúng, ngoài ra đều sai.' Này các thầy, đó gọi là hội chúng nói phi pháp. Này các thầy, thế nào là hội chúng nói đúng pháp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo, khi có vụ tranh tụng, biết thuyết phục lẫn nhau, đi đến sự đồng thuận, tìm hiểu thấu đáo, sẵn lòng từ bỏ lập trường, không khăng khăng bám chặt mà tuyên bố 'chỉ điều này mới đúng'. Này các thầy, đó gọi là hội chúng nói đúng pháp. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng nói đúng pháp là hạng nhất." (Hết phẩm thứ năm.)
+
+#strong[Tổng thuyết kệ:] Nông cạn, chia rẽ, hạng nhất, bậc Thánh, cặn bã là thứ năm; áp đặt, vật chất, bất chính, phi pháp, và nói đúng pháp — đó là phẩm.
+
+#strong[(Hết năm mươi kinh đầu.)]
+
+== 6. Hạng Người (Puggalavaggo)
 
 === AN 2.53
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người này khi xuất hiện ở đời là sự xuất hiện vì lợi ích cho số đông, vì an lạc cho số đông, vì lợi ích, hạnh phúc, an lạc cho chư thiên và loài người. Hai hạng nào? Như Lai, bậc A-la-hán, Chánh Đẳng Giác, và vị Chuyển Luân Vương. Này các thầy, đó là hai hạng người ấy."
 
 === AN 2.54
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người này khi xuất hiện ở đời là sự xuất hiện của những người kỳ diệu. Hai hạng nào? Như Lai, bậc A-la-hán, Chánh Đẳng Giác, và vị Chuyển Luân Vương. Này các thầy, đó là hai hạng người ấy."
 
 === AN 2.55
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, sự qua đời của hai hạng người này khiến nhiều người phải tiếc thương. Hai hạng nào? Như Lai, bậc A-la-hán, Chánh Đẳng Giác, và vị Chuyển Luân Vương. Này các thầy, đó là hai hạng người ấy."
 
 === AN 2.56
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người này xứng đáng được dựng tháp thờ. Hai hạng nào? Như Lai, bậc A-la-hán, Chánh Đẳng Giác, và vị Chuyển Luân Vương. Này các thầy, đó là hai hạng người ấy."
 
 === AN 2.57
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai bậc Giác Ngộ này. Hai bậc nào? Như Lai, bậc A-la-hán, Chánh Đẳng Giác, và vị Độc Giác Phật. Này các thầy, đó là hai bậc Giác Ngộ."
 
 === AN 2.58
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng không hề run sợ khi sấm sét nổ ra. Hai hạng nào? Vị Tỷ-kheo đã đoạn tận lậu hoặc, và con voi thuần chủng. Này các thầy, đó là hai hạng ấy."
 
 === AN 2.59
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng không hề run sợ khi sấm sét nổ ra. Hai hạng nào? Vị Tỷ-kheo đã đoạn tận lậu hoặc, và con ngựa thuần chủng. Này các thầy, đó là hai hạng ấy."
 
 === AN 2.60
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng không hề run sợ khi sấm sét nổ ra. Hai hạng nào? Vị Tỷ-kheo đã đoạn tận lậu hoặc, và con sư tử, vua các loài thú. Này các thầy, đó là hai hạng ấy."
 
 === AN 2.61
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thấy hai lợi ích này mà loài Khẩn-na-la không nói tiếng người. Hai lợi ích nào? 'Mong chúng ta đừng nói dối, và đừng vu khống người khác bằng điều không thật.' Này các thầy, thấy hai lợi ích ấy mà loài Khẩn-na-la không nói tiếng người."
 
 === AN 2.62
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, người nữ chết đi mà chưa từng chán, chưa từng thỏa mãn với hai điều. Hai điều nào? Việc giao hợp, và việc sinh nở. Này các thầy, đó là hai điều mà người nữ chết đi chưa từng chán, chưa từng thỏa mãn."
 
 === AN 2.63
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, Ta sẽ thuyết giảng cho các thầy về cách sống không an lạc và cách sống an lạc. Hãy lắng nghe, khéo tác ý, Ta sẽ nói." "Xin vâng, bạch Thế Tôn", các Tỷ-kheo ấy đáp lại Thế Tôn. Thế Tôn nói như vầy: "Này các thầy, thế nào là cách sống không an lạc? Ở đây, này các thầy, vị Tỷ-kheo trưởng lão nghĩ như vầy: 'Mong vị trưởng lão, vị trung niên, vị mới tu đừng ai nói gì với ta; ta cũng sẽ không nói gì với ai trong số họ. Nếu có vị nào nói với ta điều gì mà không phải vì lòng thương tưởng, ta sẽ không nói lời chấp nhận, ta sẽ bực bội, và dù thấy lỗi của vị ấy ta cũng sẽ không sửa đổi.' Vị Tỷ-kheo trung niên và vị Tỷ-kheo mới tu cũng đều nghĩ như vậy. Này các thầy, như vậy là cách sống không an lạc, như vậy là những kẻ không an lạc khi sống chung. Này các thầy, thế nào là cách sống an lạc? Ở đây, này các thầy, vị Tỷ-kheo trưởng lão nghĩ như vầy: 'Mong vị trưởng lão, vị trung niên, vị mới tu hãy nói với ta; ta cũng sẽ nói với tất cả. Nếu có vị nào nói với ta điều gì vì lòng thương tưởng, ta sẽ nói lời tán thán, ta sẽ không bực bội, và khi thấy lỗi của vị ấy ta sẽ sửa đổi.' Vị Tỷ-kheo trung niên và vị Tỷ-kheo mới tu cũng đều nghĩ như vậy. Này các thầy, như vậy là cách sống an lạc, như vậy là những người an lạc khi sống chung."
 
 === AN 2.64
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, trong một vụ tranh tụng mà cả hai bên đều nói lời qua tiếng lại, đều cố chấp thành kiến, đều mang tâm oán hận, bất mãn, không hài lòng, không lắng dịu được ở nội tâm, thì có thể trông đợi vụ tranh tụng ấy sẽ kéo dài, gay gắt, trầm trọng, và các Tỷ-kheo sẽ không sống an ổn. Còn trong một vụ tranh tụng mà cả hai bên như vậy nhưng đã lắng dịu được ở nội tâm, thì có thể trông đợi vụ tranh tụng ấy sẽ không kéo dài, không gay gắt, không trầm trọng, và các Tỷ-kheo sẽ sống an ổn." (Hết phẩm thứ nhất — phẩm Hạng Người.)
+
+== 7. An Lạc (Sukhavaggo)
 
 === AN 2.65
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc của người tại gia, và an lạc của người xuất gia. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc của người xuất gia là hạng nhất."
 
 === AN 2.66
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc của dục, và an lạc của sự viễn ly dục. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc của sự viễn ly dục là hạng nhất."
 
 === AN 2.67
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc còn nương tựa sinh y, và an lạc không còn nương tựa sinh y. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc không còn nương tựa sinh y là hạng nhất."
 
 === AN 2.68
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc còn lậu hoặc, và an lạc không còn lậu hoặc. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc không còn lậu hoặc là hạng nhất."
 
 === AN 2.69
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc liên hệ vật chất, và an lạc không liên hệ vật chất. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc không liên hệ vật chất là hạng nhất."
 
 === AN 2.70
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc của bậc Thánh, và an lạc không phải của bậc Thánh. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc của bậc Thánh là hạng nhất."
 
 === AN 2.71
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc về thân, và an lạc về tâm. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc về tâm là hạng nhất."
 
 === AN 2.72
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc có hỷ, và an lạc không có hỷ. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc không có hỷ là hạng nhất."
 
 === AN 2.73
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc do cảm giác dễ chịu, và an lạc do xả. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc do xả là hạng nhất."
 
 === AN 2.74
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc của định, và an lạc không phải của định. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc của định là hạng nhất."
 
 === AN 2.75
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc lấy hỷ làm đối tượng, và an lạc lấy sự không hỷ làm đối tượng. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc lấy sự không hỷ làm đối tượng là hạng nhất."
 
 === AN 2.76
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc lấy cảm giác dễ chịu làm đối tượng, và an lạc lấy xả làm đối tượng. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc lấy xả làm đối tượng là hạng nhất."
 
 === AN 2.77
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại an lạc này. Hai loại nào? An lạc lấy sắc làm đối tượng, và an lạc lấy vô sắc làm đối tượng. Này các thầy, đó là hai loại an lạc. Này các thầy, trong hai loại an lạc ấy, an lạc lấy vô sắc làm đối tượng là hạng nhất." (Hết phẩm thứ hai — phẩm An Lạc.)
+
+== 8. Có Tướng (Sanimittavaggo)
 
 === AN 2.78
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều do có tướng, không phải không tướng. Do đoạn tận chính tướng ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.79
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều do có nhân duyên, không phải không nhân duyên. Do đoạn tận chính nhân duyên ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.80
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều do có nhân, không phải không nhân. Do đoạn tận chính nhân ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.81
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều do có hành, không phải không hành. Do đoạn tận chính những hành ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.82
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều do có duyên, không phải không duyên. Do đoạn tận chính duyên ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.83
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều có sắc, không phải không sắc. Do đoạn tận chính sắc ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.84
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều có thọ, không phải không thọ. Do đoạn tận chính thọ ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.85
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều có tưởng, không phải không tưởng. Do đoạn tận chính tưởng ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.86
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều có thức, không phải không thức. Do đoạn tận chính thức ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa."
 
 === AN 2.87
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, các pháp ác, bất thiện khởi lên đều lấy pháp hữu vi làm đối tượng, không phải lấy pháp vô vi làm đối tượng. Do đoạn tận chính đối tượng hữu vi ấy, các pháp ác, bất thiện ấy không còn khởi lên nữa." (Hết phẩm thứ ba — phẩm Có Tướng.)
+
+== 9. Pháp (Dhammavaggo)
 
 === AN 2.88
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Tâm giải thoát, và tuệ giải thoát. Này các thầy, đó là hai pháp."
 
 === AN 2.89
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Sự tinh cần, và sự không tán loạn. Này các thầy, đó là hai pháp."
 
 === AN 2.90
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Danh, và sắc. Này các thầy, đó là hai pháp."
 
 === AN 2.91
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Minh, và giải thoát. Này các thầy, đó là hai pháp."
 
 === AN 2.92
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Hữu kiến, và phi hữu kiến. Này các thầy, đó là hai pháp."
 
 === AN 2.93
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Không biết hổ, và không biết thẹn. Này các thầy, đó là hai pháp."
 
 === AN 2.94
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Biết hổ, và biết thẹn. Này các thầy, đó là hai pháp."
 
 === AN 2.95
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Tính khó dạy bảo, và có bạn xấu. Này các thầy, đó là hai pháp."
 
 === AN 2.96
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Tính dễ dạy bảo, và có bạn tốt. Này các thầy, đó là hai pháp."
 
 === AN 2.97
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Sự thiện xảo về các giới, và sự thiện xảo về tác ý. Này các thầy, đó là hai pháp."
 
 === AN 2.98
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Sự thiện xảo về việc phạm tội, và sự thiện xảo về cách ra khỏi tội. Này các thầy, đó là hai pháp." (Hết phẩm thứ tư — phẩm Pháp.)
+
+== 10. Kẻ Ngu (Bālavaggo)
 
 === AN 2.99
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người ngu này. Hai hạng nào? Kẻ gánh vác trách nhiệm chưa đến phiên mình, và kẻ không gánh vác trách nhiệm đã đến phiên mình. Này các thầy, đó là hai hạng người ngu."
 
 === AN 2.100
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người trí này. Hai hạng nào? Kẻ không gánh vác trách nhiệm chưa đến phiên mình, và kẻ gánh vác trách nhiệm đã đến phiên mình. Này các thầy, đó là hai hạng người trí."
 
 === AN 2.101
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người ngu này. Hai hạng nào? Kẻ tưởng vật không hợp lệ là hợp lệ, và kẻ tưởng vật hợp lệ là không hợp lệ. Này các thầy, đó là hai hạng người ngu."
 
 === AN 2.102
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người trí này. Hai hạng nào? Kẻ tưởng vật không hợp lệ là không hợp lệ, và kẻ tưởng vật hợp lệ là hợp lệ. Này các thầy, đó là hai hạng người trí."
 
 === AN 2.103
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người ngu này. Hai hạng nào? Kẻ tưởng việc không phạm tội là phạm tội, và kẻ tưởng việc phạm tội là không phạm tội. Này các thầy, đó là hai hạng người ngu."
 
 === AN 2.104
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người trí này. Hai hạng nào? Kẻ tưởng việc không phạm tội là không phạm tội, và kẻ tưởng việc phạm tội là phạm tội. Này các thầy, đó là hai hạng người trí."
 
 === AN 2.105
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người ngu này. Hai hạng nào? Kẻ tưởng phi pháp là pháp, và kẻ tưởng pháp là phi pháp. Này các thầy, đó là hai hạng người ngu."
 
 === AN 2.106
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người trí này. Hai hạng nào? Kẻ tưởng pháp là pháp, và kẻ tưởng phi pháp là phi pháp. Này các thầy, đó là hai hạng người trí."
 
 === AN 2.107
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người ngu này. Hai hạng nào? Kẻ tưởng phi luật là luật, và kẻ tưởng luật là phi luật. Này các thầy, đó là hai hạng người ngu."
 
 === AN 2.108
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người trí này. Hai hạng nào? Kẻ tưởng phi luật là phi luật, và kẻ tưởng luật là luật. Này các thầy, đó là hai hạng người trí."
 
 === AN 2.109
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ áy náy về điều không đáng áy náy, và kẻ không áy náy về điều đáng áy náy. Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.110
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ không áy náy về điều không đáng áy náy, và kẻ áy náy về điều đáng áy náy. Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.111
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng vật không hợp lệ là hợp lệ, và kẻ tưởng vật hợp lệ là không hợp lệ. Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.112
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng vật không hợp lệ là không hợp lệ, và kẻ tưởng vật hợp lệ là hợp lệ. Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.113
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng việc phạm tội là không phạm tội, và kẻ tưởng việc không phạm tội là phạm tội. Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.114
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng việc phạm tội là phạm tội, và kẻ tưởng việc không phạm tội là không phạm tội. Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.115
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng phi pháp là pháp, và kẻ tưởng pháp là phi pháp. Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.116
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng pháp là pháp, và kẻ tưởng phi pháp là phi pháp. Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.117
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng phi luật là luật, và kẻ tưởng luật là phi luật. Này các thầy, lậu hoặc tăng trưởng nơi hai hạng người ấy."
 
 === AN 2.118
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người. Hai hạng nào? Kẻ tưởng phi luật là phi luật, và kẻ tưởng luật là luật. Này các thầy, lậu hoặc không tăng trưởng nơi hai hạng người ấy." (Hết phẩm thứ năm — phẩm Kẻ Ngu. Hết Năm Mươi Kinh Thứ Hai.)
+
+== 11. Khát Vọng Khó Từ Bỏ (Āsāduppajahavaggo)
 
 === AN 2.119
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#strong[Năm Mươi Kinh Thứ Ba]
+
+#super[1] "Này các thầy, có hai khát vọng khó từ bỏ này. Hai khát vọng nào? Khát vọng về lợi dưỡng, và khát vọng về sự sống. Này các thầy, đó là hai khát vọng khó từ bỏ."
 
 === AN 2.120
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người khó tìm ở đời này. Hai hạng nào? Người thi ân trước, và người biết ơn, đền ơn. Này các thầy, đó là hai hạng người khó tìm ở đời."
 
 === AN 2.121
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người khó tìm ở đời này. Hai hạng nào? Người tự mình biết đủ, và người khiến người khác được đầy đủ. Này các thầy, đó là hai hạng người khó tìm ở đời."
 
 === AN 2.122
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người khó làm cho thỏa mãn này. Hai hạng nào? Kẻ có được gì cũng cất giữ, và kẻ có được gì cũng tiêu xài hết. Này các thầy, đó là hai hạng người khó làm cho thỏa mãn."
 
 === AN 2.123
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai hạng người dễ làm cho thỏa mãn này. Hai hạng nào? Kẻ có được gì cũng không cất giữ, và kẻ có được gì cũng không tiêu xài hết. Này các thầy, đó là hai hạng người dễ làm cho thỏa mãn."
 
 === AN 2.124
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai duyên khiến tham khởi lên này. Hai duyên nào? Tướng đẹp đẽ hấp dẫn, và tác ý không khéo léo. Này các thầy, đó là hai duyên khiến tham khởi lên."
 
 === AN 2.125
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai duyên khiến sân khởi lên này. Hai duyên nào? Tướng khó chịu, và tác ý không khéo léo. Này các thầy, đó là hai duyên khiến sân khởi lên."
 
 === AN 2.126
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai duyên khiến tà kiến khởi lên này. Hai duyên nào? Lời nói từ người khác, và tác ý không khéo léo. Này các thầy, đó là hai duyên khiến tà kiến khởi lên."
 
 === AN 2.127
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai duyên khiến chánh kiến khởi lên này. Hai duyên nào? Lời nói từ người khác, và tác ý khéo léo. Này các thầy, đó là hai duyên khiến chánh kiến khởi lên."
 
 === AN 2.128
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tội này. Hai loại nào? Tội nhẹ, và tội nặng. Này các thầy, đó là hai loại tội."
 
 === AN 2.129
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tội này. Hai loại nào? Tội thô nặng, và tội không thô nặng. Này các thầy, đó là hai loại tội."
 
 === AN 2.130
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tội này. Hai loại nào? Tội còn có thể chữa, và tội không thể chữa. Này các thầy, đó là hai loại tội." (Hết phẩm thứ nhất — phẩm Khát Vọng Khó Từ Bỏ.)
+
+== 12. Ước Nguyện (Āyācanavaggo)
 
 === AN 2.131
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, vị Tỷ-kheo có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như Sāriputta và Moggallāna.' Này các thầy, Sāriputta và Moggallāna chính là thước đo, là chuẩn mực cho các Tỷ-kheo đệ tử của Ta."
 
 === AN 2.132
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, vị Tỷ-kheo-ni có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như Tỷ-kheo-ni Khemā và Uppalavaṇṇā.' Này các thầy, Tỷ-kheo-ni Khemā và Uppalavaṇṇā chính là thước đo, là chuẩn mực cho các Tỷ-kheo-ni đệ tử của Ta."
 
 === AN 2.133
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, người cư sĩ có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như gia chủ Citta và Hatthaka Āḷavaka.' Này các thầy, gia chủ Citta và Hatthaka Āḷavaka chính là thước đo, là chuẩn mực cho các cư sĩ đệ tử của Ta."
 
 === AN 2.134
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] Này các thầy, một nữ cư sĩ có lòng tin, khi phát nguyện chân chính, nên phát nguyện rằng: "Mong ta được như nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā." Này các thầy, đó là cán cân, là chuẩn mực cho các nữ đệ tử cư sĩ của Ta, tức là nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā.
 
 === AN 2.135
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai pháp nào? Không xem xét, không thẩm sát rồi khen ngợi người đáng chê; không xem xét, không thẩm sát rồi chê bai người đáng khen. Này các thầy, thành tựu hai pháp ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, thành tựu hai pháp, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai pháp nào? Xem xét, thẩm sát rồi chê bai người đáng chê; xem xét, thẩm sát rồi khen ngợi người đáng khen. Này các thầy, thành tựu hai pháp ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.136
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai pháp nào? Không xem xét, không thẩm sát rồi bày tỏ lòng tin ở chỗ không đáng tin; không xem xét, không thẩm sát rồi bày tỏ sự không tin ở chỗ đáng tin. Này các thầy, thành tựu hai pháp ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, thành tựu hai pháp, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai pháp nào? Xem xét, thẩm sát rồi bày tỏ sự không tin ở chỗ không đáng tin; xem xét, thẩm sát rồi bày tỏ lòng tin ở chỗ đáng tin. Này các thầy, thành tựu hai pháp ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.137
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, xử sự sai trái đối với hai hạng, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai hạng nào? Đối với mẹ và đối với cha. Này các thầy, xử sự sai trái đối với hai hạng ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, xử sự chân chánh đối với hai hạng, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai hạng nào? Đối với mẹ và đối với cha. Này các thầy, xử sự chân chánh đối với hai hạng ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.138
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, xử sự sai trái đối với hai hạng, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai hạng nào? Đối với Như Lai và đối với đệ tử của Như Lai. Này các thầy, xử sự sai trái đối với hai hạng ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, xử sự chân chánh đối với hai hạng, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai hạng nào? Đối với Như Lai và đối với đệ tử của Như Lai. Này các thầy, xử sự chân chánh đối với hai hạng ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.139
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Làm thanh tịnh tâm mình, và không chấp thủ bất cứ gì ở đời. Này các thầy, đó là hai pháp."
 
 === AN 2.140
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Phẫn nộ, và hận. Này các thầy, đó là hai pháp."
 
 === AN 2.141
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Điều phục phẫn nộ, và điều phục hận. Này các thầy, đó là hai pháp."
+
+#strong[(Hết phẩm Ước Nguyện.)]
+
+== 13. Bố Thí (Dānavaggo)
 
 === AN 2.142
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại bố thí này. Hai loại nào? Bố thí tài vật, và bố thí Pháp. Này các thầy, đó là hai loại bố thí. Này các thầy, trong hai loại bố thí ấy, bố thí Pháp là hạng nhất."
 
 === AN 2.143
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại cúng thí này. Hai loại nào? Cúng thí tài vật, và cúng thí Pháp. Này các thầy, đó là hai loại cúng thí. Này các thầy, trong hai loại cúng thí ấy, cúng thí Pháp là hạng nhất."
 
 === AN 2.144
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại xả thí này. Hai loại nào? Xả thí tài vật, và xả thí Pháp. Này các thầy, đó là hai loại xả thí. Này các thầy, trong hai loại xả thí ấy, xả thí Pháp là hạng nhất."
 
 === AN 2.145
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại hy sinh này. Hai loại nào? Hy sinh tài vật, và hy sinh Pháp. Này các thầy, đó là hai loại hy sinh. Này các thầy, trong hai loại hy sinh ấy, hy sinh Pháp là hạng nhất."
 
 === AN 2.146
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại thọ dụng này. Hai loại nào? Thọ dụng tài vật, và thọ dụng Pháp. Này các thầy, đó là hai loại thọ dụng. Này các thầy, trong hai loại thọ dụng ấy, thọ dụng Pháp là hạng nhất."
 
 === AN 2.147
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại cùng thọ hưởng này. Hai loại nào? Cùng thọ hưởng tài vật, và cùng thọ hưởng Pháp. Này các thầy, đó là hai loại cùng thọ hưởng. Này các thầy, trong hai loại cùng thọ hưởng ấy, cùng thọ hưởng Pháp là hạng nhất."
 
 === AN 2.148
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại san sẻ này. Hai loại nào? San sẻ tài vật, và san sẻ Pháp. Này các thầy, đó là hai loại san sẻ. Này các thầy, trong hai loại san sẻ ấy, san sẻ Pháp là hạng nhất."
 
 === AN 2.149
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại nhiếp phục này. Hai loại nào? Nhiếp phục bằng tài vật, và nhiếp phục bằng Pháp. Này các thầy, đó là hai loại nhiếp phục. Này các thầy, trong hai loại nhiếp phục ấy, nhiếp phục bằng Pháp là hạng nhất."
 
 === AN 2.150
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại nâng đỡ này. Hai loại nào? Nâng đỡ bằng tài vật, và nâng đỡ bằng Pháp. Này các thầy, đó là hai loại nâng đỡ. Này các thầy, trong hai loại nâng đỡ ấy, nâng đỡ bằng Pháp là hạng nhất."
 
 === AN 2.151
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại từ mẫn này. Hai loại nào? Từ mẫn bằng tài vật, và từ mẫn bằng Pháp. Này các thầy, đó là hai loại từ mẫn. Này các thầy, trong hai loại từ mẫn ấy, từ mẫn bằng Pháp là hạng nhất."
+
+#strong[(Hết phẩm Bố Thí.)]
+
+== 14. Tiếp Đón (Santhāravaggo)
 
 === AN 2.152
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tiếp đãi này. Hai loại nào? Tiếp đãi bằng tài vật, và tiếp đãi bằng Pháp. Này các thầy, đó là hai loại tiếp đãi. Này các thầy, trong hai loại tiếp đãi ấy, tiếp đãi bằng Pháp là hạng nhất."
 
 === AN 2.153
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại chào đón này. Hai loại nào? Chào đón bằng tài vật, và chào đón bằng Pháp. Này các thầy, đó là hai loại chào đón. Này các thầy, trong hai loại chào đón ấy, chào đón bằng Pháp là hạng nhất."
 
 === AN 2.154
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tầm cầu này. Hai loại nào? Tầm cầu tài vật, và tầm cầu Pháp. Này các thầy, đó là hai loại tầm cầu. Này các thầy, trong hai loại tầm cầu ấy, tầm cầu Pháp là hạng nhất."
 
 === AN 2.155
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tìm kiếm này. Hai loại nào? Tìm kiếm tài vật, và tìm kiếm Pháp. Này các thầy, đó là hai loại tìm kiếm. Này các thầy, trong hai loại tìm kiếm ấy, tìm kiếm Pháp là hạng nhất."
 
 === AN 2.156
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại truy cầu này. Hai loại nào? Truy cầu tài vật, và truy cầu Pháp. Này các thầy, đó là hai loại truy cầu. Này các thầy, trong hai loại truy cầu ấy, truy cầu Pháp là hạng nhất."
 
 === AN 2.157
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại cúng dường này. Hai loại nào? Cúng dường tài vật, và cúng dường Pháp. Này các thầy, đó là hai loại cúng dường. Này các thầy, trong hai loại cúng dường ấy, cúng dường Pháp là hạng nhất."
 
 === AN 2.158
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại đãi khách này. Hai loại nào? Đãi khách bằng tài vật, và đãi khách bằng Pháp. Này các thầy, đó là hai loại đãi khách. Này các thầy, trong hai loại đãi khách ấy, đãi khách bằng Pháp là hạng nhất."
 
 === AN 2.159
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại thần thông này. Hai loại nào? Thần thông tài vật, và thần thông Pháp. Này các thầy, đó là hai loại thần thông. Này các thầy, trong hai loại thần thông ấy, thần thông Pháp là hạng nhất."
 
 === AN 2.160
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tăng trưởng này. Hai loại nào? Tăng trưởng tài vật, và tăng trưởng Pháp. Này các thầy, đó là hai loại tăng trưởng. Này các thầy, trong hai loại tăng trưởng ấy, tăng trưởng Pháp là hạng nhất."
 
 === AN 2.161
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại châu báu này. Hai loại nào? Châu báu tài vật, và châu báu Pháp. Này các thầy, đó là hai loại châu báu. Này các thầy, trong hai loại châu báu ấy, châu báu Pháp là hạng nhất."
 
 === AN 2.162
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại tích trữ này. Hai loại nào? Tích trữ tài vật, và tích trữ Pháp. Này các thầy, đó là hai loại tích trữ. Này các thầy, trong hai loại tích trữ ấy, tích trữ Pháp là hạng nhất."
 
 === AN 2.163
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai loại sung mãn này. Hai loại nào? Sung mãn tài vật, và sung mãn Pháp. Này các thầy, đó là hai loại sung mãn. Này các thầy, trong hai loại sung mãn ấy, sung mãn Pháp là hạng nhất."
+
+#strong[(Hết phẩm Tiếp Đón.)]
+
+== 15. Chứng Đạt (Samāpattivaggo)
 
 === AN 2.164
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Khéo léo trong sự chứng đạt, và khéo léo trong sự xuất khỏi chứng đạt. Này các thầy, đó là hai pháp."
 
 === AN 2.165
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Ngay thẳng, và nhu hòa. Này các thầy, đó là hai pháp."
 
 === AN 2.166
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Nhẫn nại, và nhu thuận. Này các thầy, đó là hai pháp."
 
 === AN 2.167
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Lời nói ôn hòa, và sự chào đón. Này các thầy, đó là hai pháp."
 
 === AN 2.168
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Không hại, và thanh tịnh. Này các thầy, đó là hai pháp."
 
 === AN 2.169
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Không hộ trì các căn, và không biết tiết độ trong ăn uống. Này các thầy, đó là hai pháp."
 
 === AN 2.170
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Hộ trì các căn, và biết tiết độ trong ăn uống. Này các thầy, đó là hai pháp."
 
 === AN 2.171
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Lực của sự tư sát, và lực của sự tu tập. Này các thầy, đó là hai pháp."
 
 === AN 2.172
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Niệm lực, và định lực. Này các thầy, đó là hai pháp."
 
 === AN 2.173
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Chỉ, và quán. Này các thầy, đó là hai pháp."
 
 === AN 2.174
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Thất bại về giới, và thất bại về kiến. Này các thầy, đó là hai pháp."
 
 === AN 2.175
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Thành tựu về giới, và thành tựu về kiến. Này các thầy, đó là hai pháp."
 
 === AN 2.176
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Thanh tịnh về giới, và thanh tịnh về kiến. Này các thầy, đó là hai pháp."
 
 === AN 2.177
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Thanh tịnh về kiến, và tinh cần đúng theo kiến ấy. Này các thầy, đó là hai pháp."
 
 === AN 2.178
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Không biết đủ đối với các pháp thiện, và không thối thất trong sự tinh cần. Này các thầy, đó là hai pháp."
 
 === AN 2.179
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Thất niệm, và không tỉnh giác. Này các thầy, đó là hai pháp."
 
 === AN 2.180
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Niệm, và tỉnh giác. Này các thầy, đó là hai pháp."
+
+#strong[(Hết phẩm Chứng Đạt. Hết năm mươi kinh cuối.)]
 
 === AN 2.181
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#strong[Trùng tụng về phẫn nộ]
+
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý. Này các thầy, đó là hai pháp."
 
 === AN 2.182
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, đó là hai pháp."
 
 === AN 2.183
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp thì sống khổ. Hai pháp nào? Phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý. Này các thầy, thành tựu hai pháp ấy thì sống khổ."
 
 === AN 2.184
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp thì sống lạc. Hai pháp nào? Không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, thành tựu hai pháp ấy thì sống lạc."
 
 === AN 2.185
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp đưa đến thối đọa cho vị Tỷ-kheo hữu học. Hai pháp nào? Phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý. Này các thầy, đó là hai pháp đưa đến thối đọa cho vị Tỷ-kheo hữu học."
 
 === AN 2.186
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, có hai pháp đưa đến không thối đọa cho vị Tỷ-kheo hữu học. Hai pháp nào? Không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, đó là hai pháp đưa đến không thối đọa cho vị Tỷ-kheo hữu học."
 
 === AN 2.187
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp thì như bị mang đi đặt vào địa ngục. Hai pháp nào? Phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý. Này các thầy, thành tựu hai pháp ấy thì như bị mang đi đặt vào địa ngục."
 
 === AN 2.188
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp thì như bị mang đi đặt vào cõi trời. Hai pháp nào? Không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, thành tựu hai pháp ấy thì như bị mang đi đặt vào cõi trời."
 
 === AN 2.189
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp, ở đây có người sau khi thân hoại mạng chung sinh vào đọa xứ, ác thú, đọa lạc, địa ngục. Hai pháp nào? Phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý. Này các thầy, thành tựu hai pháp ấy, ở đây có người sau khi thân hoại mạng chung sinh vào đọa xứ, ác thú, đọa lạc, địa ngục."
 
 === AN 2.190
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, thành tựu hai pháp, ở đây có người sau khi thân hoại mạng chung sinh vào thiện thú, cõi trời, thế gian. Hai pháp nào? Không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, thành tựu hai pháp ấy, ở đây có người sau khi thân hoại mạng chung sinh vào thiện thú, cõi trời, thế gian."
+
+#strong[(Hết trùng tụng về phẫn nộ.)]
 
 === AN 2.191
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#strong[Trùng tụng về bất thiện]
+
+#super[1] "Này các thầy, có hai pháp bất thiện, hai pháp thiện, hai pháp có tội, hai pháp không tội, hai pháp đưa đến khổ, hai pháp đưa đến lạc, hai pháp có quả khổ, hai pháp có quả lạc, hai pháp có hại, hai pháp không hại. Với các pháp bất thiện, có tội, đưa đến khổ, có quả khổ, có hại: phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý. Với các pháp thiện, không tội, đưa đến lạc, có quả lạc, không hại: không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, đó là hai pháp không hại."
+
+#strong[(Hết trùng tụng về bất thiện.)]
 
 === AN 2.192
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#strong[Trùng tụng về Luật]
 
-=== AN 2.193
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.194
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.195
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.196
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.197
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.198
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.199
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.200
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.201
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
-
-=== AN 2.202
-
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, vì hai lý do mà Như Lai chế định học giới cho các đệ tử. Hai lý do nào? Để Tăng chúng được an ổn, để Tăng chúng được an lạc; để chế ngự những kẻ hành xử xấu, để các Tỷ-kheo hiền thiện được sống an lạc; để phòng hộ các lậu hoặc ngay trong đời này, để ngăn chặn các lậu hoặc thuộc đời sau; để phòng hộ các thù hận ngay trong đời này, để ngăn chặn các thù hận thuộc đời sau; để phòng hộ các lỗi lầm ngay trong đời này, để ngăn chặn các lỗi lầm thuộc đời sau; để phòng hộ các sợ hãi ngay trong đời này, để ngăn chặn các sợ hãi thuộc đời sau; để phòng hộ các pháp bất thiện ngay trong đời này, để ngăn chặn các pháp bất thiện thuộc đời sau; vì lòng từ mẫn đối với hàng cư sĩ, để cắt đứt phe đảng của những Tỷ-kheo ác dục; để những người chưa tin sinh lòng tin, để những người đã tin được tăng trưởng; để Chánh pháp được trụ vững, để nâng đỡ Luật. Này các thầy, vì hai lý do ấy mà Như Lai chế định học giới cho các đệ tử."
 
 === AN 2.202–2.230 (nhóm kinh viết tắt trùng tụng)
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, vì hai lý do mà Như Lai chế định cho các đệ tử: Ba-la-đề-mộc-xoa; sự tụng Ba-la-đề-mộc-xoa; sự đình chỉ Ba-la-đề-mộc-xoa; lễ tự tứ; sự đình chỉ lễ tự tứ; tác pháp khiển trách; tác pháp chỉ định; tác pháp trục xuất; tác pháp bắt sám hối; tác pháp cử tội; cho phép sống biệt trú; bắt trở lại từ đầu; cho phép mānatta; lễ phục vị; sự nhận vào; sự trục xuất ra; lễ thọ cụ túc; tác pháp bằng động nghị; tác pháp động nghị lần thứ hai; tác pháp động nghị lần thứ tư; chế định điều chưa được chế định; tùy chế định điều đã được chế định; luật giải quyết trước mặt; luật giải quyết bằng niệm; luật giải quyết vì không điên; xử theo sự nhận; xử theo số đông; xử kẻ ngoan cố; phủ cỏ lên. Hai lý do nào? Để Tăng chúng được an ổn, để Tăng chúng được an lạc; để chế ngự những kẻ hành xử xấu, để các Tỷ-kheo hiền thiện được sống an lạc; để phòng hộ các lậu hoặc ngay trong đời này, để ngăn chặn các lậu hoặc thuộc đời sau; để phòng hộ các thù hận ngay trong đời này, để ngăn chặn các thù hận thuộc đời sau; để phòng hộ các lỗi lầm ngay trong đời này, để ngăn chặn các lỗi lầm thuộc đời sau; để phòng hộ các sợ hãi ngay trong đời này, để ngăn chặn các sợ hãi thuộc đời sau; để phòng hộ các pháp bất thiện ngay trong đời này, để ngăn chặn các pháp bất thiện thuộc đời sau; vì lòng từ mẫn đối với hàng cư sĩ, để cắt đứt phe đảng của những Tỷ-kheo ác dục; để những người chưa tin sinh lòng tin, để những người đã tin được tăng trưởng; để Chánh pháp được trụ vững, để nâng đỡ Luật. Này các thầy, vì hai lý do ấy mà Như Lai chế định cho các đệ tử sự phủ cỏ lên."
 
-=== AN 2.204
+#strong[(Hết trùng tụng về Luật.)]
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+=== AN 2.194
+
+#strong[Trùng tụng về tham]
+
+#super[1] "Này các thầy, để thắng tri tham, cần tu tập hai pháp. Hai pháp nào? Chỉ và quán. Này các thầy, để thắng tri tham, hai pháp ấy cần được tu tập. Cũng vậy, để liễu tri tham, để đoạn tận tham, để đoạn trừ tham, để diệt tận tham, để tham tàn lụi, để ly tham, để diệt tham, để xả tham, để từ bỏ tham, cần tu tập hai pháp: chỉ và quán."
 
 === AN 2.232–2.246 (nhóm kinh viết tắt trùng tụng)
 
-#emph[(Kinh này chưa dịch xong — xem ghi chú tiến độ ở đầu tập.)]
+#super[1] "Này các thầy, để thắng tri sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu, phóng dật, cần tu tập hai pháp. Hai pháp nào? Chỉ và quán. Này các thầy, để thắng tri phóng dật, hai pháp ấy cần được tu tập. Cũng vậy, để liễu tri, để đoạn tận, để đoạn trừ, để diệt tận, để tàn lụi, để ly tham, để diệt, để xả, để từ bỏ phóng dật — và tương tự đối với sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu — cần tu tập hai pháp: chỉ và quán."
+
+Thế Tôn đã thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
+
+#strong[(Hết trùng tụng về tham.)]
+
+#strong[(Hết Kinh Dukanipāta — Hai Pháp.)]

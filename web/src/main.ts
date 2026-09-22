@@ -72,6 +72,9 @@ function flushPlace(): void {
 function applySettings() {
   document.documentElement.dataset.theme = settings.theme;
   document.documentElement.style.setProperty("--font-size", `${settings.fontSize}rem`);
+  const themeColor = settings.theme === "night" ? "#1b1814" : settings.theme === "sepia" ? "#ead7b2" : "#f3ead6";
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.setAttribute("content", themeColor);
 }
 
 function parseHash(): string[] {
@@ -82,6 +85,7 @@ function parseHash(): string[] {
 async function route() {
   if (!catalog) return;
   tocOpen = false;
+  document.body.classList.remove("toc-lock");
   const segs = parseHash();
   if (segs.length === 0) {
     renderShelf(catalog);
@@ -151,6 +155,26 @@ function renderShelf(cat: Catalog) {
       }
     });
   });
+  bindShelfPhysics();
+}
+
+function bindShelfPhysics(): void {
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const coarse = window.matchMedia("(hover: none)").matches;
+  if (reduce || coarse) return;
+  app.querySelectorAll<HTMLElement>(".cover").forEach((el) => {
+    el.addEventListener("pointermove", (ev) => {
+      const r = el.getBoundingClientRect();
+      const x = (ev.clientX - r.left) / r.width - 0.5;
+      const y = (ev.clientY - r.top) / r.height - 0.5;
+      el.style.setProperty("--tilt-x", `${(-y * 9).toFixed(2)}deg`);
+      el.style.setProperty("--tilt-y", `${(x * 12 - 6).toFixed(2)}deg`);
+    });
+    el.addEventListener("pointerleave", () => {
+      el.style.removeProperty("--tilt-x");
+      el.style.removeProperty("--tilt-y");
+    });
+  });
 }
 
 function continueCard(rec: Place): string {
@@ -190,8 +214,10 @@ function shelfRow(col: Collection): string {
     <section class="shelf col-${escapeAttr(col.id)}" id="shelf-${escapeAttr(col.id)}">
       <h2>${escapeHtml(col.title)}</h2>
       <p class="blurb">${escapeHtml(col.blurb)}</p>
-      <div class="shelf-plank">
-        ${col.volumes.map((v) => cover(col, v)).join("")}
+      <div class="shelf-bay">
+        <div class="shelf-plank">
+          ${col.volumes.map((v) => cover(col, v)).join("")}
+        </div>
       </div>
     </section>
   `;
@@ -207,6 +233,7 @@ function cover(col: Collection, v: CatNode): string {
         <span class="cover-title">${escapeHtml(v.title)}</span>
         <span class="cover-meta">${n} mục</span>
       </span>
+      <span class="cover-pages" aria-hidden="true"></span>
     </a>
   `;
 }
@@ -363,6 +390,7 @@ function setTocOpen(open: boolean): void {
   tocOpen = open;
   app.querySelector(".reader")?.classList.toggle("toc-open", open);
   app.querySelector("#reader-toc")?.classList.toggle("open", open);
+  document.body.classList.toggle("toc-lock", open);
   if (open) requestAnimationFrame(revealActiveToc);
 }
 
@@ -560,11 +588,9 @@ function topBar(brand: string, sub: string, reader: boolean, _route?: string): s
         }
         ${
           reader
-            ? `<span class="settings">
-                <button class="icon-btn" type="button" data-act="smaller" title="Chữ nhỏ hơn">A−</button>
-                <button class="icon-btn" type="button" data-act="bigger" title="Chữ lớn hơn">A+</button>
-                <button class="icon-btn" type="button" data-act="theme" title="Đổi nền giấy">${themeLabel()}</button>
-              </span>`
+            ? `<button class="icon-btn type-size" type="button" data-act="smaller" title="Chữ nhỏ hơn">A−</button>
+               <button class="icon-btn type-size" type="button" data-act="bigger" title="Chữ lớn hơn">A+</button>
+               <button class="icon-btn" type="button" data-act="theme" title="Đổi nền giấy">${themeLabel()}</button>`
             : ""
         }
       </nav>

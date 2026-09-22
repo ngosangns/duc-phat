@@ -46,6 +46,11 @@ UDDANA = re.compile(r"^(Tassuddānaṃ|Idaṃ vaggānamuddānaṃ|Uddānaṃ)\b"
 LABEL_ITEM = re.compile(
     r"^[^\s]+(paṇṇāsakaṃ|peyyālaṃ|peyyālo|vaggo|pāḷi)\s*$", re.IGNORECASE
 )
+# "+ + Tênvaggo" hay "+ N. Tênvaggo": tiêu đề vagga lồng trong enum, không
+# có heading `==` riêng (xem mục 14 của docs/independent-translation-guide.md).
+NESTED_VAGGA_NAME = re.compile(
+    r"^(?:\+|\d+\.)\s+([^\s]+vaggo)\s*$", re.IGNORECASE
+)
 
 
 def is_label(text: str) -> bool:
@@ -193,6 +198,17 @@ def parse_file(path: Path):
         if m:
             flush_para(i)
             body = m.group(1).strip()
+            vname = NESTED_VAGGA_NAME.match(body)
+            if vname:
+                # Artefact nguồn: "+ + Tênvaggo" hay "+ N. Tênvaggo" (enum
+                # lồng) đánh dấu vagga mới của một paṇṇāsaka tiếp theo,
+                # không có heading `==` riêng. Mở vagga cấp cao mới, số
+                # tăng tiếp theo vagga hiện tại (bản nguồn không đánh số
+                # lại các vagga lồng này theo cùng hệ với `==`).
+                close_sutta()
+                vagga = {"no": (vagga["no"] + 1) if vagga else 1, "name": vname.group(1)}
+                after_close = False
+                continue
             if LABEL_ITEM.match(body):
                 # Nhãn cấu trúc (vd. "Rāgapeyyālaṃ", "Paṭhamapaṇṇāsakaṃ"), không
                 # phải nội dung kinh: gắn làm tiểu đề cho kinh/nhóm kế tiếp.

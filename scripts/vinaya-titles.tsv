@@ -1,0 +1,638 @@
+pj	1	Verañja
+pj	2	Hành Dâm
+pj	3	Lấy Của Không Cho
+pj	4	Giết Người
+pj	5	Pháp Siêu Nhân
+pj	6	Cố Ý Xuất Tinh
+pj	7	Thân Xúc
+pj	8	Lời Thô Tục
+pj	9	Tự Khen Hầu Hạ
+pj	10	Mai Mối
+pj	11	Làm Cốc
+pj	12	Xây Tịnh Xá
+pj	13	Vu Khống Vô Căn
+pj	14	Vu Khống Có Cớ
+pj	15	Phá Tăng
+pj	16	Theo Phá Tăng
+pj	17	Khó Dạy
+pj	18	Làm Hư Gia Tộc
+pj	19	Bất Định Thứ Nhất
+pj	20	Bất Định Thứ Hai
+pj	21	Kaṭhina Thứ Nhất
+pj	22	Kho Y
+pj	23	Kaṭhina Thứ Ba
+pj	24	Y Cũ
+pj	25	Nhận Y
+pj	26	Xin Y Người Lạ
+pj	27	Xin Quá Mức
+pj	28	Y Đã Sắm
+pj	29	Y Đã Sắm Thứ Hai
+pj	30	Vua
+pj	31	Tơ Tằm
+pj	32	Len Đen Thuần
+pj	33	Hai Phần
+pj	34	Sáu Năm
+pj	35	Tọa Cụ Thảm
+pj	36	Lông Chiên
+pj	37	Giặt Lông Chiên
+pj	38	Vàng Bạc
+pj	39	Giao Dịch Vàng Bạc
+pj	40	Mua Bán
+pj	41	Bát
+pj	42	Bát Chưa Đủ Năm Chỗ Vá
+pj	43	Thuốc
+pj	44	Y Tắm Mưa
+pj	45	Đoạt Y
+pj	46	Xin Chỉ
+pj	47	Thợ Dệt
+pj	48	Y Cấp Tốc
+pj	49	Trú Xứ Nguy Hiểm
+pj	50	Lợi Dưỡng Đã Hồi Hướng
+pc	1	Nói Dối
+pc	2	Mắng Nhiếc
+pc	3	Nói Đâm Thọc
+pc	4	Dạy Pháp Từng Câu
+pc	5	Nằm Chung
+pc	6	Nằm Chung Với Người Nữ
+pc	7	Thuyết Pháp Cho Người Nữ
+pc	8	Tuyên Bố Pháp Thượng Nhân
+pc	9	Tuyên Bố Tội Thô
+pc	10	Đào Đất
+pc	11	Hủy Hoại Cây Cỏ
+pc	12	Trả Lời Lạc Đề
+pc	13	Gièm Pha
+pc	14	Dụng Cụ Nằm Thứ Nhất
+pc	15	Dụng Cụ Nằm Thứ Hai
+pc	16	Chen Vào Nằm
+pc	17	Đuổi Ra
+pc	18	Cốc Trên Gác
+pc	19	Tịnh Xá Lớn
+pc	20	Nước Có Sinh Vật
+pc	21	Giáo Giới
+pc	22	Mặt Trời Lặn
+pc	23	Ni Viện
+pc	24	Vì Vật Thực
+pc	25	Cho Y
+pc	26	May Y
+pc	27	Hẹn Đi Chung
+pc	28	Lên Thuyền
+pc	29	Sắm Sẵn
+pc	30	Ngồi Chỗ Kín
+pc	31	Cơm Nhà Trọ
+pc	32	Ăn Chung Nhóm
+pc	33	Ăn Bữa Khác
+pc	34	Mẹ Của Kāṇā
+pc	35	Từ Chối Lần Thứ Nhất
+pc	36	Từ Chối Lần Thứ Hai
+pc	37	Ăn Phi Thời
+pc	38	Tích Trữ Thức Ăn
+pc	39	Thực Phẩm Hảo Hạng
+pc	40	Tăm Xỉa Răng
+pc	41	Lõa Thể
+pc	42	Khiển Đi
+pc	43	Nhà Có Vợ Chồng
+pc	44	Ngồi Chỗ Che Kín
+pc	45	Ngồi Riêng Chỗ Kín
+pc	46	Đi Thăm Nhà
+pc	47	Mahānāma
+pc	48	Xem Quân Xuất Trận
+pc	49	Ở Trong Quân
+pc	50	Xem Chiến Trận
+pc	51	Uống Rượu
+pc	52	Chọc Lét
+pc	53	Đùa Giỡn Dưới Nước
+pc	54	Bất Kính
+pc	55	Dọa Sợ
+pc	56	Đốt Lửa
+pc	57	Tắm
+pc	58	Làm Hoại Sắc
+pc	59	Nguyện Y
+pc	60	Cất Giấu Y
+pc	61	Cố Ý Đoạt Mạng
+pc	62	Nước Có Sinh Vật
+pc	63	Khuấy Lại Việc Đã Xử
+pc	64	Che Giấu Tội Thô
+pc	65	Chưa Đủ Hai Mươi Tuổi
+pc	66	Đoàn Lữ Hành Trộm Cướp
+pc	67	Hẹn Đi Với Người Nữ
+pc	68	Ariṭṭha
+pc	69	Thụ Dụng Với Người Bị Cử
+pc	70	Kaṇṭaka
+pc	71	Không Chịu Học
+pc	72	Chê Bai Điều Học
+pc	73	Gây Mê Mờ
+pc	74	Đánh Đập
+pc	75	Giơ Tay Đe Dọa
+pc	76	Vu Không Tăng Tàn
+pc	77	Cố Ý Làm Lo
+pc	78	Nghe Lén
+pc	79	Cản Tác Pháp
+pc	80	Đi Không Gửi Dục
+pc	81	Phàn Nàn Về Y
+pc	82	Chuyển Hướng Lợi Dưỡng
+pc	83	Nội Cung
+pc	84	Bảo Vật
+pc	85	Vào Làng Phi Thời
+pc	86	Ống Đựng Kim
+pc	87	Giường Ghế
+pc	88	Bọc Bông
+pc	89	Tọa Cụ
+pc	90	Vải Che Ngứa
+pc	91	Y Tắm Mưa
+pc	92	Y Thiện Thệ
+pc	93	Ưng Phát Lộ Thứ Nhất
+pc	94	Ưng Phát Lộ Thứ Hai
+pc	95	Ưng Phát Lộ Thứ Ba
+pc	96	Ưng Phát Lộ Thứ Tư
+pc	97	Phẩm Tròn Đều
+pc	98	Phẩm Cười Lớn
+pc	99	Phẩm Chống Hông
+pc	100	Phẩm Kính Cẩn
+pc	101	Phẩm Miếng Ăn
+pc	102	Phẩm Húp Sột Soạt
+pc	103	Phẩm Guốc
+pc	104	Bảy Pháp Diệt Tránh
+pc	105	Kết Thúc Đại Phân Tích
+pc	106	Sờ Thân
+pc	107	Che Giấu Tội
+pc	108	Tùy Thuận Kẻ Bị Cử
+pc	109	Tám Việc
+pc	110	Kiện Cáo
+pc	111	Xuất Gia Cho Nữ Tặc
+pc	112	Đi Một Mình
+pc	113	Phục Vị Không Hỏi
+pc	114	Nhận Thức Ăn Nhiễm Ái
+pc	115	Xúi Nhận Thức Ăn
+pc	116	Chối Bỏ Đạo
+pc	117	Nói Tăng Thiên Vị
+pc	118	Sống Xen Tạp
+pc	119	Xúi Sống Xen Tạp
+pc	120	Tích Trữ Bát
+pc	121	Y Phi Thời
+pc	122	Đoạt Lại Y
+pc	123	Xin Khác Vật
+pc	124	Đổi Khác Vật
+pc	125	Dùng Vật Tăng Khác Việc
+pc	126	Tự Xin Dùng Vật Tăng
+pc	127	Dùng Vật Nhóm Khác Việc
+pc	128	Tự Xin Dùng Vật Nhóm
+pc	129	Tự Xin Dùng Vật Cá Nhân
+pc	130	Y Phủ Nặng
+pc	131	Y Phủ Nhẹ
+pc	132	Ăn Tỏi
+pc	133	Cạo Lông Chỗ Kín
+pc	134	Vỗ Chỗ Kín
+pc	135	Dụng Cụ Nhựa
+pc	136	Rửa Nước Sâu
+pc	137	Hầu Tỷ-kheo Ăn
+pc	138	Ngũ Cốc Sống
+pc	139	Đổ Phân Ra Ngoài Tường
+pc	140	Đổ Phân Trên Cây Xanh
+pc	141	Xem Múa Hát
+pc	142	Đứng Nói Trong Bóng Tối
+pc	143	Đứng Nói Nơi Kín
+pc	144	Đứng Nói Nơi Trống
+pc	145	Đứng Nói Giữa Đường
+pc	146	Bỏ Đi Trước Bữa
+pc	147	Ngồi Sau Bữa
+pc	148	Trải Nằm Phi Thời
+pc	149	Phàn Nàn Vì Hiểu Lầm
+pc	150	Nguyền Rủa
+pc	151	Tự Đánh Rồi Khóc
+pc	152	Tắm Trần
+pc	153	Y Tắm Quá Cỡ
+pc	154	Tháo Y Không May Lại
+pc	155	Quá Năm Ngày Không Mang Y
+pc	156	Mặc Y Của Người Khác
+pc	157	Ngăn Lợi Y Của Chúng
+pc	158	Ngăn Chia Y Đúng Pháp
+pc	159	Cho Y Sa-môn Cho Cư Sĩ
+pc	160	Để Lỡ Thời Y
+pc	161	Ngăn Tháo Kaṭhina
+pc	162	Hai Người Một Giường
+pc	163	Chung Nệm Chung Mền
+pc	164	Cố Ý Làm Khó Chịu
+pc	165	Không Chăm Người Bệnh
+pc	166	Cho Trú Xứ Rồi Đuổi
+pc	167	Sống Thân Cận Cư Sĩ
+pc	168	Du Hành Trong Nước Nguy Hiểm
+pc	169	Du Hành Ngoài Nước Nguy Hiểm
+pc	170	Du Hành Trong An Cư
+pc	171	Không Ra Đi Sau An Cư
+pc	172	Xem Cung Điện Vườn Hoa
+pc	173	Dùng Giường Cao Ghế Thú
+pc	174	Kéo Sợi
+pc	175	Làm Việc Cho Cư Sĩ
+pc	176	Không Dàn Xếp Tranh Sự
+pc	177	Cho Đồ Ăn Đến Cư Sĩ
+pc	178	Không Giao Lại Y Trú Xứ
+pc	179	Không Giao Lại Trú Xứ
+pc	180	Học Minh Thế Tục
+pc	181	Dạy Minh Thế Tục
+pc	182	Vào Tịnh Xá Không Hỏi Phép
+pc	183	Mắng Nhiếc Tỷ-Kheo
+pc	184	Nhiếc Mắng Hội Chúng
+pc	185	Ăn Sau Khi Đã Được Mời
+pc	186	Keo Kiệt Về Gia Đình
+pc	187	An Cư Nơi Không Có Tỷ-Kheo
+pc	188	Không Tự Tứ Với Hai Bộ Tăng
+pc	189	Không Đi Giáo Giới
+pc	190	Không Xin Giáo Giới Nửa Tháng
+pc	191	Mổ Nhọt Với Người Nam
+pc	192	Cho Cụ Túc Người Có Thai
+pc	193	Cho Cụ Túc Người Đang Cho Bú
+pc	194	Thức-Xoa Chưa Học Hai Năm
+pc	195	Thức-Xoa Chưa Được Phép
+pc	196	Người Tại Gia Dưới Mười Hai Tuổi
+pc	197	Người Tại Gia Chưa Học Hai Năm
+pc	198	Người Tại Gia Chưa Được Phép
+pc	199	Không Nâng Đỡ Đệ Tử Hai Năm
+pc	200	Không Theo Hòa Thượng Ni Hai Năm
+pc	201	Không Đưa Đệ Tử Đi Xa
+pc	202	Thiếu Nữ Dưới Hai Mươi Tuổi
+pc	203	Thiếu Nữ Chưa Học Hai Năm
+pc	204	Thiếu Nữ Chưa Được Phép
+pc	205	Hòa Thượng Ni Dưới Mười Hai Hạ
+pc	206	Hòa Thượng Ni Chưa Được Phép
+pc	207	Phàn Nàn Sau Khi Đã Nhận
+pc	208	Hứa Cụ Túc Đổi Lấy Y
+pc	209	Hứa Cụ Túc Đổi Lấy Sự Theo Hầu
+pc	210	Cho Cụ Túc Thức-Xoa Hung Hăng
+pc	211	Không Được Cha Mẹ Chồng Cho Phép
+pc	212	Hội Chúng Đã Giải Tán
+pc	213	Cho Cụ Túc Mỗi Năm
+pc	214	Cho Cụ Túc Hai Người Một Năm
+pc	215	Cầm Lọng Và Dép
+pc	216	Đi Xe
+pc	217	Đeo Dây Thắt Lưng
+pc	218	Đồ Trang Sức Nữ
+pc	219	Tắm Bằng Chất Thơm Nhuộm
+pc	220	Tắm Bằng Bã Mè Ướp Hương
+pc	221	Nhờ Tỷ-Kheo-Ni Xoa Bóp
+pc	222	Nhờ Người Khác Xoa Bóp
+pc	223	Ngồi Trước Tỷ-Kheo
+pc	224	Hỏi Pháp Không Xin Phép
+pc	225	Vào Làng Không Áo Lót
+pc	226	Tám Ưng Phát Lộ
+pc	227	Phẩm Tròn Đều
+pc	228	Phẩm Guốc
+pc	229	Bảy Diệt Tránh
+pc	230	Kết Thúc Tụng Giới Ni
+mv	1	Chuyện Bồ-đề
+mv	2	Chuyện Ajapāla
+mv	3	Chuyện Mucalinda
+mv	4	Chuyện Rājāyatana
+mv	5	Phạm Thiên Thỉnh Cầu
+mv	6	Chuyện Năm Vị
+mv	7	Chuyện Xuất Gia
+mv	8	Chuyện Ác Ma
+mv	9	Xuất Gia Và Cụ Túc
+mv	10	Chuyện Ác Ma Thứ Hai
+mv	11	Chuyện Nhóm Bhadda
+mv	12	Thần Thông Uruvelā
+mv	13	Gặp Vua Bimbisāra
+mv	14	Xuất gia của Sāriputta và Moggallāna
+mv	15	Pháp của hòa thượng
+mv	16	Pháp của đệ tử cộng trú
+mv	17	Trục xuất
+mv	18	Pháp của a-xà-lê
+mv	19	Pháp của đệ tử nội trú
+mv	20	Kẻ ngu si, không thông hiểu
+mv	21	Chấm dứt y chỉ
+mv	22	Năm pháp được cho cụ túc
+mv	23	Sáu pháp được cho cụ túc
+mv	24	Người Trước Theo Ngoại Đạo
+mv	25	Năm Bệnh
+mv	26	Lính Nhà Vua
+mv	27	Tên Cướp Aṅgulimāla
+mv	28	Tù Vượt Ngục
+mv	29	Tội Phạm Bị Ghi Án
+mv	30	Người Bị Đánh Roi
+mv	31	Người Bị Đóng Dấu
+mv	32	Người Mắc Nợ
+mv	33	Nô Lệ
+mv	34	Con Thợ Rèn
+mv	35	Cậu Bé Upāli
+mv	36	Bệnh Dịch
+mv	37	Kaṇṭaka
+mv	38	Ở Lỳ Một Chỗ
+mv	39	Giải Y Chỉ
+mv	40	Rāhula
+mv	41	Điều Học Sa-Di
+mv	42	Hình Phạt
+mv	43	Cấm Chưa Hỏi
+mv	44	Lôi Kéo
+mv	45	Người Bán Nam
+mv	46	Trộm Sống Chung
+mv	47	Súc Sinh
+mv	48	Giết Mẹ
+mv	49	Giết Cha
+mv	50	Giết A-La-Hán
+mv	51	Ô Nhiễm Tỷ-Kheo-Ni
+mv	52	Người Lưỡng Tính
+mv	53	Không Bát
+mv	54	Ba Mươi Hai Không Được Xuất Gia
+mv	55	Hai Người Cầu Cụ Túc
+mv	56	Khandhaka Bố-Tát
+mv	57	Mahākappina
+mv	58	Nhà Bố-tát
+mv	59	Hỏi Luật
+mv	60	Đáp Luật
+mv	61	Cử Tội
+mv	62	Đi Phương Khác
+mv	63	Trao Thanh Tịnh
+mv	64	Trao Dục
+mv	65	Bị Thân Quyến Bắt
+mv	66	Phân Loại Bố-tát
+mv	67	Mười Lăm Vô Tội
+mv	68	Mười Lăm Tưởng Bất Hòa
+mv	69	Mười Lăm Nghi
+mv	70	Mười Lăm Hối Tiếc
+mv	71	Mười Lăm Cố Ý Phá Hòa
+mv	72	Trùng Tụng Bước Vào Giới
+mv	73	Thấy Tướng
+mv	74	Bố-tát Với Khác Cộng Trú
+mv	75	Không Được Đi
+mv	76	Được Đi
+mv	77	Cho Phép Nhập An Cư
+mv	78	Năm Hạng Không Mời
+mv	79	Bảy Hạng Không Mời
+mv	80	Chỉ Khi Được Mời
+mv	81	An Cư Không An Ổn
+mv	82	Bị Thân Quyến Bắt
+mv	83	Mười Lăm Vô Tội
+mv	84	Mười Lăm Tưởng Bất Hòa
+mv	85	Mười Lăm Nghi Ngờ
+mv	86	Mười Lăm Do Dự
+mv	87	Mười Lăm Vì Phá Hòa Hợp
+mv	88	Peyyāla Trong Giới
+mv	89	Khác Ngày
+mv	90	Thấy Tướng Mạo
+mv	91	Không Được Đi
+mv	92	Được Đi
+mv	93	Đình Chỉ Tự Tứ
+mv	94	Kẻ Gây Tranh Cãi
+mv	95	Gom Tự Tứ
+mv	96	Soṇa Koḷivisa
+mv	97	Cấm Dép Nhiều Lớp
+mv	98	Cấm Dép Toàn Màu
+mv	99	Cấm Dép Trong Tịnh Xá
+mv	100	Cấm Guốc Gỗ
+mv	101	Cấm Xe Cộ
+mv	102	Cấm Giường Cao Rộng
+mv	103	Cấm Mọi Loại Da
+mv	104	Soṇa Kuṭikaṇṇa
+mv	105	Năm Dược Phẩm
+mv	106	Dược Phẩm Từ Rễ
+mv	107	Chuyện Pilindavaccha
+mv	108	Cho Phép Đường Mía
+mv	109	Cấm Cất Nấu Bên Trong
+mv	110	Cho Phép Vật Đã Nhận
+mv	111	Cấm Phẫu Thuật
+mv	112	Cấm Thịt Người
+mv	113	Cấm Thịt Voi
+mv	114	Đại Thần Mới Tịnh Tín
+mv	115	Chuyện Belaṭṭha Kaccāna
+mv	116	Chuyện Dân Pāṭaligāma
+mv	117	Chuyện Sunidha Và Vassakāra
+mv	118	Bốn Thánh Đế Ở Koṭigāma
+mv	119	Chuyện Ambapālī
+mv	120	Chuyện Licchavī
+mv	121	Chuyện Tướng Quân Sīha
+mv	122	Cho Phép Chỗ Hợp Lệ
+mv	123	Chuyện Gia Chủ Meṇḍaka
+mv	124	Cho Phép Năm Vị Sữa
+mv	125	Chuyện Ẩn Sĩ Keṇiya
+mv	126	Chuyện Roja Người Malla
+mv	127	Chuyện Người Xuất Gia Già
+mv	128	Bốn Đại Giáo
+mv	129	Cho Phép Kaṭhina
+mv	130	Bảy Pháp Cầm Y
+mv	131	Bảy Pháp Mang Y Theo
+mv	132	Sáu Pháp Cầm Y Dở Dang
+mv	133	Sáu Pháp Mang Y Dở Dang
+mv	134	Mười Lăm Pháp Cầm Y
+mv	135	Mười Lăm Pháp Mang Y Dở Dang
+mv	136	Mười Hai Pháp Không Theo Hy Vọng
+mv	137	Mười Hai Pháp Theo Hy Vọng
+mv	138	Mười Hai Pháp Vì Việc Cần Làm
+mv	139	Chín Pháp Không Bỏ Phần Y
+mv	140	Năm Pháp Vì Chỗ Ở An Ổn
+mv	141	Chướng Ngại Và Không Chướng Ngại
+mv	142	Chuyện Jīvaka
+mv	143	Chuyện Vợ Trưởng Giả
+mv	144	Chuyện Vua Bimbisāra
+mv	145	Chuyện Trưởng Giả Rājagaha
+mv	146	Chuyện Con Trưởng Giả
+mv	147	Chuyện Vua Pajjota
+mv	148	Chuyện Đôi Vải Sivi
+mv	149	Chuyện Tẩy Ba Mươi Lần
+mv	150	Chuyện Xin Đặc Ân
+mv	151	Cho Phép Y Len
+mv	152	Tìm Y Phấn Tảo
+mv	153	Chỉ Định Người Nhận Y
+mv	154	Chỉ Định Kho
+mv	155	Nhuộm Y
+mv	156	Y Dư
+mv	157	Chuyện Visākhā
+mv	158	Cho Phép Tọa Cụ
+mv	159	Y Tối Thiểu Được Ủy Thác
+mv	160	Y Của Tăng Phát Sinh
+mv	161	Chuyện Upananda Thích Tử
+mv	162	Chuyện Người Bệnh
+mv	163	Di Sản Người Mất
+mv	164	Cấm Ở Trần
+mv	165	Cấm Y Cỏ Kusa
+mv	166	Cấm Y Toàn Xanh
+mv	167	Y Chưa Phát Sinh Sau An Cư
+mv	168	Y Phát Sinh Khi Tăng Phá
+mv	169	Lấy Đúng Lấy Sai
+mv	170	Chuyện Tỷ-kheo Kassapagotta
+mv	171	Tác Pháp Phi Pháp Bất Hòa
+mv	172	Tác Pháp Thiếu Bạch
+mv	173	Tác Pháp Chúng Bốn
+mv	174	Tỷ-Kheo Biệt Trú
+mv	175	Hai Sự Trục Xuất
+mv	176	Tác Pháp Phi Pháp
+mv	177	Tôn Giả Upāli Hỏi
+mv	178	Tác Pháp Khiển Trách
+mv	179	Tác Pháp Y Chỉ
+mv	180	Tác Pháp Trục Xuất
+mv	181	Tác Pháp Bắt Sám Hối
+mv	182	Cử Tội Vì Không Thấy
+mv	183	Cử Tội Vì Không Sửa Trị
+mv	184	Cử Tội Vì Không Từ Bỏ
+mv	185	Dứt Tác Pháp Khiển Trách
+mv	186	Dứt Tác Pháp Y Chỉ
+mv	187	Dứt Tác Pháp Trục Xuất
+mv	188	Dứt Tác Pháp Bắt Sám Hối
+mv	189	Dứt Cử Tội Vì Không Thấy
+mv	190	Dứt Cử Tội Vì Không Sửa Trị
+mv	191	Dứt Cử Tội Vì Không Từ Bỏ
+mv	192	Tranh Luận Khiển Trách
+mv	193	Tranh Luận Tác Pháp Y Chỉ
+mv	194	Tranh Luận Tác Pháp Trục Xuất
+mv	195	Tranh Luận Bắt Sám Hối
+mv	196	Tranh Luận Cử Tội Không Thấy
+mv	197	Tranh Luận Cử Tội Không Sửa
+mv	198	Tranh Luận Cử Tội Không Từ Bỏ
+mv	199	Tranh Luận Dứt Khiển Trách
+mv	200	Tranh Luận Dứt Y Chỉ
+mv	201	Tranh Luận Dứt Trục Xuất
+mv	202	Tranh Luận Dứt Bắt Sám Hối
+mv	203	Tranh Luận Dứt Cử Tội Không Thấy
+mv	204	Tranh Luận Dứt Cử Tội Không Sửa
+mv	205	Tranh Luận Dứt Cử Tội Không Từ Bỏ
+mv	206	Tranh Chấp Ở Kosambī
+mv	207	Chuyện Dīghāvu
+mv	208	Đi Đến Bālakaloṇaka
+mv	209	Đi Đến Rừng Pācīnavaṃsa
+mv	210	Đi Đến Pālileyyaka
+mv	211	Mười Tám Sự
+mv	212	Cho Phép Thu Nhận Lại
+mv	213	Hòa Hợp Tăng
+mv	214	Upāli Hỏi Hòa Hợp Tăng
+cv	1	Tác Pháp Khiển Trách
+cv	2	Mười Hai Tác Pháp Phi Pháp
+cv	3	Mười Hai Tác Pháp Như Pháp
+cv	4	Sáu Trường Hợp Tăng Muốn
+cv	5	Mười Tám Oai Nghi
+cv	6	Tác Pháp Y Chỉ
+cv	7	Mười Hai Tác Pháp Phi Pháp
+cv	8	Mười Hai Tác Pháp Như Pháp
+cv	9	Sáu Trường Hợp Tăng Muốn
+cv	10	Mười Tám Oai Nghi
+cv	11	Tác Pháp Trục Xuất
+cv	12	Mười Hai Tác Pháp Phi Pháp
+cv	13	Mười Hai Tác Pháp Như Pháp
+cv	14	Mười Bốn Trường Hợp Tăng Muốn
+cv	15	Mười Tám Oai Nghi
+cv	16	Tác Pháp Khiến Sám
+cv	17	Mười Hai Tác Pháp Phi Pháp
+cv	18	Mười Hai Tác Pháp Như Pháp
+cv	19	Mười Tám Oai Nghi
+cv	20	Tác Pháp Cử Tội Không Thấy Tội
+cv	21	Mười Hai Tác Pháp Phi Pháp
+cv	22	Mười Hai Tác Pháp Như Pháp
+cv	23	Sáu Trường Hợp Tăng Muốn
+cv	24	Bốn Mươi Ba Pháp Hành
+cv	25	Cử Tội Vì Không Sửa Trị
+cv	26	Mười Hai Tác Pháp Phi Pháp
+cv	27	Mười Hai Tác Pháp Như Pháp
+cv	28	Sáu Pháp Nếu Tăng Muốn
+cv	29	Bốn Mươi Ba Pháp Hành Không Sửa
+cv	30	Cử Tội Vì Không Từ Bỏ
+cv	31	Mười Hai Tác Pháp Phi Pháp
+cv	32	Mười Hai Tác Pháp Như Pháp
+cv	33	Sáu Pháp Nếu Tăng Muốn
+cv	34	Bốn Mươi Ba Pháp Hành Không Từ Bỏ
+cv	35	Pháp Hành Người Biệt Trú
+cv	36	Pháp Hành Người Đáng Hoàn Nguyên
+cv	37	Pháp Hành Người Đáng Tùy Thuận
+cv	38	Pháp Hành Người Đang Hành Tùy Thuận
+cv	39	Pháp Hành Người Đáng Phục Vị
+cv	40	Kiền-Độ Hợp Tập
+cv	41	Tùy Thuận Không Che Giấu
+cv	42	Phục Vị Không Che Giấu
+cv	43	Biệt Trú Che Giấu Một Ngày
+cv	44	Tùy Thuận Che Giấu Một Ngày
+cv	45	Phục Vị Che Giấu Một Ngày
+cv	46	Biệt Trú Che Giấu Năm Ngày
+cv	47	Hoàn Nguyên Người Biệt Trú
+cv	48	Hoàn Nguyên Người Đáng Tùy Thuận
+cv	49	Tùy Thuận Ba Tội
+cv	50	Hoàn Nguyên Người Hành Tùy Thuận
+cv	51	Hoàn Nguyên Người Đáng Phục Vị
+cv	52	Phục Vị Người Đã Hoàn Nguyên
+cv	53	Biệt Trú Che Giấu Nửa Tháng
+cv	54	Hoàn Nguyên Biệt Trú Nửa Tháng
+cv	55	Biệt Trú Gộp Chung
+cv	56	Tùy Thuận Ba Tội, Nửa Tháng
+cv	57	Phục Vị Che Giấu Nửa Tháng
+cv	58	Biệt Trú Gộp Theo Tội Nặng Nhất
+cv	59	Gộp Chung Theo Che Giấu Lâu Nhất
+cv	60	Biệt Trú Hai Tháng
+cv	61	Biệt Trú Thuần Tịnh
+cv	62	Nhóm Bốn Mươi
+cv	63	Nhóm Ba Mươi Sáu
+cv	64	Một Trăm Tùy Thuận
+cv	65	Bốn Trăm Biệt Trú Gộp
+cv	66	Tám Môn Có Số Lượng
+cv	67	Mười Một Môn Hai Tỷ-kheo
+cv	68	Chín Chưa Thanh Tịnh Từ Căn Bản
+cv	69	Nhóm Chín Thứ Ba
+cv	70	Hiện Tiền
+cv	71	Chín Pháp Phần Đen
+cv	72	Chín Pháp Phần Trắng
+cv	73	Ức Niệm
+cv	74	Bất Si
+cv	75	Tự Nhận
+cv	76	Đa Số
+cv	77	Tìm Tội
+cv	78	Mười Hai Tác Pháp Phi Pháp
+cv	79	Mười Hai Tác Pháp Như Pháp
+cv	80	Sáu Trường Hợp Tăng Muốn
+cv	81	Mười Tám Oai Nghi
+cv	82	Như Cỏ Che
+cv	83	Tránh Sự
+cv	84	Hiện Tiền
+cv	85	Ủy Ban
+cv	86	Diệt Tránh Bằng Đa Số
+cv	87	Ba Cách Lấy Thẻ
+cv	88	Ức Niệm
+cv	89	Bất Si
+cv	90	Diệt Tránh Bằng Tìm Tội
+cv	91	Tự Nhận
+cv	92	Diệt Tránh Bằng Như Cỏ Che
+cv	93	Các Sự Việc Nhỏ
+cv	94	Cho Phép Tinh Xá
+cv	95	Cấm Vẽ Hình
+cv	96	Chuyện Anāthapiṇḍika
+cv	97	Những Người Không Được Đảnh Lễ
+cv	98	Cấm Ngăn Chỗ Ngồi
+cv	99	Tùy Hỷ Tinh Xá Jetavana
+cv	100	Chuyện Vật Không Được Nhường
+cv	101	Chuyện Vật Không Được Chia
+cv	102	Cho Công Việc Mới
+cv	103	Sáu Thích Tử Xuất Gia
+cv	104	Sự Việc Devadatta
+cv	105	Năm Bậc Đạo Sư
+cv	106	Tác Pháp Công Bố
+cv	107	Sự Việc Hoàng Tử Ajātasattu
+cv	108	Sai Người Sát Hại
+cv	109	Việc Làm Chảy Máu
+cv	110	Thả Voi Nāḷāgiri
+cv	111	Xin Năm Việc
+cv	112	Phá Tăng
+cv	113	Tôn Giả Upāli Hỏi
+cv	114	Oai Nghi Khách Tăng
+cv	115	Oai Nghi Trú Tăng
+cv	116	Oai Nghi Tỷ-Kheo Đi Đường
+cv	117	Oai Nghi Tùy Hỷ
+cv	118	Oai Nghi Chỗ Thọ Thực
+cv	119	Oai Nghi Khất Thực
+cv	120	Oai Nghi Sống Rừng
+cv	121	Oai Nghi Sàng Tọa
+cv	122	Pháp Nhà Tắm Hơi
+cv	123	Pháp Nhà Vệ Sinh
+cv	124	Pháp Của Hòa Thượng
+cv	125	Pháp Của Đệ Tử Cộng Trú
+cv	126	Pháp Của A-xà-lê
+cv	127	Pháp Của Đệ Tử Nội Trú
+cv	128	Thỉnh Tuyên Đọc Pātimokkha
+cv	129	Tám Pháp Kỳ Diệu Đại Dương
+cv	130	Tám Pháp Kỳ Diệu Trong Pháp Và Luật
+cv	131	Đáng Nghe Pātimokkha
+cv	132	Đình Chỉ Pātimokkha Như Pháp Và Phi Pháp
+cv	133	Đình Chỉ Pātimokkha Như Pháp
+cv	134	Chi Phần Tự Đảm Nhận
+cv	135	Pháp Người Cáo Tội Phải Quán
+cv	136	Pháp Người Cáo Tội Phải An Trú
+cv	137	Người Cáo Tội Và Bị Cáo
+cv	138	Chuyện Mahāpajāpatī Gotamī
+cv	139	Tám Trọng Pháp
+cv	140	Cho Phép Cụ Túc Tỷ-kheo-ni
+cv	141	Nhân Duyên Kết Tập
+cv	142	Chuyện Điều Học Nhỏ Nhặt
+cv	143	Chuyện Phạm Đàn
+cv	144	Kết Tập Lần II

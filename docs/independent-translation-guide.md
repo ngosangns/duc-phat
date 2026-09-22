@@ -487,16 +487,23 @@ báo tiến độ, và kiểm tra dãy `#super[N]` từng kinh so với gói ngu
 
 ### 14.5. Tiến độ (cập nhật mỗi phiên)
 
-- **Nipāta 1 (Ekakanipāta): đã dịch trọn 323/323 kinh/nhóm** (18 vagga —
-  vagga 15/16 không tồn tại tách riêng trong bản nguồn, đã gộp vào 14 và
-  17 đúng như cấu trúc thật). Biên dịch Typst thành công, không lệch
-  `#super[N]`, không lỗi markup. Tên Việt 18 vagga đã điền trong
-  `scripts/an-vagga-titles.tsv`. Toàn bộ nipāta không có kinh nào có tiêu
-  đề `===` (đúng đặc điểm Ekakanipāta — mọi kinh đều "không tên"), nên
-  không cần `scripts/an-titles.tsv` cho tập này.
-- Nipāta 2–11: chưa bắt đầu dịch, nhưng đã trích xuất thử toàn bộ 11 file,
-  không có cảnh báo (tổng 1939 kinh/nhóm toàn bộ Tăng Chi Bộ, trong đó
-  323 đã dịch xong ở Ekakanipāta, còn lại ~1616).
+- **Cả 11 nipāta đã dịch trọn 1878/1878 kinh/nhóm.** Mỗi tập ghép bằng
+  `assemble-an-translation.py`, dãy `#super[N]` khớp gói nguồn, không còn
+  dòng "chưa dịch xong". Tên Việt vagga trong `scripts/an-vagga-titles.tsv`;
+  tên kinh có tiêu đề `===` trong `scripts/an-titles.tsv`. Nipāta 1 không có
+  kinh nào có tiêu đề `===` (đúng đặc điểm Ekakanipāta).
+- **Lỗi phát hiện và đã sửa trong `extract-an-suttas.py`**: các
+  "Dutiyapaṇṇāsaka"/"Tatiyapaṇṇāsaka"... (năm mươi kinh giữa/cuối) trong
+  Dukanipāta trở đi KHÔNG dùng heading `==` cho vagga đầu tiên của mình —
+  bản nguồn nhúng tên vagga vào một mục enum lồng bên trong khối `(1)
+  numbering`, dạng `+ + Tênvaggo` (Dukanipāta, Tikanipāta, Catukkanipāta,
+  Pañcakanipāta, Navakanipāta, Dasakanipāta, Aṭṭhakanipāta — 18 chỗ) hoặc
+  `+ N. Tênvaggo` (dùng cho vagga thứ 2 trở đi trong cùng nhóm, vd.
+  `+ 2. Sukhavaggo`). Trước khi sửa, các dòng này bị hiểu nhầm thành nội
+  dung kinh, tạo ra "kinh" rác. Đã thêm regex `NESTED_VAGGA_NAME` nhận
+  diện cả hai dạng, mở vagga cấp cao mới (số tăng tiếp theo vagga hiện
+  tại) thay vì tạo kinh giả. Đã chạy lại trích xuất cả 11 file sau khi
+  sửa — không còn cảnh báo, không còn "kinh" 0 đoạn nào.
 - **Lưu ý phát sinh trong lúc dịch Ekakanipāta, áp dụng cho các nipāta
   sau:**
   - Nhãn cấu trúc dạng `+ Xpāḷi` (vd. `Aṭṭhānapāḷi`, `Ekadhammapāḷi` — tên
@@ -513,3 +520,54 @@ báo tiến độ, và kiểm tra dãy `#super[N]` từng kinh so với gói ngu
     Ekakanipāta chứa 7 tiểu-vagga "Paṭhamavaggo"..."Sattamavaggo") — script
     đã xử lý bằng cách giữ nguyên vagga_no/tên cấp cao khi gặp số vagga
     mới ≤ số vagga cấp cao hiện tại (xem mục 14 ở trên).
+
+## 15. Riêng Luật Tạng: pipeline script (4 tập nguồn)
+
+Luật Tạng trong thư viện này gồm 4 tập Pali nguồn (không có Parivāra).
+Đơn vị dịch:
+
+- **Suttavibhaṅga** (`Pārājikapāḷi`, `Pācittiyapāḷi`): từng điều học
+  (sikkhāpada / pārājika); phẩm Ưng học gộp theo vagga; Diệt tránh một
+  đơn vị. Bhikkhunīvibhaṅga nằm cuối `Pācittiyapāḷi`.
+- **Khandhaka** (`Mahāvaggapāḷi`, `Cūḷavaggapāḷi`): từng kathā / vatthu /
+  kamma / vatta trong khandhaka.
+
+Dựng gói nguồn:
+
+```bash
+python3 scripts/extract-vinaya-suttas.py
+```
+
+Xuất `.build/vinaya/<pj|pc|mv|cv>/` kèm `index.json`. Số đoạn `#super[N]`
+đếm lại từ 1 trong từng đơn vị. Marker giống các bộ khác (`[§N]`,
+`[TIỂU ĐỀ]`, `[MỐC KẾT]`, `[TIẾP §N]`, `[MỞ ĐẦU]`, `[PHẦN CUỐI]`).
+Mọi `\[...\]` là dị bản — bỏ, không dịch. `…pe…` nén theo mục 4.
+
+Tên tiếng Việt:
+
+- `scripts/vinaya-chapter-titles.tsv` — `book \t số chương \t tên Việt`
+  (kaṇḍa / khandhaka).
+- `scripts/vinaya-titles.tsv` — `book \t global_no \t tên Việt` (từng đơn vị).
+
+Ghép tập:
+
+```bash
+python3 scripts/assemble-vinaya-translation.py
+```
+
+Đích: `08. Bản Dịch Độc Lập (Từ Pali Gốc)/06. Luật Tạng (Vinayapitaka)/`,
+bốn file `.typ` cùng tên với Pali nguồn. File `.part` gitignored:
+`PJ001.part`, `PC001.part`, `MV001.part`, `CV001.part`. Hướng dẫn agent:
+`docs/vinaya-agent-instructions.md`.
+
+Nếu dịch song song, mỗi agent chỉ ghi file `.part` của mình; bắt buộc có
+vòng hậu kiểm độc lập đối chiếu từng gói nguồn (mục 8).
+
+### 15.1. Tiến độ
+
+Cả bốn tập đã dịch trọn **638/638 đơn vị** (Pj 50, Pc 230, Mv 214, Cv 144).
+Mỗi tập ghép bằng `assemble-vinaya-translation.py`, dãy `#super[N]` khớp
+gói nguồn, không còn dòng "chưa dịch xong". Tên chương trong
+`scripts/vinaya-chapter-titles.tsv`; tên đơn vị trong
+`scripts/vinaya-titles.tsv`. Thư viện này không có Parivāra trong nguồn
+Pali `07.`, nên bản dịch độc lập cũng dừng ở Cūḷavagga.
