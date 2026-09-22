@@ -1,8 +1,8 @@
 # Quy ước dịch các bản dịch độc lập từ Pali gốc
 
 Áp dụng cho toàn bộ nội dung trong thư mục
-`08. Bản Dịch Độc Lập (Từ Pali Gốc)/` — các bản dịch Việt văn thực hiện
-trực tiếp từ nguyên bản Pali trong `07. Tam Tạng Pali Gốc/`, **độc lập**
+`ban-dich-doc-lap-tu-pali-goc/` — các bản dịch Việt văn thực hiện
+trực tiếp từ nguyên bản Pali trong `tam-tang-pali-goc/`, **độc lập**
 với các bản dịch phổ biến (HT. Thích Minh Châu...) đã có sẵn ở thư mục
 gốc của thư viện. File này ghi lại toàn bộ quyết định về phạm vi, cấu
 trúc, văn phong và các lỗi kỹ thuật cần tránh, để giữ nhất quán xuyên
@@ -26,9 +26,9 @@ suốt dự án — vốn sẽ trải dài qua rất nhiều phiên làm việc.
 
 ## 2. Cấu trúc thư mục và file
 
-- Cấu trúc thư mục mirror đúng theo `07. Tam Tạng Pali Gốc/`: mỗi Nikāya
-  một thư mục con cùng tên (`01. Trường Bộ (Dighanikaya)`, `02. Trung Bộ
-  (Majjhimanikaya)`...), mỗi Vagga trong đó một file `.typ` cùng tên với
+- Cấu trúc thư mục mirror đúng theo `tam-tang-pali-goc/`: mỗi Nikāya
+  một thư mục con cùng tên (`truong-bo-dighanikaya`,
+  `trung-bo-majjhimanikaya`...), mỗi Vagga trong đó một file `.typ` cùng tên với
   file Pali gốc tương ứng.
 - Mỗi file mở đầu bằng:
   ```typst
@@ -153,7 +153,7 @@ Phát hiện khi bắt đầu dịch Trung Bộ (152 kinh, 3 file Pali nguồn):
 - Trong 3 file Pali của Trung Bộ, số đoạn được render qua các khối
   `#set enum(numbering: "1.", start: N)` với **bộ đếm chạy liên tục suốt cả
   file**, không đếm lại từ đầu trong mỗi kinh. Ví dụ kinh 2 (Sabbāsava) trong
-  `01. Mulapannasa (50 kinh đầu).typ` bắt đầu từ đoạn **14** thay vì đoạn 1.
+  `mulapannasa-50-kinh-dau.typ` bắt đầu từ đoạn **14** thay vì đoạn 1.
   Nhìn bản PDF Pali sẽ thấy số đoạn tăng dần qua các kinh — đây là lỗi của
   bước convert, không phải cách đánh số của truyền bản.
 - Cách xử lý: **không** dùng số đang render trong file Pali; dựng lại số đoạn
@@ -230,8 +230,8 @@ số đoạn theo kinh (xem mục 3):
 - Tên kinh tiếng Việt lấy từ `scripts/dn-titles.tsv` (giữ nhất quán giữa
   các phiên), không tự đặt tên khác.
 - Ghép lại bằng `python3 scripts/assemble-dn-translation.py --packs
-  .build/dn --parts .parts --out "08. Bản Dịch Độc Lập (Từ Pali Gốc)/01.
-  Trường Bộ (Dighanikaya)"`. Script tự sinh tiêu đề vagga, tiêu đề kinh,
+  .build/dn --parts .parts --out "ban-dich-doc-lap-tu-pali-goc/truong-bo-dighanikaya"`.
+  Script tự sinh tiêu đề vagga, tiêu đề kinh,
   dòng báo tiến độ, và kiểm tra dãy `#super[N]` của từng kinh đã dịch.
 - Biên dịch thử cả ba tập bằng `typst compile` trước khi báo xong.
 - **Lưu ý khi trích dẫn chéo giữa các kinh** (ví dụ Kinh Ambaṭṭha/Soṇadaṇḍa/
@@ -261,7 +261,7 @@ bản nguồn có vagga mất tiêu đề và có vagga đánh số trùng). D�
 
 ```bash
 python3 scripts/extract-sn-suttas.py \
-    "07. Tam Tạng Pali Gốc/03. Tương Ưng Bộ (Samyuttanikaya)/01. Sagathavagga (Phẩm Có Kệ).typ" \
+    "tam-tang-pali-goc/tuong-ung-bo-samyuttanikaya/sagathavagga-pham-co-ke.typ" \
     .build/sn/1 --sam-offset 1 --vagga-file 1
 ```
 
@@ -323,8 +323,8 @@ Khi dịch một gói, người dịch ghi thêm tên vào các file shard
 
 ```bash
 python3 scripts/assemble-sn-translation.py --packs .build/sn \
-    --parts "08. Bản Dịch Độc Lập (Từ Pali Gốc)/03. Tương Ưng Bộ (Samyuttanikaya)/.parts" \
-    --out "08. Bản Dịch Độc Lập (Từ Pali Gốc)/03. Tương Ưng Bộ (Samyuttanikaya)"
+    --parts "ban-dich-doc-lap-tu-pali-goc/tuong-ung-bo-samyuttanikaya/.parts" \
+    --out "ban-dich-doc-lap-tu-pali-goc/tuong-ung-bo-samyuttanikaya"
 ```
 
 Script sinh tiêu đề `== Saṃyutta …`, `=== Vagga …`, `==== Kinh SN.x.y …`,
@@ -393,7 +393,7 @@ python3 scripts/assemble-kn-translation.py
 python3 scripts/check-kn-parts.py
 ```
 
-Đích: `08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)/`,
+Đích: `ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/`,
 chín file `.typ` cùng tên với Pali nguồn. Marker trong gói nguồn giống
 Trường Bộ / Trung Bộ (`[§N]`, `[TIỂU ĐỀ]`, `[MỐC KẾT]`, `[TIẾP §N]`,
 `[MỞ ĐẦU]`, `[PHẦN CUỐI]`). Kệ dịch thành câu thơ Việt, ngắt dòng bằng
@@ -444,7 +444,7 @@ khác hẳn Trường Bộ/Trung Bộ/Tương Ưng Bộ, cần script trích xu�
 
 ```bash
 python3 scripts/extract-an-suttas.py \
-    "07. Tam Tạng Pali Gốc/04. Tăng Chi Bộ (Anguttaranikaya)/01. Ekakanipata (Một Pháp).typ" \
+    "tam-tang-pali-goc/tang-chi-bo-anguttaranikaya/ekakanipata-mot-phap.typ" \
     .build/an/1 --prefix AN1
 ```
 
@@ -476,8 +476,8 @@ mục 3. Một số kinh dài (đặc biệt trong Dasaka/Ekādasakanipāta li�
 ```bash
 python3 scripts/assemble-an-translation.py --nipata 1 \
     --packs .build/an/1 \
-    --parts "08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)/.parts" \
-    --out "08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)"
+    --parts "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts" \
+    --out "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya"
 ```
 
 Ghép 1 nipāta mỗi lần chạy (11 file đích, tên trùng file Pali nguồn). Dịch
@@ -555,7 +555,7 @@ Ghép tập:
 python3 scripts/assemble-vinaya-translation.py
 ```
 
-Đích: `08. Bản Dịch Độc Lập (Từ Pali Gốc)/06. Luật Tạng (Vinayapitaka)/`,
+Đích: `ban-dich-doc-lap-tu-pali-goc/luat-tang-vinayapitaka/`,
 bốn file `.typ` cùng tên với Pali nguồn. File `.part` gitignored:
 `PJ001.part`, `PC001.part`, `MV001.part`, `CV001.part`. Hướng dẫn agent:
 `docs/vinaya-agent-instructions.md`.

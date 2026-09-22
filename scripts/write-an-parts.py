@@ -11,7 +11,7 @@ from pathlib import Path
 nipata = sys.argv[1]
 data = json.loads(Path(sys.argv[2]).read_text(encoding="utf-8"))
 outdir = Path(
-    "08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)/.parts"
+    "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts"
 )
 outdir.mkdir(parents=True, exist_ok=True)
 for gno, text in data.items():

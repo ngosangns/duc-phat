@@ -20,7 +20,7 @@ book = sys.argv[1]
 data = json.loads(Path(sys.argv[2]).read_text(encoding="utf-8"))
 prefix, width = BOOKS[book]
 outdir = Path(
-    "08. Bản Dịch Độc Lập (Từ Pali Gốc)/06. Luật Tạng (Vinayapitaka)/.parts"
+    "ban-dich-doc-lap-tu-pali-goc/luat-tang-vinayapitaka/.parts"
 )
 outdir.mkdir(parents=True, exist_ok=True)
 for gno, text in data.items():

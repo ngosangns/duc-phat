@@ -4,17 +4,17 @@ Kho kinh điển Theravāda dạng Typst: bản Việt đã lưu hành, nguyên 
 
 ## Lưu ý về bản dịch AI
 
-**Toàn bộ bản dịch độc lập trong thư mục `08. Bản Dịch Độc Lập (Từ Pali Gốc)/` do AI dịch từ nguyên bản Pāli.** Đây không phải bản dịch của tăng sĩ hay học giả đã thẩm định.
+**Toàn bộ bản dịch độc lập trong thư mục `ban-dich-doc-lap-tu-pali-goc/` do AI dịch từ nguyên bản Pāli.** Đây không phải bản dịch của tăng sĩ hay học giả đã thẩm định.
 
-Người duy trì kho **không chịu trách nhiệm** nếu bản dịch sai, lệch nghĩa, thiếu sót, hoặc không phù hợp để trích dẫn học thuật, ấn tống, hay hành trì. Đọc để tham khảo; khi cần độ tin cậy, hãy đối chiếu nguyên tác Pāli (thư mục `07.`) hoặc các bản dịch đã xuất bản (thư mục `00.`).
+Người duy trì kho **không chịu trách nhiệm** nếu bản dịch sai, lệch nghĩa, thiếu sót, hoặc không phù hợp để trích dẫn học thuật, ấn tống, hay hành trì. Đọc để tham khảo; khi cần độ tin cậy, hãy đối chiếu nguyên tác Pāli (thư mục `tam-tang-pali-goc/`) hoặc các bản dịch đã xuất bản (thư mục `kinh-tieng-viet-suu-tam/`).
 
 ## Có gì trong kho
 
 | Thư mục | Nội dung |
 |---|---|
-| `00. Kinh Tiếng Việt Sưu Tầm/` | Bản Việt đã xuất bản (HT. Thích Minh Châu và các dịch giả khác), chuẩn hóa sang Typst |
-| `07. Tam Tạng Pali Gốc/` | Nguyên bản Pāli (ấn bản Chaṭṭha Saṅgāyana) |
-| `08. Bản Dịch Độc Lập (Từ Pali Gốc)/` | Bản Việt dịch thẳng từ Pāli, độc lập với các bản đã lưu hành — **do AI dịch** |
+| `kinh-tieng-viet-suu-tam/` | Bản Việt đã xuất bản (HT. Thích Minh Châu và các dịch giả khác), chuẩn hóa sang Typst |
+| `tam-tang-pali-goc/` | Nguyên bản Pāli (ấn bản Chaṭṭha Saṅgāyana) |
+| `ban-dich-doc-lap-tu-pali-goc/` | Bản Việt dịch thẳng từ Pāli, độc lập với các bản đã lưu hành — **do AI dịch** |
 | `web/` | Site đọc dạng kệ sách + mặt giấy |
 | `scripts/` | Ghép bản dịch, xuất HTML cho web |
 | `docs/` | Quy ước dịch và ghi chú kỹ thuật |

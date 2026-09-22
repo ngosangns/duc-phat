@@ -10,7 +10,7 @@
 
 Đích:
 
-`08. Bản Dịch Độc Lập (Từ Pali Gốc)/06. Luật Tạng (Vinayapitaka)/.parts/<ID>.part`
+`ban-dich-doc-lap-tu-pali-goc/luat-tang-vinayapitaka/.parts/<ID>.part`
 
 Dùng công cụ Write. Không ghi qua biến kernel.
 

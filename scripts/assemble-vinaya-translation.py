@@ -19,7 +19,7 @@ SUPER = re.compile(r"#super\[(\d+)\]")
 
 BOOKS = {
     "pj": {
-        "file": "01. Parajika (Bất Cộng Trụ).typ",
+        "file": "parajika-bat-cong-tru.typ",
         "prefix": "PJ",
         "width": 3,
         "pali": "Pārājikapāḷi",
@@ -27,7 +27,7 @@ BOOKS = {
         "cite": "Pj",
     },
     "pc": {
-        "file": "02. Pacittiya (Ưng Đối Trị).typ",
+        "file": "pacittiya-ung-doi-tri.typ",
         "prefix": "PC",
         "width": 3,
         "pali": "Pācittiyapāḷi",
@@ -35,7 +35,7 @@ BOOKS = {
         "cite": "Pc",
     },
     "mv": {
-        "file": "03. Mahavagga (Đại Phẩm).typ",
+        "file": "mahavagga-dai-pham.typ",
         "prefix": "MV",
         "width": 3,
         "pali": "Mahāvaggapāḷi",
@@ -43,7 +43,7 @@ BOOKS = {
         "cite": "Mv",
     },
     "cv": {
-        "file": "04. Culavagga (Tiểu Phẩm).typ",
+        "file": "culavagga-tieu-pham.typ",
         "prefix": "CV",
         "width": 3,
         "pali": "Cūḷavaggapāḷi",
@@ -96,14 +96,14 @@ def main():
         "--parts",
         type=Path,
         default=ROOT
-        / "08. Bản Dịch Độc Lập (Từ Pali Gốc)"
-        / "06. Luật Tạng (Vinayapitaka)"
+        / "ban-dich-doc-lap-tu-pali-goc"
+        / "luat-tang-vinayapitaka"
         / ".parts",
     )
     ap.add_argument(
         "--out",
         type=Path,
-        default=ROOT / "08. Bản Dịch Độc Lập (Từ Pali Gốc)" / "06. Luật Tạng (Vinayapitaka)",
+        default=ROOT / "ban-dich-doc-lap-tu-pali-goc" / "luat-tang-vinayapitaka",
     )
     ap.add_argument("--chapter-titles", type=Path, default=ROOT / "scripts" / "vinaya-chapter-titles.tsv")
     ap.add_argument("--titles", type=Path, default=ROOT / "scripts" / "vinaya-titles.tsv")
@@ -176,7 +176,7 @@ def main():
         )
         note = (
             "Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali "
-            f"({meta['pali']}, xem thư mục \"07. Tam Tạng Pali Gốc\" trong cùng thư viện), "
+            f"({meta['pali']}, xem thư mục \"tam-tang-pali-goc\" trong cùng thư viện), "
             "không đối chiếu hay dựa theo bản dịch phổ biến đã có sẵn trong thư viện này. "
             "Số đoạn (#super[N]) đếm lại từ 1 trong từng điều học / kathā / khandhaka-đơn vị, "
             "khớp gói nguồn đã chuẩn hoá. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc. "

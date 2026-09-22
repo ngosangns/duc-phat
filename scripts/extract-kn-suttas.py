@@ -23,67 +23,67 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PALI_DIR = ROOT / "07. Tam Tạng Pali Gốc" / "05. Tiểu Bộ (Khuddakanikaya)"
+PALI_DIR = ROOT / "tam-tang-pali-goc" / "tieu-bo-khuddakanikaya"
 
 BOOKS = {
     "kp": {
-        "file": "01. Khuddakapatha (Tiểu Tụng).typ",
+        "file": "khuddakapatha-tieu-tung.typ",
         "prefix": "KP",
         "width": 3,
         "unit": "sutta",
         "global_nums": False,
     },
     "dhp": {
-        "file": "02. Dhammapada (Pháp Cú).typ",
+        "file": "dhammapada-phap-cu.typ",
         "prefix": "DHP",
         "width": 2,
         "unit": "vagga",
         "global_nums": True,
     },
     "ud": {
-        "file": "03. Udana (Phật Tự Thuyết).typ",
+        "file": "udana-phat-tu-thuyet.typ",
         "prefix": "UD",
         "width": 3,
         "unit": "sutta",
         "global_nums": False,
     },
     "it": {
-        "file": "04. Itivuttaka (Phật Thuyết Như Vậy).typ",
+        "file": "itivuttaka-phat-thuyet-nhu-vay.typ",
         "prefix": "IT",
         "width": 3,
         "unit": "sutta",
         "global_nums": False,
     },
     "snp": {
-        "file": "05. Suttanipata (Kinh Tập).typ",
+        "file": "suttanipata-kinh-tap.typ",
         "prefix": "SNP",
         "width": 3,
         "unit": "sutta",
         "global_nums": False,
     },
     "vv": {
-        "file": "06. Vimanavatthu (Chuyện Thiên Cung).typ",
+        "file": "vimanavatthu-chuyen-thien-cung.typ",
         "prefix": "VV",
         "width": 3,
         "unit": "sutta",
         "global_nums": False,
     },
     "pv": {
-        "file": "07. Petavatthu (Chuyện Ngạ Quỷ).typ",
+        "file": "petavatthu-chuyen-nga-quy.typ",
         "prefix": "PV",
         "width": 3,
         "unit": "sutta",
         "global_nums": False,
     },
     "bv": {
-        "file": "08. Buddhavamsa (Phật Sử).typ",
+        "file": "buddhavamsa-phat-su.typ",
         "prefix": "BV",
         "width": 3,
         "unit": "sutta",
         "global_nums": False,
     },
     "cp": {
-        "file": "09. Cariyapitaka (Sở Hạnh Tạng).typ",
+        "file": "cariyapitaka-so-hanh-tang.typ",
         "prefix": "CP",
         "width": 3,
         "unit": "sutta",

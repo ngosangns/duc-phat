@@ -33,7 +33,7 @@ def main():
     ap.add_argument(
         "--parts",
         type=Path,
-        default=Path("08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)/.parts"),
+        default=Path("ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts"),
     )
     ap.add_argument("--book")
     args = ap.parse_args()

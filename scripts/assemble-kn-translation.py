@@ -4,8 +4,8 @@
 Cách dùng:
     python3 scripts/assemble-kn-translation.py \
         --packs .build/kn \
-        --parts "08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)/.parts" \
-        --out "08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)"
+        --parts "ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts" \
+        --out "ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya"
 """
 
 from __future__ import annotations
@@ -19,15 +19,15 @@ from pathlib import Path
 SUPER = re.compile(r"#super\[(\d+)\]")
 
 BOOKS = {
-    "kp": {"file": "01. Khuddakapatha (Tiểu Tụng).typ", "prefix": "KP", "width": 3, "unit": "sutta"},
-    "dhp": {"file": "02. Dhammapada (Pháp Cú).typ", "prefix": "DHP", "width": 2, "unit": "vagga"},
-    "ud": {"file": "03. Udana (Phật Tự Thuyết).typ", "prefix": "UD", "width": 3, "unit": "sutta"},
-    "it": {"file": "04. Itivuttaka (Phật Thuyết Như Vậy).typ", "prefix": "IT", "width": 3, "unit": "sutta"},
-    "snp": {"file": "05. Suttanipata (Kinh Tập).typ", "prefix": "SNP", "width": 3, "unit": "sutta"},
-    "vv": {"file": "06. Vimanavatthu (Chuyện Thiên Cung).typ", "prefix": "VV", "width": 3, "unit": "sutta"},
-    "pv": {"file": "07. Petavatthu (Chuyện Ngạ Quỷ).typ", "prefix": "PV", "width": 3, "unit": "sutta"},
-    "bv": {"file": "08. Buddhavamsa (Phật Sử).typ", "prefix": "BV", "width": 3, "unit": "sutta"},
-    "cp": {"file": "09. Cariyapitaka (Sở Hạnh Tạng).typ", "prefix": "CP", "width": 3, "unit": "sutta"},
+    "kp": {"file": "khuddakapatha-tieu-tung.typ", "prefix": "KP", "width": 3, "unit": "sutta"},
+    "dhp": {"file": "dhammapada-phap-cu.typ", "prefix": "DHP", "width": 2, "unit": "vagga"},
+    "ud": {"file": "udana-phat-tu-thuyet.typ", "prefix": "UD", "width": 3, "unit": "sutta"},
+    "it": {"file": "itivuttaka-phat-thuyet-nhu-vay.typ", "prefix": "IT", "width": 3, "unit": "sutta"},
+    "snp": {"file": "suttanipata-kinh-tap.typ", "prefix": "SNP", "width": 3, "unit": "sutta"},
+    "vv": {"file": "vimanavatthu-chuyen-thien-cung.typ", "prefix": "VV", "width": 3, "unit": "sutta"},
+    "pv": {"file": "petavatthu-chuyen-nga-quy.typ", "prefix": "PV", "width": 3, "unit": "sutta"},
+    "bv": {"file": "buddhavamsa-phat-su.typ", "prefix": "BV", "width": 3, "unit": "sutta"},
+    "cp": {"file": "cariyapitaka-so-hanh-tang.typ", "prefix": "CP", "width": 3, "unit": "sutta"},
 }
 
 NIPATA_VI = {
@@ -146,12 +146,12 @@ def main():
     ap.add_argument(
         "--parts",
         type=Path,
-        default=Path("08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)/.parts"),
+        default=Path("ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts"),
     )
     ap.add_argument(
         "--out",
         type=Path,
-        default=Path("08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)"),
+        default=Path("ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya"),
     )
     ap.add_argument("--titles", type=Path, default=Path("scripts/kn-titles.tsv"))
     ap.add_argument("--book", choices=list(BOOKS))
@@ -209,7 +209,7 @@ def main():
         )
         note = (
             "Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali "
-            f"({pali_ref}, xem thư mục \"07. Tam Tạng Pali Gốc\" trong cùng thư viện), không "
+            f"({pali_ref}, xem thư mục \"tam-tang-pali-goc\" trong cùng thư viện), không "
             "đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã "
             "có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) giữ "
             "theo gói nguồn đã chuẩn hoá: Pháp Cú dùng số kệ toàn cục 1–423; các tập khác "

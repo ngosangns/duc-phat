@@ -10,7 +10,7 @@
 
 Đích:
 
-`08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)/.parts/AN{n}_{0000}.part`
+`ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts/AN{n}_{0000}.part`
 
 Dùng công cụ Write. Không ghi qua biến kernel.
 

@@ -24,23 +24,23 @@ def part_path(parts: Path, gno: int) -> Path:
 
 
 VAGGA_VI = {
-    ("01. Silakkhandhavagga (Phẩm Giới Uẩn).typ", 1): ("Giới Uẩn", "Sīlakkhandhavaggo"),
-    ("02. Mahavagga (Đại Phẩm).typ", 1): ("Đại Phẩm", "Mahāvaggo"),
-    ("03. Pathikavagga (Phẩm Pathika).typ", 1): ("Pathika", "Pāthikavaggo"),
+    ("silakkhandhavagga-pham-gioi-uan.typ", 1): ("Giới Uẩn", "Sīlakkhandhavaggo"),
+    ("mahavagga-dai-pham.typ", 1): ("Đại Phẩm", "Mahāvaggo"),
+    ("pathikavagga-pham-pathika.typ", 1): ("Pathika", "Pāthikavaggo"),
 }
 
 BANNER = {
-    "01. Silakkhandhavagga (Phẩm Giới Uẩn).typ": (
+    "silakkhandhavagga-pham-gioi-uan.typ": (
         "Kinh Trường Bộ (Dīgha Nikāya)",
         "Sīlakkhandhavagga (Phẩm Giới Uẩn, 13 kinh)",
         "_Dīghanikāyo Sīlakkhandhavaggapāḷi_",
     ),
-    "02. Mahavagga (Đại Phẩm).typ": (
+    "mahavagga-dai-pham.typ": (
         "Kinh Trường Bộ (Dīgha Nikāya)",
         "Mahāvagga (Đại Phẩm, 10 kinh)",
         "_Dīghanikāyo Mahāvaggapāḷi_",
     ),
-    "03. Pathikavagga (Phẩm Pathika).typ": (
+    "pathikavagga-pham-pathika.typ": (
         "Kinh Trường Bộ (Dīgha Nikāya)",
         "Pāthikavagga (Phẩm Pathika, 11 kinh)",
         "_Dīghanikāyo Pāthikavaggapāḷi_",
@@ -145,7 +145,7 @@ def main():
 = {name} — Bản dịch mới từ Pali gốc — {tail}
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali
-({pali_ref}, xem thư mục "07. Tam Tạng Pali Gốc" trong cùng thư viện), không
+({pali_ref}, xem thư mục "tam-tang-pali-goc" trong cùng thư viện), không
 đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã
 có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) giữ
 đúng theo cách đánh số đoạn của chính bản Pali nguồn, đếm lại từ đầu trong

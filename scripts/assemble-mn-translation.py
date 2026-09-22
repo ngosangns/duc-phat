@@ -28,35 +28,35 @@ def part_path(parts: Path, gno: int) -> Path:
     return parts / f"MN{gno:03d}.part"
 
 VAGGA_VI = {
-    ("01. Mulapannasa (50 kinh đầu).typ", 1): ("Căn Bản", "Mūlapariyāyavaggo"),
-    ("01. Mulapannasa (50 kinh đầu).typ", 2): ("Sư Tử Hống", "Sīhanādavaggo"),
-    ("01. Mulapannasa (50 kinh đầu).typ", 3): ("Ví Dụ", "Opammavaggo"),
-    ("01. Mulapannasa (50 kinh đầu).typ", 4): ("Đại Song Đối", "Mahāyamakavaggo"),
-    ("01. Mulapannasa (50 kinh đầu).typ", 5): ("Tiểu Song Đối", "Cūḷayamakavaggo"),
-    ("02. Majjhimapannasa (50 kinh giữa).typ", 1): ("Gia Chủ", "Gahapativaggo"),
-    ("02. Majjhimapannasa (50 kinh giữa).typ", 2): ("Tỷ-kheo", "Bhikkhuvaggo"),
-    ("02. Majjhimapannasa (50 kinh giữa).typ", 3): ("Du Sĩ", "Paribbājakavaggo"),
-    ("02. Majjhimapannasa (50 kinh giữa).typ", 4): ("Vua", "Rājavaggo"),
-    ("02. Majjhimapannasa (50 kinh giữa).typ", 5): ("Bà-la-môn", "Brāhmaṇavaggo"),
-    ("03. Uparipannasa (50 kinh cuối).typ", 1): ("Devadaha", "Devadahavaggo"),
-    ("03. Uparipannasa (50 kinh cuối).typ", 2): ("Tùy Quán", "Anupadavaggo"),
-    ("03. Uparipannasa (50 kinh cuối).typ", 3): ("Không", "Suññatavaggo"),
-    ("03. Uparipannasa (50 kinh cuối).typ", 4): ("Phân Biệt", "Vibhaṅgavaggo"),
-    ("03. Uparipannasa (50 kinh cuối).typ", 5): ("Sáu Xứ", "Saḷāyatanavaggo"),
+    ("mulapannasa-50-kinh-dau.typ", 1): ("Căn Bản", "Mūlapariyāyavaggo"),
+    ("mulapannasa-50-kinh-dau.typ", 2): ("Sư Tử Hống", "Sīhanādavaggo"),
+    ("mulapannasa-50-kinh-dau.typ", 3): ("Ví Dụ", "Opammavaggo"),
+    ("mulapannasa-50-kinh-dau.typ", 4): ("Đại Song Đối", "Mahāyamakavaggo"),
+    ("mulapannasa-50-kinh-dau.typ", 5): ("Tiểu Song Đối", "Cūḷayamakavaggo"),
+    ("majjhimapannasa-50-kinh-giua.typ", 1): ("Gia Chủ", "Gahapativaggo"),
+    ("majjhimapannasa-50-kinh-giua.typ", 2): ("Tỷ-kheo", "Bhikkhuvaggo"),
+    ("majjhimapannasa-50-kinh-giua.typ", 3): ("Du Sĩ", "Paribbājakavaggo"),
+    ("majjhimapannasa-50-kinh-giua.typ", 4): ("Vua", "Rājavaggo"),
+    ("majjhimapannasa-50-kinh-giua.typ", 5): ("Bà-la-môn", "Brāhmaṇavaggo"),
+    ("uparipannasa-50-kinh-cuoi.typ", 1): ("Devadaha", "Devadahavaggo"),
+    ("uparipannasa-50-kinh-cuoi.typ", 2): ("Tùy Quán", "Anupadavaggo"),
+    ("uparipannasa-50-kinh-cuoi.typ", 3): ("Không", "Suññatavaggo"),
+    ("uparipannasa-50-kinh-cuoi.typ", 4): ("Phân Biệt", "Vibhaṅgavaggo"),
+    ("uparipannasa-50-kinh-cuoi.typ", 5): ("Sáu Xứ", "Saḷāyatanavaggo"),
 }
 
 BANNER = {
-    "01. Mulapannasa (50 kinh đầu).typ": (
+    "mulapannasa-50-kinh-dau.typ": (
         "Kinh Trung Bộ (Majjhima Nikāya)",
         "Mūlapaṇṇāsa (50 kinh đầu)",
         "_Majjhimanikāyo Mūlapaṇṇāsapāḷi_",
     ),
-    "02. Majjhimapannasa (50 kinh giữa).typ": (
+    "majjhimapannasa-50-kinh-giua.typ": (
         "Kinh Trung Bộ (Majjhima Nikāya)",
         "Majjhimapaṇṇāsa (50 kinh giữa)",
         "_Majjhimanikāyo Majjhimapaṇṇāsapāḷi_",
     ),
-    "03. Uparipannasa (50 kinh cuối).typ": (
+    "uparipannasa-50-kinh-cuoi.typ": (
         "Kinh Trung Bộ (Majjhima Nikāya)",
         "Uparipaṇṇāsa (52 kinh cuối)",
         "_Majjhimanikāyo Uparipaṇṇāsapāḷi_",
@@ -162,7 +162,7 @@ def main():
 = {name} — Bản dịch mới từ Pali gốc — {tail}
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali
-({pali_ref}, xem thư mục "07. Tam Tạng Pali Gốc" trong cùng thư viện), không
+({pali_ref}, xem thư mục "tam-tang-pali-goc" trong cùng thư viện), không
 đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã
 có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) giữ
 đúng theo cách đánh số đoạn của chính bản Pali nguồn, đếm lại từ đầu trong

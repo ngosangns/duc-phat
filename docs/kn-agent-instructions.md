@@ -36,7 +36,7 @@
 ## File
 
 Ghi vào:
-`08. Bản Dịch Độc Lập (Từ Pali Gốc)/05. Tiểu Bộ (Khuddakanikaya)/.parts/<ID>.part`
+`ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts/<ID>.part`
 
 Dùng công cụ Write/StrReplace. Không ghi qua biến kernel.
 

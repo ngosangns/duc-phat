@@ -39,11 +39,11 @@ BANNER = {
 }
 
 SOURCE_FILE = {
-    "1": "01. Sagathavagga (Phẩm Có Kệ).typ",
-    "2": "02. Nidanavagga (Phẩm Nhân Duyên).typ",
-    "3": "03. Khandhavagga (Phẩm Uẩn).typ",
-    "4": "04. Salayatanavagga (Phẩm Sáu Xứ).typ",
-    "5": "05. Mahavagga (Đại Phẩm).typ",
+    "1": "sagathavagga-pham-co-ke.typ",
+    "2": "nidanavagga-pham-nhan-duyen.typ",
+    "3": "khandhavagga-pham-uan.typ",
+    "4": "salayatanavagga-pham-sau-xu.typ",
+    "5": "mahavagga-dai-pham.typ",
 }
 
 
@@ -228,7 +228,7 @@ def main():
 = {name} — Bản dịch mới từ Pali gốc — {tail_vi} ({tail_pali})
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali
-({pali_ref}, xem thư mục "07. Tam Tạng Pali Gốc" trong cùng thư viện), không
+({pali_ref}, xem thư mục "tam-tang-pali-goc" trong cùng thư viện), không
 đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã
 có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) đếm
 lại từ 1 trong từng đơn vị: mỗi kinh có tiêu đề riêng, hoặc mỗi nhóm kinh

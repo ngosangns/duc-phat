@@ -26,29 +26,29 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PALI_DIR = ROOT / "07. Tam Tạng Pali Gốc" / "06. Luật Tạng (Vinayapitaka)"
+PALI_DIR = ROOT / "tam-tang-pali-goc" / "luat-tang-vinayapitaka"
 
 BOOKS = {
     "pj": {
-        "file": "01. Parajika (Bất Cộng Trụ).typ",
+        "file": "parajika-bat-cong-tru.typ",
         "prefix": "PJ",
         "width": 3,
         "kind": "vibhanga",
     },
     "pc": {
-        "file": "02. Pacittiya (Ưng Đối Trị).typ",
+        "file": "pacittiya-ung-doi-tri.typ",
         "prefix": "PC",
         "width": 3,
         "kind": "vibhanga",
     },
     "mv": {
-        "file": "03. Mahavagga (Đại Phẩm).typ",
+        "file": "mahavagga-dai-pham.typ",
         "prefix": "MV",
         "width": 3,
         "kind": "khandhaka",
     },
     "cv": {
-        "file": "04. Culavagga (Tiểu Phẩm).typ",
+        "file": "culavagga-tieu-pham.typ",
         "prefix": "CV",
         "width": 3,
         "kind": "khandhaka",

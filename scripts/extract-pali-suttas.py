@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Trích xuất từng kinh từ file Pali .typ trong "07. Tam Tạng Pali Gốc/".
+"""Trích xuất từng kinh từ file Pali .typ trong "tam-tang-pali-goc/".
 
-Dùng cho các bản dịch độc lập trong "08. Bản Dịch Độc Lập (Từ Pali Gốc)/":
+Dùng cho các bản dịch độc lập trong "ban-dich-doc-lap-tu-pali-goc/":
 mỗi kinh được cắt ra thành một "gói nguồn" văn bản thuần (không còn cú pháp
 Typst) để dịch, kèm số đoạn (§) đã chuẩn hoá lại.
 

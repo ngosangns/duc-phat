@@ -16,8 +16,8 @@ Nhóm trùng tụng nén (dải số kiểu 96-622) ghi trích dẫn dạng kho�
 Cách dùng:
     python3 scripts/assemble-an-translation.py --nipata 1 \
         --packs .build/an/1 \
-        --parts "08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)/.parts" \
-        --out "08. Bản Dịch Độc Lập (Từ Pali Gốc)/04. Tăng Chi Bộ (Anguttaranikaya)"
+        --parts "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts" \
+        --out "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya"
 """
 
 import argparse
@@ -29,17 +29,17 @@ from pathlib import Path
 SUPER = re.compile(r"#super\[(\d+)\]")
 
 NIPATA_INFO = {
-    1: ("Ekakanipāta", "Một Pháp", "01. Ekakanipata (Một Pháp).typ"),
-    2: ("Dukanipāta", "Hai Pháp", "02. Dukanipata (Hai Pháp).typ"),
-    3: ("Tikanipāta", "Ba Pháp", "03. Tikanipata (Ba Pháp).typ"),
-    4: ("Catukkanipāta", "Bốn Pháp", "04. Catukkanipata (Bốn Pháp).typ"),
-    5: ("Pañcakanipāta", "Năm Pháp", "05. Pancakanipata (Năm Pháp).typ"),
-    6: ("Chakkanipāta", "Sáu Pháp", "06. Chakkanipata (Sáu Pháp).typ"),
-    7: ("Sattakanipāta", "Bảy Pháp", "07. Sattakanipata (Bảy Pháp).typ"),
-    8: ("Aṭṭhakanipāta", "Tám Pháp", "08. Atthakanipata (Tám Pháp).typ"),
-    9: ("Navakanipāta", "Chín Pháp", "09. Navakanipata (Chín Pháp).typ"),
-    10: ("Dasakanipāta", "Mười Pháp", "10. Dasakanipata (Mười Pháp).typ"),
-    11: ("Ekādasakanipāta", "Mười Một Pháp", "11. Ekadasakanipata (Mười Một Pháp).typ"),
+    1: ("Ekakanipāta", "Một Pháp", "ekakanipata-mot-phap.typ"),
+    2: ("Dukanipāta", "Hai Pháp", "dukanipata-hai-phap.typ"),
+    3: ("Tikanipāta", "Ba Pháp", "tikanipata-ba-phap.typ"),
+    4: ("Catukkanipāta", "Bốn Pháp", "catukkanipata-bon-phap.typ"),
+    5: ("Pañcakanipāta", "Năm Pháp", "pancakanipata-nam-phap.typ"),
+    6: ("Chakkanipāta", "Sáu Pháp", "chakkanipata-sau-phap.typ"),
+    7: ("Sattakanipāta", "Bảy Pháp", "sattakanipata-bay-phap.typ"),
+    8: ("Aṭṭhakanipāta", "Tám Pháp", "atthakanipata-tam-phap.typ"),
+    9: ("Navakanipāta", "Chín Pháp", "navakanipata-chin-phap.typ"),
+    10: ("Dasakanipāta", "Mười Pháp", "dasakanipata-muoi-phap.typ"),
+    11: ("Ekādasakanipāta", "Mười Một Pháp", "ekadasakanipata-muoi-mot-phap.typ"),
 }
 
 
@@ -146,7 +146,7 @@ def main():
 = Tăng Chi Bộ (Aṅguttara Nikāya) — Bản dịch mới từ Pali gốc — {vi_name} ({pali_name})
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali
-({pali_name}pāḷi, xem thư mục "07. Tam Tạng Pali Gốc" trong cùng thư viện),
+({pali_name}pāḷi, xem thư mục "tam-tang-pali-goc" trong cùng thư viện),
 không đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh
 Châu đã có sẵn trong thư viện này. Số trích dẫn kinh (AN {args.nipata}.n) giữ
 đúng cách đánh số của chính bản Pali nguồn (đếm liên tục trong cả nipāta,

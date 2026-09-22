@@ -62,48 +62,86 @@ VN_VOLUMES = [
         "id": "dn",
         "title": "Kinh Trường Bộ",
         "pali": "Dīgha Nikāya",
-        "file": "01. Kinh Trường Bộ - Trọn Bộ (34 kinh).typ",
+        "file": "kinh-truong-bo-tron-bo-34-kinh.typ",
     },
     {
         "id": "mn",
         "title": "Kinh Trung Bộ",
         "pali": "Majjhima Nikāya",
-        "file": "02. Kinh Trung Bộ - Trọn Bộ (152 kinh).typ",
+        "file": "kinh-trung-bo-tron-bo-152-kinh.typ",
     },
     {
         "id": "sn",
         "title": "Kinh Tương Ưng Bộ",
         "pali": "Saṃyutta Nikāya",
-        "file": "03. Kinh Tương Ưng Bộ - Trọn Bộ (56 nhóm).typ",
+        "file": "kinh-tuong-ung-bo-tron-bo-56-nhom.typ",
     },
     {
         "id": "an",
         "title": "Kinh Tăng Chi Bộ",
         "pali": "Aṅguttara Nikāya",
-        "file": "04. Kinh Tăng Chi Bộ - Trọn Bộ (11 chương).typ",
+        "file": "kinh-tang-chi-bo-tron-bo-11-chuong.typ",
     },
     {
         "id": "kn",
         "title": "Kinh Tiểu Bộ",
         "pali": "Khuddaka Nikāya",
-        "file": "05. Kinh Tiểu Bộ - Tuyển Tập (7 phần).typ",
+        "file": "kinh-tieu-bo-tuyen-tap-7-phan.typ",
     },
     {
         "id": "vinaya",
         "title": "Luật Tạng",
         "pali": "Vinaya Piṭaka",
-        "file": "06. Luật Tạng - Tuyển Tập (6 tập).typ",
+        "file": "luat-tang-tuyen-tap-6-tap.typ",
     },
 ]
 
 NIKAYA_GROUPS = [
-    ("dn", "Trường Bộ", "Dīgha Nikāya", "01. Trường Bộ"),
-    ("mn", "Trung Bộ", "Majjhima Nikāya", "02. Trung Bộ"),
-    ("sn", "Tương Ưng Bộ", "Saṃyutta Nikāya", "03. Tương Ưng Bộ"),
-    ("an", "Tăng Chi Bộ", "Aṅguttara Nikāya", "04. Tăng Chi Bộ"),
-    ("kn", "Tiểu Bộ", "Khuddaka Nikāya", "05. Tiểu Bộ"),
-    ("vinaya", "Luật Tạng", "Vinaya Piṭaka", "06. Luật Tạng"),
+    ("dn", "Trường Bộ", "Dīgha Nikāya", "truong-bo"),
+    ("mn", "Trung Bộ", "Majjhima Nikāya", "trung-bo"),
+    ("sn", "Tương Ưng Bộ", "Saṃyutta Nikāya", "tuong-ung-bo"),
+    ("an", "Tăng Chi Bộ", "Aṅguttara Nikāya", "tang-chi-bo"),
+    ("kn", "Tiểu Bộ", "Khuddaka Nikāya", "tieu-bo"),
+    ("vinaya", "Luật Tạng", "Vinaya Piṭaka", "luat-tang"),
 ]
+
+# Shelf labels keyed by the latin token in the kebab filename.
+# "silakkhandhavagga-pham-gioi-uan.typ" → (Silakkhandhavagga, Phẩm Giới Uẩn).
+GROUP_LABELS = {
+    "silakkhandhavagga": ("Silakkhandhavagga", "Phẩm Giới Uẩn"),
+    "mahavagga": ("Mahavagga", "Đại Phẩm"),
+    "pathikavagga": ("Pathikavagga", "Phẩm Pathika"),
+    "mulapannasa": ("Mulapannasa", "50 kinh đầu"),
+    "majjhimapannasa": ("Majjhimapannasa", "50 kinh giữa"),
+    "uparipannasa": ("Uparipannasa", "50 kinh cuối"),
+    "sagathavagga": ("Sagathavagga", "Phẩm Có Kệ"),
+    "nidanavagga": ("Nidanavagga", "Phẩm Nhân Duyên"),
+    "khandhavagga": ("Khandhavagga", "Phẩm Uẩn"),
+    "salayatanavagga": ("Salayatanavagga", "Phẩm Sáu Xứ"),
+    "ekakanipata": ("Ekakanipata", "Một Pháp"),
+    "dukanipata": ("Dukanipata", "Hai Pháp"),
+    "tikanipata": ("Tikanipata", "Ba Pháp"),
+    "catukkanipata": ("Catukkanipata", "Bốn Pháp"),
+    "pancakanipata": ("Pancakanipata", "Năm Pháp"),
+    "chakkanipata": ("Chakkanipata", "Sáu Pháp"),
+    "sattakanipata": ("Sattakanipata", "Bảy Pháp"),
+    "atthakanipata": ("Atthakanipata", "Tám Pháp"),
+    "navakanipata": ("Navakanipata", "Chín Pháp"),
+    "dasakanipata": ("Dasakanipata", "Mười Pháp"),
+    "ekadasakanipata": ("Ekadasakanipata", "Mười Một Pháp"),
+    "khuddakapatha": ("Khuddakapatha", "Tiểu Tụng"),
+    "dhammapada": ("Dhammapada", "Pháp Cú"),
+    "udana": ("Udana", "Phật Tự Thuyết"),
+    "itivuttaka": ("Itivuttaka", "Phật Thuyết Như Vậy"),
+    "suttanipata": ("Suttanipata", "Kinh Tập"),
+    "vimanavatthu": ("Vimanavatthu", "Chuyện Thiên Cung"),
+    "petavatthu": ("Petavatthu", "Chuyện Ngạ Quỷ"),
+    "buddhavamsa": ("Buddhavamsa", "Phật Sử"),
+    "cariyapitaka": ("Cariyapitaka", "Sở Hạnh Tạng"),
+    "parajika": ("Parajika", "Bất Cộng Trụ"),
+    "pacittiya": ("Pacittiya", "Ưng Đối Trị"),
+    "culavagga": ("Culavagga", "Tiểu Phẩm"),
+}
 
 
 # ---------------------------------------------------------------------------
@@ -527,7 +565,7 @@ def count_leaves(nodes: list[dict]) -> int:
 
 def build_vn(root: Path, texts: Path, only: str | None) -> dict:
     col_id = "vn"
-    folder = root / "00. Kinh Tiếng Việt Sưu Tầm"
+    folder = root / "kinh-tieng-viet-suu-tam"
     volumes = []
     for spec in VN_VOLUMES:
         key = f"{col_id}/{spec['id']}"
@@ -566,20 +604,21 @@ def nikaya_folder(base: Path, prefix: str) -> Path | None:
 
 
 def slug_from_filename(name: str) -> str:
-    # "01. Silakkhandhavagga (Phẩm Giới Uẩn).typ" → silakkhandha
+    # "silakkhandhavagga-pham-gioi-uan.typ" → silakkhandhavagga
     stem = Path(name).stem
-    stem = re.sub(r"^\d+\.\s*", "", stem)
+    stem = re.sub(r"^\d+[-.\s]+", "", stem)
     stem = stem.split("(")[0].strip()
-    slug = re.sub(r"[^a-z0-9]+", "-", stem.lower()).strip("-")
+    token = re.split(r"-+", stem, maxsplit=1)[0]
+    slug = re.sub(r"[^a-z0-9]+", "-", token.lower()).strip("-")
     return slug or "tap"
 
 
 def pretty_file_title(name: str) -> tuple[str, str | None]:
+    hit = GROUP_LABELS.get(slug_from_filename(name))
+    if hit:
+        return hit
     stem = Path(name).stem
-    stem = re.sub(r"^\d+\.\s*", "", stem)
-    m = re.match(r"^(.*?)\s*\((.*?)\)\s*$", stem)
-    if m:
-        return m.group(1).strip(), m.group(2).strip()
+    stem = re.sub(r"^\d+[-.\s]+", "", stem)
     return stem, None
 
 
@@ -691,7 +730,7 @@ def main() -> int:
                 "pali",
                 "Tam tạng Pāli gốc",
                 "Nguyên bản Pāli, ấn bản Chaṭṭha Saṅgāyana.",
-                root / "07. Tam Tạng Pali Gốc",
+                root / "tam-tang-pali-goc",
                 root,
                 texts,
                 only,
@@ -704,7 +743,7 @@ def main() -> int:
                 "new",
                 "Bản dịch độc lập",
                 "Dịch trực tiếp từ Pāli gốc, độc lập với các bản đã lưu hành.",
-                root / "08. Bản Dịch Độc Lập (Từ Pali Gốc)",
+                root / "ban-dich-doc-lap-tu-pali-goc",
                 root,
                 texts,
                 only,

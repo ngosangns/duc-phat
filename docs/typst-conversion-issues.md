@@ -1,6 +1,6 @@
 # Checklist lỗi cú pháp/cấu trúc Typst thường gặp
 
-Phát hiện khi đọc toàn bộ PDF render của `Kinh Trường Bộ - Trọn Bộ (34 kinh).typ`
+Phát hiện khi đọc toàn bộ PDF render của `kinh-truong-bo-tron-bo-34-kinh.typ`
 và đối chiếu ngược lại source. Vì toàn bộ thư viện được convert hàng loạt từ cùng
 một quy trình Markdown → Typst, các lỗi dưới đây nhiều khả năng lặp lại ở các file
 khác. Dùng file này làm checklist khi rà soát/sửa các tập còn lại.
@@ -38,11 +38,11 @@ chỉ là bản xem trước cấu trúc/mục lục in sẵn. Hậu quả:
 - **Cách sửa:** chuyển khối giả thành văn bản thường (bỏ dấu `=` ở đầu dòng
   heading, hoặc gỡ `#super[N] ` ở đầu dòng enum), giữ nguyên nội dung chữ.
 - **Phạm vi đã xử lý:**
-  - `03. Kinh Tương Ưng Bộ - Trọn Bộ (56 nhóm).typ`: khối mục lục rút gọn đầu
+  - `kinh-tuong-ung-bo-tron-bo-56-nhom.typ`: khối mục lục rút gọn đầu
     file (223 dòng heading giả, liệt kê toàn bộ 56 tương ưng).
-  - `05. Kinh Tiểu Bộ - Tuyển Tập (7 phần).typ`: 2 khối (mục lục rút gọn toàn
+  - `kinh-tieu-bo-tuyen-tap-7-phan.typ`: 2 khối (mục lục rút gọn toàn
     bộ 7 phần + mục lục riêng cho Tiểu Tụng).
-  - `06. Luật Tạng - Tuyển Tập (6 tập).typ`: 286 dòng bị đánh số sai trong
+  - `luat-tang-tuyen-tap-6-tap.typ`: 286 dòng bị đánh số sai trong
     phần Mục Lục in sẵn của Tập 01, 02 và lời tựa tóm tắt chương của Tập 06,
     07 (Tập 04, 05 - Đại Phẩm - không bị lỗi này).
 
@@ -78,9 +78,10 @@ sót, không chuyển thành `#super[N]`.
   phần tiếp của câu trước).
 - **Cách sửa:** chuyển thành `#super[N] `, giữ nguyên số đã viết (không tự
   suy đoán số đúng trừ khi có bằng chứng rõ ràng từ số liền trước/sau).
-- **Phạm vi đã xử lý:** `03. Kinh Tương Ưng Bộ...` (136 chỗ dạng `N)`),
-  `04. Kinh Tăng Chi Bộ...` (231 chỗ dạng `N.- `, 15 chỗ dạng `N-`), `05.
-  Kinh Tiểu Bộ...` (9 chỗ dạng `N.Word`/`N-`), `06. Luật Tạng...` (2 chỗ).
+- **Phạm vi đã xử lý:** `kinh-tuong-ung-bo-tron-bo-56-nhom.typ` (136 chỗ dạng `N)`),
+  `kinh-tang-chi-bo-tron-bo-11-chuong.typ` (231 chỗ dạng `N.- `, 15 chỗ dạng `N-`),
+  `kinh-tieu-bo-tuyen-tap-7-phan.typ` (9 chỗ dạng `N.Word`/`N-`),
+  `luat-tang-tuyen-tap-6-tap.typ` (2 chỗ).
 
 ## 12. Số đoạn "mồ côi" — tách rời khỏi nội dung
 
@@ -90,8 +91,9 @@ Khi render ra PDF, số thứ tự trôi nổi tách biệt khỏi đoạn văn 
 
 - **Cách phát hiện:** `grep -c "^#super\[[0-9]\+\]$" file.typ`
 - **Cách sửa:** gộp lại thành một dòng `#super[N] text`.
-- **Phạm vi đã xử lý:** `01. Kinh Trường Bộ...` (27), `03. Kinh Tương Ưng
-  Bộ...` (3), `04. Kinh Tăng Chi Bộ...` (50).
+- **Phạm vi đã xử lý:** `kinh-truong-bo-tron-bo-34-kinh.typ` (27),
+  `kinh-tuong-ung-bo-tron-bo-56-nhom.typ` (3),
+  `kinh-tang-chi-bo-tron-bo-11-chuong.typ` (50).
 
 ## 13. Nội dung bị chép lặp y hệt (lỗi có sẵn từ bản số hoá gốc)
 
@@ -133,16 +135,16 @@ enum. Kết quả render: số thứ tự và một dấu chấm tròn xuất hi
   (xem cách phân loại tương tự đã dùng ở Luật Tạng: loại trừ theo vị trí dấu `:`
   và từ hô ngữ "này").
 - **Phạm vi đã biết (trước khi sửa Trường Bộ):**
-  - `01. Kinh Trường Bộ - Trọn Bộ (34 kinh).typ`: 155
-  - `04. Kinh Tăng Chi Bộ - Trọn Bộ (11 chương).typ`: 886
-  - `06. Luật Tạng - Tuyển Tập (6 tập).typ` (Tập 05): 40
-  - `06. Luật Tạng - Tuyển Tập (6 tập).typ` (Tập 06): 39
-  - `06. Luật Tạng - Tuyển Tập (6 tập).typ` (Tập 04): 38
-  - `06. Luật Tạng - Tuyển Tập (6 tập).typ` (Tập 01): 34
-  - `06. Luật Tạng - Tuyển Tập (6 tập).typ` (Tập 07): 24
-  - `06. Luật Tạng - Tuyển Tập (6 tập).typ` (Tập 02): 7
-  - `03. Kinh Tương Ưng Bộ - Trọn Bộ (56 nhóm).typ`: 3
-  - `05. Kinh Tiểu Bộ - Tuyển Tập (7 phần).typ` (Tập 02): 1
+  - `kinh-truong-bo-tron-bo-34-kinh.typ`: 155
+  - `kinh-tang-chi-bo-tron-bo-11-chuong.typ`: 886
+  - `luat-tang-tuyen-tap-6-tap.typ` (Tập 05): 40
+  - `luat-tang-tuyen-tap-6-tap.typ` (Tập 06): 39
+  - `luat-tang-tuyen-tap-6-tap.typ` (Tập 04): 38
+  - `luat-tang-tuyen-tap-6-tap.typ` (Tập 01): 34
+  - `luat-tang-tuyen-tap-6-tap.typ` (Tập 07): 24
+  - `luat-tang-tuyen-tap-6-tap.typ` (Tập 02): 7
+  - `kinh-tuong-ung-bo-tron-bo-56-nhom.typ`: 3
+  - `kinh-tieu-bo-tuyen-tap-7-phan.typ` (Tập 02): 1
   - **Tổng toàn kho: ~1227 chỗ**, chưa xử lý ngoài Trường Bộ.
 
 ## 2. Không có số trang in trên từng trang
@@ -256,7 +258,7 @@ Trung Bộ: **bỏ phần tiếng Anh, chỉ giữ bản dịch tiếng Việt**
 
 ## 9. Tiêu đề kinh bị nuốt vào khối enum (chỉ gặp ở nguồn Pali gốc Trung Bộ)
 
-**Mô tả:** Trong `07. Tam Tạng Pali Gốc/02. Trung Bộ (Majjhimanikaya)/`, hai dòng
+**Mô tả:** Trong `tam-tang-pali-goc/trung-bo-majjhimanikaya/`, hai dòng
 tiêu đề kinh bị convert thành *mục enum* thay vì heading: thay vì
 `=== 2. Pañcattayasuttaṃ` và `=== 5. Cūḷakammavibhaṅgasuttaṃ`, nguồn lại có
 `+ Pañcattayasuttaṃ \[...\]` nằm trong cùng khối `#block[#set enum(...)]` với các
