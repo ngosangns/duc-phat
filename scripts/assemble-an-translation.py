@@ -16,8 +16,8 @@ Nhóm trùng tụng nén (dải số kiểu 96-622) ghi trích dẫn dạng kho�
 Cách dùng:
     python3 scripts/assemble-an-translation.py --nipata 1 \
         --packs .build/an/1 \
-        --parts "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts" \
-        --out "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya"
+        --parts "kinh/ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts" \
+        --out "kinh/ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya"
 """
 
 import argparse
@@ -146,7 +146,7 @@ def main():
 = Tăng Chi Bộ (Aṅguttara Nikāya) — Bản dịch mới từ Pali gốc — {vi_name} ({pali_name})
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali
-({pali_name}pāḷi, xem thư mục "tam-tang-pali-goc" trong cùng thư viện),
+({pali_name}pāḷi, xem thư mục "kinh/tam-tang-pali-goc" trong cùng thư viện),
 không đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh
 Châu đã có sẵn trong thư viện này. Số trích dẫn kinh (AN {args.nipata}.n) giữ
 đúng cách đánh số của chính bản Pali nguồn (đếm liên tục trong cả nipāta,

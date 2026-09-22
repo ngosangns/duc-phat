@@ -565,7 +565,7 @@ def count_leaves(nodes: list[dict]) -> int:
 
 def build_vn(root: Path, texts: Path, only: str | None) -> dict:
     col_id = "vn"
-    folder = root / "kinh-tieng-viet-suu-tam"
+    folder = root / "kinh/kinh-tieng-viet-suu-tam"
     volumes = []
     for spec in VN_VOLUMES:
         key = f"{col_id}/{spec['id']}"
@@ -700,7 +700,7 @@ def parse_args() -> argparse.Namespace:
     p.add_argument(
         "--only",
         default=None,
-        help="Limit to a route prefix, e.g. vn or vn/dn or pali/dn",
+        help="Limit to a route prefix, e.g. new or new/dn",
     )
     return p.parse_args()
 
@@ -719,23 +719,9 @@ def main() -> int:
     only = args.only.strip("/") if args.only else None
     print(f"Building web data → {out}", flush=True)
 
+    # The site publishes only the independent translation. The collected
+    # Vietnamese volumes and the Pali sources stay in kinh/ for the library.
     collections = []
-    if only is None or only.startswith("vn"):
-        print("== vn", flush=True)
-        collections.append(build_vn(root, texts, only))
-    if only is None or only.startswith("pali"):
-        print("== pali", flush=True)
-        collections.append(
-            build_grouped(
-                "pali",
-                "Tam tạng Pāli gốc",
-                "Nguyên bản Pāli, ấn bản Chaṭṭha Saṅgāyana.",
-                root / "tam-tang-pali-goc",
-                root,
-                texts,
-                only,
-            )
-        )
     if only is None or only.startswith("new"):
         print("== new", flush=True)
         collections.append(
@@ -743,7 +729,7 @@ def main() -> int:
                 "new",
                 "Bản dịch độc lập",
                 "Dịch trực tiếp từ Pāli gốc, độc lập với các bản đã lưu hành.",
-                root / "ban-dich-doc-lap-tu-pali-goc",
+                root / "kinh" / "ban-dich-doc-lap-tu-pali-goc",
                 root,
                 texts,
                 only,

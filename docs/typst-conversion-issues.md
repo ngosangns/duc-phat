@@ -258,7 +258,7 @@ Trung Bộ: **bỏ phần tiếng Anh, chỉ giữ bản dịch tiếng Việt**
 
 ## 9. Tiêu đề kinh bị nuốt vào khối enum (chỉ gặp ở nguồn Pali gốc Trung Bộ)
 
-**Mô tả:** Trong `tam-tang-pali-goc/trung-bo-majjhimanikaya/`, hai dòng
+**Mô tả:** Trong `kinh/tam-tang-pali-goc/trung-bo-majjhimanikaya/`, hai dòng
 tiêu đề kinh bị convert thành *mục enum* thay vì heading: thay vì
 `=== 2. Pañcattayasuttaṃ` và `=== 5. Cūḷakammavibhaṅgasuttaṃ`, nguồn lại có
 `+ Pañcattayasuttaṃ \[...\]` nằm trong cùng khối `#block[#set enum(...)]` với các

@@ -10,7 +10,7 @@
 
 Đích:
 
-`ban-dich-doc-lap-tu-pali-goc/luat-tang-vinayapitaka/.parts/<ID>.part`
+`kinh/ban-dich-doc-lap-tu-pali-goc/luat-tang-vinayapitaka/.parts/<ID>.part`
 
 Dùng công cụ Write. Không ghi qua biến kernel.
 

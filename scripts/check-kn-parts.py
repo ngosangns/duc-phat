@@ -33,7 +33,7 @@ def main():
     ap.add_argument(
         "--parts",
         type=Path,
-        default=Path("ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts"),
+        default=Path("kinh/ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts"),
     )
     ap.add_argument("--book")
     args = ap.parse_args()

@@ -37,12 +37,12 @@ Dán toàn bộ nội dung dưới đây làm tin nhắn đầu tiên cho sessio
 4. **Lắp ráp lại 3 file vagga hoàn chỉnh**:
    ```bash
    python3 scripts/assemble-dn-translation.py --packs .build/dn --parts .parts \
-     --out "ban-dich-doc-lap-tu-pali-goc/truong-bo-dighanikaya"
+     --out "kinh/ban-dich-doc-lap-tu-pali-goc/truong-bo-dighanikaya"
    ```
    Script đọc tiêu đề tiếng Việt từ `scripts/dn-titles.tsv`, tự sinh banner + tiêu đề kinh + dòng trạng thái tiến độ, và **cảnh báo nếu số đoạn `#super[N]` của kinh nào đó lệch với số đoạn kỳ vọng** — phải sửa cho tới khi 0 cảnh báo mới xem là xong.
 5. **Biên dịch kiểm tra**:
    ```bash
-   typst compile "ban-dich-doc-lap-tu-pali-goc/truong-bo-dighanikaya/mahavagga-dai-pham.typ" /tmp/check.pdf
+   typst compile "kinh/ban-dich-doc-lap-tu-pali-goc/truong-bo-dighanikaya/mahavagga-dai-pham.typ" /tmp/check.pdf
    ```
    Không có output nghĩa là biên dịch sạch.
 

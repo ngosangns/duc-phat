@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Trích xuất từng vagga của Tương Ưng Bộ thành "gói nguồn" văn bản thuần.
 
-Dùng cho bản dịch độc lập trong "ban-dich-doc-lap-tu-pali-goc/".
+Dùng cho bản dịch độc lập trong "kinh/ban-dich-doc-lap-tu-pali-goc/".
 
 Vì sao có script riêng cho Tương Ưng Bộ (khác `extract-pali-suttas.py` của
 Trường Bộ / Trung Bộ): file Pali gốc của Tương Ưng Bộ có thêm một cấp cấu trúc

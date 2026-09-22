@@ -10,7 +10,7 @@
 
 Đích:
 
-`ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts/AN{n}_{0000}.part`
+`kinh/ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts/AN{n}_{0000}.part`
 
 Dùng công cụ Write. Không ghi qua biến kernel.
 

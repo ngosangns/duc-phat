@@ -36,7 +36,7 @@
 ## File
 
 Ghi vào:
-`ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts/<ID>.part`
+`kinh/ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts/<ID>.part`
 
 Dùng công cụ Write/StrReplace. Không ghi qua biến kernel.
 

@@ -195,15 +195,21 @@ export function capturePlace(route: string, title: string, root: HTMLElement): P
 
 export function restorePlace(place: Place, root: HTMLElement): boolean {
   const nodes = readingNodes(root);
+  const max = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
   let el: HTMLElement | undefined = nodes[place.para];
   if (!el && place.pn) {
     el = nodes.find((n) => n.querySelector(".pn")?.textContent?.trim() === place.pn);
   }
   if (el) {
-    window.scrollTo(0, Math.max(0, docTop(el) - HEADER));
-    return true;
+    const top = Math.max(0, docTop(el) - HEADER);
+    // A place saved after the article was detached recorded the last
+    // paragraph while ratio still reflected the real scroll offset.
+    const paraRatio = top / max;
+    if (Math.abs(paraRatio - place.ratio) <= 0.2) {
+      window.scrollTo(0, top);
+      return true;
+    }
   }
-  const max = Math.max(1, document.documentElement.scrollHeight - window.innerHeight);
   if (place.ratio > 0) {
     window.scrollTo(0, place.ratio * max);
     return true;

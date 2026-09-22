@@ -37,7 +37,7 @@ tasks:
 
       Limit to one collection or volume:
 
-        task web:data -- --only vn/dn
+        task web:data -- --only new/dn
     preconditions:
       - sh: command -v typst
         msg: "Cần Typst >= 0.15 (https://typst.app)."

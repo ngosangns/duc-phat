@@ -1,8 +1,8 @@
 # Quy ước dịch các bản dịch độc lập từ Pali gốc
 
 Áp dụng cho toàn bộ nội dung trong thư mục
-`ban-dich-doc-lap-tu-pali-goc/` — các bản dịch Việt văn thực hiện
-trực tiếp từ nguyên bản Pali trong `tam-tang-pali-goc/`, **độc lập**
+`kinh/ban-dich-doc-lap-tu-pali-goc/` — các bản dịch Việt văn thực hiện
+trực tiếp từ nguyên bản Pali trong `kinh/tam-tang-pali-goc/`, **độc lập**
 với các bản dịch phổ biến (HT. Thích Minh Châu...) đã có sẵn ở thư mục
 gốc của thư viện. File này ghi lại toàn bộ quyết định về phạm vi, cấu
 trúc, văn phong và các lỗi kỹ thuật cần tránh, để giữ nhất quán xuyên
@@ -26,7 +26,7 @@ suốt dự án — vốn sẽ trải dài qua rất nhiều phiên làm việc.
 
 ## 2. Cấu trúc thư mục và file
 
-- Cấu trúc thư mục mirror đúng theo `tam-tang-pali-goc/`: mỗi Nikāya
+- Cấu trúc thư mục mirror đúng theo `kinh/tam-tang-pali-goc/`: mỗi Nikāya
   một thư mục con cùng tên (`truong-bo-dighanikaya`,
   `trung-bo-majjhimanikaya`...), mỗi Vagga trong đó một file `.typ` cùng tên với
   file Pali gốc tương ứng.
@@ -230,7 +230,7 @@ số đoạn theo kinh (xem mục 3):
 - Tên kinh tiếng Việt lấy từ `scripts/dn-titles.tsv` (giữ nhất quán giữa
   các phiên), không tự đặt tên khác.
 - Ghép lại bằng `python3 scripts/assemble-dn-translation.py --packs
-  .build/dn --parts .parts --out "ban-dich-doc-lap-tu-pali-goc/truong-bo-dighanikaya"`.
+  .build/dn --parts .parts --out "kinh/ban-dich-doc-lap-tu-pali-goc/truong-bo-dighanikaya"`.
   Script tự sinh tiêu đề vagga, tiêu đề kinh,
   dòng báo tiến độ, và kiểm tra dãy `#super[N]` của từng kinh đã dịch.
 - Biên dịch thử cả ba tập bằng `typst compile` trước khi báo xong.
@@ -261,7 +261,7 @@ bản nguồn có vagga mất tiêu đề và có vagga đánh số trùng). D�
 
 ```bash
 python3 scripts/extract-sn-suttas.py \
-    "tam-tang-pali-goc/tuong-ung-bo-samyuttanikaya/sagathavagga-pham-co-ke.typ" \
+    "kinh/tam-tang-pali-goc/tuong-ung-bo-samyuttanikaya/sagathavagga-pham-co-ke.typ" \
     .build/sn/1 --sam-offset 1 --vagga-file 1
 ```
 
@@ -323,8 +323,8 @@ Khi dịch một gói, người dịch ghi thêm tên vào các file shard
 
 ```bash
 python3 scripts/assemble-sn-translation.py --packs .build/sn \
-    --parts "ban-dich-doc-lap-tu-pali-goc/tuong-ung-bo-samyuttanikaya/.parts" \
-    --out "ban-dich-doc-lap-tu-pali-goc/tuong-ung-bo-samyuttanikaya"
+    --parts "kinh/ban-dich-doc-lap-tu-pali-goc/tuong-ung-bo-samyuttanikaya/.parts" \
+    --out "kinh/ban-dich-doc-lap-tu-pali-goc/tuong-ung-bo-samyuttanikaya"
 ```
 
 Script sinh tiêu đề `== Saṃyutta …`, `=== Vagga …`, `==== Kinh SN.x.y …`,
@@ -393,7 +393,7 @@ python3 scripts/assemble-kn-translation.py
 python3 scripts/check-kn-parts.py
 ```
 
-Đích: `ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/`,
+Đích: `kinh/ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/`,
 chín file `.typ` cùng tên với Pali nguồn. Marker trong gói nguồn giống
 Trường Bộ / Trung Bộ (`[§N]`, `[TIỂU ĐỀ]`, `[MỐC KẾT]`, `[TIẾP §N]`,
 `[MỞ ĐẦU]`, `[PHẦN CUỐI]`). Kệ dịch thành câu thơ Việt, ngắt dòng bằng
@@ -444,7 +444,7 @@ khác hẳn Trường Bộ/Trung Bộ/Tương Ưng Bộ, cần script trích xu�
 
 ```bash
 python3 scripts/extract-an-suttas.py \
-    "tam-tang-pali-goc/tang-chi-bo-anguttaranikaya/ekakanipata-mot-phap.typ" \
+    "kinh/tam-tang-pali-goc/tang-chi-bo-anguttaranikaya/ekakanipata-mot-phap.typ" \
     .build/an/1 --prefix AN1
 ```
 
@@ -476,8 +476,8 @@ mục 3. Một số kinh dài (đặc biệt trong Dasaka/Ekādasakanipāta li�
 ```bash
 python3 scripts/assemble-an-translation.py --nipata 1 \
     --packs .build/an/1 \
-    --parts "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts" \
-    --out "ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya"
+    --parts "kinh/ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya/.parts" \
+    --out "kinh/ban-dich-doc-lap-tu-pali-goc/tang-chi-bo-anguttaranikaya"
 ```
 
 Ghép 1 nipāta mỗi lần chạy (11 file đích, tên trùng file Pali nguồn). Dịch
@@ -555,7 +555,7 @@ Ghép tập:
 python3 scripts/assemble-vinaya-translation.py
 ```
 
-Đích: `ban-dich-doc-lap-tu-pali-goc/luat-tang-vinayapitaka/`,
+Đích: `kinh/ban-dich-doc-lap-tu-pali-goc/luat-tang-vinayapitaka/`,
 bốn file `.typ` cùng tên với Pali nguồn. File `.part` gitignored:
 `PJ001.part`, `PC001.part`, `MV001.part`, `CV001.part`. Hướng dẫn agent:
 `docs/vinaya-agent-instructions.md`.

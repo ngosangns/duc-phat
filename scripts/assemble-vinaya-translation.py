@@ -96,14 +96,14 @@ def main():
         "--parts",
         type=Path,
         default=ROOT
-        / "ban-dich-doc-lap-tu-pali-goc"
+        / "kinh/ban-dich-doc-lap-tu-pali-goc"
         / "luat-tang-vinayapitaka"
         / ".parts",
     )
     ap.add_argument(
         "--out",
         type=Path,
-        default=ROOT / "ban-dich-doc-lap-tu-pali-goc" / "luat-tang-vinayapitaka",
+        default=ROOT / "kinh/ban-dich-doc-lap-tu-pali-goc" / "luat-tang-vinayapitaka",
     )
     ap.add_argument("--chapter-titles", type=Path, default=ROOT / "scripts" / "vinaya-chapter-titles.tsv")
     ap.add_argument("--titles", type=Path, default=ROOT / "scripts" / "vinaya-titles.tsv")
@@ -176,7 +176,7 @@ def main():
         )
         note = (
             "Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali "
-            f"({meta['pali']}, xem thư mục \"tam-tang-pali-goc\" trong cùng thư viện), "
+            f"({meta['pali']}, xem thư mục \"kinh/tam-tang-pali-goc\" trong cùng thư viện), "
             "không đối chiếu hay dựa theo bản dịch phổ biến đã có sẵn trong thư viện này. "
             "Số đoạn (#super[N]) đếm lại từ 1 trong từng điều học / kathā / khandhaka-đơn vị, "
             "khớp gói nguồn đã chuẩn hoá. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc. "

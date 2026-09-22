@@ -46,6 +46,7 @@ void boot();
 
 async function boot() {
   applySettings();
+  if ("scrollRestoration" in history) history.scrollRestoration = "manual";
   window.addEventListener("pagehide", flushPlace);
   document.addEventListener("visibilitychange", () => {
     if (document.visibilityState === "hidden") flushPlace();
@@ -54,7 +55,7 @@ async function boot() {
     catalog = await loadCatalog();
     document.title = catalog.title;
     const last = mostRecent();
-    if (!location.hash && last) {
+    if (!location.hash && last?.route.startsWith("new/")) {
       location.hash = `#/${last.route}`;
       return;
     }
@@ -65,7 +66,7 @@ async function boot() {
 }
 
 function flushPlace(): void {
-  if (!session) return;
+  if (!session || !session.root.isConnected) return;
   savePlace(capturePlace(session.route, session.title, session.root));
 }
 
@@ -84,6 +85,7 @@ function parseHash(): string[] {
 
 async function route() {
   if (!catalog) return;
+  flushPlace();
   tocOpen = false;
   document.body.classList.remove("toc-lock");
   const segs = parseHash();
@@ -92,8 +94,8 @@ async function route() {
     return;
   }
   const col = findCollection(catalog, segs[0]);
-  if (!col) {
-    renderMissing();
+  if (!col || col.id !== "new") {
+    location.hash = "#/";
     return;
   }
   if (segs.length === 1) {
@@ -125,17 +127,17 @@ async function route() {
 function renderShelf(cat: Catalog) {
   document.title = cat.title;
   const rec = mostRecent();
-  const marks = loadBookmarks();
+  const marks = loadBookmarks().filter((m) => m.route.startsWith("new/"));
   app.innerHTML = `
     ${topBar(cat.title, cat.subtitle, false)}
     <main class="wrap">
       <section class="hero">
         <h1>${escapeHtml(cat.title)}</h1>
-        <p>${escapeHtml(cat.subtitle)}. Ba kệ sách: bản Việt đã lưu hành, nguyên bản Pāli, và bản dịch độc lập từ Pāli gốc.</p>
-        ${rec ? continueCard(rec) : ""}
+        <p>${escapeHtml(cat.subtitle)}. Bản dịch độc lập, dịch thẳng từ nguyên bản Pāli.</p>
+        ${rec && rec.route.startsWith("new/") ? continueCard(rec) : ""}
       </section>
       ${marks.length ? marksList(marks) : ""}
-      ${cat.collections.map((c) => shelfRow(c)).join("")}
+      ${cat.collections.filter((c) => c.id === "new").map((c) => shelfRow(c)).join("")}
     </main>
   `;
   app.querySelectorAll<HTMLButtonElement>("[data-unmark]").forEach((btn) => {
@@ -436,6 +438,7 @@ async function renderReader(
   `;
 
   bindChrome();
+  window.scrollTo(0, 0);
   requestAnimationFrame(revealActiveToc);
 
   const article = app.querySelector<HTMLElement>("#sutta")!;

@@ -23,7 +23,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-PALI_DIR = ROOT / "tam-tang-pali-goc" / "tieu-bo-khuddakanikaya"
+PALI_DIR = ROOT / "kinh/tam-tang-pali-goc" / "tieu-bo-khuddakanikaya"
 
 BOOKS = {
     "kp": {

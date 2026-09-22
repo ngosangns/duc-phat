@@ -4,8 +4,8 @@
 Cách dùng:
     python3 scripts/assemble-kn-translation.py \
         --packs .build/kn \
-        --parts "ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts" \
-        --out "ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya"
+        --parts "kinh/ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts" \
+        --out "kinh/ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya"
 """
 
 from __future__ import annotations
@@ -146,12 +146,12 @@ def main():
     ap.add_argument(
         "--parts",
         type=Path,
-        default=Path("ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts"),
+        default=Path("kinh/ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya/.parts"),
     )
     ap.add_argument(
         "--out",
         type=Path,
-        default=Path("ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya"),
+        default=Path("kinh/ban-dich-doc-lap-tu-pali-goc/tieu-bo-khuddakanikaya"),
     )
     ap.add_argument("--titles", type=Path, default=Path("scripts/kn-titles.tsv"))
     ap.add_argument("--book", choices=list(BOOKS))
@@ -209,7 +209,7 @@ def main():
         )
         note = (
             "Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali "
-            f"({pali_ref}, xem thư mục \"tam-tang-pali-goc\" trong cùng thư viện), không "
+            f"({pali_ref}, xem thư mục \"kinh/tam-tang-pali-goc\" trong cùng thư viện), không "
             "đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã "
             "có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) giữ "
             "theo gói nguồn đã chuẩn hoá: Pháp Cú dùng số kệ toàn cục 1–423; các tập khác "

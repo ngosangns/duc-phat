@@ -784,6 +784,7 @@ details[open] > summary .rtoc-sum .rtoc-chev { margin-top: 0.48rem; }
 
 .reader-main {
   min-width: 0;
+  overflow-anchor: none;
 }
 
 .paper {

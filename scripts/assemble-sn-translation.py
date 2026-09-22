@@ -228,7 +228,7 @@ def main():
 = {name} — Bản dịch mới từ Pali gốc — {tail_vi} ({tail_pali})
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali
-({pali_ref}, xem thư mục "tam-tang-pali-goc" trong cùng thư viện), không
+({pali_ref}, xem thư mục "kinh/tam-tang-pali-goc" trong cùng thư viện), không
 đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã
 có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) đếm
 lại từ 1 trong từng đơn vị: mỗi kinh có tiêu đề riêng, hoặc mỗi nhóm kinh

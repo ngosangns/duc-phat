@@ -4,17 +4,17 @@ Kho kinh điển Theravāda dạng Typst: bản Việt đã lưu hành, nguyên 
 
 ## Lưu ý về bản dịch AI
 
-**Toàn bộ bản dịch độc lập trong thư mục `ban-dich-doc-lap-tu-pali-goc/` do AI dịch từ nguyên bản Pāli.** Đây không phải bản dịch của tăng sĩ hay học giả đã thẩm định.
+**Toàn bộ bản dịch độc lập trong thư mục `kinh/ban-dich-doc-lap-tu-pali-goc/` do AI dịch từ nguyên bản Pāli.** Đây không phải bản dịch của tăng sĩ hay học giả đã thẩm định.
 
-Người duy trì kho **không chịu trách nhiệm** nếu bản dịch sai, lệch nghĩa, thiếu sót, hoặc không phù hợp để trích dẫn học thuật, ấn tống, hay hành trì. Đọc để tham khảo; khi cần độ tin cậy, hãy đối chiếu nguyên tác Pāli (thư mục `tam-tang-pali-goc/`) hoặc các bản dịch đã xuất bản (thư mục `kinh-tieng-viet-suu-tam/`).
+Người duy trì kho **không chịu trách nhiệm** nếu bản dịch sai, lệch nghĩa, thiếu sót, hoặc không phù hợp để trích dẫn học thuật, ấn tống, hay hành trì. Đọc để tham khảo; khi cần độ tin cậy, hãy đối chiếu nguyên tác Pāli (thư mục `kinh/tam-tang-pali-goc/`) hoặc các bản dịch đã xuất bản (thư mục `kinh/kinh-tieng-viet-suu-tam/`).
 
 ## Có gì trong kho
 
 | Thư mục | Nội dung |
 |---|---|
-| `kinh-tieng-viet-suu-tam/` | Bản Việt đã xuất bản (HT. Thích Minh Châu và các dịch giả khác), chuẩn hóa sang Typst |
-| `tam-tang-pali-goc/` | Nguyên bản Pāli (ấn bản Chaṭṭha Saṅgāyana) |
-| `ban-dich-doc-lap-tu-pali-goc/` | Bản Việt dịch thẳng từ Pāli, độc lập với các bản đã lưu hành — **do AI dịch** |
+| `kinh/kinh-tieng-viet-suu-tam/` | Bản Việt đã xuất bản (HT. Thích Minh Châu và các dịch giả khác), chuẩn hóa sang Typst |
+| `kinh/tam-tang-pali-goc/` | Nguyên bản Pāli (ấn bản Chaṭṭha Saṅgāyana) |
+| `kinh/ban-dich-doc-lap-tu-pali-goc/` | Bản Việt dịch thẳng từ Pāli, độc lập với các bản đã lưu hành — **do AI dịch** |
 | `web/` | Site đọc dạng kệ sách + mặt giấy |
 | `scripts/` | Ghép bản dịch, xuất HTML cho web |
 | `docs/` | Quy ước dịch và ghi chú kỹ thuật |
@@ -22,6 +22,8 @@ Người duy trì kho **không chịu trách nhiệm** nếu bản dịch sai, l
 Phạm vi: Trường Bộ, Trung Bộ, Tương Ưng Bộ, Tăng Chi Bộ, Tiểu Bộ (tuyển), Luật tạng (tuyển, không gồm Tập Yếu).
 
 ## Đọc trên web
+
+Site chỉ mở bản dịch độc lập (`kinh/ban-dich-doc-lap-tu-pali-goc/`). Bản Việt sưu tầm và Pāli gốc nằm trong `kinh/` để đối chiếu, không đưa lên kệ sách.
 
 - https://phat.gnas.dev
 - https://gn-duc-phat.pages.dev
