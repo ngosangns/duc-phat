@@ -734,7 +734,10 @@ khi còn là người tôi đã làm gì; \
 do đó tôi có oai lực chói sáng như vậy, \
 và dung sắc tôi chiếu sáng mọi phương."
 
-#super[13] Và bạch Tôn giả, xin hãy nhân lời tôi, cúi đầu đảnh lễ dưới chân Thế Tôn: "Bạch Thế Tôn, nữ cư sĩ tên Uttarā cúi đầu đảnh lễ dưới chân Thế Tôn." Thật không lạ, bạch Tôn giả, nếu Thế Tôn thọ ký tôi ở một quả vị Sa-môn nào đó — Thế Tôn đã thọ ký tôi quả Nhất lai.
+#super[13] Và bạch Tôn giả, xin hãy nhân lời tôi, cúi đầu đảnh lễ dưới chân Thế Tôn: \
+"Bạch Thế Tôn, nữ cư sĩ tên Uttarā cúi đầu đảnh lễ dưới chân Thế Tôn." \
+Thật không lạ, bạch Tôn giả, nếu Thế Tôn thọ ký tôi ở một quả vị Sa-môn nào đó — \
+Thế Tôn đã thọ ký tôi quả Nhất lai.
 
 #strong[(Hết chuyện thiên cung Uttarā, thứ mười lăm.)]
 
@@ -1004,7 +1007,10 @@ Tôi nói cho Tôn giả, này Tỷ-kheo đại oai lực, \
 khi còn là người tôi đã làm phước gì; \
 do đó tôi có oai lực chói sáng như vậy, \
 và dung sắc tôi chiếu sáng mọi phương." \
-Và bạch Tôn giả, xin hãy nhân lời tôi, cúi đầu đảnh lễ dưới chân Thế Tôn: "Bạch Thế Tôn, nữ cư sĩ tên Lakhumā cúi đầu đảnh lễ dưới chân Thế Tôn." Thật không lạ, bạch Tôn giả, nếu Thế Tôn thọ ký tôi ở một quả vị Sa-môn nào đó. Thế Tôn đã thọ ký tôi quả Nhất lai.
+Và bạch Tôn giả, xin hãy nhân lời tôi, cúi đầu đảnh lễ dưới chân Thế Tôn: \
+"Bạch Thế Tôn, nữ cư sĩ tên Lakhumā cúi đầu đảnh lễ dưới chân Thế Tôn." \
+Thật không lạ, bạch Tôn giả, nếu Thế Tôn thọ ký tôi ở một quả vị Sa-môn nào đó. \
+Thế Tôn đã thọ ký tôi quả Nhất lai.
 
 #strong[(Hết chuyện thiên cung Lakhumā, thứ hai.)]
 
@@ -2290,8 +2296,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 45. Chuyện thiên cung Timbarusakadāyikā (Timbarusakadāyikāvimānavatthu (3))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí trái timbaru \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2304,8 +2324,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 46. Chuyện thiên cung Kakkārikadāyikā (Kakkārikadāyikāvimānavatthu (4))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dưa kakkārika \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2318,8 +2352,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 47. Chuyện thiên cung Eḷālukadāyikā (Eḷālukadāyikāvimānavatthu (5))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dưa eḷāluka \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2332,8 +2380,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 48. Chuyện thiên cung Valliphaladāyikā (Valliphaladāyikāvimānavatthu(6))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí trái dây leo \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2346,8 +2408,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 49. Chuyện thiên cung Phārusakadāyikā (Phārusakadāyikāvimānavatthu (7))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí trái phārusaka \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2360,8 +2436,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 50. Chuyện thiên cung Hatthappatāpakadāyikā (Hatthappatāpakadāyikāvimānavatthu (8))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí bánh nướng \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2374,8 +2464,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 51. Chuyện thiên cung Sākamuṭṭhidāyikā (Sākamuṭṭhidāyikāvimānavatthu (9))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí một nắm rau \
 cho vị Tỷ-kheo đang đi trên đường; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2388,8 +2492,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 52. Chuyện thiên cung Pupphakamuṭṭhidāyikā (Pupphakamuṭṭhidāyikāvimānavatthu (10))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí một nắm hoa \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2402,8 +2520,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 53. Chuyện thiên cung Mūlakadāyikā (Mūlakadāyikāvimānavatthu (11))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí củ cải \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2416,8 +2548,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 54. Chuyện thiên cung Nimbamuṭṭhidāyikā (Nimbamuṭṭhidāyikāvimānavatthu (12))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí một nắm lá nimba \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2430,8 +2576,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 55. Chuyện thiên cung Ambakañjikadāyikā (Ambakañjikadāyikāvimānavatthu (13))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí cháo chua xoài \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2444,8 +2604,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 56. Chuyện thiên cung Doṇinimmajjanidāyikā (Doṇinimmajjanidāyikāvimānavatthu (14))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dụng cụ rửa chậu \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2458,8 +2632,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 57. Chuyện thiên cung Kāyabandhanadāyikā (Kāyabandhanadāyikāvimānavatthu (15))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dây thắt lưng \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2472,8 +2660,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 58. Chuyện thiên cung Aṃsabaddhakadāyikā (Aṃsabaddhakadāyikāvimānavatthu (16))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dây đeo vai \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2486,8 +2688,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 59. Chuyện thiên cung Āyogapaṭṭadāyikā (Āyogapaṭṭadāyikāvimānavatthu (17))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí đai áyoga \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2500,8 +2716,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 60. Chuyện thiên cung Vidhūpanadāyikā (Vidhūpanadāyikāvimānavatthu (18))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí quạt \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2514,8 +2744,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 61. Chuyện thiên cung Tālavaṇṭadāyikā (Tālavaṇṭadāyikāvimānavatthu (19))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí quạt lá thốt nốt \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2528,8 +2772,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 62. Chuyện thiên cung Morahatthadāyikā (Morahatthadāyikāvimānavatthu (20))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí quạt lông công \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2542,8 +2800,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 63. Chuyện thiên cung Chattadāyikā (Chattadāyikāvimānavatthu (21))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí lọng \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2556,8 +2828,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 64. Chuyện thiên cung Upāhanadāyikā (Upāhanadāyikāvimānavatthu (22))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dép \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2570,8 +2856,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 65. Chuyện thiên cung Pūvadāyikā (Pūvadāyikāvimānavatthu (23))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí bánh \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2584,8 +2884,22 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 66. Chuyện thiên cung Modakadāyikā (Modakadāyikāvimānavatthu (24))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây \
+với dung sắc thù thắng, \
+chiếu sáng khắp các phương, \
+như ngôi sao Osadhī. \
+Do đâu nàng có dung sắc như vậy, \
+do đâu ở đây mọi sự thành tựu cho nàng? \
+Những của cải nào vừa ý, \
+đều hiện ra cho nàng. \
+Tôi hỏi nàng, này thiên nữ đại oai lực, \
+khi còn làm người, nàng đã làm phước gì? \
+Do đâu nàng có oai lực chói sáng như vậy, \
+và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, \
+được Tôn giả Moggallāna hỏi; \
+được hỏi, nàng trả lời câu hỏi, \
+nói về nghiệp nào có quả này: \
 "Tôi đã bố thí bánh ngọt \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \

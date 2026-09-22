@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "grammar-checker-vi": {
+      "source": "longhang2004/vietnamese-humanizer",
+      "sourceType": "github",
+      "skillPath": "skills/grammar-checker-vi/SKILL.md",
+      "computedHash": "3786a166254e365a19529ad63cdf708cf55ca340c690e86bcda406ec2c89f174"
+    },
+    "humanizer-vi": {
+      "source": "longhang2004/vietnamese-humanizer",
+      "sourceType": "github",
+      "skillPath": "skills/humanizer-vi/SKILL.md",
+      "computedHash": "b727ce57c0c2c0df06524fdc7106d092bda926b9012b6a9bcfc9f520fd6a2e20"
+    },
+    "style-guide-vi": {
+      "source": "longhang2004/vietnamese-humanizer",
+      "sourceType": "github",
+      "skillPath": "skills/style-guide-vi/SKILL.md",
+      "computedHash": "faff7fdbcc7222adbcf0fa6fe4b550e4b9b7663e36d9ef6000f5c193db6beb9b"
+    },
+    "translationese-cleaner-vi": {
+      "source": "longhang2004/vietnamese-humanizer",
+      "sourceType": "github",
+      "skillPath": "skills/translationese-cleaner-vi/SKILL.md",
+      "computedHash": "5d89eaf2627225fbcb0f66c63832f77513b57203a71e1f5d66c8e2198a666d51"
+    },
+    "vietnamese-writer": {
+      "source": "thanhan-a17/vietnamese-writer-skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "310574aa3661e5017c9d72992a5ad07afebf95e32b2237ee0a5acd862bac2418"
+    }
+  }
+}

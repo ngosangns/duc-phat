@@ -71,7 +71,7 @@ _Trạng thái: đã dịch 9/9 đơn vị (1–9); đã trọn tập._
 
 == 5. Kinh Điềm Lành (Maṅgalasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Khi đêm đã về khuya, một chư thiên với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng qua một bên, chư thiên ấy nói lên bài kệ với Thế Tôn:
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn ông Anāthapiṇḍika. Đêm đã khuya, có một vị thiên với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đến chỗ Thế Tôn, đảnh lễ, đứng sang một bên, rồi nói lên bài kệ này với Thế Tôn:
 
 #super[2] "Chư thiên và loài người rất nhiều \
 đã suy nghĩ về các điềm lành; \

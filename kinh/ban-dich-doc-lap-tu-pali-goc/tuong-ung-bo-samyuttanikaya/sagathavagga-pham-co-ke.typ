@@ -26,41 +26,53 @@ _Trạng thái: đã dịch 28/28 vagga; đã trọn tập._
 
 ==== Kinh 1.1. Vượt Dòng (Oghataraṇasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Khi đêm đã về khuya, một chư thiên
-với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế
-Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng qua một bên, chư
-thiên ấy bạch Thế Tôn: "Thưa Tôn giả, Ngài đã vượt qua dòng nước như thế
-nào?" "Này hiền giả, không trụ lại và không gắng sức, ta đã vượt qua dòng
-nước." "Nhưng thưa Tôn giả, làm thế nào mà không trụ lại, không gắng sức,
-Ngài vượt qua được dòng nước?" "Này hiền giả, khi ta trụ lại thì ta chìm
-xuống; khi ta gắng sức thì ta bị cuốn trôi. Như vậy, này hiền giả, không
-trụ lại, không gắng sức, ta đã vượt qua dòng nước." \
-Chư thiên ấy nói lên bài kệ: \
-"Đã lâu lắm thay, nay tôi mới được thấy \
-một Bà-la-môn đã hoàn toàn tịch tĩnh, \
-không trụ lại, không gắng sức, \
-đã vượt qua sự dính mắc ở đời." \
-Thế Tôn nói như vậy…
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, rừng
+Jetavana, vườn của ông Anāthapiṇḍika. Đêm đã khuya, một vị chư thiên,
+dung sắc rực rỡ, chiếu sáng cả rừng Jetavana, đến chỗ Thế Tôn, đảnh lễ,
+rồi đứng sang một bên. Đứng đó, vị ấy hỏi:
+
+"Thưa Ngài, Ngài đã vượt dòng nước như thế nào?"
+
+"Này hiền giả, Ta không đứng lại, cũng không vùng vẫy, mà đã vượt dòng."
+
+"Thưa Ngài, không đứng lại, không vùng vẫy, thì vượt bằng cách nào?"
+
+"Này hiền giả, khi Ta đứng lại thì Ta chìm. Khi Ta vùng vẫy thì Ta bị
+cuốn trôi. Vì vậy Ta không đứng lại, không vùng vẫy, mà đã vượt dòng."
+
+Vị chư thiên nói bài kệ:
+
+"Lâu lắm rồi tôi mới thấy \
+một Bà-la-môn đã tịch tĩnh trọn vẹn, \
+không đứng lại, không vùng vẫy, \
+đã vượt sự dính mắc ở đời."
+
+Vị ấy nói xong. Thế Tôn nhận lời. Vị chư thiên nghĩ: "Bậc Đạo Sư nhận
+lời ta", liền đảnh lễ, đi vòng bên phải, rồi biến mất tại chỗ.
 
 ==== Kinh 1.2. Giải Thoát (Nimokkhasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Khi đêm đã về khuya, một chư thiên với
-dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn;
-đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng qua một bên, chư thiên
-ấy bạch Thế Tôn: "Thưa Tôn giả, Ngài có biết sự giải thoát, sự thoát khỏi,
-sự ly khai của chúng sanh không?" "Này hiền giả, ta có biết sự giải thoát,
-sự thoát khỏi, sự ly khai của chúng sanh." "Nhưng thưa Tôn giả, làm thế
-nào mà Ngài biết được sự giải thoát, sự thoát khỏi, sự ly khai của chúng
-sanh?" "Này hiền giả, do sự đoạn tận hỷ tham và hữu, \
-do sự đoạn tận tưởng và thức, \
-do sự diệt tận và an tịnh của các thọ — \
-như vậy, này hiền giả, ta biết sự giải thoát, \
+#super[1] Cũng tại Sāvatthī. Khi đêm đã về khuya, một chư thiên với
+dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đến chỗ Thế Tôn,
+đảnh lễ, đứng sang một bên. Vị ấy hỏi:
+
+"Thưa Ngài, Ngài có biết sự giải thoát, sự thoát khỏi, sự ly khai của
+chúng sanh không?"
+
+"Này hiền giả, Ta có biết sự giải thoát, sự thoát khỏi, sự ly khai của
+chúng sanh."
+
+"Thưa Ngài, Ngài biết bằng cách nào?"
+
+"Này hiền giả, do đoạn tận hỷ tham và hữu, \
+do đoạn tận tưởng và thức, \
+do diệt tận và an tịnh các thọ — \
+như vậy, này hiền giả, Ta biết sự giải thoát, \
 sự thoát khỏi, sự ly khai của chúng sanh."
 
 ==== Kinh 1.3. Đưa Đến Gần (Upanīyasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Đời sống bị dẫn tới gần, tuổi thọ ngắn ngủi, \
 với người đã bị già dẫn tới, không có chỗ nương tựa; \
@@ -74,7 +86,7 @@ hãy từ bỏ mồi ngon của đời, với tâm hướng về an tịnh."
 
 ==== Kinh 1.4. Thời Gian Trôi Qua (Accentisuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Thời gian trôi qua, các đêm lần lượt mau qua, \
 các giai đoạn của tuổi tác dần dần bỏ ta lại; \
@@ -88,7 +100,7 @@ hãy từ bỏ mồi ngon của đời, với tâm hướng về an tịnh."
 
 ==== Kinh 1.5. Cắt Bao Nhiêu (Katichindasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Cắt bao nhiêu, bỏ bao nhiêu, \
 tu tập thêm bao nhiêu nữa; \
@@ -102,7 +114,7 @@ Tỷ-kheo vượt qua năm sự trói buộc \
 
 ==== Kinh 1.6. Thức Tỉnh (Jāgarasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Bao nhiêu người đang thức lại ngủ, \
 bao nhiêu người đang ngủ lại thức; \
@@ -116,7 +128,7 @@ do năm điều mà được thanh tịnh."
 
 ==== Kinh 1.7. Không Thấu Hiểu (Appaṭividitasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Những ai chưa thấu hiểu các pháp, \
 bị dẫn dắt bởi lời nói của kẻ khác; \
@@ -130,7 +142,7 @@ sống thanh thản giữa chốn không bằng phẳng."
 
 ==== Kinh 1.8. Hoàn Toàn Quên Mất (Susammuṭṭhasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Những ai hoàn toàn quên mất các pháp, \
 bị dẫn dắt bởi lời nói của kẻ khác; \
@@ -144,7 +156,7 @@ sống thanh thản giữa chốn không bằng phẳng."
 
 ==== Kinh 1.9. Kẻ Mong Cầu Kiêu Mạn (Mānakāmasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Ở đây, kẻ mong cầu kiêu mạn không có sự điều phục, \
 người không định tĩnh thì không có trí tuệ; \
@@ -158,7 +170,7 @@ người ấy có thể vượt qua bờ bên kia của cõi chết."
 
 ==== Kinh 1.10. Rừng Vắng (Araññasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói với
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói với
 Thế Tôn bằng bài kệ: \
 "Những vị sống trong rừng vắng, \
 những vị Phạm hạnh an tịnh, \
@@ -190,18 +202,19 @@ do đó phẩm này được gọi tên như vậy.
 
 ==== Kinh 1.1. Vườn Hoan Hỷ (Nandanasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Tại đó, Thế Tôn gọi các Tỷ-kheo:
-"Này các thầy Tỷ-kheo." "Bạch Thế Tôn," các Tỷ-kheo vâng đáp Thế Tôn. Thế
-Tôn nói như vầy: Thuở xưa, này các thầy Tỷ-kheo, một chư thiên thuộc cõi
-Tam Thập Tam, giữa vườn Nandana, được đoàn thiên nữ vây quanh, đầy đủ và
-đang thọ hưởng năm dục lạc cõi trời, lúc bấy giờ nói lên bài kệ này: \
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, rừng
+Jetavana, vườn của ông Anāthapiṇḍika. Tại đó, Thế Tôn gọi các Tỷ-kheo:
+"Này các thầy." Các Tỷ-kheo đáp: "Bạch Thế Tôn." Thế Tôn nói:
+
+Thuở xưa, này các thầy, một chư thiên thuộc cõi Tam Thập Tam, giữa vườn
+Nandana, được đoàn thiên nữ vây quanh, đang thọ hưởng năm dục lạc cõi
+trời, nói lên bài kệ này: \
 "Người nào không thấy vườn Nandana, \
 người ấy không biết niềm an vui ấy — \
 chỗ ở của chư thiên và loài người, \
 của chư thiên Tam Thập Tam danh tiếng." \
-Nghe vậy, này các thầy Tỷ-kheo, một chư thiên khác đáp lại chư thiên ấy
-bằng bài kệ: \
+
+Nghe vậy, này các thầy, một chư thiên khác đáp lại bằng bài kệ: \
 "Này kẻ ngu, ngươi không biết \
 lời dạy của các bậc A-la-hán: \
 mọi hành đều vô thường, \
@@ -211,7 +224,7 @@ sự an tịnh của chúng là an vui."
 
 ==== Kinh 1.2. Vui Mừng (Nandatisuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Người có con vui mừng vì con, \
 người có bò vui mừng vì bò; \
@@ -225,7 +238,7 @@ nhưng người không còn tham chấp thì không sầu muộn."
 
 ==== Kinh 1.3. Không Gì Bằng Con (Natthiputtasamasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Không có tình thương nào bằng tình thương con, \
 không có tài sản nào bằng đàn bò; \
@@ -378,8 +391,7 @@ vì Ngài được các chư thiên đại thần lực khác vây quanh. Nếu 
 Thế Tôn và hỏi Ngài về ý nghĩa này, chúng ta cũng sẽ đi đến để nghe
 pháp." \
 Tôn giả Samiddhi vâng đáp chư thiên ấy: "Vâng, này hiền giả," rồi đi đến
-chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một
-bên, Tôn giả Samiddhi bạch Thế Tôn: Bạch Thế Tôn, ở đây, con đứng dậy lúc
+chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên, Tôn giả Samiddhi bạch Thế Tôn: Bạch Thế Tôn, ở đây, con đứng dậy lúc
 rạng đông, đi đến suối Tapodā để tắm rửa thân thể. Sau khi tắm rửa thân
 thể ở suối Tapodā, con lên bờ, đứng với một y trên người, để cho thân thể
 khô lại. Bạch Thế Tôn, khi ấy có một chư thiên với dung sắc thù thắng,
@@ -477,7 +489,7 @@ và Samiddhi được nói là thứ mười.
 
 ==== Kinh 1.1. Đao Kiếm (Sattisuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
+#super[1] Cũng tại Sāvatthi. Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
 "Như bị đao kiếm chạm vào, \
 như đầu đang bốc cháy; \
@@ -644,9 +656,7 @@ Chân Nai là thứ mười.
 Jetavana, khu vườn của Anāthapiṇḍika. Khi đêm đã về khuya, nhiều vị chư
 thiên thuộc nhóm Satullapakāyikā, với dung sắc thù thắng, chiếu sáng khắp
 cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng
-qua một bên.
-
-Đứng qua một bên, các vị chư thiên ấy lần lượt nói lên những bài kệ
+qua một bên, các vị chư thiên ấy lần lượt nói lên những bài kệ
 trước Thế Tôn, đều mở đầu bằng cùng một khuôn mẫu: "Hãy chỉ kết giao với
 người hiền, hãy chỉ làm bạn với người hiền; hiểu được chánh pháp của
 người hiền" — rồi mỗi vị nói tiếp một câu kết riêng: sẽ trở nên tốt hơn,
@@ -671,9 +681,7 @@ vòng quanh theo phía bên phải, rồi biến mất ngay tại đó.
 vườn của Anāthapiṇḍika. Khi đêm đã về khuya, nhiều vị chư thiên thuộc
 nhóm Satullapakāyikā, với dung sắc thù thắng, chiếu sáng khắp cả rừng
 Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một
-bên.
-
-Đứng qua một bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
+bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
 "Do bỏn xẻn và do buông lung, \
 nên người ta không bố thí như vậy; \
 Người muốn được phước, người có hiểu biết, \
@@ -732,12 +740,10 @@ không bằng một phần nhỏ của người cho công bằng kia."
 
 ==== Kinh 1.3. Bố Thí Là Tốt (Sādhusuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Bấy giờ, nhiều vị chư thiên thuộc
+#super[1] Cũng tại Sāvatthi. Bấy giờ, nhiều vị chư thiên thuộc
 nhóm Satullapakāyikā, khi đêm đã về khuya, với dung sắc thù thắng, chiếu
 sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn
-và đứng qua một bên.
-
-Đứng qua một bên, một vị chư thiên nói lên lời cảm thán này trước Thế
+và đứng qua một bên, một vị chư thiên nói lên lời cảm thán này trước Thế
 Tôn: "Bố thí là tốt, thưa Hiền giả! Do bỏn xẻn và buông lung mà người ta
 không bố thí như vậy; người muốn được phước, người có hiểu biết, nên bố
 thí."
@@ -780,9 +786,7 @@ Những người hiền thời xưa và thời xưa hơn nữa, \
 vườn của Anāthapiṇḍika. Khi đêm đã về khuya, nhiều vị chư thiên thuộc
 nhóm Satullapakāyikā, với dung sắc thù thắng, chiếu sáng khắp cả rừng
 Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một
-bên.
-
-Đứng qua một bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
+bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
 "Các dục không thường tồn nơi loài người, \
 nhưng ở đời vẫn có những điều đáng ưa trói buộc người ta; \
 Ai buông lung, đắm say trong đó, \
@@ -890,9 +894,7 @@ con xin nhận lời xin lỗi của Ngài."
 vườn của Anāthapiṇḍika. Khi đêm đã về khuya, nhiều vị chư thiên thuộc
 nhóm Satullapakāyikā, với dung sắc thù thắng, chiếu sáng khắp cả rừng
 Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một
-bên.
-
-Đứng qua một bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
+bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
 "Lòng tin là người bạn thứ hai của con người, \
 nếu không đứng lại nơi sự không tin; \
 Danh vọng và tiếng tốt sẽ đến với người ấy, \
@@ -925,9 +927,7 @@ gặp Thế Tôn; đến rồi, mỗi vị hãy nói lên một bài kệ trư�
 các vị chư thiên ấy — ví như một người lực lưỡng duỗi cánh tay đang co
 lại, hay co cánh tay đang duỗi ra — biến mất khỏi cõi Tịnh Cư và hiện ra
 ngay trước Thế Tôn. Các vị chư thiên ấy đảnh lễ Thế Tôn và đứng qua một
-bên.
-
-Đứng qua một bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
+bên, một vị chư thiên nói lên bài kệ này trước Thế Tôn: \
 "Đại hội lớn trong rừng, \
 các nhóm chư thiên đã tụ hội; \
 Chúng con đến với hội pháp này, \
@@ -965,9 +965,7 @@ tỉnh giác.
 
 Khi ấy, bảy trăm vị chư thiên thuộc nhóm Satullapakāyikā, khi đêm đã về
 khuya, với dung sắc thù thắng, chiếu sáng khắp cả khu vườn Maddakucchi,
-đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên.
-
-Đứng qua một bên, một vị chư thiên nói lên lời cảm thán này trước Thế
+đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên, một vị chư thiên nói lên lời cảm thán này trước Thế
 Tôn: "Sa-môn Gotama quả là một vị Long tượng; và như xứng với danh Long
 tượng, Ngài chịu đựng những cảm giác đau đớn nơi thân thể — đau nhức,
 nhọn, gay gắt, cay đắng, không dễ chịu, không thích ý — với niệm và tỉnh
@@ -1011,9 +1009,7 @@ người ấy có thể vượt qua bờ bên kia của cõi Thần Chết."
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại Vesāli, trong Đại
 Lâm, tại giảng đường Kūṭāgāra. Bấy giờ, Kokanadā, con gái của Pajjunna,
 khi đêm đã về khuya, với dung sắc thù thắng, chiếu sáng khắp cả Đại Lâm,
-đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên.
-
-Đứng qua một bên, chư thiên Kokanadā, con gái của Pajjunna, nói lên
+đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên, chư thiên Kokanadā, con gái của Pajjunna, nói lên
 những bài kệ này trước Thế Tôn: \
 "Con xin đảnh lễ đấng Chánh Đẳng Giác, \
 tối thượng trong các loài hữu tình, \
@@ -1037,9 +1033,7 @@ sẽ làm đầy đủ thêm hàng ngũ chư thiên."
 Lâm, tại giảng đường Kūṭāgāra. Bấy giờ, Cūḷakokanadā, con gái của
 Pajjunna, khi đêm đã về khuya, với dung sắc thù thắng, chiếu sáng khắp
 cả Đại Lâm, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một
-bên.
-
-Đứng qua một bên, chư thiên Cūḷakokanadā, con gái của Pajjunna, nói lên
+bên, chư thiên Cūḷakokanadā, con gái của Pajjunna, nói lên
 những bài kệ này trước Thế Tôn: \
 "Nàng Kokanadā, con gái của Pajjunna, \
 với dung sắc sáng như tia chớp, đã đến đây; \
@@ -1070,7 +1064,7 @@ Cả hai kinh Con Gái Của Pajjunna.
 rừng Jetavana, khu vườn của Anāthapiṇḍika. Khi ấy, một chư thiên, khi
 đêm đã về khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng
 Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một
-bên. Đứng qua một bên, chư thiên ấy nói lên những bài kệ này trước Thế
+bên, chư thiên ấy nói lên những bài kệ này trước Thế
 Tôn: \
 "Khi nhà đang bốc cháy, \
 vật dụng nào được mang ra, \
@@ -1526,7 +1520,7 @@ Bị Tai Họa, Bị Treo, Che Kín, \
 
 ==== Kinh 1.1. Cắt Đứt (Chetvāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Vị chư thiên ấy đứng một bên, \
+#super[1] Cũng tại Sāvatthī. Vị chư thiên ấy đứng một bên, \
 nói lên bài kệ với Thế Tôn: \
 "Cắt đứt gì thì ngủ an vui, \
 cắt đứt gì thì không sầu khổ? \
@@ -1720,8 +1714,7 @@ Quyền Lực, Dục và Hành Lương, \
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
 Jetavana, khu vườn của Anāthapiṇḍika. Khi ấy, thiên tử Kassapa, vào lúc
 đêm đã khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana,
-đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng
-một bên, thiên tử Kassapa bạch Thế Tôn: "Thế Tôn thuyết giảng về vị
+đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên, thiên tử Kassapa bạch Thế Tôn: "Thế Tôn thuyết giảng về vị
 Tỷ-kheo, nhưng Thế Tôn không khuyên dạy vị Tỷ-kheo ấy." "Vậy thì, này
 Kassapa, chính ngươi hãy làm rõ điều ấy đi." "Nên học tập lời nói khéo,
 học tập sự phụng sự các Sa-môn, học tập ngồi một mình nơi thanh vắng, và
@@ -1732,7 +1725,7 @@ ngay tại đó.
 
 ==== Kinh 2.2. Kassapa Thứ Hai (Dutiyakassapasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng một bên, thiên tử Kassapa nói lên
+#super[1] Cũng tại Sāvatthi. Đứng một bên, thiên tử Kassapa nói lên
 bài kệ này trước Thế Tôn: \
 "Tỷ-kheo nên là người tu thiền, tâm giải thoát, \
 nếu mong đạt đến sự thành tựu của tâm; \
@@ -1741,10 +1734,9 @@ tâm khéo hướng thiện, không chấp trước — đó là phước lợi 
 
 ==== Kinh 2.3. Māgha (Māghasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Khi ấy, thiên tử Māgha, vào lúc đêm đã
+#super[1] Cũng tại Sāvatthi. Khi ấy, thiên tử Māgha, vào lúc đêm đã
 khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến
-chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng một bên,
-thiên tử Māgha nói lên bài kệ này trước Thế Tôn: \
+chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên, thiên tử Māgha nói lên bài kệ này trước Thế Tôn: \
 "Cắt đứt điều gì thì ngủ được an vui, \
 cắt đứt điều gì thì không còn sầu muộn; \
 Thưa Gotama, Ngài tán thán \
@@ -1757,7 +1749,7 @@ các bậc Thánh tán thán sự đoạn trừ nó; \
 
 ==== Kinh 2.4. Māgadha (Māgadhasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng một bên, thiên tử Māgadha nói lên
+#super[1] Cũng tại Sāvatthi. Đứng một bên, thiên tử Māgadha nói lên
 bài kệ này trước Thế Tôn: \
 "Có bao nhiêu ánh sáng ở đời, \
 nhờ đó thế gian được chiếu sáng; \
@@ -1774,10 +1766,9 @@ chỗ này chỗ khác; \
 
 ==== Kinh 2.5. Dāmali (Dāmalisuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Khi ấy, thiên tử Dāmali, vào lúc đêm đã
+#super[1] Cũng tại Sāvatthi. Khi ấy, thiên tử Dāmali, vào lúc đêm đã
 khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến
-chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng một bên,
-thiên tử Dāmali nói lên bài kệ này trước Thế Tôn: \
+chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên, thiên tử Dāmali nói lên bài kệ này trước Thế Tôn: \
 "Đây là điều vị Bà-la-môn cần làm: \
 tinh cần, không biếng nhác; \
 Từ bỏ hoàn toàn các dục, \
@@ -1796,7 +1787,7 @@ vị ấy không cần phải cố sức nữa — vị ấy đã đến bờ ki
 
 ==== Kinh 2.6. Kāmada (Kāmadasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng một bên, thiên tử Kāmada bạch Thế
+#super[1] Cũng tại Sāvatthi. Đứng một bên, thiên tử Kāmada bạch Thế
 Tôn: "Bạch Thế Tôn, khó làm; bạch Thế Tôn, thật khó làm." "Này Kāmada —
 Thế Tôn gọi tên — dù khó làm, các vị hữu học vẫn làm, \
 những vị đã an trú vững vàng trong giới; \
@@ -1821,7 +1812,7 @@ vì các bậc Thánh vốn bình thản giữa chỗ gập ghềnh."
 
 ==== Kinh 2.7. Pañcālacaṇḍa (Pañcālacaṇḍasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng một bên, thiên tử Pañcālacaṇḍa nói
+#super[1] Cũng tại Sāvatthi. Đứng một bên, thiên tử Pañcālacaṇḍa nói
 lên bài kệ này trước Thế Tôn: \
 "Thật vậy, giữa chỗ chật hẹp, \
 đấng có trí tuệ như đất đã tìm được chỗ thông thoáng; \
@@ -1835,10 +1826,10 @@ các vị ấy khéo định tĩnh chân chánh."
 
 ==== Kinh 2.8. Tāyana (Tāyanasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Khi ấy, thiên tử Tāyana, vốn là một vị
+#super[1] Cũng tại Sāvatthi. Khi ấy, thiên tử Tāyana, vốn là một vị
 đạo sư ngoại đạo thời xưa, vào lúc đêm đã khuya, với dung sắc thù thắng,
 chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ
-Thế Tôn và đứng qua một bên. Đứng một bên, thiên tử Tāyana nói lên những
+Thế Tôn và đứng qua một bên, thiên tử Tāyana nói lên những
 bài kệ này trước Thế Tôn: \
 "Hãy cắt đứt dòng nước, dốc hết sức lực, \
 hãy xua đuổi các dục, này Bà-la-môn; \
@@ -1862,10 +1853,10 @@ bất cứ giới hạnh nào bị ô nhiễm; \
 sẽ không mang lại quả lớn." \
 Thiên tử Tāyana nói như vậy; nói xong, đảnh lễ Thế Tôn, đi vòng quanh
 theo phía bên phải, rồi biến mất ngay tại đó. Rồi Thế Tôn, khi đêm ấy
-vừa qua, gọi các Tỷ-kheo: "Này các thầy Tỷ-kheo, đêm nay có một thiên
+vừa qua, gọi các Tỷ-kheo: "Này các thầy, đêm nay có một thiên
 tử tên là Tāyana, vốn là một vị đạo sư ngoại đạo thời xưa, với dung sắc
 thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Ta; đến rồi,
-đảnh lễ Ta và đứng qua một bên. Đứng một bên, này các thầy, thiên tử
+đảnh lễ Ta và đứng qua một bên, này các thầy, thiên tử
 Tāyana nói lên những bài kệ này trước Ta: \
 "Hãy cắt đứt dòng nước, dốc hết sức lực, \
 hãy xua đuổi các dục, này Bà-la-môn; \
@@ -1888,14 +1879,14 @@ bất cứ giới hạnh nào bị ô nhiễm; \
 Đời sống Phạm hạnh đáng ngờ vực \
 sẽ không mang lại quả lớn." \
 Thiên tử Tāyana nói như vậy; nói xong, đảnh lễ Ta, đi vòng quanh theo
-phía bên phải, rồi biến mất ngay tại đó. Này các thầy Tỷ-kheo, hãy học
+phía bên phải, rồi biến mất ngay tại đó. này các thầy, hãy học
 các bài kệ của Tāyana; hãy ghi nhớ các bài kệ của Tāyana; hãy giữ gìn
-các bài kệ của Tāyana. Này các thầy Tỷ-kheo, các bài kệ của Tāyana đầy
+các bài kệ của Tāyana. này các thầy, các bài kệ của Tāyana đầy
 đủ ý nghĩa, thuộc về căn bản của Phạm hạnh."
 
 ==== Kinh 2.9. Candimā (Candimasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Lúc bấy giờ, thiên tử Candimā (Nguyệt
+#super[1] Cũng tại Sāvatthi. Lúc bấy giờ, thiên tử Candimā (Nguyệt
 thiên tử) bị A-tu-la vương Rāhu bắt giữ. Khi ấy, thiên tử Candimā, tưởng
 niệm đến Thế Tôn, ngay lúc đó nói lên bài kệ này: \
 "Con xin đảnh lễ Ngài, bậc Anh hùng, đấng Giác Ngộ, \
@@ -1910,7 +1901,7 @@ Này Rāhu, hãy thả mặt trăng ra, \
 các đức Phật đều thương xót thế gian." \
 Rồi A-tu-la vương Rāhu, sau khi thả thiên tử Candimā ra, vội vàng đi đến
 chỗ A-tu-la vương Vepacitti; đến rồi, run sợ, tóc gáy dựng ngược, đứng
-qua một bên. Đứng một bên, A-tu-la vương Vepacitti nói lên bài kệ này
+qua một bên, A-tu-la vương Vepacitti nói lên bài kệ này
 với A-tu-la vương Rāhu: \
 "Vì sao ngươi lại vội vàng \
 thả mặt trăng ra, này Rāhu; \
@@ -1923,7 +1914,7 @@ nếu ta không thả mặt trăng ra."
 
 ==== Kinh 2.10. Sūriya (Sūriyasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Lúc bấy giờ, thiên tử Sūriya (Nhật
+#super[1] Cũng tại Sāvatthi. Lúc bấy giờ, thiên tử Sūriya (Nhật
 thiên tử) bị A-tu-la vương Rāhu bắt giữ. Khi ấy, thiên tử Sūriya, tưởng
 niệm đến Thế Tôn, ngay lúc đó nói lên bài kệ này: \
 "Con xin đảnh lễ Ngài, bậc Anh hùng, đấng Giác Ngộ, \
@@ -1942,7 +1933,7 @@ Này Rāhu, đừng nuốt lấy kẻ đang đi trong không gian, \
 này Rāhu, hãy thả con của ta, mặt trời, ra." \
 Rồi A-tu-la vương Rāhu, sau khi thả thiên tử Sūriya ra, vội vàng đi đến
 chỗ A-tu-la vương Vepacitti; đến rồi, run sợ, tóc gáy dựng ngược, đứng
-qua một bên. Đứng một bên, A-tu-la vương Vepacitti nói lên bài kệ này
+qua một bên, A-tu-la vương Vepacitti nói lên bài kệ này
 với A-tu-la vương Rāhu: \
 "Vì sao ngươi lại vội vàng \
 thả mặt trời ra, này Rāhu; \
@@ -1966,10 +1957,9 @@ Candimā và Sūriya — đó là mười kinh.
 
 ==== Kinh 2.1. Candimasa (Candimasasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Khi ấy, thiên tử Candimasa, vào lúc đêm
+#super[1] Cũng tại Sāvatthi. Khi ấy, thiên tử Candimasa, vào lúc đêm
 đã khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi
-đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng một
-bên, thiên tử Candimasa nói lên bài kệ này trước Thế Tôn: \
+đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên, thiên tử Candimasa nói lên bài kệ này trước Thế Tôn: \
 "Những con nai gầy yếu ở bên bờ hồ \
 sẽ đi đến chỗ an toàn; \
 Sau khi thành tựu các thiền, \
@@ -1997,7 +1987,7 @@ những vị tu thiền ấy, không phóng dật \
 rừng Veḷuvana, nơi nuôi dưỡng loài sóc. Khi ấy, thiên tử Dīghalaṭṭhi, vào
 lúc đêm đã khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng
 Veḷuvana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một
-bên. Đứng một bên, thiên tử Dīghalaṭṭhi nói lên bài kệ này trước Thế
+bên, thiên tử Dīghalaṭṭhi nói lên bài kệ này trước Thế
 Tôn: \
 "Tỷ-kheo nên là người tu thiền, tâm giải thoát, \
 nếu mong đạt đến sự thành tựu của tâm; \
@@ -2074,7 +2064,7 @@ Nói vậy rồi… biến mất ngay tại đó.
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại Sāketa, trong rừng
 Añjana, vườn Nai. Khi ấy, thiên tử Kakudha, vào lúc đêm đã khuya, với
 dung sắc thù thắng, chiếu sáng khắp cả rừng Añjana, đi đến chỗ Thế Tôn;
-đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng một bên, thiên tử
+đến rồi, đảnh lễ Thế Tôn và đứng qua một bên, thiên tử
 Kakudha bạch Thế Tôn: "Ngài có hoan hỷ chăng, này Sa-môn?" "Ta được gì
 mà hoan hỷ, này hiền giả?" "Vậy thì, này Sa-môn, Ngài sầu muộn chăng?"
 "Ta mất gì mà sầu muộn, này hiền giả?" "Vậy thì, này Sa-môn, Ngài không
@@ -2102,7 +2092,7 @@ vị Tỷ-kheo không còn hoan hỷ, không còn khổ não, \
 
 ==== Kinh 2.9. Uttara (Uttarasuttaṃ)
 
-#super[1] Nhân duyên tại Rājagaha. Đứng một bên, thiên tử Uttara nói lên
+#super[1] Cũng tại Rājagaha. Đứng một bên, thiên tử Uttara nói lên
 bài kệ này trước Thế Tôn: \
 "Mạng sống bị cuốn đi, tuổi thọ ngắn ngủi, \
 người bị già chi phối không có chỗ nương; \
@@ -2135,10 +2125,10 @@ Vị Tỷ-kheo nào đã đến bờ kia, \
 cũng chỉ có thể sánh bằng vị ấy mà thôi." \
 Thiên tử Anāthapiṇḍika nói như vậy. Nói xong, đảnh lễ Thế Tôn, đi vòng
 quanh theo phía bên phải, rồi biến mất ngay tại đó. Rồi Thế Tôn, khi
-đêm ấy vừa qua, gọi các Tỷ-kheo: "Này các thầy Tỷ-kheo, đêm nay có một
+đêm ấy vừa qua, gọi các Tỷ-kheo: "Này các thầy, đêm nay có một
 thiên tử, vào lúc đêm đã khuya, với dung sắc thù thắng, chiếu sáng khắp
 cả rừng Jetavana, đi đến chỗ Ta; đến rồi, đảnh lễ Ta và đứng qua một
-bên. Đứng một bên, này các thầy, thiên tử ấy nói lên những bài kệ này
+bên, này các thầy, thiên tử ấy nói lên những bài kệ này
 trước Ta: \
 "Đây chính là rừng Jetavana, \
 nơi chúng Thánh nhân thường lui tới; \
@@ -2156,7 +2146,7 @@ Như Tôn giả Sāriputta, \
 nhờ trí tuệ, giới hạnh và sự an tịnh; \
 Vị Tỷ-kheo nào đã đến bờ kia, \
 cũng chỉ có thể sánh bằng vị ấy mà thôi." \
-Này các thầy Tỷ-kheo, thiên tử ấy nói như vậy. Nói xong, đảnh lễ Ta, đi
+này các thầy, thiên tử ấy nói như vậy. Nói xong, đảnh lễ Ta, đi
 vòng quanh theo phía bên phải, rồi biến mất ngay tại đó." Được nói vậy,
 Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, chắc hẳn đó là thiên tử
 Anāthapiṇḍika. Vì gia chủ Anāthapiṇḍika rất mực tín thành đối với Tôn
@@ -2182,8 +2172,7 @@ thứ mười là Anāthapiṇḍika.
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn trú tại Sāvatthi, trong rừng
 Jetavana, khu vườn của Anāthapiṇḍika. Rồi chư thiên tử Siva, khi đêm đã về
 khuya, với dung sắc thù thắng, chiếu sáng khắp rừng Jetavana, đi đến chỗ
-Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi đứng sang một bên. Đứng sang một bên,
-chư thiên tử Siva nói lên những bài kệ này trước Thế Tôn: \
+Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi đứng sang một bên, chư thiên tử Siva nói lên những bài kệ này trước Thế Tôn: \
 "Nên thân cận bậc lành thôi, \
 Hãy giao kết với người lành; \
 Hiểu rõ Chánh pháp bậc chân nhân, \
@@ -2389,7 +2378,7 @@ Tôi cúi đầu đảnh lễ các vị."
 
 ==== Kinh 2.6. Rohitassa (Rohitassasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Đứng sang một bên, chư thiên tử
+#super[1] Cũng tại Sāvatthi. Đứng sang một bên, chư thiên tử
 Rohitassa thưa với Thế Tôn: \
 "Bạch Thế Tôn, nơi nào không sanh, không già, không chết, không từ trần,
 không tái sanh — bạch Thế Tôn, có thể biết, thấy hay đạt đến nơi ấy bằng
@@ -2458,7 +2447,7 @@ Hành trình sẽ là như vậy."
 
 ==== Kinh 2.9. Susima (Susimasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tôn giả Ānanda đi đến chỗ Thế Tôn;
+#super[1] Cũng tại Sāvatthi. Rồi Tôn giả Ānanda đi đến chỗ Thế Tôn;
 đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả
 Ānanda đang ngồi một bên: "Này Ānanda, ngươi cũng hoan hỷ với Sāriputta
 chăng?" \
@@ -2482,7 +2471,7 @@ Này Ānanda, ai là người không ngu si, không độc hại, không mê mu�
 không điên đảo mà lại không hoan hỷ với Sāriputta?" \
 Rồi chư thiên tử Susima, khi công đức của Tôn giả Sāriputta đang được tán
 thán, cùng với đại chúng chư thiên tử vây quanh, đi đến chỗ Thế Tôn; đến
-nơi, đảnh lễ Thế Tôn rồi đứng sang một bên. Đứng sang một bên, chư thiên tử
+nơi, đảnh lễ Thế Tôn rồi đứng sang một bên, chư thiên tử
 Susima thưa với Thế Tôn: \
 "Đúng vậy, bạch Thế Tôn, đúng vậy, bạch Thiện Thệ. Bạch Thế Tôn, ai là
 người không ngu si, không độc hại, không mê muội, tâm không điên đảo mà lại
@@ -2611,7 +2600,7 @@ Susima cùng Nānātitthiya — đó là mười vị.
 rừng Jetavana (Kỳ Viên), tại tinh xá của ông Anāthapiṇḍika (Cấp Cô Độc). Rồi
 vua Pasenadi nước Kosala đi đến chỗ Thế Tôn; đến nơi, vua thăm hỏi thân thiện
 với Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện và đáng ghi nhớ,
-vua ngồi xuống một bên. Ngồi một bên, vua Pasenadi nước Kosala bạch Thế Tôn:
+vua ngồi xuống một bên, vua Pasenadi nước Kosala bạch Thế Tôn:
 "Thưa Ngài Gotama, Ngài có tự nhận đã chứng ngộ Vô thượng Chánh Đẳng Giác
 chăng?" "Thưa Đại vương, ai nói đúng thì chỉ có thể nói về Ta rằng: 'Đã chứng
 ngộ Vô thượng Chánh Đẳng Giác' — người nói như vậy là nói đúng về Ta. Vì thưa
@@ -2672,8 +2661,8 @@ cho đến trọn đời đã quy y."
 
 ==== Kinh 3.2. Người (Purisasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Rồi vua Pasenadi nước Kosala đi đến chỗ Thế
-Tôn; đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, vua
+#super[1] Cũng tại Sāvatthī. Rồi vua Pasenadi nước Kosala đi đến chỗ Thế
+Tôn; đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên, vua
 Pasenadi nước Kosala bạch Thế Tôn: "Bạch Thế Tôn, có bao nhiêu pháp ở trong
 con người, khi khởi lên, lại khởi lên đưa đến bất lợi, khổ đau, không sống an
 lạc?" "Thưa Đại vương, có ba pháp ở trong con người, khi khởi lên, lại khởi
@@ -2693,7 +2682,7 @@ như quả chín làm hại chính thân cây sậy."
 
 ==== Kinh 3.3. Già Chết (Jarāmaraṇasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
+#super[1] Cũng tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
 Thế Tôn: "Bạch Thế Tôn, với người đã sanh, có thể có gì khác ngoài già chết
 chăng?" "Thưa Đại vương, với người đã sanh, không có gì khác ngoài già chết.
 Thưa Đại vương, những vị Sát-đế-lỵ đại phú, giàu có, nhiều của cải, lắm vàng
@@ -2714,7 +2703,7 @@ bậc thiện truyền dạy điều ấy cho bậc thiện."
 
 ==== Kinh 3.4. Thân Yêu (Piyasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
+#super[1] Cũng tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
 Thế Tôn: "Bạch Thế Tôn, con ở một mình, nơi vắng vẻ, đã khởi lên ý nghĩ như
 vầy: 'Tự ngã của ai là thân yêu, tự ngã của ai là không thân yêu?' Bạch Thế
 Tôn, rồi con nghĩ như vầy: 'Những ai hành xử ác bằng thân, hành xử ác bằng
@@ -2754,7 +2743,7 @@ những phước thiện là chỗ nương tựa của chúng sanh ở đời sa
 
 ==== Kinh 3.5. Tự Hộ Trì (Attarakkhitasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
+#super[1] Cũng tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
 Thế Tôn: "Bạch Thế Tôn, con ở một mình, nơi vắng vẻ, đã khởi lên ý nghĩ như
 vầy: 'Tự ngã của ai được hộ trì, tự ngã của ai không được hộ trì?' Bạch Thế
 Tôn, rồi con nghĩ như vầy: 'Những ai hành xử ác bằng thân, hành xử ác bằng
@@ -2786,7 +2775,7 @@ người ấy được gọi là người tự hộ trì."
 
 ==== Kinh 3.6. Ít (Appakasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
+#super[1] Cũng tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
 Thế Tôn: "Bạch Thế Tôn, con ở một mình, nơi vắng vẻ, đã khởi lên ý nghĩ như
 vầy: 'Ít thay những chúng sanh ở đời, sau khi được những tài sản to lớn, lại
 không kiêu mạn, không phóng dật, không sanh tham đắm trong các dục, không hành
@@ -2808,7 +2797,7 @@ về sau quả dị thục của chúng thật cay đắng, thật xấu ác."
 
 ==== Kinh 3.7. Tranh Tụng (Aḍḍakaraṇasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
+#super[1] Cũng tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala bạch
 Thế Tôn: "Bạch Thế Tôn, khi con ngồi xử kiện, con thấy cả những vị Sát-đế-lỵ
 đại phú, Bà-la-môn đại phú, gia chủ đại phú — giàu có, nhiều của cải, lắm
 vàng bạc, lắm tài sản, lắm tiền lúa — vì nhân dục, vì duyên dục, vì lý do dục
@@ -2829,7 +2818,7 @@ về sau quả dị thục của chúng thật cay đắng, thật xấu ác."
 
 ==== Kinh 3.8. Mallikā (Mallikāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Lúc bấy giờ, vua Pasenadi nước Kosala cùng
+#super[1] Cũng tại Sāvatthī. Lúc bấy giờ, vua Pasenadi nước Kosala cùng
 hoàng hậu Mallikā đang ở trên lầu thượng của cung điện. Rồi vua Pasenadi nước
 Kosala hỏi hoàng hậu Mallikā: "Này Mallikā, có ai khác thân yêu với nàng hơn
 chính nàng không?" "Bạch Đại vương, không có ai khác thân yêu với con hơn
@@ -2837,7 +2826,7 @@ chính con. Nhưng bạch Đại vương, có ai khác thân yêu với Ngài h�
 không?" "Này Mallikā, với Ta cũng không có ai khác thân yêu hơn chính Ta."
 
 Rồi vua Pasenadi nước Kosala từ lầu thượng đi xuống, đến chỗ Thế Tôn; đến
-nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, vua Pasenadi nước
+nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên, vua Pasenadi nước
 Kosala bạch Thế Tôn: "Bạch Thế Tôn, con cùng hoàng hậu Mallikā ở trên lầu
 thượng của cung điện, con đã hỏi hoàng hậu Mallikā: 'Này Mallikā, có ai khác
 thân yêu với nàng hơn chính nàng không?' Nghe vậy, bạch Thế Tôn, hoàng hậu
@@ -2854,7 +2843,7 @@ bởi thế, ai thương chính mình thì chớ hại người khác."
 
 ==== Kinh 3.9. Tế Lễ (Yaññasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Lúc bấy giờ, đại lễ tế của vua Pasenadi
+#super[1] Cũng tại Sāvatthī. Lúc bấy giờ, đại lễ tế của vua Pasenadi
 nước Kosala đang được sửa soạn: năm trăm con bò đực, năm trăm con bò tơ đực,
 năm trăm con bò tơ cái, năm trăm con dê, năm trăm con cừu đã được dắt đến cột
 tế để làm lễ tế. Những người nô lệ, người hầu, người làm công của vua, bị roi
@@ -2863,8 +2852,7 @@ công việc chuẩn bị.
 
 Rồi nhiều Tỷ-kheo vào buổi sáng đắp y, mang bát và y, đi vào thành Sāvatthī
 để khất thực. Sau khi khất thực ở Sāvatthī, ăn xong và đi khất thực trở về,
-các vị đi đến chỗ Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
-Ngồi một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, đại lễ tế của vua
+các vị đi đến chỗ Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, đại lễ tế của vua
 Pasenadi nước Kosala đang được sửa soạn: năm trăm con bò đực, năm trăm con bò
 tơ đực, năm trăm con bò tơ cái, năm trăm con dê, năm trăm con cừu đã được dắt
 đến cột tế để làm lễ tế. Những người nô lệ, người hầu, người làm công của
@@ -2890,8 +2878,7 @@ lễ tế ấy rộng lớn, và chư thiên cũng hoan hỷ."
 kẻ thì bằng dây thừng, kẻ thì bằng gông, kẻ thì bằng xích sắt. Rồi nhiều
 Tỷ-kheo vào buổi sáng đắp y, mang bát và y, đi vào thành Sāvatthī để khất
 thực. Sau khi khất thực ở Sāvatthī, ăn xong và đi khất thực trở về, các vị đi
-đến chỗ Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một
-bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, vua Pasenadi nước Kosala cho
+đến chỗ Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, vua Pasenadi nước Kosala cho
 trói một số đông người — kẻ thì bằng dây thừng, kẻ thì bằng gông, kẻ thì bằng
 xích sắt."
 
@@ -2931,8 +2918,7 @@ Thế Tôn, con là vua Pasenadi nước Kosala… Bạch Thế Tôn, con là vu
 Pasenadi nước Kosala."
 
 Khi những người ấy vừa rời đi không lâu, vua Pasenadi nước Kosala đi đến
-Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một
-bên, vua Pasenadi nước Kosala bạch Thế Tôn: "Bạch Thế Tôn, những vị trên
+Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên, vua Pasenadi nước Kosala bạch Thế Tôn: "Bạch Thế Tôn, những vị trên
 đời là bậc A-la-hán hay đã nhập vào đạo lộ A-la-hán, những vị ấy hẳn là
 một trong số những người này."
 
@@ -2993,7 +2979,7 @@ Trong lòng bất tịnh, ngoài vẻ đẹp tươi."
 
 ==== Kinh 3.2. Năm Vị Vua (Pañcarājasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Lúc bấy giờ, năm vị vua lấy vua
+#super[1] Cũng tại Sāvatthi. Lúc bấy giờ, năm vị vua lấy vua
 Pasenadi làm trưởng, đang được đầy đủ và thọ hưởng năm dục công đức, khởi
 lên câu chuyện giữa chừng: "Cái gì là tối thắng trong các dục?" Trong đó,
 một số nói như vầy: "Các sắc là tối thắng trong các dục." Một số nói:
@@ -3008,7 +2994,7 @@ chúng ta sẽ ghi nhớ như vậy." "Vâng, thưa ngài", các vị vua ấy �
 vua Pasenadi nước Kosala.
 
 Bấy giờ, năm vị vua ấy lấy vua Pasenadi làm trưởng đi đến Thế Tôn; sau khi
-đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một bên, vua Pasenadi
+đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên, vua Pasenadi
 nước Kosala bạch Thế Tôn: "Ở đây, bạch Thế Tôn, năm vị vua chúng con lấy
 con làm trưởng, đang được đầy đủ và thọ hưởng năm dục công đức, khởi lên
 câu chuyện giữa chừng: 'Cái gì là tối thắng trong các dục?' Một số nói:
@@ -3049,7 +3035,7 @@ Rồi Cư sĩ Candanaṅgalika đem năm chiếc thượng y ấy dâng lên Th�
 
 ==== Kinh 3.3. Nồi Cơm Đấu (Doṇapākasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Lúc bấy giờ, vua Pasenadi nước Kosala
+#super[1] Cũng tại Sāvatthi. Lúc bấy giờ, vua Pasenadi nước Kosala
 ăn cơm đầy một đấu. Bấy giờ, vua Pasenadi nước Kosala sau khi ăn xong, no
 nê, đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
 Bấy giờ, Thế Tôn biết vua Pasenadi nước Kosala đã ăn no nê, liền nói bài
@@ -3078,7 +3064,7 @@ con vì cả hai lợi ích — lợi ích trong đời này và lợi ích tron
 
 ==== Kinh 3.4. Chiến Trận Thứ Nhất (Paṭhamasaṅgāmasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Bấy giờ, vua nước Magadha là Ajātasattu,
+#super[1] Cũng tại Sāvatthi. Bấy giờ, vua nước Magadha là Ajātasattu,
 con bà Videhī, sau khi sắp đặt bốn binh chủng, đem quân tiến đánh vua
 Pasenadi nước Kosala, hướng về xứ Kāsi. Vua Pasenadi nước Kosala nghe
 được: "Nghe nói vua nước Magadha là Ajātasattu, con bà Videhī, đã sắp đặt
@@ -3092,8 +3078,7 @@ thua, lui về chính kinh đô Sāvatthi của mình.
 
 Bấy giờ, nhiều Tỷ-kheo vào buổi sáng đắp y, mang bát và y, đi vào Sāvatthi
 để khất thực. Sau khi khất thực ở Sāvatthi, ăn xong và trở về, các vị đi
-đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một
-bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, ở đây vua nước Magadha là
+đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, ở đây vua nước Magadha là
 Ajātasattu, con bà Videhī, đã sắp đặt bốn binh chủng, đem quân tiến đánh
 vua Pasenadi nước Kosala, hướng về xứ Kāsi. Bạch Thế Tôn, vua Pasenadi
 nước Kosala nghe được: 'Nghe nói vua nước Magadha là Ajātasattu, con bà
@@ -3106,7 +3091,7 @@ con bà Videhī, và vua Pasenadi nước Kosala đã giao chiến. Trong trận
 bại vua Pasenadi nước Kosala. Và vua Pasenadi nước Kosala bị thua, đã lui
 về chính kinh đô Sāvatthi của mình."
 
-Thế Tôn nói: "Này các Tỷ-kheo, vua nước Magadha là Ajātasattu, con bà
+Thế Tôn nói: "Này các thầy, vua nước Magadha là Ajātasattu, con bà
 Videhī, có bạn ác, có thân hữu ác, có giao du ác; còn vua Pasenadi nước
 Kosala, này các Tỷ-kheo, có bạn lành, có thân hữu lành, có giao du lành.
 Hôm nay, này các Tỷ-kheo, vua Pasenadi nước Kosala bị thua, phải nằm ngủ
@@ -3140,8 +3125,7 @@ vị ấy sống.
 
 Bấy giờ, nhiều Tỷ-kheo vào buổi sáng đắp y, mang bát và y, đi vào Sāvatthi
 để khất thực. Sau khi khất thực ở Sāvatthi, ăn xong và trở về, các vị đi
-đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi một
-bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, ở đây vua nước Magadha là
+đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, ở đây vua nước Magadha là
 Ajātasattu, con bà Videhī, đã sắp đặt bốn binh chủng, đem quân tiến đánh
 vua Pasenadi nước Kosala, hướng về xứ Kāsi. Bạch Thế Tôn, vua Pasenadi
 nước Kosala nghe được: 'Nghe nói vua nước Magadha là Ajātasattu, con bà
@@ -3177,7 +3161,7 @@ Kẻ bị cướp ấy lại bị cướp."
 
 ==== Kinh 3.6. Mallikā (Mallikāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Bấy giờ, vua Pasenadi nước Kosala đi
+#super[1] Cũng tại Sāvatthi. Bấy giờ, vua Pasenadi nước Kosala đi
 đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Bấy giờ,
 một người đi đến vua Pasenadi nước Kosala; sau khi đến, nói nhỏ vào tai
 vua Pasenadi nước Kosala: "Tâu đại vương, hoàng hậu Mallikā đã sanh một
@@ -3196,7 +3180,7 @@ Có thể cai trị cả một vương quốc."
 
 ==== Kinh 3.7. Không Phóng Dật (Appamādasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Ngồi một bên, vua Pasenadi nước Kosala
+#super[1] Cũng tại Sāvatthi. Ngồi một bên, vua Pasenadi nước Kosala
 bạch Thế Tôn: "Bạch Thế Tôn, có một pháp nào nắm giữ được cả hai lợi ích —
 lợi ích ngay trong đời này và lợi ích trong đời sau — không?" "Có, đại
 vương, có một pháp nắm giữ được cả hai lợi ích — lợi ích ngay trong đời
@@ -3224,67 +3208,43 @@ Bậc hiền trí liễu đạt các lợi ích ấy, \
 
 ==== Kinh 3.8. Bạn Lành (Kalyāṇamittasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Ngồi một bên, vua Pasenadi nước Kosala
-bạch Thế Tôn: "Bạch Thế Tôn, ở đây, khi con ở một mình, độc cư, khởi lên ý
-nghĩ như vầy: 'Pháp đã được Thế Tôn khéo thuyết giảng; và pháp ấy thuộc về
-người có bạn lành, có thân hữu lành, có giao du lành, không thuộc về người
-có bạn ác, có thân hữu ác, có giao du ác.'"
+#super[1] Cũng tại Sāvatthī. Ngồi một bên, vua Pasenadi nước Kosala
+bạch Thế Tôn: "Bạch Thế Tôn, khi con ở một mình, tĩnh lặng, con nghĩ:
+'Pháp Thế Tôn khéo thuyết chỉ thuộc về người có bạn lành, thân hữu lành,
+giao du lành, không thuộc về người có bạn ác, thân hữu ác, giao du ác.'"
 
-Thế Tôn nói: "Đúng vậy, đại vương, đúng vậy, đại vương! Pháp đã được ta
-khéo thuyết giảng, đại vương, và pháp ấy thuộc về người có bạn lành, có
-thân hữu lành, có giao du lành, không thuộc về người có bạn ác, có thân
-hữu ác, có giao du ác. Có một lần, đại vương, ta trú giữa dòng họ Sakka,
-tại Nagaraka, một thị trấn của người Sakka. Bấy giờ, đại vương, Tỷ-kheo
-Ānanda đi đến ta; sau khi đến, đảnh lễ ta rồi ngồi xuống một bên. Ngồi một
-bên, đại vương, Tỷ-kheo Ānanda nói với ta: 'Bạch Thế Tôn, một nửa Phạm
-hạnh này là bạn lành, thân hữu lành, giao du lành.' Được nói vậy, đại
-vương, ta nói với Tỷ-kheo Ānanda: 'Chớ như vậy, Ānanda, chớ như vậy,
-Ānanda! Toàn bộ Phạm hạnh này, Ānanda, chính là bạn lành, thân hữu lành,
-giao du lành. Với Tỷ-kheo có bạn lành, thân hữu lành, giao du lành,
-Ānanda, có thể mong đợi rằng vị ấy sẽ tu tập Bát Thánh đạo, sẽ làm cho Bát
-Thánh đạo sung mãn.'
+Thế Tôn đáp: "Đúng vậy, đại vương, đúng vậy! Pháp ta khéo thuyết chỉ
+thuộc về người có bạn lành, thân hữu lành, giao du lành, không thuộc về
+người có bạn ác, thân hữu ác, giao du ác. Một lần, đại vương, Ta trú giữa
+dòng họ Sakka, tại Nagaraka, một thị trấn của người Sakka. Tỷ-kheo Ānanda
+đến chỗ Ta, đảnh lễ, ngồi sang một bên, rồi thưa: 'Bạch Thế Tôn, một nửa
+Phạm hạnh này là có bạn lành, thân hữu lành, giao du lành.'
 
-Và thế nào, Ānanda, Tỷ-kheo có bạn lành, thân hữu lành, giao du lành tu
-tập Bát Thánh đạo, làm cho Bát Thánh đạo sung mãn? Ở đây, Ānanda, Tỷ-kheo
-tu tập chánh kiến, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt,
-hướng đến buông bỏ; tu tập chánh tư duy… chánh ngữ… chánh nghiệp… chánh
-mạng… chánh tinh tấn… chánh niệm… tu tập chánh định, y cứ vào viễn ly, y
-cứ vào ly tham, y cứ vào đoạn diệt, hướng đến buông bỏ. Như vậy, Ānanda,
-Tỷ-kheo có bạn lành, thân hữu lành, giao du lành tu tập Bát Thánh đạo,
-làm cho Bát Thánh đạo sung mãn. Cũng do cách này, Ānanda, có thể hiểu rằng
-toàn bộ Phạm hạnh này chính là bạn lành, thân hữu lành, giao du lành.
+Ta đáp: 'Chớ nói vậy, Ānanda! Toàn bộ Phạm hạnh này chính là có bạn lành,
+thân hữu lành, giao du lành. Tỷ-kheo có bạn lành, thân hữu lành, giao du
+lành thì tu tập Bát Thánh đạo, nuôi lớn Bát Thánh đạo.
 
-Vì nương tựa vào ta là bạn lành, này Ānanda, mà chúng sanh thuộc về sanh
-được giải thoát khỏi sanh; chúng sanh thuộc về già được giải thoát khỏi
-già; chúng sanh thuộc về bệnh được giải thoát khỏi bệnh; chúng sanh thuộc
-về chết được giải thoát khỏi chết; chúng sanh thuộc về sầu, bi, khổ, ưu,
-não được giải thoát khỏi sầu, bi, khổ, ưu, não. Do cách này, Ānanda, có
-thể hiểu rằng toàn bộ Phạm hạnh này chính là bạn lành, thân hữu lành,
-giao du lành.'
+Tu tập thế nào? Ở đây, Tỷ-kheo tu tập chánh kiến, chánh tư duy, chánh
+ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định —
+cả tám đều y cứ vào viễn ly, ly tham, đoạn diệt, hướng đến buông bỏ. Tu
+tập như vậy là nuôi lớn Bát Thánh đạo.
 
-Do vậy, đại vương, ngài cần học như vầy: 'Ta sẽ là người có bạn lành, có
-thân hữu lành, có giao du lành.' Đại vương, ngài cần học như vậy. Đại
-vương, khi ngài có bạn lành, thân hữu lành, giao du lành, ngài cần nương
-tựa vào một pháp này mà sống — đó là không phóng dật trong các thiện pháp.
+Nương tựa Ta là bạn lành, này Ānanda, chúng sanh thuộc về sanh được thoát
+khỏi sanh; thuộc về già được thoát khỏi già; thuộc về bệnh được thoát
+khỏi bệnh; thuộc về chết được thoát khỏi chết; thuộc về sầu, bi, khổ, ưu,
+não được thoát khỏi sầu, bi, khổ, ưu, não. Do vậy có thể hiểu toàn bộ
+Phạm hạnh này chính là có bạn lành, thân hữu lành, giao du lành.'
 
-Đại vương, khi ngài sống không phóng dật, nương tựa vào không phóng dật,
-các cung nữ hầu cận ngài sẽ nghĩ như vầy: 'Đại vương sống không phóng
-dật, nương tựa vào không phóng dật. Nào, chúng ta cũng hãy sống không
-phóng dật, nương tựa vào không phóng dật.' Đại vương, khi ngài sống không
-phóng dật, nương tựa vào không phóng dật, các Sát-đế-lợi hầu cận ngài sẽ
-nghĩ như vầy: 'Đại vương sống không phóng dật, nương tựa vào không phóng
-dật. Nào, chúng ta cũng hãy sống không phóng dật, nương tựa vào không
-phóng dật.' Đại vương, khi ngài sống không phóng dật, nương tựa vào không
-phóng dật, quân đội của ngài sẽ nghĩ như vầy: 'Đại vương sống không phóng
-dật, nương tựa vào không phóng dật. Nào, chúng ta cũng hãy sống không
-phóng dật, nương tựa vào không phóng dật.' Đại vương, khi ngài sống không
-phóng dật, nương tựa vào không phóng dật, dân chúng trong thành và ngoài
-xứ sẽ nghĩ như vầy: 'Đại vương sống không phóng dật, nương tựa vào không
-phóng dật. Nào, chúng ta cũng hãy sống không phóng dật, nương tựa vào
-không phóng dật.' Đại vương, khi ngài sống không phóng dật, nương tựa vào
-không phóng dật, tự thân ngài được hộ trì, được bảo vệ; cung điện của ngài
-được hộ trì, được bảo vệ; kho tàng của ngài được hộ trì, được bảo vệ." Thế
-Tôn nói như vậy… rồi nói lên những bài kệ này: \
+Vì thế, đại vương, ngài hãy học như vầy: 'Ta sẽ có bạn lành, thân hữu
+lành, giao du lành.' Có bạn lành rồi, ngài hãy nương một pháp mà sống:
+không phóng dật trong các thiện pháp.
+
+Khi ngài sống không phóng dật, các cung nữ hầu cận sẽ nghĩ: 'Đại vương
+sống không phóng dật; ta cũng hãy sống không phóng dật.' Các Sát-đế-lợi
+hầu cận, quân đội, và dân chúng trong thành ngoài xứ cũng sẽ nghĩ như
+vậy. Khi ngài sống không phóng dật, tự thân ngài được hộ trì; cung điện,
+kho tàng của ngài đều được hộ trì." Thế Tôn nói vậy, rồi nói lên những
+bài kệ này: \
 "Người mong cầu tài sản, \
 Những của cải cao quý tiếp nối nhau, \
 Bậc trí tán thán không phóng dật \
@@ -3298,7 +3258,7 @@ Bậc hiền trí liễu đạt các lợi ích ấy, \
 
 ==== Kinh 3.9. Người Không Con Thứ Nhất (Paṭhamaaputtakasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Bấy giờ, vua Pasenadi nước Kosala vào
+#super[1] Cũng tại Sāvatthi. Bấy giờ, vua Pasenadi nước Kosala vào
 giữa ban ngày đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống
 một bên. Thế Tôn nói với vua Pasenadi nước Kosala đang ngồi một bên: "Đại
 vương, ngài từ đâu đến vào giữa ban ngày?" "Bạch Thế Tôn, ở Sāvatthi có
@@ -3893,7 +3853,7 @@ Rồi Ác ma … biến mất ngay tại chỗ ấy.
 ==== Kinh 4.5. Lưới Thứ Hai (Dutiyamārapāsasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Bārāṇasī, trong vườn Nai
-Isipatana. Ở đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy Tỷ-kheo!"
+Isipatana. Ở đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy!"
 Các Tỷ-kheo thưa: "Bạch Thế Tôn!" Thế Tôn nói như vầy: "Này các
 thầy, Ta đã thoát khỏi hết thảy các lưới thuộc cõi trời và cõi
 người. Các thầy cũng đã thoát khỏi hết thảy các lưới thuộc cõi
@@ -3985,7 +3945,7 @@ biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấ
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Rājagaha,
 trong vườn Trúc Lâm, tại Kalandakanivāpa. Ở đó, Thế Tôn gọi các
-Tỷ-kheo: "Này các thầy Tỷ-kheo!" Các Tỷ-kheo thưa: "Bạch Thế
+Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch Thế
 Tôn!" Thế Tôn nói như vầy: "Này các thầy, tuổi thọ của loài người
 này thật ngắn ngủi, đời sau là nơi phải đi tới, việc thiện phải
 làm, Phạm hạnh phải sống. Không có người đã sanh mà không chết.
@@ -4137,7 +4097,7 @@ biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấ
 
 ==== Kinh 4.6. Bình Bát (Pattasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Lúc bấy giờ, Thế Tôn đang giảng
+#super[1] Cũng tại Sāvatthī. Lúc bấy giờ, Thế Tôn đang giảng
 dạy, khích lệ, khuyến khích, làm cho hoan hỷ các Tỷ-kheo bằng bài
 pháp thoại liên quan đến năm thủ uẩn. Các Tỷ-kheo ấy chú tâm, tác
 ý, dốc toàn bộ tâm ý, hướng tai lắng nghe pháp. Rồi Ác ma, kẻ ác,
@@ -4221,7 +4181,7 @@ biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấ
 
 ==== Kinh 4.9. Nông Phu (Kassakasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Lúc bấy giờ, Thế Tôn đang giảng
+#super[1] Cũng tại Sāvatthī. Lúc bấy giờ, Thế Tôn đang giảng
 dạy, khích lệ, khuyến khích, làm cho hoan hỷ các Tỷ-kheo bằng bài
 pháp thoại liên quan đến Niết-bàn. Các Tỷ-kheo ấy chú tâm, tác
 ý, dốc toàn bộ tâm ý, hướng tai lắng nghe pháp. Rồi Ác ma, kẻ ác,
@@ -4278,25 +4238,23 @@ Rồi Ác ma … biến mất ngay tại chỗ ấy.
 ==== Kinh 4.10. Vương Quốc (Rajjasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại xứ Kosala, trong một túp lều
-trong rừng thuộc vùng Himalaya. Rồi Thế Tôn, khi ở một mình
-trong chỗ thanh vắng, khởi lên suy nghĩ như vầy: "Liệu có thể trị
-vì vương quốc mà không giết hại cũng không khiến người giết hại,
-không chinh phục cũng không khiến người chinh phục, không sầu
-cũng không khiến người sầu, đúng theo pháp chăng?" Rồi Ác ma, kẻ
-ác, biết được suy nghĩ trong tâm Thế Tôn, liền đi đến chỗ Thế
-Tôn; đến rồi, nói với Thế Tôn: "Bạch Thế Tôn, Thế Tôn hãy trị vì
-vương quốc! Bạch Thiện Thệ, Thế Tôn hãy trị vì vương quốc mà
-không giết hại cũng không khiến người giết hại, không chinh phục
-cũng không khiến người chinh phục, không sầu cũng không khiến
-người sầu, đúng theo pháp!" "Này kẻ ác, ngươi thấy gì nơi Ta mà
-nói với Ta như vầy: 'Bạch Thế Tôn, Thế Tôn hãy trị vì vương
-quốc! Bạch Thiện Thệ, Thế Tôn hãy trị vì vương quốc mà không
-giết hại cũng không khiến người giết hại, không chinh phục cũng
-không khiến người chinh phục, không sầu cũng không khiến người
-sầu, đúng theo pháp'?" "Bạch Thế Tôn, vì Thế Tôn đã tu tập, làm
-cho sung mãn, thực hành như cỗ xe, làm thành nền tảng, duy trì
-liên tục, tích tập và khéo khởi phát bốn thần túc. Bạch Thế Tôn,
-nếu Thế Tôn muốn, Thế Tôn có thể quyết định cho núi chúa
+trong rừng thuộc vùng Himalaya. Khi ở một mình nơi thanh vắng, Thế Tôn
+khởi lên suy nghĩ: "Liệu có thể trị vì vương quốc mà không giết hại
+cũng không khiến người giết hại, không chinh phục cũng không khiến
+người chinh phục, không sầu cũng không khiến người sầu, đúng theo pháp
+chăng?"
+
+Ác ma, kẻ ác, biết được suy nghĩ ấy, đến chỗ Thế Tôn, thưa: "Bạch Thế
+Tôn, Thế Tôn hãy trị vì vương quốc! Bạch Thiện Thệ, Thế Tôn hãy trị vì
+vương quốc mà không giết hại cũng không khiến người giết hại, không
+chinh phục cũng không khiến người chinh phục, không sầu cũng không
+khiến người sầu, đúng theo pháp!"
+
+"Này kẻ ác, ngươi thấy gì nơi Ta mà nói với Ta như vậy?"
+
+"Bạch Thế Tôn, vì Thế Tôn đã tu tập, nuôi lớn, thực hành như cỗ xe, làm
+nền tảng, duy trì liên tục, tích tập và khéo khởi phát bốn thần túc.
+Bạch Thế Tôn, nếu Thế Tôn muốn, Thế Tôn có thể quyết định cho núi chúa
 Himalaya thành vàng, và nó sẽ trở thành vàng." \
 "Cả một núi vàng ròng, \
 toàn là vàng thật, \
@@ -4339,7 +4297,7 @@ thiết thực hiện tại, không có thời gian, đến để mà thấy, c�
 hướng dẫn, chỉ người trí mới tự mình chứng nghiệm." Khi được nói vậy,
 Ác ma lắc đầu, le lưỡi, làm nổi lên vết chĩa ba trên trán, rồi chống
 gậy bỏ đi. Rồi các Tỷ-kheo ấy đi đến chỗ Thế Tôn. Đến rồi, họ đảnh lễ
-Thế Tôn và ngồi xuống một bên. Ngồi một bên, các Tỷ-kheo ấy bạch Thế
+Thế Tôn và ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế
 Tôn: "Bạch Thế Tôn, ở đây chúng con trú không xa Thế Tôn, không phóng
 dật, nhiệt tâm, quyết chí. Bạch Thế Tôn, rồi một vị Bà-la-môn với búi
 tóc to lớn, khoác tấm da thú, già nua, lưng còng như đầu kèo, thở khò
@@ -4377,8 +4335,7 @@ cho ta, vì các vị đồng phạm hạnh của ta có giới hạnh, có thi�
 Rồi Ác ma, với tâm biết được tâm của Tôn giả Samiddhi, đi đến chỗ Tôn
 giả Samiddhi. Đến rồi, ở không xa Tôn giả Samiddhi, nó làm phát ra
 tiếng động lớn đáng sợ, tưởng chừng như đất vỡ ra. Rồi Tôn giả Samiddhi
-đi đến chỗ Thế Tôn. Đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên.
-Ngồi một bên, Tôn giả Samiddhi bạch Thế Tôn: "Bạch Thế Tôn, ở đây con
+đi đến chỗ Thế Tôn. Đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên, Tôn giả Samiddhi bạch Thế Tôn: "Bạch Thế Tôn, ở đây con
 trú không xa Thế Tôn, không phóng dật, nhiệt tâm, quyết chí. Bạch Thế
 Tôn, khi con ở một mình, tịch tĩnh, ý nghĩ như vầy khởi lên: "Thật là
 lợi đắc cho ta, thật là khéo lợi đắc cho ta, vì ta có bậc Đạo sư là
@@ -4439,7 +4396,7 @@ Lúc bấy giờ, Tôn giả Godhika đã đem dao lên. Rồi Thế Tôn biết
 "đây là Ác ma", nên nói với Ác ma bằng bài kệ: \
 "Bậc trí làm như vậy: không mong cầu mạng sống; \
 sau khi nhổ sạch ái tận gốc, Godhika đã nhập Niết-bàn." \
-Rồi Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo, hãy đến, chúng ta hãy
+Rồi Thế Tôn gọi các Tỷ-kheo: "Này các thầy, hãy đến, chúng ta hãy
 đi đến sườn núi Isigili, tại Kāḷasilā, nơi thiện gia nam tử Godhika đã
 đem dao lên." "Thưa vâng, bạch Thế Tôn", các Tỷ-kheo ấy vâng lời Thế
 Tôn. Rồi Thế Tôn cùng với nhiều Tỷ-kheo đi đến sườn núi Isigili, tại
@@ -4561,8 +4518,7 @@ Bà-la-môn nào chưa lìa tham, thì tim người ấy sẽ vỡ, hay máu nó
 trào ra từ miệng, hay người ấy sẽ phát điên, tâm trí rối loạn. Hoặc như
 cây lau xanh bị cắt đứt sẽ khô héo, tàn lụi, úa vàng; cũng vậy, người
 ấy sẽ khô héo, tàn lụi, úa vàng." Rồi Taṇhā, Arati và Ragā, các con gái
-Ác ma, đi đến chỗ Thế Tôn. Đến rồi, họ đứng sang một bên. Đứng sang một
-bên, Taṇhā, con gái Ác ma, nói với Thế Tôn bằng bài kệ: \
+Ác ma, đi đến chỗ Thế Tôn. Đến rồi, họ đứng sang một bên, Taṇhā, con gái Ác ma, nói với Thế Tôn bằng bài kệ: \
 "Phải chăng Ngài đang thiền trong rừng với nỗi sầu bao phủ? \
 Phải chăng Ngài đã mất tài sản, hay đang mong cầu điều gì? \
 Phải chăng Ngài đã gây tội gì trong làng? \
@@ -4646,7 +4602,7 @@ Rồi Ác ma, kẻ xấu ác, biết rằng "Tỷ-kheo-ni Āḷavikā đã biế
 
 ==== Kinh 5.2. Somā (Somāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Somā vào buổi sáng đắp
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Somā vào buổi sáng đắp
 y, mang bát và y, đi vào Sāvatthi để khất thực. Sau khi khất thực ở
 Sāvatthi, dùng xong bữa và trở về, vị ấy đi đến Andhavana để nghỉ ban
 ngày. Đi sâu vào Andhavana, vị ấy ngồi nghỉ ban ngày dưới một gốc cây.
@@ -4675,7 +4631,7 @@ khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
 ==== Kinh 5.3. Gotamī (Kisāgotamīsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Kisāgotamī vào buổi
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Kisāgotamī vào buổi
 sáng đắp y, mang bát và y, đi vào Sāvatthi để khất thực. Sau khi khất
 thực ở Sāvatthi, dùng xong bữa và trở về, vị ấy đi đến Andhavana để nghỉ
 ban ngày. Đi sâu vào Andhavana, vị ấy ngồi nghỉ ban ngày dưới một gốc
@@ -4704,7 +4660,7 @@ Rồi Ác ma, kẻ xấu ác, biết rằng "Tỷ-kheo-ni Kisāgotamī đã bi�
 
 ==== Kinh 5.4. Vijayā (Vijayāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Vijayā vào buổi sáng
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Vijayā vào buổi sáng
 đắp y… rồi ngồi nghỉ ban ngày dưới một gốc cây. Rồi Ác ma, kẻ xấu ác,
 muốn làm Tỷ-kheo-ni Vijayā sợ hãi, run rẩy, dựng tóc gáy, muốn kéo vị ấy
 ra khỏi định, liền đi đến Tỷ-kheo-ni Vijayā; đến rồi, nói với Tỷ-kheo-ni
@@ -4735,7 +4691,7 @@ khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
 ==== Kinh 5.5. Uppalavaṇṇā (Uppalavaṇṇāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Uppalavaṇṇā vào buổi
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Uppalavaṇṇā vào buổi
 sáng đắp y… rồi đứng dưới một gốc cây sala trổ hoa rực rỡ. Rồi Ác ma, kẻ
 xấu ác, muốn làm Tỷ-kheo-ni Uppalavaṇṇā sợ hãi, run rẩy, dựng tóc gáy,
 muốn kéo vị ấy ra khỏi định, liền đi đến Tỷ-kheo-ni Uppalavaṇṇā; đến rồi,
@@ -4766,7 +4722,7 @@ liền đau khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
 ==== Kinh 5.6. Cālā (Cālāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Cālā vào buổi sáng đắp
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Cālā vào buổi sáng đắp
 y… rồi ngồi nghỉ ban ngày dưới một gốc cây. Rồi Ác ma, kẻ xấu ác, liền đi
 đến Tỷ-kheo-ni Cālā; đến rồi, nói với Tỷ-kheo-ni Cālā: "Này Tỷ-kheo-ni,
 ngươi không ưa thích điều gì vậy?" "Này bạn, ta không ưa thích sự sanh."
@@ -4791,7 +4747,7 @@ khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
 ==== Kinh 5.7. Upacālā (Upacālāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Upacālā vào buổi sáng
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Upacālā vào buổi sáng
 đắp y… rồi ngồi nghỉ ban ngày dưới một gốc cây. Rồi Ác ma, kẻ xấu ác,
 liền đi đến Tỷ-kheo-ni Upacālā; đến rồi, nói với Tỷ-kheo-ni Upacālā: "Này
 Tỷ-kheo-ni, ngươi muốn tái sanh ở đâu?" "Này bạn, ta không muốn tái sanh
@@ -4819,7 +4775,7 @@ Rồi Ác ma, kẻ xấu ác, biết rằng "Tỷ-kheo-ni Upacālā đã biết 
 
 ==== Kinh 5.8. Sīsupacālā (Sīsupacālāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Sīsupacālā vào buổi
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Sīsupacālā vào buổi
 sáng đắp y… rồi ngồi nghỉ ban ngày dưới một gốc cây. Rồi Ác ma, kẻ xấu
 ác, liền đi đến Tỷ-kheo-ni Sīsupacālā; đến rồi, nói với Tỷ-kheo-ni
 Sīsupacālā: "Này Tỷ-kheo-ni, ngươi ưa thích giáo phái của ai?" "Này bạn,
@@ -4847,7 +4803,7 @@ liền đau khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
 ==== Kinh 5.9. Selā (Selāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Selā vào buổi sáng đắp
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Selā vào buổi sáng đắp
 y… rồi ngồi nghỉ ban ngày dưới một gốc cây. Rồi Ác ma, kẻ xấu ác, muốn
 làm Tỷ-kheo-ni Selā sợ hãi, run rẩy, dựng tóc gáy… rồi nói với Tỷ-kheo-ni
 Selā bằng kệ: \
@@ -4877,7 +4833,7 @@ khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
 ==== Kinh 5.10. Vajirā (Vajirāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Rồi Tỷ-kheo-ni Vajirā vào buổi sáng
+#super[1] Cũng tại Sāvatthi. Rồi Tỷ-kheo-ni Vajirā vào buổi sáng
 đắp y, mang bát và y, đi vào Sāvatthi để khất thực. Sau khi khất thực ở
 Sāvatthi, dùng xong bữa và trở về, vị ấy đi đến Andhavana để nghỉ ban
 ngày. Đi sâu vào Andhavana, vị ấy ngồi nghỉ ban ngày dưới một gốc cây.
@@ -5152,7 +5108,7 @@ Thần lực chói sáng này của Ngài \
 
 ==== Kinh 6.5. Tà Kiến Khác (Aññatarabrahmasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Bấy giờ, một Phạm thiên nọ khởi lên một
+#super[1] Cũng tại Sāvatthī. Bấy giờ, một Phạm thiên nọ khởi lên một
 tà kiến ác như vầy: "Không có Sa-môn hay Bà-la-môn nào có thể đến được chỗ
 này." Bấy giờ, Thế Tôn với tâm mình biết được tâm tư của Phạm thiên ấy — như
 người lực lưỡng duỗi ra cánh tay đang co lại, hay co lại cánh tay đang duỗi
@@ -5219,7 +5175,7 @@ chúng Phạm thiên ấy.
 
 ==== Kinh 6.6. Phóng Dật (Brahmalokasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Bấy giờ, Thế Tôn đã đi nghỉ ban ngày và
+#super[1] Cũng tại Sāvatthī. Bấy giờ, Thế Tôn đã đi nghỉ ban ngày và
 đang tĩnh lặng. Rồi Phạm thiên độc giác Subrahmā và Phạm thiên độc giác
 Suddhāvāsa đi đến chỗ Thế Tôn; đến rồi, mỗi vị đứng nương vào một cánh cửa.
 Rồi Phạm thiên độc giác Subrahmā nói với Phạm thiên độc giác Suddhāvāsa:
@@ -5259,7 +5215,7 @@ cảnh tỉnh Phạm thiên ấy, biến mất tại chỗ. Và về sau, Phạm
 
 ==== Kinh 6.7. Kokālika (Kokālikasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Bấy giờ, Thế Tôn đã đi nghỉ ban ngày và
+#super[1] Cũng tại Sāvatthī. Bấy giờ, Thế Tôn đã đi nghỉ ban ngày và
 đang tĩnh lặng. Rồi Phạm thiên độc giác Subrahmā và Phạm thiên độc giác
 Suddhāvāsa đi đến chỗ Thế Tôn; đến rồi, mỗi vị đứng nương vào một cánh cửa.
 Rồi Phạm thiên độc giác Subrahmā, liên quan đến Tỷ-kheo Kokālika, nói lên
@@ -5271,7 +5227,7 @@ ta cho đó là kẻ phàm phu bị che lấp."
 
 ==== Kinh 6.8. Tissa (Katamodakatissasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Bấy giờ, Thế Tôn đã đi nghỉ ban ngày và
+#super[1] Cũng tại Sāvatthī. Bấy giờ, Thế Tôn đã đi nghỉ ban ngày và
 đang tĩnh lặng. Rồi Phạm thiên độc giác Subrahmā và Phạm thiên độc giác
 Suddhāvāsa đi đến chỗ Thế Tôn; đến rồi, mỗi vị đứng nương vào một cánh cửa.
 Rồi Phạm thiên độc giác Suddhāvāsa, liên quan đến Tỷ-kheo Katamodakatissa,
@@ -5283,7 +5239,7 @@ ta cho đó là hạng người bị che lấp, không hiểu biết."
 
 ==== Kinh 6.9. Phạm Thiên Turū (Turūbrahmasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Bấy giờ, Tỷ-kheo Kokālika bị bệnh, khổ
+#super[1] Cũng tại Sāvatthī. Bấy giờ, Tỷ-kheo Kokālika bị bệnh, khổ
 đau, trầm trọng. Rồi Phạm thiên độc giác Turū, khi đêm đã về khuya, với dung
 sắc tuyệt đẹp, chiếu sáng toàn bộ rừng Jetavana, đi đến chỗ Tỷ-kheo
 Kokālika; đến rồi, đứng trên hư không và nói với Tỷ-kheo Kokālika: "Này
@@ -5313,8 +5269,8 @@ khi đã hướng lời nói và ý nghĩ đến điều ác."
 
 ==== Kinh 6.10. Kokālika Sau (Kokālikasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Rồi Tỷ-kheo Kokālika đi đến chỗ Thế Tôn;
-đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tỷ-kheo
+#super[1] Cũng tại Sāvatthī. Rồi Tỷ-kheo Kokālika đi đến chỗ Thế Tôn;
+đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên, Tỷ-kheo
 Kokālika bạch Thế Tôn: "Bạch Thế Tôn, Xá-lợi-phất và Mục-kiền-liên có ác
 dục, đã bị các ác dục chi phối." Nghe vậy, Thế Tôn nói với Tỷ-kheo Kokālika:
 "Này Kokālika, chớ nói như vậy; này Kokālika, chớ nói như vậy. Này Kokālika,
@@ -5336,15 +5292,15 @@ Kokālika do chính căn bệnh ấy mà mạng chung. Sau khi mạng chung, T�
 Kokālika sanh vào địa ngục Paduma, vì đã phát khởi sự thù hận trong tâm đối
 với Xá-lợi-phất và Mục-kiền-liên. Rồi Phạm thiên Sahampati, khi đêm đã về
 khuya, với dung sắc tuyệt đẹp, chiếu sáng toàn bộ rừng Jetavana, đi đến chỗ
-Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên. Đứng một bên, Phạm thiên
+Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên, Phạm thiên
 Sahampati bạch Thế Tôn: "Bạch Thế Tôn, Tỷ-kheo Kokālika đã mạng chung. Sau
 khi mạng chung, Tỷ-kheo Kokālika đã sanh vào địa ngục Paduma, vì đã phát
 khởi sự thù hận trong tâm đối với Xá-lợi-phất và Mục-kiền-liên." Phạm thiên
 Sahampati nói như vậy; nói xong, đảnh lễ Thế Tôn, đi nhiễu về phía bên phải
 rồi biến mất tại chỗ. Rồi Thế Tôn, sau khi đêm ấy qua đi, gọi các Tỷ-kheo:
-"Này các Tỷ-kheo, đêm nay Phạm thiên Sahampati, khi đêm đã về khuya, với
+"Này các thầy, đêm nay Phạm thiên Sahampati, khi đêm đã về khuya, với
 dung sắc tuyệt đẹp, chiếu sáng toàn bộ rừng Jetavana, đã đi đến chỗ Ta; đến
-rồi, đảnh lễ Ta và đứng một bên. Đứng một bên, này các Tỷ-kheo, Phạm thiên
+rồi, đảnh lễ Ta và đứng một bên, này các Tỷ-kheo, Phạm thiên
 Sahampati nói với Ta: "Bạch Thế Tôn, Tỷ-kheo Kokālika đã mạng chung. Sau khi
 mạng chung, Tỷ-kheo Kokālika đã sanh vào địa ngục Paduma, vì đã phát khởi sự
 thù hận trong tâm đối với Xá-lợi-phất và Mục-kiền-liên." Phạm thiên
@@ -5400,7 +5356,7 @@ Phạm thiên Turū, và Kokālika sau.
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Vương Xá (Rājagaha),
 bên bờ sông Sappinī. Khi đêm đã về khuya, Phạm thiên Sanaṅkumāra với dung
 sắc thù thắng chiếu sáng khắp vùng bờ sông Sappinī, đi đến chỗ Thế Tôn; đến
-nơi, đảnh lễ Thế Tôn rồi đứng sang một bên. Đứng một bên, Phạm thiên
+nơi, đảnh lễ Thế Tôn rồi đứng sang một bên, Phạm thiên
 Sanaṅkumāra nói lên bài kệ này trước Thế Tôn: \
 "Giai cấp Sát-đế-lỵ là tối thắng giữa loài người, \
 đối với những ai trọng dòng dõi; \
@@ -5416,7 +5372,7 @@ nhiễu quanh phía bên phải rồi biến mất ngay tại chỗ ấy.
 trên núi Linh Thứu (Gijjhakūṭa), khi Đề-bà-đạt-đa (Devadatta) vừa rời đi
 không lâu. Khi đêm đã về khuya, Phạm thiên Sahampati với dung sắc thù thắng
 chiếu sáng khắp núi Linh Thứu, đi đến chỗ Thế Tôn; đến nơi, đảnh lễ Thế
-Tôn rồi đứng sang một bên. Đứng một bên, Phạm thiên Sahampati nhân chuyện
+Tôn rồi đứng sang một bên, Phạm thiên Sahampati nhân chuyện
 Đề-bà-đạt-đa nói lên bài kệ này trước Thế Tôn: \
 "Quả làm cây chuối chết, quả làm cây tre và cây lau chết; \
 danh vọng giết kẻ xấu ác, như bào thai giết con lừa cái."
@@ -5427,7 +5383,7 @@ danh vọng giết kẻ xấu ác, như bào thai giết con lừa cái."
 Andhakavinda. Lúc bấy giờ, Thế Tôn đang ngồi giữa trời trong đêm tối mịt
 mùng, và mưa rơi từng hạt một. Khi đêm đã về khuya, Phạm thiên Sahampati
 với dung sắc thù thắng chiếu sáng khắp Andhakavinda, đi đến chỗ Thế Tôn;
-đến nơi, đảnh lễ Thế Tôn rồi đứng sang một bên. Đứng một bên, Phạm thiên
+đến nơi, đảnh lễ Thế Tôn rồi đứng sang một bên, Phạm thiên
 Sahampati nói lên những bài kệ này trước Thế Tôn: \
 "Hãy thường lui tới những trú xứ xa vắng, \
 hãy sống để thoát khỏi các kiết sử; \
@@ -5608,7 +5564,7 @@ loài trời lẫn loài người — có thể bắt lỗi Thế Tôn, bậc A-
 Đẳng Giác ấy. Nhưng thôi, Bà-la-môn hãy đi đi, đi rồi sẽ biết." Rồi
 Bà-la-môn Bhāradvāja giận dữ, bất mãn, đi đến Thế Tôn; đến rồi, chào hỏi
 thân thiện với Thế Tôn bằng những lời thăm hỏi xã giao, rồi ngồi xuống một
-bên. Ngồi một bên, Bà-la-môn Bhāradvāja nói với Thế Tôn bằng kệ: \
+bên, Bà-la-môn Bhāradvāja nói với Thế Tôn bằng kệ: \
 "Cắt bỏ gì thì ngủ an vui, cắt bỏ gì thì không sầu muộn; \
 Một pháp nào, hỡi Gotama, mà Ngài tán đồng sự giết nó?" \
 Thế Tôn đáp: \
@@ -5725,9 +5681,9 @@ thành bậc A-la-hán.
 
 ==== Kinh 7.5. Bất Hại (Ahiṃsakasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Rồi Bà-la-môn Ahiṃsaka đi đến Thế Tôn;
+#super[1] Cũng tại Sāvatthī. Rồi Bà-la-môn Ahiṃsaka đi đến Thế Tôn;
 đến rồi, chào hỏi thân thiện với Thế Tôn bằng những lời thăm hỏi xã giao,
-rồi ngồi xuống một bên. Ngồi một bên, Bà-la-môn Ahiṃsaka bạch Thế Tôn:
+rồi ngồi xuống một bên, Bà-la-môn Ahiṃsaka bạch Thế Tôn:
 "Bạch Gotama, con là người không hại, con là người không hại!" \
 "Nếu xứng với tên mình thì ngươi quả là người không hại; \
 Nhưng ai không hại bằng thân, bằng lời, bằng ý, \
@@ -5738,9 +5694,9 @@ thành bậc A-la-hán.
 
 ==== Kinh 7.6. Búi Tóc (Jaṭāsuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Rồi Bà-la-môn Jaṭā đi đến Thế Tôn; đến
+#super[1] Cũng tại Sāvatthī. Rồi Bà-la-môn Jaṭā đi đến Thế Tôn; đến
 rồi, chào hỏi thân thiện với Thế Tôn bằng những lời thăm hỏi xã giao, rồi
-ngồi xuống một bên. Ngồi một bên, Bà-la-môn Jaṭā nói với Thế Tôn bằng kệ: \
+ngồi xuống một bên, Bà-la-môn Jaṭā nói với Thế Tôn bằng kệ: \
 "Búi tóc bên trong, búi tóc bên ngoài, \
 Loài người bị rối trong búi tóc; \
 Hỡi Gotama, con hỏi Ngài điều ấy: \
@@ -5758,9 +5714,9 @@ Nghe vậy, Bà-la-môn Jaṭā bạch Thế Tôn: "Thật vi diệu thay, bạc
 
 ==== Kinh 7.7. Suddhika (Suddhikasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. Rồi Bà-la-môn Suddhika đi đến Thế Tôn;
+#super[1] Cũng tại Sāvatthī. Rồi Bà-la-môn Suddhika đi đến Thế Tôn;
 đến rồi, chào hỏi thân thiện với Thế Tôn bằng những lời thăm hỏi xã giao,
-rồi ngồi xuống một bên. Ngồi một bên, Bà-la-môn Suddhika nói với Thế Tôn
+rồi ngồi xuống một bên, Bà-la-môn Suddhika nói với Thế Tôn
 bài kệ này: \
 "Không ai được thanh tịnh chỉ vì là Bà-la-môn, \
 Dù có giới hạnh và khổ hạnh ở đời; \
@@ -6042,7 +5998,7 @@ Rồi Bà-la-môn Devahita cho người mang một bình nước nóng và một
 Tôn, tắm Thế Tôn bằng nước nóng, hòa đường phèn vào nước nóng rồi dâng
 lên Thế Tôn. Bệnh của Thế Tôn liền lắng dịu. Rồi Bà-la-môn Devahita đi
 đến chỗ Thế Tôn, đến rồi thăm hỏi, chào đón nhau, nói những lời thân ái,
-dễ nghe, rồi ngồi xuống một bên. Ngồi một bên, Bà-la-môn Devahita nói
+dễ nghe, rồi ngồi xuống một bên, Bà-la-môn Devahita nói
 với Thế Tôn bằng kệ: \
 "Bố thí ở đâu, \
 cho ở đâu thì được quả lớn? \
@@ -6116,7 +6072,7 @@ kẻ vấp ngã đứng dậy được." \
 Rồi các con của Bà-la-môn đại phú ấy đưa ông về nhà, tắm rửa cho ông,
 và mỗi người dâng cho ông một bộ áo. Bà-la-môn đại phú ấy lấy một bộ áo
 đi đến chỗ Thế Tôn, đến rồi thăm hỏi, chào đón, nói những lời thân ái rồi
-ngồi xuống một bên. Ngồi một bên, ông bạch Thế Tôn: "Bạch Tôn giả
+ngồi xuống một bên, ông bạch Thế Tôn: "Bạch Tôn giả
 Gotama, chúng con là Bà-la-môn, thường dâng tài vật cho bậc thầy. Xin
 Tôn giả Gotama nhận tài vật của bậc thầy cho con." Thế Tôn nhận vì lòng
 thương xót. Rồi Bà-la-môn đại phú ấy bạch Thế Tôn: "Bạch Tôn giả
@@ -6252,8 +6208,7 @@ thật vi diệu thay, bạch Tôn giả Gotama, thật vi diệu thay… Từ n
 ==== Kinh 7.9. Người Nuôi Mẹ (Mātuposakasuttaṃ)
 
 #super[1] Tại Sāvatthi. Rồi Bà-la-môn Mātuposaka đi đến chỗ Thế Tôn, đến
-rồi thăm hỏi, chào đón, nói những lời thân ái rồi ngồi xuống một bên.
-Ngồi một bên, Bà-la-môn Mātuposaka bạch Thế Tôn: "Bạch Tôn giả Gotama,
+rồi thăm hỏi, chào đón, nói những lời thân ái rồi ngồi xuống một bên, Bà-la-môn Mātuposaka bạch Thế Tôn: "Bạch Tôn giả Gotama,
 con tìm vật khất thực đúng pháp, sau khi tìm được thì nuôi dưỡng mẹ cha.
 Như vậy con có làm tròn phận sự không?" "Này Bà-la-môn, ông quả thật có
 làm tròn phận sự. Này Bà-la-môn, ai tìm vật khất thực đúng pháp, sau khi
@@ -6270,8 +6225,7 @@ nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 ==== Kinh 7.10. Người Đi Xin (Bhikkhakasuttaṃ)
 
 #super[1] Tại Sāvatthi. Rồi Bà-la-môn Bhikkhaka đi đến chỗ Thế Tôn, đến
-rồi thăm hỏi, chào đón, nói những lời thân ái rồi ngồi xuống một bên.
-Ngồi một bên, Bà-la-môn Bhikkhaka bạch Thế Tôn: "Bạch Tôn giả Gotama,
+rồi thăm hỏi, chào đón, nói những lời thân ái rồi ngồi xuống một bên, Bà-la-môn Bhikkhaka bạch Thế Tôn: "Bạch Tôn giả Gotama,
 con cũng đi xin, Ngài cũng đi xin; ở đây chúng ta có gì khác nhau?" \
 "Không phải chỉ vì đi xin của người khác mà thành Tỷ-kheo; \
 chấp nhận một pháp thấp hèn, \
@@ -6291,7 +6245,7 @@ Sāvatthi, theo thuyết nước thanh tịnh, tin rằng thanh tịnh là nhờ
 ngày đêm chuyên lo việc tắm rửa. Rồi Tôn giả Ānanda vào buổi sáng đắp
 y, mang bát đi vào Sāvatthi khất thực. Sau khi khất thực ở Sāvatthi, ăn
 xong, trên đường trở về, Tôn giả đi đến chỗ Thế Tôn, đến rồi đảnh lễ Thế
-Tôn và ngồi xuống một bên. Ngồi một bên, Tôn giả Ānanda bạch Thế Tôn:
+Tôn và ngồi xuống một bên, Tôn giả Ānanda bạch Thế Tôn:
 "Bạch Thế Tôn, ở đây có Bà-la-môn tên Saṅgārava trú tại Sāvatthi, theo
 thuyết nước thanh tịnh, tin rằng thanh tịnh là nhờ nước, ngày đêm chuyên
 lo việc tắm rửa. Lành thay, bạch Thế Tôn, xin Thế Tôn vì lòng thương xót
@@ -6465,12 +6419,12 @@ Do thắng tri ngã mạn, ngươi sẽ sống an tịnh."
 
 #super[1] Nhân duyên ở Sāvatthi. Ở đó, Thế Tôn gọi các Tỷ-kheo: "Này các
 Tỷ-kheo." "Bạch Thế Tôn," các Tỷ-kheo đáp lại Thế Tôn. Thế Tôn nói như
-vầy: "Này các Tỷ-kheo, lời nói hội đủ bốn chi phần thì được gọi là khéo
+vầy: "Này các thầy, lời nói hội đủ bốn chi phần thì được gọi là khéo
 nói, không phải là vụng nói, không có lỗi và không bị người trí quở trách.
 Bốn chi phần ấy là gì? Ở đây, này các Tỷ-kheo, Tỷ-kheo chỉ nói điều khéo
 nói, không nói điều vụng nói; chỉ nói Pháp, không nói phi Pháp; chỉ nói
 điều dễ thương, không nói điều không dễ thương; chỉ nói sự thật, không nói
-điều dối trá. Này các Tỷ-kheo, lời nói hội đủ bốn chi phần ấy thì được gọi
+điều dối trá. Này các thầy, lời nói hội đủ bốn chi phần ấy thì được gọi
 là khéo nói, không phải là vụng nói, không có lỗi và không bị người trí
 quở trách." Thế Tôn nói như vậy; nói xong, bậc Thiện Thệ, bậc Đạo Sư lại
 nói tiếp: \
@@ -6523,7 +6477,7 @@ Các Tỷ-kheo tâm phấn khởi, hoan hỷ, lắng tai nghe."
 Migāramātā, cùng với đại chúng Tỷ-kheo khoảng năm trăm vị, tất cả đều là
 bậc A-la-hán. Khi ấy, vào ngày Bố-tát mười lăm, nhân lễ Tự Tứ, Thế Tôn
 được chúng Tỷ-kheo vây quanh, ngồi giữa trời. Rồi Thế Tôn nhìn quanh chúng
-Tỷ-kheo đang im lặng và gọi các Tỷ-kheo: "Này các Tỷ-kheo, nay Ta mời các
+Tỷ-kheo đang im lặng và gọi các Tỷ-kheo: "Này các thầy, nay Ta mời các
 thầy tự tứ. Các thầy có điều gì chê trách Ta về thân hay về lời không?"
 Khi được nói như vậy, Tôn giả Sāriputta từ chỗ ngồi đứng dậy, đắp y qua
 một bên vai, chắp tay hướng đến Thế Tôn và bạch: "Bạch Thế Tôn, chúng con
@@ -7384,16 +7338,16 @@ hai kinh Sukkā, rồi Cīrā và Āḷavī — như vậy là mười hai.
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, trong
 rừng Kỳ-đà, khu vườn của Cấp Cô Độc. Ở đó, Thế Tôn gọi các Tỷ-kheo:
-"Này các thầy Tỷ-kheo." Các Tỷ-kheo đáp: "Thưa vâng, bạch Thế Tôn."
+"Này các thầy." Các Tỷ-kheo đáp: "Thưa vâng, bạch Thế Tôn."
 Thế Tôn nói như vầy: "Thuở xưa, này các Tỷ-kheo, các A-tu-la tiến
 đánh chư thiên. Rồi Đế Thích, Thiên chủ, gọi chư thiên tử Suvīra:
 'Này Suvīra thân mến, các A-tu-la đang tiến đánh chư thiên. Hãy đi,
-này Suvīra thân mến, hãy đối trận với các A-tu-la.' Này các Tỷ-kheo,
+này Suvīra thân mến, hãy đối trận với các A-tu-la.' Này các thầy,
 chư thiên tử Suvīra vâng lời Đế Thích, Thiên chủ: 'Thưa vâng, bạch
 Ngài,' rồi buông lung. Lần thứ hai, này các Tỷ-kheo, Đế Thích, Thiên
 chủ, gọi chư thiên tử Suvīra: 'Này Suvīra thân mến, các A-tu-la đang
 tiến đánh chư thiên. Hãy đi, này Suvīra thân mến, hãy đối trận với
-các A-tu-la.' Này các Tỷ-kheo, chư thiên tử Suvīra vâng lời Đế Thích,
+các A-tu-la.' Này các thầy, chư thiên tử Suvīra vâng lời Đế Thích,
 Thiên chủ: 'Thưa vâng, bạch Ngài,' rồi lần thứ hai vẫn buông lung.
 Lần thứ ba, này các Tỷ-kheo, Đế Thích, Thiên chủ, gọi chư thiên tử
 Suvīra: 'Này Suvīra thân mến, các A-tu-la đang tiến đánh chư thiên.
@@ -7436,7 +7390,7 @@ Tỷ-kheo." Các Tỷ-kheo đáp: "Thưa vâng, bạch Thế Tôn." Thế Tôn n
 vầy: "Thuở xưa, này các Tỷ-kheo, các A-tu-la tiến đánh chư thiên. Rồi
 Đế Thích, Thiên chủ, gọi chư thiên tử Susīma: 'Này Susīma thân mến,
 các A-tu-la đang tiến đánh chư thiên. Hãy đi, này Susīma thân mến, hãy
-đối trận với các A-tu-la.' Này các Tỷ-kheo, chư thiên tử Susīma vâng
+đối trận với các A-tu-la.' Này các thầy, chư thiên tử Susīma vâng
 lời Đế Thích, Thiên chủ: 'Thưa vâng, bạch Ngài,' rồi buông lung. Lần
 thứ hai, này các Tỷ-kheo, Đế Thích, Thiên chủ, gọi chư thiên tử
 Susīma… lần thứ hai vẫn buông lung. Lần thứ ba, này các Tỷ-kheo, Đế
@@ -7490,10 +7444,10 @@ sẽ được đoạn trừ.' 'Nếu không nhìn lên đỉnh cờ của Varu�
 vương, thì hãy nhìn lên đỉnh cờ của Īsāna, Thiên vương. Vì khi các vị
 nhìn lên đỉnh cờ của Īsāna, Thiên vương, sợ hãi, hoảng hốt, dựng lông
 nào đang có nơi các vị, nó sẽ được đoạn trừ.'
-Này các Tỷ-kheo, khi nhìn lên đỉnh cờ của Đế Thích, Thiên chủ, hay của
+Này các thầy, khi nhìn lên đỉnh cờ của Đế Thích, Thiên chủ, hay của
 Pajāpati, Varuṇa, Īsāna, Thiên vương, sợ hãi, hoảng hốt, dựng lông nào
 đang có nơi các vị, nó có thể được đoạn trừ, mà cũng có thể không được
-đoạn trừ. Vì sao thế? Này các Tỷ-kheo, Đế Thích, Thiên chủ, chưa ly
+đoạn trừ. Vì sao thế? Này các thầy, Đế Thích, Thiên chủ, chưa ly
 tham, chưa ly sân, chưa ly si, là kẻ nhút nhát, hoảng hốt, run sợ, bỏ
 chạy.
 Còn Ta, này các Tỷ-kheo, nói như vầy: 'Nếu các thầy đi vào rừng, đi
@@ -7515,7 +7469,7 @@ thuận pháp; đó là bốn đôi, tám bậc; chúng đệ tử ấy của Th
 chắp tay kính lễ, là ruộng phước vô thượng cho đời. Vì khi các thầy
 niệm đến Tăng, sợ hãi, hoảng hốt, dựng lông nào đang có nơi các thầy,
 nó sẽ được đoạn trừ.'
-Vì sao thế? Này các Tỷ-kheo, Như Lai là bậc A-la-hán, Chánh Đẳng
+Vì sao thế? Này các thầy, Như Lai là bậc A-la-hán, Chánh Đẳng
 Giác, đã ly tham, ly sân, ly si, không nhút nhát, không hoảng hốt,
 không run sợ, không bỏ chạy."
 Thế Tôn nói như vậy. Sau khi nói như vậy, bậc Thiện Thệ, đấng Đạo Sư,
@@ -7539,7 +7493,7 @@ dựng lông cũng không còn nữa."
 
 ==== Kinh 11.4. Vepacitti (Vepacittisuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. "Thuở xưa, này các Tỷ-kheo, trận
+#super[1] Cũng tại Sāvatthī. "Thuở xưa, này các Tỷ-kheo, trận
 chiến giữa chư thiên và A-tu-la đã dàn ra. Rồi Vepacitti, vua A-tu-la,
 gọi các A-tu-la: 'Này các quý vị, nếu trong trận chiến giữa chư thiên
 và A-tu-la đã dàn ra mà các A-tu-la thắng, chư thiên bại, thì hãy trói
@@ -7608,7 +7562,7 @@ thuyết giảng như vậy, các thầy hãy là người nhẫn nhịn và nhu
 
 ==== Kinh 11.5. Thắng Nhờ Lời Hay (Subhāsitajayasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthī. "Thuở xưa, này các Tỷ-kheo, trận
+#super[1] Cũng tại Sāvatthī. "Thuở xưa, này các Tỷ-kheo, trận
 chiến giữa chư thiên và A-tu-la đã dàn ra. Rồi Vepacitti, vua A-tu-la,
 nói với Đế Thích, Thiên chủ: 'Này Thiên chủ, hãy để sự thắng cuộc
 thuộc về lời nói hay.' 'Này Vepacitti, hãy để sự thắng cuộc thuộc về
@@ -7689,7 +7643,7 @@ Mātali, người đánh xe, bằng kệ: \
 hãy đánh xe vòng qua phía Īsāna. \
 Thà rằng chúng ta bỏ mạng trước quân A-tu-la, \
 còn hơn để những con chim này mất tổ." \
-Này các Tỷ-kheo, Mātali, người đánh xe, vâng lời Đế Thích, Thiên chủ:
+Này các thầy, Mātali, người đánh xe, vâng lời Đế Thích, Thiên chủ:
 'Thưa vâng, bạch Ngài,' rồi quay cỗ xe ngựa thuần chủng thắng một
 nghìn ngựa trở lại. Rồi các A-tu-la nghĩ như vầy: 'Cỗ xe ngựa thuần
 chủng thắng một nghìn ngựa của Đế Thích, Thiên chủ, đã quay trở lại.
@@ -7747,7 +7701,7 @@ không có gì hơn sự nhẫn nhịn."
 #super[1] Tại Sāvatthī. "Thuở xưa, này các Tỷ-kheo, nhiều ẩn sĩ có giới
 hạnh, có thiện pháp, trú trong những cốc lá ở khu rừng. Rồi Đế Thích,
 Thiên chủ, và Vepacitti, vua A-tu-la, đi đến chỗ các ẩn sĩ có giới
-hạnh, có thiện pháp ấy. Này các Tỷ-kheo, Vepacitti, vua A-tu-la, mang
+hạnh, có thiện pháp ấy. Này các thầy, Vepacitti, vua A-tu-la, mang
 dép có quai, đeo gươm bên hông, che lọng, đi vào cổng trước của am
 tranh, rồi bước ngang qua các ẩn sĩ có giới hạnh, có thiện pháp ấy ở
 phía trái. Còn Đế Thích, Thiên chủ, này các Tỷ-kheo, tháo dép có quai,
@@ -7774,7 +7728,7 @@ các ẩn sĩ có giới hạnh, có thiện pháp ấy nghĩ như vầy: 'Chư 
 những vị đúng pháp, các A-tu-la là những kẻ phi pháp. Chúng ta có thể
 có sợ hãi từ phía các A-tu-la. Vậy chúng ta hãy đi đến Sambara, vua
 A-tu-la, và cầu xin sự bảo đảm không sợ hãi.'
-Này các Tỷ-kheo, các ẩn sĩ có giới hạnh, có thiện pháp ấy — ví như
+Này các thầy, các ẩn sĩ có giới hạnh, có thiện pháp ấy — ví như
 một người lực lưỡng duỗi cánh tay đang co lại, hay co cánh tay đang
 duỗi ra — cũng vậy, từ những cốc lá bên bờ biển biến mất và hiện ra
 trước mặt Sambara, vua A-tu-la. Rồi các ẩn sĩ có giới hạnh, có thiện
@@ -7882,8 +7836,7 @@ Gọi người ấy là bậc thiện nhân."
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Vesālī, trong rừng
 Đại Lâm, tại giảng đường có nóc nhọn. Bấy giờ, Mahāli người Licchavi
-đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi
-một bên, Mahāli người Licchavi bạch Thế Tôn: "Bạch Thế Tôn, Thế Tôn có
+đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên, Mahāli người Licchavi bạch Thế Tôn: "Bạch Thế Tôn, Thế Tôn có
 từng thấy Đế Thích — chúa của chư thiên — chăng?" Thế Tôn đáp: "Này
 Mahāli, Ta có thấy Đế Thích — chúa của chư thiên." Mahāli thưa: "Bạch
 Thế Tôn, hẳn vị ấy chỉ là kẻ giống Đế Thích thôi; vì Đế Thích — chúa
@@ -7966,8 +7919,7 @@ Hãy nhớ tưởng giáo pháp của chư Phật."
 ==== Kinh 11.5. Cảnh Khả Ái (Rāmaṇeyyakasuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Bấy giờ, Đế Thích — chúa của
-chư thiên — đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên.
-Đứng một bên, Đế Thích — chúa của chư thiên — bạch Thế Tôn: "Bạch Thế
+chư thiên — đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên, Đế Thích — chúa của chư thiên — bạch Thế Tôn: "Bạch Thế
 Tôn, thế nào là cảnh đất khả ái?" Thế Tôn đáp: \
 
 "Miếu viên lâm, miếu rừng, \
@@ -7983,7 +7935,7 @@ Nơi ấy là cảnh đất khả ái."
 
 #super[1] Một thời, Thế Tôn ngự tại Vương Xá, trên núi Linh Thứu
 (Gijjhakūṭa). Bấy giờ, Đế Thích — chúa của chư thiên — đến chỗ Thế Tôn;
-đến rồi, đảnh lễ Thế Tôn và đứng một bên. Đứng một bên, Đế Thích — chúa
+đến rồi, đảnh lễ Thế Tôn và đứng một bên, Đế Thích — chúa
 của chư thiên — nói với Thế Tôn bằng kệ: \
 
 "Loài người tế tự, \
@@ -8172,8 +8124,7 @@ Ba kinh Đế Thích đảnh lễ.
 ==== Kinh 11.1. Chặt Đứt (Chetvāsuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Bấy giờ, Đế Thích — chúa của
-chư thiên — đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên.
-Đứng một bên, Đế Thích — chúa của chư thiên — nói với Thế Tôn bằng kệ: \
+chư thiên — đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên, Đế Thích — chúa của chư thiên — nói với Thế Tôn bằng kệ: \
 
 "Chặt đứt cái gì thì ngủ an lạc? \
 Chặt đứt cái gì thì không sầu? \
@@ -8249,7 +8200,7 @@ Như Sambara cùng với trăm ảo thuật."
 chấp nhau. Một vị trong hai vị ấy đã phạm lỗi. Rồi vị Tỷ-kheo ấy xin
 lỗi vị kia về lỗi đã phạm như một lỗi; nhưng vị Tỷ-kheo kia không chấp
 nhận. Bấy giờ, nhiều Tỷ-kheo đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn
-và ngồi xuống một bên. Ngồi một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch
+và ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch
 Thế Tôn, ở đây có hai Tỷ-kheo tranh chấp nhau; một vị trong hai vị ấy đã
 phạm lỗi. Bạch Thế Tôn, vị Tỷ-kheo ấy xin lỗi vị kia về lỗi đã phạm như
 một lỗi, nhưng vị Tỷ-kheo kia không chấp nhận." Thế Tôn nói: "Này các

@@ -16,7 +16,7 @@ _Trạng thái: đã dịch 35/35 đơn vị (1–35); đã trọn tập._
 #super[1] Trong mười vạn kiếp \
 và bốn a-tăng-kỳ, \
 sở hạnh đã làm trong khoảng ấy \
-đều là sự nấu chín Bồ-đề.
+đều nấu chín dần Bồ-đề.
 
 #super[2] Bỏ qua sở hạnh ở kiếp quá khứ, \
 trong đời này đời khác; \
@@ -49,8 +49,8 @@ không dao động, không dính mắc, \
 Ta vẫn bố thí như vậy.
 
 #super[8] Do nhân ấy, nơi thân Ta \
-không có sự đổi sắc; \
-với hỷ lạc và sự hoan hỷ, \
+không hề đổi sắc; \
+với hỷ lạc và hoan hỷ, \
 Ta trải qua ngày ấy.
 
 #super[9] Nếu một tháng hay hai tháng \
@@ -98,7 +98,7 @@ nếu không cho họ của cải lúa gạo, \
 thì mất ấn tín.
 
 #super[7] Cũng vậy, Ta muốn phước, \
-thấy sự cúng dường rộng lớn; \
+gặp dịp cúng dường lớn; \
 nếu không bố thí cho vị ấy, \
 Ta sẽ hao tổn phước."
 
@@ -242,7 +242,7 @@ cho thú, chim, người và các loài.
 
 #super[3] Y phục và giường nằm, \
 cơm nước và thức ăn; \
-làm cho không gián đoạn, \
+không để gián đoạn, \
 Ta tiến hành đại thí.
 
 #super[4] Như người tôi tớ \
@@ -721,7 +721,7 @@ người ấy sẽ không ra về tay không."
 #super[10] Biết ý nghĩ của Ta, \
 Sakka mang hình Bà-la-môn \
 đến chỗ Ta ở, \
-để thử sự bố thí của Ta.
+để thử lòng bố thí của Ta.
 
 #super[11] Thấy vị ấy, Ta vui, \
 nói lời này: \
@@ -1043,10 +1043,10 @@ Ta lại làm hại kẻ khác?"
 #super[10] Nó tưởng chỉ có Ta, \
 sẽ làm vậy với kẻ khác; \
 chính họ sẽ giết nó, \
-đó sẽ là sự thoát của Ta.
+đó sẽ là lối thoát của Ta.
 
 #super[11] Với kẻ hèn, kẻ vừa, kẻ cao, \
-kham nhẫn sự khinh thường; \
+kham nhẫn khi bị khinh; \
 bậc có tuệ như vậy đạt được \
 điều tâm đã nguyện.
 
@@ -1400,7 +1400,7 @@ hay ta sẽ đuổi ngươi khỏi nước."
 #super[10] Dẹp xong biên ấp, \
 vua hỏi kẻ giả dối: \
 "Thưa tôn giả, có kham nhẫn được chăng, \
-sự tôn kính có được tiến hành cho ngài?"
+ngài có được tôn kính chu đáo không?"
 
 #super[11] Kẻ ác kể với vua \
 vương tử đã bất kính thế nào; \
@@ -1462,7 +1462,7 @@ không phòng hộ, trong nhà mình, \
 lớn lên cùng bà con.
 
 #super[5] Đây là điều vượt trội ở đời: \
-sự nuôi Ta trong chỗ bức bách; \
+việc nuôi Ta trong chỗ bức bách; \
 lớn lên trong nhà sắt, \
 ít ánh trăng nắng.
 
@@ -1478,7 +1478,7 @@ Ta sẽ là bậc nhất trong kẻ ác.
 
 #super[8] Ta đã nhàm chán thân này, \
 không cần ngôi vua; \
-Ta sẽ tìm sự tịch tịnh, \
+Ta sẽ tìm tịch tịnh, \
 chỗ chết không đè được Ta."
 
 #super[9] Nghĩ như vậy xong, \
@@ -1562,7 +1562,7 @@ Ta cũng nói ý với họ: \
 #super[5] Em trai út của Ta, \
 bậc trí tên Nanda; \
 cũng theo học Ta, \
-vui theo sự xuất gia.
+vui theo hạnh xuất gia.
 
 #super[6] Ta là Soṇa và Nanda, \
 cả mẹ lẫn cha của Ta; \
@@ -1603,7 +1603,7 @@ người muốn lợi cho Ta; \
 thấy Ta khổ, \
 nàng khiến Ta quyết ba điều.
 
-#super[7] "Chớ tỏ sự thông tuệ, \
+#super[7] "Chớ tỏ ra thông tuệ, \
 hãy để mọi loài tưởng là ngu; \
 hãy để mọi người khinh ông, \
 như vậy lợi của ông sẽ thành."
@@ -1714,7 +1714,7 @@ một nắm thịt trong tổ.
 
 #super[2] Mẹ ngậm mỏ mang về \
 nuôi Ta; \
-Ta sống nhờ sự xúc chạm của mẹ, \
+Ta sống nhờ mẹ ấp ủ, \
 không có sức nơi thân.
 
 #super[3] Trong năm, vào mùa nóng, \
@@ -1786,7 +1786,7 @@ Ta giải thoát bà con khỏi khổ?"
 #super[4] Suy nghĩ nghĩa pháp, \
 Ta thấy chân thật làm chỗ nương; \
 đứng trên chân thật, Ta giải thoát \
-bà con khỏi sự diệt ấy.
+bà con khỏi nạn diệt ấy.
 
 #super[5] Nhớ pháp của bậc lành, \
 suy nghĩ nghĩa tối thượng; \
@@ -1794,7 +1794,7 @@ Ta làm sự chân thật, \
 điều vững, thường còn ở đời.
 
 #super[6] "Từ khi nhớ mình, \
-từ khi đạt được sự hiểu biết; \
+từ khi đạt được hiểu biết; \
 Ta không biết cố ý \
 làm hại dù một sanh mạng.
 
@@ -1829,7 +1829,7 @@ Ta sống không vui.
 #super[2] Không ai biết điều ấy, \
 tâm không vui của Ta; \
 Ta không nói với ai, \
-sự không ưa đi trong ý Ta.
+nỗi ấy cứ quẩn trong lòng Ta.
 
 #super[3] Đồng phạm hạnh Maṇḍabya, \
 bạn Ta, đại ẩn sĩ; \
@@ -1837,7 +1837,7 @@ gắn với nghiệp cũ, \
 phải chịu bị đóng cọc.
 
 #super[4] Ta hầu hạ vị ấy, \
-đưa đến sự lành bệnh; \
+cho đến khi ông lành bệnh; \
 xin phép rồi Ta về \
 am của mình.
 

@@ -51,7 +51,7 @@ chớ trở thành kẻ mặt heo.
 
 === 3. Chuyện ngạ quỷ Pūtimukhapetavatthu (Pūtimukhapetavatthu)
 
-#super[1] Ông mang dung sắc thiên, đẹp đẽ, \
+#super[1] Sắc ông đẹp như chư thiên, \
 đứng giữa hư không, trên bầu trời; \
 còn miệng ông, trùng ăn, hôi thối — \
 trước ông đã làm nghiệp gì?
@@ -80,17 +80,17 @@ hộ thế, có danh vọng; \
 Kuvera và Dhataraṭṭha, \
 Virūpakkha và Virūḷhaka; \
 họ được cúng dường, \
-và người thí không vô quả.
+và người thí không uổng công.
 
 #super[3] Không phải khóc lóc hay sầu, \
 hay các lời than khóc khác; \
 không vì lợi ích cho ngạ quỷ \
 mà bà con đứng như vậy.
 
-#super[4] Còn sự cúng dường này đã thí, \
-khéo an lập nơi Tăng chúng; \
-lâu dài vì lợi ích cho vị ấy, \
-ngay lập tức được lợi ích.
+#super[4] Còn vật cúng dường ấy, \
+đã khéo an lập nơi Tăng chúng; \
+đem lại lợi ích lâu dài cho vị ấy, \
+và lợi ích ấy đến ngay tức khắc.
 
 #strong[(Hết chuyện ngạ quỷ Piṭṭhadhītalika, chuyện thứ tư.)]
 
@@ -120,8 +120,8 @@ chúng tùy hỷ một cách cung kính.
 
 #super[5] "Mong bà con ta sống lâu, \
 nhờ họ ta được thọ hưởng; \
-sự cúng dường đã làm cho ta, \
-và người thí không vô quả."
+vật cúng dường ấy đã đến tay ta, \
+và người thí không uổng công."
 
 #super[6] "Ở đấy không có cày cấy, \
 cũng không có chăn bò; \
@@ -150,14 +150,14 @@ hay các lời than khóc khác; \
 không vì lợi ích cho ngạ quỷ \
 mà bà con đứng như vậy."
 
-#super[11] "Còn sự cúng dường này đã thí, \
-khéo an lập nơi Tăng chúng; \
-lâu dài vì lợi ích cho vị ấy, \
-ngay lập tức được lợi ích."
+#super[11] "Còn vật cúng dường ấy, \
+đã khéo an lập nơi Tăng chúng; \
+đem lại lợi ích lâu dài cho vị ấy, \
+và lợi ích ấy đến ngay tức khắc."
 
-#super[12] Pháp đối với bà con đã được chỉ bày, \
+#super[12] Pháp giúp ích bà con đã được chỉ rõ, \
 sự cúng dường ngạ quỷ đã làm thật lớn; \
-sức mạnh đã được thí cho các Tỷ-kheo, \
+sức mạnh cũng đã dâng cho các Tỷ-kheo, \
 các vị đã tạo phước không nhỏ.
 
 #strong[(Hết chuyện ngạ quỷ Tirokuṭṭa, chuyện thứ năm.)]
@@ -189,7 +189,7 @@ hãy nhìn tôi đã lâm nạn.
 Do quả dị thục nghiệp nào \
 mà nàng ăn thịt con?
 
-#super[6] Người vợ cùng chồng tôi có thai, \
+#super[6] Chồng tôi lấy thêm vợ, nàng có thai, \
 tôi khởi tâm ác đối với nàng; \
 tôi với tâm đã nhiễm độc \
 đã làm việc phá thai.
@@ -325,7 +325,7 @@ luôn lấy máu mủ làm thức ăn?
 
 #super[2] Áo mới và đẹp đẽ, \
 mềm, sạch, có lông; \
-khi được thí, chúng hóa lẫn, thành đồ mối mọt; \
+khi được thí cho nàng, liền hoá thành đồ mối mọt; \
 người nữ này đã làm nghiệp gì?
 
 #super[3] Bạch Tôn giả, nàng từng là vợ tôi, \
@@ -458,7 +458,7 @@ họ đã thí nên được thọ hưởng, \
 còn chúng tôi héo như sậy bị chặt.
 
 #super[7] Thức ăn các vị là gì, nằm nơi nào, \
-và sống ra sao, kẻ pháp rất ác? \
+và sống ra sao, hỡi kẻ ác pháp? \
 Giữa tài sản dồi dào, không ít, \
 lỡ mất an vui, nay gặp khổ.
 

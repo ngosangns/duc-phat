@@ -957,7 +957,9 @@ sự an chỉ các hành — ấy là an lạc." \
 === 44. Kinh Giới Tánh Niết-bàn (Nibbānadhātusuttaṃ)
 
 #super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có hai Niết-bàn giới này. Những gì là hai? Niết-bàn giới hữu dư y, và Niết-bàn giới vô dư y.
-Này các thầy, thế nào là Niết-bàn giới hữu dư y? Ở đây, này các thầy, Tỷ-kheo là A-la-hán, đã đoạn tận các lậu hoặc, đã sống xong, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích của mình, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh trí. Năm căn của vị ấy vẫn còn; vì chúng chưa bị hủy hoại, vị ấy cảm nhận khả ái và không khả ái, cảm thọ lạc và khổ. Sự đoạn tận tham, đoạn tận sân, đoạn tận si của vị ấy — này các thầy, đây gọi là Niết-bàn giới hữu dư y.
+
+Này các thầy, thế nào là Niết-bàn giới hữu dư y? Ở đây, này các thầy, Tỷ-kheo là A-la-hán, đã đoạn tận các lậu hoặc, đã sống xong, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích của mình, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh trí. Năm căn của vị ấy vẫn còn. Vì chúng chưa bị hủy hoại, vị ấy cảm nhận khả ái và không khả ái, cảm thọ lạc và khổ. Vị ấy đã đoạn tận tham, đoạn tận sân, đoạn tận si — này các thầy, đây gọi là Niết-bàn giới hữu dư y.
+
 Này các thầy, thế nào là Niết-bàn giới vô dư y? Ở đây, này các thầy, Tỷ-kheo là A-la-hán, đã đoạn tận các lậu hoặc, đã sống xong, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích của mình, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh trí. Này các thầy, ngay ở đây, tất cả những gì được cảm thọ, không còn được ưa thích, sẽ trở nên mát lạnh. Này các thầy, đây gọi là Niết-bàn giới vô dư y. Này các thầy, đó là hai Niết-bàn giới." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Hai giới này được bậc Hữu nhãn tuyên thuyết, \
 Niết-bàn giới, bởi bậc Như Thị không nương tựa; \
@@ -1407,9 +1409,12 @@ bậc Chánh Đẳng Giác thuyết \
 ==== 74. Kinh Con (Puttasuttaṃ)
 
 #super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba hạng con này đang hiện hữu ở đời. Những gì là ba? Con hơn cha mẹ, con bằng cha mẹ, con kém cha mẹ.
-Này các thầy, thế nào là con hơn cha mẹ? Ở đây, này các thầy, cha mẹ của người con chưa quy y Phật, chưa quy y Pháp, chưa quy y Tăng; chưa từ bỏ sát sanh, chưa từ bỏ lấy của không cho, chưa từ bỏ tà hạnh trong các dục, chưa từ bỏ nói dối, chưa từ bỏ rượu men rượu nấu đưa đến phóng dật; phá giới, ác pháp. Còn người con của họ đã quy y Phật, đã quy y Pháp, đã quy y Tăng; từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật; có giới, thiện pháp. Như vậy, này các thầy, là con hơn cha mẹ.
-Này các thầy, thế nào là con bằng cha mẹ? Ở đây, này các thầy, cha mẹ của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng; từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật; có giới, thiện pháp. Người con của họ cũng đã quy y Phật, đã quy y Pháp, đã quy y Tăng; từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật; có giới, thiện pháp. Như vậy, này các thầy, là con bằng cha mẹ.
-Này các thầy, thế nào là con kém cha mẹ? Ở đây, này các thầy, cha mẹ của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng; từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật; có giới, thiện pháp. Còn người con của họ chưa quy y Phật, chưa quy y Pháp, chưa quy y Tăng; chưa từ bỏ sát sanh, chưa từ bỏ lấy của không cho, chưa từ bỏ tà hạnh trong các dục, chưa từ bỏ nói dối, chưa từ bỏ rượu men rượu nấu đưa đến phóng dật; phá giới, ác pháp. Như vậy, này các thầy, là con kém cha mẹ. Này các thầy, đó là ba hạng con đang hiện hữu ở đời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+
+Này các thầy, thế nào là con hơn cha mẹ? Ở đây, này các thầy, cha mẹ của người con chưa quy y Phật, chưa quy y Pháp, chưa quy y Tăng. Cha mẹ chưa từ bỏ sát sanh, chưa từ bỏ lấy của không cho, chưa từ bỏ tà hạnh trong các dục, chưa từ bỏ nói dối, chưa từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ phá giới, ác pháp. Còn người con của họ đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Người con từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Người con có giới, thiện pháp. Như vậy, này các thầy, là con hơn cha mẹ.
+
+Này các thầy, thế nào là con bằng cha mẹ? Ở đây, này các thầy, cha mẹ của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Cha mẹ từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ có giới, thiện pháp. Người con của họ cũng đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Người con cũng từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Người con cũng có giới, thiện pháp. Như vậy, này các thầy, là con bằng cha mẹ.
+
+Này các thầy, thế nào là con kém cha mẹ? Ở đây, này các thầy, cha mẹ của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Cha mẹ từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ có giới, thiện pháp. Còn người con của họ chưa quy y Phật, chưa quy y Pháp, chưa quy y Tăng. Người con chưa từ bỏ sát sanh, chưa từ bỏ lấy của không cho, chưa từ bỏ tà hạnh trong các dục, chưa từ bỏ nói dối, chưa từ bỏ rượu men rượu nấu đưa đến phóng dật. Người con phá giới, ác pháp. Như vậy, này các thầy, là con kém cha mẹ. Này các thầy, đó là ba hạng con đang hiện hữu ở đời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Bậc trí muốn có con hơn mình, con bằng mình; \
 không muốn con kém mình, \
 kẻ làm hôi hám gia tộc. \
@@ -2481,23 +2486,23 @@ kẻ ngu không tuệ tri." \
 === 102. Kinh Sa-môn Bà-la-môn (Samaṇabrāhmaṇasuttaṃ)
 
 #super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, những Sa-môn hay Bà-la-môn nào không như
-thật tuệ tri 'đây là khổ'; không như thật tuệ tri 'đây là khổ tập';
-không như thật tuệ tri 'đây là khổ diệt'; không như thật tuệ tri 'đây
-là con đường đưa đến khổ diệt' — này các thầy, những Sa-môn hay
-Bà-la-môn ấy, Ta không thừa nhận là Sa-môn giữa các Sa-môn, không thừa
-nhận là Bà-la-môn giữa các Bà-la-môn, và các tôn giả ấy cũng không ngay
-trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú mục
-đích của Sa-môn hạnh hay mục đích của Bà-la-môn hạnh.
+nghe như vậy. "Này các thầy, có những Sa-môn hay Bà-la-môn không như
+thật tuệ tri 'đây là khổ', không như thật tuệ tri 'đây là khổ tập',
+không như thật tuệ tri 'đây là khổ diệt', không như thật tuệ tri 'đây là
+con đường đưa đến khổ diệt'. Này các thầy, Ta không thừa nhận những
+Sa-môn hay Bà-la-môn ấy là Sa-môn giữa các Sa-môn, không thừa nhận là
+Bà-la-môn giữa các Bà-la-môn. Các tôn giả ấy cũng không ngay trong hiện
+tại tự mình thắng trí, chứng ngộ, thành tựu và an trú mục đích của
+Sa-môn hạnh hay mục đích của Bà-la-môn hạnh.
 
 Này các thầy, còn những Sa-môn hay Bà-la-môn nào như thật tuệ tri 'đây
-là khổ'; như thật tuệ tri 'đây là khổ tập'; như thật tuệ tri 'đây là khổ
-diệt'; như thật tuệ tri 'đây là con đường đưa đến khổ diệt' — này các
-thầy, những Sa-môn hay Bà-la-môn ấy, Ta thừa nhận là Sa-môn giữa các
-Sa-môn, thừa nhận là Bà-la-môn giữa các Bà-la-môn, và các tôn giả ấy
-ngay trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú
-mục đích của Sa-môn hạnh và mục đích của Bà-la-môn hạnh." Thế Tôn đã nói
-ý ấy. Ở đây, điều ấy được nói như vầy: \
+là khổ', như thật tuệ tri 'đây là khổ tập', như thật tuệ tri 'đây là khổ
+diệt', như thật tuệ tri 'đây là con đường đưa đến khổ diệt' — này các
+thầy, Ta thừa nhận những Sa-môn hay Bà-la-môn ấy là Sa-môn giữa các
+Sa-môn, thừa nhận là Bà-la-môn giữa các Bà-la-môn. Các tôn giả ấy ngay
+trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú mục
+đích của Sa-môn hạnh và mục đích của Bà-la-môn hạnh." Thế Tôn đã nói ý
+ấy. Ở đây, điều ấy được nói như vầy: \
 "Những ai không tuệ tri khổ, \
 cũng không tuệ tri nguồn sanh khổ, \
 và chỗ khổ hoàn toàn \
@@ -2528,18 +2533,17 @@ họ không còn đi đến sanh già." \
 nghe như vậy. "Này các thầy, những Tỷ-kheo thành tựu giới, thành tựu
 định, thành tựu tuệ, thành tựu giải thoát, thành tựu giải thoát tri
 kiến, là những vị giáo giới, chỉ bày, làm cho thấy, khuyến khích, khích
-lệ, làm cho hoan hỷ, đủ sức tuyên thuyết Chánh pháp — này các thầy, Ta
-nói sự thấy các Tỷ-kheo ấy là nhiều lợi ích; này các thầy, Ta nói sự
-nghe các Tỷ-kheo ấy là nhiều lợi ích; này các thầy, Ta nói sự đi đến các
-Tỷ-kheo ấy là nhiều lợi ích; này các thầy, Ta nói sự thân cận hầu hạ các
-Tỷ-kheo ấy là nhiều lợi ích; này các thầy, Ta nói sự tùy niệm các
-Tỷ-kheo ấy là nhiều lợi ích; này các thầy, Ta nói sự xuất gia theo các
-Tỷ-kheo ấy là nhiều lợi ích. Vì sao? Này các thầy, khi thân cận, gần gũi,
-hầu hạ những Tỷ-kheo như vậy, uẩn giới dù chưa viên mãn cũng đi đến viên
-mãn nhờ tu tập; uẩn định dù chưa viên mãn cũng đi đến viên mãn nhờ tu
-tập; uẩn tuệ dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập; uẩn giải
-thoát dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập; uẩn giải thoát
-tri kiến dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập.
+lệ, làm cho hoan hỷ, đủ sức tuyên thuyết Chánh pháp. Này các thầy, Ta
+nói sự thấy các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự nghe các Tỷ-kheo
+ấy là nhiều lợi ích. Ta nói sự đi đến các Tỷ-kheo ấy là nhiều lợi ích.
+Ta nói sự thân cận hầu hạ các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự
+tùy niệm các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự xuất gia theo các
+Tỷ-kheo ấy là nhiều lợi ích. Vì sao? Này các thầy, khi thân cận, gần
+gũi, hầu hạ những Tỷ-kheo như vậy, uẩn giới dù chưa viên mãn cũng đi đến
+viên mãn nhờ tu tập. Uẩn định dù chưa viên mãn cũng đi đến viên mãn nhờ
+tu tập. Uẩn tuệ dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập. Uẩn
+giải thoát dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập. Uẩn giải
+thoát tri kiến dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập.
 
 Này các thầy, những Tỷ-kheo như vậy được gọi là bậc Đạo Sư, cũng được
 gọi là người dẫn đoàn, cũng được gọi là bậc đã bỏ trận, cũng được gọi là

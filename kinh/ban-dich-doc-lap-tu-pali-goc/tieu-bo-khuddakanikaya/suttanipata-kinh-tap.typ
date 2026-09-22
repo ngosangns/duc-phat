@@ -13,90 +13,91 @@ _Trạng thái: đã dịch 71/71 đơn vị (1–71); đã trọn tập._
 
 === 1. Kinh Rắn (Uragasuttaṃ)
 
-#super[1] Ai dẹp được cơn giận vừa khởi, \
-như trị nọc rắn đã lan bằng thuốc; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[1] Ai dẹp được giận vừa bốc lên, \
+như thuốc trị nọc rắn đã loang. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[2] Ai đã cắt đứt tham không còn dư sót, \
-như lặn xuống hái đóa sen mọc trong hồ; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[2] Ai cắt hết tham, không còn dư, \
+như lặn xuống hái sen trong hồ. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[3] Ai đã cắt đứt ái không còn dư sót, \
-như làm cạn dòng sông chảy xiết; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[3] Ai cắt hết ái, không còn dư, \
+như làm cạn dòng sông chảy xiết. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[4] Ai đã phá tan ngã mạn không còn dư sót, \
-như dòng lũ lớn cuốn đứt cầu sậy mong manh; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[4] Ai phá hết ngã mạn, không còn dư, \
+như lũ lớn cuốn đứt cầu sậy mong manh. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[5] Ai không tìm được lõi chắc trong các hữu, \
-như tìm hoa trên cây udumbara; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[5] Ai không tìm được lõi trong các hữu, \
+như tìm hoa trên cây udumbara. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[6] Vị nào bên trong không còn nóng giận, \
-đã vượt khỏi hữu và phi hữu; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[6] Ai trong lòng không còn nóng giận, \
+đã vượt hữu này và hữu kia. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[7] Vị nào các ý nghĩ đã bị thổi tan, \
-nội tâm đã được dàn xếp không còn dư sót; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[7] Ai ý nghĩ đã tan hết, \
+trong lòng đã xếp xong, không còn dư. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #super[8] Ai không vượt quá, không tụt lại, \
-đã vượt khỏi tất cả hý luận này; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+đã vượt hết hý luận này. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #super[9] Ai không vượt quá, không tụt lại, \
-biết rõ tất cả ở đời đều hư dối; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+biết rõ mọi sự ở đời đều hư dối. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #super[10] Ai không vượt quá, không tụt lại, \
-biết rõ tất cả ở đời đều hư dối, đã hết tham; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+biết đời hư dối, tham đã hết. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #super[11] Ai không vượt quá, không tụt lại, \
-biết rõ tất cả ở đời đều hư dối, đã hết ái; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+biết đời hư dối, ái đã hết. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #super[12] Ai không vượt quá, không tụt lại, \
-biết rõ tất cả ở đời đều hư dối, đã hết sân; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+biết đời hư dối, sân đã hết. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #super[13] Ai không vượt quá, không tụt lại, \
-biết rõ tất cả ở đời đều hư dối, đã hết si; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+biết đời hư dối, si đã hết. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[14] Vị nào không còn tùy miên nào, \
-và các gốc bất thiện đã bị nhổ sạch; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[14] Ai không còn tùy miên nào, \
+gốc bất thiện đã nhổ sạch. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[15] Vị nào không còn nỗi bức rức nào, \
-là duyên để trở lại bờ này; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[15] Ai không còn bức rức nào \
+làm duyên để trở lại bờ này. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
-#super[16] Vị nào không còn bụi rậm nào, \
-là nhân trói buộc vào hữu; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+#super[16] Ai không còn bụi rậm nào \
+làm nhân trói vào hữu. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #super[17] Ai đã bỏ năm triền cái, \
-không ưu não, đã vượt nghi, không còn mũi tên; \
-Tỷ-kheo ấy bỏ bờ này bờ kia, \
-như rắn lột bỏ lớp da cũ đã già.
+không còn ưu não, đã vượt nghi, \
+mũi tên đã rút. \
+Tỷ-kheo ấy bỏ bờ này, bờ kia, \
+như rắn lột da cũ đã già.
 
 #strong[(Hết Kinh Rắn.)]
 
@@ -414,11 +415,15 @@ hãy đi một mình như sừng tê giác.
 
 === 4. Kinh Kasibhāradvāja (Kasibhāradvājasuttaṃ)
 
-Tôi nghe như vầy. Một thời Thế Tôn trú ở Magadha, tại làng Bà-la-môn Ekanālā, miền núi phía Nam. Lúc bấy giờ đang mùa gieo, Bà-la-môn Kasibhāradvāja đã cho thắng độ năm trăm lưỡi cày. Rồi Thế Tôn vào buổi sáng đắp y, mang bát đi đến chỗ làm việc của Bà-la-môn Kasibhāradvāja. Lúc ấy Bà-la-môn Kasibhāradvāja đang cho dọn đồ ăn để phân phát. Thế Tôn đi đến chỗ phân phát, đứng một bên.
+Tôi nghe như vầy. Một thời, Thế Tôn trú ở Magadha, tại làng Bà-la-môn Ekanālā, miền núi phía Nam.
+
+Lúc ấy đang mùa gieo. Bà-la-môn Kasibhāradvāja đã cho thắng ách năm trăm lưỡi cày. Một buổi sáng, Thế Tôn đắp y, mang bát, đi đến chỗ Bà-la-môn Kasibhāradvāja đang làm việc. Lúc ấy Bà-la-môn Kasibhāradvāja đang cho phân phát đồ ăn. Thế Tôn đi đến chỗ phân phát, đứng sang một bên.
 
 Bà-la-môn Kasibhāradvāja thấy Thế Tôn đứng đó chờ khất thực, liền nói: "Này Sa-môn, ta cày và gieo, cày gieo xong rồi ta mới ăn. Này Sa-môn, ngươi cũng hãy cày và gieo, cày gieo xong rồi hãy ăn."
 
-"Này Bà-la-môn, ta cũng cày và gieo, cày gieo xong rồi ta mới ăn." — "Chúng tôi nào thấy Tôn giả Gotama có ách cày, lưỡi cày, cán cày, roi thúc hay bò kéo đâu. Vậy mà Tôn giả Gotama lại nói: 'Này Bà-la-môn, ta cũng cày và gieo, cày gieo xong rồi ta mới ăn.'"
+"Này Bà-la-môn, ta cũng cày và gieo, cày gieo xong rồi ta mới ăn."
+
+"Chúng tôi nào thấy Tôn giả Gotama có ách cày, lưỡi cày, cán cày, roi thúc hay bò kéo đâu. Vậy mà Tôn giả Gotama lại nói: 'Này Bà-la-môn, ta cũng cày và gieo, cày gieo xong rồi ta mới ăn.'"
 
 Rồi Bà-la-môn Kasibhāradvāja nói với Thế Tôn bằng kệ:
 
@@ -445,7 +450,8 @@ nó đi tới không thối chuyển, \
 #super[5] Cày như vậy là cày đã cày kỹ, \
 cày ấy đưa đến quả bất tử; \
 ai cày xong thửa ruộng này \
-thì thoát khỏi mọi khổ đau." \
+thì thoát khỏi mọi khổ đau."
+
 Rồi Bà-la-môn Kasibhāradvāja múc đầy cháo sữa vào một cái bát đồng lớn, đem dâng Thế Tôn: "Xin Tôn giả Gotama hãy dùng cháo sữa. Tôn giả là người cày, vì Tôn giả Gotama cày một thửa ruộng đưa đến quả bất tử."
 
 #super[6] "Thứ được tụng bằng kệ, ta không được ăn; \
@@ -456,11 +462,17 @@ này Bà-la-môn, khi Pháp còn đó, đây là nếp sống.
 #super[7] Với món khác, hãy phụng dưỡng bậc toàn giác, \
 đại ẩn sĩ, lậu hoặc đã tận, hối hận đã lắng; \
 hãy hầu hạ bằng cơm ăn nước uống, \
-vì đó là thửa ruộng cho người cầu phước." \
-"Vậy, Tôn giả Gotama, tôi nên cho ai món cháo sữa này?" — "Này Bà-la-môn, ta không thấy ai trong thế giới gồm chư thiên, Ma vương, Phạm thiên, giữa chúng sanh gồm Sa-môn, Bà-la-môn, chư thiên và loài người, mà món cháo sữa ấy khi ăn vào có thể tiêu hóa đúng, ngoài Như Lai hay đệ tử của Như Lai. Vì vậy, này Bà-la-môn, ngươi hãy đổ món cháo sữa ấy xuống chỗ không có cỏ xanh, hoặc dìm vào nước không có chúng sanh." \
-Rồi Bà-la-môn Kasibhāradvāja dìm món cháo sữa ấy vào nước không có chúng sanh. Khi được bỏ vào nước, món cháo sữa kêu xèo xèo, xì xì, bốc khói, nghi ngút. Cũng như lưỡi cày nung nóng suốt ngày, khi bỏ vào nước thì kêu xèo xèo, xì xì, bốc khói, nghi ngút; cũng vậy, món cháo sữa ấy khi bỏ vào nước kêu xèo xèo, xì xì, bốc khói, nghi ngút. \
-Rồi Bà-la-môn Kasibhāradvāja kinh sợ, lông tóc dựng ngược, đi đến Thế Tôn; đến rồi, cúi đầu đảnh lễ chân Thế Tôn, bạch Thế Tôn: "Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Ví như có người lật ngửa vật bị úp, mở ra vật bị che, chỉ đường cho kẻ lạc lối, cầm đèn dầu soi vào chỗ tối tăm để những ai có mắt thấy được các sắc — cũng vậy, Tôn giả Gotama đã dùng nhiều phương tiện trình bày Pháp. Con nay xin quy y Tôn giả Gotama, quy y Pháp và chúng Tỷ-kheo. Mong con được xuất gia trong giáo pháp của Tôn giả Gotama, mong con được thọ cụ túc giới." \
-Bà-la-môn Kasibhāradvāja được xuất gia trong giáo pháp của Thế Tôn, được thọ cụ túc giới. Chẳng bao lâu sau khi thọ cụ túc giới, Tôn giả Bhāradvāja sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm; chẳng bao lâu, vì mục đích mà các thiện nam tử chân chánh xuất gia, từ bỏ gia đình sống không nhà — đó là cứu cánh vô thượng của Phạm hạnh — vị ấy ngay trong đời này tự mình chứng tri bằng thắng trí, chứng ngộ và an trú. Vị ấy thắng tri: "Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa." Tôn giả Bhāradvāja ấy đã thành một vị trong hàng A-la-hán.
+vì đó là thửa ruộng cho người cầu phước."
+
+"Vậy, Tôn giả Gotama, tôi nên cho ai món cháo sữa này?"
+
+"Này Bà-la-môn, ta không thấy ai trong thế giới gồm chư thiên, Ma vương, Phạm thiên, giữa chúng sanh gồm Sa-môn, Bà-la-môn, chư thiên và loài người mà món cháo sữa ấy khi ăn vào có thể tiêu hóa đúng, ngoài Như Lai hay đệ tử của Như Lai. Vì vậy, này Bà-la-môn, ngươi hãy đổ món cháo sữa ấy xuống chỗ không có cỏ xanh, hoặc dìm vào nước không có chúng sanh."
+
+Rồi Bà-la-môn Kasibhāradvāja dìm món cháo sữa ấy vào nước không có chúng sanh. Khi được bỏ vào nước, món cháo sữa kêu xèo xèo, xì xì, bốc khói, nghi ngút. Lưỡi cày nung nóng suốt ngày cũng vậy: khi bỏ vào nước thì kêu xèo xèo, xì xì, bốc khói, nghi ngút.
+
+Rồi Bà-la-môn Kasibhāradvāja kinh sợ, lông tóc dựng ngược, đi đến Thế Tôn, cúi đầu đảnh lễ chân Thế Tôn, rồi bạch Thế Tôn: "Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Ví như có người lật ngửa vật bị úp, mở ra vật bị che, chỉ đường cho kẻ lạc lối, cầm đèn dầu soi vào chỗ tối tăm để những ai có mắt thấy được các sắc. Cũng vậy, Tôn giả Gotama đã dùng nhiều phương tiện trình bày Pháp. Con nay xin quy y Tôn giả Gotama, quy y Pháp và chúng Tỷ-kheo. Mong con được xuất gia trong giáo pháp của Tôn giả Gotama, mong con được thọ cụ túc giới."
+
+Bà-la-môn Kasibhāradvāja được xuất gia trong giáo pháp của Thế Tôn, được thọ cụ túc giới. Chẳng bao lâu sau khi thọ cụ túc giới, Tôn giả Bhāradvāja sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm. Vì mục đích mà các thiện nam tử chân chánh xuất gia, từ bỏ gia đình sống không nhà — đó là cứu cánh vô thượng của Phạm hạnh — chẳng bao lâu, vị ấy ngay trong đời này tự mình chứng tri bằng thắng trí, chứng ngộ và an trú. Vị ấy thắng tri: "Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa." Tôn giả Bhāradvāja ấy đã thành một vị trong hàng A-la-hán.
 
 #strong[(Hết Kinh Kasibhāradvāja.)]
 
@@ -515,7 +527,9 @@ lấy kẻ không thanh tịnh sánh với người thanh tịnh?"
 
 === 6. Kinh Suy Đồi (Parābhavasuttaṃ)
 
-Tôi nghe như vầy. Một thời Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Rồi một vị chư thiên, khi đêm đã về khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên. Đứng một bên, vị chư thiên ấy nói với Thế Tôn bằng kệ:
+Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika.
+
+Rồi một vị chư thiên, khi đêm đã về khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến Thế Tôn, đảnh lễ, rồi đứng sang một bên. Vị chư thiên ấy nói với Thế Tôn bằng kệ:
 
 #super[1] "Chúng tôi hỏi Gotama \
 về người đang suy đồi; \
@@ -646,13 +660,19 @@ vị ấy đi đến thế giới an lành."
 
 === 7. Kinh Hạ Tiện (Vasalasuttaṃ)
 
-Tôi nghe như vầy. Một thời Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Rồi Thế Tôn vào buổi sáng đắp y, mang bát, vào Sāvatthi khất thực. Lúc bấy giờ, trong nhà Bà-la-môn Aggikabhāradvāja, lửa đang cháy, lễ vật đang được dâng. Thế Tôn đi khất thực tuần tự ở Sāvatthi, đi đến nhà Bà-la-môn Aggikabhāradvāja.
+Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika.
+
+Rồi Thế Tôn vào buổi sáng đắp y, mang bát, vào Sāvatthi khất thực. Lúc ấy, trong nhà Bà-la-môn Aggikabhāradvāja, lửa đang cháy, lễ vật đang được dâng. Thế Tôn đi khất thực tuần tự ở Sāvatthi, đi đến nhà Bà-la-môn Aggikabhāradvāja.
 
 Bà-la-môn Aggikabhāradvāja từ xa thấy Thế Tôn đang đi tới, liền nói: "Đứng ngay đó, đồ trọc! Đứng ngay đó, đồ Sa-môn! Đứng ngay đó, đồ hạ tiện!"
 
 Được nói vậy, Thế Tôn nói với Bà-la-môn Aggikabhāradvāja: "Này Bà-la-môn, ngươi có biết người hạ tiện, hay những pháp làm nên người hạ tiện không?"
 
-"Thưa Tôn giả Gotama, tôi không biết người hạ tiện, hay những pháp làm nên người hạ tiện. Lành thay, xin Tôn giả Gotama thuyết pháp để tôi biết người hạ tiện, hay những pháp làm nên người hạ tiện." — "Vậy, này Bà-la-môn, hãy nghe, khéo tác ý; ta sẽ nói." — "Thưa vâng, Tôn giả," Bà-la-môn Aggikabhāradvāja vâng đáp Thế Tôn. Thế Tôn nói:
+"Thưa Tôn giả Gotama, tôi không biết người hạ tiện, hay những pháp làm nên người hạ tiện. Lành thay, xin Tôn giả Gotama thuyết pháp để tôi biết người hạ tiện, hay những pháp làm nên người hạ tiện."
+
+"Vậy, này Bà-la-môn, hãy nghe, khéo tác ý; ta sẽ nói."
+
+"Thưa vâng, Tôn giả," Bà-la-môn Aggikabhāradvāja vâng đáp Thế Tôn. Thế Tôn nói:
 
 #super[1] "Người hay giận, ôm hận, \
 ác và gièm pha; \
@@ -790,8 +810,9 @@ khỏi đọa xứ hay khỏi bị chê.
 #super[27] Không phải do sanh mà thành hạ tiện, \
 không phải do sanh mà thành Bà-la-môn; \
 do nghiệp mà thành hạ tiện, \
-do nghiệp mà thành Bà-la-môn." \
-Được nói vậy, Bà-la-môn Aggikabhāradvāja bạch Thế Tôn: "Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Ví như có người lật ngửa vật bị úp, mở ra vật bị che, chỉ đường cho kẻ lạc lối, cầm đèn dầu soi vào chỗ tối tăm để những ai có mắt thấy được các sắc — cũng vậy, Tôn giả Gotama đã dùng nhiều phương tiện trình bày Pháp. Con nay xin quy y Tôn giả Gotama, quy y Pháp và chúng Tỷ-kheo. Xin Tôn giả Gotama nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
+do nghiệp mà thành Bà-la-môn."
+
+Được nói vậy, Bà-la-môn Aggikabhāradvāja bạch Thế Tôn: "Thật vi diệu thay, Tôn giả Gotama! Thật vi diệu thay, Tôn giả Gotama! Ví như có người lật ngửa vật bị úp, mở ra vật bị che, chỉ đường cho kẻ lạc lối, cầm đèn dầu soi vào chỗ tối tăm để những ai có mắt thấy được các sắc. Cũng vậy, Tôn giả Gotama đã dùng nhiều phương tiện trình bày Pháp. Con nay xin quy y Tôn giả Gotama, quy y Pháp và chúng Tỷ-kheo. Xin Tôn giả Gotama nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 
 #strong[(Hết Kinh Hạ Tiện.)]
 
@@ -1018,15 +1039,21 @@ và sự tốt đẹp của Pháp."
 
 === 10. Kinh Āḷavaka (Āḷavakasuttaṃ)
 
-Tôi nghe như vầy. Một thời Thế Tôn trú ở Āḷavī, tại trú xứ của Dạ-xoa Āḷavaka. Rồi Dạ-xoa Āḷavaka đi đến chỗ Thế Tôn; đến rồi, nói với Thế Tôn: "Này Sa-môn, hãy đi ra!" — "Vâng, này bạn", Thế Tôn đi ra. "Này Sa-môn, hãy vào!" — "Vâng, này bạn", Thế Tôn đi vào.
+Tôi nghe như vầy. Một thời, Thế Tôn trú ở Āḷavī, tại trú xứ của Dạ-xoa Āḷavaka.
 
-Lần thứ hai, Dạ-xoa Āḷavaka nói với Thế Tôn: "Này Sa-môn, hãy đi ra!" — "Vâng, này bạn", Thế Tôn đi ra. "Này Sa-môn, hãy vào!" — "Vâng, này bạn", Thế Tôn đi vào. Lần thứ ba, Dạ-xoa Āḷavaka nói với Thế Tôn: "Này Sa-môn, hãy đi ra!" — "Vâng, này bạn", Thế Tôn đi ra. "Này Sa-môn, hãy vào!" — "Vâng, này bạn", Thế Tôn đi vào.
+Rồi Dạ-xoa Āḷavaka đi đến Thế Tôn, nói: "Này Sa-môn, hãy đi ra!" — "Vâng, này bạn", Thế Tôn đi ra. "Này Sa-môn, hãy vào!" — "Vâng, này bạn", Thế Tôn đi vào.
+
+Lần thứ hai, Dạ-xoa Āḷavaka nói với Thế Tôn: "Này Sa-môn, hãy đi ra!" — "Vâng, này bạn", Thế Tôn đi ra. "Này Sa-môn, hãy vào!" — "Vâng, này bạn", Thế Tôn đi vào.
+
+Lần thứ ba, Dạ-xoa Āḷavaka nói với Thế Tôn: "Này Sa-môn, hãy đi ra!" — "Vâng, này bạn", Thế Tôn đi ra. "Này Sa-môn, hãy vào!" — "Vâng, này bạn", Thế Tôn đi vào.
 
 Lần thứ tư, Dạ-xoa Āḷavaka nói với Thế Tôn: "Này Sa-môn, hãy đi ra!" — "Không, này bạn, ta sẽ không đi ra. Ngươi muốn làm gì thì làm."
 
 "Này Sa-môn, ta sẽ hỏi ngươi một câu. Nếu ngươi không trả lời ta, ta sẽ làm tâm ngươi điên loạn, hoặc bóp nát tim ngươi, hoặc nắm chân ngươi mà quăng qua bờ bên kia sông Gaṅgā."
 
-"Ta không thấy một ai, này bạn, trong thế giới gồm chư thiên, Ma vương, Phạm thiên, giữa chúng sanh gồm Sa-môn, Bà-la-môn, chư thiên và loài người, có thể làm tâm ta điên loạn, bóp nát tim ta, hay nắm chân ta mà quăng qua bờ bên kia sông Gaṅgā. Nhưng ngươi cứ hỏi đi, này bạn, điều gì ngươi muốn hỏi." Rồi Dạ-xoa Āḷavaka nói với Thế Tôn bằng kệ:
+"Ta không thấy một ai, này bạn, trong thế giới gồm chư thiên, Ma vương, Phạm thiên, giữa chúng sanh gồm Sa-môn, Bà-la-môn, chư thiên và loài người, có thể làm tâm ta điên loạn, bóp nát tim ta, hay nắm chân ta mà quăng qua bờ bên kia sông Gaṅgā. Nhưng ngươi cứ hỏi đi, này bạn, điều gì ngươi muốn hỏi."
+
+Rồi Dạ-xoa Āḷavaka nói với Thế Tôn bằng kệ:
 
 #super[1] "Ở đời, tài sản gì là tốt nhất cho con người? \
 Điều gì khéo tu tập đem lại an lạc? \
@@ -1478,7 +1505,9 @@ họ uống vị pháp hỷ.
 
 === 16. Kinh Điềm Lành (Maṅgalasuttaṃ)
 
-Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Khi đêm đã về khuya, một chư thiên với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng qua một bên, chư thiên ấy nói với Thế Tôn bằng kệ:
+Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika.
+
+Khi đêm đã về khuya, một chư thiên với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến Thế Tôn, đảnh lễ, rồi đứng sang một bên. Chư thiên ấy nói với Thế Tôn bằng kệ:
 
 #super[1] "Nhiều chư thiên và loài người \
 đã nghĩ về các điềm lành, \
@@ -1544,13 +1573,17 @@ họ không bị thắng ở đâu cả; \
 
 === 17. Kinh Sūciloma (Sūcilomasuttaṃ)
 
-Tôi nghe như vầy. Một thời Thế Tôn trú ở Gayā, tại Ṭaṅkitamañca, trú xứ của Dạ-xoa Sūciloma. Bấy giờ Dạ-xoa Khara và Dạ-xoa Sūciloma đi ngang qua không xa chỗ Thế Tôn. Rồi Dạ-xoa Khara nói với Dạ-xoa Sūciloma: "Kia là một Sa-môn!" — "Kẻ ấy chẳng phải Sa-môn, chỉ là kẻ giả danh Sa-môn. Để ta xem đó là Sa-môn hay là kẻ giả danh Sa-môn."
+Tôi nghe như vầy. Một thời, Thế Tôn trú ở Gayā, tại Ṭaṅkitamañca, trú xứ của Dạ-xoa Sūciloma.
 
-Rồi Dạ-xoa Sūciloma đi đến chỗ Thế Tôn; đến rồi, áp thân mình vào thân Thế Tôn. Thế Tôn liền né thân ra. Dạ-xoa Sūciloma bèn nói với Thế Tôn: "Ngươi sợ ta sao, này Sa-môn?" — "Ta không sợ ngươi đâu, này bạn; nhưng sự xúc chạm của ngươi là xấu ác."
+Bấy giờ Dạ-xoa Khara và Dạ-xoa Sūciloma đi ngang qua không xa chỗ Thế Tôn. Dạ-xoa Khara nói với Dạ-xoa Sūciloma: "Kia là một Sa-môn!" — "Kẻ ấy chẳng phải Sa-môn, chỉ là kẻ giả danh Sa-môn. Để ta xem đó là Sa-môn hay là kẻ giả danh Sa-môn."
+
+Rồi Dạ-xoa Sūciloma đi đến Thế Tôn, áp thân mình vào thân Thế Tôn. Thế Tôn liền né thân ra. Dạ-xoa Sūciloma bèn nói với Thế Tôn: "Ngươi sợ ta sao, này Sa-môn?" — "Ta không sợ ngươi đâu, này bạn; nhưng sự xúc chạm của ngươi là xấu ác."
 
 "Ta sẽ hỏi ngươi một câu, này Sa-môn. Nếu ngươi không trả lời ta, ta sẽ làm tâm ngươi điên loạn, hoặc bóp nát tim ngươi, hoặc nắm chân ngươi mà quăng qua bờ bên kia sông Gaṅgā."
 
-"Ta không thấy một ai, này bạn, trong thế giới gồm chư thiên, Ma vương, Phạm thiên, giữa chúng Sa-môn, Bà-la-môn, chư thiên và loài người, có thể làm tâm ta điên loạn, bóp nát tim ta, hay nắm chân ta mà quăng qua bờ bên kia sông Gaṅgā. Nhưng ngươi cứ hỏi đi, này bạn, điều gì ngươi muốn hỏi." Rồi Dạ-xoa Sūciloma nói với Thế Tôn bằng kệ:
+"Ta không thấy một ai, này bạn, trong thế giới gồm chư thiên, Ma vương, Phạm thiên, giữa chúng Sa-môn, Bà-la-môn, chư thiên và loài người, có thể làm tâm ta điên loạn, bóp nát tim ta, hay nắm chân ta mà quăng qua bờ bên kia sông Gaṅgā. Nhưng ngươi cứ hỏi đi, này bạn, điều gì ngươi muốn hỏi."
+
+Rồi Dạ-xoa Sūciloma nói với Thế Tôn bằng kệ:
 
 #super[1] "Tham và sân có nhân từ đâu? \
 Bất mãn, hoan hỷ, dựng lông tóc do đâu sanh? \
@@ -1606,7 +1639,7 @@ sau khi chết đi đến khổ.
 ai như thế ấy \
 khó gột sạch, vì đầy cấu uế.
 
-#super[7] Này các Tỷ-kheo, hãy biết kẻ như vậy, \
+#super[7] Này các thầy, hãy biết kẻ như vậy, \
 kẻ nương nhà cửa, \
 ác dục, ác tư duy, \
 ác hạnh, ác cảnh giới.
@@ -1630,7 +1663,17 @@ các thầy sẽ làm chỗ tận cùng của khổ.
 
 === 19. Kinh Pháp Bà-la-môn (Brāhmaṇadhammikasuttaṃ)
 
-Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Rồi nhiều Bà-la-môn đại phú xứ Kosala, già nua, lớn tuổi, cao niên, đã trải nhiều năm, đã đến cuối đời, đi đến chỗ Thế Tôn; đến rồi, cùng Thế Tôn chào hỏi. Sau khi nói những lời chào hỏi thân thiện và đáng ghi nhớ, họ ngồi xuống một bên. Ngồi một bên, các Bà-la-môn đại phú ấy bạch Thế Tôn: "Thưa hiền giả Gotama, hiện nay các Bà-la-môn có còn thấy được nơi pháp Bà-la-môn của các Bà-la-môn thời xưa không?" — "Này các Bà-la-môn, hiện nay các Bà-la-môn không còn thấy được nơi pháp Bà-la-môn của các Bà-la-môn thời xưa." — "Lành thay, xin tôn giả Gotama hãy nói pháp Bà-la-môn của các Bà-la-môn thời xưa, nếu tôn giả Gotama không lấy làm nặng nhọc." — "Vậy thì, này các Bà-la-môn, hãy nghe, khéo tác ý, ta sẽ nói." — "Thưa vâng, hiền giả," các Bà-la-môn đại phú ấy đáp lại Thế Tôn. Thế Tôn nói như vầy:
+Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika.
+
+Rồi nhiều Bà-la-môn đại phú xứ Kosala, già nua, lớn tuổi, cao niên, đã trải nhiều năm, đã đến cuối đời, đi đến Thế Tôn, cùng Thế Tôn chào hỏi. Sau khi nói những lời chào hỏi thân thiện và đáng ghi nhớ, họ ngồi xuống một bên. Các Bà-la-môn đại phú ấy bạch Thế Tôn: "Thưa hiền giả Gotama, hiện nay các Bà-la-môn có còn thấy được nơi pháp Bà-la-môn của các Bà-la-môn thời xưa không?"
+
+"Này các Bà-la-môn, hiện nay các Bà-la-môn không còn thấy được nơi pháp Bà-la-môn của các Bà-la-môn thời xưa."
+
+"Lành thay, xin tôn giả Gotama hãy nói pháp Bà-la-môn của các Bà-la-môn thời xưa, nếu tôn giả Gotama không lấy làm nặng nhọc."
+
+"Vậy thì, này các Bà-la-môn, hãy nghe, khéo tác ý, ta sẽ nói."
+
+"Thưa vâng, hiền giả," các Bà-la-môn đại phú ấy đáp lại Thế Tôn. Thế Tôn nói như vầy:
 
 #super[1] "Các ẩn sĩ thời xưa \
 tự chế, tu khổ hạnh; \
@@ -1803,7 +1846,8 @@ vợ khinh rẻ chồng.
 #super[32] Sát-đế-lỵ và thân quyến Phạm thiên, \
 cùng những người khác được dòng họ bảo vệ; \
 đã bỏ luận thuyết về dòng dõi, \
-họ đi theo quyền lực của các dục." \
+họ đi theo quyền lực của các dục."
+
 Khi được nói vậy, các Bà-la-môn đại phú ấy bạch Thế Tôn: "Thật vi diệu thay, thưa hiền giả Gotama! Thật vi diệu thay, thưa hiền giả Gotama! Cũng như người dựng lại những gì bị ngã đổ, phơi bày ra những gì bị che kín, chỉ đường cho kẻ lạc lối, hay đem đèn sáng vào nơi tối tăm để người có mắt thấy sắc — hiền giả Gotama đã dùng nhiều phương tiện thuyết giảng Chánh pháp. Chúng con xin quy y hiền giả Gotama, quy y Pháp, quy y Tỷ-kheo Tăng. Xin hiền giả Gotama nhận chúng con làm cư sĩ, từ nay cho đến trọn đời, chúng con xin quy y."
 
 #strong[(Hết Kinh Pháp Bà-la-môn, thứ bảy.)]
@@ -1957,14 +2001,19 @@ nhất tâm, khéo định.
 #super[8] Hãy tu tập vô tướng, \
 hãy từ bỏ tùy miên mạn; \
 rồi do thắng tri mạn, \
-con sẽ sống an tịnh." \
+con sẽ sống an tịnh."
+
 Thế Tôn thường dạy bảo Tôn giả Rāhula bằng những bài kệ như vậy.
 
 #strong[(Hết Kinh Rāhula, thứ mười một.)]
 
 === 24. Kinh Nigrodhakappa (Nigrodhakappasuttaṃ)
 
-Tôi nghe như vầy. Một thời, Thế Tôn trú tại Āḷavī, nơi đền Aggāḷava. Bấy giờ thầy tế độ của Tôn giả Vaṅgīsa, trưởng lão tên Nigrodhakappa, vừa mới viên tịch tại đền Aggāḷava. Rồi Tôn giả Vaṅgīsa, khi đang độc cư thiền tịnh, khởi lên tâm tư như vầy: "Thầy tế độ của ta đã viên tịch, hay chưa viên tịch?" Rồi Tôn giả Vaṅgīsa, vào buổi chiều, xuất khỏi độc cư, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn giả Vaṅgīsa bạch Thế Tôn: "Bạch Thế Tôn, ở đây, khi con đang độc cư thiền tịnh, khởi lên tâm tư như vầy: ‘Thầy tế độ của ta đã viên tịch, hay chưa viên tịch?’" Rồi Tôn giả Vaṅgīsa đứng dậy khỏi chỗ ngồi, đắp y một bên vai, chắp tay hướng về Thế Tôn, nói với Thế Tôn bằng kệ:
+Tôi nghe như vầy. Một thời, Thế Tôn trú tại Āḷavī, nơi đền Aggāḷava. Bấy giờ thầy tế độ của Tôn giả Vaṅgīsa, trưởng lão tên Nigrodhakappa, vừa mới viên tịch tại đền Aggāḷava.
+
+Rồi Tôn giả Vaṅgīsa, khi đang độc cư thiền tịnh, khởi lên tâm tư như vầy: "Thầy tế độ của ta đã viên tịch, hay chưa viên tịch?" Vào buổi chiều, Tôn giả Vaṅgīsa xuất khỏi độc cư, đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên. Tôn giả Vaṅgīsa bạch Thế Tôn: "Bạch Thế Tôn, ở đây, khi con đang độc cư thiền tịnh, khởi lên tâm tư như vầy: ‘Thầy tế độ của ta đã viên tịch, hay chưa viên tịch?’"
+
+Rồi Tôn giả Vaṅgīsa đứng dậy khỏi chỗ ngồi, đắp y một bên vai, chắp tay hướng về Thế Tôn, nói với Thế Tôn bằng kệ:
 
 #super[1] "Chúng con hỏi bậc Đạo Sư, tuệ không bờ bến, \
 người ngay trong đời này cắt đứt các nghi; \
@@ -2141,7 +2190,9 @@ sẽ du hành chân chánh ở đời."
 
 === 26. Kinh Dhammika (Dhammikasuttaṃ)
 
-Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Rồi cư sĩ Dhammika cùng năm trăm cư sĩ đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, cư sĩ Dhammika nói với Thế Tôn bằng kệ:
+Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika.
+
+Rồi cư sĩ Dhammika cùng năm trăm cư sĩ đi đến Thế Tôn, đảnh lễ, rồi ngồi xuống một bên. Cư sĩ Dhammika nói với Thế Tôn bằng kệ:
 
 #super[1] "Con hỏi Ngài, Gotama, bậc tuệ rộng lớn: \
 đệ tử làm thế nào thì tốt lành — \
@@ -2544,9 +2595,11 @@ biến mất ngay tại chỗ ấy.
 
 === 29. Kinh Lời Khéo Nói (Subhāsitasuttaṃ)
 
-Tôi nghe như vầy. Một thời, Thế Tôn ngụ tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Ở đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy Tỷ-kheo!" Các Tỷ-kheo thưa: "Bạch Thế Tôn!" Thế Tôn nói như vầy:
+Tôi nghe như vầy. Một thời, Thế Tôn ngụ tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Ở đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo thưa: "Bạch Thế Tôn." Thế Tôn nói như vầy:
 
-"Này các thầy, lời nói thành tựu bốn chi phần thì được nói khéo, không phải nói vụng, không có lỗi và không bị người trí chê trách. Những gì là bốn? Ở đây, này các thầy, Tỷ-kheo chỉ nói lời khéo nói, không nói lời vụng nói; chỉ nói pháp, không nói phi pháp; chỉ nói lời khả ái, không nói lời không khả ái; chỉ nói sự thật, không nói lời hư dối. Này các thầy, lời nói thành tựu bốn chi phần này thì được nói khéo, không phải nói vụng, không có lỗi và không bị người trí chê trách." Thế Tôn nói như vậy. Nói vậy xong, bậc Thiện Thệ, bậc Đạo Sư, lại nói thêm:
+"Này các thầy, lời nói thành tựu bốn chi phần thì được nói khéo, không phải nói vụng, không có lỗi và không bị người trí chê trách. Những gì là bốn? Ở đây, này các thầy, Tỷ-kheo chỉ nói lời khéo nói, không nói lời vụng nói; chỉ nói pháp, không nói phi pháp; chỉ nói lời khả ái, không nói lời không khả ái; chỉ nói sự thật, không nói lời hư dối. Này các thầy, lời nói thành tựu bốn chi phần này thì được nói khéo, không phải nói vụng, không có lỗi và không bị người trí chê trách." Thế Tôn nói như vậy.
+
+Nói vậy xong, bậc Thiện Thệ, bậc Đạo Sư, lại nói thêm:
 
 #super[1] "Bậc chân nhân nói lời khéo nói là tối thượng; \
 thứ hai, hãy nói pháp, đừng nói phi pháp; \

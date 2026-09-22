@@ -26,7 +26,7 @@ _Trạng thái: đã dịch 33/33 vagga; đã trọn tập._
 
 ==== Kinh 35.1. Vô Thường Nội (Ajjhattāniccasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Sāvatthī, trong
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, trong
 rừng Kỳ-đà, tại tinh xá của Cấp Cô Độc. Tại đó, Thế Tôn gọi các
 Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch Thế Tôn!" Thế Tôn nói:
 "Này các thầy, mắt là vô thường. Cái gì vô thường là khổ; cái gì khổ
@@ -180,7 +180,7 @@ ba pháp ấy cho nội và ngoại xứ, thuộc ba thời.
 
 ==== Kinh 35.1. Trước Khi Giác Ngộ Thứ Nhất (Paṭhamapubbesambodhasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. "Này các thầy, trước khi giác ngộ,
+#super[1] Cũng tại Sāvatthi. "Này các thầy, trước khi giác ngộ,
 khi Ta còn là Bồ-tát, chưa chứng Chánh Đẳng Giác, Ta đã khởi lên ý
 nghĩ này: 'Cái gì là vị ngọt của mắt, cái gì là tai hại, cái gì là sự
 xuất ly? Cái gì là vị ngọt của tai… của mũi… của lưỡi… của thân… cái
@@ -389,7 +389,7 @@ Do đó phẩm này được gọi tên như vậy.
 
 ==== Kinh 35.1. Tất Cả (Sabbasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các
+#super[1] Cũng tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các
 thầy về tất cả. Hãy lắng nghe. Này các thầy, tất cả là gì? Mắt và các
 sắc, tai và các thanh, mũi và các hương, lưỡi và các vị, thân và các
 xúc, ý và các pháp — này các thầy, đó gọi là tất cả. Này các thầy, ai
@@ -521,7 +521,7 @@ hoặc, không còn chấp thủ.
 
 ==== Kinh 35.7. Bị Thời Gian Chi Phối (Addhabhūtasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Rājagaha, trong
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Rājagaha, trong
 rừng Trúc (Veḷuvana), nơi nuôi dưỡng loài sóc (Kalandakanivāpa). Tại
 đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, tất cả đều bị thời gian
 chi phối. Này các thầy, tất cả bị thời gian chi phối là gì? Mắt bị
@@ -665,7 +665,7 @@ do đó phẩm này được gọi tên như vậy.
 
 #strong[Nhóm kinh 35.1–10 — Chịu Sự Sanh, Già, Bệnh, Chết Và Các Pháp Khác (Jātidhammādisuttadasakaṃ)]
 
-#super[1] Nhân duyên tại Sāvatthi. "Này các thầy, tất cả chịu sự sanh.
+#super[1] Cũng tại Sāvatthi. "Này các thầy, tất cả chịu sự sanh.
 Này các thầy, tất cả chịu sự sanh là gì? Mắt, này các thầy, chịu sự
 sanh. Các sắc… nhãn thức… nhãn xúc chịu sự sanh; phàm cảm thọ gì do
 duyên nhãn xúc sanh khởi, dù lạc, khổ hay không khổ không lạc, cảm
@@ -720,7 +720,7 @@ và pháp đoạn diệt — trọn mười kinh.
 
 #strong[Nhóm kinh 35.1–9 — Vô Thường, Khổ, Vô Ngã Và Các Pháp Khác (Aniccādisuttanavakaṃ)]
 
-#super[1] Nhân duyên tại Sāvatthi. "Này các thầy, tất cả là vô thường.
+#super[1] Cũng tại Sāvatthi. "Này các thầy, tất cả là vô thường.
 Này các thầy, tất cả là vô thường là gì? Mắt, này các thầy, là vô
 thường, các sắc là vô thường, nhãn thức là vô thường, nhãn xúc là vô
 thường; phàm cảm thọ gì do duyên nhãn xúc sanh khởi, dù lạc, khổ hay
@@ -808,9 +808,8 @@ do đó phẩm thứ năm được gọi tên như vậy.
 
 ==== Kinh 35.1. Đoạn Trừ Vô Minh (Avijjāpahānasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Có một vị Tỷ-kheo đi đến chỗ Thế
-Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, vị
-Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế
+#super[1] Cũng tại Sāvatthi. Có một vị Tỷ-kheo đến gặp Thế Tôn, đảnh
+lễ, ngồi sang một bên, rồi bạch Thế Tôn: "Bạch Thế Tôn, biết như thế
 nào thì vô minh được đoạn trừ, minh sanh khởi?" "Này Tỷ-kheo, biết,
 thấy mắt là vô thường thì vô minh được đoạn trừ, minh sanh khởi. Biết,
 thấy các sắc là vô thường thì vô minh được đoạn trừ, minh sanh khởi.
@@ -966,7 +965,7 @@ phẩm này được gọi tên như vậy.
 
 ==== Kinh 35.1. Migajāla Thứ Nhất (Paṭhamamigajālasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Tôn giả Migajāla đi đến chỗ Thế Tôn;
+#super[1] Cũng tại Sāvatthi. Tôn giả Migajāla đi đến chỗ Thế Tôn;
 đến rồi… ngồi một bên, Tôn giả Migajāla bạch Thế Tôn: "Bạch Thế Tôn, có
 người ta gọi là 'sống một mình,' có người ta gọi là 'sống có bạn.' Thế
 nào là sống một mình, thế nào là sống có bạn?" "Này Migajāla, có những
@@ -1233,7 +1232,7 @@ và ba kinh về sáu xúc xứ.
 
 ==== Kinh 35.1. Người Bệnh Thứ Nhất (Paṭhamagilānasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Có một vị Tỷ-kheo đi đến chỗ Thế
+#super[1] Cũng tại Sāvatthi. Có một vị Tỷ-kheo đi đến chỗ Thế
 Tôn; đến rồi… ngồi một bên, vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn,
 tại trú xứ kia có một vị Tỷ-kheo trẻ, ít người biết đến, đang bị bệnh,
 khổ đau, bệnh nặng. Lành thay, bạch Thế Tôn, mong Thế Tôn vì lòng
@@ -1391,12 +1390,12 @@ của Thế Tôn.' Bạch Thế Tôn, khi được hỏi và trả lời như v�
 con có phải là những người nói đúng theo lời Thế Tôn, không xuyên tạc
 Thế Tôn bằng điều không thật, có trả lời đúng theo pháp và tùy pháp
 chăng, và có ai theo đúng pháp mà phản bác lại được lời nói của chúng
-con chăng?" "Đúng vậy, này các Tỷ-kheo, khi được hỏi và trả lời như
+con chăng?" "Đúng vậy, này các thầy, khi được hỏi và trả lời như
 vậy, các thầy là những người nói đúng theo lời Ta, không xuyên tạc Ta
 bằng điều không thật, có trả lời đúng theo pháp và tùy pháp, và không
 ai theo đúng pháp mà có thể phản bác lại được lời nói của các thầy.
 Vì chính là để liễu tri khổ mà Phạm hạnh được sống dưới sự chỉ dạy của
-Ta. Này các Tỷ-kheo, nếu các du sĩ ngoại đạo có hỏi các thầy như vầy:
+Ta. Này các thầy, nếu các du sĩ ngoại đạo có hỏi các thầy như vầy:
 'Nhưng khổ ấy là gì, này hiền giả, mà vì sự liễu tri nó Phạm hạnh
 được sống dưới sự chỉ dạy của Sa-môn Gotama?' Được hỏi vậy, các thầy
 nên trả lời các du sĩ ngoại đạo ấy như vầy: 'Này hiền giả, mắt là khổ.
@@ -1406,7 +1405,7 @@ cũng là khổ. Vì sự liễu tri nó mà Phạm hạnh được sống… ý
 bất cứ cảm thọ nào sanh lên do duyên ý xúc, cái ấy cũng là khổ. Vì sự
 liễu tri nó mà Phạm hạnh được sống dưới sự chỉ dạy của Thế Tôn. Đây
 chính là khổ ấy, này hiền giả, mà vì sự liễu tri nó Phạm hạnh được
-sống dưới sự chỉ dạy của Thế Tôn.' Được hỏi như vậy, này các Tỷ-kheo,
+sống dưới sự chỉ dạy của Thế Tôn.' Được hỏi như vậy, này các thầy,
 các thầy nên trả lời các du sĩ ngoại đạo ấy như vậy."
 
 ==== Kinh 35.9. Câu Hỏi Về Thế Gian (Lokapañhāsuttaṃ)
@@ -1449,7 +1448,7 @@ Tỷ-kheo, thế gian và Phagguna.
 
 ==== Kinh 35.1. Pháp Hoại Diệt (Palokadhammasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Tôn giả Ānanda đi đến chỗ Thế Tôn;
+#super[1] Cũng tại Sāvatthi. Tôn giả Ānanda đi đến chỗ Thế Tôn;
 đến rồi… ngồi một bên, Tôn giả Ānanda bạch Thế Tôn: "Có người ta gọi
 là 'thế gian, thế gian.' Bạch Thế Tôn, do đâu mà gọi là thế gian?"
 "Này Ānanda, cái gì có tánh hoại diệt (palokadhamma), đó gọi là thế
@@ -1583,8 +1582,8 @@ không có ở giữa hai đời. Đây chính là chỗ chấm dứt của kh�
 giả Sāriputta và Tôn giả Mahācunda, sau khi khuyến giáo Tôn giả Channa
 bằng lời khuyến giáo này, từ chỗ ngồi đứng dậy và ra đi. Ngay sau khi
 hai vị vừa ra đi không lâu, Tôn giả Channa đã tự sát. Rồi Tôn giả
-Sāriputta đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống
-một bên. Ngồi một bên, Tôn giả Sāriputta bạch Thế Tôn: "Bạch Thế Tôn,
+Sāriputta đến gặp Thế Tôn, đảnh lễ, ngồi sang một bên, rồi bạch Thế
+Tôn: "Bạch Thế Tôn,
 Tôn giả Channa đã tự sát. Sanh thú của vị ấy là gì, chỗ tái sanh của
 vị ấy là gì?" "Này Sāriputta, có phải Tỷ-kheo Channa đã trực tiếp
 tuyên bố với ông rằng vị ấy không có gì đáng trách chăng?" "Bạch Thế
@@ -1654,9 +1653,9 @@ cũng trong mùa an cư ấy, Tôn giả Puṇṇa đã nhập Niết-bàn. Rồ
 vị Tỷ-kheo đi đến chỗ Thế Tôn… bạch Thế Tôn: "Bạch Thế Tôn, thiện nam
 tử tên Puṇṇa, người đã được Thế Tôn khuyến giáo vắn tắt, đã qua đời.
 Sanh thú của vị ấy là gì, chỗ tái sanh của vị ấy là gì?" "Này các
-Tỷ-kheo, thiện nam tử Puṇṇa là người có trí tuệ, đã thực hành đúng
+thầy, thiện nam tử Puṇṇa là người có trí tuệ, đã thực hành đúng
 theo pháp và tùy pháp, không làm phiền nhiễu Ta vì lý do pháp. Này
-các Tỷ-kheo, thiện nam tử Puṇṇa đã nhập Niết-bàn."
+các thầy, thiện nam tử Puṇṇa đã nhập Niết-bàn."
 
 ==== Kinh 35.6. Bāhiya (Bāhiyasuttaṃ)
 
@@ -1798,7 +1797,7 @@ và hai kinh khác về cái đôi.
 
 ==== Kinh 35.1. Không Điều Phục, Không Canh Giữ (Adantaaguttasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. "Này các thầy, có sáu xúc xứ này,
+#super[1] Cũng tại Sāvatthi. "Này các thầy, có sáu xúc xứ này,
 nếu không được điều phục, không được canh giữ, không được bảo vệ,
 không được thu nhiếp, thì đưa đến khổ đau. Sáu xứ nào? Này các thầy,
 mắt là xúc xứ, nếu không được điều phục, không được canh giữ, không
@@ -1814,7 +1813,7 @@ canh giữ tốt, được bảo vệ tốt, được thu nhiếp tốt, thì đ
 lạc… lưỡi là xúc xứ… ý là xúc xứ, nếu được điều phục tốt… thì đưa đến
 an lạc. Này các thầy, đó là sáu xúc xứ, nếu được điều phục tốt… thì
 đưa đến an lạc." Thế Tôn nói như vậy… rồi nói lên những bài kệ này: \
-"Chính sáu xúc xứ này, này các Tỷ-kheo, \
+"Chính sáu xúc xứ này, này các thầy, \
 nếu không thu nhiếp, sẽ đi đến khổ đau; \
 Còn những ai đã biết cách thu nhiếp chúng, \
 sống với lòng tin làm bạn đồng hành, không còn bị nhiễm ướt. \
@@ -1844,7 +1843,7 @@ Hãy gạt bỏ hết mọi thứ do tâm tạo tác, y cứ vào gia đình, \
 mà sống hướng về sự viễn ly. \
 Khi ý được khéo tu tập như vậy đối với sáu xứ, \
 tâm của người ấy, khi bị xúc chạm, không còn dao động ở đâu nữa; \
-Này các Tỷ-kheo, hãy nhiếp phục tham và sân ấy, \
+Này các thầy, hãy nhiếp phục tham và sân ấy, \
 để đi đến bờ kia của sanh và tử."
 
 ==== Kinh 35.2. Māluṅkyaputta (Mālukyaputtasuttaṃ)
@@ -2156,7 +2155,7 @@ Trăm kinh thứ nhất.
 
 ==== Kinh 35.1. Yên Ổn (Yogakkhemisuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các
+#super[1] Cũng tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các
 thầy pháp thoại về sự yên ổn. Hãy lắng nghe. Này các thầy, thế nào là
 pháp thoại về sự yên ổn? Này các thầy, có các sắc do mắt nhận biết,
 đáng ưa, đáng thích, khả ý, có hình thái dễ mến, liên hệ đến dục, đáng
@@ -2437,9 +2436,8 @@ suy nghĩ: "Tôn giả Ānanda này được Thế Tôn khen ngợi và được
 đồng tu có trí kính trọng. Tôn giả Ānanda có thể phân tích rộng ra ý
 nghĩa của lời tóm tắt này mà Thế Tôn đã đọc lên mà không phân tích
 rộng. Chúng ta hãy đi đến Tôn giả Ānanda; sau khi đến, hãy hỏi Tôn giả
-Ānanda về ý nghĩa này." Rồi các Tỷ-kheo ấy đi đến Tôn giả Ānanda; sau
-khi đến, chào hỏi Tôn giả Ānanda. Sau khi trao đổi những lời chào hỏi
-thân hữu, họ ngồi xuống một bên. Ngồi một bên, các Tỷ-kheo ấy nói với
+Ānanda về ý nghĩa này." Rồi các Tỷ-kheo ấy đến gặp Tôn giả Ānanda,
+chào hỏi thân thiện, ngồi sang một bên, rồi nói với
 Tôn giả Ānanda: "Này hiền hữu Ānanda, Thế Tôn đã đọc lên lời tóm tắt
 này rồi không phân tích rộng ra mà từ chỗ ngồi đứng dậy, đi vào tinh
 xá: 'Này các thầy, Ta không nói rằng có thể đi đến chỗ cùng tận của
@@ -2674,8 +2672,8 @@ Tôn" — Tôn giả Rāhula đáp lời Thế Tôn, cầm lấy tọa cụ, đi
 Tôn. Bấy giờ có hàng ngàn chư thiên đi theo Thế Tôn, nghĩ rằng: "Hôm
 nay Thế Tôn sẽ dẫn dắt Tôn giả Rāhula tiến xa hơn để đoạn tận các lậu
 hoặc." Rồi Thế Tôn đi sâu vào rừng Andha, ngồi xuống nơi một gốc cây
-đã được sắp sẵn chỗ ngồi. Tôn giả Rāhula cũng đảnh lễ Thế Tôn rồi ngồi
-xuống một bên. Ngồi một bên, Thế Tôn nói với Tôn giả Rāhula: "Này
+đã được sắp sẵn chỗ ngồi. Tôn giả Rāhula đảnh lễ Thế Tôn, ngồi sang
+một bên. Thế Tôn nói với Tôn giả Rāhula: "Này
 Rāhula, các thầy nghĩ thế nào, mắt là thường hay vô thường?" "Vô
 thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay là lạc?" "Là khổ,
 bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, có hợp lý
@@ -2760,9 +2758,8 @@ Pháp trói buộc, pháp chấp thủ — đó là phẩm này.
 ==== Kinh 35.1. Gia Chủ Ugga Ở Vesāli (Vesālīsuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vesāli, trong Đại Rừng, tại giảng
-đường có nóc nhọn. Rồi gia chủ Ugga người Vesāli đi đến Thế Tôn; sau
-khi đến, ngồi xuống một bên. Ngồi một bên, gia chủ Ugga người Vesāli
-bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một
+đường có nóc nhọn. Rồi gia chủ Ugga người Vesāli đến gặp Thế Tôn,
+ngồi sang một bên, rồi bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một
 số chúng sanh ngay trong đời này không được hoàn toàn giải thoát?
 Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số chúng sanh
 ngay trong đời này được hoàn toàn giải thoát?" "Này Gia chủ, có các
@@ -2794,9 +2791,8 @@ một số chúng sanh ngay trong đời này được hoàn toàn giải thoát
 ==== Kinh 35.2. Gia Chủ Ugga Ở Xứ Vajji (Vajjīsuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Vajji, tại làng
-Hatthigāma. Rồi gia chủ Ugga người Hatthigāma đi đến Thế Tôn; sau khi
-đến, ngồi xuống một bên. Ngồi một bên, gia chủ Ugga người Hatthigāma
-bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một
+Hatthigāma. Rồi gia chủ Ugga người Hatthigāma đến gặp Thế Tôn, ngồi
+sang một bên, rồi bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một
 số chúng sanh ngay trong đời này không được hoàn toàn giải thoát?
 Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số chúng sanh
 ngay trong đời này được hoàn toàn giải thoát?" (Như kinh trước, nên
@@ -2828,7 +2824,7 @@ xuân tươi tốt, trong giai đoạn đầu của tuổi trẻ, chưa từng n
 dục lạc, lại có thể sống trọn đời thực hành Phạm hạnh viên mãn, thanh
 tịnh, và tiếp tục sống như vậy lâu dài?" "Tâu đại vương, điều này đã
 được Thế Tôn, vị đã biết, đã thấy, vị A-la-hán, Chánh Đẳng Giác, nói
-như vầy: 'Này các Tỷ-kheo, hãy đến, đối với những người đáng tuổi mẹ,
+như vầy: 'Này các thầy, hãy đến, đối với những người đáng tuổi mẹ,
 hãy thiết lập tâm như đối với mẹ; đối với những người đáng tuổi chị
 em, hãy thiết lập tâm như đối với chị em; đối với những người đáng
 tuổi con gái, hãy thiết lập tâm như đối với con gái.' Tâu đại vương,
@@ -2838,7 +2834,7 @@ những tâm niệm tham lam khởi lên ngay cả đối với những người
 mẹ, đáng tuổi chị em, đáng tuổi con gái. Thưa Tôn giả Bhāradvāja, có
 nhân khác, duyên khác nào mà những Tỷ-kheo trẻ này… có thể sống như
 vậy lâu dài chăng?" "Tâu đại vương, điều này đã được Thế Tôn nói như
-vầy: 'Này các Tỷ-kheo, hãy đến, hãy quán sát chính thân này, từ gót
+vầy: 'Này các thầy, hãy đến, hãy quán sát chính thân này, từ gót
 chân lên trên, từ đỉnh tóc xuống dưới, được bao bọc bởi da, đầy dẫy
 các loại vật bất tịnh: đây là tóc, lông, móng, răng, da, thịt, gân,
 xương, tủy xương, thận, tim, gan, màng phổi, lá lách, phổi, ruột, màng
@@ -2853,7 +2849,7 @@ tuệ, điều ấy thật khó khăn. Thưa Tôn giả Bhāradvāja, đôi khi 
 mình sẽ quán bất tịnh, nhưng lại thấy hiện ra là tịnh. Thưa Tôn giả
 Bhāradvāja, có nhân khác, duyên khác nào mà những Tỷ-kheo trẻ này…
 có thể sống như vậy lâu dài chăng?" "Tâu đại vương, điều này đã được
-Thế Tôn nói như vầy: 'Này các Tỷ-kheo, hãy đến, hãy sống với các căn
+Thế Tôn nói như vầy: 'Này các thầy, hãy đến, hãy sống với các căn
 được phòng hộ. Khi mắt thấy sắc, đừng nắm giữ tướng chung, đừng nắm
 giữ tướng riêng. Những pháp bất thiện, xấu ác như tham lam, ưu sầu có
 thể xâm nhập vào người không phòng hộ nhãn căn — hãy thực hành sự
@@ -4815,17 +4811,17 @@ chim kéo về hướng bay lên không, con chó kéo về hướng làng, con 
 rừng kéo về hướng bãi tha ma, con khỉ kéo về hướng rừng. Khi các con
 vật ấy mệt mỏi, con nào mạnh nhất trong số chúng sẽ kéo các con khác
 theo hướng của nó. Cũng vậy, này các thầy, Tỷ-kheo nào chưa tu tập,
-chưa làm cho sung mãn niệm về thân, thì mắt sẽ kéo vị ấy về các sắc
+chưa nuôi lớn niệm về thân, thì mắt sẽ kéo vị ấy về các sắc
 đáng ưa, các sắc không đáng ưa trở nên đáng ghét… cũng vậy đối với ý
 và các pháp. Như vậy là không phòng hộ. Nhưng nếu người ấy trói chặt
 các dây ấy vào một cây cột hay cây trụ vững chắc thay vì thả ra, các
 con vật dù cố kéo về hướng riêng của mình cũng sẽ mệt mỏi mà đứng yên,
 ngồi yên, hay nằm yên cạnh cây cột ấy. Cũng vậy, này các thầy, Tỷ-kheo
-nào đã tu tập, đã làm cho sung mãn niệm về thân, thì mắt sẽ không kéo
+nào đã tu tập, đã nuôi lớn niệm về thân, thì mắt sẽ không kéo
 vị ấy đi, các sắc không đáng ưa cũng không trở nên đáng ghét… cũng vậy
 đối với ý và các pháp. Như vậy là phòng hộ. 'Cây cột hay cây trụ vững
 chắc' là từ chỉ cho niệm về thân. Vì vậy, này các thầy, các thầy cần
-tu học như vầy: 'Chúng ta sẽ tu tập niệm về thân, làm cho sung mãn,
+tu học như vầy: 'Chúng ta sẽ tu tập niệm về thân, nuôi lớn niệm ấy,
 làm thành phương tiện, làm thành nền tảng, thiết lập vững chắc, tích
 lũy, khéo phát triển.' Các thầy cần tu học như vậy."
 
@@ -6845,7 +6841,7 @@ Godatta, và Ni-kiền-tử, cùng lõa thể Kassapa, gia chủ bệnh.
 
 ==== Kinh 42.1. Caṇḍa (Caṇḍasuttaṃ)
 
-#super[1] Nhân duyên tại Sāvatthi. Thôn trưởng Caṇḍa đi đến chỗ Thế
+#super[1] Cũng tại Sāvatthi. Thôn trưởng Caṇḍa đi đến chỗ Thế
 Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên,
 thôn trưởng Caṇḍa bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên
 gì mà có người được gọi là hung dữ, hung dữ? Và do nhân gì, do duyên
@@ -7107,13 +7103,13 @@ thứ hai, thứ ba, thứ tư, cả trên dưới ngang khắp tất cả nơi,
 tất cả thế giới, an trú biến mãn với tâm câu hữu với từ, quảng đại, vô
 biên, không hận, không sân. Ví như, này thôn trưởng, một người thổi
 tù và mạnh mẽ có thể làm cho bốn phương nghe được không khó — cũng
-vậy, khi tâm giải thoát nhờ từ đã được tu tập, được làm cho sung mãn
+vậy, khi tâm giải thoát nhờ từ đã được tu tập, được nuôi lớn
 như vậy, thì bất cứ hành động nào có mức độ đã làm, hành động ấy
 không còn tồn đọng lại, không còn dừng lại ở đó. Vị Thánh đệ tử ấy an
 trú với tâm câu hữu với bi… với hỷ… an trú, biến mãn với tâm câu hữu
 với xả, cũng vậy các phương khác, quảng đại, vô biên, không hận,
 không sân. Ví như người thổi tù và mạnh mẽ ấy — cũng vậy, khi tâm
-giải thoát nhờ xả đã được tu tập, được làm cho sung mãn như vậy, thì
+giải thoát nhờ xả đã được tu tập, được nuôi lớn như vậy, thì
 bất cứ hành động nào có mức độ đã làm, hành động ấy không còn tồn
 đọng lại, không còn dừng lại ở đó." Nghe vậy, thôn trưởng
 Asibandhakaputta bạch: "Thật vi diệu, bạch Thế Tôn!… Con xin quy y
@@ -7545,7 +7541,7 @@ sách tâm, trì tâm — đây gọi là con đường đưa đến pháp vô v
 các pháp bất thiện đã sanh, khởi ý muốn đoạn trừ… đối với các pháp
 thiện chưa sanh, khởi ý muốn cho sanh… đối với các pháp thiện đã
 sanh, khởi ý muốn cho an trú, không quên lãng, tu tập tăng trưởng,
-làm cho sung mãn, phát khởi tinh tấn, sách tâm, trì tâm — mỗi hạnh ấy
+nuôi lớn, phát khởi tinh tấn, sách tâm, trì tâm — mỗi hạnh ấy
 đều gọi là con đường đưa đến pháp vô vi. Ở đây, Tỷ-kheo tu tập thần
 túc câu hữu với dục định, tinh cần hành; tu tập thần túc câu hữu với
 tinh tấn định; tu tập thần túc câu hữu với tâm định; tu tập thần túc

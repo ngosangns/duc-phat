@@ -1639,7 +1639,7 @@ do có lạc thọ, tâm được định tĩnh.
 
 #super[77] Vị ấy ly dục, ly các bất thiện pháp, chứng và trú Sơ
 thiền — một trạng thái có tầm có tứ, có hỷ lạc do ly dục sinh. Vị ấy
-thấm nhuần, tẩm ướt, làm cho sung mãn, cho tràn đầy thân này với hỷ
+thấm nhuần, tẩm ướt, nuôi lớn, cho tràn đầy thân này với hỷ
 lạc do ly dục sinh, không một chỗ nào trên toàn thân không được hỷ lạc
 ấy thấm nhuần.
 
@@ -1874,7 +1874,7 @@ tùy nghi." Rồi vua Ajātasattu, sau khi hoan hỷ tín thọ lời Thế Tôn
 dạy, đứng dậy đảnh lễ Thế Tôn, đi vòng quanh theo phía hữu, rồi ra về.
 
 #super[104] Khi vua Ajātasattu vừa ra về không lâu, Thế Tôn bảo các
-Tỷ-kheo: "Này các Tỷ-kheo, nhà vua này đã bị tổn thương, đã bị tổn
+Tỷ-kheo: "Này các thầy, nhà vua này đã bị tổn thương, đã bị tổn
 hại. Nếu nhà vua này không đoạt mạng sống của phụ vương, một vị vua
 chân chính, đã trị vì đúng Chánh pháp, thì ngay tại chỗ ngồi này, nhà
 vua đã có thể chứng được Pháp nhãn thanh tịnh, không còn cấu uế." Thế
@@ -2456,72 +2456,82 @@ Gotama." — "Xin ngài đừng đến yết kiến Sa-môn Gotama. Ngài không
 làm như vậy. Nếu ngài đến yết kiến Sa-môn Gotama, danh tiếng của ngài
 sẽ giảm sút, còn danh tiếng của Sa-môn Gotama sẽ tăng thêm. Chỉ riêng
 lý do ấy thôi cũng đủ để ngài không nên đến yết kiến Sa-môn Gotama;
-trái lại, chính Sa-môn Gotama mới nên đến yết kiến ngài. Vì ngài
-Soṇadaṇḍa sinh ra từ cả hai bên nội ngoại đều thanh khiết, dòng dõi
-trong sạch suốt bảy đời tổ phụ, không ai có thể chê trách hay phản
-bác về huyết thống — chỉ riêng điều ấy cũng đủ để ngài không nên đến
-yết kiến Sa-môn Gotama. Ngài lại giàu có, nhiều của cải, nhiều tài
-sản; thông thạo kinh điển, thuộc lòng chú thuật, tinh thông ba tập
-Vệ-đà cùng các sách chú giải, thông hiểu khoa duy vật luận và các
-tướng của bậc Đại nhân; ngài lại đẹp đẽ, khả ái, uy nghi, có dung sắc
-tuyệt vời như dung sắc của Phạm thiên, dáng vẻ đường bệ, đáng chiêm
-ngưỡng; ngài lại có giới đức, giữ giới đã lâu, thành tựu giới đức lâu
-đời; ngài lại ăn nói khéo léo, lời lẽ tao nhã, rõ ràng, dễ hiểu; ngài
-lại là thầy dạy của nhiều thầy khác, có ba trăm thanh niên đang học
-chú thuật với ngài, nhiều thanh niên từ khắp các phương, các xứ, đến
-cầu học chú thuật nơi ngài; ngài lại tuổi cao, niên cao lạp trưởng, đã
-đến giai đoạn cuối đời — còn Sa-môn Gotama thì còn trẻ, mới xuất gia
-không lâu; ngài lại được vua Bimbisāra nước Magadha kính trọng, tôn
-quý, sùng bái; ngài lại được thầy Bà-la-môn Pokkharasāti kính trọng,
-tôn quý, sùng bái; ngài lại đang sống tại Campā, một thái ấp do vua
-Bimbisāra ban tặng như đất phong của Phạm thiên — chỉ riêng những lý
-do ấy cũng đủ để ngài không nên đến yết kiến Sa-môn Gotama; trái lại,
-chính Sa-môn Gotama mới nên đến yết kiến ngài."
+trái lại, chính Sa-môn Gotama mới nên đến yết kiến ngài.
+
+"Vì ngài Soṇadaṇḍa sinh ra từ cả hai bên nội ngoại đều thanh khiết,
+dòng dõi trong sạch suốt bảy đời tổ phụ, không ai có thể chê trách hay
+phản bác về huyết thống. Chỉ riêng điều ấy cũng đủ để ngài không nên
+đến yết kiến Sa-môn Gotama.
+
+"Ngài lại giàu có, nhiều của cải, nhiều tài sản. Ngài lại thông thạo
+kinh điển, thuộc lòng chú thuật, tinh thông ba tập Vệ-đà cùng các
+sách chú giải, thông hiểu khoa duy vật luận và các tướng của bậc Đại
+nhân. Ngài lại đẹp đẽ, khả ái, uy nghi, có dung sắc tuyệt vời như dung
+sắc của Phạm thiên, dáng vẻ đường bệ, đáng chiêm ngưỡng. Ngài lại có
+giới đức, giữ giới đã lâu, thành tựu giới đức lâu đời. Ngài lại ăn
+nói khéo léo, lời lẽ tao nhã, rõ ràng, dễ hiểu. Ngài lại là thầy dạy
+của nhiều thầy khác, có ba trăm thanh niên đang học chú thuật với
+ngài, và nhiều thanh niên từ khắp các phương, các xứ, đến cầu học chú
+thuật nơi ngài. Ngài lại tuổi cao, niên cao lạp trưởng, đã đến giai
+đoạn cuối đời, còn Sa-môn Gotama thì còn trẻ, mới xuất gia không lâu.
+Ngài lại được vua Bimbisāra nước Magadha kính trọng, tôn quý, sùng
+bái. Ngài lại được thầy Bà-la-môn Pokkharasāti kính trọng, tôn quý,
+sùng bái. Ngài lại đang sống tại Campā, một thái ấp do vua Bimbisāra
+ban tặng như đất phong của Phạm thiên.
+
+"Chỉ riêng những lý do ấy cũng đủ để ngài không nên đến yết kiến
+Sa-môn Gotama; trái lại, chính Sa-môn Gotama mới nên đến yết kiến
+ngài."
 
 #strong[Bàn Về Đức Hạnh Của Đức Phật]
 
 #super[5] Nghe vậy, Bà-la-môn Soṇadaṇḍa bảo các vị Bà-la-môn ấy:
 "Vậy xin quý vị cũng nghe tôi nói, vì sao chính chúng ta mới nên đến
 yết kiến Sa-môn Gotama, chứ không phải Sa-môn Gotama đến yết kiến
-chúng ta. Sa-môn Gotama sinh ra từ cả hai bên nội ngoại đều thanh
-khiết, dòng dõi trong sạch suốt bảy đời tổ phụ, không ai có thể chê
-trách về huyết thống — chỉ riêng điều ấy cũng đủ để Sa-môn Gotama
-không cần đến yết kiến chúng ta; trái lại, chính chúng ta mới nên đến
-yết kiến Ngài. Sa-môn Gotama đã từ bỏ thân tộc đông đảo mà xuất gia;
-đã từ bỏ nhiều vàng bạc, châu báu, cả chôn giấu lẫn để lộ, mà xuất
-gia; tuy còn trẻ, tóc còn đen nhánh, đang độ thanh xuân, đã xuất gia
-sống không gia đình ngay từ buổi đầu đời; đã xuất gia dù cha mẹ không
-muốn, nước mắt đầm đìa, than khóc; Ngài đẹp đẽ, khả ái, uy nghi, có
-dung sắc như Phạm thiên; Ngài có giới đức, giới hạnh cao quý, thiện
-lành; Ngài ăn nói khéo léo, lời lẽ tao nhã, rõ ràng, dễ hiểu; Ngài là
-thầy dạy của nhiều thầy khác; Ngài đã đoạn tận tham dục, không còn
-phóng dật; Ngài chủ trương có nghiệp, có hành động, không mưu hại đến
-các bậc phạm hạnh; Ngài xuất gia từ một gia tộc cao quý, dòng dõi
-Sát-đế-lỵ thuần khiết; Ngài xuất gia từ một gia tộc giàu có, nhiều
-của cải; người ta từ khắp các xứ, các phương đến hỏi Ngài những câu
-hỏi; hàng ngàn chư Thiên đã hết lòng quy y Ngài; tiếng đồn tốt đẹp về
-Ngài đã vang khắp nơi: Đây là Thế Tôn, bậc A-la-hán, Chánh Đẳng
-Giác...; Ngài có đầy đủ ba mươi hai tướng của bậc Đại nhân; Ngài luôn
-niềm nở chào đón, hòa nhã, vui vẻ, không cau có, mặt mày tươi tỉnh,
-luôn là người bắt chuyện trước; Ngài được cả bốn hội chúng kính
-trọng, tôn quý, sùng bái; nhiều chư Thiên và loài người hết lòng tịnh
-tín nơi Ngài; bất cứ làng mạc hay thị trấn nào Ngài cư trú, ở đó
-không có phi nhân nào quấy nhiễu con người; Ngài là vị giáo chủ có đồ
-chúng, có tông phái, được xem là bậc tối thượng trong các vị giáo chủ
-khác — nhưng khác với các vị Sa-môn, Bà-la-môn khác chỉ đạt được danh
-tiếng bằng cách này cách khác, danh tiếng của Sa-môn Gotama có được
-là nhờ chính sự thành tựu Minh và Hạnh vô thượng; vua Bimbisāra nước
-Magadha, cùng vợ con, gia quyến, tùy tùng, đã hết lòng quy y Ngài;
-vua Pasenadi nước Kosala cũng đã hết lòng quy y Ngài như vậy; thầy
-Bà-la-môn Pokkharasāti cũng đã hết lòng quy y Ngài như vậy; Ngài được
-vua Bimbisāra, vua Pasenadi, và thầy Pokkharasāti đều kính trọng, tôn
-quý, sùng bái; Ngài đã đến Campā, hiện đang trú bên bờ hồ sen Gaggarā
-— mà phàm có Sa-môn hay Bà-la-môn nào đến địa phận làng xóm của chúng
-ta, đều là khách của chúng ta, mà khách thì chúng ta phải kính trọng,
-tôn quý, sùng bái; Sa-môn Gotama chính là khách của chúng ta như vậy
-— chỉ riêng lý do ấy cũng đủ để Sa-môn Gotama không cần đến yết kiến
-chúng ta; trái lại, chính chúng ta mới nên đến yết kiến Ngài. Đó là
-những đức tính của Tôn giả Gotama mà tôi biết được; nhưng Tôn giả
+chúng ta.
+
+"Sa-môn Gotama sinh ra từ cả hai bên nội ngoại đều thanh khiết, dòng
+dõi trong sạch suốt bảy đời tổ phụ, không ai có thể chê trách về
+huyết thống. Chỉ riêng điều ấy cũng đủ để Sa-môn Gotama không cần đến
+yết kiến chúng ta; trái lại, chính chúng ta mới nên đến yết kiến
+Ngài.
+
+"Ngài đã từ bỏ thân tộc đông đảo mà xuất gia. Ngài đã từ bỏ nhiều
+vàng bạc, châu báu, cả chôn giấu lẫn để lộ, mà xuất gia. Tuy còn trẻ,
+tóc còn đen nhánh, đang độ thanh xuân, Ngài đã xuất gia sống không
+gia đình ngay từ buổi đầu đời, dù cha mẹ không muốn, nước mắt đầm
+đìa, than khóc. Ngài đẹp đẽ, khả ái, uy nghi, có dung sắc như Phạm
+thiên. Ngài có giới đức, giới hạnh cao quý, thiện lành. Ngài ăn nói
+khéo léo, lời lẽ tao nhã, rõ ràng, dễ hiểu. Ngài là thầy dạy của
+nhiều thầy khác. Ngài đã đoạn tận tham dục, không còn phóng dật. Ngài
+chủ trương có nghiệp, có hành động, không mưu hại đến các bậc phạm
+hạnh. Ngài xuất gia từ một gia tộc cao quý, dòng dõi Sát-đế-lỵ thuần
+khiết, lại giàu có, nhiều của cải. Người ta từ khắp các xứ, các
+phương đến hỏi Ngài những câu hỏi. Hàng ngàn chư Thiên đã hết lòng
+quy y Ngài. Tiếng đồn tốt đẹp về Ngài đã vang khắp nơi: Đây là Thế
+Tôn, bậc A-la-hán, Chánh Đẳng Giác... Ngài có đầy đủ ba mươi hai
+tướng của bậc Đại nhân. Ngài luôn niềm nở chào đón, hòa nhã, vui vẻ,
+không cau có, mặt mày tươi tỉnh, luôn là người bắt chuyện trước. Ngài
+được cả bốn hội chúng kính trọng, tôn quý, sùng bái; nhiều chư Thiên
+và loài người hết lòng tịnh tín nơi Ngài. Bất cứ làng mạc hay thị
+trấn nào Ngài cư trú, ở đó không có phi nhân nào quấy nhiễu con
+người. Ngài là vị giáo chủ có đồ chúng, có tông phái, được xem là
+bậc tối thượng trong các vị giáo chủ khác — khác với các vị Sa-môn,
+Bà-la-môn khác chỉ đạt được danh tiếng bằng cách này cách khác, danh
+tiếng của Sa-môn Gotama có được là nhờ chính sự thành tựu Minh và
+Hạnh vô thượng. Vua Bimbisāra nước Magadha, cùng vợ con, gia quyến,
+tùy tùng, đã hết lòng quy y Ngài; vua Pasenadi nước Kosala cũng đã
+hết lòng quy y Ngài như vậy; thầy Bà-la-môn Pokkharasāti cũng đã hết
+lòng quy y Ngài như vậy. Ngài được vua Bimbisāra, vua Pasenadi, và
+thầy Pokkharasāti đều kính trọng, tôn quý, sùng bái. Ngài đã đến
+Campā, hiện đang trú bên bờ hồ sen Gaggarā — mà phàm có Sa-môn hay
+Bà-la-môn nào đến địa phận làng xóm của chúng ta, đều là khách của
+chúng ta, mà khách thì chúng ta phải kính trọng, tôn quý, sùng bái;
+Sa-môn Gotama chính là khách của chúng ta như vậy.
+
+"Chỉ riêng những lý do ấy cũng đủ để Sa-môn Gotama không cần đến yết
+kiến chúng ta; trái lại, chính chúng ta mới nên đến yết kiến Ngài. Đó
+là những đức tính của Tôn giả Gotama mà tôi biết được; nhưng Tôn giả
 Gotama không chỉ có bấy nhiêu đức tính ấy mà thôi — đức tính của Ngài
 thật vô lượng, không thể đếm hết."
 
@@ -4172,7 +4182,7 @@ thọ; do có lạc thọ, tâm được định tĩnh.
 
 #super[24] "Vị ấy ly dục, ly các bất thiện pháp, chứng và trú Sơ
 thiền — một trạng thái có tầm có tứ, có hỷ lạc do ly dục sinh. Vị ấy
-thấm nhuần, tẩm ướt, làm cho sung mãn, cho tràn đầy thân này với hỷ
+thấm nhuần, tẩm ướt, nuôi lớn, cho tràn đầy thân này với hỷ
 lạc do ly dục sinh, không một chỗ nào trên toàn thân không được hỷ
 lạc ấy thấm nhuần — cũng như một người thợ tắm khéo léo nhồi bột
 tắm với nước cho thấm đều, không chảy rơi ra ngoài. Này thanh niên,
@@ -4318,7 +4328,7 @@ cư, và đều có lòng tịnh tín nơi Thế Tôn. Lành thay, xin Thế Tô
 chỉ định một vị Tỷ-kheo nào đó thị hiện thần thông, vượt trên khả
 năng người thường — như vậy dân thành Nāḷandā sẽ càng thêm tịnh tín
 nơi Thế Tôn hơn nữa." Nghe vậy, Thế Tôn bảo gia chủ tử Kevaṭṭa: "Này
-Kevaṭṭa, Ta không dạy các Tỷ-kheo theo cách: Này các Tỷ-kheo, hãy
+Kevaṭṭa, Ta không dạy các Tỷ-kheo theo cách: Này các thầy, hãy
 thị hiện thần thông, vượt trên khả năng người thường, cho các cư sĩ
 áo trắng xem."
 

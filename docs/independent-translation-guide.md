@@ -99,25 +99,84 @@ nguyên xi kiểu này sang tiếng Việt sẽ rất nặng nề, khó đọc. 
 
 ## 5. Văn phong
 
-- **Hướng tới tiếng Việt tự nhiên, dễ đọc** — đây là yêu cầu đã được
-  người dùng chỉnh sửa trực tiếp (ban đầu bản dịch quá sát chữ, nghe nặng
-  nề). Ưu tiên câu ngắn, mạch lạc, trật tự từ tự nhiên của tiếng Việt hiện
-  đại, tránh lặp cấu trúc câu phức kiểu Pali (nhiều mệnh đề lồng nhau,
-  lặp chủ ngữ nhiều lần trong một câu).
-- Vẫn giữ nguyên vốn từ Phật học Hán Việt đã quen thuộc với độc giả Việt
-  (Tỷ-kheo, Thế Tôn, Như Lai, Sa-môn, Bà-la-môn, Phạm hạnh, A-la-hán,
-  Chánh Đẳng Giác...) — đây là từ ngữ *quen thuộc*, không phải từ ngữ
-  *nặng nề*; không thay bằng từ thuần Việt gượng ép.
-- Ví dụ đối chiếu cách sửa đã áp dụng:
-  - "dùng đủ mọi cách chê bai" → "luôn miệng chê bai"
-  - "chớ vì vậy mà sinh lòng phẫn nộ, bất bình, hay tức tối trong tâm" →
-    "đừng vì vậy mà nổi giận, bực bội hay khó chịu trong lòng"
-  - Câu tương phản lồng mệnh đề kiểu "Trong khi có một số Sa-môn... mà
-    vẫn... thì Sa-môn Gotama từ bỏ..." → tách thành hai câu rõ ràng: "Có
-    những Sa-môn... mà vẫn... Còn Sa-môn Gotama thì từ bỏ..."
-- Đối thoại: dùng "các thầy" khi Phật gọi chúng Tỷ-kheo (thay vì "các
-  Ông" nghe xa cách), xưng "Ta" khi Phật tự xưng, Tỷ-kheo thưa "Bạch Thế
-  Tôn".
+Người đọc phải đọc thành tiếng được một đoạn mà không vấp. Câu ngắn,
+đúng trật tự tiếng Việt hiện đại. Khung trùng tụng của bản Pali (đi đến,
+đến nơi, ngồi một bên, ngồi một bên) nói một lần. Từ nhấn mạnh xếp chồng
+(giàu, rất giàu, của cải lớn) gộp thành một lời mạnh. Hạng mục khác nhau
+trong một danh sách thì giữ đủ, theo mục 4.
+
+Giữ thuật ngữ Hán Việt người đọc kinh đã quen: Tỷ-kheo, Thế Tôn, Như Lai,
+Sa-môn, Bà-la-môn, Phạm hạnh, A-la-hán, Chánh Đẳng Giác, Niết-bàn, lậu
+hoặc, bất cộng trụ. Đó là từ quen, không phải từ cứng. Không đổi chúng
+sang từ thuần Việt gượng. Không mở bản dịch Thích Minh Châu để lấy chữ.
+
+Ba giọng, không một giọng cho cả tạng:
+
+- **Truyện.** Kể việc một lần. Lần thứ hai, lần thứ ba thì nói là lần
+  thứ hai, lần thứ ba, không chép lại cả bài thưa.
+- **Kệ.** Mỗi dòng một ý, đọc lên được. Không viết văn xuôi rồi ngắt
+  dòng.
+- **Luật.** Câu ngắn. Mỗi điều kiện phạm tội một câu. Không gộp các mức
+  tội, các đạo, các giai đoạn ưng thuận. Phần giải chữ giữ từng trường
+  hợp. Phần truyện của Luật thì viết theo giọng truyện.
+
+Xưng hô, một kiểu trong cả thư viện:
+
+| Ai nói | Cách gọi |
+|---|---|
+| Phật gọi Tỷ-kheo | Này các thầy |
+| Phật tự xưng | Ta |
+| Tỷ-kheo thưa Phật | Bạch Thế Tôn |
+| Tỷ-kheo gọi nhau | Này hiền giả |
+| Chư thiên gọi Phật (*mārisa*) | Thưa Ngài |
+| Phật đáp chư thiên (*āvuso*) | Này hiền giả |
+| Con thưa cha mẹ | Thưa cha, thưa mẹ |
+| Tỷ-kheo gọi cư sĩ | Này gia chủ |
+| Vợ cũ gọi chồng (*ayyaputta*) | Thưa chàng |
+| Vị ấy gọi vợ cũ sau khi xuất gia (*bhagini*) | Này chị |
+
+Câu mở: "Tôi nghe như vầy. Một thời, Thế Tôn trú tại …" *Sāvatthinidānaṃ*
+là "Cũng tại Sāvatthī." Không viết "Nhân duyên tại Sāvatthi".
+
+Trong file `.typ`, dấu ngắt câu dùng `—` theo mục 6. Quy tắc "văn Việt
+không dùng gạch dài" của skill `vietnamese-writer` không áp vào file này.
+
+Skill tiếng Việt cài trong repo (`translationese-cleaner-vi`,
+`humanizer-vi`, `grammar-checker-vi`, `style-guide-vi`,
+`vietnamese-writer`) chỉ là đồ kiểm câu. Mục này thắng khi chúng trái
+nhau. `translationese-cleaner-vi` không được rút điều kiện phạm tội.
+Sau khi một bộ đã viết lại theo mục này, không chạy script lắp ráp từ
+`.parts` cũ trên bộ đó.
+
+Mẫu đã viết lại, lấy làm chuẩn cho các lượt sau:
+
+- Tương Ưng 1.1, truyện và kệ.
+- Tăng Chi, cả tập Một Pháp (Ekakanipāta), theo khuôn 1.1–1.20.
+- Pháp Cú, kệ 1–20.
+- Luật, Pārājika 1, đoạn 1–16 (truyện Sudinna) và đoạn 21–32 (giải chữ
+  điều học).
+
+Một số chữ cũ lệch nghĩa, mẫu mới sửa luôn:
+
+- *subhanimitta* là tướng đẹp, không phải "tịnh tướng". Tịnh dễ nghe
+  thành thanh tịnh.
+- *nikkamadhātu* là sự ra sức, không phải xuất ly. Xuất ly là
+  *nekkhamma*.
+- *appaṭirūpa* là không hợp lẽ, không phải "không phải dạng". Câu quở
+  cố định: "Việc ấy không xứng, không thuận, không hợp lẽ, không phải
+  hạnh Sa-môn, không được phép, không nên làm."
+- *hīnāya āvattati* là hoàn tục.
+- *ābhidosikaṃ kummāsaṃ* là cháo lúa mạch để qua đêm.
+- *milakkha* là tiếng ngoài. Không dùng từ "mọi".
+- *moghapurisa* là "Này kẻ khờ".
+
+Ví dụ đã chốt từ các lượt trước:
+
+- "dùng đủ mọi cách chê bai" → "luôn miệng chê bai"
+- "sinh lòng phẫn nộ, bất bình, hay tức tối trong tâm" → "nổi giận,
+  bực bội hay khó chịu trong lòng"
+- Mệnh đề tương phản lồng nhau tách thành hai câu: "Có những Sa-môn…
+  Còn Sa-môn Gotama thì…"
 
 ## 6. Lỗi kỹ thuật Typst cần tránh (quan trọng — đã từng xảy ra)
 

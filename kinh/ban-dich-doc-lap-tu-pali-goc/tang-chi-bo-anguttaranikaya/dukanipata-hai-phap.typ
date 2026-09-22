@@ -22,11 +22,21 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.1. Lỗi Lầm (Vajjasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, có hai loại lỗi lầm này. Hai loại nào? Lỗi lầm thấy ngay trong đời này, và lỗi lầm thuộc về đời sau. Này các thầy, thế nào là lỗi lầm thấy ngay trong đời này? Ở đây, này các thầy, có người thấy kẻ trộm cướp, kẻ gây tội ác, bị vua chúa bắt được rồi áp dụng nhiều hình phạt khác nhau: đánh bằng roi, đánh bằng gậy, đánh bằng côn; chặt tay, chặt chân, chặt cả tay lẫn chân; cắt tai, cắt mũi, cắt cả tai lẫn mũi; nấu trong vạc, cạo đầu sáng loáng như vỏ sò, banh miệng nhét lửa như miệng quỷ La-hầu, đốt tay như ngọn đuốc, lột da từ cổ xuống thành dải như áo tơi cỏ, trói vào cọc như dê, móc thịt bằng lưỡi câu, khoét từng miếng thịt tròn như đồng tiền, rạch da tẩm nước muối cho ăn mòn, xoay trên chốt cối đến gãy xương, trải nằm trên đệm rơm rồi đốt, tưới dầu sôi lên người, cho chó dữ cắn xé, đóng cọc nhọn xuyên người khi còn sống, dùng gươm chặt đầu. Người ấy nghĩ: 'Do những nghiệp ác như vậy mà kẻ trộm cướp, kẻ gây tội ác bị vua chúa bắt được rồi áp dụng những hình phạt ấy. Nếu ta cũng làm một nghiệp ác như vậy, vua chúa cũng sẽ bắt ta rồi áp dụng những hình phạt tương tự.' Người ấy sợ hãi lỗi lầm thấy ngay trong đời này nên không đi cướp đoạt tài sản của người khác. Này các thầy, đó gọi là lỗi lầm thấy ngay trong đời này. Này các thầy, thế nào là lỗi lầm thuộc về đời sau? Ở đây, này các thầy, có người suy xét như vầy: 'Ác hạnh về thân có quả báo khổ đau, xấu ác trong đời sau; ác hạnh về lời nói có quả báo khổ đau, xấu ác trong đời sau; ác hạnh về ý có quả báo khổ đau, xấu ác trong đời sau. Nếu ta làm ác hạnh về thân, về lời nói, về ý, thì làm sao ta tránh khỏi, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?' Người ấy sợ hãi lỗi lầm thuộc về đời sau nên từ bỏ ác hạnh về thân, tu tập thiện hạnh về thân; từ bỏ ác hạnh về lời nói, tu tập thiện hạnh về lời nói; từ bỏ ác hạnh về ý, tu tập thiện hạnh về ý, giữ mình trong sạch. Này các thầy, đó gọi là lỗi lầm thuộc về đời sau. Này các thầy, đó là hai loại lỗi lầm. Vì vậy, này các thầy, các thầy cần tu học như vầy: 'Chúng ta sẽ sợ hãi lỗi lầm thấy ngay trong đời này, sẽ sợ hãi lỗi lầm thuộc về đời sau, sẽ là người sợ lỗi lầm, thấy rõ sự đáng sợ của lỗi lầm.' Này các thầy, các thầy cần tu học như vậy. Này các thầy, đối với người sợ lỗi lầm, thấy rõ sự đáng sợ của lỗi lầm, điều này có thể trông đợi: người ấy sẽ thoát khỏi mọi lỗi lầm."
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, Jetavana, vườn ông Anāthapiṇḍika. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói:
+
+"Này các thầy, có hai loại lỗi lầm. Hai loại nào? Lỗi lầm thấy ngay trong đời này, và lỗi lầm thuộc về đời sau.
+
+Này các thầy, thế nào là lỗi lầm thấy ngay trong đời này? Ở đây có người thấy kẻ trộm cướp, kẻ gây tội ác, bị vua chúa bắt được rồi áp dụng nhiều hình phạt khác nhau: đánh bằng roi, đánh bằng gậy, đánh bằng côn; chặt tay, chặt chân, chặt cả tay lẫn chân; cắt tai, cắt mũi, cắt cả tai lẫn mũi; nấu trong vạc; cạo đầu sáng loáng như vỏ sò; banh miệng nhét lửa như miệng quỷ La-hầu; đốt tay như ngọn đuốc; lột da từ cổ xuống thành dải như áo tơi cỏ; trói vào cọc như dê; móc thịt bằng lưỡi câu; khoét từng miếng thịt tròn như đồng tiền; rạch da tẩm nước muối cho ăn mòn; xoay trên chốt cối đến gãy xương; trải nằm trên đệm rơm rồi đốt; tưới dầu sôi lên người; cho chó dữ cắn xé; đóng cọc nhọn xuyên người khi còn sống; dùng gươm chặt đầu.
+
+Người ấy nghĩ: 'Do những nghiệp ác như vậy mà kẻ trộm cướp, kẻ gây tội ác bị vua chúa bắt được rồi áp dụng những hình phạt ấy. Nếu ta cũng làm một nghiệp ác như vậy, vua chúa cũng sẽ bắt ta rồi áp dụng những hình phạt tương tự.' Người ấy sợ hãi lỗi lầm thấy ngay trong đời này nên không đi cướp đoạt tài sản của người khác. Này các thầy, đó gọi là lỗi lầm thấy ngay trong đời này.
+
+Này các thầy, thế nào là lỗi lầm thuộc về đời sau? Ở đây có người suy xét như vầy: 'Ác hạnh về thân có quả báo khổ đau, xấu ác trong đời sau. Ác hạnh về lời nói có quả báo khổ đau, xấu ác trong đời sau. Ác hạnh về ý có quả báo khổ đau, xấu ác trong đời sau. Nếu ta làm ác hạnh về thân, về lời nói, về ý, thì làm sao ta tránh khỏi, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?' Người ấy sợ hãi lỗi lầm thuộc về đời sau nên từ bỏ ác hạnh về thân, tu tập thiện hạnh về thân; từ bỏ ác hạnh về lời nói, tu tập thiện hạnh về lời nói; từ bỏ ác hạnh về ý, tu tập thiện hạnh về ý, giữ mình trong sạch. Này các thầy, đó gọi là lỗi lầm thuộc về đời sau.
+
+Này các thầy, đó là hai loại lỗi lầm. Vì vậy, này các thầy, các thầy hãy học như vầy: 'Chúng ta sẽ sợ hãi lỗi lầm thấy ngay trong đời này, sẽ sợ hãi lỗi lầm thuộc về đời sau, sẽ là người sợ lỗi lầm, thấy rõ sự đáng sợ của lỗi lầm.' Này các thầy, các thầy hãy học như vậy. Đối với người sợ lỗi lầm, thấy rõ sự đáng sợ của lỗi lầm, điều này có thể trông đợi: người ấy sẽ thoát khỏi mọi lỗi lầm."
 
 === AN 2.2. Tinh Cần (Padhānasuttaṃ)
 
-#super[1] "Này các thầy, có hai loại tinh cần khó thực hiện được ở đời này. Hai loại nào? Sự tinh cần của người tại gia sống đời sống gia đình, để cung cấp y phục, đồ ăn khất thực, chỗ ở, thuốc men chữa bệnh; và sự tinh cần của người đã xuất gia, từ bỏ gia đình, sống không nhà, để từ bỏ mọi chấp thủ. Này các thầy, đó là hai loại tinh cần khó thực hiện được ở đời này. Này các thầy, trong hai loại tinh cần ấy, sự tinh cần để từ bỏ mọi chấp thủ là hạng nhất. Vì vậy, này các thầy, các thầy cần tu học như vầy: 'Chúng ta sẽ tinh cần để từ bỏ mọi chấp thủ.' Này các thầy, các thầy cần tu học như vậy."
+#super[1] "Này các thầy, có hai loại tinh cần khó thực hiện được ở đời này. Hai loại nào? Sự tinh cần của người tại gia sống đời sống gia đình, để cung cấp y phục, đồ ăn khất thực, chỗ ở, thuốc men chữa bệnh; và sự tinh cần của người đã xuất gia, từ bỏ gia đình, sống không nhà, để từ bỏ mọi chấp thủ. Này các thầy, đó là hai loại tinh cần khó thực hiện được ở đời này. Này các thầy, trong hai loại tinh cần ấy, sự tinh cần để từ bỏ mọi chấp thủ là hạng nhất. Vì vậy, này các thầy, các thầy hãy học như vầy: 'Chúng ta sẽ tinh cần để từ bỏ mọi chấp thủ.' Này các thầy, các thầy hãy học như vậy."
 
 === AN 2.3. Thiêu Đốt (Tapanīyasuttaṃ)
 
@@ -38,11 +48,21 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.5. Điều Tự Chứng Ngộ (Upaññātasuttaṃ)
 
-#super[1] "Này các thầy, Ta đã tự mình chứng ngộ hai pháp: sự không hài lòng với các pháp thiện, và sự không thoái lui trong tinh cần. Này các thầy, Ta đã tinh cần không thoái lui với ý nghĩ: 'Cho dù chỉ còn da, gân, xương, cho dù thịt và máu trong thân khô cạn, ta cũng quyết không từ bỏ tinh tấn khi chưa đạt được điều có thể đạt được bằng sức mạnh con người, bằng tinh tấn con người, bằng nỗ lực con người.' Này các thầy, nhờ không phóng dật mà Ta đã chứng đạt giác ngộ, nhờ không phóng dật mà Ta đã chứng đạt sự an ổn thoát khỏi ách phược vô thượng. Này các thầy, nếu các thầy cũng tinh cần không thoái lui như vậy, thì chẳng bao lâu nữa các thầy sẽ tự mình chứng ngộ ngay trong đời này, với thắng trí, chứng đạt và an trú trong mục đích tối thượng của đời sống Phạm hạnh mà các thiện nam tử chân chính đã xuất gia, từ bỏ gia đình, sống không nhà để hướng đến. Vì vậy, này các thầy, các thầy cần tu học như vầy: 'Chúng ta sẽ tinh cần không thoái lui. Cho dù chỉ còn da, gân, xương, cho dù thịt và máu trong thân khô cạn, ta cũng quyết không từ bỏ tinh tấn khi chưa đạt được điều có thể đạt được bằng sức mạnh con người, bằng tinh tấn con người, bằng nỗ lực con người.' Này các thầy, các thầy cần tu học như vậy."
+#super[1] "Này các thầy, Ta đã tự mình chứng ngộ hai pháp: sự không hài lòng với các pháp thiện, và sự không thoái lui trong tinh cần.
+
+Này các thầy, Ta đã tinh cần không thoái lui với ý nghĩ: 'Cho dù chỉ còn da, gân, xương, cho dù thịt và máu trong thân khô cạn, ta cũng quyết không từ bỏ tinh tấn khi chưa đạt được điều có thể đạt được bằng sức mạnh con người, bằng tinh tấn con người, bằng nỗ lực con người.' Này các thầy, nhờ không phóng dật mà Ta đã chứng đạt giác ngộ, nhờ không phóng dật mà Ta đã chứng đạt sự an ổn thoát khỏi ách phược vô thượng.
+
+Này các thầy, nếu các thầy cũng tinh cần không thoái lui như vậy, thì chẳng bao lâu nữa các thầy sẽ tự mình chứng ngộ ngay trong đời này, với thắng trí, chứng đạt và an trú trong mục đích tối thượng của đời sống Phạm hạnh mà các thiện nam tử chân chính đã xuất gia, từ bỏ gia đình, sống không nhà để hướng đến.
+
+Vì vậy, này các thầy, các thầy hãy học như vầy: 'Chúng ta sẽ tinh cần không thoái lui. Cho dù chỉ còn da, gân, xương, cho dù thịt và máu trong thân khô cạn, ta cũng quyết không từ bỏ tinh tấn khi chưa đạt được điều có thể đạt được bằng sức mạnh con người, bằng tinh tấn con người, bằng nỗ lực con người.' Này các thầy, các thầy hãy học như vậy."
 
 === AN 2.6. Kiết Sử (Saṃyojanasuttaṃ)
 
-#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Sự thấy vị ngọt trong các pháp trói buộc, và sự thấy nhàm chán trong các pháp trói buộc. Này các thầy, người sống thấy vị ngọt trong các pháp trói buộc thì không từ bỏ tham, sân, si. Không từ bỏ tham, sân, si thì không thoát khỏi sinh, già, chết, sầu, bi, khổ, ưu, não — Ta nói người ấy không thoát khỏi khổ đau. Này các thầy, người sống thấy nhàm chán trong các pháp trói buộc thì từ bỏ tham, sân, si. Từ bỏ tham, sân, si thì thoát khỏi sinh, già, chết, sầu, bi, khổ, ưu, não — Ta nói người ấy thoát khỏi khổ đau. Này các thầy, đó là hai pháp."
+#super[1] "Này các thầy, có hai pháp này. Hai pháp nào? Sự thấy vị ngọt trong các pháp trói buộc, và sự thấy nhàm chán trong các pháp trói buộc.
+
+Này các thầy, người sống thấy vị ngọt trong các pháp trói buộc thì không từ bỏ tham, sân, si. Không từ bỏ tham, sân, si thì không thoát khỏi sinh, già, chết, sầu, bi, khổ, ưu, não — Ta nói người ấy không thoát khỏi khổ đau.
+
+Này các thầy, người sống thấy nhàm chán trong các pháp trói buộc thì từ bỏ tham, sân, si. Từ bỏ tham, sân, si thì thoát khỏi sinh, già, chết, sầu, bi, khổ, ưu, não — Ta nói người ấy thoát khỏi khổ đau. Này các thầy, đó là hai pháp."
 
 === AN 2.7. Pháp Đen (Kaṇhasuttaṃ)
 
@@ -54,7 +74,9 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.9. Sự Duy Trì Thế Gian (Cariyasuttaṃ)
 
-#super[1] "Này các thầy, có hai pháp trắng này duy trì thế gian. Hai pháp nào? Biết hổ thẹn, và biết sợ hãi tội lỗi. Này các thầy, nếu hai pháp trắng này không duy trì thế gian thì sẽ không còn phân biệt được đâu là mẹ, đâu là dì, đâu là mợ, đâu là vợ thầy, đâu là vợ của bậc đáng kính; thế gian sẽ rơi vào hỗn loạn như loài dê, loài gà, loài heo, loài chó, loài chó rừng. Nhưng vì, này các thầy, hai pháp trắng này duy trì thế gian, nên mới còn phân biệt được đâu là mẹ, đâu là dì, đâu là mợ, đâu là vợ thầy, đâu là vợ của bậc đáng kính."
+#super[1] "Này các thầy, có hai pháp trắng này duy trì thế gian. Hai pháp nào? Biết hổ thẹn, và biết sợ hãi tội lỗi.
+
+Này các thầy, nếu hai pháp trắng này không duy trì thế gian thì sẽ không còn phân biệt được đâu là mẹ, đâu là dì, đâu là mợ, đâu là vợ thầy, đâu là vợ của bậc đáng kính; thế gian sẽ rơi vào hỗn loạn như loài dê, loài gà, loài heo, loài chó, loài chó rừng. Nhưng vì hai pháp trắng này duy trì thế gian, nên mới còn phân biệt được đâu là mẹ, đâu là dì, đâu là mợ, đâu là vợ thầy, đâu là vợ của bậc đáng kính."
 
 === AN 2.10. Ngày Nhập Hạ (Vassūpanāyikasuttaṃ)
 
@@ -66,15 +88,35 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.11
 
-#super[1] "Này các thầy, có hai loại sức mạnh này. Hai loại nào? Sức mạnh của sự quán xét, và sức mạnh của sự tu tập. Này các thầy, thế nào là sức mạnh của sự quán xét? Ở đây, này các thầy, có người suy xét như vầy: 'Ác hạnh về thân có quả báo xấu ác ngay trong đời này và cả đời sau; ác hạnh về lời nói có quả báo xấu ác ngay trong đời này và cả đời sau; ác hạnh về ý có quả báo xấu ác ngay trong đời này và cả đời sau.' Do quán xét như vậy, người ấy từ bỏ ác hạnh về thân, tu tập thiện hạnh về thân; từ bỏ ác hạnh về lời nói, tu tập thiện hạnh về lời nói; từ bỏ ác hạnh về ý, tu tập thiện hạnh về ý, giữ mình trong sạch. Này các thầy, đó gọi là sức mạnh của sự quán xét. Này các thầy, thế nào là sức mạnh của sự tu tập? Này các thầy, sức mạnh của sự tu tập chính là sức mạnh của các bậc hữu học. Nhờ nương vào sức mạnh của bậc hữu học mà từ bỏ tham, sân, si. Từ bỏ tham, sân, si rồi thì không làm điều bất thiện, không theo đuổi điều ác. Này các thầy, đó gọi là sức mạnh của sự tu tập. Này các thầy, đó là hai loại sức mạnh."
+#super[1] "Này các thầy, có hai loại sức mạnh này. Hai loại nào? Sức mạnh của sự quán xét, và sức mạnh của sự tu tập.
+
+Này các thầy, thế nào là sức mạnh của sự quán xét? Ở đây có người suy xét như vầy: 'Ác hạnh về thân có quả báo xấu ác ngay trong đời này và cả đời sau. Ác hạnh về lời nói có quả báo xấu ác ngay trong đời này và cả đời sau. Ác hạnh về ý có quả báo xấu ác ngay trong đời này và cả đời sau.' Do quán xét như vậy, người ấy từ bỏ ác hạnh về thân, tu tập thiện hạnh về thân; từ bỏ ác hạnh về lời nói, tu tập thiện hạnh về lời nói; từ bỏ ác hạnh về ý, tu tập thiện hạnh về ý, giữ mình trong sạch. Này các thầy, đó gọi là sức mạnh của sự quán xét.
+
+Này các thầy, thế nào là sức mạnh của sự tu tập? Đó chính là sức mạnh của các bậc hữu học. Nhờ nương vào sức mạnh của bậc hữu học mà từ bỏ tham, sân, si. Từ bỏ tham, sân, si rồi thì không làm điều bất thiện, không theo đuổi điều ác. Này các thầy, đó gọi là sức mạnh của sự tu tập.
+
+Này các thầy, đó là hai loại sức mạnh."
 
 === AN 2.12
 
-#super[1] "Này các thầy, có hai loại sức mạnh này. Hai loại nào? Sức mạnh của sự quán xét, và sức mạnh của sự tu tập. [Sức mạnh của sự quán xét được định nghĩa như kinh trước.] Này các thầy, thế nào là sức mạnh của sự tu tập? Ở đây, này các thầy, vị Tỷ-kheo tu tập niệm giác chi nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, hướng đến từ bỏ; tu tập trạch pháp giác chi, tinh tấn giác chi, hỷ giác chi, khinh an giác chi, định giác chi, và xả giác chi cũng đều nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, hướng đến từ bỏ. Này các thầy, đó gọi là sức mạnh của sự tu tập. Này các thầy, đó là hai loại sức mạnh."
+#super[1] "Này các thầy, có hai loại sức mạnh này. Hai loại nào? Sức mạnh của sự quán xét, và sức mạnh của sự tu tập. [Sức mạnh của sự quán xét được định nghĩa như kinh trước.]
+
+Này các thầy, thế nào là sức mạnh của sự tu tập? Ở đây vị Tỷ-kheo tu tập niệm giác chi nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, hướng đến từ bỏ. Vị ấy tu tập trạch pháp giác chi, tinh tấn giác chi, hỷ giác chi, khinh an giác chi, định giác chi, và xả giác chi cũng đều nương vào viễn ly, nương vào ly tham, nương vào đoạn diệt, hướng đến từ bỏ. Này các thầy, đó gọi là sức mạnh của sự tu tập.
+
+Này các thầy, đó là hai loại sức mạnh."
 
 === AN 2.13
 
-#super[1] "Này các thầy, có hai loại sức mạnh này. Hai loại nào? Sức mạnh của sự quán xét, và sức mạnh của sự tu tập. [Sức mạnh của sự quán xét được định nghĩa như các kinh trước.] Này các thầy, thế nào là sức mạnh của sự tu tập? Ở đây, này các thầy, vị Tỷ-kheo ly dục, ly pháp bất thiện, chứng đạt và an trú sơ thiền, có tầm có tứ, có hỷ lạc do viễn ly sinh. Do sự lắng dịu của tầm và tứ, chứng đạt và an trú nhị thiền, có nội tĩnh, nhất tâm, không tầm không tứ, có hỷ lạc do định sinh. Do ly hỷ mà trú xả, chánh niệm tỉnh giác, thân cảm nhận lạc thọ, điều mà các bậc Thánh gọi là 'người có xả, có niệm, an trú lạc', chứng đạt và an trú tam thiền. Do đoạn lạc, đoạn khổ, do sự diệt trừ hỷ ưu đã có từ trước, chứng đạt và an trú tứ thiền, không khổ không lạc, xả niệm thanh tịnh. Này các thầy, đó gọi là sức mạnh của sự tu tập. Này các thầy, đó là hai loại sức mạnh."
+#super[1] "Này các thầy, có hai loại sức mạnh này. Hai loại nào? Sức mạnh của sự quán xét, và sức mạnh của sự tu tập. [Sức mạnh của sự quán xét được định nghĩa như các kinh trước.]
+
+Này các thầy, thế nào là sức mạnh của sự tu tập? Ở đây vị Tỷ-kheo ly dục, ly pháp bất thiện, chứng đạt và an trú sơ thiền, có tầm có tứ, có hỷ lạc do viễn ly sinh.
+
+Do sự lắng dịu của tầm và tứ, vị ấy chứng đạt và an trú nhị thiền, có nội tĩnh, nhất tâm, không tầm không tứ, có hỷ lạc do định sinh.
+
+Do ly hỷ mà trú xả, chánh niệm tỉnh giác, thân cảm nhận lạc thọ — điều mà các bậc Thánh gọi là 'người có xả, có niệm, an trú lạc' — vị ấy chứng đạt và an trú tam thiền.
+
+Do đoạn lạc, đoạn khổ, do sự diệt trừ hỷ ưu đã có từ trước, vị ấy chứng đạt và an trú tứ thiền, không khổ không lạc, xả niệm thanh tịnh. Này các thầy, đó gọi là sức mạnh của sự tu tập.
+
+Này các thầy, đó là hai loại sức mạnh."
 
 === AN 2.14
 
@@ -82,23 +124,65 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.15
 
-#super[1] "Này các thầy, trong một vụ tranh tụng mà cả vị Tỷ-kheo phạm tội lẫn vị Tỷ-kheo tố cáo đều không tự mình xét lại bản thân cho kỹ, thì có thể trông đợi vụ tranh tụng ấy sẽ kéo dài, gay gắt, trầm trọng, và các Tỷ-kheo sẽ không sống an ổn. Còn trong một vụ tranh tụng mà cả hai đều tự mình xét lại bản thân cho kỹ, thì có thể trông đợi vụ tranh tụng ấy sẽ không kéo dài, không gay gắt, không trầm trọng, và các Tỷ-kheo sẽ sống an ổn. Này các thầy, thế nào là vị Tỷ-kheo phạm tội tự mình xét lại bản thân cho kỹ? Ở đây, này các thầy, vị Tỷ-kheo phạm tội suy xét như vầy: 'Ta đã phạm điều bất thiện qua một khía cạnh nào đó về thân. Vị Tỷ-kheo kia đã thấy ta phạm điều ấy. Nếu ta không phạm, vị ấy đã không thấy. Vì ta đã phạm, nên vị ấy đã thấy. Thấy vậy, vị ấy không hài lòng, đã nói với ta lời không vừa ý. Bị nói vậy, ta cũng không hài lòng, đã kể lại cho người khác. Như vậy, chính lỗi lầm ở đây thuộc về ta, như người nộp thuế bị bắt lỗi ngay tại chỗ hàng hóa của mình vậy.' Này các thầy, như vậy là vị Tỷ-kheo phạm tội tự mình xét lại bản thân cho kỹ. Này các thầy, thế nào là vị Tỷ-kheo tố cáo tự mình xét lại bản thân cho kỹ? Ở đây, này các thầy, vị Tỷ-kheo tố cáo suy xét như vầy: 'Vị Tỷ-kheo này đã phạm điều bất thiện qua một khía cạnh nào đó về thân. Ta đã thấy vị ấy phạm điều ấy. Nếu vị ấy không phạm, ta đã không thấy. Vì vị ấy đã phạm, nên ta đã thấy. Thấy vậy, ta không hài lòng, đã nói với vị ấy lời không vừa ý. Bị ta nói vậy, vị ấy cũng không hài lòng, đã kể lại cho người khác. Như vậy, chính lỗi lầm ở đây thuộc về ta, như người nộp thuế bị bắt lỗi ngay tại chỗ hàng hóa của mình vậy.' Này các thầy, như vậy là vị Tỷ-kheo tố cáo tự mình xét lại bản thân cho kỹ. Này các thầy, trong một vụ tranh tụng mà cả hai đều không tự mình xét lại bản thân cho kỹ, thì vụ tranh tụng ấy sẽ kéo dài, gay gắt, trầm trọng, các Tỷ-kheo sẽ không sống an ổn. Còn khi cả hai đều tự mình xét lại bản thân cho kỹ, thì vụ tranh tụng ấy sẽ không kéo dài, không gay gắt, không trầm trọng, các Tỷ-kheo sẽ sống an ổn."
+#super[1] "Này các thầy, trong một vụ tranh tụng mà cả vị Tỷ-kheo phạm tội lẫn vị Tỷ-kheo tố cáo đều không tự mình xét lại bản thân cho kỹ, thì có thể trông đợi vụ tranh tụng ấy sẽ kéo dài, gay gắt, trầm trọng, và các Tỷ-kheo sẽ không sống an ổn. Còn trong một vụ tranh tụng mà cả hai đều tự mình xét lại bản thân cho kỹ, thì có thể trông đợi vụ tranh tụng ấy sẽ không kéo dài, không gay gắt, không trầm trọng, và các Tỷ-kheo sẽ sống an ổn.
+
+Này các thầy, thế nào là vị Tỷ-kheo phạm tội tự mình xét lại bản thân cho kỹ? Ở đây vị Tỷ-kheo phạm tội suy xét như vầy: 'Ta đã phạm điều bất thiện qua một khía cạnh nào đó về thân. Vị Tỷ-kheo kia đã thấy ta phạm điều ấy. Nếu ta không phạm, vị ấy đã không thấy. Vì ta đã phạm, nên vị ấy đã thấy. Thấy vậy, vị ấy không hài lòng, đã nói với ta lời không vừa ý. Bị nói vậy, ta cũng không hài lòng, đã kể lại cho người khác. Như vậy, chính lỗi lầm ở đây thuộc về ta, như người nộp thuế bị bắt lỗi ngay tại chỗ hàng hóa của mình vậy.' Này các thầy, như vậy là vị Tỷ-kheo phạm tội tự mình xét lại bản thân cho kỹ.
+
+Này các thầy, thế nào là vị Tỷ-kheo tố cáo tự mình xét lại bản thân cho kỹ? Ở đây vị Tỷ-kheo tố cáo suy xét như vầy: 'Vị Tỷ-kheo này đã phạm điều bất thiện qua một khía cạnh nào đó về thân. Ta đã thấy vị ấy phạm điều ấy. Nếu vị ấy không phạm, ta đã không thấy. Vì vị ấy đã phạm, nên ta đã thấy. Thấy vậy, ta không hài lòng, đã nói với vị ấy lời không vừa ý. Bị ta nói vậy, vị ấy cũng không hài lòng, đã kể lại cho người khác. Như vậy, chính lỗi lầm ở đây thuộc về ta, như người nộp thuế bị bắt lỗi ngay tại chỗ hàng hóa của mình vậy.' Này các thầy, như vậy là vị Tỷ-kheo tố cáo tự mình xét lại bản thân cho kỹ.
+
+Này các thầy, trong một vụ tranh tụng mà cả hai đều không tự mình xét lại bản thân cho kỹ, thì vụ tranh tụng ấy sẽ kéo dài, gay gắt, trầm trọng, các Tỷ-kheo sẽ không sống an ổn. Còn khi cả hai đều tự mình xét lại bản thân cho kỹ, thì vụ tranh tụng ấy sẽ không kéo dài, không gay gắt, không trầm trọng, các Tỷ-kheo sẽ sống an ổn."
 
 === AN 2.16
 
-#super[1] Rồi có một vị Bà-la-môn đi đến chỗ Thế Tôn; sau khi đến, vị ấy chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, vị Bà-la-môn ấy bạch Thế Tôn: "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?" "Này Bà-la-môn, chính do sống phi pháp, sống bất chánh mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục." "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?" "Này Bà-la-môn, chính do sống đúng pháp, sống chân chánh mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời." "Thật kỳ diệu thay, thưa Tôn giả Gotama! Thật kỳ diệu thay, thưa Tôn giả Gotama! Giống như người ta dựng lại những gì bị lật đổ, phơi bày những gì bị che kín, chỉ đường cho kẻ lạc lối, hay đem đèn sáng vào bóng tối để những ai có mắt có thể thấy được hình sắc; cũng vậy, Chánh pháp đã được Tôn giả Gotama trình bày qua nhiều phương tiện. Con xin quy y Tôn giả Gotama, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Gotama nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
+#super[1] Rồi có một vị Bà-la-môn đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Vị Bà-la-môn ấy bạch Thế Tôn: "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?"
+
+"Này Bà-la-môn, chính do sống phi pháp, sống bất chánh mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
+
+"Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?"
+
+"Này Bà-la-môn, chính do sống đúng pháp, sống chân chánh mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời."
+
+"Thật kỳ diệu thay, thưa Tôn giả Gotama! Thật kỳ diệu thay, thưa Tôn giả Gotama! Giống như người ta dựng lại những gì bị lật đổ, phơi bày những gì bị che kín, chỉ đường cho kẻ lạc lối, hay đem đèn sáng vào bóng tối để những ai có mắt có thể thấy được hình sắc; cũng vậy, Chánh pháp đã được Tôn giả Gotama trình bày qua nhiều phương tiện. Con xin quy y Tôn giả Gotama, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Gotama nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
 
 === AN 2.17
 
-#super[1] Rồi Bà-la-môn Jāṇussoṇi đi đến chỗ Thế Tôn; sau khi đến, vị ấy chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Jāṇussoṇi bạch Thế Tôn: "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?" "Này Bà-la-môn, chính do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục." "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?" "Này Bà-la-môn, cũng chính do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời." "Con không hiểu được ý nghĩa rộng rãi của lời nói vắn tắt mà Tôn giả Gotama chưa giải thích chi tiết này. Lành thay, mong Tôn giả Gotama thuyết Pháp cho con theo cách mà con có thể hiểu được ý nghĩa rộng rãi của nó." "Vậy thì, này Bà-la-môn, hãy nghe và khéo tác ý, Ta sẽ nói." "Xin vâng, thưa Tôn giả", Bà-la-môn Jāṇussoṇi đáp lại Thế Tôn. Thế Tôn nói như vầy: "Này Bà-la-môn, ở đây có người đã làm ác hạnh về thân, chưa làm thiện hạnh về thân; đã làm ác hạnh về lời nói, chưa làm thiện hạnh về lời nói; đã làm ác hạnh về ý, chưa làm thiện hạnh về ý. Này Bà-la-môn, như vậy là do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Còn ở đây, này Bà-la-môn, có người đã làm thiện hạnh về thân, chưa làm ác hạnh về thân; đã làm thiện hạnh về lời nói, chưa làm ác hạnh về lời nói; đã làm thiện hạnh về ý, chưa làm ác hạnh về ý. Này Bà-la-môn, như vậy là do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời." "Thật kỳ diệu thay, thưa Tôn giả Gotama!... Con xin quy y Tôn giả Gotama, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Gotama nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
+#super[1] Rồi Bà-la-môn Jāṇussoṇi đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Bà-la-môn Jāṇussoṇi bạch Thế Tôn: "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?"
+
+"Này Bà-la-môn, chính do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
+
+"Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?"
+
+"Này Bà-la-môn, cũng chính do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời."
+
+"Con không hiểu được ý nghĩa rộng rãi của lời nói vắn tắt mà Tôn giả Gotama chưa giải thích chi tiết này. Lành thay, mong Tôn giả Gotama thuyết Pháp cho con theo cách mà con có thể hiểu được ý nghĩa rộng rãi của nó."
+
+"Vậy thì, này Bà-la-môn, hãy nghe và khéo tác ý, Ta sẽ nói." "Xin vâng, thưa Tôn giả", Bà-la-môn Jāṇussoṇi đáp lại. Thế Tôn nói:
+
+"Này Bà-la-môn, ở đây có người đã làm ác hạnh về thân, chưa làm thiện hạnh về thân; đã làm ác hạnh về lời nói, chưa làm thiện hạnh về lời nói; đã làm ác hạnh về ý, chưa làm thiện hạnh về ý. Này Bà-la-môn, như vậy là do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục.
+
+Còn ở đây có người đã làm thiện hạnh về thân, chưa làm ác hạnh về thân; đã làm thiện hạnh về lời nói, chưa làm ác hạnh về lời nói; đã làm thiện hạnh về ý, chưa làm ác hạnh về ý. Này Bà-la-môn, như vậy là do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời."
+
+"Thật kỳ diệu thay, thưa Tôn giả Gotama!... Con xin quy y Tôn giả Gotama, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Gotama nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
 
 === AN 2.18
 
-#super[1] Rồi Tôn giả Ānanda đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Ānanda đang ngồi một bên: "Này Ānanda, Ta khẳng định một cách dứt khoát rằng ác hạnh về thân, ác hạnh về lời nói, ác hạnh về ý là những điều không nên làm." "Bạch Thế Tôn, khi ác hạnh về thân, lời nói, ý mà Thế Tôn đã khẳng định là không nên làm, nếu cứ làm thì tai hại nào có thể trông đợi?" "Này Ānanda, tai hại có thể trông đợi là: tự mình tự trách mình, những người trí sau khi xem xét sẽ chê trách, tiếng xấu sẽ lan truyền, người ấy sẽ chết trong mê muội, và sau khi thân hoại mạng chung sẽ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Này Ānanda, đó là tai hại có thể trông đợi." "Này Ānanda, Ta khẳng định một cách dứt khoát rằng thiện hạnh về thân, thiện hạnh về lời nói, thiện hạnh về ý là những điều nên làm." "Bạch Thế Tôn, khi thiện hạnh về thân, lời nói, ý mà Thế Tôn đã khẳng định là nên làm, nếu làm thì lợi ích nào có thể trông đợi?" "Này Ānanda, lợi ích có thể trông đợi là: tự mình không tự trách mình, những người trí sau khi xem xét sẽ khen ngợi, tiếng tốt sẽ lan truyền, người ấy sẽ chết không mê muội, và sau khi thân hoại mạng chung sẽ sinh vào cõi lành, cõi trời. Này Ānanda, đó là lợi ích có thể trông đợi."
+#super[1] Rồi Tôn giả Ānanda đến, đảnh lễ, ngồi sang một bên. Thế Tôn nói với Tôn giả Ānanda đang ngồi một bên: "Này Ānanda, Ta khẳng định một cách dứt khoát rằng ác hạnh về thân, ác hạnh về lời nói, ác hạnh về ý là những điều không nên làm."
+
+"Bạch Thế Tôn, khi ác hạnh về thân, lời nói, ý mà Thế Tôn đã khẳng định là không nên làm, nếu cứ làm thì tai hại nào có thể trông đợi?"
+
+"Này Ānanda, tai hại có thể trông đợi là: tự mình tự trách mình, những người trí sau khi xem xét sẽ chê trách, tiếng xấu sẽ lan truyền, người ấy sẽ chết trong mê muội, và sau khi thân hoại mạng chung sẽ sinh vào cõi dữ, ác thú, đọa xứ, địa ngục. Này Ānanda, đó là tai hại có thể trông đợi."
+
+"Này Ānanda, Ta khẳng định một cách dứt khoát rằng thiện hạnh về thân, thiện hạnh về lời nói, thiện hạnh về ý là những điều nên làm."
+
+"Bạch Thế Tôn, khi thiện hạnh về thân, lời nói, ý mà Thế Tôn đã khẳng định là nên làm, nếu làm thì lợi ích nào có thể trông đợi?"
+
+"Này Ānanda, lợi ích có thể trông đợi là: tự mình không tự trách mình, những người trí sau khi xem xét sẽ khen ngợi, tiếng tốt sẽ lan truyền, người ấy sẽ chết không mê muội, và sau khi thân hoại mạng chung sẽ sinh vào cõi lành, cõi trời. Này Ānanda, đó là lợi ích có thể trông đợi."
 
 === AN 2.19
 
-#super[1] "Này các thầy, hãy từ bỏ điều bất thiện. Có thể từ bỏ được điều bất thiện. Này các thầy, nếu không thể từ bỏ được điều bất thiện thì Ta đã không nói: 'Này các thầy, hãy từ bỏ điều bất thiện.' Nhưng vì có thể từ bỏ được, nên Ta nói vậy. Này các thầy, nếu việc từ bỏ điều bất thiện đưa đến bất lợi, khổ đau, thì Ta đã không nói vậy. Nhưng vì việc từ bỏ điều bất thiện đưa đến lợi ích, an lạc, nên Ta nói: 'Này các thầy, hãy từ bỏ điều bất thiện.' Này các thầy, hãy tu tập điều thiện. Có thể tu tập được điều thiện. Này các thầy, nếu không thể tu tập được điều thiện thì Ta đã không nói: 'Này các thầy, hãy tu tập điều thiện.' Nhưng vì có thể tu tập được, nên Ta nói vậy. Này các thầy, nếu việc tu tập điều thiện đưa đến bất lợi, khổ đau, thì Ta đã không nói vậy. Nhưng vì việc tu tập điều thiện đưa đến lợi ích, an lạc, nên Ta nói: 'Này các thầy, hãy tu tập điều thiện.'"
+#super[1] "Này các thầy, hãy từ bỏ điều bất thiện. Có thể từ bỏ được điều bất thiện. Này các thầy, nếu không thể từ bỏ được điều bất thiện thì Ta đã không nói: 'Này các thầy, hãy từ bỏ điều bất thiện.' Nhưng vì có thể từ bỏ được, nên Ta nói vậy. Này các thầy, nếu việc từ bỏ điều bất thiện đưa đến bất lợi, khổ đau, thì Ta đã không nói vậy. Nhưng vì việc từ bỏ điều bất thiện đưa đến lợi ích, an lạc, nên Ta nói: 'Này các thầy, hãy từ bỏ điều bất thiện.'
+
+Này các thầy, hãy tu tập điều thiện. Có thể tu tập được điều thiện. Này các thầy, nếu không thể tu tập được điều thiện thì Ta đã không nói: 'Này các thầy, hãy tu tập điều thiện.' Nhưng vì có thể tu tập được, nên Ta nói vậy. Này các thầy, nếu việc tu tập điều thiện đưa đến bất lợi, khổ đau, thì Ta đã không nói vậy. Nhưng vì việc tu tập điều thiện đưa đến lợi ích, an lạc, nên Ta nói: 'Này các thầy, hãy tu tập điều thiện.'"
 
 === AN 2.20
 
@@ -112,7 +196,9 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.22
 
-#super[1] "Này các thầy, có hai hạng người ngu này. Hai hạng nào? Người không thấy lỗi lầm là lỗi lầm, và người khi có ai chỉ ra lỗi lầm đúng pháp thì không chấp nhận. Này các thầy, đó là hai hạng người ngu. Này các thầy, có hai hạng người trí này. Hai hạng nào? Người thấy lỗi lầm là lỗi lầm, và người khi có ai chỉ ra lỗi lầm đúng pháp thì chấp nhận. Này các thầy, đó là hai hạng người trí."
+#super[1] "Này các thầy, có hai hạng người ngu này. Hai hạng nào? Người không thấy lỗi lầm là lỗi lầm, và người khi có ai chỉ ra lỗi lầm đúng pháp thì không chấp nhận. Này các thầy, đó là hai hạng người ngu.
+
+Này các thầy, có hai hạng người trí này. Hai hạng nào? Người thấy lỗi lầm là lỗi lầm, và người khi có ai chỉ ra lỗi lầm đúng pháp thì chấp nhận. Này các thầy, đó là hai hạng người trí."
 
 === AN 2.23
 
@@ -120,7 +206,9 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.24
 
-#super[1] "Này các thầy, có hai hạng người vu khống Như Lai. Hai hạng nào? Người trình bày điều Như Lai không nói, không thuyết là điều Như Lai đã nói, đã thuyết; và người trình bày điều Như Lai đã nói, đã thuyết là điều Như Lai không nói, không thuyết. Này các thầy, đó là hai hạng người vu khống Như Lai. Này các thầy, có hai hạng người không vu khống Như Lai. Hai hạng nào? Người trình bày điều Như Lai không nói, không thuyết đúng là điều Như Lai không nói, không thuyết; và người trình bày điều Như Lai đã nói, đã thuyết đúng là điều Như Lai đã nói, đã thuyết. Này các thầy, đó là hai hạng người không vu khống Như Lai."
+#super[1] "Này các thầy, có hai hạng người vu khống Như Lai. Hai hạng nào? Người trình bày điều Như Lai không nói, không thuyết là điều Như Lai đã nói, đã thuyết; và người trình bày điều Như Lai đã nói, đã thuyết là điều Như Lai không nói, không thuyết. Này các thầy, đó là hai hạng người vu khống Như Lai.
+
+Này các thầy, có hai hạng người không vu khống Như Lai. Hai hạng nào? Người trình bày điều Như Lai không nói, không thuyết đúng là điều Như Lai không nói, không thuyết; và người trình bày điều Như Lai đã nói, đã thuyết đúng là điều Như Lai đã nói, đã thuyết. Này các thầy, đó là hai hạng người không vu khống Như Lai."
 
 === AN 2.25
 
@@ -152,83 +240,211 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.32
 
-#super[1] "Này các thầy, có hai pháp này thuộc phần minh. Hai pháp nào? Chỉ và quán. Này các thầy, chỉ khi được tu tập thì đạt được lợi ích gì? Tâm được tu tập. Tâm được tu tập thì đạt được lợi ích gì? Tham được đoạn trừ. Này các thầy, quán khi được tu tập thì đạt được lợi ích gì? Tuệ được tu tập. Tuệ được tu tập thì đạt được lợi ích gì? Vô minh được đoạn trừ. Này các thầy, tâm bị ô nhiễm bởi tham thì không được giải thoát; tuệ bị ô nhiễm bởi vô minh thì không được tu tập. Như vậy, này các thầy, do ly tham mà có tâm giải thoát, do ly vô minh mà có tuệ giải thoát." (Hết phẩm thứ ba.)
+#super[1] "Này các thầy, có hai pháp này thuộc phần minh. Hai pháp nào? Chỉ và quán.
+
+Này các thầy, chỉ khi được tu tập thì đạt được lợi ích gì? Tâm được tu tập. Tâm được tu tập thì đạt được lợi ích gì? Tham được đoạn trừ.
+
+Này các thầy, quán khi được tu tập thì đạt được lợi ích gì? Tuệ được tu tập. Tuệ được tu tập thì đạt được lợi ích gì? Vô minh được đoạn trừ.
+
+Này các thầy, tâm bị ô nhiễm bởi tham thì không được giải thoát; tuệ bị ô nhiễm bởi vô minh thì không được tu tập. Như vậy, do ly tham mà có tâm giải thoát, do ly vô minh mà có tuệ giải thoát." (Hết phẩm thứ ba.)
 
 == 4. Tâm Bình Đẳng (Samacittavaggo)
 
 === AN 2.33
 
-#super[1] "Này các thầy, Ta sẽ thuyết giảng cho các thầy về cảnh giới kẻ phi chân nhân và cảnh giới bậc chân nhân. Hãy lắng nghe, khéo tác ý, Ta sẽ nói." "Xin vâng, bạch Thế Tôn", các Tỷ-kheo ấy đáp lại Thế Tôn. Thế Tôn nói như vầy: "Này các thầy, thế nào là cảnh giới kẻ phi chân nhân? Kẻ phi chân nhân là người vô ơn, không biết đền ơn. Này các thầy, sự vô ơn, không biết đền ơn ấy được những kẻ không chân chính ca ngợi. Này các thầy, đó hoàn toàn là cảnh giới kẻ phi chân nhân. Còn bậc chân nhân, này các thầy, là người biết ơn, biết đền ơn. Này các thầy, sự biết ơn, biết đền ơn ấy được các bậc chân chính ca ngợi. Này các thầy, đó hoàn toàn là cảnh giới bậc chân nhân."
+#super[1] "Này các thầy, Ta sẽ thuyết giảng cho các thầy về cảnh giới kẻ phi chân nhân và cảnh giới bậc chân nhân. Hãy lắng nghe, khéo tác ý, Ta sẽ nói." "Xin vâng, bạch Thế Tôn", các Tỷ-kheo ấy đáp lại Thế Tôn. Thế Tôn nói:
+
+"Này các thầy, thế nào là cảnh giới kẻ phi chân nhân? Kẻ phi chân nhân là người vô ơn, không biết đền ơn. Này các thầy, sự vô ơn, không biết đền ơn ấy được những kẻ không chân chính ca ngợi. Này các thầy, đó hoàn toàn là cảnh giới kẻ phi chân nhân.
+
+Còn bậc chân nhân, này các thầy, là người biết ơn, biết đền ơn. Này các thầy, sự biết ơn, biết đền ơn ấy được các bậc chân chính ca ngợi. Này các thầy, đó hoàn toàn là cảnh giới bậc chân nhân."
 
 === AN 2.34
 
-#super[1] "Này các thầy, Ta nói rằng có hai người mà không thể đền đáp dễ dàng. Hai người nào? Mẹ và cha. Này các thầy, dù có cõng mẹ trên một vai, cõng cha trên một vai, sống trọn trăm năm, rồi hầu hạ cha mẹ bằng cách thoa dầu, xoa bóp, tắm rửa, đấm bóp cho các ngài, dù các ngài có phóng uế ngay tại chỗ ấy, thì này các thầy, cũng chưa gọi là đã đền đáp ơn cha mẹ. Này các thầy, dù có tôn cha mẹ lên ngôi vị chúa tể, vua chủ trên toàn cõi đại địa đầy bảy báu này, thì cũng chưa gọi là đã đền đáp ơn cha mẹ. Vì sao vậy? Này các thầy, cha mẹ đã làm rất nhiều cho con cái — nuôi nấng, dưỡng dục, chỉ bày cho con cái thấy được cuộc đời này. Còn này các thầy, ai khuyến khích cha mẹ không có lòng tin an trú vào lòng tin đầy đủ, khuyến khích cha mẹ phá giới an trú vào giới hạnh đầy đủ, khuyến khích cha mẹ keo kiệt an trú vào bố thí đầy đủ, khuyến khích cha mẹ thiếu trí tuệ an trú vào trí tuệ đầy đủ — như vậy, này các thầy, mới gọi là đã làm và đã đền đáp trọn vẹn ơn cha mẹ."
+#super[1] "Này các thầy, Ta nói rằng có hai người mà không thể đền đáp dễ dàng. Hai người nào? Mẹ và cha.
+
+Này các thầy, dù có cõng mẹ trên một vai, cõng cha trên một vai, sống trọn trăm năm, rồi hầu hạ cha mẹ bằng cách thoa dầu, xoa bóp, tắm rửa, đấm bóp cho các ngài, dù các ngài có phóng uế ngay tại chỗ ấy, thì cũng chưa gọi là đã đền đáp ơn cha mẹ. Này các thầy, dù có tôn cha mẹ lên ngôi vị chúa tể, vua chủ trên toàn cõi đại địa đầy bảy báu này, thì cũng chưa gọi là đã đền đáp ơn cha mẹ. Vì sao vậy? Này các thầy, cha mẹ đã làm rất nhiều cho con cái — nuôi nấng, dưỡng dục, chỉ bày cho con cái thấy được cuộc đời này.
+
+Còn ai khuyến khích cha mẹ không có lòng tin an trú vào lòng tin đầy đủ, khuyến khích cha mẹ phá giới an trú vào giới hạnh đầy đủ, khuyến khích cha mẹ keo kiệt an trú vào bố thí đầy đủ, khuyến khích cha mẹ thiếu trí tuệ an trú vào trí tuệ đầy đủ — như vậy, này các thầy, mới gọi là đã làm và đã đền đáp trọn vẹn ơn cha mẹ."
 
 === AN 2.35
 
-#super[1] Rồi có một vị Bà-la-môn đi đến chỗ Thế Tôn; sau khi đến, vị ấy chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, vị Bà-la-môn ấy bạch Thế Tôn: "Tôn giả Gotama chủ trương thuyết gì, tuyên bố điều gì?" "Này Bà-la-môn, Ta vừa là người chủ trương có hành động, vừa là người chủ trương không có hành động." "Nhưng làm sao Tôn giả Gotama vừa chủ trương có hành động vừa chủ trương không có hành động được?" "Này Bà-la-môn, Ta tuyên bố không có hành động đối với ác hạnh về thân, lời nói, ý — Ta tuyên bố không có hành động đối với nhiều loại pháp ác bất thiện. Và Ta tuyên bố có hành động đối với thiện hạnh về thân, lời nói, ý — Ta tuyên bố có hành động đối với nhiều loại pháp thiện. Như vậy, này Bà-la-môn, Ta vừa là người chủ trương có hành động, vừa là người chủ trương không có hành động." "Thật kỳ diệu thay, thưa Tôn giả Gotama! Con xin quy y Tôn giả Gotama, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Gotama nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
+#super[1] Rồi có một vị Bà-la-môn đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Vị Bà-la-môn ấy bạch Thế Tôn: "Tôn giả Gotama chủ trương thuyết gì, tuyên bố điều gì?"
+
+"Này Bà-la-môn, Ta vừa là người chủ trương có hành động, vừa là người chủ trương không có hành động."
+
+"Nhưng làm sao Tôn giả Gotama vừa chủ trương có hành động vừa chủ trương không có hành động được?"
+
+"Này Bà-la-môn, Ta tuyên bố không có hành động đối với ác hạnh về thân, lời nói, ý — Ta tuyên bố không có hành động đối với nhiều loại pháp ác bất thiện. Và Ta tuyên bố có hành động đối với thiện hạnh về thân, lời nói, ý — Ta tuyên bố có hành động đối với nhiều loại pháp thiện. Như vậy, này Bà-la-môn, Ta vừa là người chủ trương có hành động, vừa là người chủ trương không có hành động."
+
+"Thật kỳ diệu thay, thưa Tôn giả Gotama! Con xin quy y Tôn giả Gotama, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Gotama nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
 
 === AN 2.36
 
-#super[1] Rồi gia chủ Anāthapiṇḍika đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, gia chủ Anāthapiṇḍika bạch Thế Tôn: "Bạch Thế Tôn, ở đời có bao nhiêu vị xứng đáng được cúng dường, và nên bố thí ở đâu?" "Này gia chủ, ở đời có hai hạng người xứng đáng được cúng dường: bậc hữu học, và bậc vô học. Này gia chủ, đó là hai hạng người xứng đáng được cúng dường ở đời, và nên bố thí ở đó." Thế Tôn đã nói như vậy. Nói xong, bậc Thiện Thệ, bậc Đạo Sư lại nói thêm: "Bậc hữu học và vô học ở đời này, đáng được những người tế lễ cúng dường; các vị ấy chân chính cả về thân, lời nói, và ý; đó là ruộng phước cho những người tế lễ, cúng dường nơi ấy có quả lớn."
+#super[1] Rồi gia chủ Anāthapiṇḍika đến, đảnh lễ, ngồi sang một bên. Gia chủ Anāthapiṇḍika bạch Thế Tôn: "Bạch Thế Tôn, ở đời có bao nhiêu vị xứng đáng được cúng dường, và nên bố thí ở đâu?"
+
+"Này gia chủ, ở đời có hai hạng người xứng đáng được cúng dường: bậc hữu học, và bậc vô học. Này gia chủ, đó là hai hạng người xứng đáng được cúng dường ở đời, và nên bố thí ở đó."
+
+Thế Tôn đã nói như vậy. Nói xong, bậc Thiện Thệ, bậc Đạo Sư lại nói thêm bài kệ:
+
+"Bậc hữu học và vô học ở đời này, \
+đáng được người tế lễ cúng dường; \
+các vị ấy chân chính cả thân, lời, ý — \
+đó là ruộng phước cho người tế lễ, \
+cúng dường nơi ấy được quả lớn."
 
 === AN 2.37
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta trú ở Sāvatthī, tại giảng đường Đông Viên, lâu đài của Migāramātā. Tại đó, Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." "Thưa hiền giả", các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta. Tôn giả Sāriputta nói như vầy: "Này chư hiền, tôi sẽ thuyết giảng về người bị trói buộc nội tại và người bị trói buộc ngoại tại. Hãy lắng nghe, khéo tác ý, tôi sẽ nói." "Xin vâng, thưa hiền giả", các Tỷ-kheo ấy đáp lại. Tôn giả Sāriputta nói như vầy: "Này chư hiền, thế nào là người bị trói buộc nội tại? Ở đây, này chư hiền, có vị Tỷ-kheo có giới hạnh, sống chế ngự trong sự phòng hộ giới bổn Pātimokkha, đầy đủ oai nghi chánh hạnh, thấy sự đáng sợ trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó. Từ đó mệnh chung, vị ấy còn trở lại, trở lại cõi này. Này chư hiền, đó gọi là người bị trói buộc nội tại, còn trở lại cõi này. Này chư hiền, thế nào là người bị trói buộc ngoại tại? Ở đây, này chư hiền, có vị Tỷ-kheo có giới hạnh như trên, chứng đạt và an trú trong một tâm giải thoát an tịnh nào đó. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó. Từ đó mệnh chung, vị ấy không còn trở lại cõi này. Này chư hiền, đó gọi là người bị trói buộc ngoại tại, không còn trở lại cõi này. Lại nữa, này chư hiền, có vị Tỷ-kheo có giới hạnh như trên. Vị ấy thực hành để nhàm chán, ly tham, đoạn diệt đối với các dục; thực hành để nhàm chán, ly tham, đoạn diệt đối với các hữu; thực hành để đoạn tận ái; thực hành để đoạn tận tham. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó, rồi từ đó mệnh chung, không còn trở lại cõi này. Này chư hiền, đó cũng gọi là người bị trói buộc ngoại tại, không còn trở lại cõi này." Rồi một số đông chư thiên có tâm bình đẳng đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Đứng một bên, các vị chư thiên ấy bạch Thế Tôn: "Bạch Thế Tôn, Tôn giả Sāriputta đang thuyết giảng cho các Tỷ-kheo tại giảng đường Đông Viên về người bị trói buộc nội tại và ngoại tại. Bạch Thế Tôn, hội chúng ấy rất hoan hỷ. Lành thay, bạch Thế Tôn, xin Thế Tôn hãy vì lòng thương tưởng mà đi đến chỗ Tôn giả Sāriputta." Thế Tôn im lặng nhận lời. Rồi Thế Tôn — giống như một người có sức mạnh duỗi thẳng cánh tay đang co lại, hay co lại cánh tay đang duỗi thẳng — đã biến mất tại Jetavana và hiện ra trước mặt Tôn giả Sāriputta tại giảng đường Đông Viên. Thế Tôn ngồi xuống chỗ đã soạn sẵn. Tôn giả Sāriputta cũng đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Sāriputta đang ngồi một bên: "Này Sāriputta, có một số đông chư thiên có tâm bình đẳng đã đi đến chỗ Ta, thưa với Ta y như vậy. Này Sāriputta, các vị chư thiên ấy đứng thành mười vị, hai mươi vị, ba mươi vị, bốn mươi vị, năm mươi vị, sáu mươi vị, mà vẫn chỉ chiếm một khoảng không gian nhỏ bằng đầu mũi dùi, không hề chen lấn lẫn nhau. Này Sāriputta, có lẽ ông nghĩ rằng: 'Chắc hẳn tâm của các vị chư thiên ấy đã được tu tập từ trước, đến mức có thể đứng như vậy mà không chen lấn.' Nhưng này Sāriputta, không nên hiểu như vậy. Chính ngay tại đây, này Sāriputta, tâm của các vị chư thiên ấy đã được tu tập đến mức như vậy. Vì vậy, này Sāriputta, các thầy cần tu học như vầy: 'Chúng ta sẽ có các căn an tịnh, có tâm ý an tịnh.' Này Sāriputta, các thầy cần tu học như vậy. Đối với những ai có các căn an tịnh, có tâm ý an tịnh, thì hành vi về thân, lời nói, ý cũng đều an tịnh; chúng ta sẽ chỉ đem đến cho các vị đồng phạm hạnh những gì an tịnh mà thôi. Này Sāriputta, các thầy cần tu học như vậy. Này Sāriputta, các du sĩ ngoại đạo khác hẳn sẽ mất mát nếu không được nghe pháp môn này."
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, Jetavana, vườn ông Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta trú ở Sāvatthī, tại giảng đường Đông Viên, lâu đài của Migāramātā. Tại đó, Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." "Thưa hiền giả", các Tỷ-kheo ấy đáp lại. Tôn giả Sāriputta nói: "Này chư hiền, tôi sẽ thuyết giảng về người bị trói buộc nội tại và người bị trói buộc ngoại tại. Hãy lắng nghe, khéo tác ý, tôi sẽ nói." "Xin vâng, thưa hiền giả", các Tỷ-kheo ấy đáp lại. Tôn giả Sāriputta nói:
+
+"Này chư hiền, thế nào là người bị trói buộc nội tại? Ở đây có vị Tỷ-kheo có giới hạnh, sống chế ngự trong sự phòng hộ giới bổn Pātimokkha, đầy đủ oai nghi chánh hạnh, thấy sự đáng sợ trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó. Từ đó mệnh chung, vị ấy còn trở lại, trở lại cõi này. Này chư hiền, đó gọi là người bị trói buộc nội tại, còn trở lại cõi này.
+
+Này chư hiền, thế nào là người bị trói buộc ngoại tại? Ở đây có vị Tỷ-kheo có giới hạnh như trên, chứng đạt và an trú trong một tâm giải thoát an tịnh nào đó. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó. Từ đó mệnh chung, vị ấy không còn trở lại cõi này. Này chư hiền, đó gọi là người bị trói buộc ngoại tại, không còn trở lại cõi này.
+
+Lại nữa, này chư hiền, có vị Tỷ-kheo có giới hạnh như trên. Vị ấy thực hành để nhàm chán, ly tham, đoạn diệt đối với các dục; thực hành để nhàm chán, ly tham, đoạn diệt đối với các hữu; thực hành để đoạn tận ái; thực hành để đoạn tận tham. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó, rồi từ đó mệnh chung, không còn trở lại cõi này. Này chư hiền, đó cũng gọi là người bị trói buộc ngoại tại, không còn trở lại cõi này."
+
+Rồi một số đông chư thiên có tâm bình đẳng đến gặp Thế Tôn, đảnh lễ, đứng sang một bên, bạch Thế Tôn: "Bạch Thế Tôn, Tôn giả Sāriputta đang thuyết giảng cho các Tỷ-kheo tại giảng đường Đông Viên về người bị trói buộc nội tại và ngoại tại. Bạch Thế Tôn, hội chúng ấy rất hoan hỷ. Lành thay, bạch Thế Tôn, xin Thế Tôn hãy vì lòng thương tưởng mà đi đến chỗ Tôn giả Sāriputta." Thế Tôn im lặng nhận lời.
+
+Rồi Thế Tôn — giống như một người có sức mạnh duỗi thẳng cánh tay đang co lại, hay co lại cánh tay đang duỗi thẳng — đã biến mất tại Jetavana và hiện ra trước mặt Tôn giả Sāriputta tại giảng đường Đông Viên. Thế Tôn ngồi xuống chỗ đã soạn sẵn. Tôn giả Sāriputta cũng đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Sāriputta đang ngồi một bên:
+
+"Này Sāriputta, có một số đông chư thiên có tâm bình đẳng đã đi đến chỗ Ta, thưa với Ta y như vậy. Này Sāriputta, các vị chư thiên ấy đứng thành mười vị, hai mươi vị, ba mươi vị, bốn mươi vị, năm mươi vị, sáu mươi vị, mà vẫn chỉ chiếm một khoảng không gian nhỏ bằng đầu mũi dùi, không hề chen lấn lẫn nhau. Này Sāriputta, có lẽ ông nghĩ rằng: 'Chắc hẳn tâm của các vị chư thiên ấy đã được tu tập từ trước, đến mức có thể đứng như vậy mà không chen lấn.' Nhưng này Sāriputta, không nên hiểu như vậy. Chính ngay tại đây, tâm của các vị chư thiên ấy đã được tu tập đến mức như vậy.
+
+Vì vậy, này Sāriputta, các thầy hãy học như vầy: 'Chúng ta sẽ có các căn an tịnh, có tâm ý an tịnh.' Này Sāriputta, các thầy hãy học như vậy. Đối với những ai có các căn an tịnh, có tâm ý an tịnh, thì hành vi về thân, lời nói, ý cũng đều an tịnh; chúng ta sẽ chỉ đem đến cho các vị đồng phạm hạnh những gì an tịnh mà thôi. Này Sāriputta, các thầy hãy học như vậy. Này Sāriputta, các du sĩ ngoại đạo khác hẳn sẽ mất mát nếu không được nghe pháp môn này."
 
 === AN 2.38
 
-#super[1] Tôi nghe như vầy: một thời Tôn giả Mahākaccāna trú ở Varaṇā, bên bờ sông Kaddamadaha. Rồi Bà-la-môn Ārāmadaṇḍa đi đến chỗ Tôn giả Mahākaccāna; sau khi đến, chào hỏi Tôn giả Mahākaccāna. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Ārāmadaṇḍa thưa với Tôn giả Mahākaccāna: "Thưa Tôn giả Kaccāna, do nhân gì, do duyên gì mà các Sát-đế-lỵ tranh chấp với các Sát-đế-lỵ, các Bà-la-môn tranh chấp với các Bà-la-môn, các gia chủ tranh chấp với các gia chủ?" "Này Bà-la-môn, chính do sự đắm say, trói buộc, tham luyến, mê mẩn, chấp chặt vào dục tham mà các Sát-đế-lỵ tranh chấp với các Sát-đế-lỵ, các Bà-la-môn tranh chấp với các Bà-la-môn, các gia chủ tranh chấp với các gia chủ." "Thưa Tôn giả Kaccāna, vậy do nhân gì mà các Sa-môn tranh chấp với các Sa-môn?" "Này Bà-la-môn, chính do sự đắm say, trói buộc, tham luyến, mê mẩn, chấp chặt vào kiến tham mà các Sa-môn tranh chấp với các Sa-môn." "Thưa Tôn giả Kaccāna, vậy có ai ở đời đã vượt qua cả sự đắm say vào dục tham lẫn kiến tham này không?" "Này Bà-la-môn, có người ở đời đã vượt qua cả hai điều ấy." "Người ấy là ai?" "Này Bà-la-môn, ở phương Đông có một thành phố tên là Sāvatthī. Tại đó, hiện nay Thế Tôn đang trú, bậc A-la-hán, Chánh Đẳng Giác. Chính Thế Tôn ấy đã vượt qua cả hai điều ấy." Nghe vậy, Bà-la-môn Ārāmadaṇḍa đứng dậy khỏi chỗ ngồi, đắp y vai trái, quỳ gối phải xuống đất, chắp tay hướng về Thế Tôn, thốt lên lời cảm hứng ba lần: "Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy!" "Thật kỳ diệu thay, thưa Tôn giả Kaccāna! Con xin quy y Thế Tôn Gotama ấy, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Kaccāna nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
+#super[1] Tôi nghe như vầy. Một thời, Tôn giả Mahākaccāna trú tại Varaṇā, bên bờ sông Kaddamadaha. Rồi Bà-la-môn Ārāmadaṇḍa đến gặp Tôn giả Mahākaccāna, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Bà-la-môn Ārāmadaṇḍa thưa với Tôn giả Mahākaccāna: "Thưa Tôn giả Kaccāna, do nhân gì, do duyên gì mà các Sát-đế-lỵ tranh chấp với các Sát-đế-lỵ, các Bà-la-môn tranh chấp với các Bà-la-môn, các gia chủ tranh chấp với các gia chủ?"
+
+"Này Bà-la-môn, chính do sự đắm say, trói buộc, tham luyến, mê mẩn, chấp chặt vào dục tham mà các Sát-đế-lỵ tranh chấp với các Sát-đế-lỵ, các Bà-la-môn tranh chấp với các Bà-la-môn, các gia chủ tranh chấp với các gia chủ."
+
+"Thưa Tôn giả Kaccāna, vậy do nhân gì mà các Sa-môn tranh chấp với các Sa-môn?"
+
+"Này Bà-la-môn, chính do sự đắm say, trói buộc, tham luyến, mê mẩn, chấp chặt vào kiến tham mà các Sa-môn tranh chấp với các Sa-môn."
+
+"Thưa Tôn giả Kaccāna, vậy có ai ở đời đã vượt qua cả sự đắm say vào dục tham lẫn kiến tham này không?"
+
+"Này Bà-la-môn, có người ở đời đã vượt qua cả hai điều ấy."
+
+"Người ấy là ai?"
+
+"Này Bà-la-môn, ở phương Đông có một thành phố tên là Sāvatthī. Tại đó, hiện nay Thế Tôn đang trú, bậc A-la-hán, Chánh Đẳng Giác. Chính Thế Tôn ấy đã vượt qua cả hai điều ấy."
+
+Nghe vậy, Bà-la-môn Ārāmadaṇḍa đứng dậy khỏi chỗ ngồi, đắp y vai trái, quỳ gối phải xuống đất, chắp tay hướng về Thế Tôn, thốt lên lời cảm hứng ba lần: "Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy!" Rồi thưa: "Thật kỳ diệu thay, thưa Tôn giả Kaccāna! Con xin quy y Thế Tôn Gotama ấy, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Kaccāna nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
 
 === AN 2.39
 
-#super[1] Một thời Tôn giả Mahākaccāna trú ở Madhurā, tại rừng Gundā. Rồi Bà-la-môn Kandarāyana đi đến chỗ Tôn giả Mahākaccāna, chào hỏi rồi ngồi xuống một bên, thưa rằng: "Thưa Tôn giả Kaccāna, tôi nghe nói Sa-môn Kaccāna không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều. Điều ấy có đúng như vậy không? Đó thật là điều không phải phép." "Này Bà-la-môn, Thế Tôn, bậc biết, bậc thấy, A-la-hán, Chánh Đẳng Giác, đã tuyên bố có địa vị bậc trưởng lão và địa vị người trẻ tuổi. Này Bà-la-môn, dù là người già, tám mươi tuổi, chín mươi tuổi, hay trăm tuổi tính theo năm sinh, nhưng nếu người ấy vẫn còn hưởng thụ các dục, sống chìm đắm trong các dục, bị thiêu đốt bởi nhiệt não của dục, bị gặm nhấm bởi các tầm cầu về dục, hăng hái tìm kiếm dục lạc — thì người ấy chỉ được xem là kẻ ngu, không được kể vào hàng trưởng lão. Còn này Bà-la-môn, dù là người trẻ, còn thanh niên, tóc đen nhánh, đang ở tuổi thanh xuân tươi đẹp, trong giai đoạn đầu của cuộc đời, nhưng nếu người ấy không hưởng thụ các dục, không sống chìm đắm trong các dục, không bị thiêu đốt bởi nhiệt não của dục, không bị gặm nhấm bởi các tầm cầu về dục, không hăng hái tìm kiếm dục lạc — thì người ấy được xem là bậc trí, được kể vào hàng trưởng lão." Nghe vậy, Bà-la-môn Kandarāyana đứng dậy khỏi chỗ ngồi, đắp y vai trái, rồi cúi đầu đảnh lễ dưới chân một trăm vị Tỷ-kheo trẻ tuổi, nói rằng: "Các ngài là bậc trưởng lão, đang an trú ở địa vị trưởng lão. Còn chúng tôi là kẻ trẻ tuổi, đang ở địa vị người trẻ tuổi." "Thật kỳ diệu thay, thưa Tôn giả Kaccāna! Mong Tôn giả Kaccāna nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
+#super[1] Một thời Tôn giả Mahākaccāna trú ở Madhurā, tại rừng Gundā. Rồi Bà-la-môn Kandarāyana đến gặp Tôn giả Mahākaccāna, chào hỏi rồi ngồi xuống một bên, thưa rằng: "Thưa Tôn giả Kaccāna, tôi nghe nói Sa-môn Kaccāna không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều. Điều ấy có đúng như vậy không? Đó thật là điều không phải phép."
+
+"Này Bà-la-môn, Thế Tôn, bậc biết, bậc thấy, A-la-hán, Chánh Đẳng Giác, đã tuyên bố có địa vị bậc trưởng lão và địa vị người trẻ tuổi.
+
+Này Bà-la-môn, dù là người già, tám mươi tuổi, chín mươi tuổi, hay trăm tuổi tính theo năm sinh, nhưng nếu người ấy vẫn còn hưởng thụ các dục, sống chìm đắm trong các dục, bị thiêu đốt bởi nhiệt não của dục, bị gặm nhấm bởi các tầm cầu về dục, hăng hái tìm kiếm dục lạc — thì người ấy chỉ được xem là kẻ ngu, không được kể vào hàng trưởng lão.
+
+Còn dù là người trẻ, còn thanh niên, tóc đen nhánh, đang ở tuổi thanh xuân tươi đẹp, trong giai đoạn đầu của cuộc đời, nhưng nếu người ấy không hưởng thụ các dục, không sống chìm đắm trong các dục, không bị thiêu đốt bởi nhiệt não của dục, không bị gặm nhấm bởi các tầm cầu về dục, không hăng hái tìm kiếm dục lạc — thì người ấy được xem là bậc trí, được kể vào hàng trưởng lão."
+
+Nghe vậy, Bà-la-môn Kandarāyana đứng dậy khỏi chỗ ngồi, đắp y vai trái, rồi cúi đầu đảnh lễ dưới chân một trăm vị Tỷ-kheo trẻ tuổi, nói rằng: "Các ngài là bậc trưởng lão, đang an trú ở địa vị trưởng lão. Còn chúng tôi là kẻ trẻ tuổi, đang ở địa vị người trẻ tuổi." Rồi thưa: "Thật kỳ diệu thay, thưa Tôn giả Kaccāna! Mong Tôn giả Kaccāna nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
 
 === AN 2.40
 
-#super[1] "Này các thầy, vào thời mà bọn trộm cướp mạnh mẽ, thì vào lúc ấy các vua chúa yếu kém. Vào thời ấy, vua chúa không thể thong dong ra vào, không thể đi thị sát các vùng biên địa; các vị Bà-la-môn, gia chủ cũng không thể thong dong ra vào, không thể đi kiểm tra công việc bên ngoài. Cũng vậy, này các thầy, vào thời mà các Tỷ-kheo xấu ác mạnh mẽ, thì vào lúc ấy các Tỷ-kheo hiền thiện yếu kém. Vào thời ấy, các Tỷ-kheo hiền thiện im lặng, cứ im lặng mà thu mình giữa Tăng chúng, hoặc sống ẩn dật ở những vùng biên địa. Điều này đưa đến bất lợi cho số đông, đưa đến an lạc không đến với số đông, đưa đến tổn hại, bất lợi, khổ đau cho chư thiên và loài người. Này các thầy, vào thời mà vua chúa mạnh mẽ, thì vào lúc ấy bọn trộm cướp yếu kém. Vào thời ấy, vua chúa có thể thong dong ra vào, có thể đi thị sát các vùng biên địa; các vị Bà-la-môn, gia chủ cũng có thể thong dong ra vào, có thể đi kiểm tra công việc bên ngoài. Cũng vậy, này các thầy, vào thời mà các Tỷ-kheo hiền thiện mạnh mẽ, thì vào lúc ấy các Tỷ-kheo xấu ác yếu kém. Vào thời ấy, các Tỷ-kheo xấu ác im lặng, cứ im lặng mà thu mình giữa Tăng chúng, hoặc bỏ đi nơi khác. Điều này đưa đến lợi ích cho số đông, đưa đến an lạc cho số đông, đưa đến lợi ích, hạnh phúc, an lạc cho chư thiên và loài người."
+#super[1] "Này các thầy, vào thời mà bọn trộm cướp mạnh mẽ, thì vào lúc ấy các vua chúa yếu kém. Vào thời ấy, vua chúa không thể thong dong ra vào, không thể đi thị sát các vùng biên địa; các vị Bà-la-môn, gia chủ cũng không thể thong dong ra vào, không thể đi kiểm tra công việc bên ngoài.
+
+Cũng vậy, này các thầy, vào thời mà các Tỷ-kheo xấu ác mạnh mẽ, thì vào lúc ấy các Tỷ-kheo hiền thiện yếu kém. Vào thời ấy, các Tỷ-kheo hiền thiện im lặng, cứ im lặng mà thu mình giữa Tăng chúng, hoặc sống ẩn dật ở những vùng biên địa. Điều này đưa đến bất lợi cho số đông, đưa đến an lạc không đến với số đông, đưa đến tổn hại, bất lợi, khổ đau cho chư thiên và loài người.
+
+Này các thầy, vào thời mà vua chúa mạnh mẽ, thì vào lúc ấy bọn trộm cướp yếu kém. Vào thời ấy, vua chúa có thể thong dong ra vào, có thể đi thị sát các vùng biên địa; các vị Bà-la-môn, gia chủ cũng có thể thong dong ra vào, có thể đi kiểm tra công việc bên ngoài.
+
+Cũng vậy, này các thầy, vào thời mà các Tỷ-kheo hiền thiện mạnh mẽ, thì vào lúc ấy các Tỷ-kheo xấu ác yếu kém. Vào thời ấy, các Tỷ-kheo xấu ác im lặng, cứ im lặng mà thu mình giữa Tăng chúng, hoặc bỏ đi nơi khác. Điều này đưa đến lợi ích cho số đông, đưa đến an lạc cho số đông, đưa đến lợi ích, hạnh phúc, an lạc cho chư thiên và loài người."
 
 === AN 2.41
 
-#super[1] "Này các thầy, Ta không tán thành sự thực hành sai lạc của cả người tại gia lẫn người xuất gia. Này các thầy, dù là người tại gia hay người xuất gia, thực hành sai lạc thì do sự thực hành sai lạc ấy làm nhân, không thể thành tựu được chánh lý, thiện pháp. Này các thầy, Ta tán thành sự thực hành chân chánh của cả người tại gia lẫn người xuất gia. Này các thầy, dù là người tại gia hay người xuất gia, thực hành chân chánh thì do sự thực hành chân chánh ấy làm nhân, có thể thành tựu được chánh lý, thiện pháp."
+#super[1] "Này các thầy, Ta không tán thành sự thực hành sai lạc của cả người tại gia lẫn người xuất gia. Dù là người tại gia hay người xuất gia, thực hành sai lạc thì do sự thực hành sai lạc ấy làm nhân, không thể thành tựu được chánh lý, thiện pháp.
+
+Này các thầy, Ta tán thành sự thực hành chân chánh của cả người tại gia lẫn người xuất gia. Dù là người tại gia hay người xuất gia, thực hành chân chánh thì do sự thực hành chân chánh ấy làm nhân, có thể thành tựu được chánh lý, thiện pháp."
 
 === AN 2.42
 
-#super[1] "Này các thầy, những Tỷ-kheo nào, vì nắm giữ sai những bài kinh với câu chữ na ná giống nhau, mà làm sai lạc ý nghĩa và Chánh pháp, những Tỷ-kheo ấy thực hành vì bất lợi cho số đông, vì an lạc không đến với số đông, vì tổn hại, bất lợi, khổ đau cho số đông chư thiên và loài người. Này các thầy, những Tỷ-kheo ấy tạo ra nhiều điều vô phước, và chính họ khiến cho Chánh pháp này biến mất. Này các thầy, những Tỷ-kheo nào, nhờ nắm giữ đúng những bài kinh với câu chữ na ná giống nhau, mà thuận theo đúng ý nghĩa và Chánh pháp, những Tỷ-kheo ấy thực hành vì lợi ích cho số đông, vì an lạc cho số đông, vì lợi ích, hạnh phúc, an lạc cho số đông chư thiên và loài người. Này các thầy, những Tỷ-kheo ấy tạo ra nhiều phước đức, và chính họ giữ vững Chánh pháp này." (Hết phẩm thứ tư.)
+#super[1] "Này các thầy, những Tỷ-kheo nào, vì nắm giữ sai những bài kinh với câu chữ na ná giống nhau, mà làm sai lạc ý nghĩa và Chánh pháp, những Tỷ-kheo ấy thực hành vì bất lợi cho số đông, vì an lạc không đến với số đông, vì tổn hại, bất lợi, khổ đau cho số đông chư thiên và loài người. Này các thầy, những Tỷ-kheo ấy tạo ra nhiều điều vô phước, và chính họ khiến cho Chánh pháp này biến mất.
+
+Này các thầy, những Tỷ-kheo nào, nhờ nắm giữ đúng những bài kinh với câu chữ na ná giống nhau, mà thuận theo đúng ý nghĩa và Chánh pháp, những Tỷ-kheo ấy thực hành vì lợi ích cho số đông, vì an lạc cho số đông, vì lợi ích, hạnh phúc, an lạc cho số đông chư thiên và loài người. Này các thầy, những Tỷ-kheo ấy tạo ra nhiều phước đức, và chính họ giữ vững Chánh pháp này." (Hết phẩm thứ tư.)
 
 == 5. Hội Chúng (Parisavaggo)
 
 === AN 2.43
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng nông cạn, và hội chúng thâm sâu. Này các thầy, thế nào là hội chúng nông cạn? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo kiêu căng, ngạo mạn, khinh suất, lắm lời, nói năng tùy tiện, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn, các căn buông thả — này các thầy, đó gọi là hội chúng nông cạn. Này các thầy, thế nào là hội chúng thâm sâu? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không kiêu căng, không ngạo mạn, không khinh suất, không lắm lời, không nói năng tùy tiện, có niệm hiện tiền, tỉnh giác, định tĩnh, nhất tâm, các căn được chế ngự — này các thầy, đó gọi là hội chúng thâm sâu. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng thâm sâu là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng nông cạn, và hội chúng thâm sâu.
+
+Này các thầy, thế nào là hội chúng nông cạn? Ở đây, trong hội chúng nào mà các Tỷ-kheo kiêu căng, ngạo mạn, khinh suất, lắm lời, nói năng tùy tiện, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn, các căn buông thả — đó gọi là hội chúng nông cạn.
+
+Này các thầy, thế nào là hội chúng thâm sâu? Ở đây, trong hội chúng nào mà các Tỷ-kheo không kiêu căng, không ngạo mạn, không khinh suất, không lắm lời, không nói năng tùy tiện, có niệm hiện tiền, tỉnh giác, định tĩnh, nhất tâm, các căn được chế ngự — đó gọi là hội chúng thâm sâu.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng thâm sâu là hạng nhất."
 
 === AN 2.44
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng chia rẽ, và hội chúng hòa hợp. Này các thầy, thế nào là hội chúng chia rẽ? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo sinh sự tranh cãi, sinh sự cãi vã, rơi vào tranh chấp, đâm chọc nhau bằng những lời như gươm đao — này các thầy, đó gọi là hội chúng chia rẽ. Này các thầy, thế nào là hội chúng hòa hợp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo hòa hợp, hoan hỷ với nhau, không tranh cãi, hòa quyện như nước với sữa, nhìn nhau bằng ánh mắt thân ái — này các thầy, đó gọi là hội chúng hòa hợp. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng hòa hợp là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng chia rẽ, và hội chúng hòa hợp.
+
+Này các thầy, thế nào là hội chúng chia rẽ? Ở đây, trong hội chúng nào mà các Tỷ-kheo sinh sự tranh cãi, sinh sự cãi vã, rơi vào tranh chấp, đâm chọc nhau bằng những lời như gươm đao — đó gọi là hội chúng chia rẽ.
+
+Này các thầy, thế nào là hội chúng hòa hợp? Ở đây, trong hội chúng nào mà các Tỷ-kheo hòa hợp, hoan hỷ với nhau, không tranh cãi, hòa quyện như nước với sữa, nhìn nhau bằng ánh mắt thân ái — đó gọi là hội chúng hòa hợp.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng hòa hợp là hạng nhất."
 
 === AN 2.45
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng không hạng nhất, và hội chúng hạng nhất. Này các thầy, thế nào là hội chúng không hạng nhất? Ở đây, này các thầy, trong hội chúng nào mà các vị trưởng lão sống xa hoa, biếng nhác, dẫn đầu trong sự thoái hóa, bỏ bê hạnh viễn ly, không phát khởi tinh tấn để đạt được điều chưa đạt, để chứng được điều chưa chứng, để thực chứng điều chưa thực chứng — thì thế hệ sau noi theo cách nhìn ấy, cũng trở nên như vậy. Này các thầy, đó gọi là hội chúng không hạng nhất. Này các thầy, thế nào là hội chúng hạng nhất? Ở đây, này các thầy, trong hội chúng nào mà các vị trưởng lão không sống xa hoa, không biếng nhác, buông bỏ sự thoái hóa, dẫn đầu trong hạnh viễn ly, phát khởi tinh tấn để đạt được điều chưa đạt — thì thế hệ sau noi theo cách nhìn ấy, cũng trở nên như vậy. Này các thầy, đó gọi là hội chúng hạng nhất. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng hạng nhất là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng không hạng nhất, và hội chúng hạng nhất.
+
+Này các thầy, thế nào là hội chúng không hạng nhất? Ở đây, trong hội chúng nào mà các vị trưởng lão sống xa hoa, biếng nhác, dẫn đầu trong sự thoái hóa, bỏ bê hạnh viễn ly, không phát khởi tinh tấn để đạt được điều chưa đạt, để chứng được điều chưa chứng, để thực chứng điều chưa thực chứng — thì thế hệ sau noi theo cách nhìn ấy, cũng trở nên như vậy. Đó gọi là hội chúng không hạng nhất.
+
+Này các thầy, thế nào là hội chúng hạng nhất? Ở đây, trong hội chúng nào mà các vị trưởng lão không sống xa hoa, không biếng nhác, buông bỏ sự thoái hóa, dẫn đầu trong hạnh viễn ly, phát khởi tinh tấn để đạt được điều chưa đạt — thì thế hệ sau noi theo cách nhìn ấy, cũng trở nên như vậy. Đó gọi là hội chúng hạng nhất.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng hạng nhất là hạng nhất."
 
 === AN 2.46
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng không phải bậc Thánh, và hội chúng bậc Thánh. Này các thầy, thế nào là hội chúng không phải bậc Thánh? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không như thật biết rõ bốn sự thật: đây là khổ, đây là nguồn gốc của khổ, đây là sự đoạn diệt khổ, đây là con đường đưa đến sự đoạn diệt khổ — này các thầy, đó gọi là hội chúng không phải bậc Thánh. Này các thầy, thế nào là hội chúng bậc Thánh? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo như thật biết rõ bốn sự thật ấy — này các thầy, đó gọi là hội chúng bậc Thánh. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng bậc Thánh là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng không phải bậc Thánh, và hội chúng bậc Thánh.
+
+Này các thầy, thế nào là hội chúng không phải bậc Thánh? Ở đây, trong hội chúng nào mà các Tỷ-kheo không như thật biết rõ bốn sự thật: đây là khổ, đây là nguồn gốc của khổ, đây là sự đoạn diệt khổ, đây là con đường đưa đến sự đoạn diệt khổ — đó gọi là hội chúng không phải bậc Thánh.
+
+Này các thầy, thế nào là hội chúng bậc Thánh? Ở đây, trong hội chúng nào mà các Tỷ-kheo như thật biết rõ bốn sự thật ấy — đó gọi là hội chúng bậc Thánh.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng bậc Thánh là hạng nhất."
 
 === AN 2.47
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng cặn bã, và hội chúng tinh túy. Này các thầy, thế nào là hội chúng cặn bã? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo thiên vị vì ưa thích, thiên vị vì sân hận, thiên vị vì si mê, thiên vị vì sợ hãi — này các thầy, đó gọi là hội chúng cặn bã. Này các thầy, thế nào là hội chúng tinh túy? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không thiên vị vì ưa thích, sân hận, si mê, hay sợ hãi — này các thầy, đó gọi là hội chúng tinh túy. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng tinh túy là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng cặn bã, và hội chúng tinh túy.
+
+Này các thầy, thế nào là hội chúng cặn bã? Ở đây, trong hội chúng nào mà các Tỷ-kheo thiên vị vì ưa thích, thiên vị vì sân hận, thiên vị vì si mê, thiên vị vì sợ hãi — đó gọi là hội chúng cặn bã.
+
+Này các thầy, thế nào là hội chúng tinh túy? Ở đây, trong hội chúng nào mà các Tỷ-kheo không thiên vị vì ưa thích, sân hận, si mê, hay sợ hãi — đó gọi là hội chúng tinh túy.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng tinh túy là hạng nhất."
 
 === AN 2.48
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng được huấn luyện bằng cách áp đặt, không phải bằng cách chất vấn; và hội chúng được huấn luyện bằng cách chất vấn, không phải bằng cách áp đặt. Này các thầy, thế nào là hội chúng được huấn luyện bằng cách áp đặt? Ở đây, này các thầy, trong hội chúng nào mà khi những bài kinh do Như Lai thuyết, thâm sâu, ý nghĩa thâm sâu, siêu thế, liên hệ đến tánh Không, được đọc tụng, các Tỷ-kheo không muốn nghe, không lắng tai, không chú tâm để hiểu rõ, không xem đó là những pháp cần học thuộc; nhưng khi những bài kinh do các đệ tử soạn ra, có tính thi phú, dùng từ ngữ hoa mỹ, câu chữ chải chuốt, thuộc ngoại điển, được đọc tụng, thì họ lại muốn nghe, lắng tai, chú tâm, xem đó là những pháp cần học thuộc. Sau khi học thuộc, họ không hỏi lẫn nhau, không xem xét kỹ càng: 'Điều này nghĩa là gì?' Họ không mở ra những gì chưa được mở ra, không xua tan mối nghi ngờ. Này các thầy, đó gọi là hội chúng được huấn luyện bằng cách áp đặt. Này các thầy, thế nào là hội chúng được huấn luyện bằng cách chất vấn? Ở đây, này các thầy, trong hội chúng nào mà thái độ hoàn toàn ngược lại như trên — trọng những bài kinh thâm sâu do Như Lai thuyết, không trọng những bài kinh thi phú của đệ tử, học thuộc rồi biết hỏi han, xem xét, mở ra những gì chưa mở, xua tan nghi ngờ. Này các thầy, đó gọi là hội chúng được huấn luyện bằng cách chất vấn. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng được huấn luyện bằng cách chất vấn là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng được huấn luyện bằng cách áp đặt, không phải bằng cách chất vấn; và hội chúng được huấn luyện bằng cách chất vấn, không phải bằng cách áp đặt.
+
+Này các thầy, thế nào là hội chúng được huấn luyện bằng cách áp đặt? Ở đây, trong hội chúng nào mà khi những bài kinh do Như Lai thuyết, thâm sâu, ý nghĩa thâm sâu, siêu thế, liên hệ đến tánh Không, được đọc tụng, các Tỷ-kheo không muốn nghe, không lắng tai, không chú tâm để hiểu rõ, không xem đó là những pháp cần học thuộc. Nhưng khi những bài kinh do các đệ tử soạn ra, có tính thi phú, dùng từ ngữ hoa mỹ, câu chữ chải chuốt, thuộc ngoại điển, được đọc tụng, thì họ lại muốn nghe, lắng tai, chú tâm, xem đó là những pháp cần học thuộc. Sau khi học thuộc, họ không hỏi lẫn nhau, không xem xét kỹ càng: 'Điều này nghĩa là gì?' Họ không mở ra những gì chưa được mở ra, không xua tan mối nghi ngờ. Đó gọi là hội chúng được huấn luyện bằng cách áp đặt.
+
+Này các thầy, thế nào là hội chúng được huấn luyện bằng cách chất vấn? Ở đây, trong hội chúng nào mà thái độ hoàn toàn ngược lại như trên: trọng những bài kinh thâm sâu do Như Lai thuyết, không trọng những bài kinh thi phú của đệ tử, học thuộc rồi biết hỏi han, xem xét, mở ra những gì chưa mở, xua tan nghi ngờ. Đó gọi là hội chúng được huấn luyện bằng cách chất vấn.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng được huấn luyện bằng cách chất vấn là hạng nhất."
 
 === AN 2.49
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng coi trọng vật chất, không coi trọng Chánh pháp; và hội chúng coi trọng Chánh pháp, không coi trọng vật chất. Này các thầy, thế nào là hội chúng coi trọng vật chất? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo, trước mặt những người cư sĩ áo trắng, khen ngợi lẫn nhau rằng: 'Vị kia được giải thoát cả hai phần, vị kia được tuệ giải thoát, vị kia là chứng nhân bằng thân, vị kia đạt được kiến, vị kia được tín giải thoát, vị kia tùy pháp hành, vị kia tùy tín hành, vị kia có giới hạnh, có thiện pháp; còn vị kia phá giới, có ác pháp.' Nhờ đó họ nhận được lợi dưỡng. Nhận được rồi, họ đắm say, mê mẩn, chìm sâu, không thấy được sự nguy hiểm, không có trí tuệ về sự xuất ly mà cứ thọ dụng. Này các thầy, đó gọi là hội chúng coi trọng vật chất. Này các thầy, thế nào là hội chúng coi trọng Chánh pháp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo không khen ngợi lẫn nhau như vậy trước mặt người cư sĩ áo trắng. Dù vẫn nhận được lợi dưỡng, nhưng sau khi nhận được, họ không đắm say, thấy được sự nguy hiểm, có trí tuệ về sự xuất ly mà thọ dụng. Này các thầy, đó gọi là hội chúng coi trọng Chánh pháp. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng coi trọng Chánh pháp là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng coi trọng vật chất, không coi trọng Chánh pháp; và hội chúng coi trọng Chánh pháp, không coi trọng vật chất.
+
+Này các thầy, thế nào là hội chúng coi trọng vật chất? Ở đây, trong hội chúng nào mà các Tỷ-kheo, trước mặt những người cư sĩ áo trắng, khen ngợi lẫn nhau rằng: 'Vị kia được giải thoát cả hai phần, vị kia được tuệ giải thoát, vị kia là chứng nhân bằng thân, vị kia đạt được kiến, vị kia được tín giải thoát, vị kia tùy pháp hành, vị kia tùy tín hành, vị kia có giới hạnh, có thiện pháp; còn vị kia phá giới, có ác pháp.' Nhờ đó họ nhận được lợi dưỡng. Nhận được rồi, họ đắm say, mê mẩn, chìm sâu, không thấy được sự nguy hiểm, không có trí tuệ về sự xuất ly mà cứ thọ dụng. Đó gọi là hội chúng coi trọng vật chất.
+
+Này các thầy, thế nào là hội chúng coi trọng Chánh pháp? Ở đây, trong hội chúng nào mà các Tỷ-kheo không khen ngợi lẫn nhau như vậy trước mặt người cư sĩ áo trắng. Dù vẫn nhận được lợi dưỡng, nhưng sau khi nhận được, họ không đắm say, thấy được sự nguy hiểm, có trí tuệ về sự xuất ly mà thọ dụng. Đó gọi là hội chúng coi trọng Chánh pháp.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng coi trọng Chánh pháp là hạng nhất."
 
 === AN 2.50
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng bất chính, và hội chúng chân chính. Này các thầy, thế nào là hội chúng bất chính? Ở đây, này các thầy, trong hội chúng nào mà những hành vi phi pháp, phi luật được thực hiện và được nêu bật lên, còn những hành vi đúng pháp, đúng luật thì không được thực hiện, không được nêu bật lên. Này các thầy, đó gọi là hội chúng bất chính. Này các thầy, thế nào là hội chúng chân chính? Ở đây, này các thầy, trong hội chúng nào mà những hành vi đúng pháp, đúng luật được thực hiện và được nêu bật lên, còn những hành vi phi pháp, phi luật thì không được thực hiện, không được nêu bật lên. Này các thầy, đó gọi là hội chúng chân chính. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng chân chính là hạng nhất."
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng bất chính, và hội chúng chân chính.
+
+Này các thầy, thế nào là hội chúng bất chính? Ở đây, trong hội chúng nào mà những hành vi phi pháp, phi luật được thực hiện và được nêu bật lên, còn những hành vi đúng pháp, đúng luật thì không được thực hiện, không được nêu bật lên. Đó gọi là hội chúng bất chính.
+
+Này các thầy, thế nào là hội chúng chân chính? Ở đây, trong hội chúng nào mà những hành vi đúng pháp, đúng luật được thực hiện và được nêu bật lên, còn những hành vi phi pháp, phi luật thì không được thực hiện, không được nêu bật lên. Đó gọi là hội chúng chân chính.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng chân chính là hạng nhất."
 
 === AN 2.51
 
@@ -236,7 +452,13 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.52
 
-#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng nói phi pháp, và hội chúng nói đúng pháp. Này các thầy, thế nào là hội chúng nói phi pháp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo, khi có một vụ tranh tụng xảy ra, dù đúng pháp hay phi pháp, sau khi nhận lấy vụ ấy, họ không thuyết phục lẫn nhau, không đi đến sự đồng thuận, không tìm hiểu thấu đáo, không đi đến sự thấu hiểu lẫn nhau. Họ không có khả năng đồng thuận, không chịu từ bỏ lập trường, cứ khăng khăng bám chặt vào vụ tranh tụng ấy mà tuyên bố: 'Chỉ điều này mới đúng, ngoài ra đều sai.' Này các thầy, đó gọi là hội chúng nói phi pháp. Này các thầy, thế nào là hội chúng nói đúng pháp? Ở đây, này các thầy, trong hội chúng nào mà các Tỷ-kheo, khi có vụ tranh tụng, biết thuyết phục lẫn nhau, đi đến sự đồng thuận, tìm hiểu thấu đáo, sẵn lòng từ bỏ lập trường, không khăng khăng bám chặt mà tuyên bố 'chỉ điều này mới đúng'. Này các thầy, đó gọi là hội chúng nói đúng pháp. Này các thầy, đó là hai loại hội chúng. Này các thầy, trong hai loại hội chúng ấy, hội chúng nói đúng pháp là hạng nhất." (Hết phẩm thứ năm.)
+#super[1] "Này các thầy, có hai loại hội chúng này. Hai loại nào? Hội chúng nói phi pháp, và hội chúng nói đúng pháp.
+
+Này các thầy, thế nào là hội chúng nói phi pháp? Ở đây, trong hội chúng nào mà các Tỷ-kheo, khi có một vụ tranh tụng xảy ra, dù đúng pháp hay phi pháp, sau khi nhận lấy vụ ấy, họ không thuyết phục lẫn nhau, không đi đến sự đồng thuận, không tìm hiểu thấu đáo, không đi đến sự thấu hiểu lẫn nhau. Họ không có khả năng đồng thuận, không chịu từ bỏ lập trường, cứ khăng khăng bám chặt vào vụ tranh tụng ấy mà tuyên bố: 'Chỉ điều này mới đúng, ngoài ra đều sai.' Đó gọi là hội chúng nói phi pháp.
+
+Này các thầy, thế nào là hội chúng nói đúng pháp? Ở đây, trong hội chúng nào mà các Tỷ-kheo, khi có vụ tranh tụng, biết thuyết phục lẫn nhau, đi đến sự đồng thuận, tìm hiểu thấu đáo, sẵn lòng từ bỏ lập trường, không khăng khăng bám chặt mà tuyên bố 'chỉ điều này mới đúng'. Đó gọi là hội chúng nói đúng pháp.
+
+Này các thầy, đó là hai loại hội chúng. Trong hai loại hội chúng ấy, hội chúng nói đúng pháp là hạng nhất." (Hết phẩm thứ năm.)
 
 #strong[Tổng thuyết kệ:] Nông cạn, chia rẽ, hạng nhất, bậc Thánh, cặn bã là thứ năm; áp đặt, vật chất, bất chính, phi pháp, và nói đúng pháp — đó là phẩm.
 
@@ -286,7 +508,11 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.63
 
-#super[1] "Này các thầy, Ta sẽ thuyết giảng cho các thầy về cách sống không an lạc và cách sống an lạc. Hãy lắng nghe, khéo tác ý, Ta sẽ nói." "Xin vâng, bạch Thế Tôn", các Tỷ-kheo ấy đáp lại Thế Tôn. Thế Tôn nói như vầy: "Này các thầy, thế nào là cách sống không an lạc? Ở đây, này các thầy, vị Tỷ-kheo trưởng lão nghĩ như vầy: 'Mong vị trưởng lão, vị trung niên, vị mới tu đừng ai nói gì với ta; ta cũng sẽ không nói gì với ai trong số họ. Nếu có vị nào nói với ta điều gì mà không phải vì lòng thương tưởng, ta sẽ không nói lời chấp nhận, ta sẽ bực bội, và dù thấy lỗi của vị ấy ta cũng sẽ không sửa đổi.' Vị Tỷ-kheo trung niên và vị Tỷ-kheo mới tu cũng đều nghĩ như vậy. Này các thầy, như vậy là cách sống không an lạc, như vậy là những kẻ không an lạc khi sống chung. Này các thầy, thế nào là cách sống an lạc? Ở đây, này các thầy, vị Tỷ-kheo trưởng lão nghĩ như vầy: 'Mong vị trưởng lão, vị trung niên, vị mới tu hãy nói với ta; ta cũng sẽ nói với tất cả. Nếu có vị nào nói với ta điều gì vì lòng thương tưởng, ta sẽ nói lời tán thán, ta sẽ không bực bội, và khi thấy lỗi của vị ấy ta sẽ sửa đổi.' Vị Tỷ-kheo trung niên và vị Tỷ-kheo mới tu cũng đều nghĩ như vậy. Này các thầy, như vậy là cách sống an lạc, như vậy là những người an lạc khi sống chung."
+#super[1] "Này các thầy, Ta sẽ thuyết giảng cho các thầy về cách sống không an lạc và cách sống an lạc. Hãy lắng nghe, khéo tác ý, Ta sẽ nói." "Xin vâng, bạch Thế Tôn", các Tỷ-kheo ấy đáp lại Thế Tôn. Thế Tôn nói:
+
+"Này các thầy, thế nào là cách sống không an lạc? Ở đây vị Tỷ-kheo trưởng lão nghĩ như vầy: 'Mong vị trưởng lão, vị trung niên, vị mới tu đừng ai nói gì với ta; ta cũng sẽ không nói gì với ai trong số họ. Nếu có vị nào nói với ta điều gì mà không phải vì lòng thương tưởng, ta sẽ không nói lời chấp nhận, ta sẽ bực bội, và dù thấy lỗi của vị ấy ta cũng sẽ không sửa đổi.' Vị Tỷ-kheo trung niên và vị Tỷ-kheo mới tu cũng đều nghĩ như vậy. Này các thầy, như vậy là cách sống không an lạc, như vậy là những kẻ không an lạc khi sống chung.
+
+Này các thầy, thế nào là cách sống an lạc? Ở đây vị Tỷ-kheo trưởng lão nghĩ như vầy: 'Mong vị trưởng lão, vị trung niên, vị mới tu hãy nói với ta; ta cũng sẽ nói với tất cả. Nếu có vị nào nói với ta điều gì vì lòng thương tưởng, ta sẽ nói lời tán thán, ta sẽ không bực bội, và khi thấy lỗi của vị ấy ta sẽ sửa đổi.' Vị Tỷ-kheo trung niên và vị Tỷ-kheo mới tu cũng đều nghĩ như vậy. Này các thầy, như vậy là cách sống an lạc, như vậy là những người an lạc khi sống chung."
 
 === AN 2.64
 
@@ -584,23 +810,31 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.134
 
-#super[1] Này các thầy, một nữ cư sĩ có lòng tin, khi phát nguyện chân chính, nên phát nguyện rằng: "Mong ta được như nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā." Này các thầy, đó là cán cân, là chuẩn mực cho các nữ đệ tử cư sĩ của Ta, tức là nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā.
+#super[1] "Này các thầy, một nữ cư sĩ có lòng tin, khi phát nguyện chân chính, nên phát nguyện như vầy: 'Mong ta được như nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā.' Này các thầy, nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā chính là thước đo, là chuẩn mực cho các nữ đệ tử cư sĩ của Ta."
 
 === AN 2.135
 
-#super[1] "Này các thầy, thành tựu hai pháp, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai pháp nào? Không xem xét, không thẩm sát rồi khen ngợi người đáng chê; không xem xét, không thẩm sát rồi chê bai người đáng khen. Này các thầy, thành tựu hai pháp ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, thành tựu hai pháp, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai pháp nào? Xem xét, thẩm sát rồi chê bai người đáng chê; xem xét, thẩm sát rồi khen ngợi người đáng khen. Này các thầy, thành tựu hai pháp ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
+#super[1] "Này các thầy, thành tựu hai pháp, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai pháp nào? Không xem xét, không thẩm sát rồi khen ngợi người đáng chê; không xem xét, không thẩm sát rồi chê bai người đáng khen. Này các thầy, thành tựu hai pháp ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện.
+
+Này các thầy, thành tựu hai pháp, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai pháp nào? Xem xét, thẩm sát rồi chê bai người đáng chê; xem xét, thẩm sát rồi khen ngợi người đáng khen. Này các thầy, thành tựu hai pháp ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.136
 
-#super[1] "Này các thầy, thành tựu hai pháp, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai pháp nào? Không xem xét, không thẩm sát rồi bày tỏ lòng tin ở chỗ không đáng tin; không xem xét, không thẩm sát rồi bày tỏ sự không tin ở chỗ đáng tin. Này các thầy, thành tựu hai pháp ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, thành tựu hai pháp, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai pháp nào? Xem xét, thẩm sát rồi bày tỏ sự không tin ở chỗ không đáng tin; xem xét, thẩm sát rồi bày tỏ lòng tin ở chỗ đáng tin. Này các thầy, thành tựu hai pháp ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
+#super[1] "Này các thầy, thành tựu hai pháp, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai pháp nào? Không xem xét, không thẩm sát rồi bày tỏ lòng tin ở chỗ không đáng tin; không xem xét, không thẩm sát rồi bày tỏ sự không tin ở chỗ đáng tin. Này các thầy, thành tựu hai pháp ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện.
+
+Này các thầy, thành tựu hai pháp, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai pháp nào? Xem xét, thẩm sát rồi bày tỏ sự không tin ở chỗ không đáng tin; xem xét, thẩm sát rồi bày tỏ lòng tin ở chỗ đáng tin. Này các thầy, thành tựu hai pháp ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.137
 
-#super[1] "Này các thầy, xử sự sai trái đối với hai hạng, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai hạng nào? Đối với mẹ và đối với cha. Này các thầy, xử sự sai trái đối với hai hạng ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, xử sự chân chánh đối với hai hạng, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai hạng nào? Đối với mẹ và đối với cha. Này các thầy, xử sự chân chánh đối với hai hạng ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
+#super[1] "Này các thầy, xử sự sai trái đối với hai hạng, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai hạng nào? Đối với mẹ và đối với cha. Này các thầy, xử sự sai trái đối với hai hạng ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện.
+
+Này các thầy, xử sự chân chánh đối với hai hạng, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai hạng nào? Đối với mẹ và đối với cha. Này các thầy, xử sự chân chánh đối với hai hạng ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.138
 
-#super[1] "Này các thầy, xử sự sai trái đối với hai hạng, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai hạng nào? Đối với Như Lai và đối với đệ tử của Như Lai. Này các thầy, xử sự sai trái đối với hai hạng ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Này các thầy, xử sự chân chánh đối với hai hạng, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai hạng nào? Đối với Như Lai và đối với đệ tử của Như Lai. Này các thầy, xử sự chân chánh đối với hai hạng ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
+#super[1] "Này các thầy, xử sự sai trái đối với hai hạng, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện. Hai hạng nào? Đối với Như Lai và đối với đệ tử của Như Lai. Này các thầy, xử sự sai trái đối với hai hạng ấy, kẻ ngu, không thông suốt, không phải bậc chân nhân, tự mang lấy sự tổn hại, sự hủy hoại cho mình, đáng chê trách, bị người trí quở trách, và tạo nhiều bất thiện.
+
+Này các thầy, xử sự chân chánh đối với hai hạng, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước. Hai hạng nào? Đối với Như Lai và đối với đệ tử của Như Lai. Này các thầy, xử sự chân chánh đối với hai hạng ấy, bậc trí, thông suốt, bậc chân nhân, không tự mang lấy sự tổn hại, sự hủy hoại cho mình, không đáng chê trách, không bị người trí quở trách, và tạo nhiều phước."
 
 === AN 2.139
 
@@ -832,7 +1066,11 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 #strong[Trùng tụng về bất thiện]
 
-#super[1] "Này các thầy, có hai pháp bất thiện, hai pháp thiện, hai pháp có tội, hai pháp không tội, hai pháp đưa đến khổ, hai pháp đưa đến lạc, hai pháp có quả khổ, hai pháp có quả lạc, hai pháp có hại, hai pháp không hại. Với các pháp bất thiện, có tội, đưa đến khổ, có quả khổ, có hại: phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý. Với các pháp thiện, không tội, đưa đến lạc, có quả lạc, không hại: không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, đó là hai pháp không hại."
+#super[1] "Này các thầy, có hai pháp bất thiện, hai pháp thiện, hai pháp có tội, hai pháp không tội, hai pháp đưa đến khổ, hai pháp đưa đến lạc, hai pháp có quả khổ, hai pháp có quả lạc, hai pháp có hại, hai pháp không hại.
+
+Với các pháp bất thiện, có tội, đưa đến khổ, có quả khổ, có hại: phẫn nộ và hận; che giấu và hiềm khích; ganh tỵ và xan tham; lừa dối và xảo trá; không tàm và không quý.
+
+Với các pháp thiện, không tội, đưa đến lạc, có quả lạc, không hại: không phẫn nộ và không hận; không che giấu và không hiềm khích; không ganh tỵ và không xan tham; không lừa dối và không xảo trá; tàm và quý. Này các thầy, đó là hai pháp không hại."
 
 #strong[(Hết trùng tụng về bất thiện.)]
 
@@ -840,11 +1078,19 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 #strong[Trùng tụng về Luật]
 
-#super[1] "Này các thầy, vì hai lý do mà Như Lai chế định học giới cho các đệ tử. Hai lý do nào? Để Tăng chúng được an ổn, để Tăng chúng được an lạc; để chế ngự những kẻ hành xử xấu, để các Tỷ-kheo hiền thiện được sống an lạc; để phòng hộ các lậu hoặc ngay trong đời này, để ngăn chặn các lậu hoặc thuộc đời sau; để phòng hộ các thù hận ngay trong đời này, để ngăn chặn các thù hận thuộc đời sau; để phòng hộ các lỗi lầm ngay trong đời này, để ngăn chặn các lỗi lầm thuộc đời sau; để phòng hộ các sợ hãi ngay trong đời này, để ngăn chặn các sợ hãi thuộc đời sau; để phòng hộ các pháp bất thiện ngay trong đời này, để ngăn chặn các pháp bất thiện thuộc đời sau; vì lòng từ mẫn đối với hàng cư sĩ, để cắt đứt phe đảng của những Tỷ-kheo ác dục; để những người chưa tin sinh lòng tin, để những người đã tin được tăng trưởng; để Chánh pháp được trụ vững, để nâng đỡ Luật. Này các thầy, vì hai lý do ấy mà Như Lai chế định học giới cho các đệ tử."
+#super[1] "Này các thầy, vì hai lý do mà Như Lai chế định học giới cho các đệ tử. Hai lý do nào?
+
+Để Tăng chúng được an ổn, để Tăng chúng được an lạc; để chế ngự những kẻ hành xử xấu, để các Tỷ-kheo hiền thiện được sống an lạc; để phòng hộ các lậu hoặc ngay trong đời này, để ngăn chặn các lậu hoặc thuộc đời sau; để phòng hộ các thù hận ngay trong đời này, để ngăn chặn các thù hận thuộc đời sau; để phòng hộ các lỗi lầm ngay trong đời này, để ngăn chặn các lỗi lầm thuộc đời sau; để phòng hộ các sợ hãi ngay trong đời này, để ngăn chặn các sợ hãi thuộc đời sau; để phòng hộ các pháp bất thiện ngay trong đời này, để ngăn chặn các pháp bất thiện thuộc đời sau; vì lòng từ mẫn đối với hàng cư sĩ, để cắt đứt phe đảng của những Tỷ-kheo ác dục; để những người chưa tin sinh lòng tin, để những người đã tin được tăng trưởng; để Chánh pháp được trụ vững, để nâng đỡ Luật.
+
+Này các thầy, vì hai lý do ấy mà Như Lai chế định học giới cho các đệ tử."
 
 === AN 2.202–2.230 (nhóm kinh viết tắt trùng tụng)
 
-#super[1] "Này các thầy, vì hai lý do mà Như Lai chế định cho các đệ tử: Ba-la-đề-mộc-xoa; sự tụng Ba-la-đề-mộc-xoa; sự đình chỉ Ba-la-đề-mộc-xoa; lễ tự tứ; sự đình chỉ lễ tự tứ; tác pháp khiển trách; tác pháp chỉ định; tác pháp trục xuất; tác pháp bắt sám hối; tác pháp cử tội; cho phép sống biệt trú; bắt trở lại từ đầu; cho phép mānatta; lễ phục vị; sự nhận vào; sự trục xuất ra; lễ thọ cụ túc; tác pháp bằng động nghị; tác pháp động nghị lần thứ hai; tác pháp động nghị lần thứ tư; chế định điều chưa được chế định; tùy chế định điều đã được chế định; luật giải quyết trước mặt; luật giải quyết bằng niệm; luật giải quyết vì không điên; xử theo sự nhận; xử theo số đông; xử kẻ ngoan cố; phủ cỏ lên. Hai lý do nào? Để Tăng chúng được an ổn, để Tăng chúng được an lạc; để chế ngự những kẻ hành xử xấu, để các Tỷ-kheo hiền thiện được sống an lạc; để phòng hộ các lậu hoặc ngay trong đời này, để ngăn chặn các lậu hoặc thuộc đời sau; để phòng hộ các thù hận ngay trong đời này, để ngăn chặn các thù hận thuộc đời sau; để phòng hộ các lỗi lầm ngay trong đời này, để ngăn chặn các lỗi lầm thuộc đời sau; để phòng hộ các sợ hãi ngay trong đời này, để ngăn chặn các sợ hãi thuộc đời sau; để phòng hộ các pháp bất thiện ngay trong đời này, để ngăn chặn các pháp bất thiện thuộc đời sau; vì lòng từ mẫn đối với hàng cư sĩ, để cắt đứt phe đảng của những Tỷ-kheo ác dục; để những người chưa tin sinh lòng tin, để những người đã tin được tăng trưởng; để Chánh pháp được trụ vững, để nâng đỡ Luật. Này các thầy, vì hai lý do ấy mà Như Lai chế định cho các đệ tử sự phủ cỏ lên."
+#super[1] "Này các thầy, vì hai lý do mà Như Lai chế định cho các đệ tử: Ba-la-đề-mộc-xoa; sự tụng Ba-la-đề-mộc-xoa; sự đình chỉ Ba-la-đề-mộc-xoa; lễ tự tứ; sự đình chỉ lễ tự tứ; tác pháp khiển trách; tác pháp chỉ định; tác pháp trục xuất; tác pháp bắt sám hối; tác pháp cử tội; cho phép sống biệt trú; bắt trở lại từ đầu; cho phép mānatta; lễ phục vị; sự nhận vào; sự trục xuất ra; lễ thọ cụ túc; tác pháp bằng động nghị; tác pháp động nghị lần thứ hai; tác pháp động nghị lần thứ tư; chế định điều chưa được chế định; tùy chế định điều đã được chế định; luật giải quyết trước mặt; luật giải quyết bằng niệm; luật giải quyết vì không điên; xử theo sự nhận; xử theo số đông; xử kẻ ngoan cố; phủ cỏ lên.
+
+Hai lý do nào? Để Tăng chúng được an ổn, để Tăng chúng được an lạc; để chế ngự những kẻ hành xử xấu, để các Tỷ-kheo hiền thiện được sống an lạc; để phòng hộ các lậu hoặc ngay trong đời này, để ngăn chặn các lậu hoặc thuộc đời sau; để phòng hộ các thù hận ngay trong đời này, để ngăn chặn các thù hận thuộc đời sau; để phòng hộ các lỗi lầm ngay trong đời này, để ngăn chặn các lỗi lầm thuộc đời sau; để phòng hộ các sợ hãi ngay trong đời này, để ngăn chặn các sợ hãi thuộc đời sau; để phòng hộ các pháp bất thiện ngay trong đời này, để ngăn chặn các pháp bất thiện thuộc đời sau; vì lòng từ mẫn đối với hàng cư sĩ, để cắt đứt phe đảng của những Tỷ-kheo ác dục; để những người chưa tin sinh lòng tin, để những người đã tin được tăng trưởng; để Chánh pháp được trụ vững, để nâng đỡ Luật.
+
+Này các thầy, vì hai lý do ấy mà Như Lai chế định cho các đệ tử sự phủ cỏ lên."
 
 #strong[(Hết trùng tụng về Luật.)]
 
@@ -856,7 +1102,9 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập._
 
 === AN 2.232–2.246 (nhóm kinh viết tắt trùng tụng)
 
-#super[1] "Này các thầy, để thắng tri sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu, phóng dật, cần tu tập hai pháp. Hai pháp nào? Chỉ và quán. Này các thầy, để thắng tri phóng dật, hai pháp ấy cần được tu tập. Cũng vậy, để liễu tri, để đoạn tận, để đoạn trừ, để diệt tận, để tàn lụi, để ly tham, để diệt, để xả, để từ bỏ phóng dật — và tương tự đối với sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu — cần tu tập hai pháp: chỉ và quán."
+#super[1] "Này các thầy, để thắng tri sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu, phóng dật, cần tu tập hai pháp. Hai pháp nào? Chỉ và quán. Này các thầy, để thắng tri phóng dật, hai pháp ấy cần được tu tập.
+
+Cũng vậy, để liễu tri, để đoạn tận, để đoạn trừ, để diệt tận, để tàn lụi, để ly tham, để diệt, để xả, để từ bỏ phóng dật — và tương tự đối với sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu — cần tu tập hai pháp: chỉ và quán."
 
 Thế Tôn đã thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 

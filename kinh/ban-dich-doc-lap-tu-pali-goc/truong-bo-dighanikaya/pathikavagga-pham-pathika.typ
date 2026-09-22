@@ -33,7 +33,7 @@ du sĩ Bhaggavagotta. Du sĩ Bhaggavagotta thưa với Thế Tôn: "Bạch Thế
 Tôn, xin Ngài đến đây. Kính chào Thế Tôn. Đã lâu rồi Thế Tôn mới có
 dịp đến đây. Xin Thế Tôn ngồi, chỗ ngồi đã được soạn sẵn." Thế Tôn
 ngồi xuống chỗ đã soạn sẵn. Du sĩ Bhaggavagotta lấy một chỗ ngồi
-thấp khác, ngồi xuống một bên. Ngồi xuống một bên, du sĩ Bhaggavagotta
+thấp khác, ngồi sang một bên. Rồi du sĩ Bhaggavagotta
 thưa với Thế Tôn: "Bạch Thế Tôn, mấy ngày trước, Sunakkhatta, con
 trai dòng Licchavi, đến chỗ con, thưa: 'Này Bhaggava, tôi đã từ bỏ
 Thế Tôn rồi. Tôi không còn sống hướng về Thế Tôn nữa.' Bạch Thế Tôn,
@@ -50,7 +50,7 @@ phải Ta đã từng nói với ông — hãy đến, sống hướng về Ta?'
 bạch Thế Tôn.' — 'Hay chính ông đã nói với Ta — con sẽ sống hướng về
 Thế Tôn?' — 'Không, bạch Thế Tôn.' — 'Như vậy, này Sunakkhatta, Ta
 chưa từng nói lời ấy, ông cũng chưa từng nói lời ấy. Đã như vậy, này
-kẻ ngu si, ông là ai mà từ bỏ ai? Hãy xem, này kẻ ngu si, ông đã sai
+kẻ khờ, ông là ai mà từ bỏ ai? Hãy xem, này kẻ khờ, ông đã sai
 lầm đến mức nào.'"
 
 #super[4] "'Bạch Thế Tôn, con từ bỏ vì Thế Tôn không thị hiện cho
@@ -61,7 +61,7 @@ Thế Tôn.' — 'Hay ông đã nói với Ta — con sẽ sống hướng về 
 mong Thế Tôn thị hiện cho con thần thông vượt trên pháp người
 thường?' — 'Không, bạch Thế Tôn.' — 'Như vậy, này Sunakkhatta, Ta
 chưa từng nói lời ấy, ông cũng chưa từng nói lời ấy. Đã như vậy, này
-kẻ ngu si, ông là ai mà từ bỏ ai? Này Sunakkhatta, ông nghĩ thế nào —
+kẻ khờ, ông là ai mà từ bỏ ai? Này Sunakkhatta, ông nghĩ thế nào —
 dù có thị hiện thần thông vượt trên pháp người thường hay không,
 mục đích mà Ta thuyết pháp, pháp ấy có đưa người thực hành đến đoạn
 tận khổ đau một cách chân chính không?' — 'Bạch Thế Tôn, dù có thị
@@ -71,7 +71,7 @@ Sunakkhatta, dù có thị hiện hay không thị hiện thần thông vượt 
 pháp người thường, mục đích mà Ta thuyết pháp vẫn đưa người thực
 hành đến đoạn tận khổ đau một cách chân chính. Vậy thì, này
 Sunakkhatta, thần thông vượt trên pháp người thường, dù có thị
-hiện, sẽ đem lại điều gì thêm? Hãy xem, này kẻ ngu si, ông đã sai
+hiện, sẽ đem lại điều gì thêm? Hãy xem, này kẻ khờ, ông đã sai
 lầm đến mức nào.'"
 
 #super[5] "'Bạch Thế Tôn, con từ bỏ vì Thế Tôn không tuyên bố cho
@@ -81,14 +81,14 @@ con về nguồn gốc tối sơ (aggañña).' — 'Này Sunakkhatta, có phải
 với Ta — con sẽ sống hướng về Thế Tôn, mong Thế Tôn tuyên bố cho con
 về nguồn gốc tối sơ?' — 'Không, bạch Thế Tôn.' — 'Như vậy, này
 Sunakkhatta, Ta chưa từng nói lời ấy, ông cũng chưa từng nói lời ấy.
-Đã như vậy, này kẻ ngu si, ông là ai mà từ bỏ ai? Này Sunakkhatta,
+Đã như vậy, này kẻ khờ, ông là ai mà từ bỏ ai? Này Sunakkhatta,
 ông nghĩ thế nào — dù có tuyên bố hay không tuyên bố về nguồn gốc
 tối sơ, mục đích mà Ta thuyết pháp, pháp ấy có đưa người thực hành
 đến đoạn tận khổ đau một cách chân chính không?' — 'Bạch Thế Tôn, dù
 có tuyên bố hay không, mục đích mà Thế Tôn thuyết pháp vẫn đưa người
 thực hành đến đoạn tận khổ đau một cách chân chính.' — 'Vậy thì, này
 Sunakkhatta, việc tuyên bố nguồn gốc tối sơ, dù có tuyên bố, sẽ đem
-lại điều gì thêm? Hãy xem, này kẻ ngu si, ông đã sai lầm đến mức
+lại điều gì thêm? Hãy xem, này kẻ khờ, ông đã sai lầm đến mức
 nào.'"
 
 #super[6] "Này Sunakkhatta, chính ông đã nhiều lần, bằng nhiều cách,
@@ -123,12 +123,12 @@ Korakkhattiya sống theo hạnh con chó, bò bốn chân trên đất, dùng
 miệng ăn và nhai thức ăn vứt trên mặt đất. Sunakkhatta thấy vậy,
 liền nghĩ: 'Vị Sa-môn này quả thật tốt đẹp — bò bốn chân, dùng miệng
 ăn, nhai thức ăn vứt trên mặt đất.' Này Bhaggava, biết được ý nghĩ
-ấy trong tâm Sunakkhatta, Ta nói với ông: 'Này kẻ ngu si, sao ông tự
+ấy trong tâm Sunakkhatta, Ta nói với ông: 'Này kẻ khờ, sao ông tự
 xưng là Sa-môn, con dòng họ Sakya?' — 'Bạch Thế Tôn, sao Thế Tôn lại
 nói với con như vậy?' — 'Này Sunakkhatta, có phải khi thấy đạo sĩ
 lõa thể Korakkhattiya sống theo hạnh con chó, ông đã nghĩ: Vị Sa-môn
 này quả thật tốt đẹp?' — 'Đúng vậy, bạch Thế Tôn. Có phải Thế Tôn
-ganh tị với sự chứng đắc A-la-hán của người khác?' — 'Này kẻ ngu si,
+ganh tị với sự chứng đắc A-la-hán của người khác?' — 'Này kẻ khờ,
 Ta không ganh tị với sự chứng đắc A-la-hán. Nhưng chính ông đã nảy
 sinh tà kiến xấu ác này, hãy từ bỏ nó đi, đừng để nó gây bất lợi,
 khổ đau cho ông lâu dài. Này Sunakkhatta, ông nghĩ đạo sĩ lõa thể
@@ -172,9 +172,9 @@ thể Korakkhattiya, kết quả có đúng như vậy hay khác đi?' — 'Bạ
 Thế Tôn, đúng như vậy, không khác.' — 'Này Sunakkhatta, ông nghĩ thế
 nào — như vậy có phải là đã thị hiện thần thông vượt trên pháp
 người thường hay không?' — 'Bạch Thế Tôn, quả thật như vậy là đã
-thị hiện.' — 'Này kẻ ngu si, vậy mà ông vẫn nói với Ta rằng: Thế Tôn
+thị hiện.' — 'Này kẻ khờ, vậy mà ông vẫn nói với Ta rằng: Thế Tôn
 không thị hiện cho con thần thông vượt trên pháp người thường. Hãy
-xem, này kẻ ngu si, ông đã sai lầm đến mức nào.'" Này Bhaggava, dù
+xem, này kẻ khờ, ông đã sai lầm đến mức nào.'" Này Bhaggava, dù
 Ta có nói với Sunakkhatta như thế, Sunakkhatta vẫn rời bỏ Pháp và
 Luật này, như một kẻ sẽ đọa vào cõi khổ, cõi địa ngục.
 
@@ -203,13 +203,13 @@ không gây bất lợi, khổ đau lâu dài cho chúng ta.'
 
 #super[13] "Này Bhaggava, rồi Sunakkhatta đến chỗ Ta; đến rồi, đảnh
 lễ Ta, ngồi xuống một bên. Này Bhaggava, Ta nói với Sunakkhatta:
-'Này kẻ ngu si, sao ông tự xưng là Sa-môn, con dòng họ Sakya?' —
+'Này kẻ khờ, sao ông tự xưng là Sa-môn, con dòng họ Sakya?' —
 'Bạch Thế Tôn, sao Thế Tôn lại nói với con như vậy?' — 'Này
 Sunakkhatta, có phải ông đã đến chỗ đạo sĩ lõa thể Kaḷāramaṭṭaka,
 hỏi một câu hỏi, vị ấy không giải đáp được, liền lộ vẻ giận dữ, sân
 hận, bất mãn; rồi ông nghĩ: Chúng ta đã xúc phạm một vị Sa-môn tốt
 đẹp, đáng kính như A-la-hán?' — 'Đúng vậy, bạch Thế Tôn. Có phải Thế
-Tôn ganh tị với sự chứng đắc A-la-hán?' — 'Này kẻ ngu si, Ta không
+Tôn ganh tị với sự chứng đắc A-la-hán?' — 'Này kẻ khờ, Ta không
 ganh tị với sự chứng đắc A-la-hán. Nhưng chính ông đã nảy sinh tà
 kiến xấu ác này, hãy từ bỏ nó đi, đừng để nó gây bất lợi, khổ đau
 cho ông lâu dài. Này Sunakkhatta, ông nghĩ đạo sĩ lõa thể
@@ -229,9 +229,9 @@ Kaḷāramaṭṭaka, kết quả có đúng như vậy hay khác đi?' — 'B�
 Tôn, đúng như vậy, không khác.' — 'Này Sunakkhatta, ông nghĩ thế nào
 — như vậy có phải là đã thị hiện thần thông vượt trên pháp người
 thường hay không?' — 'Bạch Thế Tôn, quả thật như vậy là đã thị
-hiện.' — 'Này kẻ ngu si, vậy mà ông vẫn nói với Ta rằng: Thế Tôn
+hiện.' — 'Này kẻ khờ, vậy mà ông vẫn nói với Ta rằng: Thế Tôn
 không thị hiện cho con thần thông vượt trên pháp người thường. Hãy
-xem, này kẻ ngu si, ông đã sai lầm đến mức nào.'" Này Bhaggava, dù
+xem, này kẻ khờ, ông đã sai lầm đến mức nào.'" Này Bhaggava, dù
 Ta có nói với Sunakkhatta như thế, Sunakkhatta vẫn rời bỏ Pháp và
 Luật này, như một kẻ sẽ đọa vào cõi khổ, cõi địa ngục.
 
@@ -253,7 +253,7 @@ Sa-môn Gotama thị hiện bao nhiêu, ta sẽ thị hiện gấp đôi bấy
 nhiêu.'"
 
 #super[16] "Này Bhaggava, rồi Sunakkhatta đến chỗ Ta; đến rồi, đảnh
-lễ Ta, ngồi xuống một bên. Ngồi xuống một bên, này Bhaggava,
+lễ Ta, ngồi sang một bên. Này Bhaggava,
 Sunakkhatta thưa với Ta: 'Bạch Thế Tôn, đạo sĩ lõa thể Pāthikaputta
 đang ở Vesāli, đạt được sự cung kính tối thượng, danh tiếng tối
 thượng giữa dân chúng Vajji. Vị ấy tuyên bố giữa hội chúng ở Vesāli:
@@ -499,19 +499,19 @@ thể Pāthikaputta, kết quả có đúng như vậy hay khác đi?' — 'Bạ
 Tôn, đúng như vậy, không khác.' — 'Này Sunakkhatta, ông nghĩ thế
 nào — như vậy có phải là đã thị hiện thần thông vượt trên pháp
 người thường hay không?' — 'Bạch Thế Tôn, quả thật như vậy là đã
-thị hiện.' — 'Này kẻ ngu si, vậy mà ông vẫn nói với Ta rằng: Thế Tôn
+thị hiện.' — 'Này kẻ khờ, vậy mà ông vẫn nói với Ta rằng: Thế Tôn
 không thị hiện cho con thần thông vượt trên pháp người thường. Hãy
-xem, này kẻ ngu si, ông đã sai lầm đến mức nào.'" Này Bhaggava, dù
+xem, này kẻ khờ, ông đã sai lầm đến mức nào.'" Này Bhaggava, dù
 Ta có nói với Sunakkhatta như thế, Sunakkhatta vẫn rời bỏ Pháp và
 Luật này, như một kẻ sẽ đọa vào cõi khổ, cõi địa ngục.
 
 #strong[Bàn Về Nguồn Gốc Tối Sơ]
 
 #super[36] "Này Bhaggava, Ta biết rõ về nguồn gốc tối sơ (aggañña).
-Ta biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa; biết rõ như
-vậy mà không chấp thủ vào sự hiểu biết ấy; không chấp thủ, Ta tự
-mình chứng biết sự tịch tịnh; nhờ thắng tri điều ấy, Như Lai không
-rơi vào con đường sai lầm.
+Ta biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa. Nhưng biết rõ
+như vậy, Ta không chấp thủ vào sự hiểu biết ấy. Không chấp thủ, Ta
+tự mình chứng được sự tịch tịnh. Nhờ thắng tri điều ấy, Như Lai
+không rơi vào con đường sai lầm.
 
 #super[37] "Này Bhaggava, có một số Sa-môn, Bà-la-môn tuyên bố về
 nguồn gốc tối sơ theo thuyết do một Đấng Tự Tại (Issara), một vị
@@ -544,39 +544,36 @@ từ cõi Ābhassara mạng chung, sinh vào cung điện Phạm thiên, làm b�
 sự thanh tịnh, sống lâu dài như vậy trải qua một thời gian rất dài.
 
 #super[39] "'Này các hiền giả, trong số đó, vị hữu tình sinh đến đầu
-tiên nghĩ: Ta là Phạm thiên, Đại Phạm thiên, đấng chinh phục, đấng
+tiên nghĩ: Ta là Phạm thiên, Đại Phạm thiên — đấng chinh phục, đấng
 không bị chinh phục, đấng thấy tất cả, đấng có quyền năng, đấng tự
 tại, đấng tạo tác, đấng sáng tạo, đấng tối thượng, đấng an bài, đấng
-tự chủ, là cha của những gì đã và sẽ sinh ra; chính ta đã tạo ra
+tự chủ, là cha của những gì đã và sẽ sinh ra. Chính ta đã tạo ra
 những hữu tình này. Vì sao vậy? Vì trước đó ta đã từng nghĩ: Mong
-sao có những hữu tình khác đến đây! — và do tâm nguyện của ta như
-vậy, những hữu tình này đã đến. Những hữu tình sinh đến sau cũng
-nghĩ: Vị Phạm thiên, Đại Phạm thiên này, chính là đấng đã tạo ra
-chúng ta; vì sao vậy? Vì chúng ta thấy vị ấy đã sinh đến đây trước,
-còn chúng ta sinh đến sau.
+sao có những hữu tình khác đến đây! Do tâm nguyện ấy của ta, những
+hữu tình này đã đến. Những hữu tình sinh đến sau cũng nghĩ như vậy:
+Vị Phạm thiên, Đại Phạm thiên này chính là đấng đã tạo ra chúng ta.
+Vì sao vậy? Vì họ thấy vị ấy đã sinh đến đây trước, còn mình sinh
+đến sau.
 
 #super[40] "'Này các hiền giả, vị hữu tình sinh đến đầu tiên ấy sống
-lâu hơn, đẹp đẽ hơn, uy quyền lớn hơn; những hữu tình sinh đến sau
+lâu hơn, đẹp đẽ hơn, uy quyền lớn hơn. Những hữu tình sinh đến sau
 thì tuổi thọ ngắn hơn, kém đẹp hơn, uy quyền nhỏ hơn. Này các hiền
 giả, có trường hợp một hữu tình nào đó, từ cõi ấy mạng chung, sinh
 xuống làm người ở đây. Sinh làm người rồi, vị ấy xuất gia sống không
-nhà; xuất gia rồi, nhờ nhiệt tâm, nỗ lực, chuyên chú, không buông
-lung, chánh tư duy, đạt được định tâm; với tâm định tĩnh như vậy, vị
-ấy nhớ lại được đời sống trước của mình, nhưng không nhớ được gì xa
-hơn nữa. Vị ấy nói: Đấng Phạm thiên, Đại Phạm thiên ấy — đấng chinh
-phục, không bị chinh phục, thấy tất cả, có quyền năng, tự tại, tạo
-tác, sáng tạo, tối thượng, an bài, tự chủ, là cha của những gì đã và
-sẽ sinh ra — chính vị ấy đã tạo ra chúng ta. Vị ấy là thường hằng,
-kiên cố, vĩnh viễn, không biến đổi, sẽ tồn tại y như vậy mãi mãi.
-Còn chúng ta, những kẻ được vị Phạm thiên ấy tạo ra, là vô thường,
-không kiên cố, tuổi thọ ngắn, sẽ phải chết, mới sinh đến chỗ này.
-Này các hiền giả, các vị có tuyên bố nguồn gốc tối sơ theo cách như
-vậy không?' Họ đáp: 'Đúng vậy, này hiền giả Gotama, chúng tôi nghe
-như vậy, đúng như hiền giả Gotama đã nói.'" Này Bhaggava, Ta biết rõ
-về nguồn gốc tối sơ. Ta biết rõ điều ấy, và còn biết rõ hơn cả điều
-ấy nữa; biết rõ như vậy mà không chấp thủ vào sự hiểu biết ấy; không
-chấp thủ, Ta tự mình chứng biết sự tịch tịnh; nhờ thắng tri điều ấy,
-Như Lai không rơi vào con đường sai lầm.
+nhà. Xuất gia rồi, nhờ nhiệt tâm, nỗ lực, chuyên chú, không buông
+lung, chánh tư duy, vị ấy đạt được định tâm. Với tâm định tĩnh như
+vậy, vị ấy nhớ lại được đời sống trước của mình, nhưng không nhớ
+được gì xa hơn nữa. Vị ấy nói: Đấng Phạm thiên, Đại Phạm thiên ấy —
+đấng chinh phục, không bị chinh phục, thấy tất cả, có quyền năng, tự
+tại, tạo tác, sáng tạo, tối thượng, an bài, tự chủ, là cha của những
+gì đã và sẽ sinh ra — chính vị ấy đã tạo ra chúng ta. Vị ấy thường
+hằng, kiên cố, vĩnh viễn, không biến đổi, sẽ tồn tại y như vậy mãi
+mãi. Còn chúng ta, những kẻ được vị Phạm thiên ấy tạo ra, là vô
+thường, không kiên cố, tuổi thọ ngắn, rồi sẽ phải chết, mới sinh đến
+chỗ này. Này các hiền giả, các vị có tuyên bố nguồn gốc tối sơ theo
+cách như vậy không?' Họ đáp: 'Đúng vậy, này hiền giả Gotama. Chúng
+tôi nghe như vậy, đúng như hiền giả Gotama đã nói.'" Này Bhaggava, Ta biết rõ
+về nguồn gốc tối sơ. Ta biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa. Nhưng biết rõ như vậy, Ta không chấp thủ vào sự hiểu biết ấy. Không chấp thủ, Ta tự mình chứng được sự tịch tịnh. Nhờ thắng tri điều ấy, Như Lai không rơi vào con đường sai lầm.
 
 #super[41] "Này Bhaggava, có một số Sa-môn, Bà-la-môn tuyên bố về
 nguồn gốc tối sơ theo thuyết do chư thiên bị hư hoại vì vui đùa
@@ -587,30 +584,27 @@ không thể giải đáp được; không giải đáp được, họ quay lạ
 được hỏi, liền giải đáp:
 
 #super[42] "'Này các hiền giả, có một loại chư thiên gọi là
-Khiḍḍāpadosikā (bị hư hoại vì vui đùa). Các vị ấy mãi vui đùa, cười
-giỡn, hưởng thụ lạc thú trong thời gian quá lâu. Vì mãi vui đùa quá
-lâu như vậy, niệm của các vị ấy bị quên lãng; do niệm bị quên lãng,
-các vị ấy mạng chung từ cõi ấy. Này các hiền giả, có trường hợp một
-hữu tình nào đó, từ cõi ấy mạng chung, sinh xuống làm người ở đây.
-Sinh làm người rồi, vị ấy xuất gia sống không nhà; nhờ nhiệt tâm, nỗ
-lực, chuyên chú, không buông lung, chánh tư duy, đạt được định tâm;
-với tâm định tĩnh, vị ấy nhớ lại được đời sống trước của mình, nhưng
-không nhớ được gì xa hơn nữa. Vị ấy nói: Những vị chư thiên không bị
-hư hoại vì vui đùa — các vị ấy không mãi vui đùa quá lâu như vậy;
-niệm của các vị ấy không bị quên lãng; do niệm không bị quên lãng,
+Khiḍḍāpadosikā, nghĩa là bị hư hoại vì vui đùa. Các vị ấy mãi vui
+đùa, cười giỡn, hưởng thụ lạc thú quá lâu. Vì vui đùa quá lâu như
+vậy, niệm của các vị ấy bị quên lãng. Do niệm bị quên lãng, các vị
+ấy mạng chung từ cõi ấy. Này các hiền giả, có trường hợp một hữu
+tình nào đó, từ cõi ấy mạng chung, sinh xuống làm người ở đây. Sinh
+làm người rồi, vị ấy xuất gia sống không nhà. Nhờ nhiệt tâm, nỗ lực,
+chuyên chú, không buông lung, chánh tư duy, vị ấy đạt được định
+tâm. Với tâm định tĩnh, vị ấy nhớ lại được đời sống trước của mình,
+nhưng không nhớ được gì xa hơn nữa. Vị ấy nói: Những vị chư thiên
+không bị hư hoại vì vui đùa thì không mãi vui đùa quá lâu như vậy.
+Niệm của các vị ấy không bị quên lãng. Do niệm không bị quên lãng,
 các vị ấy không mạng chung từ cõi ấy, mà thường hằng, kiên cố, vĩnh
 viễn, không biến đổi, sẽ tồn tại y như vậy mãi mãi. Còn chúng ta,
-những kẻ đã từng là chư thiên bị hư hoại vì vui đùa, đã mãi vui đùa
-quá lâu như vậy, niệm của chúng ta bị quên lãng; do niệm bị quên
-lãng, chúng ta đã mạng chung từ cõi ấy, là vô thường, không kiên
-cố, tuổi thọ ngắn, sẽ phải chết, mới sinh đến chỗ này. Này các hiền
-giả, các vị có tuyên bố nguồn gốc tối sơ theo cách như vậy không?'
-Họ đáp: 'Đúng vậy, này hiền giả Gotama, chúng tôi nghe như vậy, đúng
-như hiền giả Gotama đã nói.'" Này Bhaggava, Ta biết rõ về nguồn gốc
-tối sơ. Ta biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa; biết
-rõ như vậy mà không chấp thủ vào sự hiểu biết ấy; không chấp thủ, Ta
-tự mình chứng biết sự tịch tịnh; nhờ thắng tri điều ấy, Như Lai
-không rơi vào con đường sai lầm.
+những kẻ đã từng là chư thiên bị hư hoại vì vui đùa, đã vui đùa quá
+lâu như vậy nên niệm bị quên lãng. Do niệm bị quên lãng, chúng ta đã
+mạng chung từ cõi ấy, là vô thường, không kiên cố, tuổi thọ ngắn,
+rồi sẽ phải chết, mới sinh đến chỗ này. Này các hiền giả, các vị có
+tuyên bố nguồn gốc tối sơ theo cách như vậy không?' Họ đáp: 'Đúng
+vậy, này hiền giả Gotama. Chúng tôi nghe như vậy, đúng như hiền giả
+Gotama đã nói.'" Này Bhaggava, Ta biết rõ về nguồn gốc
+tối sơ. Ta biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa. Nhưng biết rõ như vậy, Ta không chấp thủ vào sự hiểu biết ấy. Không chấp thủ, Ta tự mình chứng được sự tịch tịnh. Nhờ thắng tri điều ấy, Như Lai không rơi vào con đường sai lầm.
 
 #super[43] "Này Bhaggava, có một số Sa-môn, Bà-la-môn tuyên bố về
 nguồn gốc tối sơ theo thuyết do chư thiên bị hư hoại vì tâm ý
@@ -621,31 +615,28 @@ không thể giải đáp được; không giải đáp được, họ quay lạ
 được hỏi, liền giải đáp:
 
 #super[44] "'Này các hiền giả, có một loại chư thiên gọi là
-Manopadosikā (bị hư hoại vì tâm ý). Các vị ấy nhìn nhau quá lâu với
-lòng ganh tị. Vì nhìn nhau quá lâu như vậy, tâm của các vị ấy trở
-nên xấu ác đối với nhau. Do tâm xấu ác với nhau, thân các vị ấy mệt
-mỏi, tâm các vị ấy mệt mỏi; các vị ấy mạng chung từ cõi ấy. Này các
-hiền giả, có trường hợp một hữu tình nào đó, từ cõi ấy mạng chung,
-sinh xuống làm người ở đây; xuất gia sống không nhà; nhờ nhiệt tâm,
-nỗ lực, chuyên chú, không buông lung, chánh tư duy, đạt được định
-tâm; với tâm định tĩnh, vị ấy nhớ lại được đời sống trước của mình,
+Manopadosikā, nghĩa là bị hư hoại vì tâm ý. Các vị ấy nhìn nhau quá
+lâu với lòng ganh tị. Vì nhìn nhau quá lâu như vậy, tâm của các vị
+ấy trở nên xấu ác với nhau. Do tâm xấu ác với nhau, thân và tâm các
+vị ấy đều mệt mỏi. Các vị ấy mạng chung từ cõi ấy. Này các hiền giả,
+có trường hợp một hữu tình nào đó, từ cõi ấy mạng chung, sinh xuống
+làm người ở đây, rồi xuất gia sống không nhà. Nhờ nhiệt tâm, nỗ lực,
+chuyên chú, không buông lung, chánh tư duy, vị ấy đạt được định
+tâm. Với tâm định tĩnh, vị ấy nhớ lại được đời sống trước của mình,
 nhưng không nhớ được gì xa hơn nữa. Vị ấy nói: Những vị chư thiên
-không bị hư hoại vì tâm ý — các vị ấy không nhìn nhau quá lâu với
-lòng ganh tị; tâm các vị ấy không trở nên xấu ác với nhau; do tâm
-không xấu ác, thân và tâm các vị ấy không mệt mỏi; các vị ấy không
-mạng chung từ cõi ấy, mà thường hằng, kiên cố, vĩnh viễn, không biến
-đổi, sẽ tồn tại y như vậy mãi mãi. Còn chúng ta, những kẻ đã từng là
-chư thiên bị hư hoại vì tâm ý, đã nhìn nhau quá lâu với lòng ganh
-tị; tâm chúng ta trở nên xấu ác với nhau; do tâm xấu ác, thân và tâm
-chúng ta mệt mỏi; chúng ta đã mạng chung từ cõi ấy, là vô thường,
-không kiên cố, tuổi thọ ngắn, sẽ phải chết, mới sinh đến chỗ này.
-Này các hiền giả, các vị có tuyên bố nguồn gốc tối sơ theo cách như
-vậy không?' Họ đáp: 'Đúng vậy, này hiền giả Gotama, chúng tôi nghe
-như vậy, đúng như hiền giả Gotama đã nói.'" Này Bhaggava, Ta biết rõ
-về nguồn gốc tối sơ. Ta biết rõ điều ấy, và còn biết rõ hơn cả điều
-ấy nữa; biết rõ như vậy mà không chấp thủ vào sự hiểu biết ấy; không
-chấp thủ, Ta tự mình chứng biết sự tịch tịnh; nhờ thắng tri điều ấy,
-Như Lai không rơi vào con đường sai lầm.
+không bị hư hoại vì tâm ý thì không nhìn nhau quá lâu với lòng ganh
+tị. Tâm các vị ấy không trở nên xấu ác với nhau. Do tâm không xấu
+ác, thân và tâm các vị ấy không mệt mỏi. Các vị ấy không mạng chung
+từ cõi ấy, mà thường hằng, kiên cố, vĩnh viễn, không biến đổi, sẽ
+tồn tại y như vậy mãi mãi. Còn chúng ta, những kẻ đã từng là chư
+thiên bị hư hoại vì tâm ý, đã nhìn nhau quá lâu với lòng ganh tị nên
+tâm trở nên xấu ác với nhau. Do tâm xấu ác, thân và tâm chúng ta mệt
+mỏi, nên đã mạng chung từ cõi ấy. Chúng ta là vô thường, không kiên
+cố, tuổi thọ ngắn, rồi sẽ phải chết, mới sinh đến chỗ này. Này các
+hiền giả, các vị có tuyên bố nguồn gốc tối sơ theo cách như vậy
+không?' Họ đáp: 'Đúng vậy, này hiền giả Gotama. Chúng tôi nghe như
+vậy, đúng như hiền giả Gotama đã nói.'" Này Bhaggava, Ta biết rõ
+về nguồn gốc tối sơ. Ta biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa. Nhưng biết rõ như vậy, Ta không chấp thủ vào sự hiểu biết ấy. Không chấp thủ, Ta tự mình chứng được sự tịch tịnh. Nhờ thắng tri điều ấy, Như Lai không rơi vào con đường sai lầm.
 
 #super[45] "Này Bhaggava, có một số Sa-môn, Bà-la-môn tuyên bố về
 nguồn gốc tối sơ theo thuyết ngẫu nhiên phát sinh (Adhiccasamuppanna).
@@ -656,23 +647,19 @@ giải đáp được; không giải đáp được, họ quay lại hỏi Ta. T
 hỏi, liền giải đáp:
 
 #super[46] "'Này các hiền giả, có một loại chư thiên gọi là
-Asaññasatta (Vô Tưởng Hữu Tình — không có tri giác). Khi tri giác
+Asaññasatta, tức Vô Tưởng Hữu Tình, không có tri giác. Khi tri giác
 vừa sinh khởi, các vị ấy liền mạng chung từ cõi ấy. Này các hiền
 giả, có trường hợp một hữu tình nào đó, từ cõi ấy mạng chung, sinh
 xuống làm người ở đây. Sinh làm người rồi, vị ấy xuất gia sống không
-nhà; nhờ nhiệt tâm, nỗ lực, chuyên chú, không buông lung, chánh tư
-duy, đạt được định tâm; với tâm định tĩnh như vậy, vị ấy nhớ lại
-được khoảnh khắc tri giác sinh khởi ấy, nhưng không nhớ được gì xa
-hơn nữa. Vị ấy nói: Tự ngã và thế giới phát sinh một cách ngẫu
+nhà. Nhờ nhiệt tâm, nỗ lực, chuyên chú, không buông lung, chánh tư
+duy, vị ấy đạt được định tâm. Với tâm định tĩnh như vậy, vị ấy nhớ
+lại được khoảnh khắc tri giác sinh khởi ấy, nhưng không nhớ được gì
+xa hơn nữa. Vị ấy nói: Tự ngã và thế giới phát sinh một cách ngẫu
 nhiên. Vì sao vậy? Vì trước đây ta không hiện hữu, mà nay ta hiện
 hữu, từ chỗ không có gì mà biến thành có. Này các hiền giả, các vị
 có tuyên bố nguồn gốc tối sơ theo cách như vậy không?' Họ đáp: 'Đúng
-vậy, này hiền giả Gotama, chúng tôi nghe như vậy, đúng như hiền giả
-Gotama đã nói.'" Này Bhaggava, Ta biết rõ về nguồn gốc tối sơ. Ta
-biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa; biết rõ như vậy
-mà không chấp thủ vào sự hiểu biết ấy; không chấp thủ, Ta tự mình
-chứng biết sự tịch tịnh; nhờ thắng tri điều ấy, Như Lai không rơi
-vào con đường sai lầm.
+vậy, này hiền giả Gotama. Chúng tôi nghe như vậy, đúng như hiền giả
+Gotama đã nói.'" Này Bhaggava, Ta biết rõ về nguồn gốc tối sơ. Ta biết rõ điều ấy, và còn biết rõ hơn cả điều ấy nữa. Nhưng biết rõ như vậy, Ta không chấp thủ vào sự hiểu biết ấy. Không chấp thủ, Ta tự mình chứng được sự tịch tịnh. Nhờ thắng tri điều ấy, Như Lai không rơi vào con đường sai lầm.
 
 #super[47] "Này Bhaggava, có một số Sa-môn, Bà-la-môn đã xuyên tạc
 Ta, nói những điều không thật, trống rỗng, dối trá, không đúng sự
@@ -1204,15 +1191,15 @@ núi Gijjhakūṭa. Còn gia chủ Sandhāna thì ngay lúc đó trở vào Rāj
 === 26. KINH CHUYỂN LUÂN THÁNH VƯƠNG SƯ TỬ HỐNG (Cakkavattisuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú giữa dân Magadha,
-tại Mātulā. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo." —
+tại Mātulā. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy." —
 "Bạch Thế Tôn" — các Tỷ-kheo ấy đáp lời Thế Tôn. Thế Tôn nói: "Này
 các Tỷ-kheo, hãy sống tự mình là hòn đảo của mình, tự mình là nơi
 nương tựa của mình, không nương tựa nơi khác; hãy lấy Chánh pháp
 làm hòn đảo, lấy Chánh pháp làm nơi nương tựa, không nương tựa nơi
-khác. Này các Tỷ-kheo, thế nào là Tỷ-kheo tự mình là hòn đảo, tự
+khác. Này các thầy, thế nào là Tỷ-kheo tự mình là hòn đảo, tự
 mình là nơi nương tựa, không nương tựa nơi khác; lấy Chánh pháp làm
 hòn đảo, lấy Chánh pháp làm nơi nương tựa, không nương tựa nơi
-khác? Ở đây, này các Tỷ-kheo, Tỷ-kheo an trú quán thân trên thân,
+khác? Ở đây, này các thầy, Tỷ-kheo an trú quán thân trên thân,
 nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu đối với thế
 gian; an trú quán thọ trên các cảm thọ, nhiệt tâm, tỉnh giác, chánh
 niệm, nhiếp phục tham ưu đối với thế gian; an trú quán tâm trên
@@ -1221,16 +1208,16 @@ thế gian; an trú quán pháp trên các pháp, nhiệt tâm, tỉnh giác,
 chánh niệm, nhiếp phục tham ưu đối với thế gian. Như vậy, này các
 Tỷ-kheo, là Tỷ-kheo tự mình là hòn đảo, tự mình là nơi nương tựa,
 không nương tựa nơi khác; lấy Chánh pháp làm hòn đảo, lấy Chánh
-pháp làm nơi nương tựa, không nương tựa nơi khác. Này các Tỷ-kheo,
+pháp làm nơi nương tựa, không nương tựa nơi khác. Này các thầy,
 hãy dạo đi trong lãnh địa của chính mình, lãnh địa của cha ông
-mình. Này các Tỷ-kheo, khi dạo đi trong lãnh địa của chính mình,
+mình. Này các thầy, khi dạo đi trong lãnh địa của chính mình,
 lãnh địa của cha ông mình như vậy, Ác ma sẽ không tìm được chỗ xâm
 nhập, không tìm được đối tượng để bám vào. Chính do nhân duyên thọ
 trì các thiện pháp mà công đức này tăng trưởng như vậy."
 
 #strong[Vua Chuyển Luân Dalhanemi]
 
-#super[2] "Này các Tỷ-kheo, thuở xưa có vị vua tên Dalhanemi, là vị
+#super[2] "Này các thầy, thuở xưa có vị vua tên Dalhanemi, là vị
 Chuyển Luân Vương, đấng hành trì Chánh pháp, vị Pháp vương, đã
 chinh phục bốn phương, đạt được sự an toàn cho quốc độ, đầy đủ bảy
 báu vật. Bảy báu vật của vị ấy là: xe báu, voi báu, ngựa báu, ngọc
@@ -1240,15 +1227,15 @@ thân hình như bậc anh hùng, có khả năng đánh tan quân địch. Vị
 chinh phục cả trái đất này cho đến bờ biển, không dùng gậy, không
 dùng gươm, mà bằng Chánh pháp, rồi an trú cai quản.
 
-#super[3] "Rồi này các Tỷ-kheo, trải qua nhiều năm, nhiều trăm năm,
+#super[3] "Rồi này các thầy, trải qua nhiều năm, nhiều trăm năm,
 nhiều ngàn năm sau đó, vua Dalhanemi gọi một người đến bảo: 'Này
 khanh, khi nào khanh thấy xe báu linh diệu lui sụt, rời khỏi vị
 trí, hãy báo cho ta.' — 'Xin vâng, tâu đại vương' — người ấy đáp
-lời vua Dalhanemi. Rồi này các Tỷ-kheo, trải qua nhiều năm, nhiều
+lời vua Dalhanemi. Rồi này các thầy, trải qua nhiều năm, nhiều
 trăm năm, nhiều ngàn năm, người ấy thấy xe báu linh diệu đã lui
 sụt, rời khỏi vị trí. Thấy vậy, người ấy đến chỗ vua Dalhanemi,
 tâu: 'Tâu đại vương, xin đại vương biết rằng xe báu linh diệu của
-ngài đã lui sụt, rời khỏi vị trí.' Rồi này các Tỷ-kheo, vua
+ngài đã lui sụt, rời khỏi vị trí.' Rồi này các thầy, vua
 Dalhanemi cho gọi hoàng tử trưởng đến, bảo: 'Này hoàng tử yêu quý,
 xe báu linh diệu của ta đã lui sụt, rời khỏi vị trí. Ta có nghe
 rằng: hễ vị vua Chuyển Luân nào mà xe báu linh diệu lui sụt, rời
@@ -1258,13 +1245,13 @@ dục lạc chư thiên. Này hoàng tử yêu quý, con hãy đến trị vì t
 đất này cho đến bờ biển. Còn ta, ta sẽ cạo bỏ râu tóc, đắp áo
 cà-sa, xuất gia, từ bỏ gia đình, sống không nhà.'
 
-#super[4] "Rồi này các Tỷ-kheo, vua Dalhanemi, sau khi đã khéo dạy
+#super[4] "Rồi này các thầy, vua Dalhanemi, sau khi đã khéo dạy
 dỗ hoàng tử trưởng về việc trị nước, liền cạo bỏ râu tóc, đắp áo
-cà-sa, xuất gia, từ bỏ gia đình, sống không nhà. Này các Tỷ-kheo,
+cà-sa, xuất gia, từ bỏ gia đình, sống không nhà. Này các thầy,
 khi vị vua ẩn sĩ ấy xuất gia được bảy ngày, thì xe báu linh diệu
-biến mất. Rồi này các Tỷ-kheo, có một người đến chỗ vị vua dòng
+biến mất. Rồi này các thầy, có một người đến chỗ vị vua dòng
 Sát-đế-lị đã được quán đảnh, tâu: 'Tâu đại vương, xin đại vương
-biết rằng xe báu linh diệu đã biến mất.' Này các Tỷ-kheo, khi xe
+biết rằng xe báu linh diệu đã biến mất.' Này các thầy, khi xe
 báu linh diệu biến mất, vị vua dòng Sát-đế-lị ấy không vui, cảm
 thấy buồn bã. Vị ấy đến chỗ vị vua ẩn sĩ, tâu: 'Tâu bệ hạ, xin bệ
 hạ biết rằng xe báu linh diệu đã biến mất.' Nghe vậy, vị vua ẩn sĩ
@@ -1304,7 +1291,7 @@ tránh xa điều bất thiện, thọ trì và thực hành điều thiện. N�
 
 #strong[Xe Báu Xuất Hiện]
 
-#super[6] "'Xin vâng, tâu bệ hạ' — này các Tỷ-kheo, vị vua dòng
+#super[6] "'Xin vâng, tâu bệ hạ' — này các thầy, vị vua dòng
 Sát-đế-lị đã được quán đảnh vâng lời vị vua ẩn sĩ, thực hành đúng
 theo Bổn phận cao quý của vị vua Chuyển Luân. Khi vị ấy thực hành
 đúng theo Bổn phận cao quý của vị vua Chuyển Luân như vậy, vào ngày
@@ -1315,13 +1302,13 @@ dòng Sát-đế-lị nghĩ: 'Ta có nghe rằng: vị vua dòng Sát-đế-lị
 vào ngày trai giới rằm, sau khi gội đầu, giữ giới trai giới, lên
 ngồi trên tầng lâu đài cao nhất, mà xe báu linh diệu xuất hiện đầy
 đủ như vậy, thì vị ấy sẽ là vua Chuyển Luân. Vậy phải chăng ta đây
-sẽ là vua Chuyển Luân?' Rồi này các Tỷ-kheo, vua ấy đứng dậy khỏi
+sẽ là vua Chuyển Luân?' Rồi này các thầy, vua ấy đứng dậy khỏi
 chỗ ngồi, đắp y vai trái, tay trái nâng bình nước, tay phải rưới
 nước lên xe báu, nói: 'Hãy chuyển động, xe báu tôn quý! Hãy chinh
-phục, xe báu tôn quý!' Rồi này các Tỷ-kheo, xe báu ấy lăn về hướng
+phục, xe báu tôn quý!' Rồi này các thầy, xe báu ấy lăn về hướng
 đông, và vua Chuyển Luân cùng bốn loại quân binh đi theo sau. Này
 các Tỷ-kheo, tại nơi nào xe báu dừng lại, vua Chuyển Luân liền đến
-trú tại đó cùng bốn loại quân binh. Này các Tỷ-kheo, các vị vua
+trú tại đó cùng bốn loại quân binh. Này các thầy, các vị vua
 chống đối ở phương đông đến gặp vua Chuyển Luân, tâu: 'Kính mời đại
 vương đến đây, đại vương! Xin nghênh đón đại vương! Đây là của đại
 vương, xin đại vương cai quản, tâu đại vương!' Vua Chuyển Luân dạy:
@@ -1331,12 +1318,12 @@ Không được uống rượu. Hãy ăn uống điều độ như đã từng.'
 Tỷ-kheo, các vị vua chống đối ở phương đông ấy đều trở thành chư
 hầu của vua Chuyển Luân.
 
-#super[7] "Rồi này các Tỷ-kheo, xe báu ấy lặn xuống biển đông, trồi
+#super[7] "Rồi này các thầy, xe báu ấy lặn xuống biển đông, trồi
 lên, lăn về hướng nam — cũng như ở phương đông, các vị vua chống
 đối phương nam cũng đến quy phục, cũng được dạy năm giới như trên,
 cũng đều trở thành chư hầu. Rồi xe báu lặn xuống biển nam, trồi
 lên, lăn về hướng tây, và vua Chuyển Luân cùng bốn loại quân binh
-đi theo sau. Này các Tỷ-kheo, tại nơi nào xe báu dừng lại, vua
+đi theo sau. Này các thầy, tại nơi nào xe báu dừng lại, vua
 Chuyển Luân liền đến trú tại đó cùng bốn loại quân binh. Này các
 Tỷ-kheo, các vị vua chống đối ở phương tây đến gặp vua Chuyển Luân,
 tâu: 'Kính mời đại vương đến đây, đại vương! Xin nghênh đón đại
@@ -1344,37 +1331,37 @@ vương! Đây là của đại vương, xin đại vương cai quản, tâu đ�
 vương!' Vua Chuyển Luân dạy: 'Không được giết hại sinh mạng. Không
 được lấy của không cho. Không được tà hạnh trong các dục. Không
 được nói lời dối trá. Không được uống rượu. Hãy ăn uống điều độ
-như đã từng.' Này các Tỷ-kheo, các vị vua chống đối ở phương tây ấy
+như đã từng.' Này các thầy, các vị vua chống đối ở phương tây ấy
 đều trở thành chư hầu của vua Chuyển Luân.
 
-#super[8] "Rồi này các Tỷ-kheo, xe báu ấy lặn xuống biển tây, trồi
+#super[8] "Rồi này các thầy, xe báu ấy lặn xuống biển tây, trồi
 lên, lăn về hướng bắc, và vua Chuyển Luân cùng bốn loại quân binh
-đi theo sau. Này các Tỷ-kheo, tại nơi nào xe báu dừng lại, vua
+đi theo sau. Này các thầy, tại nơi nào xe báu dừng lại, vua
 Chuyển Luân liền đến trú tại đó cùng bốn loại quân binh. Này các
 Tỷ-kheo, các vị vua chống đối ở phương bắc đến gặp vua Chuyển Luân,
 tâu: 'Kính mời đại vương đến đây, đại vương! Xin nghênh đón đại
 vương! Đây là của đại vương, xin đại vương cai quản, tâu đại
-vương!' Vua Chuyển Luân dạy năm giới như trên. Này các Tỷ-kheo, các
+vương!' Vua Chuyển Luân dạy năm giới như trên. Này các thầy, các
 vị vua chống đối ở phương bắc ấy đều trở thành chư hầu của vua
-Chuyển Luân. Rồi này các Tỷ-kheo, xe báu ấy, sau khi đã chinh phục
+Chuyển Luân. Rồi này các thầy, xe báu ấy, sau khi đã chinh phục
 trái đất này cho đến bờ biển, quay trở về chính kinh đô ấy, đứng
 sừng sững như đóng chốt tại cửa nội cung của vua Chuyển Luân, nơi
 xét xử, làm rạng rỡ nội cung của vua Chuyển Luân.
 
 #strong[Chuyện Các Vị Vua Chuyển Luân Kế Tiếp]
 
-#super[9] "Này các Tỷ-kheo, đến vị vua Chuyển Luân thứ hai... thứ
+#super[9] "Này các thầy, đến vị vua Chuyển Luân thứ hai... thứ
 ba... thứ tư... thứ năm... thứ sáu... thứ bảy — cũng vậy, trải qua
 nhiều năm, nhiều trăm năm, nhiều ngàn năm, vị vua Chuyển Luân ấy
 gọi một người đến bảo: 'Này khanh, khi nào khanh thấy xe báu linh
 diệu lui sụt, rời khỏi vị trí, hãy báo cho ta.' — 'Xin vâng, tâu
-đại vương' — người ấy đáp lời vua Chuyển Luân. Rồi này các Tỷ-kheo,
+đại vương' — người ấy đáp lời vua Chuyển Luân. Rồi này các thầy,
 trải qua nhiều năm, nhiều trăm năm, nhiều ngàn năm, người ấy thấy
 xe báu linh diệu đã lui sụt, rời khỏi vị trí. Thấy vậy, người ấy
 đến chỗ vua Chuyển Luân, tâu: 'Tâu đại vương, xin đại vương biết
 rằng xe báu linh diệu của ngài đã lui sụt, rời khỏi vị trí.'
 
-#super[10] "Rồi này các Tỷ-kheo, vua Chuyển Luân cho gọi hoàng tử
+#super[10] "Rồi này các thầy, vua Chuyển Luân cho gọi hoàng tử
 trưởng đến, bảo: 'Này hoàng tử yêu quý, xe báu linh diệu của ta đã
 lui sụt, rời khỏi vị trí. Ta có nghe rằng: hễ vị vua Chuyển Luân
 nào mà xe báu linh diệu lui sụt, rời khỏi vị trí, thì vị vua ấy sẽ
@@ -1382,22 +1369,22 @@ không còn sống lâu nữa. Ta đã hưởng thụ đầy đủ các dục l�
 người, giờ là lúc ta tìm cầu các dục lạc chư thiên. Này hoàng tử
 yêu quý, con hãy đến trị vì trái đất này cho đến bờ biển. Còn ta,
 ta sẽ cạo bỏ râu tóc, đắp áo cà-sa, xuất gia, từ bỏ gia đình, sống
-không nhà.' Rồi này các Tỷ-kheo, vua Chuyển Luân, sau khi đã khéo
+không nhà.' Rồi này các thầy, vua Chuyển Luân, sau khi đã khéo
 dạy dỗ hoàng tử trưởng về việc trị nước, liền cạo bỏ râu tóc, đắp
 áo cà-sa, xuất gia, từ bỏ gia đình, sống không nhà. Này các
 Tỷ-kheo, khi vị vua ẩn sĩ ấy xuất gia được bảy ngày, thì xe báu
 linh diệu biến mất.
 
-#super[11] "Rồi này các Tỷ-kheo, có một người đến chỗ vị vua dòng
+#super[11] "Rồi này các thầy, có một người đến chỗ vị vua dòng
 Sát-đế-lị đã được quán đảnh, tâu: 'Tâu đại vương, xin đại vương
-biết rằng xe báu linh diệu đã biến mất.' Này các Tỷ-kheo, khi xe
+biết rằng xe báu linh diệu đã biến mất.' Này các thầy, khi xe
 báu linh diệu biến mất, vị vua dòng Sát-đế-lị ấy không vui, cảm
 thấy buồn bã — nhưng vị ấy không đến gặp vị vua ẩn sĩ để hỏi về Bổn
 phận cao quý của vua Chuyển Luân, mà chỉ cai trị dân chúng theo ý
 riêng của mình. Khi vị ấy cai trị dân chúng theo ý riêng như vậy,
 dân chúng không được thịnh vượng như dưới thời các vị vua trước
 đây đã thực hành đúng theo Bổn phận cao quý của vua Chuyển Luân.
-Rồi này các Tỷ-kheo, các quan đại thần, các vị cận thần, các quan
+Rồi này các thầy, các quan đại thần, các vị cận thần, các quan
 coi ngân khố, các tướng lãnh, các người gác cổng, các vị cố vấn tụ
 họp lại, tâu vua dòng Sát-đế-lị: 'Tâu bệ hạ, khi bệ hạ cai trị dân
 chúng theo ý riêng, dân chúng không được thịnh vượng như dưới thời
@@ -1410,7 +1397,7 @@ quý của vua Chuyển Luân; chúng thần sẽ trình lên bệ hạ.'
 
 #strong[Chuyện Tuổi Thọ Và Dung Sắc Suy Giảm]
 
-#super[12] "Rồi này các Tỷ-kheo, vua dòng Sát-đế-lị đã được quán
+#super[12] "Rồi này các thầy, vua dòng Sát-đế-lị đã được quán
 đảnh cho tập hợp các quan đại thần, cận thần, quan coi ngân khố,
 tướng lãnh, người gác cổng, cố vấn, hỏi về Bổn phận cao quý của vua
 Chuyển Luân. Được hỏi, họ trình lên vua về Bổn phận cao quý của vua
@@ -1423,12 +1410,12 @@ kẻ ấy, dẫn đến trình vua dòng Sát-đế-lị: 'Tâu bệ hạ, ngư�
 lấy của không cho của người khác.' Vua hỏi kẻ ấy: 'Này khanh, có
 thật là khanh đã lấy của không cho của người khác?' — 'Thật vậy,
 tâu bệ hạ.' — 'Vì lý do gì?' — 'Tâu bệ hạ, vì con không có gì để
-sống.' Rồi này các Tỷ-kheo, vua dòng Sát-đế-lị ban tiền của cho kẻ
+sống.' Rồi này các thầy, vua dòng Sát-đế-lị ban tiền của cho kẻ
 ấy: 'Này khanh, hãy dùng số tiền này để tự mình sinh sống, để nuôi
 dưỡng cha mẹ, nuôi dưỡng vợ con, để làm ăn, và để dâng cúng các vị
 Sa-môn, Bà-la-môn những phần cúng dường đưa đến quả lành, hướng lên
 các cõi cao, đem lại an lạc, đưa đến cõi trời.' — 'Xin vâng, tâu bệ
-hạ' — kẻ ấy đáp lời vua. Này các Tỷ-kheo, lại có một người khác
+hạ' — kẻ ấy đáp lời vua. Này các thầy, lại có một người khác
 cũng lấy của không cho của người khác. Người ta bắt được, dẫn đến
 trình vua: 'Tâu bệ hạ, người này đã lấy của không cho của người
 khác.' Vua hỏi: 'Này khanh, có thật là khanh đã lấy của không cho
@@ -1436,15 +1423,15 @@ của người khác?' — 'Thật vậy, tâu bệ hạ.' — 'Vì lý do gì?'
 bệ hạ, vì con không có gì để sống.' Vua cũng ban tiền của cho kẻ ấy
 như trước. 'Xin vâng, tâu bệ hạ' — kẻ ấy đáp lời vua.
 
-#super[13] "Này các Tỷ-kheo, dân chúng nghe được: 'Này các bạn,
+#super[13] "Này các thầy, dân chúng nghe được: 'Này các bạn,
 nghe đâu hễ ai lấy của không cho của người khác, vua đều ban tiền
 của cho họ.' Nghe vậy, họ nghĩ: 'Vậy chúng ta cũng nên lấy của
-không cho của người khác.' Rồi này các Tỷ-kheo, có một người khác
+không cho của người khác.' Rồi này các thầy, có một người khác
 lại lấy của không cho. Người ta bắt được, dẫn đến trình vua: 'Tâu
 bệ hạ, người này đã lấy của không cho của người khác.' Vua hỏi:
 'Này khanh, có thật là khanh đã lấy của không cho của người khác?'
 — 'Thật vậy, tâu bệ hạ.' — 'Vì lý do gì?' — 'Tâu bệ hạ, vì con
-không có gì để sống.' Rồi này các Tỷ-kheo, vua dòng Sát-đế-lị nghĩ:
+không có gì để sống.' Rồi này các thầy, vua dòng Sát-đế-lị nghĩ:
 'Nếu hễ ai lấy của không cho, ta đều ban tiền của cho họ, thì nạn
 trộm cắp này sẽ ngày càng lan rộng. Vậy ta phải trừng trị dứt điểm
 kẻ này, phải diệt trừ tận gốc, phải chặt đầu kẻ ấy.' Rồi này các
@@ -1452,12 +1439,12 @@ Tỷ-kheo, vua ra lệnh cho người của mình: 'Này các khanh, hãy trói
 chặt hai tay kẻ này ra sau lưng bằng dây thật chắc, cạo đầu kẻ ấy,
 dẫn kẻ ấy đi khắp các nẻo đường, các ngã tư theo tiếng trống rền
 rĩ, dẫn ra khỏi cửa nam thành, xử tử ở phía nam thành, diệt trừ
-tận gốc, chặt đầu kẻ ấy.' Này các Tỷ-kheo, những người ấy vâng lệnh
+tận gốc, chặt đầu kẻ ấy.' Này các thầy, những người ấy vâng lệnh
 vua, trói chặt hai tay kẻ ấy ra sau lưng, cạo đầu, dẫn đi khắp các
 nẻo đường theo tiếng trống, dẫn ra khỏi cửa nam thành, xử tử ở phía
 nam thành, diệt trừ tận gốc, chặt đầu kẻ ấy.
 
-#super[14] "Này các Tỷ-kheo, dân chúng nghe được: 'Này các bạn,
+#super[14] "Này các thầy, dân chúng nghe được: 'Này các bạn,
 nghe đâu hễ ai lấy của không cho của người khác, vua đều xử tử,
 diệt trừ tận gốc, chặt đầu họ.' Nghe vậy, họ nghĩ: 'Vậy chúng ta
 hãy chế tạo vũ khí sắc bén; sau khi có vũ khí sắc bén, hễ ai lấy
@@ -1467,7 +1454,7 @@ mạc, cướp phá thị trấn, cướp phá thành phố, chặn đường c�
 ai lấy của không cho của họ, họ xử tử người ấy, diệt trừ tận gốc,
 chặt đầu người ấy.
 
-#super[15] "Như vậy, này các Tỷ-kheo, do không chu cấp tiền của
+#super[15] "Như vậy, này các thầy, do không chu cấp tiền của
 cho người nghèo, nạn nghèo khó lan rộng; nạn nghèo khó lan rộng,
 nạn trộm cắp lan rộng; nạn trộm cắp lan rộng, vũ khí lan rộng; vũ
 khí lan rộng, nạn sát sinh lan rộng; nạn sát sinh lan rộng, tuổi
@@ -1481,14 +1468,14 @@ cho của người khác.' Vua hỏi kẻ ấy: 'Này khanh, có thật là khan
 đã lấy của không cho của người khác?' Kẻ ấy đáp: 'Không, tâu bệ
 hạ' — biết rõ là dối mà vẫn cố ý nói dối.
 
-#super[16] "Như vậy, này các Tỷ-kheo, do không chu cấp tiền của
+#super[16] "Như vậy, này các thầy, do không chu cấp tiền của
 cho người nghèo, nạn nghèo khó lan rộng; nạn nghèo khó lan rộng,
 nạn trộm cắp lan rộng; nạn trộm cắp lan rộng, vũ khí lan rộng; vũ
 khí lan rộng, nạn sát sinh lan rộng; nạn sát sinh lan rộng, nạn nói
 dối lan rộng; nạn nói dối lan rộng, tuổi thọ và dung sắc của họ suy
 giảm. Khi tuổi thọ và dung sắc suy giảm như vậy, những người sống
 bốn mươi ngàn năm thì con cái họ chỉ sống đến hai mươi ngàn năm.
-Này các Tỷ-kheo, trong số những người sống hai mươi ngàn năm ấy, có
+Này các thầy, trong số những người sống hai mươi ngàn năm ấy, có
 một người lấy của không cho của người khác. Một người khác đem
 việc ấy đến mách với vua dòng Sát-đế-lị: 'Tâu bệ hạ, người tên như
 vậy đã lấy của không cho của người khác' — đó là hành vi nói hai
@@ -1509,37 +1496,37 @@ dung sắc của họ suy giảm. Khi tuổi thọ và dung sắc suy giảm nh�
 vậy, những người sống mười ngàn năm thì con cái họ chỉ sống đến
 năm ngàn năm.
 
-#super[19] "Này các Tỷ-kheo, trong số những người sống năm ngàn
+#super[19] "Này các thầy, trong số những người sống năm ngàn
 năm ấy, có hai pháp lan rộng: lời nói độc ác và lời nói phù phiếm.
 Khi hai pháp ấy lan rộng, tuổi thọ và dung sắc của họ suy giảm.
 Khi tuổi thọ và dung sắc suy giảm như vậy, những người sống năm
 ngàn năm thì con cái họ, có người chỉ sống đến hai ngàn năm trăm
 năm, có người chỉ sống đến hai ngàn năm.
 
-#super[20] "Này các Tỷ-kheo, trong số những người sống hai ngàn
+#super[20] "Này các thầy, trong số những người sống hai ngàn
 năm trăm năm ấy, tham lam và sân hận lan rộng. Khi tham lam và sân
 hận lan rộng, tuổi thọ và dung sắc của họ suy giảm. Khi tuổi thọ và
 dung sắc suy giảm như vậy, những người sống hai ngàn năm trăm năm
 thì con cái họ chỉ sống đến một ngàn năm.
 
-#super[21] "Này các Tỷ-kheo, trong số những người sống một ngàn
+#super[21] "Này các thầy, trong số những người sống một ngàn
 năm ấy, tà kiến lan rộng. Khi tà kiến lan rộng, tuổi thọ và dung
 sắc của họ suy giảm. Khi tuổi thọ và dung sắc suy giảm như vậy,
 những người sống một ngàn năm thì con cái họ chỉ sống đến năm trăm
 năm.
 
-#super[22] "Này các Tỷ-kheo, trong số những người sống năm trăm
+#super[22] "Này các thầy, trong số những người sống năm trăm
 năm ấy, có ba pháp lan rộng: dục vọng phi pháp, tham lam quá độ, tà
 pháp. Khi ba pháp ấy lan rộng, tuổi thọ và dung sắc của họ suy
 giảm. Khi tuổi thọ và dung sắc suy giảm như vậy, những người sống
 năm trăm năm thì con cái họ, có người chỉ sống đến hai trăm năm
-mươi năm, có người chỉ sống đến hai trăm năm. Này các Tỷ-kheo,
+mươi năm, có người chỉ sống đến hai trăm năm. Này các thầy,
 trong số những người sống hai trăm năm mươi năm ấy, các pháp này
 lan rộng: bất hiếu với mẹ, bất hiếu với cha, không kính trọng
 Sa-môn, không kính trọng Bà-la-môn, không tôn kính bậc trưởng
 thượng trong gia tộc.
 
-#super[23] "Như vậy, này các Tỷ-kheo, do không chu cấp tiền của
+#super[23] "Như vậy, này các thầy, do không chu cấp tiền của
 cho người nghèo, nạn nghèo khó lan rộng; nạn nghèo khó lan rộng,
 nạn trộm cắp lan rộng; nạn trộm cắp lan rộng, vũ khí lan rộng; vũ
 khí lan rộng, nạn sát sinh lan rộng; nạn sát sinh lan rộng, nạn nói
@@ -1558,19 +1545,19 @@ trăm năm mươi năm thì con cái họ chỉ sống đến một trăm năm.
 
 #strong[Thời Kỳ Loài Người Chỉ Sống Mười Năm]
 
-#super[24] "Này các Tỷ-kheo, sẽ có một thời, khi con cái của những
-người ấy chỉ sống đến mười năm. Này các Tỷ-kheo, khi loài người
+#super[24] "Này các thầy, sẽ có một thời, khi con cái của những
+người ấy chỉ sống đến mười năm. Này các thầy, khi loài người
 sống mười năm, các cô gái mới năm tuổi đã có thể lấy chồng. Này
 các Tỷ-kheo, khi loài người sống mười năm, các vị này sẽ biến mất:
-bơ lỏng, bơ đặc, dầu ăn, mật, đường mía, muối. Này các Tỷ-kheo, khi
+bơ lỏng, bơ đặc, dầu ăn, mật, đường mía, muối. Này các thầy, khi
 loài người sống mười năm, hạt kudrūsaka — một loại hạt kê dại — sẽ
 trở thành món ăn ngon nhất; cũng như hiện nay cơm gạo thơm với thịt
 là món ăn ngon nhất, thì khi ấy hạt kudrūsaka sẽ là món ăn ngon
-nhất. Này các Tỷ-kheo, khi loài người sống mười năm, mười nghiệp
+nhất. Này các thầy, khi loài người sống mười năm, mười nghiệp
 đạo thiện sẽ hoàn toàn biến mất, mười nghiệp đạo bất thiện sẽ cực
-kỳ hưng thịnh. Này các Tỷ-kheo, khi loài người sống mười năm, sẽ
+kỳ hưng thịnh. Này các thầy, khi loài người sống mười năm, sẽ
 không còn khái niệm 'thiện' nữa, huống gì có người làm điều thiện.
-Này các Tỷ-kheo, khi loài người sống mười năm, những ai bất hiếu
+Này các thầy, khi loài người sống mười năm, những ai bất hiếu
 với mẹ, bất hiếu với cha, không kính trọng Sa-môn, không kính
 trọng Bà-la-môn, không tôn kính bậc trưởng thượng trong gia tộc —
 những người ấy sẽ được tôn kính, được ca ngợi; cũng như hiện nay
@@ -1580,7 +1567,7 @@ kính trọng Bà-la-môn, tôn kính bậc trưởng thượng trong gia tộc
 các Tỷ-kheo, khi loài người sống mười năm, sẽ không còn ai được
 xem là mẹ, là dì, là mợ, là vợ của thầy, là vợ của các vị đáng
 kính trọng nữa. Thế gian sẽ trở nên hỗn loạn như loài dê, loài gà,
-loài heo, loài chó, loài chó rừng. Này các Tỷ-kheo, khi loài người
+loài heo, loài chó, loài chó rừng. Này các thầy, khi loài người
 sống mười năm, giữa các loài hữu tình ấy sẽ khởi lên sự thù hận
 gay gắt lẫn nhau, ác ý gay gắt, tâm sân hận gay gắt, tâm muốn giết
 hại gay gắt — mẹ đối với con, con đối với mẹ; cha đối với con, con
@@ -1590,11 +1577,11 @@ thù hận gay gắt, ác ý gay gắt, tâm sân hận gay gắt, tâm muốn g
 hại gay gắt — cũng vậy, giữa những loài hữu tình ấy sẽ khởi lên sự
 thù hận, ác ý, sân hận, tâm muốn giết hại gay gắt lẫn nhau như thế.
 
-#super[25] "Này các Tỷ-kheo, khi loài người sống mười năm, sẽ có
+#super[25] "Này các thầy, khi loài người sống mười năm, sẽ có
 một thời kỳ 'đại nạn đao binh' kéo dài bảy ngày. Trong thời kỳ ấy,
 họ sẽ nhìn nhau như loài dã thú; những vũ khí sắc bén sẽ xuất hiện
 sẵn trong tay họ; họ dùng những vũ khí sắc bén ấy giết hại nhau,
-nghĩ rằng 'đây là dã thú, đây là dã thú.' Rồi này các Tỷ-kheo, một
+nghĩ rằng 'đây là dã thú, đây là dã thú.' Rồi này các thầy, một
 số trong những loài hữu tình ấy sẽ nghĩ: 'Chúng ta đừng làm hại ai,
 đừng để ai làm hại chúng ta — chúng ta hãy vào những nơi cỏ rậm,
 rừng rậm, gốc cây rậm, khe sông hiểm trở, hay núi non gập ghềnh,
@@ -1607,7 +1594,7 @@ còn sống!'
 
 #strong[Chuyện Tuổi Thọ Và Dung Sắc Tăng Trưởng]
 
-#super[26] "Rồi này các Tỷ-kheo, những loài hữu tình ấy sẽ nghĩ:
+#super[26] "Rồi này các thầy, những loài hữu tình ấy sẽ nghĩ:
 'Chính vì đã thọ trì các pháp bất thiện mà chúng ta đã lâm vào cảnh
 diệt vong người thân kéo dài như vậy. Vậy chúng ta hãy làm điều
 thiện. Nên làm điều thiện gì? Chúng ta hãy từ bỏ sát sinh — hãy thọ
@@ -1615,7 +1602,7 @@ trì và thực hành pháp thiện này.' Họ sẽ từ bỏ sát sinh, thọ 
 thực hành pháp thiện ấy. Nhờ thọ trì các pháp thiện, tuổi thọ của
 họ sẽ tăng, dung sắc cũng tăng. Khi tuổi thọ và dung sắc của họ
 tăng như vậy, những người sống mười năm thì con cái họ sẽ sống đến
-hai mươi năm. Rồi này các Tỷ-kheo, những loài hữu tình ấy sẽ nghĩ
+hai mươi năm. Rồi này các thầy, những loài hữu tình ấy sẽ nghĩ
 tiếp: 'Nhờ thọ trì các pháp thiện mà tuổi thọ và dung sắc của chúng
 ta đã tăng. Vậy chúng ta hãy làm thêm điều thiện nữa. Nên làm điều
 thiện gì? Chúng ta hãy từ bỏ trộm cắp... từ bỏ tà hạnh trong các
@@ -1634,24 +1621,24 @@ mươi năm... những người sống bốn mươi năm thì con cái họ sẽ
 đến tám mươi năm... rồi lần lượt tăng lên một trăm sáu mươi năm...
 ba trăm hai mươi năm... sáu trăm bốn mươi năm... hai ngàn năm...
 bốn ngàn năm... tám ngàn năm... hai mươi ngàn năm... bốn mươi ngàn
-năm... tám mươi ngàn năm. Này các Tỷ-kheo, khi loài người sống tám
+năm... tám mươi ngàn năm. Này các thầy, khi loài người sống tám
 mươi ngàn năm, các cô gái năm trăm tuổi mới có thể lấy chồng.
 
 #strong[Vua Saṅkha Xuất Hiện]
 
-#super[27] "Này các Tỷ-kheo, khi loài người sống tám mươi ngàn
+#super[27] "Này các thầy, khi loài người sống tám mươi ngàn
 năm, sẽ có ba loại bệnh: ham muốn, không ăn, và già. Này các
 Tỷ-kheo, khi loài người sống tám mươi ngàn năm, cõi Jambudīpa này
 sẽ trở nên giàu có, phồn thịnh, các làng mạc, thị trấn, kinh đô sẽ
 liền kề nhau như tiếng gà gáy vang từ nơi này sang nơi khác. Này
 các Tỷ-kheo, khi loài người sống tám mươi ngàn năm, cõi Jambudīpa
 này sẽ đông đúc như địa ngục Avīci — ví như một khu rừng sậy hay
-rừng lau. Này các Tỷ-kheo, khi loài người sống tám mươi ngàn năm,
+rừng lau. Này các thầy, khi loài người sống tám mươi ngàn năm,
 thành Bārāṇasī này sẽ có tên là kinh đô Ketumatī, giàu có, phồn
-thịnh, dân cư đông đúc, sung túc, đầy đủ vật thực. Này các Tỷ-kheo,
+thịnh, dân cư đông đúc, sung túc, đầy đủ vật thực. Này các thầy,
 khi loài người sống tám mươi ngàn năm, trong cõi Jambudīpa này sẽ
 có tám mươi bốn ngàn thành phố, với kinh đô Ketumatī là thành phố
-đứng đầu. Này các Tỷ-kheo, khi loài người sống tám mươi ngàn năm,
+đứng đầu. Này các thầy, khi loài người sống tám mươi ngàn năm,
 tại kinh đô Ketumatī sẽ có một vị vua tên là Saṅkha xuất hiện, là
 vị Chuyển Luân Vương, đấng hành trì Chánh pháp, vị Pháp vương, đã
 chinh phục bốn phương, đạt được sự an toàn cho quốc độ, đầy đủ bảy
@@ -1665,7 +1652,7 @@ quản.
 
 #strong[Đức Phật Metteyya Xuất Hiện]
 
-#super[28] "Này các Tỷ-kheo, khi loài người sống tám mươi ngàn
+#super[28] "Này các thầy, khi loài người sống tám mươi ngàn
 năm, sẽ có Thế Tôn tên là Metteyya xuất hiện ở đời, là vị A-la-hán,
 Chánh Đẳng Giác, đầy đủ Minh Hạnh, Thiện Thệ, Thế Gian Giải, Vô
 Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn — cũng
@@ -1682,7 +1669,7 @@ cuối, đầy đủ ý nghĩa và văn cú, tuyên bố Phạm hạnh hoàn to�
 Vị ấy sẽ lãnh đạo chúng Tỷ-kheo gồm nhiều ngàn vị — cũng như hiện
 nay Ta lãnh đạo chúng Tỷ-kheo gồm nhiều trăm vị.
 
-#super[29] "Rồi này các Tỷ-kheo, vua Saṅkha sẽ cho dựng lại cây
+#super[29] "Rồi này các thầy, vua Saṅkha sẽ cho dựng lại cây
 trụ tế lễ mà vua Mahāpanāda đã từng cho dựng, rồi sau khi đã dựng
 lên, an trú, sử dụng nó, đem bố thí, từ bỏ nó, cúng dường vật thực
 cho các Sa-môn, Bà-la-môn, những người nghèo khó, những kẻ hành
@@ -1695,20 +1682,20 @@ tuệ tối thắng, mục đích tối cao của đời sống Phạm hạnh m�
 người con nhà lành đã vì đó mà xuất gia, từ bỏ gia đình, sống
 không nhà — và an trú, thành tựu mục đích ấy.
 
-#super[30] "Này các Tỷ-kheo, hãy sống tự mình là hòn đảo của mình,
+#super[30] "Này các thầy, hãy sống tự mình là hòn đảo của mình,
 tự mình là nơi nương tựa của mình, không nương tựa nơi khác; hãy
 lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương tựa,
-không nương tựa nơi khác. Này các Tỷ-kheo, thế nào là Tỷ-kheo tự
+không nương tựa nơi khác. Này các thầy, thế nào là Tỷ-kheo tự
 mình là hòn đảo, tự mình là nơi nương tựa, không nương tựa nơi
 khác; lấy Chánh pháp làm hòn đảo, lấy Chánh pháp làm nơi nương
-tựa, không nương tựa nơi khác? Ở đây, này các Tỷ-kheo, Tỷ-kheo an
+tựa, không nương tựa nơi khác? Ở đây, này các thầy, Tỷ-kheo an
 trú quán thân trên thân, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp
 phục tham ưu đối với thế gian; an trú quán thọ trên các cảm thọ,
 nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu đối với thế
 gian; an trú quán tâm trên tâm, nhiệt tâm, tỉnh giác, chánh niệm,
 nhiếp phục tham ưu đối với thế gian; an trú quán pháp trên các
 pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu đối với
-thế gian. Như vậy, này các Tỷ-kheo, là Tỷ-kheo tự mình là hòn đảo,
+thế gian. Như vậy, này các thầy, là Tỷ-kheo tự mình là hòn đảo,
 tự mình là nơi nương tựa, không nương tựa nơi khác; lấy Chánh pháp
 làm hòn đảo, lấy Chánh pháp làm nơi nương tựa, không nương tựa nơi
 khác.
@@ -1716,30 +1703,30 @@ khác.
 #strong[Tuổi Thọ, Dung Sắc, An Lạc, Tài Sản Và Sức Mạnh Của
 Tỷ-kheo]
 
-#super[31] "Này các Tỷ-kheo, hãy dạo đi trong lãnh địa của chính
-mình, lãnh địa của cha ông mình. Này các Tỷ-kheo, khi dạo đi trong
+#super[31] "Này các thầy, hãy dạo đi trong lãnh địa của chính
+mình, lãnh địa của cha ông mình. Này các thầy, khi dạo đi trong
 lãnh địa của chính mình, lãnh địa của cha ông mình như vậy, các
 thầy sẽ tăng thêm tuổi thọ, tăng thêm dung sắc, tăng thêm an lạc,
-tăng thêm tài sản, tăng thêm sức mạnh. Này các Tỷ-kheo, thế nào là
-tuổi thọ của Tỷ-kheo? Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập nền
+tăng thêm tài sản, tăng thêm sức mạnh. Này các thầy, thế nào là
+tuổi thọ của Tỷ-kheo? Ở đây, này các thầy, Tỷ-kheo tu tập nền
 tảng thần thông đi cùng chánh định do ước muốn làm động lực, tu
 tập nền tảng thần thông đi cùng chánh định do tinh tấn làm động
 lực, tu tập nền tảng thần thông đi cùng chánh định do tâm làm động
 lực, tu tập nền tảng thần thông đi cùng chánh định do sự thẩm sát
 làm động lực. Nhờ đã tu tập, phát triển sung mãn bốn nền tảng thần
 thông này, nếu ước muốn, vị ấy có thể sống đến hết một kiếp, hoặc
-hơn một kiếp. Này các Tỷ-kheo, đó là tuổi thọ của Tỷ-kheo. Này các
-Tỷ-kheo, thế nào là dung sắc của Tỷ-kheo? Ở đây, này các Tỷ-kheo,
+hơn một kiếp. Này các thầy, đó là tuổi thọ của Tỷ-kheo. Này các
+Tỷ-kheo, thế nào là dung sắc của Tỷ-kheo? Ở đây, này các thầy,
 Tỷ-kheo có giới, sống chế ngự với sự chế ngự của giới bổn
 Pātimokkha, đầy đủ chánh hạnh và chánh hành xứ, thấy sợ hãi trong
 những lỗi nhỏ nhặt, thọ trì và học tập các học pháp. Này các
-Tỷ-kheo, đó là dung sắc của Tỷ-kheo. Này các Tỷ-kheo, thế nào là an
-lạc của Tỷ-kheo? Ở đây, này các Tỷ-kheo, Tỷ-kheo ly dục, ly các bất
+Tỷ-kheo, đó là dung sắc của Tỷ-kheo. Này các thầy, thế nào là an
+lạc của Tỷ-kheo? Ở đây, này các thầy, Tỷ-kheo ly dục, ly các bất
 thiện pháp, chứng và trú Sơ thiền — một trạng thái có tầm có tứ,
 có hỷ lạc do ly dục sinh. Do tầm tứ lắng dịu, chứng và trú Nhị
 thiền; do ly hỷ, chứng và trú Tam thiền; do đoạn lạc đoạn khổ,
-chứng và trú Tứ thiền. Này các Tỷ-kheo, đó là an lạc của Tỷ-kheo.
-Này các Tỷ-kheo, thế nào là tài sản của Tỷ-kheo? Ở đây, này các
+chứng và trú Tứ thiền. Này các thầy, đó là an lạc của Tỷ-kheo.
+Này các thầy, thế nào là tài sản của Tỷ-kheo? Ở đây, này các
 Tỷ-kheo, Tỷ-kheo an trú, biến mãn một phương với tâm câu hữu với
 từ; cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như
 vậy, cùng khắp thế giới, trên dưới, bề ngang, hết thảy phương xứ,
@@ -1750,12 +1737,12 @@ hữu với hỷ... với tâm câu hữu với xả; cũng vậy phương thứ
 phương thứ ba, phương thứ tư. Như vậy, cùng khắp thế giới, trên
 dưới, bề ngang, hết thảy phương xứ, khắp cả vô biên giới, vị ấy an
 trú, biến mãn với tâm câu hữu với xả, quảng đại, to lớn, vô lượng,
-không oán hận, không sân độc. Này các Tỷ-kheo, đó là tài sản của
-Tỷ-kheo. Này các Tỷ-kheo, thế nào là sức mạnh của Tỷ-kheo? Ở đây,
-này các Tỷ-kheo, Tỷ-kheo do đoạn diệt các lậu hoặc mà chứng đắc tâm
+không oán hận, không sân độc. Này các thầy, đó là tài sản của
+Tỷ-kheo. Này các thầy, thế nào là sức mạnh của Tỷ-kheo? Ở đây,
+này các thầy, Tỷ-kheo do đoạn diệt các lậu hoặc mà chứng đắc tâm
 giải thoát vô lậu, tuệ giải thoát, tự mình chứng ngộ ngay trong đời
-này bằng trí tuệ tối thắng, an trú, thành tựu. Này các Tỷ-kheo, đó
-là sức mạnh của Tỷ-kheo. Này các Tỷ-kheo, Ta không thấy có sức mạnh
+này bằng trí tuệ tối thắng, an trú, thành tựu. Này các thầy, đó
+là sức mạnh của Tỷ-kheo. Này các thầy, Ta không thấy có sức mạnh
 nào khác khó khắc phục bằng sức mạnh của Ác ma. Chính do nhân duyên
 thọ trì các thiện pháp mà công đức này tăng trưởng như vậy." Thế
 Tôn thuyết như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn
@@ -2908,10 +2895,10 @@ dạy.
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, trong
 Kỳ Viên, tu viện của trưởng giả Cấp Cô Độc. Tại đó, Thế Tôn gọi các
-Tỷ-kheo: "Này các Tỷ-kheo." — "Bạch Thế Tôn" — các Tỷ-kheo ấy đáp lời.
+Tỷ-kheo: "Này các thầy." — "Bạch Thế Tôn" — các Tỷ-kheo ấy đáp lời.
 Thế Tôn dạy:
 
-#super[2] "Này các Tỷ-kheo, Đại Nhân có đủ ba mươi hai tướng tốt. Ai có
+#super[2] "Này các thầy, Đại Nhân có đủ ba mươi hai tướng tốt. Ai có
 đủ ba mươi hai tướng ấy thì chỉ có thể đi theo một trong hai con đường,
 không có con đường thứ ba: nếu sống đời gia chủ, sẽ trở thành vị
 Chuyển Luân Thánh Vương, đúng Chánh pháp, trị nước đúng Chánh pháp,
@@ -2924,17 +2911,17 @@ mà dùng Chánh pháp để chinh phục và cai trị. Nếu từ bỏ đời 
 xuất gia sống không gia đình, vị ấy sẽ thành A-la-hán, Chánh Đẳng
 Giác, vị đã lật mở màn che phủ thế gian."
 
-#super[3] "Này các Tỷ-kheo, ba mươi hai tướng ấy của Đại Nhân — mà ai
+#super[3] "Này các thầy, ba mươi hai tướng ấy của Đại Nhân — mà ai
 có đủ thì chỉ đi một trong hai con đường, không có con đường thứ ba —
-là những tướng nào? Ở đây, này các Tỷ-kheo, Đại Nhân có bàn chân đặt
+là những tướng nào? Ở đây, này các thầy, Đại Nhân có bàn chân đặt
 vững chãi — đặt xuống đất đều khắp, nhấc lên đều khắp, chạm đất đều
 khắp bằng cả gan bàn chân. Đây cũng là một tướng của Đại Nhân.
 
-Lại nữa, này các Tỷ-kheo, dưới lòng hai bàn chân của Đại Nhân có hình
+Lại nữa, này các thầy, dưới lòng hai bàn chân của Đại Nhân có hình
 bánh xe hiện ra, đủ một ngàn tăm, đủ vành, đủ trục, hoàn hảo mọi chi
 tiết. Đây cũng là một tướng của Đại Nhân.
 
-Lại nữa, này các Tỷ-kheo, Đại Nhân có gót chân dài đầy; có ngón tay
+Lại nữa, này các thầy, Đại Nhân có gót chân dài đầy; có ngón tay
 ngón chân dài, thon; có tay chân mềm mại, non mịn; có tay chân với
 màng lưới mỏng nối liền các ngón; có mắt cá chân nổi cao; có ống chân
 thon như chân con sơn dương; đứng thẳng, không khom mình, mà hai bàn
@@ -2955,14 +2942,14 @@ ca-lăng-tần-già; có mắt màu xanh thẫm; có lông mi dày, cong đẹp 
 lông mi bò. Và Đại Nhân có lông trắng mềm mại như bông gòn (bạch hào)
 mọc giữa hai chân mày. Đây cũng là một tướng của Đại Nhân.
 
-Lại nữa, này các Tỷ-kheo, đỉnh đầu Đại Nhân có nhục kế nhô cao tự
+Lại nữa, này các thầy, đỉnh đầu Đại Nhân có nhục kế nhô cao tự
 nhiên. Đây cũng là một tướng của Đại Nhân.
 
-Này các Tỷ-kheo, đó là ba mươi hai tướng của Đại Nhân — ai có đủ thì
+Này các thầy, đó là ba mươi hai tướng của Đại Nhân — ai có đủ thì
 chỉ đi một trong hai con đường, không có con đường thứ ba: nếu sống
 đời gia chủ, sẽ trở thành Chuyển Luân Thánh Vương... nếu xuất gia,
 sẽ thành A-la-hán, Chánh Đẳng Giác, vị đã lật mở màn che phủ thế
-gian. Này các Tỷ-kheo, ba mươi hai tướng ấy của Đại Nhân, cả các vị
+gian. Này các thầy, ba mươi hai tướng ấy của Đại Nhân, cả các vị
 ẩn sĩ ngoại đạo cũng biết mà truyền tụng, nhưng họ không biết: 'Do đã
 làm nghiệp gì mà có được tướng này.'"
 
@@ -2970,7 +2957,7 @@ làm nghiệp gì mà có được tướng này.'"
 
 #super[4] Tướng thứ nhất: bàn chân đặt vững chãi.
 
-#super[5] "Này các Tỷ-kheo, Như Lai trong đời trước, kiếp sống trước,
+#super[5] "Này các thầy, Như Lai trong đời trước, kiếp sống trước,
 khi còn là người, đã kiên trì giữ vững các pháp lành — kiên trì giữ
 vững thân hành lành, khẩu hành lành, ý hành lành; giữ vững việc bố
 thí, chia sẻ; giữ vững giới hạnh; giữ vững ngày trai giới; hiếu kính
@@ -3020,7 +3007,7 @@ tánh tự nhiên của vị ấy."
 
 #super[8] Tướng thứ hai: dưới lòng bàn chân có hình bánh xe.
 
-#super[9] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[9] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã mang lại an lạc cho nhiều người, xua tan mọi sự sợ hãi,
 kinh hoàng, lo lắng cho họ; đã khéo sắp đặt sự bảo hộ, che chở đúng
 pháp; đã bố thí kèm theo các vật tùy thuộc. Do nghiệp ấy đã làm, đã
@@ -3057,7 +3044,7 @@ loài người tôn thờ, với danh tiếng lớn lao."
 
 #strong[Ba Tướng: Gót Chân Dài, Ngón Tay Ngón Chân Dài, Thân Ngay Thẳng Như Phạm Thiên]
 
-#super[11] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[11] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từ bỏ sát sinh, xa lánh sát sinh, bỏ dao bỏ gậy, biết hổ
 thẹn, có lòng thương xót, sống với tâm từ bi đối với mọi loài chúng
 sinh. Do nghiệp ấy đã làm... sau khi thân hoại mạng chung, được sinh
@@ -3089,7 +3076,7 @@ lâu này."
 
 #super[13] Tướng thứ sáu: bảy chỗ trên thân đầy đặn, nở nang.
 
-#super[14] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[14] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từng bố thí các loại đồ ăn, thức uống thượng vị, tinh
 khiết — các món để nhai, để ăn, để nhấm, để nuốt, để uống. Do nghiệp
 ấy đã làm... Từ đó mạng chung, trở lại làm người, Như Lai có được
@@ -3114,7 +3101,7 @@ nhất — được xem là điều cởi bỏ mọi ràng buộc của đời s
 
 #strong[Hai Tướng: Tay Chân Mềm Mại, Tay Chân Có Màng Lưới]
 
-#super[16] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[16] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã dùng bốn nền tảng thu phục lòng người để thu phục mọi người
 — bằng bố thí, lời nói dễ thương, làm việc lợi ích, và đối xử bình
 đẳng. Do nghiệp ấy đã làm... Từ đó mạng chung, trở lại làm người, Như
@@ -3144,7 +3131,7 @@ rồi thực hành đúng theo Chánh pháp."
 
 #strong[Hai Tướng: Mắt Cá Chân Nổi Cao, Lông Mọc Hướng Lên]
 
-#super[18] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[18] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã nói lời gắn liền với lợi ích, gắn liền với Chánh pháp, chỉ
 dạy cho nhiều người, mang lại lợi ích an lạc cho mọi loài, là người
 'hiến tế bằng Chánh pháp' (không sát sinh tế thần mà đem Chánh pháp
@@ -3175,7 +3162,7 @@ gian."
 
 #super[20] Tướng thứ mười một: ống chân thon như chân con sơn dương.
 
-#super[21] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[21] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã tận tâm dạy người khác một nghề, một môn học, một nếp sống,
 hay một công việc, với ý nghĩ: 'Làm sao để họ hiểu nhanh, thực hành
 nhanh, không phải khổ sở lâu dài.' Do nghiệp ấy đã làm... Từ đó mạng
@@ -3204,7 +3191,7 @@ gia. Còn nếu người như vậy xuất gia, với sự nỗ lực không gì
 
 #super[23] Tướng thứ mười hai: da mịn.
 
-#super[24] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[24] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã đến gặp các Sa-môn, Bà-la-môn, hỏi han: 'Bạch ngài, thế nào
 là thiện, thế nào là bất thiện, thế nào là có lỗi, thế nào là không
 lỗi, điều gì nên làm, điều gì không nên làm, làm điều gì sẽ khiến con
@@ -3235,7 +3222,7 @@ tối thắng, đạt đến giác ngộ, với tuệ giác rộng lớn cao qu�
 
 #super[26] Tướng thứ mười ba: màu da vàng ánh như sắc vàng.
 
-#super[27] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[27] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, không hay giận dữ, không hay lo âu phiền muộn; dù bị nhiều
 người chỉ trích, cũng không nổi giận, không tức tối, không chống đối,
 không để lộ ra sự giận hờn, oán ghét, bất bình. Lại còn là người bố
@@ -3266,7 +3253,7 @@ không hề mất đi."
 
 #super[29] Tướng thứ mười bốn: tướng ẩn mật (nam căn) được che kín.
 
-#super[30] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[30] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từng là người gắn kết lại những bà con, bạn bè, thân hữu đã
 xa cách từ lâu, đã đi xa lâu ngày. Mẹ được gắn kết lại với con, con
 được gắn kết lại với mẹ; cha được gắn kết lại với con, con được gắn
@@ -3300,7 +3287,7 @@ dạy — dù là người tại gia hay người xuất gia, tướng ấy đ�
 
 #strong[Hai Tướng: Thân Cân Đối Như Cây Đa, Đứng Thẳng Sờ Đến Đầu Gối]
 
-#super[32] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[32] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, khi quan sát, sắp đặt việc thu phục đông đảo dân chúng, đã
 biết rõ sự công bằng, tự mình hiểu rõ, biết rõ từng người, biết rõ sự
 khác biệt giữa người này với người khác — 'người này xứng đáng việc
@@ -3333,7 +3320,7 @@ gì hơn được."
 
 #strong[Ba Tướng: Thân Trước Như Sư Tử, Vai Đầy Đặn, Vai Tròn Đều]
 
-#super[34] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[34] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã mong muốn lợi ích, mong muốn an lành, mong muốn thoải mái,
 mong muốn an ổn cho nhiều người, nghĩ rằng: 'Làm sao để họ tăng
 trưởng lòng tin, tăng trưởng giới hạnh, tăng trưởng học rộng, tăng
@@ -3369,7 +3356,7 @@ pháp không hề suy giảm."
 
 #super[36] Tướng thứ hai mươi: vị giác nhạy bén tuyệt vời.
 
-#super[37] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[37] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, có bản tính không hại chúng sinh — không hại bằng tay, bằng
 cục đất, bằng gậy, hay bằng dao. Do nghiệp ấy đã làm... Từ đó mạng
 chung, trở lại làm người, Như Lai có được tướng Đại Nhân này: vị
@@ -3393,7 +3380,7 @@ người xuất gia, tướng ấy đều báo trước ý nghĩa đó."
 
 #strong[Hai Tướng: Mắt Xanh Thẫm, Lông Mi Như Lông Mi Bò]
 
-#super[39] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[39] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, không nhìn lấm lét, không nhìn ngang, không nhìn dò xét; nhìn
 thẳng, với tâm ngay thật, cởi mở, nhìn mọi người bằng ánh mắt yêu
 thương. Do nghiệp ấy đã làm... Từ đó mạng chung, trở lại làm người,
@@ -3423,7 +3410,7 @@ yêu mến, là người xóa tan sầu khổ cho nhiều người."
 #super[41] Tướng thứ hai mươi ba: đỉnh đầu có nhục kế nhô cao tự
 nhiên.
 
-#super[42] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[42] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã đi đầu trong các pháp lành, dẫn đầu nhiều người trong các
 pháp lành — trong thân hành lành, khẩu hành lành, ý hành lành, bố
 thí chia sẻ, giữ giới, ngày trai giới, hiếu kính mẹ cha, tôn trọng
@@ -3453,7 +3440,7 @@ người ấy dẫn dắt."
 
 #strong[Hai Tướng: Mỗi Lỗ Chân Lông Một Lông, Bạch Hào Giữa Chân Mày]
 
-#super[44] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[44] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từ bỏ nói dối, xa lánh nói dối, nói lời chân thật, giữ
 đúng lời hứa, đáng tin cậy, không lừa dối ai trên đời. Do nghiệp ấy
 đã làm... Từ đó mạng chung, trở lại làm người, Như Lai có được hai
@@ -3482,7 +3469,7 @@ tạo từ trước; người xuất gia, không còn sở hữu gì, cũng đư
 
 #strong[Hai Tướng: Bốn Mươi Răng, Răng Khít Đều]
 
-#super[46] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[46] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từ bỏ nói lời đâm thọc, xa lánh nói lời đâm thọc — nghe
 điều gì ở đây, không đem nói ở nơi khác để gây chia rẽ; nghe điều gì
 ở nơi khác, không đem nói ở đây để gây chia rẽ. Ngược lại, là người
@@ -3515,7 +3502,7 @@ sẽ theo về, không dao động, không lay chuyển."
 
 #strong[Hai Tướng: Lưỡi Rộng Dài, Giọng Nói Như Phạm Thiên]
 
-#super[48] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[48] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từ bỏ lời nói thô ác, xa lánh lời nói thô ác. Những lời nói
 nào không có lỗi, êm tai, dễ thương, đi vào lòng người, thanh nhã,
 được nhiều người ưa thích, được nhiều người hài lòng — Như Lai chỉ
@@ -3546,7 +3533,7 @@ từ vị ấy."
 
 #super[50] Tướng thứ ba mươi: hàm như hàm sư tử.
 
-#super[51] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[51] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từ bỏ lời nói vô ích, xa lánh lời nói vô ích; nói đúng lúc,
 nói đúng sự thật, nói có ý nghĩa, nói về Chánh pháp, nói về giới
 luật; nói những lời đáng ghi nhớ, hợp lý, có giới hạn, gắn liền với
@@ -3574,7 +3561,7 @@ hướng nào — đông, tây, nam, bắc hay các phương phụ — cũng kh�
 
 #strong[Hai Tướng: Răng Đều, Răng Nanh Trắng Sáng]
 
-#super[53] "Này các Tỷ-kheo, Như Lai trong đời trước, khi còn là
+#super[53] "Này các thầy, Như Lai trong đời trước, khi còn là
 người, đã từ bỏ tà mạng, sống bằng chánh mạng — xa lánh việc dùng cân
 non, tiền giả, đấu đong gian, hối lộ, lừa gạt, dối trá, quanh co,
 chặt chém, giết hại, bắt giữ, cướp bóc trên đường, cướp đoạt, dùng vũ
@@ -4197,13 +4184,13 @@ quân Càn-thát-bà đông đảo, đạo quân Kumbhaṇḍa đông đảo, đ
 đông đảo, đã cho đặt vòng phòng vệ khắp bốn phương, đặt vòng đội ngũ
 khắp bốn phương, đặt vòng ngăn chặn khắp bốn phương, rồi vào cuối đêm,
 với dung sắc rực rỡ, chiếu sáng khắp cả núi Gijjhakūṭa, đã đến chỗ Ta;
-đến rồi, đảnh lễ Ta, ngồi xuống một bên. Này các Tỷ-kheo, các vị Dạ-xoa
+đến rồi, đảnh lễ Ta, ngồi xuống một bên. Này các thầy, các vị Dạ-xoa
 ấy, có vị đảnh lễ Ta rồi ngồi xuống một bên; có vị cùng Ta trao đổi lời
 thăm hỏi xã giao rồi ngồi xuống một bên; có vị chỉ chắp tay hướng về Ta
 rồi ngồi xuống một bên; có vị xưng tên họ mình rồi ngồi xuống một bên;
 có vị lặng thinh mà ngồi xuống một bên."
 
-#super[12] "Này các Tỷ-kheo, Đại vương Vessavaṇa, đang ngồi một bên, đã
+#super[12] "Này các thầy, Đại vương Vessavaṇa, đang ngồi một bên, đã
 bạch với Ta đúng như lời đã thưa ở đoạn 2 trên đây — về việc có những
 Dạ-xoa cao cấp, hạng trung, hạng thấp, có vị tin có vị không tin đối
 với Ta; về việc phần lớn Dạ-xoa không có lòng tin, vì Ta giảng dạy pháp
@@ -4320,7 +4307,7 @@ các Tỷ-kheo, đó chính là bài Āṭānāṭiyā hộ trì, để hộ tr�
 gây tổn hại, để các Tỷ-kheo, Tỷ-kheo-ni, cư sĩ nam, cư sĩ nữ được sống
 an lành."
 
-#super[18] "Này các Tỷ-kheo, bất cứ Tỷ-kheo, Tỷ-kheo-ni, cư sĩ nam hay
+#super[18] "Này các thầy, bất cứ Tỷ-kheo, Tỷ-kheo-ni, cư sĩ nam hay
 cư sĩ nữ nào đã học kỹ, đã thuần thục, đã ghi nhớ đầy đủ bài Āṭānāṭiyā
 hộ trì này — nếu có phi nhân nào, dù là Dạ-xoa, Dạ-xoa nữ, con trai hay
 con gái Dạ-xoa, đại thần, tùy tùng hay thuộc hạ của Dạ-xoa; hay
@@ -4328,13 +4315,13 @@ Càn-thát-bà cũng vậy; hay Kumbhaṇḍa cũng vậy; hay Nāga, Nāga nữ
 trai hay con gái Nāga, đại thần, tùy tùng hay thuộc hạ của Nāga — với
 tâm ác độc, đi theo sau, đứng gần, ngồi gần hay nằm gần vị Tỷ-kheo,
 Tỷ-kheo-ni, cư sĩ nam hay cư sĩ nữ ấy khi đang đi, đang đứng, đang ngồi
-hay đang nằm, thì này các Tỷ-kheo, phi nhân ấy sẽ không còn được các
+hay đang nằm, thì này các thầy, phi nhân ấy sẽ không còn được các
 làng mạc, thị trấn tôn kính hay trọng vọng; sẽ không còn được cư trú
 hay lập nghiệp tại kinh đô Āḷakamandā; sẽ không còn được đến dự các đại
 hội của chư Dạ-xoa. Hơn nữa, các phi nhân khác sẽ không gả con gái cho
 nó, cũng không nhận con gái nó về làm vợ; sẽ mắng nhiếc nó bằng đủ mọi
 lời mắng nhiếc nặng nề nhất; sẽ úp ngược cái bát rỗng lên đầu nó; sẽ
-chẻ đầu nó ra làm bảy phần. Này các Tỷ-kheo, có những phi nhân hung dữ,
+chẻ đầu nó ra làm bảy phần. Này các thầy, có những phi nhân hung dữ,
 thô bạo, tàn ác, không tuân theo lệnh của các Đại vương, không tuân
 theo lệnh quan thuộc của các Đại vương, cũng không tuân theo lệnh thuộc
 hạ của các quan thuộc ấy — những phi nhân ấy được gọi là những kẻ bị
@@ -4344,7 +4331,7 @@ lệnh thuộc hạ của các quan thuộc ấy, nên bị gọi là những k�
 Magadha ruồng bỏ; cũng vậy, có những phi nhân hung dữ, thô bạo, tàn ác,
 không tuân theo lệnh của các Đại vương hay quan thuộc, thuộc hạ của
 các Đại vương — những phi nhân ấy được gọi là những kẻ bị các Đại
-vương ruồng bỏ. Này các Tỷ-kheo, phi nhân nào — dù là Dạ-xoa,
+vương ruồng bỏ. Này các thầy, phi nhân nào — dù là Dạ-xoa,
 Càn-thát-bà, Kumbhaṇḍa, hay Nāga (đủ mọi dạng như trên) — với tâm ác
 độc, đi theo sau, đứng gần, ngồi gần hay nằm gần vị Tỷ-kheo, Tỷ-kheo-ni,
 cư sĩ nam hay cư sĩ nữ đang đi, đang đứng, đang ngồi hay đang nằm, thì
@@ -4365,13 +4352,13 @@ Māṇivara, Dīgha, và Serīsaka. Đối với các vị Dạ-xoa, Đại Dạ
 quân, đại tướng quân này, phải than phiền, kêu ca, la lớn lên: 'Dạ-xoa
 này đang bắt giữ! Dạ-xoa này đang nhập vào người! Dạ-xoa này đang quấy
 nhiễu! Dạ-xoa này đang hành hạ! Dạ-xoa này đang gây hại! Dạ-xoa này
-đang gây tổn thương! Dạ-xoa này không chịu buông ra!' Này các Tỷ-kheo,
+đang gây tổn thương! Dạ-xoa này không chịu buông ra!' Này các thầy,
 đó chính là bài Āṭānāṭiyā hộ trì, để hộ trì, bảo vệ, không gây tổn hại,
 để các Tỷ-kheo, Tỷ-kheo-ni, cư sĩ nam, cư sĩ nữ được sống an lành. Giờ
 đây, này các bạn, chúng tôi xin cáo từ; chúng tôi còn nhiều việc phải
 làm, nhiều bổn phận phải lo." — "Xin các vị Đại vương cứ tùy nghi."
 
-#super[20] Này các Tỷ-kheo, rồi bốn vị Đại vương từ chỗ ngồi đứng dậy,
+#super[20] Này các thầy, rồi bốn vị Đại vương từ chỗ ngồi đứng dậy,
 đảnh lễ Ta, đi vòng quanh theo phía hữu, rồi biến mất ngay tại đó. Các
 vị Dạ-xoa ấy, có vị đứng dậy đảnh lễ Ta, đi vòng quanh theo phía hữu
 rồi biến mất ngay tại đó; có vị cùng Ta trao đổi lời thăm hỏi xã giao
@@ -4379,9 +4366,9 @@ rồi biến mất ngay tại đó; có vị chỉ chắp tay hướng về Ta r
 ngay tại đó; có vị xưng tên họ mình rồi biến mất ngay tại đó; có vị
 lặng thinh mà biến mất ngay tại đó.
 
-#super[21] "Này các Tỷ-kheo, hãy học lấy bài Āṭānāṭiyā hộ trì này. Này
-các Tỷ-kheo, hãy ghi nhớ bài Āṭānāṭiyā hộ trì này. Này các Tỷ-kheo, hãy
-giữ lấy bài Āṭānāṭiyā hộ trì này. Này các Tỷ-kheo, bài Āṭānāṭiyā hộ trì
+#super[21] "Này các thầy, hãy học lấy bài Āṭānāṭiyā hộ trì này. Này
+các Tỷ-kheo, hãy ghi nhớ bài Āṭānāṭiyā hộ trì này. Này các thầy, hãy
+giữ lấy bài Āṭānāṭiyā hộ trì này. Này các thầy, bài Āṭānāṭiyā hộ trì
 này có lợi ích, để hộ trì, bảo vệ, không gây tổn hại, để các Tỷ-kheo,
 Tỷ-kheo-ni, cư sĩ nam, cư sĩ nữ được sống an lành." Thế Tôn thuyết
 giảng như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
@@ -4646,11 +4633,11 @@ do hỷ ưu đã đoạn diệt từ trước, chứng và trú vào Thiền th�
 khổ không lạc, có sự thanh tịnh của niệm nhờ xả.
 
 #super[12] "Bốn sự tu tập định. Này các Hiền giả, có sự tu tập định,
-khi được tu tập, làm cho sung mãn, đưa đến an lạc ngay trong hiện
-tại. Có sự tu tập định, khi được tu tập, làm cho sung mãn, đưa đến
-chứng đắc tri kiến. Có sự tu tập định, khi được tu tập, làm cho sung
-mãn, đưa đến niệm và tỉnh giác. Có sự tu tập định, khi được tu tập,
-làm cho sung mãn, đưa đến đoạn tận các lậu hoặc.
+khi được tu tập, được nuôi lớn, đưa đến an lạc ngay trong hiện
+tại. Có sự tu tập định, khi được tu tập, được nuôi lớn, đưa đến
+chứng đắc tri kiến. Có sự tu tập định, khi được tu tập, được nuôi
+lớn, đưa đến niệm và tỉnh giác. Có sự tu tập định, khi được tu tập,
+được nuôi lớn, đưa đến đoạn tận các lậu hoặc.
 
 "Này các Hiền giả, thế nào là sự tu tập định đưa đến an lạc ngay
 trong hiện tại? Ở đây, Tỷ-kheo ly dục, ly các pháp bất thiện... chứng

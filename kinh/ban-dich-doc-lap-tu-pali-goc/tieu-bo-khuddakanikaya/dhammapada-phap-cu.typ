@@ -11,113 +11,113 @@ _Trạng thái: đã dịch 26/26 đơn vị (1–26); đã trọn tập._
 
 == 1. Phẩm Song Đôi (Yamakavaggo)
 
-#super[1] Tâm dẫn đầu các pháp, \
-tâm làm chủ, do tâm tạo; \
-nếu nói hay làm với tâm ô nhiễm, \
-khổ liền theo sau người ấy, \
-như bánh xe theo dấu chân con vật kéo.
+#super[1] Tâm đi trước các pháp, \
+tâm làm chủ, tâm tạo nên. \
+Nói hay làm với tâm ô nhiễm, \
+khổ theo sau người ấy, \
+như bánh xe theo chân con vật kéo.
 
-#super[2] Tâm dẫn đầu các pháp, \
-tâm làm chủ, do tâm tạo; \
-nếu nói hay làm với tâm trong sạch, \
-lạc liền theo sau người ấy, \
+#super[2] Tâm đi trước các pháp, \
+tâm làm chủ, tâm tạo nên. \
+Nói hay làm với tâm trong, \
+lạc theo sau người ấy, \
 như bóng không rời hình.
 
-#super[3] "Nó mắng ta, đánh ta, \
-nó thắng ta, cướp của ta" — \
-ai ôm giữ những điều ấy, \
-hận thù của họ không nguôi.
+#super[3] "Nó mắng ta, nó đánh ta, \
+nó thắng ta, nó cướp của ta." \
+Ai ôm giữ chuyện ấy, \
+hận của họ không nguôi.
 
-#super[4] "Nó mắng ta, đánh ta, \
-nó thắng ta, cướp của ta" — \
-ai không ôm giữ những điều ấy, \
-hận thù của họ được lắng dịu.
+#super[4] "Nó mắng ta, nó đánh ta, \
+nó thắng ta, nó cướp của ta." \
+Ai không ôm giữ chuyện ấy, \
+hận của họ lắng xuống.
 
-#super[5] Ở đời này, hận thù \
-chưa từng được dập tắt bằng hận thù; \
-chỉ không hận mới dập tắt được hận — \
-đó là pháp ngàn xưa.
+#super[5] Ở đời này, hận \
+không bao giờ dập được hận. \
+Chỉ không hận mới dập được hận. \
+Đó là pháp ngàn đời.
 
-#super[6] Người khác không hiểu rằng \
-chúng ta ở đây rồi sẽ chết; \
-ai hiểu được điều ấy, \
-các cuộc tranh chấp liền lắng dịu.
+#super[6] Người khác không hiểu \
+rằng ta ở đây rồi sẽ chết. \
+Ai hiểu điều ấy, \
+các cuộc cãi nhau liền lắng.
 
-#super[7] Sống quán tịnh tướng, \
-các căn không phòng hộ, \
-không biết vừa đủ trong ăn uống, \
-biếng nhác, tinh tấn kém — \
-Ác ma chinh phục người ấy, \
+#super[7] Người sống mà nhìn cái đẹp, \
+các căn không giữ, \
+ăn uống không biết đủ, \
+biếng nhác, tinh tấn kém: \
+Ác ma thắng người ấy, \
 như gió thổi đổ cây yếu.
 
-#super[8] Sống quán bất tịnh, \
-các căn khéo phòng hộ, \
-biết vừa đủ trong ăn uống, \
-có tín, tinh tấn đã khởi — \
-Ác ma không chinh phục được người ấy, \
+#super[8] Người sống mà nhìn cái bất tịnh, \
+các căn khéo giữ, \
+ăn uống biết đủ, \
+có lòng tin, tinh tấn đã khởi: \
+Ác ma không thắng được người ấy, \
 như gió không lay núi đá.
 
-#super[9] Ai còn cáu bẩn mà khoác \
-tấm y màu cà-sa, \
-lìa xa chế ngự và chân thật, \
-người ấy không xứng mặc cà-sa.
+#super[9] Ai chưa nhổ bỏ cáu bẩn \
+mà khoác áo cà-sa, \
+bỏ chế ngự và sự thật, \
+người ấy không đáng mặc cà-sa.
 
-#super[10] Ai đã nôn ra cáu bẩn, \
-khéo an trú trong các giới, \
-đầy đủ chế ngự và chân thật, \
-người ấy mới xứng mặc cà-sa.
+#super[10] Ai đã nhổ bỏ cáu bẩn, \
+khéo trú trong giới, \
+đủ chế ngự và sự thật, \
+người ấy mới đáng mặc cà-sa.
 
-#super[11] Thấy lõi ở chỗ không lõi, \
-thấy không lõi ở chỗ có lõi; \
-họ không đạt được lõi, \
-vì sống trong tà tư duy.
+#super[11] Tưởng chỗ không có lõi là lõi, \
+tưởng chỗ có lõi là không lõi. \
+Họ không đạt được lõi, \
+vì ý nghĩ họ nuôi là ý nghĩ sai.
 
 #super[12] Biết lõi là lõi, \
-biết không lõi là không lõi; \
-họ đạt được lõi, \
-vì sống trong chánh tư duy.
+biết không lõi là không lõi. \
+Họ đạt được lõi, \
+vì ý nghĩ họ nuôi là ý nghĩ đúng.
 
-#super[13] Như ngôi nhà lợp dở, \
-mưa dột thấm ướt; \
-cũng vậy, tâm không tu tập, \
-tham dục thấm vào.
+#super[13] Như nhà lợp dở, \
+mưa xuyên qua. \
+Tâm không tu cũng vậy, \
+tham xuyên qua.
 
-#super[14] Như ngôi nhà lợp khéo, \
-mưa không dột thấm; \
-cũng vậy, tâm khéo tu tập, \
-tham dục không thấm vào.
+#super[14] Như nhà lợp kín, \
+mưa không xuyên qua. \
+Tâm khéo tu cũng vậy, \
+tham không xuyên qua.
 
-#super[15] Người làm ác sầu khổ ở đời này, \
-sầu khổ sau khi chết, sầu khổ cả hai nơi; \
-người ấy sầu khổ, người ấy não loạn, \
-khi thấy nghiệp uế trược của mình.
+#super[15] Kẻ làm ác buồn ở đây, \
+chết rồi cũng buồn, buồn cả hai nơi. \
+Người ấy buồn, người ấy khổ, \
+thấy nghiệp mình đã nhơ.
 
-#super[16] Người làm phước vui mừng ở đời này, \
-vui mừng sau khi chết, vui mừng cả hai nơi; \
-người ấy vui mừng, người ấy hớn hở, \
-khi thấy nghiệp thanh tịnh của mình.
+#super[16] Người làm phước vui ở đây, \
+chết rồi cũng vui, vui cả hai nơi. \
+Người ấy vui, người ấy mừng, \
+thấy nghiệp mình trong sạch.
 
-#super[17] Người làm ác bị thiêu đốt ở đời này, \
-bị thiêu đốt sau khi chết, bị thiêu đốt cả hai nơi; \
-nghĩ "ta đã làm ác" mà bị thiêu đốt, \
-đi đến đọa xứ lại bị thiêu đốt hơn nữa.
+#super[17] Kẻ làm ác day dứt ở đây, \
+chết rồi cũng day dứt, day dứt cả hai nơi. \
+Nghĩ "ta đã làm ác" mà day dứt, \
+sa cõi dữ lại day dứt hơn.
 
-#super[18] Người làm phước hoan hỷ ở đời này, \
-hoan hỷ sau khi chết, hoan hỷ cả hai nơi; \
-nghĩ "ta đã làm phước" mà hoan hỷ, \
-đi đến thiện thú lại hoan hỷ hơn nữa.
+#super[18] Người làm phước hớn hở ở đây, \
+chết rồi cũng hớn hở, hớn hở cả hai nơi. \
+Nghĩ "ta đã làm phước" mà hớn hở, \
+sinh cõi lành lại hớn hở hơn.
 
-#super[19] Dù tụng nhiều kinh điển, \
-nếu buông lung không làm theo, \
-như mục đồng đếm bò của người khác, \
-người ấy không dự phần Sa-môn hạnh.
+#super[19] Dù tụng nhiều kinh \
+mà không làm, vẫn buông lung, \
+khác nào kẻ chăn đếm bò của người, \
+không có phần hạnh Sa-môn.
 
-#super[20] Dù tụng ít kinh điển, \
-nếu sống đúng Pháp, \
-bỏ tham, sân và si, \
-chánh trí, tâm khéo giải thoát, \
-không chấp thủ đời này hay đời sau — \
-người ấy dự phần Sa-môn hạnh.
+#super[20] Dù tụng ít kinh \
+mà sống đúng Pháp, \
+bỏ tham, bỏ sân, bỏ si, \
+tỉnh táo, tâm khéo giải thoát, \
+không chấp thủ đời này hay đời sau, \
+người ấy có phần hạnh Sa-môn.
 
 #strong[(Hết Phẩm Song Đôi, phẩm thứ nhất.)]
 
@@ -2298,7 +2298,7 @@ ta gọi người ấy là Bà-la-môn.
 
 #strong[(Hết phẩm Bà-la-môn, thứ hai mươi sáu.)]
 
-Đến đây, trong phẩm Song Đôi đầu tiên có mười bốn sự việc, phẩm Không Phóng Dật chín, phẩm Tâm chín, phẩm Hoa mười hai, phẩm Người Ngu mười lăm, phẩm Hiền Trí mười một, phẩm A-la-hán mười, phẩm Ngàn mười bốn, phẩm Ác mười hai, phẩm Hình Phạt mười một, phẩm Già chín, phẩm Tự Ngã mười, phẩm Thế Gian mười một, phẩm Phật chín, phẩm An Lạc tám, phẩm Thương Yêu chín, phẩm Phẫn Nộ tám, phẩm Cáu Bẩn mười hai, phẩm Trụ Pháp mười, phẩm Đạo mười hai, phẩm Tạp chín, phẩm Địa Ngục chín, phẩm Voi tám, phẩm Ái mười hai, phẩm Tỷ-kheo mười hai, phẩm Bà-la-môn bốn mươi: tổng cộng ba trăm lẻ năm sự việc.
+Đến đây, tính theo sự việc trong từng phẩm: phẩm Song Đôi mười bốn, phẩm Không Phóng Dật chín, phẩm Tâm chín, phẩm Hoa mười hai, phẩm Người Ngu mười lăm. Phẩm Hiền Trí mười một, phẩm A-la-hán mười, phẩm Ngàn mười bốn, phẩm Ác mười hai, phẩm Hình Phạt mười một. Phẩm Già chín, phẩm Tự Ngã mười, phẩm Thế Gian mười một, phẩm Phật chín, phẩm An Lạc tám. Phẩm Thương Yêu chín, phẩm Phẫn Nộ tám, phẩm Cáu Bẩn mười hai, phẩm Trụ Pháp mười, phẩm Đạo mười hai. Phẩm Tạp chín, phẩm Địa Ngục chín, phẩm Voi tám, phẩm Ái mười hai, phẩm Tỷ-kheo mười hai, phẩm Bà-la-môn bốn mươi. Tổng cộng ba trăm lẻ năm sự việc.
 
 Bốn trăm hai mươi ba kệ, \
 do bậc phân biệt bốn Thánh đế; \
