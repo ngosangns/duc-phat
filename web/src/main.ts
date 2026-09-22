@@ -1,5 +1,6 @@
 import "./fonts.css";
 import "./style.css";
+import { installFloatingScrollbars } from "./scrollbar";
 import type { Catalog, CatNode, Collection, Settings } from "./types";
 import {
   countLeaves,
@@ -46,6 +47,7 @@ void boot();
 
 async function boot() {
   applySettings();
+  installFloatingScrollbars();
   if ("scrollRestoration" in history) history.scrollRestoration = "manual";
   window.addEventListener("pagehide", flushPlace);
   document.addEventListener("visibilitychange", () => {
@@ -128,14 +130,10 @@ function renderShelf(cat: Catalog) {
   document.title = cat.title;
   const rec = mostRecent();
   const marks = loadBookmarks().filter((m) => m.route.startsWith("new/"));
+  const resume = rec && rec.route.startsWith("new/") ? continueCard(rec) : "";
   app.innerHTML = `
-    ${topBar(cat.title, cat.subtitle, false)}
     <main class="wrap">
-      <section class="hero">
-        <h1>${escapeHtml(cat.title)}</h1>
-        <p>${escapeHtml(cat.subtitle)}. Bản dịch độc lập, dịch thẳng từ nguyên bản Pāli.</p>
-        ${rec && rec.route.startsWith("new/") ? continueCard(rec) : ""}
-      </section>
+      ${resume ? `<section class="hero">${resume}</section>` : ""}
       ${marks.length ? marksList(marks) : ""}
       ${cat.collections.filter((c) => c.id === "new").map((c) => shelfRow(c)).join("")}
     </main>
@@ -214,8 +212,6 @@ function marksList(marks: ReturnType<typeof loadBookmarks>): string {
 function shelfRow(col: Collection): string {
   return `
     <section class="shelf col-${escapeAttr(col.id)}" id="shelf-${escapeAttr(col.id)}">
-      <h2>${escapeHtml(col.title)}</h2>
-      <p class="blurb">${escapeHtml(col.blurb)}</p>
       <div class="shelf-bay">
         <div class="shelf-plank">
           ${col.volumes.map((v) => cover(col, v)).join("")}

@@ -57,52 +57,33 @@ body.toc-lock {
 
 * {
   box-sizing: border-box;
-  scrollbar-width: thin;
-  scrollbar-color: var(--scroll-thumb) transparent;
+  scrollbar-width: none;
 }
 
-html {
-  scrollbar-width: thin;
-  scrollbar-color: var(--scroll-thumb) var(--scroll-track);
+*::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
 }
 
-::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
-}
-
-::-webkit-scrollbar-track {
-  background: var(--scroll-track);
-}
-
-::-webkit-scrollbar-thumb {
-  background: var(--scroll-thumb);
+.vscroll {
+  position: fixed;
+  z-index: 30;
   border-radius: 99px;
-  border: 2px solid var(--paper);
-  background-clip: padding-box;
+  background: var(--scroll-thumb);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease;
 }
 
-::-webkit-scrollbar-thumb:hover {
+.vscroll.is-on {
+  opacity: 0.9;
+  pointer-events: auto;
+}
+
+.vscroll.is-drag,
+.vscroll.is-on:hover {
   background: var(--scroll-thumb-hover);
-  border: 2px solid var(--paper);
-  background-clip: padding-box;
-}
-
-::-webkit-scrollbar-corner {
-  background: transparent;
-}
-
-.reader-toc::-webkit-scrollbar,
-.rtoc::-webkit-scrollbar,
-.shelf-plank::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-
-.reader-toc::-webkit-scrollbar-thumb,
-.rtoc::-webkit-scrollbar-thumb,
-.shelf-plank::-webkit-scrollbar-thumb {
-  border-width: 1px;
 }
 
 html, body {
