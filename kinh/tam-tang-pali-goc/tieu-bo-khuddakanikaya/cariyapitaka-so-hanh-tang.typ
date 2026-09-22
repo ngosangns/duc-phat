@@ -1,5 +1,5 @@
 == 1. Akittivaggo
-+ Akitticariyā
+=== Akitticariyā
 
 + ‘‘Kappe ca satasahasse, caturo ca asaṅkhiye; Etthantare yaṃ caritaṃ,
   sabbaṃ taṃ bodhipācanaṃ.
@@ -35,7 +35,7 @@ Akitticariyaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Saṅkhacariyā
+=== Saṅkhacariyā
 
 + ‘‘Punāparaṃ yadā homi, brāhmaṇo saṅkhasavhayo; Mahāsamuddaṃ
   taritukāmo, upagacchāmi paṭṭanaṃ.
@@ -70,7 +70,7 @@ Saṅkhacariyaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Kururājacariyā
+=== Kururājacariyā
 
 + ‘‘Punāparaṃ yadā homi, indapatthe \[indapatte (sī. ka.)\] puruttame;
   Rājā dhanañcayo nāma, kusale dasahupāgato.
@@ -101,7 +101,7 @@ Kururājacariyaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Mahāsudassanacariyā
+=== Mahāsudassanacariyā
 
 + ‘‘Kusāvatimhi nagare, yadā āsiṃ mahīpati; Mahāsudassano nāma,
   cakkavattī mahabbalo.
@@ -135,7 +135,7 @@ Mahāsudassanacariyaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Mahāgovindacariyā
+=== Mahāgovindacariyā
 
 + ‘‘Punāparaṃ yadā homi, sattarājapurohito; Pūjito naradevehi,
   mahāgovindabrāhmaṇo.
@@ -151,7 +151,7 @@ Mahāgovindacariyaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Nimirājacariyā
+=== Nimirājacariyā
 
 + ‘‘Punāparaṃ yadā homi, mithilāyaṃ puruttame; Nimi nāma mahārājā,
   paṇḍito kusalatthiko.
@@ -177,7 +177,7 @@ Nimirājacariyaṃ chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Candakumāracariyā
+=== Candakumāracariyā
 
 + ‘‘Punāparaṃ yadā homi, ekarājassa atrajo; Nagare pupphavatiyā, kumāro
   candasavhayo.
@@ -202,7 +202,7 @@ Candakumāracariyaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Sivirājacariyā
+=== Sivirājacariyā
 
 + ‘‘Ariṭṭhasavhaye nagare, sivināmāsi khattiyo; Nisajja pāsādavare, evaṃ
   cintesahaṃ tadā.
@@ -257,7 +257,7 @@ Sivirājacariyaṃ aṭṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Vessantaracariyā
+=== Vessantaracariyā
 
 + ‘‘Yā me ahosi janikā, phussatī \[phusatī (sī.)\] nāma khattiyā; Sā
   atītāsu jātīsu, sakkassa mahesī piyā.
@@ -444,7 +444,7 @@ Vessantaracariyaṃ navamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Sasapaṇḍitacariyā
+=== Sasapaṇḍitacariyā
 
 + ‘‘Punāparaṃ yadā homi, sasako pavanacārako; Tiṇapaṇṇasākaphalabhakkho,
   paraheṭhanavivajjito.
@@ -525,7 +525,7 @@ esā me dānapāramīti.
 Dānapāraminiddeso niṭṭhito.
 
 == 2. Hatthināgavaggo
-+ Mātuposakacariyā
+=== Mātuposakacariyā
 
 + ‘‘Yadā ahosiṃ pavane, kuñjaro mātuposako; Na tadā atthi mahiyā, guṇena
   mama sādiso.
@@ -561,7 +561,7 @@ Mātuposakacariyaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Bhūridattacariyā
+=== Bhūridattacariyā
 
 + ‘‘Punāparaṃ yadā homi, bhūridatto mahiddhiko; Virūpakkhena mahāraññā,
   devalokamagañchahaṃ.
@@ -595,7 +595,7 @@ Bhūridattacariyaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Campeyyanāgacariyā
+=== Campeyyanāgacariyā
 
 + ‘‘Punāparaṃ yadā homi, campeyyako mahiddhiko;
 ]
@@ -624,7 +624,7 @@ Campeyyanāgacariyaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Cūḷabodhicariyā
+=== Cūḷabodhicariyā
 
 + ‘‘Punāparaṃ yadā homi, cūḷabodhi susīlavā; Bhavaṃ disvāna bhayato,
   nekkhammaṃ abhinikkhamiṃ.
@@ -664,7 +664,7 @@ Cūḷabodhicariyaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Mahiṃsarājacariyā
+=== Mahiṃsarājacariyā
 
 + ‘‘Punāparaṃ yadā homi, mahiṃso pavanacārako; Pavaḍḍhakāyo balavā,
   mahanto bhīmadassano.
@@ -704,7 +704,7 @@ Mahiṃsarājacariyaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Rururājacariyā
+=== Rururājacariyā
 
 + ‘‘Punāparaṃ yadā homi, sutattakanakasannibho; Migarājā rurunāma,
   paramasīlasamāhito.
@@ -752,7 +752,7 @@ Rururājacariyaṃ chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Mātaṅgacariyā
+=== Mātaṅgacariyā
 
 + ‘‘Punāparaṃ yadā homi, jaṭilo uggatāpano; Mātaṅgo nāma nāmena, sīlavā
   susamāhito.
@@ -777,7 +777,7 @@ Mātaṅgacariyaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Dhammadevaputtacariyā
+=== Dhammadevaputtacariyā
 
 + ‘‘Punāparaṃ yadā homi, mahāpakkho mahiddhiko; Dhammo nāma mahāyakkho,
   sabbalokānukampako.
@@ -808,7 +808,7 @@ Dhammadevaputtacariyaṃ aṭṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Alīnasattucariyā
+=== Alīnasattucariyā
 
 + ‘‘Pañcālaraṭṭhe nagaravare, kapilāyaṃ \[kampilāyaṃ (sī.), kappilāyaṃ
   (syā.)\] puruttame; Rājā jayaddiso nāma, sīlaguṇamupāgato.
@@ -852,7 +852,7 @@ Alīnasattucariyaṃ navamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Saṅkhapālacariyā
+=== Saṅkhapālacariyā
 
 + ‘‘Punāparaṃ yadā homi, saṅkhapālo mahiddhiko; Dāṭhāvudho ghoraviso,
   dvijivho uragādhibhū.
@@ -894,7 +894,7 @@ tasmā sā sīlapāramīti.
 Sīlapāraminiddeso niṭṭhito.
 
 == 3. Yudhañjayavaggo
-+ Yudhañjayacariyā
+=== Yudhañjayacariyā
 
 + ‘‘Yadāhaṃ amitayaso, rājaputto yudhañjayo; Ussāvabinduṃ sūriyātape,
   patitaṃ disvāna saṃvijiṃ.
@@ -918,7 +918,7 @@ Yudhañjayacariyaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Somanassacariyā
+=== Somanassacariyā
 
 + ‘‘Punāparaṃ yadā homi, indapatthe puruttame; Kāmito dayito putto,
   somanassoti vissuto.
@@ -976,7 +976,7 @@ Somanassacariyaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Ayogharacariyā
+=== Ayogharacariyā
 
 + ‘‘Punāparaṃ yadā homi, kāsirājassa atrajo; Ayogharamhi saṃvaḍḍho,
   nāmenāsi ayogharo.
@@ -1013,7 +1013,7 @@ Ayogharacariyaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Bhisacariyā
+=== Bhisacariyā
 
 + ‘‘Punāparaṃ yadā homi, kāsīnaṃ puravaruttame; Bhaginī ca bhātaro
   satta, nibbattā sotthiye kule.
@@ -1044,7 +1044,7 @@ Bhisacariyaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Soṇapaṇḍitacariyā
+=== Soṇapaṇḍitacariyā
 
 + ‘‘Punāparaṃ yadā homi, nagare brahmavaḍḍhane; Tattha kulavare seṭṭhe,
   mahāsāle ajāyahaṃ.
@@ -1073,7 +1073,7 @@ Soṇapaṇḍitacariyaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Temiyacariyā
+=== Temiyacariyā
 
 + ‘‘Punāparaṃ yadā homi, kāsirājassa atrajo; Mūgapakkhoti nāmena,
   temiyoti vadanti maṃ.
@@ -1146,7 +1146,7 @@ Temiyacariyaṃ chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Kapirājacariyā
+=== Kapirājacariyā
 
 + ‘‘Yadā ahaṃ kapi āsiṃ, nadīkūle darīsaye; Pīḷito susumārena, gamanaṃ
   na labhāmahaṃ.
@@ -1165,7 +1165,7 @@ Kapirājacariyaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Saccatāpasacariyā
+=== Saccatāpasacariyā
 
 + ‘‘Punāparaṃ yadā homi, tāpaso saccasavhayo; Saccena lokaṃ pālesiṃ,
   samaggaṃ janamakāsaha''nti.
@@ -1175,7 +1175,7 @@ Saccatāpasacariyaṃ aṭṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Vaṭṭapotakacariyā
+=== Vaṭṭapotakacariyā
 
 + ‘‘Punāparaṃ yadā homi, magadhe vaṭṭapotako;
 ]
@@ -1220,7 +1220,7 @@ Vaṭṭapotakacariyaṃ navamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Maccharājacariyā
+=== Maccharājacariyā
 
 + ‘‘Punāparaṃ yadā homi, maccharājā mahāsare; Uṇhe sūriyasantāpe, sare
   udaka khīyatha.
@@ -1256,7 +1256,7 @@ Maccharājacariyaṃ dasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Kaṇhadīpāyanacariyā
+=== Kaṇhadīpāyanacariyā
 
 + ‘‘Punāparaṃ yadā homi, kaṇhadīpāyano isi; Paropaññāsavassāni,
   anabhiratocariṃ ahaṃ.
@@ -1302,7 +1302,7 @@ Kaṇhadīpāyanacariyaṃ ekādasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 12)
-+ Sutasomacariyā
+=== Sutasomacariyā
 
 + ‘‘Punāparaṃ yadā homi, sutasomo mahīpati; Gahito porisādena, brāhmaṇe
   saṅgaraṃ sariṃ.
@@ -1328,7 +1328,7 @@ Sutasomacariyaṃ dvādasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ Suvaṇṇasāmacariyā
+=== Suvaṇṇasāmacariyā
 
 + ‘‘Sāmo yadā vane āsiṃ, sakkena abhinimmito; Pavane sīhabyagghe ca,
   mettāyamupanāmayiṃ.
@@ -1344,7 +1344,7 @@ Suvaṇṇasāmacariyaṃ terasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ Ekarājacariyā
+=== Ekarājacariyā
 
 + ‘‘Punāparaṃ yadā homi, ekarājāti vissuto; Paramaṃ sīlaṃ adhiṭṭhāya,
   pasāsāmi mahāmahiṃ.
@@ -1372,7 +1372,7 @@ Ekarājacariyaṃ cuddasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ Mahālomahaṃsacariyā
+=== Mahālomahaṃsacariyā
 
 + ‘‘Susāne seyyaṃ kappemi, chavaṭṭhikaṃ upanidhāyahaṃ; Gāmaṇḍalā
   \[gomaṇḍalā (sī.), gāmamaṇḍalā (syā.)\] upāgantvā, rūpaṃ

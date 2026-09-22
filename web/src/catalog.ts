@@ -1,10 +1,11 @@
 import type { Catalog, CatNode, Collection } from "./types";
+import { dataUrl } from "./paths";
 
 let cached: Catalog | null = null;
 
 export async function loadCatalog(): Promise<Catalog> {
   if (cached) return cached;
-  const res = await fetch("./data/catalog.json");
+  const res = await fetch(dataUrl("catalog.json"));
   if (!res.ok) throw new Error("Không đọc được mục lục thư viện.");
   cached = (await res.json()) as Catalog;
   return cached;

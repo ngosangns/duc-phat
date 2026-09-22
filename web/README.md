@@ -26,7 +26,7 @@ Bản production: `task web` → `web/dist/`. Đẩy Cloudflare Pages: `task web
 ## Cấu trúc
 
 - `scripts/build-web.py` — Typst HTML export, cắt theo heading, ghi `public/data/`
-- `src/` — kệ sách, mục lục tập, mặt đọc (Vite + TypeScript thuần)
+- `src/` — kệ sách, mục lục tập, mặt đọc (SolidJS, Vite)
 - `public/data/` — artifact (gitignore)
 
-Đường dẫn đọc: `#/new/dn/silakkhandhavagga/1` (Trường Bộ, kinh Phạm võng).
+Đường dẫn đọc: `/new/dn/silakkhandhavagga/gioi-uan-silakkhandhavaggo/1` (Trường Bộ, kinh Phạm võng). Địa chỉ hash cũ (`#/…`) được mở thành đường dẫn này.

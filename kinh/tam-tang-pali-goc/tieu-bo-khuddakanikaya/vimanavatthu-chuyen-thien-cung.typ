@@ -1,7 +1,7 @@
-+ Itthivimānaṃ
+=== Itthivimānaṃ
 
 == 1. Pīṭhavaggo
-+ Paṭhamapīṭhavimānavatthu
+=== Paṭhamapīṭhavimānavatthu
 
 + ‘‘Pīṭhaṃ te sovaṇṇamayaṃ uḷāraṃ, manojavaṃ gacchati yenakāmaṃ;
   Alaṅkate malyadhare \[mālyadhare (syā.)\] suvatthe, obhāsasi
@@ -29,7 +29,7 @@ Paṭhamapīṭhavimānaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Dutiyapīṭhavimānavatthu
+=== Dutiyapīṭhavimānavatthu
 
 + ‘‘Pīṭhaṃ te veḷuriyamayaṃ uḷāraṃ, manojavaṃ gacchati yenakāmaṃ;
   Alaṅkate malyadhare suvatthe, obhāsasi vijjurivabbhakūṭaṃ.
@@ -57,7 +57,7 @@ Dutiyapīṭhavimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Tatiyapīṭhavimānavatthu
+=== Tatiyapīṭhavimānavatthu
 
 + ‘‘Pīṭhaṃ te sovaṇṇamayaṃ uḷāraṃ, manojavaṃ gacchati yenakāmaṃ;
   Alaṅkate malyadhare suvatthe, obhāsasi vijjurivabbhakūṭaṃ.
@@ -89,7 +89,7 @@ Tatiyapīṭhavimānaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Catutthapīṭhavimānavatthu
+=== Catutthapīṭhavimānavatthu
 
 + ‘‘Pīṭhaṃ te veḷuriyamayaṃ uḷāraṃ, manojavaṃ gacchati yenakāmaṃ;
   Alaṅkate malyadhare suvatthe, obhāsasi vijjurivabbhakūṭaṃ.
@@ -120,7 +120,7 @@ Catutthapīṭhavimānaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Kuñjaravimānavatthu
+=== Kuñjaravimānavatthu
 
 + ‘‘Kuñjaro te varāroho, nānāratanakappano; Ruciro thāmavā javasampanno,
   ākāsamhi samīhati.
@@ -164,7 +164,7 @@ Kuñjaravimānaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Paṭhamanāvāvimānavatthu
+=== Paṭhamanāvāvimānavatthu
 
 + ‘‘Suvaṇṇacchadanaṃ nāvaṃ, nāri āruyha tiṭṭhasi; Ogāhasi pokkharaṇiṃ,
   padmaṃ \[padumaṃ (sī. syā.)\] chindasi pāṇinā.
@@ -203,7 +203,7 @@ Paṭhamanāvāvimānaṃ chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Dutiyanāvāvimānavatthu
+=== Dutiyanāvāvimānavatthu
 
 + ‘‘Suvaṇṇacchadanaṃ nāvaṃ, nāri āruyha tiṭṭhasi; Ogāhasi pokkharaṇiṃ,
   padmaṃ chindasi pāṇinā.
@@ -240,7 +240,7 @@ Dutiyanāvāvimānaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Tatiyanāvāvimānavatthu
+=== Tatiyanāvāvimānavatthu
 
 + ‘‘Suvaṇṇacchadanaṃ nāvaṃ, nāri āruyha tiṭṭhasi; Ogāhasi pokkharaṇiṃ,
   padmaṃ chindasi pāṇinā.
@@ -285,7 +285,7 @@ Tatiyanāvāvimānaṃ aṭṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Dīpavimānavatthu
+=== Dīpavimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -324,7 +324,7 @@ Dīpavimānaṃ navamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Tiladakkhiṇavimānavatthu
+=== Tiladakkhiṇavimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -354,7 +354,7 @@ Tiladakkhiṇavimānaṃ dasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Paṭhamapatibbatāvimānavatthu
+=== Paṭhamapatibbatāvimānavatthu
 
 + ‘‘Koñcā mayūrā diviyā ca haṃsā, vaggussarā kokilā sampatanti;
   Pupphābhikiṇṇaṃ rammamidaṃ vimānaṃ, anekacittaṃ naranārisevitaṃ
@@ -387,7 +387,7 @@ Paṭhamapatibbatāvimānaṃ ekādasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 12)
-+ Dutiyapatibbatāvimānavatthu
+=== Dutiyapatibbatāvimānavatthu
 
 + ‘‘Veḷuriyathambhaṃ ruciraṃ pabhassaraṃ, vimānamāruyha anekacittaṃ;
   Tatthacchasi devi mahānubhāve, uccāvacā iddhi vikubbamānā; Imā ca te
@@ -417,7 +417,7 @@ Dutiyapatibbatāvimānaṃ dvādasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ Paṭhamasuṇisāvimānavatthu
+=== Paṭhamasuṇisāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -448,7 +448,7 @@ Paṭhamasuṇisāvimānaṃ terasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ Dutiyasuṇisāvimānavatthu
+=== Dutiyasuṇisāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -479,7 +479,7 @@ Dutiyasuṇisāvimānaṃ cuddasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ Uttarāvimānavatthu
+=== Uttarāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -531,7 +531,7 @@ Uttarāvimānaṃ pannarasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ Sirimāvimānavatthu
+=== Sirimāvimānavatthu
 
 + ‘‘Yuttā ca te paramaalaṅkatā hayā, adhomukhā aghasigamā balī javā;
   Abhinimmitā pañcarathāsatā ca te, anventi taṃ sārathicoditā hayā.
@@ -586,7 +586,7 @@ Sirimāvimānaṃ soḷasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 17)
-+ Kesakārīvimānavatthu
+=== Kesakārīvimānavatthu
 
 + ‘‘Idaṃ vimānaṃ ruciraṃ pabhassaraṃ, veḷuriyathambhaṃ satataṃ
   sunimmitaṃ; Suvaṇṇarukkhehi samantamotthataṃ, ṭhānaṃ mamaṃ
@@ -627,7 +627,7 @@ sirimā kesakārikā;
 Vaggo tena pavuccatīti.
 
 == 2. Cittalatāvaggo
-+ Dāsivimānavatthu
+=== Dāsivimānavatthu
 
 + ‘‘Api sakkova devindo, ramme cittalatāvane; Samantā anupariyāsi,
   nārīgaṇapurakkhatā; Obhāsentī disā sabbā, osadhī viya tārakā.
@@ -683,7 +683,7 @@ Dāsivimānaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Lakhumāvimānavatthu
+=== Lakhumāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -726,7 +726,7 @@ Lakhumāvimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Ācāmadāyikāvimānavatthu
+=== Ācāmadāyikāvimānavatthu
 
 + ‘‘Piṇḍāya te carantassa, tuṇhībhūtassa tiṭṭhato; Daliddā kapaṇā nārī,
   parāgāraṃ apassitā \[avassitā (sī.)\].
@@ -764,7 +764,7 @@ Lakhumāvimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Caṇḍālivimānavatthu
+=== Caṇḍālivimānavatthu
 
 + ‘‘Caṇḍāli vanda pādāni, gotamassa yasassino; Tameva \[taveva (sī.)\]
   anukampāya, aṭṭhāsi isisattamo \[isisuttamo (sī.)\].
@@ -805,7 +805,7 @@ Caṇḍālivimānaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Bhadditthivimānavatthu
+=== Bhadditthivimānavatthu
 
 + ‘‘Nīlā pītā ca kāḷā ca, mañjiṭṭhā \[mañjeṭṭhā (sī.), mañjaṭṭhā (pī.)\]
   atha lohitā; Uccāvacānaṃ vaṇṇānaṃ, kiñjakkhaparivāritā.
@@ -855,7 +855,7 @@ Bhadditthivimānaṃ \[bhadditthikāvimānaṃ (syā.)\] pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Soṇadinnāvimānavatthu
+=== Soṇadinnāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -894,7 +894,7 @@ Soṇadinnāvimānaṃ chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Uposathāvimānavatthu
+=== Uposathāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -948,7 +948,7 @@ Uposathāvimānaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Niddāvimānavatthu
+=== Niddāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -978,7 +978,7 @@ Uposathāvimānaṃ sattamaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe… vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Niddāvimānaṃ \[saddhāvimānaṃ (sī.)\] aṭṭhamaṃ.
 
-+ Suniddāvimānavatthu
+=== Suniddāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena…pe… osadhī viya tārakā.
 
@@ -997,7 +997,7 @@ Uposathāvimānaṃ sattamaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe… vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Suniddāvimānaṃ navamaṃ.
 
-+ Paṭhamabhikkhādāyikāvimānavatthu
+=== Paṭhamabhikkhādāyikāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -1018,7 +1018,7 @@ Paṭhamabhikkhādāyikāvimānaṃ dasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Dutiyabhikkhādāyikāvimānavatthu
+=== Dutiyabhikkhādāyikāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -1048,7 +1048,7 @@ pavuccatīti.
 Bhāṇavāraṃ paṭhamaṃ niṭṭhitaṃ.
 
 == 3. Pāricchattakavaggo
-+ Uḷāravimānavatthu
+=== Uḷāravimānavatthu
 
 + ‘‘Uḷāro te yaso vaṇṇo, sabbā obhāsate disā; Nāriyo naccanti gāyanti,
   devaputtā alaṅkatā.
@@ -1081,7 +1081,7 @@ Bhāṇavāraṃ paṭhamaṃ niṭṭhitaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Uḷāravimānaṃ paṭhamaṃ.
 
-+ Ucchudāyikāvimānavatthu
+=== Ucchudāyikāvimānavatthu
 
 + ‘‘Obhāsayitvā pathaviṃ \[paṭhaviṃ (sī. syā.)\] sadevakaṃ, atirocasi
   candimasūriyā viya; Siriyā ca vaṇṇena yasena tejasā, brahmāva deve
@@ -1126,7 +1126,7 @@ Ucchudāyikāvimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Pallaṅkavimānavatthu
+=== Pallaṅkavimānavatthu
 
 + ‘‘Pallaṅkaseṭṭhe maṇisoṇṇacitte, pupphābhikiṇṇe sayane uḷāre;
   Tatthacchasi devi mahānubhāve, uccāvacā iddhi vikubbamānā.
@@ -1164,7 +1164,7 @@ Pallaṅkavimānaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Latāvimānavatthu
+=== Latāvimānavatthu
 
 + Latā ca sajjā pavarā ca devatā, accimatī \[accimukhī (sī.), acchimatī
   (pī. ka.) acchimutī (syā.)\] rājavarassa sirīmato; Sutā ca rañño
@@ -1213,9 +1213,9 @@ Latāvimānaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Guttilavimānaṃ
+=== Guttilavimānaṃ
 
-+ Vatthuttamadāyikāvimānavatthu
+=== Vatthuttamadāyikāvimānavatthu
 
 + ‘‘Sattatantiṃ sumadhuraṃ, rāmaṇeyyaṃ avācayiṃ; So maṃ raṅgamhi avheti,
   ‘saraṇaṃ me hohi kosiyā'ti.
@@ -1330,7 +1330,7 @@ Latāvimānaṃ catutthaṃ.
 
 + ‘‘Tena metādiso vaṇṇo…pe… Vaṇṇo ca me sabbadisā pabhāsatī''ti.
 
-+ Gandhapañcaṅgulikadāyikāvimānavatthu
+=== Gandhapañcaṅgulikadāyikāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena…pe… osadhī viya tārakā.
 
@@ -1406,7 +1406,7 @@ Latāvimānaṃ catutthaṃ.
 
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
 
-+ Khīrodanadāyikāvimānavatthu
+=== Khīrodanadāyikāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena…pe… osadhī viya tārakā.
 
@@ -1448,7 +1448,7 @@ Latāvimānaṃ catutthaṃ.
 
 + Eḷālukaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….
 
-+ Valliphaladāyikāvimānavatthu(6)
+=== Valliphaladāyikāvimānavatthu(6)
 
 + Valliphalaṃ ahamadāsiṃ, bhikkhuno piṇḍāya carantassa…pe….
 
@@ -1551,7 +1551,7 @@ Guttilavimānaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Daddallavimānavatthu
+=== Daddallavimānavatthu
 
 + ‘‘Daddallamānā \[daddaḷhamānā (ka.)\] vaṇṇena, yasasā ca yasassinī;
   Sabbe deve tāvatiṃse, vaṇṇena atirocasi.
@@ -1645,7 +1645,7 @@ Daddallavimānaṃ \[daddaḷhavimānaṃ (ka.)\] chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Pesavatīvimānavatthu
+=== Pesavatīvimānavatthu
 
 + ‘‘Phalikarajatahemajālachannaṃ, vividhacitratalamaddasaṃ surammaṃ;
   Byamhaṃ sunimmitaṃ toraṇūpapannaṃ, rucakupakiṇṇamidaṃ subhaṃ vimānaṃ.
@@ -1696,7 +1696,7 @@ Pesavatīvimānaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Mallikāvimānavatthu
+=== Mallikāvimānavatthu
 
 + ‘‘Pītavatthe pītadhaje, pītālaṅkārabhūsite; Pītantarāhi vaggūhi,
   apiḷandhāva sobhasi.
@@ -1732,7 +1732,7 @@ Mallikāvimānaṃ aṭṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Visālakkhivimānavatthu
+=== Visālakkhivimānavatthu
 
 + ‘‘Kā nāma tvaṃ visālakkhi \[visālakkhī (syā.)\], ramme cittalatāvane;
   Samantā anupariyāsi, nārīgaṇapurakkhatā \[purakkhitā (syā. ka.)\].
@@ -1782,7 +1782,7 @@ Visālakkhivimānaṃ navamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Pāricchattakavimānavatthu
+=== Pāricchattakavimānavatthu
 
 + ‘‘Pāricchattake koviḷāre, ramaṇīye manorame; Dibbamālaṃ ganthamānā,
   gāyantī sampamodasi.
@@ -1823,7 +1823,7 @@ Uḷāro ucchu pallaṅko, latā ca guttilena ca; Daddallapesamallikā,
 visālakkhi pāricchattako; Vaggo tena pavuccatīti.
 
 == 4. Mañjiṭṭhakavaggo
-+ Mañjiṭṭhakavimānavatthu
+=== Mañjiṭṭhakavimānavatthu
 
 + ‘‘Mañjiṭṭhake \[mañjeṭṭhake (sī.)\] vimānasmiṃ, soṇṇavālukasanthate
   \[sovaṇṇavālukasanthate (syā. pī.), sovaṇṇavālikasanthate (ka.)\];
@@ -1854,7 +1854,7 @@ Mañjiṭṭhakavimānaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Pabhassaravimānavatthu
+=== Pabhassaravimānavatthu
 
 + ‘‘Pabhassaravaravaṇṇanibhe, surattavatthavasane \[vatthanivāsane (sī.
   syā.)\]; Mahiddhike candanaruciragatte, kā tvaṃ subhe devate vandase
@@ -1891,7 +1891,7 @@ Pabhassaravimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Nāgavimānavatthu
+=== Nāgavimānavatthu
 
 + ‘‘Alaṅkatā maṇikañcanācitaṃ, sovaṇṇajālacitaṃ mahantaṃ; Abhiruyha
   gajavaraṃ sukappitaṃ, idhāgamā vehāyasaṃ \[vehāsayaṃ (sī.)\]
@@ -1920,7 +1920,7 @@ Nāgavimānaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Alomavimānavatthu
+=== Alomavimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -1938,7 +1938,7 @@ Nāgavimānaṃ tatiyaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe… vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Alomavimānaṃ catutthaṃ.
 
-+ Kañjikadāyikāvimānavatthu
+=== Kañjikadāyikāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena…pe… osadhī viya tārakā.
 
@@ -1969,7 +1969,7 @@ Kañjikadāyikāvimānaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Vihāravimānavatthu
+=== Vihāravimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena…pe… osadhī viya tārakā.
 
@@ -2065,7 +2065,7 @@ Bhāṇavāraṃ dutiyaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Caturitthivimānavatthu
+=== Caturitthivimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena…pe…vaṇṇo ca te sabbadisā pabhāsatī''ti.
 
@@ -2106,7 +2106,7 @@ Bhāṇavāraṃ dutiyaṃ niṭṭhitaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Caturitthivimānaṃ sattamaṃ.
 
-+ Ambavimānavatthu
+=== Ambavimānavatthu
 
 + ‘‘Dibbaṃ te ambavanaṃ rammaṃ, pāsādettha mahallako;
   Nānāturiyasaṅghuṭṭho, accharāgaṇaghosito.
@@ -2137,7 +2137,7 @@ Bhāṇavāraṃ dutiyaṃ niṭṭhitaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Ambavimānaṃ aṭṭhamaṃ.
 
-+ Pītavimānavatthu
+=== Pītavimānavatthu
 
 + ‘‘Pītavatthe pītadhaje, pītālaṅkārabhūsite; Pītacandanalittaṅge,
   pītauppalamālinī \[pītuppalamadhārinī (syā. ka.), pītuppalamālinī
@@ -2189,7 +2189,7 @@ Pītavimānaṃ navamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Ucchuvimānavatthu
+=== Ucchuvimānavatthu
 
 + ‘‘Obhāsayitvā pathaviṃ sadevakaṃ, atirocasi candimasūriyā viya; Siriyā
   ca vaṇṇena yasena tejasā, brahmāva deve tidase sahindake.
@@ -2231,7 +2231,7 @@ Ucchuvimānaṃ dasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Vandanavimānavatthu
+=== Vandanavimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Obhāsentī disā sabbā,
   osadhī viya tārakā.
@@ -2246,7 +2246,7 @@ Ucchuvimānaṃ dasamaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe… vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Vandanavimānaṃ ekādasamaṃ.
 
-+ Rajjumālāvimānavatthu
+=== Rajjumālāvimānavatthu
 
 + ‘‘Abhikkantena vaṇṇena, yā tvaṃ tiṭṭhasi devate; Hatthapāde ca
   viggayha, naccasi suppavādite.
@@ -2362,11 +2362,11 @@ Itthivimānaṃ samattaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Purisavimānaṃ
+=== Purisavimānaṃ
 ]
 
 == 5. Mahārathavaggo
-+ Maṇḍūkadevaputtavimānavatthu
+=== Maṇḍūkadevaputtavimānavatthu
 
 + ‘‘Ko me vandati pādāni, iddhiyā yasasā jalaṃ; Abhikkantena vaṇṇena,
   sabbā obhāsayaṃ disā''ti.
@@ -2384,7 +2384,7 @@ Maṇḍūkadevaputtavimānaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Revatīvimānavatthu
+=== Revatīvimānavatthu
 
 + \[dha. pa. 219 dhammapade\] ‘‘Cirappavāsiṃ purisaṃ, dūrato
   sotthimāgataṃ; Ñātimittā suhajjā ca, abhinandanti āgataṃ;
@@ -2476,7 +2476,7 @@ Revatīvimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Chattamāṇavakavimānavatthu
+=== Chattamāṇavakavimānavatthu
 
 + ‘‘Ye vadataṃ pavaro manujesu, sakyamunī bhagavā katakicco; Pāragato
   balavīriyasamaṅgī \[balavīrasamaṅgī (ka.)\], taṃ sugataṃ
@@ -2568,7 +2568,7 @@ Chattamāṇavakavimānaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Kakkaṭakarasadāyakavimānavatthu
+=== Kakkaṭakarasadāyakavimānavatthu
 
 + ‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni; Kūṭāgārā
   sattasatā uḷārā, veḷuriyathambhā rucakatthatā \[ruciratthatā (syā.
@@ -2605,7 +2605,7 @@ vitthāretabbaṃ)
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Dvārapālavimānavatthu
+=== Dvārapālavimānavatthu
 
 + ‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni; Kūṭāgārā
   sattasatā uḷārā, veḷuriyathambhā rucakatthatā subhā.
@@ -2624,7 +2624,7 @@ vitthāretabbaṃ)
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Dvārapālavimānaṃ pañcamaṃ.
 
-+ Paṭhamakaraṇīyavimānavatthu
+=== Paṭhamakaraṇīyavimānavatthu
 
 + ‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni; Kūṭāgārā
   sattasatā uḷārā, veḷuriyathambhā rucakatthatā subhā.
@@ -2645,7 +2645,7 @@ vitthāretabbaṃ)
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Paṭhamakaraṇīyavimānaṃ chaṭṭhaṃ.
 
-+ Dutiyakaraṇīyavimānavatthu
+=== Dutiyakaraṇīyavimānavatthu
 
 + ‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni; Kūṭāgārā
   sattasatā uḷārā, veḷuriyathambhā rucakatthatā subhā.
@@ -2670,7 +2670,7 @@ Dutiyakaraṇīyavimānaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Paṭhamasūcivimānavatthu
+=== Paṭhamasūcivimānavatthu
 
 + ‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni; Kūṭāgārā
   sattasatā uḷārā, veḷuriyathambhā rucakatthatā subhā.
@@ -2688,7 +2688,7 @@ Dutiyakaraṇīyavimānaṃ sattamaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe… vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Paṭhamasūcivimānaṃ aṭṭhamaṃ.
 
-+ Dutiyasūcivimānavatthu
+=== Dutiyasūcivimānavatthu
 
 + ‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni; Kūṭāgārā
   sattasatā uḷārā, veḷuriyathambhā rucakatthatā subhā.
@@ -2708,7 +2708,7 @@ Dutiyakaraṇīyavimānaṃ sattamaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Dutiyasūcivimānaṃ navamaṃ.
 
-+ Paṭhamanāgavimānavatthu
+=== Paṭhamanāgavimānavatthu
 
 + ‘‘Susukkakhandhaṃ abhiruyha nāgaṃ, akācinaṃ dantiṃ baliṃ mahājavaṃ;
   Abhiruyha gajavaraṃ \[gajaṃ varaṃ (syā.)\] sukappitaṃ, idhāgamā
@@ -2729,7 +2729,7 @@ Dutiyakaraṇīyavimānaṃ sattamaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Paṭhamanāgavimānaṃ dasamaṃ.
 
-+ Dutiyanāgavimānavatthu
+=== Dutiyanāgavimānavatthu
 
 + ‘‘Mahantaṃ nāgaṃ abhiruyha, sabbasetaṃ gajuttamaṃ; Vanā vanaṃ
   anupariyāsi, nārīgaṇapurakkhato; Obhāsento disā sabbā, osadhī viya
@@ -2754,7 +2754,7 @@ Pañhaṃ puṭṭho viyākāsi, yassa kammassidaṃ phalaṃ.
 + ‘‘Tena metādiso vaṇṇo…pe…vaṇṇo ca me sabbadisā pabhāsatī''ti.
   Dutiyanāgavimānaṃ ekādasamaṃ.
 
-+ Tatiyanāgavimānavatthu
+=== Tatiyanāgavimānavatthu
 
 + ‘‘Ko nu dibbena yānena, sabbasetena hatthinā; Turiyatāḷitanigghoso,
   antalikkhe mahīyati.
@@ -2777,7 +2777,7 @@ Tatiyanāgavimānaṃ dvādasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ Cūḷarathavimānavatthu
+=== Cūḷarathavimānavatthu
 
 + ‘‘Daḷhadhammā nisārassa, dhanuṃ olubbha tiṭṭhasi; Khattiyo nusi
   rājañño, adu luddo vanecaro''ti \[vanācaroti (syā. ka.)\].
@@ -2899,7 +2899,7 @@ Cūḷarathavimānaṃ terasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ Mahārathavimānavatthu
+=== Mahārathavimānavatthu
 ]
 
 1015.‘‘Sahassayuttaṃ hayavāhanaṃ subhaṃ, āruyhimaṃ sandanaṃ nekacittaṃ;
@@ -3034,7 +3034,7 @@ nāgā ca dve rathā; Purisānaṃ paṭhamo vaggo pavuccatīti.
 Bhāṇavāraṃ tatiyaṃ niṭṭhitaṃ.
 
 == 6. Pāyāsivaggo
-+ Paṭhamaagāriyavimānavatthu
+=== Paṭhamaagāriyavimānavatthu
 
 1048.‘‘Yathā vanaṃ cittalataṃ pabhāsati \[pakāsati (ka.)\],
 uyyānaseṭṭhaṃ tidasānamuttamaṃ; Tathūpamaṃ tuyhamidaṃ vimānaṃ, obhāsayaṃ
@@ -3054,7 +3054,7 @@ Paṭhamaagāriyavimānaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Dutiyaagāriyavimānavatthu
+=== Dutiyaagāriyavimānavatthu
 ]
 
 1054.‘‘Yathā vanaṃ cittalataṃ pabhāsati, uyyānaseṭṭhaṃ tidasānamuttamaṃ;
@@ -3073,7 +3073,7 @@ Dutiyaagāriyavimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Phaladāyakavimānavatthu
+=== Phaladāyakavimānavatthu
 ]
 
 1060.‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato soḷasa yojanāni; Kūṭāgārā
@@ -3106,7 +3106,7 @@ Phaladāyakavimānaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Paṭhamaupassayadāyakavimānavatthu
+=== Paṭhamaupassayadāyakavimānavatthu
 ]
 
 1069.‘‘Cando yathā vigatavalāhake nabhe, obhāsayaṃ gacchati antalikkhe;
@@ -3125,7 +3125,7 @@ Paṭhamaupassayadāyakavimānaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Dutiyaupassayadāyakavimānavatthu
+=== Dutiyaupassayadāyakavimānavatthu
 ]
 
 1075.Sūriyo yathā vigatavalāhake nabhe…pe…. (Yathā purimavimānaṃ tathā
@@ -3136,7 +3136,7 @@ Dutiyaupassayadāyakavimānaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Bhikkhādāyakavimānavatthu
+=== Bhikkhādāyakavimānavatthu
 ]
 
 1081.‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni;
@@ -3155,7 +3155,7 @@ Bhikkhādāyakavimānaṃ chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Yavapālakavimānavatthu
+=== Yavapālakavimānavatthu
 ]
 
 1087.‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ…pe… vaṇṇo ca te sabbadisā
@@ -3174,7 +3174,7 @@ Yavapālakavimānaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Paṭhamakuṇḍalīvimānavatthu
+=== Paṭhamakuṇḍalīvimānavatthu
 ]
 
 1094.‘‘Alaṅkato malyadharo suvattho, sukuṇḍalī kappitakesamassu;
@@ -3197,7 +3197,7 @@ Paṭhamakuṇḍalīvimānaṃ aṭṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Dutiyakuṇḍalīvimānavatthu
+=== Dutiyakuṇḍalīvimānavatthu
 ]
 
 1101.‘‘Alaṅkato malyadharo suvattho, sukuṇḍalī kappitakesamassu;
@@ -3250,7 +3250,7 @@ dve, kuṇḍalino pāyāsīti \[pāṭhabhedo natthi\];
 Purisānaṃ dutiyo vaggo pavuccatīti.
 
 == 7. Sunikkhittavaggo
-+ Cittalatāvimānavatthu
+=== Cittalatāvimānavatthu
 
 1114.‘‘Yathā vanaṃ cittalataṃ pabhāsati, uyyānaseṭṭhaṃ tidasānamuttamaṃ;
 Tathūpamaṃ tuyhamidaṃ vimānaṃ, obhāsayaṃ tiṭṭhati antalikkhe.
@@ -3270,7 +3270,7 @@ Cittalatāvimānaṃ paṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Nandanavimānavatthu
+=== Nandanavimānavatthu
 ]
 
 1120.‘‘Yathā vanaṃ nandanaṃ \[nandanaṃ cittalataṃ (sī. syā. ka.),
@@ -3293,7 +3293,7 @@ Nandanavimānaṃ dutiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Maṇithūṇavimānavatthu
+=== Maṇithūṇavimānavatthu
 ]
 
 1126.‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni;
@@ -3316,7 +3316,7 @@ Maṇithūṇavimānaṃ tatiyaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Suvaṇṇavimānavatthu
+=== Suvaṇṇavimānavatthu
 ]
 
 1134.‘‘Sovaṇṇamaye pabbatasmiṃ, vimānaṃ sabbatopabhaṃ;
@@ -3360,7 +3360,7 @@ Suvaṇṇavimānaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Ambavimānavatthu
+=== Ambavimānavatthu
 ]
 
 1146.‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni;
@@ -3401,7 +3401,7 @@ Ambavimānaṃ pañcamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Gopālavimānavatthu
+=== Gopālavimānavatthu
 ]
 
 1159.‘‘Disvāna devaṃ paṭipucchi bhikkhu, ucce vimānamhi ciraṭṭhitike;
@@ -3450,7 +3450,7 @@ Gopālavimānaṃ chaṭṭhaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Kaṇḍakavimānavatthu
+=== Kaṇḍakavimānavatthu
 ]
 
 1171.‘‘Puṇṇamāse yathā cando, nakkhattaparivārito; Samantā anupariyāti,
@@ -3540,7 +3540,7 @@ Kaṇḍakavimānaṃ sattamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Anekavaṇṇavimānavatthu
+=== Anekavaṇṇavimānavatthu
 ]
 
 1199.‘‘Anekavaṇṇaṃ darasokanāsanaṃ, vimānamāruyha anekacittaṃ;
@@ -3577,7 +3577,7 @@ Anekavaṇṇavimānaṃ aṭṭhamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Maṭṭhakuṇḍalīvimānavatthu
+=== Maṭṭhakuṇḍalīvimānavatthu
 ]
 
 1207.\[pe. va. 186\] ‘‘Alaṅkato maṭṭhakuṇḍalī \[maṭṭakuṇḍalī (sī.)\],
@@ -3653,7 +3653,7 @@ Maṭṭhakuṇḍalīvimānaṃ navamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Serīsakavimānavatthu
+=== Serīsakavimānavatthu
 ]
 
 1228.\[pe. va. 604\] Suṇotha yakkhassa ca vāṇijāna ca, samāgamo yattha
@@ -3845,7 +3845,7 @@ Serīsakavimānaṃ dasamaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Sunikkhittavimānavatthu
+=== Sunikkhittavimānavatthu
 ]
 
 1282.‘‘Uccamidaṃ maṇithūṇaṃ vimānaṃ, samantato dvādasa yojanāni;

@@ -234,7 +234,11 @@ function buildIndex(cat: Catalog): Index {
         } else if (nik === "mn" && (ed === "new" || ed === "vn") && num) {
           put(index, `mn/${num}`, ed, n.route);
           if (ed === "new") {
-            for (const p of parens(n.title)) if (!mnStem.has(p)) mnStem.set(p, num);
+            // Selasuttaṃ folds to four letters, under the usual stem floor.
+            for (const m of n.title.matchAll(/\(([^)]+)\)/g)) {
+              const stem = fold(m[1]);
+              if (stem.length >= 4 && !mnStem.has(stem)) mnStem.set(stem, num);
+            }
           }
         } else if (nik === "sn") {
           const m = n.title.match(/(\d+)\.(\d+)/);
@@ -267,9 +271,13 @@ function buildIndex(cat: Catalog): Index {
           const list = anPali.get(book) ?? [];
           list.push(n);
           anPali.set(book, list);
-        } else if (nik === "kn" && num && book) {
-          put(index, `kn/${book}/${num}`, ed, n.route);
-          for (const p of parens(n.title)) put(index, `kn-name/${book}/${p}`, ed, n.route);
+        } else if (nik === "kn" && book && (num || bareTitle(n.title).length >= 5)) {
+          if (num) put(index, `kn/${book}/${num}`, ed, n.route);
+          const names = parens(n.title);
+          const bare = bareTitle(n.title);
+          for (const p of names.concat(bare.length >= 5 ? [bare] : [])) {
+            put(index, `kn-name/${book}/${p}`, ed, n.route);
+          }
         } else if (nik === "vinaya" && num) {
           const blob = n.route;
           const fam = Object.entries(VIN).find(([token]) => blob.includes(token))?.[1];
@@ -320,9 +328,12 @@ function lookupKeys(node: CatNode, nik: string): string[] {
     }
     for (const p of parens(node.title)) keys.push(`an-name/${book}/${p}`);
   }
-  if (nik === "kn" && num && book) {
-    keys.push(`kn/${book}/${num}`);
-    for (const p of parens(node.title)) keys.push(`kn-name/${book}/${p}`);
+  if (nik === "kn" && book) {
+    if (num) keys.push(`kn/${book}/${num}`);
+    const bare = bareTitle(node.title);
+    for (const p of parens(node.title).concat(bare.length >= 5 ? [bare] : [])) {
+      keys.push(`kn-name/${book}/${p}`);
+    }
   }
   if (nik === "vinaya" && num) {
     const fam = Object.entries(VIN).find(([token]) => node.route.includes(token))?.[1];
@@ -389,6 +400,45 @@ export function canonOrder<T extends { id: string }>(nikaya: string, nodes: T[])
   });
 }
 
+/** "Phẩm Giới Uẩn" and "Giới Uẩn (Sīlakkhandhavaggo)" name one section. */
+function sectionKey(title: string): string {
+  let s = title
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/gi, "d")
+    .toLowerCase();
+  s = s.replace(/\([^)]*\)/g, " ");
+  s = s.replace(/^\s*\d+[.)]?\s*/, "");
+  s = s.replace(/^(pham|chuong|tap|thien|phan|quyen)\s+/, "");
+  s = s.replace(/^(pham|chuong|tap|thien|phan|quyen)\s+/, "");
+  return s.replace(/[^a-z0-9]+/g, "");
+}
+
+function sameSection(a: CatNode, b: CatNode): boolean {
+  const left = sectionKey(a.title);
+  const right = sectionKey(b.title);
+  return left.length >= 4 && left === right;
+}
+
+/**
+ * A vagga file repeats its own title as the first heading, so the outline
+ * has two groups for one section. Keep the outer group and lift the suttas.
+ */
+export function collapseEcho(node: CatNode): CatNode {
+  let children = node.children?.map(collapseEcho) ?? node.children;
+  let changed = !!node.children && children!.some((child, i) => child !== node.children![i]);
+  for (let guard = 0; guard < 6; guard++) {
+    const real = (children ?? []).filter((child) => !isFrontMatter(child));
+    const only = real.length === 1 ? real[0] : undefined;
+    if (!only || only.path || !only.children?.length || !sameSection(node, only)) break;
+    const front = (children ?? []).filter(isFrontMatter);
+    children = [...front, ...only.children];
+    changed = true;
+  }
+  if (!changed) return node;
+  return { ...node, children, leafCount: undefined };
+}
+
 function pruneFront(node: CatNode): CatNode | null {
   if (isFrontMatter(node)) return null;
   const kids = node.children;
@@ -405,6 +455,7 @@ export function canonVolume(cat: Catalog, nikaya: string): CatNode | null {
   if (!vol) return null;
   const children = canonOrder(nikaya, vol.children ?? [])
     .map(pruneFront)
-    .filter((child): child is CatNode => child !== null);
+    .filter((child): child is CatNode => child !== null)
+    .map(collapseEcho);
   return { ...vol, children, leafCount: undefined };
 }

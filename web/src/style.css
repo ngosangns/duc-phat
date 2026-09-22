@@ -341,8 +341,33 @@ button, input { font: inherit; color: inherit; }
 }
 
 .shelf-bay {
+  --cover-h: 230px;
+  --plank-h: 15px;
+  --lift-gap: 0.55rem;
+  --after-plank: 1.55rem;
+  --row-gap: calc(var(--lift-gap) + var(--plank-h) + var(--after-plank));
+  --pad-top: 1.35rem;
+  --col-gap: 1.15rem;
+  --period: calc(var(--cover-h) + var(--row-gap));
   position: relative;
-  padding-bottom: 1.15rem;
+}
+
+.shelf-bay::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(var(--pad-top) + var(--cover-h) + var(--lift-gap) + var(--plank-h));
+  bottom: 0;
+  pointer-events: none;
+  background-image: linear-gradient(
+    180deg,
+    rgba(40, 24, 8, 0.28) 0,
+    transparent 18px,
+    transparent var(--period)
+  );
+  background-size: 100% var(--period);
+  background-repeat: repeat-y;
 }
 
 .shelf-bay::after {
@@ -350,10 +375,17 @@ button, input { font: inherit; color: inherit; }
   position: absolute;
   left: 0;
   right: 0;
+  top: calc(var(--pad-top) + var(--cover-h) + var(--lift-gap));
   bottom: 0;
-  height: 15px;
-  border-radius: 2px 2px 4px 4px;
+  pointer-events: none;
   background:
+    linear-gradient(180deg, rgba(255, 236, 210, 0.28), transparent 2px),
+    linear-gradient(
+      180deg,
+      transparent calc(var(--plank-h) - 4px),
+      rgba(0, 0, 0, 0.35) var(--plank-h),
+      transparent var(--plank-h)
+    ),
     repeating-linear-gradient(
       90deg,
       transparent 0 11px,
@@ -365,38 +397,55 @@ button, input { font: inherit; color: inherit; }
       rgba(255, 220, 170, 0.12) 0 1px,
       transparent 2px 5px
     ),
-    linear-gradient(180deg, var(--wood-lite), var(--wood) 55%, var(--wood-ink));
-  box-shadow:
-    0 10px 18px rgba(40, 24, 8, 0.28),
-    inset 0 2px 0 rgba(255, 236, 210, 0.28),
-    inset 0 -3px 4px rgba(0, 0, 0, 0.35);
-  pointer-events: none;
+    linear-gradient(
+      180deg,
+      var(--wood-lite) 0,
+      var(--wood) calc(var(--plank-h) * 0.55),
+      var(--wood-ink) var(--plank-h),
+      transparent var(--plank-h)
+    );
+  background-size:
+    100% var(--period),
+    100% var(--period),
+    100% var(--plank-h),
+    100% var(--plank-h),
+    100% var(--period);
+  background-repeat: repeat-y;
+  -webkit-mask-image: repeating-linear-gradient(
+    to bottom,
+    #000 0,
+    #000 var(--plank-h),
+    transparent var(--plank-h),
+    transparent var(--period)
+  );
+  mask-image: repeating-linear-gradient(
+    to bottom,
+    #000 0,
+    #000 var(--plank-h),
+    transparent var(--plank-h),
+    transparent var(--period)
+  );
 }
 
 .shelf-plank {
   --tilt-x: 0deg;
   --tilt-y: 0deg;
   display: flex;
-  gap: 1.15rem;
-  overflow-x: auto;
-  overflow-y: clip;
-  padding: 1.35rem 0.35rem 0.35rem;
-  scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
-  overscroll-behavior-x: contain;
+  flex-wrap: wrap;
+  column-gap: var(--col-gap);
+  row-gap: var(--row-gap);
+  padding: var(--pad-top) 0.35rem calc(var(--lift-gap) + var(--plank-h) + 1.15rem);
   perspective: 1100px;
-  touch-action: pan-x pan-y;
 }
 
 .cover {
   --lean: -1.4deg;
   flex: 0 0 168px;
-  height: 230px;
+  height: var(--cover-h);
   display: grid;
   grid-template-columns: 15px 1fr 7px;
   border-radius: 2px 7px 6px 2px;
   overflow: visible;
-  scroll-snap-align: start;
   color: #f6ead7;
   position: relative;
   transform-origin: 50% 100%;
@@ -1032,7 +1081,8 @@ html[data-theme="night"] .paper {
     flex: 0 0 auto;
     border-radius: 999px;
   }
-  .cover { flex-basis: 148px; height: 210px; }
+  .shelf-bay { --cover-h: 210px; }
+  .cover { flex-basis: 148px; }
   .toc-group .toc-list { margin-left: 0.7rem; }
   .nav-sutta a, .nav-sutta span { min-height: 2.6rem; display: flex; align-items: center; justify-content: center; }
 }
@@ -1071,9 +1121,9 @@ html[data-theme="night"] .paper {
     min-width: 0;
   }
   .wrap { width: min(1120px, calc(100% - 1.2rem)); }
-  .cover { flex-basis: 132px; height: 188px; }
+  .shelf-bay { --cover-h: 188px; --col-gap: 0.85rem; }
+  .cover { flex-basis: 132px; }
   .cover-title { font-size: 1rem; }
-  .shelf-plank { gap: 0.85rem; }
   .icon-btn, .text-btn { min-height: 2.35rem; }
   .icon-btn.icon-only { width: 2.05rem; height: 2.05rem; }
   .settings .icon-btn { padding: 0.22rem 0.42rem; font-size: 0.82rem; }
@@ -1107,4 +1157,63 @@ html[data-theme="night"] .paper {
   .cover, .cover:hover, .cover:active {
     transform: none;
   }
+}
+
+/* ---------- in-app page transitions ---------- */
+
+.stage {
+  min-height: 100dvh;
+}
+
+html[data-vt] .paper,
+html[data-nav] .paper {
+  animation: none;
+}
+
+html[data-nav="open"] .stage { animation: vt-rise-in 340ms cubic-bezier(0.2, 0.72, 0.18, 1); }
+html[data-nav="deeper"] .stage,
+html[data-nav="forward"] .stage { animation: vt-in-right 280ms cubic-bezier(0.2, 0.72, 0.18, 1); }
+html[data-nav="back"] .stage { animation: vt-in-left 280ms cubic-bezier(0.2, 0.72, 0.18, 1); }
+html[data-nav="close"] .stage,
+html[data-nav="fade"] .stage { animation: vt-fade-in 220ms ease; }
+
+::view-transition-old(root),
+::view-transition-new(root) {
+  animation-duration: 280ms;
+  animation-timing-function: cubic-bezier(0.2, 0.72, 0.18, 1);
+  animation-fill-mode: both;
+}
+
+html[data-vt="open"]::view-transition-old(root) { animation-name: vt-fade-out; }
+html[data-vt="open"]::view-transition-new(root) { animation-name: vt-rise-in; animation-duration: 340ms; }
+html[data-vt="close"]::view-transition-old(root) { animation-name: vt-drop-out; }
+html[data-vt="close"]::view-transition-new(root) { animation-name: vt-fade-in; }
+html[data-vt="deeper"]::view-transition-old(root),
+html[data-vt="forward"]::view-transition-old(root) { animation-name: vt-out-left; }
+html[data-vt="deeper"]::view-transition-new(root),
+html[data-vt="forward"]::view-transition-new(root) { animation-name: vt-in-right; }
+html[data-vt="back"]::view-transition-old(root) { animation-name: vt-out-right; }
+html[data-vt="back"]::view-transition-new(root) { animation-name: vt-in-left; }
+html[data-vt="fade"]::view-transition-old(root) { animation-name: vt-fade-out; }
+html[data-vt="fade"]::view-transition-new(root) { animation-name: vt-fade-in; }
+
+@keyframes vt-fade-out { to { opacity: 0; } }
+@keyframes vt-fade-in { from { opacity: 0; } }
+@keyframes vt-rise-in {
+  from { opacity: 0; transform: translateY(18px); }
+}
+@keyframes vt-drop-out {
+  to { opacity: 0; transform: translateY(14px); }
+}
+@keyframes vt-out-left {
+  to { opacity: 0; transform: translateX(-32px); }
+}
+@keyframes vt-in-right {
+  from { opacity: 0; transform: translateX(32px); }
+}
+@keyframes vt-out-right {
+  to { opacity: 0; transform: translateX(32px); }
+}
+@keyframes vt-in-left {
+  from { opacity: 0; transform: translateX(-32px); }
 }

@@ -1,4 +1,4 @@
-+ Kammakkhandhakaṃ
+=== 1. Kammakkhandhakaṃ
 
 + Tajjanīyakammaṃ
 
@@ -2985,7 +2985,7 @@ Kammakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Pārivāsikakkhandhakaṃ
+=== 2. Pārivāsikakkhandhakaṃ
 
 + Pārivāsikavattaṃ
 
@@ -3756,7 +3756,7 @@ Pārivāsikakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Samuccayakkhandhakaṃ
+=== 3. Samuccayakkhandhakaṃ
 
 + Sukkavissaṭṭhi
 
@@ -6753,7 +6753,7 @@ Samuccayakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Samathakkhandhakaṃ
+=== 4. Samathakkhandhakaṃ
 
 + Sammukhāvinayo
 
@@ -8669,7 +8669,7 @@ Samathakkhandhakaṃ niṭṭhitaṃ catutthaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Khuddakavatthukkhandhakaṃ Khuddakavatthūni
+=== 5. Khuddakavatthukkhandhakaṃ Khuddakavatthūni
 
 + Tena samayena buddho bhagavā rājagahe viharati veḷuvane
   kalandakanivāpe. Tena kho pana samayena chabbaggiyā bhikkhū nahāyamānā
@@ -10566,7 +10566,7 @@ Khuddakavatthukkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Senāsanakkhandhakaṃ
+=== 6. Senāsanakkhandhakaṃ
 
 + Paṭhamabhāṇavāro
 ]
@@ -12302,7 +12302,7 @@ Senāsanakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Saṅghabhedakakkhandhakaṃ
+=== 7. Saṅghabhedakakkhandhakaṃ
 
 + Paṭhamabhāṇavāro
 ]
@@ -13622,9 +13622,9 @@ Saṅghabhedakakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Vattakkhandhakaṃ
+=== 8. Vattakkhandhakaṃ
 
-+ Āgantukavattakathā
+=== 9. Āgantukavattakathā
 
 + Tena samayena buddho bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme. Tena kho pana samayena āgantukā bhikkhū
@@ -13749,7 +13749,7 @@ bhikkhūnaṃ vattaṃ yathā āgantukehi bhikkhūhi sammā vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Āvāsikavattakathā
+=== 10. Āvāsikavattakathā
 
 + Tena kho pana samayena āvāsikā bhikkhū āgantuke bhikkhū disvā neva
   āsanaṃ paññapenti, na pādodakaṃ pādapīṭhaṃ pādakathalikaṃ
@@ -13802,7 +13802,7 @@ bhikkhūhi sammā vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Gamikavattakathā
+=== 11. Gamikavattakathā
 
 + Tena kho pana samayena gamikā bhikkhū dārubhaṇḍaṃ mattikābhaṇḍaṃ
   appaṭisāmetvā dvāravātapānaṃ vivaritvā senāsanaṃ anāpucchā pakkamanti.
@@ -13840,7 +13840,7 @@ bhikkhūhi sammā vattitabba''nti.
   kho, bhikkhave, gamikānaṃ bhikkhūnaṃ vattaṃ yathā gamikehi bhikkhūhi
   sammā vattitabba''nti.
 
-+ Anumodanavattakathā
+=== 12. Anumodanavattakathā
 
 + Tena kho pana samayena bhikkhū bhattagge na anumodanti. Manussā
   ujjhāyanti khiyyanti vipācenti -- ‘‘kathañhi nāma samaṇā sakyaputtiyā
@@ -13875,7 +13875,7 @@ vaccaṃ sandhāretuṃ asakkonto mucchito papati. Bhagavato etamatthaṃ
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Bhattaggavattakathā
+=== 13. Bhattaggavattakathā
 
 + Tena kho pana samayena chabbaggiyā bhikkhū dunnivatthā duppārutā
   anākappasampannā bhattaggaṃ gacchanti, vokkammapi therānaṃ bhikkhūnaṃ
@@ -13980,7 +13980,7 @@ Paṭhamabhāṇavāro niṭṭhito.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Piṇḍacārikavattakathā
+=== 14. Piṇḍacārikavattakathā
 
 + Tena kho pana samayena piṇḍacārikā bhikkhū dunnivatthā duppārutā
   anākappasampannā piṇḍāya caranti, asallakkhetvāpi nivesanaṃ pavisanti,
@@ -14067,7 +14067,7 @@ vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Āraññikavattakathā
+=== 15. Āraññikavattakathā
 
 + Tena kho pana samayena sambahulā bhikkhū araññe viharanti. Te neva
   pānīyaṃ upaṭṭhāpenti, na paribhojanīyaṃ upaṭṭhāpenti, na aggiṃ
@@ -14134,7 +14134,7 @@ bhikkhūhi sammā vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Senāsanavattakathā
+=== 16. Senāsanavattakathā
 
 + Tena kho pana samayena sambahulā bhikkhū ajjhokāse cīvarakammaṃ
   karonti. Chabbaggiyā bhikkhū paṭivāte aṅgaṇe \[paṅgaṇe (sī. syā.)\]
@@ -14220,7 +14220,7 @@ senāsanavattaṃ yathā bhikkhūhi senāsane sammā vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Jantāgharavattakathā
+=== 17. Jantāgharavattakathā
 
 + Tena kho pana samayena chabbaggiyā bhikkhū jantāghare therehi
   bhikkhūhi nivāriyamānā anādariyaṃ paṭicca pahūtaṃ kaṭṭhaṃ āropetvā
@@ -14272,7 +14272,7 @@ vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Vaccakuṭivattakathā
+=== 18. Vaccakuṭivattakathā
 
 + Tena kho pana samayena aññataro bhikkhu brāhmaṇajātiko vaccaṃ katvā na
   icchati ācametuṃ -- ko imaṃ vasalaṃ duggandhaṃ āmasissatīti
@@ -14345,7 +14345,7 @@ vaccakuṭiyā sammā vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Upajjhāyavattakathā
+=== 19. Upajjhāyavattakathā
 
 + Tena kho pana samayena saddhivihārikā upajjhāyesu na sammā vattanti.
   Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti --
@@ -14531,7 +14531,7 @@ sammā vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 12)
-+ Saddhivihārikavattakathā
+=== 20. Saddhivihārikavattakathā
 
 + Tena kho pana samayena upajjhāyā saddhivihārikesu na sammā vattanti.
   Ye te bhikkhū appicchā…pe… te ujjhāyanti khiyyanti vipācenti --
@@ -14662,7 +14662,7 @@ Dutiyabhāṇavāro niṭṭhito.
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ Ācariyavattakathā
+=== 21. Ācariyavattakathā
 
 + Tena kho pana samayena antevāsikā ācariyesu na sammā vattanti. Ye te
   bhikkhū appicchā… pe… te ujjhāyanti khiyyanti vipācenti -- ‘‘kathañhi
@@ -14839,7 +14839,7 @@ vattitabba''nti.
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ Antevāsikavattakathā
+=== 22. Antevāsikavattakathā
 
 + Tena kho pana samayena ācariyā antevāsikesu na sammā vattanti. Ye te
   bhikkhū appicchā… pe… te ujjhāyanti khiyyanti vipācenti -- ‘‘kathañhi
@@ -15221,7 +15221,7 @@ Vattakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Pātimokkhaṭṭhapanakkhandhakaṃ
+=== 23. Pātimokkhaṭṭhapanakkhandhakaṃ
 
 + Pātimokkhuddesayācanā
 
@@ -15969,7 +15969,7 @@ paro codetabbo''ti.
   codetukāmena ime pañca dhamme ajjhattaṃ upaṭṭhāpetvā paro
   codetabbo''ti.
 
-+ Codakacuditakapaṭisaṃyuttakathā
+=== 24. Codakacuditakapaṭisaṃyuttakathā
 
 + ‘‘Adhammacodakassa, bhante, bhikkhuno katīhākārehi vippaṭisāro
   upadahātabbo''ti? ‘‘Adhammacodakassa, upāli, bhikkhuno pañcahākārehi
@@ -16096,7 +16096,7 @@ Pātimokkhaṭṭhapanakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Bhikkhunikkhandhakaṃ
+=== 25. Bhikkhunikkhandhakaṃ
 
 + Paṭhamabhāṇavāro
 ]
@@ -17520,7 +17520,7 @@ Bhikkhunikkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Pañcasatikakkhandhakaṃ
+=== 26. Pañcasatikakkhandhakaṃ
 
 + Saṅgītinidānaṃ
 
@@ -17675,7 +17675,7 @@ vissajjesi.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Khuddānukhuddakasikkhāpadakathā
+=== 27. Khuddānukhuddakasikkhāpadakathā
 
 + Atha kho āyasmā ānando there bhikkhū etadavoca -- ‘‘bhagavā maṃ,
   bhante, parinibbānakāle evamāha -- ‘ākaṅkhamāno, ānanda, saṅgho
@@ -17778,7 +17778,7 @@ tuṇhī, evametaṃ dhārayāmī''ti.
   Apica yatheva mayā bhagavato sammukhā sutaṃ, sammukhā paṭiggahitaṃ,
   tathevāhaṃ dhāressāmī''ti.
 
-+ Brahmadaṇḍakathā
+=== 28. Brahmadaṇḍakathā
 
 + Atha kho āyasmā ānando there bhikkhū etadavoca -- ‘‘bhagavā maṃ,
   bhante, parinibbānakāle evamāha -- ‘tena hānanda, saṅgho mamaccayena
@@ -17903,7 +17903,7 @@ Pañcasatikakkhandhakaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 12)
-+ Sattasatikakkhandhakaṃ
+=== 29. Sattasatikakkhandhakaṃ
 
 + Paṭhamabhāṇavāro
 

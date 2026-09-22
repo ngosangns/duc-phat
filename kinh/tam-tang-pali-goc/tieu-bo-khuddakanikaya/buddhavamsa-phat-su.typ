@@ -1,4 +1,4 @@
-+ Ratanacaṅkamanakaṇḍaṃ
+=== Ratanacaṅkamanakaṇḍaṃ
 
 + Brahmā ca lokādhipatī sahampatī \[sahampati (syā. kaṃ.)\], katañjalī
   anadhivaraṃ ayācatha; ‘‘Santīdha sattāpparajakkhajātikā, desehi
@@ -261,7 +261,7 @@ Ratanacaṅkamanakaṇḍo niṭṭhito.
 
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Sumedhapatthanākathā
+=== Sumedhapatthanākathā
 
 + Kappe ca satasahasse, caturo ca asaṅkhiye; Amaraṃ nāma nagaraṃ,
   dassaneyyaṃ manoramaṃ.
@@ -852,7 +852,7 @@ Sumedhapatthanākathā niṭṭhitā.
 
 #block[
 #set enum(numbering: "1.", start: 3)
-+ Dīpaṅkarabuddhavaṃso
+=== Dīpaṅkarabuddhavaṃso
 
 + Tadā te bhojayitvāna, sasaṅghaṃ lokanāyakaṃ; Upagacchuṃ saraṇaṃ tassa,
   dīpaṅkarassa satthuno.
@@ -953,7 +953,7 @@ Dīpaṅkarassa bhagavato vaṃso paṭhamo.
 
 #block[
 #set enum(numbering: "1.", start: 4)
-+ Koṇḍaññabuddhavaṃso
+=== Koṇḍaññabuddhavaṃso
 
 + Dīpaṅkarassa aparena, koṇḍañño nāma nāyako; Anantatejo amitayaso,
   appameyyo durāsado.
@@ -1075,7 +1075,7 @@ Koṇḍaññassa bhagavato vaṃso dutiyo.
 
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Maṅgalabuddhavaṃso
+=== Maṅgalabuddhavaṃso
 
 + Koṇḍaññassa aparena, maṅgalo nāma nāyako; Tamaṃ loke nihantvāna,
   dhammokkamabhidhārayi.
@@ -1186,7 +1186,7 @@ Maṅgalassa bhagavato vaṃso tatiyo.
 
 #block[
 #set enum(numbering: "1.", start: 6)
-+ Sumanabuddhavaṃso
+=== Sumanabuddhavaṃso
 
 + Maṅgalassa aparena, sumano nāma nāyako; Sabbadhammehi asamo,
   sabbasattānamuttamo.
@@ -1295,7 +1295,7 @@ Sumanassa bhagavato vaṃso catuttho.
 
 #block[
 #set enum(numbering: "1.", start: 7)
-+ Revatabuddhavaṃso
+=== Revatabuddhavaṃso
 
 + Sumanassa aparena, revato nāma nāyako; Anūpamo asadiso, atulo uttamo
   jino.
@@ -1390,7 +1390,7 @@ Revatassa bhagavato vaṃso pañcamo.
 
 #block[
 #set enum(numbering: "1.", start: 8)
-+ Sobhitabuddhavaṃso
+=== Sobhitabuddhavaṃso
 
 + Revatassa aparena, sobhito nāma nāyako; Samāhito santacitto, asamo
   appaṭipuggalo.
@@ -1486,7 +1486,7 @@ Sobhitassa bhagavato vaṃso chaṭṭho.
 
 #block[
 #set enum(numbering: "1.", start: 9)
-+ Anomadassībuddhavaṃso
+=== Anomadassībuddhavaṃso
 
 + Sobhitassa aparena, sambuddho dvipaduttamo; Anomadassī amitayaso,
   tejassī duratikkamo.
@@ -1579,7 +1579,7 @@ Anomadassissa bhagavato vaṃso sattamo.
 
 #block[
 #set enum(numbering: "1.", start: 10)
-+ Padumabuddhavaṃso
+=== Padumabuddhavaṃso
 
 + Anomadassissa aparena, sambuddho dvipaduttamo; Padumo nāma nāmena,
   asamo appaṭipuggalo.
@@ -1672,7 +1672,7 @@ Padumassa bhagavato vaṃso aṭṭhamo.
 
 #block[
 #set enum(numbering: "1.", start: 11)
-+ Nāradabuddhavaṃso
+=== Nāradabuddhavaṃso
 
 + Padumassa aparena, sambuddho dvipaduttamo; Nārado nāma nāmena, asamo
   appaṭipuggalo.
@@ -1777,7 +1777,7 @@ Nāradassa bhagavato vaṃso navamo.
 
 #block[
 #set enum(numbering: "1.", start: 12)
-+ Padumuttarabuddhavaṃso
+=== Padumuttarabuddhavaṃso
 
 + Nāradassa aparena, sambuddho dvipaduttamo; Padumuttaro nāma jino,
   akkhobho sāgarūpamo.
@@ -1880,7 +1880,7 @@ Padumuttarassa bhagavato vaṃso dasamo.
 
 #block[
 #set enum(numbering: "1.", start: 13)
-+ Sumedhabuddhavaṃso
+=== Sumedhabuddhavaṃso
 
 + Padumuttarassa aparena, sumedho nāma nāyako; Durāsado uggatejo,
   sabbalokuttamo muni.
@@ -1979,7 +1979,7 @@ Sumedhassa bhagavato vaṃso ekādasamo.
 
 #block[
 #set enum(numbering: "1.", start: 14)
-+ Sujātabuddhavaṃso
+=== Sujātabuddhavaṃso
 
 + Tattheva maṇḍakappamhi, sujāto nāma nāyako; Sīhahanusabhakkhandho,
   appameyyo durāsado.
@@ -2094,7 +2094,7 @@ Sujātassa bhagavato vaṃso dvādasamo.
 
 #block[
 #set enum(numbering: "1.", start: 15)
-+ Piyadassībuddhavaṃso
+=== Piyadassībuddhavaṃso
 
 + Sujātassa aparena, sayambhū lokanāyako; Durāsado asamasamo, piyadassī
   mahāyaso.
@@ -2181,7 +2181,7 @@ Piyadassissa bhagavato vaṃso terasamo.
 
 #block[
 #set enum(numbering: "1.", start: 16)
-+ Atthadassībuddhavaṃso
+=== Atthadassībuddhavaṃso
 
 + Tattheva maṇḍakappamhi, atthadassī mahāyaso; Mahātamaṃ nihantvāna,
   patto sambodhimuttamaṃ.
@@ -2266,7 +2266,7 @@ Atthadassissa bhagavato vaṃso cuddasamo.
 
 #block[
 #set enum(numbering: "1.", start: 17)
-+ Dhammadassībuddhavaṃso
+=== Dhammadassībuddhavaṃso
 
 + Tattheva maṇḍakappamhi, dhammadassī mahāyaso; Tamandhakāraṃ
   vidhamitvā, atirocati sadevake.
@@ -2352,7 +2352,7 @@ Dhammadassissa bhagavato vaṃso pannarasamo.
 
 #block[
 #set enum(numbering: "1.", start: 18)
-+ Siddhatthabuddhavaṃso
+=== Siddhatthabuddhavaṃso
 
 + Dhammadassissa aparena, siddhattho nāma nāyako; Nihanitvā tamaṃ
   sabbaṃ, sūriyo abbhuggato yathā.
@@ -2430,7 +2430,7 @@ Siddhatthassa bhagavato vaṃso soḷasamo.
 
 #block[
 #set enum(numbering: "1.", start: 19)
-+ Tissabuddhavaṃso
+=== Tissabuddhavaṃso
 
 + Siddhatthassa aparena, asamo appaṭipuggalo; Anantatejo amitayaso,
   tisso lokagganāyako.
@@ -2525,7 +2525,7 @@ Tissassa bhagavato vaṃso sattarasamo.
 
 #block[
 #set enum(numbering: "1.", start: 20)
-+ Phussabuddhavaṃso
+=== Phussabuddhavaṃso
 
 + Tattheva maṇḍakappamhi, ahu satthā anuttaro; Anupamo asamasamo, phusso
   lokagganāyako.
@@ -2606,7 +2606,7 @@ Phussassa bhagavato vaṃso aṭṭhārasamo.
 
 #block[
 #set enum(numbering: "1.", start: 21)
-+ Vipassībuddhavaṃso
+=== Vipassībuddhavaṃso
 
 + Phussassa ca aparena, sambuddho dvipaduttamo; Vipassī nāma nāmena,
   loke uppajji cakkhumā.
@@ -2728,7 +2728,7 @@ Vipassissa bhagavato vaṃso ekūnavīsatimo.
 
 #block[
 #set enum(numbering: "1.", start: 22)
-+ Sikhībuddhavaṃso
+=== Sikhībuddhavaṃso
 
 + Vipassissa aparena, sambuddho dvipaduttamo; Sikhivhayo āsi jino, asamo
   appaṭipuggalo.
@@ -2818,7 +2818,7 @@ Sikhissa bhagavato vaṃso vīsatimo.
 
 #block[
 #set enum(numbering: "1.", start: 23)
-+ Vessabhūbuddhavaṃso
+=== Vessabhūbuddhavaṃso
 
 + Tattheva maṇḍakappamhi, asamo appaṭipuggalo; Vessabhū nāma nāmena,
   loke uppajji nāyako \[so jino (syā. kaṃ. ka.)\].
@@ -2918,7 +2918,7 @@ Vessabhussa bhagavato vaṃso ekavīsatimo.
 
 #block[
 #set enum(numbering: "1.", start: 24)
-+ Kakusandhabuddhavaṃso
+=== Kakusandhabuddhavaṃso
 
 + Vessabhussa aparena, sambuddho dvipaduttamo; Kakusandho nāma nāmena,
   appameyyo durāsado.
@@ -3006,7 +3006,7 @@ Kakusandhassa bhagavato vaṃso dvāvīsatimo.
 
 #block[
 #set enum(numbering: "1.", start: 25)
-+ Koṇāgamanabuddhavaṃso
+=== Koṇāgamanabuddhavaṃso
 
 + Kakusandhassa aparena, sambuddho dvipaduttamo; Koṇāgamano nāma jino,
   lokajeṭṭho narāsabho.
@@ -3099,7 +3099,7 @@ Koṇāgamanassa bhagavato vaṃso tevīsatimo.
 
 #block[
 #set enum(numbering: "1.", start: 26)
-+ Kassapabuddhavaṃso
+=== Kassapabuddhavaṃso
 
 + Koṇāgamanassa aparena, sambuddho dvipaduttamo; Kassapo nāma gottena,
   dhammarājā pabhaṅkaro.
@@ -3273,7 +3273,7 @@ Kassapassa bhagavato vaṃso catuvīsatimo.
 
 #block[
 #set enum(numbering: "1.", start: 27)
-+ Gotamabuddhavaṃso
+=== Gotamabuddhavaṃso
 
 + Ahametarahi sambuddho \[buddho (sī.)\], gotamo sakyavaḍḍhano; Padhānaṃ
   padahitvāna, patto sambodhimuttamaṃ.
@@ -3357,7 +3357,7 @@ Gotamassa bhagavato vaṃso pañcavīsatimo.
 
 #block[
 #set enum(numbering: "1.", start: 28)
-+ Buddhapakiṇṇakakaṇḍaṃ
+=== Buddhapakiṇṇakakaṇḍaṃ
 
 + Aparimeyyito kappe, caturo āsuṃ vināyakā; Taṇhaṅkaro medhaṅkaro,
   athopi saraṇaṅkaro;
@@ -3429,7 +3429,7 @@ Buddhapakiṇṇakakaṇḍaṃ niṭṭhitaṃ.
 
 #block[
 #set enum(numbering: "1.", start: 29)
-+ Dhātubhājanīyakathā
+=== Dhātubhājanīyakathā
 
 + Mahāgotamo jinavaro, kusināramhi nibbuto; Dhātuvitthārikaṃ āsi, tesu
   tesu padesato.

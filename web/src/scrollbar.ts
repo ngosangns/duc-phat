@@ -144,23 +144,17 @@ class FloatBar {
   }
 }
 
-function axisFor(el: HTMLElement): Axis[] {
-  if (el === document.documentElement) return ["y"];
-  if (el.classList.contains("shelf-plank")) return ["x"];
-  return ["y"];
-}
-
 export function installFloatingScrollbars(): void {
   const bars = new Map<string, FloatBar>();
 
   const sync = () => {
     const nodes: HTMLElement[] = [
       document.documentElement,
-      ...document.querySelectorAll<HTMLElement>(".rtoc, .shelf-plank"),
+      ...document.querySelectorAll<HTMLElement>(".rtoc"),
     ];
     const keep = new Set<string>();
     for (const el of nodes) {
-      for (const axis of axisFor(el)) {
+      for (const axis of ["y"] as Axis[]) {
         const key = `${axis}:${el === document.documentElement ? "doc" : elementKey(el)}`;
         keep.add(key);
         let bar = bars.get(key);

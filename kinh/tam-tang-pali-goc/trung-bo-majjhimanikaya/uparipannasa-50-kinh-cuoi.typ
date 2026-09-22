@@ -592,10 +592,11 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṃ abhinandunti.
 
 Devadahasuttaṃ niṭṭhitaṃ paṭhamaṃ.
 
+=== 2. Pañcattayasuttaṃ
+\[pañcāyatanasutta (ka.)\]
+
 #block[
 #set enum(numbering: "1.", start: 2)
-+ Pañcattayasuttaṃ \[pañcāyatanasutta (ka.)\]
-
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi --
   ‘‘bhikkhavo''ti. ‘‘Bhadante''ti te bhikkhū bhagavato paccassosuṃ.
@@ -8708,10 +8709,11 @@ abhinandīti.
 
 Lomasakaṅgiyabhaddekarattasuttaṃ niṭṭhitaṃ catutthaṃ.
 
+=== 5. Cūḷakammavibhaṅgasuttaṃ
+\[subhasuttantipi vuccati\]
+
 #block[
 #set enum(numbering: "1.", start: 5)
-+ Cūḷakammavibhaṅgasuttaṃ \[subhasuttantipi vuccati\]
-
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane,
   anāthapiṇḍikassa ārāme. Atha kho subho māṇavo todeyyaputto yena
   bhagavā tenupasaṅkami; upasaṅkamitvā bhagavatā saddhiṃ sammodi.
