@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Navakanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Navakanipātapāḷi
-
 + Paṭhamapaṇṇāsakaṃ
 
 == 1. Sambodhivaggo

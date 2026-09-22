@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Cariyāpiṭakapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Cariyāpiṭakapāḷi
-
 == 1. Akittivaggo
 + Akitticariyā
 

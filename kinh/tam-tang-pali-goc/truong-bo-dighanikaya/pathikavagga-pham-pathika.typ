@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Dīghanikāyo Pāthikavaggapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Dīghanikāyo Pāthikavaggapāḷi
-
 === 1. Pāthikasuttaṃ Sunakkhattavatthu
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā mallesu viharati anupiyaṃ nāma
   \[anuppiyaṃ nāma (syā.)\] mallānaṃ nigamo. Atha kho bhagavā

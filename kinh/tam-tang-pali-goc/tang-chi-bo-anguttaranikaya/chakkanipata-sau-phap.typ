@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Chakkanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Chakkanipātapāḷi
-
 + Paṭhamapaṇṇāsakaṃ
 
 == 1. Āhuneyyavaggo

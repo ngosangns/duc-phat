@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Petavatthupāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Petavatthupāḷi
-
 == 1. Uragavaggo
 + Khettūpamapetavatthu
 

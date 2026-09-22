@@ -1,8 +1,3 @@
-= Mūla Vinaya Piṭaka Cūḷavaggapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Vinayapiṭake Cūḷavaggapāḷi
-
 + Kammakkhandhakaṃ
 
 + Tajjanīyakammaṃ

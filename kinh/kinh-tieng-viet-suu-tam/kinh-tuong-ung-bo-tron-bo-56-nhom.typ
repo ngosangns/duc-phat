@@ -1,280 +1,10 @@
 #set page(numbering: "1")
 #set par(justify: true)
-= Kinh Tương Ưng Bộ (Saṃyutta Nikāya) --- Trọn bộ (56 tương ưng)
-KINH TƯƠNG ƯNG BỘ Ðại Tạng Kinh Việt Nam Samyutta Nikàya
-
-Việt Dịch Thích Minh Châu - Phật Lịch 2537 - 1993
-
-#divider()
-
-http://www.thuvienhoasen.org
-
-#outline(title: [Mục lục])
-
-#strong[Mục lục rút gọn:]
-
-- #strong[TẬP I - THIÊN CÓ KỆ]
-- \[01\] Chương I - Tương Ưng Chư Thiên
-  - I. Phẩm Cây Lau
-  - II. Phẩm Vườn Hoan Hỷ
-  - III. Phẩm Kiếm (S.I,13)
-  - IV. Phẩm Quần Tiên
-  - V. Phẩm Thiêu Cháy
-  - VI. Phẩm Già
-  - VII. Phẩm Thắng
-  - VIII. Phẩm Ðoạn
-- \[02\] Chương II - Tương Ưng Thiên Tử
-  - I. Phẩm Thứ Nhất
-  - II Phẩm Cấp Cô Ðộc (S.i,51)
-  - III. Phẩm Các Ngoại Ðạo (S.i,56)
-- \[03\] Chương III - Tương Ưng Kosala
-  - II. Phẩm Thứ Hai
-  - III Phẩm Thứ Ba
-- \[04\] Chương IV - Tương Ưng Ác Ma
-  - III. Phẩm Thứ Ba (Thêm năm kinh)
-- \[05\] Chương V - Tương Ưng Tỷ Kheo Ni
-  - I. Alavikhà (S.i.128)
-  - II. Somà (S.i.129)
-  - III. Gotamì (S.i.129)
-  - IV. Vijayà
-  - V. Uppalavannà (S.i.131)
-  - VI. Càlà (S.i.132)
-  - VII. Upacàlà
-  - VIII. Sisupacàlà
-  - IX. Selà (S.i.134)
-  - X. Vajirà
-- \[06\] Chương VI - Tương Ưng Phạm Thiên
-- \[07\] Chương VII - Tương Ưng Bà La Môn
-  - I. Phẩm A-La-Hán Thứ Nhất
-  - III. Phẩm Cư Sĩ
-- \[08\] Chương VIII - Tương Ưng Trưởng Lão Vangìsa
-- \[09\] Chương IX -Tương Ưng Rừng
-- \[10\] Chương X -Tương Ưng Dạ Xoa
-- \[11\] Chương XI - Tương Ưng Sakka
-  - I.Phẩm Thứ Nhất
-  - III. Phẩm Thứ Ba (hay Sakka Năm Kinh).
-- #strong[TẬP II - THIÊN NHÂN DUYÊN]
-- \[12\] Chương I - Tương Ưng Nhân Duyên I. Phẩm Phật Ðà.
-  - II. Phẩm Ðồ Ăn
-  - III. Phẩm Mười Lực
-  - IV. Phẩm Kalara - Vị Sát Ðế Lị
-  - V. Phẩm Gia Chủ - Thứ Năm
-  - VI. Phẩm Cây
-  - VII. Ðại Phẩm Thứ Bảy
-  - VIII. Sa Môn, Bà La Môn: Phẩm Thứ Tám
-  - IX. Trung Lược Phẩm
-- \[13\] Chương II - Tương Ưng Minh Kiến
-- \[14\] Chương III - Tương Ưng Giới
-  - I. Phẩm Sai Biệt
-  - III. Phẩm Nghiệp ÐạoThứ Ba
-  - IV. Phẩm Thứ Tư
-- \[15\] Chương IV - Tương Ưng Vô Thỉ (Anamatagga)
-- \[16\] Chương V - Tương Ưng Kassapa (Ca-diếp)
-- \[17\] Chương VI - Tương Ưng Lợi Ðắc Cung Kính
-  - III. Phẩm Thứ Ba
-- \[18\] Chương VII - Tương Ưng Ràhula
-- \[19\] Chương VIII - Tương Ưng Lakkhana
-- \[20\] Chương XI - Tương Ưng Thí Dụ
-- \[21\] Chương X - Tương Ưng Tỷ Kheo
-  - A. Năm Mươi Kinh Căn Bản
-  - I. Phẩm Nakulapità
-  - II. Phẩm Vô Thường
-  - III. Phẩm Gánh Nặng
-  - IV. Phẩm Không Phải Của Các Ông V. Phẩm Tự Mình Làm Hòn Ðảo.
-  - B. Năm Mươi Kinh Ở Giữa
-  - I. Phẩm Tham Luyến
-  - II. Phẩm A-La-Hán
-  - III. Phẩm Những Gì Ðược Ăn
-  - IV. Phẩm Trưởng Lão
-  - V. Phẩm Hoa
-  - C. Năm Mươi Kinh Sau
-  - I. Phẩm Biên
-  - II. Phẩm Thuyết Pháp
-  - III. Phẩm Vô Minh
-  - IV. Phẩm Than Ðỏ
-  - V. Phẩm Kiến
-- \[23\] Chương II - Tương Ưng Ràdha
-  - III. Phẩm Sơ Vấn
-  - IV. Phẩm Thân Cận
-- \[24\] Chương III - Tương Ưng Kiến
-  - I. Phẩm Dự Lưu
-  - II. Phẩm Trùng Thuyết (1)
-  - III. Phẩm Trùng Thuyết (2)
-  - IV. Phẩm Trùng Thuyết (3)
-  - V. Phẩm Trùng Thuyết (4)
-- \[25\] Chương IV - Tương Ưng Nhập
-- \[26\] Chương V - Tương Ưng Sanh
-- \[27\] Chương VI - Tương Ưng Phiền Não
-- \[28\] Chương VII - Tương Ưng Sàriputta
-- \[29\] Chương VIII - Tương Ưng Loài Rồng
-- \[30\] Chương IX - Tương Ưng Kim Xí Ðiểu
-- \[31\] Chương X - Tương Ưng Càn Thát Bà
-- \[32\] Chương XI - Tương Ưng Thần Mây
-- \[33\] Chương XII - Tương Ưng Vacchagota
-- \[34\] Chương XIII - Tương Ưng Thiền
-- #strong[TẬP IV - THIÊN SÁU XỨ]
-- \[35\] Chương I Tương Ưng Sáu Xứ
-- Phần Một - Năm Mươi Kinh Thứ Nhất
-- Phần Hai - Năm Mươi Kinh Thứ Hai
-- Phần Ba - Năm Mươi Kinh Thứ Ba
-- Phần Bốn - Năm Mươi Kinh Thứ Tư
-- \[36\] Chương II - Tương Ưng Thọ
-- \[37\] Chương III - Tương Ưng Nữ Nhân
-- Phần Một - Phẩm Trung Lược
-- Phần Hai - Phẩm Trung Lược
-- Phần Ba - Phẩm Các Sức Mạnh
-- \[38\] Chương IV - Tương Ưng Jambukhàdaka
-- \[40\] Chương VI - Tương Ưng Moggalàna
-- \[41\] Chương VII - Tương Ưng Tâm
-- \[42\] Chương VIII - Tương Ưng Thôn Trưởng
-- \[43\] Chương IX - Tương Ưng Vô Vi
-- Phần Một - Phẩm Một
-- Phần Hai - Phẩm Hai
-- \[44\] Chương X - Tương Ưng Không Thuyết
-- #strong[TẬP V - THIÊN ĐẠI PHẨM]
-- \[45\] Chương I - Tương Ưng Ðạo
-  - I. Phẩm Vô Minh
-  - II. Phẩm Trú
-  - III. Phẩm Tà Tánh
-  - IV. Phẩm Về Hạnh (Patipattivagga)
-  - V. Phẩm Không Phóng Dật
-  - VI. Phẩm Việc Làm Cần Sức Mạnh
-  - VII. Phẩm Tầm Cầu (Esanavaggo)
-  - VIII. Phẩm Bộc Lưu
-- \[46\] Chương II - Tương Ưng Giác Chi
-  - I. Phẩm Núi
-  - II. Phẩm Về Bệnh
-  - III. Phẩm Udàyi
-  - IV. Phẩm Triền Cái
-  - V. Phẩm Chuyển Luân
-  - VI. Phẩm Tổng Nhiếp Giác Chi
-  - VII. Phẩm Hơi Thở Vô Gơi Thở Ra
-  - VIII. Phẩm Ðoạn Diệt (S.v,132)
-  - IX. Phẩm Sông Hằng Quảng Thuyết
-  - X. Phẩm Không Phóng Dật
-  - XI. Phẩm Cần Dùng Sức Mạnh
-  - XII. Phẩm Tầm Cầu
-  - XIII. Phẩm Bộc Lưu
-  - XIV. Phẩm Sông Hằng Quảng Thuyết
-  - XV. Phẩm Không Phóng Dật (Nhiếp phục tham)
-  - XVI. Phẩm Cần Dùng Sức Mạnh(Nhiếp phục tham)
-  - XVII. Phẩm Tầm Cầu (Nhiếp phục tham)
-  - XVIII.Phẩm Bộc Lưu
-  - XV. Phẩm Không Phóng Dật (Nhiếp phục tham)
-  - XVI. Phẩm Cần Dùng Sức Mạnh (Nhiếp phục tham)
-  - XVII. Phẩm Tầm Cầu (Nhiếp phục tham)
-  - XVIII. Phẩm Bộc Lưu
-- \[47\] Chương III - Tương Ưng Niệm Xứ
-  - I. Phẩm Ambapàli
-  - II. Phẩm Nàlanda
-  - III. Phẩm Giới Trú
-  - IV. Phẩm Chưa Từng Ðược Nghe
-  - V. Phẩm Bất Tử
-  - VI. Phẩm Sông Hằng Rộng Thuyết
-  - VII. Phẩm Không Phóng Dật
-  - VIII. Phẩm Việc Làm Cần Sức Mạnh
-  - IX. Phẩm Tầm Cầu
-  - X. Phẩm Bộc Lưu
-- \[48\] Chương IV - Tương Ưng Căn
-  - I. Phẩm Thanh Tịnh
-  - II. Phẩm Có Phần Yếu Hơn (Mudutaravaggo)
-  - III. Phẩm Sáu Căn
-  - IV. Phẩm Lạc Căn
-  - V. Phẩm Về Già
-  - VI. Phẩm Thứ Sáu
-  - VII. Phẩm Giác Phần
-  - VIII. Phẩm Sông Hằng Rộng Thuyết
-  - IX. Phẩm Không Phóng Dật
-  - X. Phẩm Làm Việc Cần Sứ Mạnh
-  - XI. Phẩm Tầm Cầu
-  - XII. Phẩm Bộc Lưu
-  - XIII. Phẩm Sông Hằng Rộng Thuyết
-  - XIV. Phẩm Không Phóng Dật
-  - XV. Phẩm Việc Làm Cần Sức Mạnh
-  - XVI. Phẩm Tầm Cầu
-  - XVII. Phẩm Bộc Lưu
-- \[49\] Chương V - Tương Ưng Chánh Cần
-  - I. Phẩm Sông Hằng Rộng Thuyết
-  - II. Phẩm Không Phóng Dật
-  - III. Phẩm Việc Làm Cần Sức Mạnh
-  - IV. Phẩm Tầm Cầu
-  - V. Phẩm Bộc Lưu
-- \[50\] Chương VI - Tương Ưng Lực
-  - III. Phẩm Sức Mạnh (Viễn Ly)
-  - VII. Phẩm Không Phóng Dật
-  - VIII. Phẩm Lực
-  - IX. Phẩm Tầm Cầu
-- \[51\] Chương VII - Tương Ưng Như Ý Túc
-  - I. Phẩm Càpàla
-  - II. Phẩm Lầu Rung Chuyển
-  - IV. Phẩm Sông Hằng Rộng Thuyết
-  - VI. Phẩm Việc Làm Cần Sức Mạnh
-  - VII. Phẩm Tầm Cầu
-- \[52\] Chương VII - Tương Ưng Anuruddha
-  - I. Phẩm Ðộc Cư
-- \[53\] Chương IX - Tương Ưng Thiền
-  - III. Phẩm Làm Việc Cần Sức Mạnh
-- \[54\] Chương X - Tương Ưng Hơi Thở Vô, Hơi Thở Ra
-  - I. Phẩm Một Pháp
-- \[55\] Chương XI - Tương Ưng Dự Lưu
-  - I. Phẩm Veludvàra
-  - II. Phẩm Một Ngàn, hay Vườn Vua
-  - III. Phẩm Saranàni
-  - IV. Phẩm Phước Ðức Sung Mãn
-  - V. Phẩm Phước Ðức Sung Mãn Với Kệ
-  - VI. Phẩm Với Trí Tuệ
-  - VII. Phẩm Ðại Trí Tuệ
-- \[56\] Chương XII -Tương Ưng Sự Thật
-  - I. Phẩm Ðịnh
-  - II. Phẩm Chuyển Pháp Luân
-  - III. Phẩm Kotigàma
-  - IV. Phẩm Rừng Simsapà
-  - V. Phẩm Vực Thẳm
-  - VI. Phẩm Chứng Ðạt
-  - VII. Phẩm Bánh Xe Lược Thuyết
-  - VIII. Phẩm Ít Người Từ Bỏ
-  - IX. Phẩm Lúa Gạo Sống Rộng Thuyết
-  - X. Phẩm Chúng Sanh Nhiều Hơn
-  - XI. Phẩm Năm Sanh Thú
-
-#divider()
-
-Giới thiệu Tương Ưng Bộ (Samyutta Nikàya) là bộ kinh thứ ba trong kinh
-tạng Pàli (Trường bộ, Trung bộ, Tương Ưng bộ, Tăng Chi bộ, và Tiểu bộ).
-Bộ kinh là một tập hợp các bài kinh dài ngắn không đều, nhưng đa số là
-các bài kinh ngắn, được sắp xếp và kết nhóm theo từng loại chủ đề, gọi
-là Tương Ưng (Samyutta). Có tất cả là 56 Tương Ưng được bố trí vào 5
-tập, gọi là 5 Thiên (Vagga):
-
-- Thiên Có Kệ (Sagàthàvagga Samyuttapàli): 11 Tương Ưng
-
-- Thiên Nhân Duyên (Nidànavagga Samyuttapàli): 10 Tương Ưng
-
-- Thiên Uẩn (Khandavagga
-Samyuttapàli): 13 Tương Ưng
-
-#pad(left: 1.5em)[
-#set text(size: 0.92em)
-Thiên Sáu Xứ (Salàyatanavagga Samyuttapàli) : 10 Tương Ưng
-
-Thiên Ðại Phẩm (Mahàvagga Samyuttapàli): 12 Tương Ưng Bộ kinh đã được
-  Hòa thượng Thích Minh Châu dịch sang Việt ngữ và Thiền viện Vạn Hạnh
-  phát hành trong đầu thập niên 1980. Sau đó, trong chương trình phiên
-  dịch và ấn hành Ðại tạng kinh Việt Nam, bộ kinh được tái bản năm 1993
-  và có số thứ tự từ 12 đến 16. Trong hệ A-hàm của Hán tạng, bộ kinh
-  tương ứng là Tạp A-hàm, đã được Hòa thượng Thích Thiện Siêu và Hòa
-  thượng Thích Thanh Từ dịch và ấn
-]
-
-hành năm 1993-1995, Ðại tạng kinh Việt Nam số 17 đến 20.
-
-Bình Anson Tháng 11-2000
-
-#divider()
 
 == TẬP I - THIÊN CÓ KỆ
 == \[01\] Chương I - Tương Ưng Chư Thiên
-=== I. Phẩm Cây Lau I: Bộc Lưu (S.I,1) Như vầy tôi nghe.
+=== I. Phẩm Cây Lau I: Bộc Lưu (S.I,1)
+Như vầy tôi nghe.
 Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông
 Anàthapindika (Cấp Cô Ðộc). Rồi một vị Thiên, khi đêm đã gần tàn, với
 nhan sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn, sau khi
@@ -297,7 +27,8 @@ Vị Thiên ấy nói như vậy và bậc Ðạo Sư chấp nhận. Vị Thiên
 "Thế Tôn đã chấp nhận ta". Vị ấy đảnh lễ Thế Tôn, thân phía hữu hướng về
 Ngài, rồi biến mất tại chỗ.
 
-=== II. Giải Thoát (Si.2) … Ở Sàvatthi. Rồi một vị Thiên, khi đêm đã gần tàn, với nhan sắc thù thắng chói sáng toàn vùng Jetavana, đi đến
+=== II. Giải Thoát (Si.2)
+… Ở Sàvatthi. Rồi một vị Thiên, khi đêm đã gần tàn, với nhan sắc thù thắng chói sáng toàn vùng Jetavana, đi đến
 Thế Tôn. Sau khi đến, vị ấy đảnh lễ Thế Tôn rồi đứng một bên. Ðứng một
 bên, vị Thiên ấy bạch Thế Tôn:
 
@@ -314,7 +45,8 @@ Hỷ, tái sanh đoạn tận, Tưởng, thức được trừ diệt, Các th�
 tịnh, Như vậy này Hiền giả, Ta biết sự giải thoát, Thoát ly và viễn ly,
 Cho các loại chúng sanh.
 
-=== III. Ðưa Ðến Ðoạn Tận - (Tạp 36.9. Ðại 2,262b. Biệt Tạp 8.7, Ðại 2,427b). (S.i,2) … Ðứng một bên, vị Thiên ấy nói lên
+=== III. Ðưa Ðến Ðoạn Tận - (Tạp 36.9. Ðại 2,262b. Biệt Tạp 8.7, Ðại 2,427b). (S.i,2)
+… Ðứng một bên, vị Thiên ấy nói lên
 bài kệ này trước mặt Thế Tôn: Mạng sống bị dắt dẫn, Tuổi thọ chẳng là
 bao, Bị dẫn đến già nua, Không có nơi dừng bước.
 
@@ -336,7 +68,8 @@ buổi thanh xuân, Tiếp tục bỏ chúng ta. Những ai chịu quán sát,
 
 Sợ hãi tử vong này, Hãy bỏ mọi thế lợi, Tâm hướng cầu tịch tịnh.
 
-=== V. Bao Nhiêu Phải Cắt Ðoạn. (S.i,5) … Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn:
+=== V. Bao Nhiêu Phải Cắt Ðoạn. (S.i,5)
+… Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn:
 Phải cắt đoạn bao nhiêu, Phải từ bỏ bao nhiêu, Tu tập thêm bao nhiêu,
 Vượt qua bao trói buộc, Ðể được có danh xưng, Tỷ-kheo vượt bộc lưu?
 
@@ -345,7 +78,8 @@ Vượt qua bao trói buộc, Ðể được có danh xưng, Tỷ-kheo vượt b
 Tu tập thêm năm pháp (lực), Vượt qua năm trói buộc, Ðể được có danh
 xưng, Tỷ-kheo "vượt bộc lưu".
 
-=== VI. Tỉnh Giác (S.i,5) … Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Có bao pháp mê ngủ,
+=== VI. Tỉnh Giác (S.i,5)
+… Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Có bao pháp mê ngủ,
 Khi pháp khác tỉnh giác? Có bao pháp tỉnh giác, Khi pháp khác mê ngủ? Có
 bao nhiêu việc làm Ðưa ta đến trần cấu? Có bao nhiêu việc làm Khiến ta
 được thanh tịnh?
@@ -354,7 +88,8 @@ bao nhiêu việc làm Ðưa ta đến trần cấu? Có bao nhiêu việc làm 
 tỉnh giác, Khi pháp khác mê ngủ. Chính có năm việc làm Ðưa ta đến trần
 cấu, Chính có năm việc làm Khiến ta được thanh tịnh.
 
-=== VII. Không Liễu Tri (S.i,4) … Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Những ai với các pháp,
+=== VII. Không Liễu Tri (S.i,4)
+… Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn: Những ai với các pháp,
 Không liễu tri thấu suốt, Bị hướng dẫn lầm lạc, Vòng quanh các dị giáo.
 
 Họ mê ngủ triền miên, Họ không có tỉnh giác, Nay thật đã đến thời, Họ
@@ -376,7 +111,8 @@ viên mãn,
 
 Trên đường không thăng bằng, Họ bước thật thăng bằng.
 
-=== IX. Mong Muốn Kiêu Mạn (Tạp 36.4, Ðại 2,261a. Biệt Tạp 8.2, Ðại 2,426a) (S.i,4) … Ðứng một bên, vị Thiên ấy nói lên
+=== IX. Mong Muốn Kiêu Mạn (Tạp 36.4, Ðại 2,261a. Biệt Tạp 8.2, Ðại 2,426a) (S.i,4)
+… Ðứng một bên, vị Thiên ấy nói lên
 bài kệ này trước mặt Thế Tôn: Ðối vị ưa kiêu mạn, Ở đây không điều phục,
 Không trí tuệ sáng suốt, Không định tĩnh nhiếp tâm, Ðộc thân trú rừng
 núi, Sống với tâm phóng dật, Vị ấy không vượt khỏi, Sự chi phối ma lực.
@@ -385,7 +121,8 @@ núi, Sống với tâm phóng dật, Vị ấy không vượt khỏi, Sự chi 
 sát, Giải thoát mọi phiền trược, Ðộc thân trú rừng núi (giới), Với tâm
 không phóng dật, Vị ấy vượt thoát khỏi, Sự chi phối ma lực.
 
-=== X. Rừng Núi (Tạp 36.3, Ðại 2,260c. Biệt Tạp 8.1, Ðại 2,426a) (S.i,5) … Ðứng một bên, vị Thiên ấy nói lên
+=== X. Rừng Núi (Tạp 36.3, Ðại 2,260c. Biệt Tạp 8.1, Ðại 2,426a) (S.i,5)
+… Ðứng một bên, vị Thiên ấy nói lên
 bài kệ này trước mặt Thế Tôn: Thường sống trong rừng núi, Bậc Thánh sống
 Phạm hạnh,
 
@@ -458,7 +195,8 @@ nhác, ngáp dài, Không vui, ăn quá độ, Ở đây, đối chúng sanh, Th
 không hiển lộ. Ngủ gục, nhác, ngáp dài, Không vui, ăn quá độ, Với tinh
 tấn, đoạn chúng, Thánh đạo được thanh tịnh.
 
-=== VII. Khó Làm (hay Con rùa) (Tạp 22.25, Ðại 2,169b) (S.i,7) (Biệt Tạp 9,14, Ðại 2,437b) Khó làm, khó kham nhẫn,
+=== VII. Khó Làm (hay Con rùa) (Tạp 22.25, Ðại 2,169b) (S.i,7) (Biệt Tạp 9,14, Ðại 2,437b)
+Khó làm, khó kham nhẫn,
 Thiếu trí, hành Sa-môn, Chỗ kẻ ngu thối đọa, Chỗ ấy đầy chướng ngại.
 
 Bao ngày hành Sa-môn Nếu tâm không chế ngự, Mỗi bước, phải sa đọa, Nô lệ
@@ -646,8 +384,10 @@ biết người ấy Hãy nói lên, Dạ-xoa.
   ái dục, Chánh niệm, tâm tỉnh giác, Không khổ hạnh ép xác, Vô bổ, không
   lợi ích.
 
-=== III. Phẩm Kiếm (S.I,13) … (Nhân duyên ở Sàvatthi). Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn:
-=== I. Kiếm: Như kiếm đã chạm da, Như lửa cháy trên đầu, Tỷ-kheo hãy chánh niệm, Xuất gia bỏ ái dục.
+=== III. Phẩm Kiếm (S.I,13)
+… (Nhân duyên ở Sàvatthi). Ðứng một bên, vị Thiên ấy nói lên bài kệ này trước mặt Thế Tôn:
+=== I. Kiếm:
+Như kiếm đã chạm da, Như lửa cháy trên đầu, Tỷ-kheo hãy chánh niệm, Xuất gia bỏ ái dục.
 \(Thế Tôn): Như kiếm đã chạm da, Như lửa cháy trên đầu, Tỷ-kheo hãy
 chánh niệm, Xuất gia bỏ thân kiến.
 
@@ -675,7 +415,8 @@ Chỗ nào ý chế ngự, Chỗ ấy đau khổ tận.
 \(Thế Tôn): Không nên chế ngự ý, Hoàn toàn về mọi mặt, Chớ có chế ngự ý,
 Nếu tự chủ đạt được. Chỗ nào ác pháp khởi, Chỗ ấy chế ngự ý.
 
-=== V. Vị A-La-Hán (Tạp 22.6 - 7, La-hán, Ðại 2,154b (S.i,14) ( Biệt Tạp 9.6, Ðại 2,435c) Vị Tỷ-kheo La-hán,
+=== V. Vị A-La-Hán (Tạp 22.6 - 7, La-hán, Ðại 2,154b (S.i,14) ( Biệt Tạp 9.6, Ðại 2,435c)
+Vị Tỷ-kheo La-hán,
 Ðã làm điều phải làm, Các lậu được đoạn tận, Thân này, thân tối hậu.
 
 Vị ấy có thể nói: "Chính tôi vừa nói lên" Vị ấy có thể nói: "Họ nói là
@@ -698,7 +439,8 @@ Vượt khỏi mọi hư tưởng, Vị ấy có thể nói: "Chính tôi vừa 
 có thể nói: "Họ nói là của tôi". Vị ấy khéo biết rõ, Danh xưng ở thế
 gian, Vì chỉ là danh xưng, Vị ấy cũng danh xưng.
 
-=== VI. Ánh Sáng (Tạp, Ðại 2,360b) (S.i,15) (Biệt Tạp 15.12, Ðại 2,478c) Vật gì chiếu sáng đời, Do chúng, đời chói sáng?
+=== VI. Ánh Sáng (Tạp, Ðại 2,360b) (S.i,15) (Biệt Tạp 15.12, Ðại 2,478c)
+Vật gì chiếu sáng đời, Do chúng, đời chói sáng?
 Con đến hỏi Thế Tôn, Muốn biết lời giải đáp.
 
 \(Thế Tôn):
@@ -729,7 +471,8 @@ thưa bậc Ðại Hùng, Sanh thú người như vậy, Tương lai sẽ thế 
 \(Thế Tôn): Cắt hỷ và buộc ràng, Dục tham và tà ác, Ái căn được đoạn
 tận, Sanh thú sẽ như vậy.
 
-=== X. Con Sơn Dương (S.i,16) Chân như chân sơn dương, Vừa thon lại vừa mạnh, Ăn uống có chừng mực, Không tham lam, say đắm,
+=== X. Con Sơn Dương (S.i,16)
+Chân như chân sơn dương, Vừa thon lại vừa mạnh, Ăn uống có chừng mực, Không tham lam, say đắm,
 Như sư tử, voi rừng, Ðộc hành, không dục vọng. Sau khi đến, con hỏi, Làm
 sao thoát khổ đau?
 
@@ -1163,7 +906,8 @@ tâm tỉnh giác, Không khổ hạnh ép xác, Vô bổ, không lợi ích.
 
 #divider()
 
-=== V. Phẩm Thiêu Cháy Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông
+=== V. Phẩm Thiêu Cháy
+Như vầy tôi nghe. Một thời Thế Tôn ở Sàvatthi (Xá-vệ), Jetavana (Thắng Lâm), tại vườn ông
 Anàthapindika (Cấp Cô Ðộc). Rồi một vị Thiên, sau khi đêm đã gần mãn,
 với dung sắc thù thắng chói sáng toàn vùng Jetavana, đi đến Thế Tôn; sau
 khi đến, đảnh lễ Thế Tôn rồi đứng một bên. Ðứng một bên, vị Thiên ấy nói
@@ -1179,7 +923,8 @@ và bố thí, Thí xong, thọ dụng xong, Theo lực hành động ấy,
 
 Không bị ai chỉ trích, Vị ấy được sanh Thiên.
 
-=== II. Cho Gì? (Tạp 36.6 Vân hà đại đắc, Ðại 2,261b) (Biệt Tạp 8.4, Ðại 2,526b) (S.i,32) Cho gì là cho lực?
+=== II. Cho Gì? (Tạp 36.6 Vân hà đại đắc, Ðại 2,261b) (Biệt Tạp 8.4, Ðại 2,526b) (S.i,32)
+Cho gì là cho lực?
 Cho gì là cho sắc? Cho gì là cho lạc? Cho gì là cho mắt? Cho gì cho tất
 cả? Xin đáp điều con hỏi?
 
@@ -1198,12 +943,15 @@ không thích ăn uống?
 
 Bố thí, nhiếp cấu uế, Hữu tình vững an trú, Công đức trong đời sau.
 
-=== IV. Một Căn Rễ (S.i,32) Một rễ, hai phương diện, Ba uế, năm môi trường, Biển lớn, mười hai họa, Vực xoáy bậc Thánh siêu.
-=== V. Bậc Hoàn Toàn (S.i,33) Bậc viên mãn toàn diện, Thấy được nghĩa bí huyền, Ban phát chân trí tuệ, Thoát ly khỏi dục tạng,
+=== IV. Một Căn Rễ (S.i,32)
+Một rễ, hai phương diện, Ba uế, năm môi trường, Biển lớn, mười hai họa, Vực xoáy bậc Thánh siêu.
+=== V. Bậc Hoàn Toàn (S.i,33)
+Bậc viên mãn toàn diện, Thấy được nghĩa bí huyền, Ban phát chân trí tuệ, Thoát ly khỏi dục tạng,
 Thấy được bậc toàn trí, Bậc Thiện tuệ trí giác. Vị Ðại Thánh dấn bước,
 Trên con đường Thánh đạo.
 
-=== VI. Thiên Nữ (S.i,33) Thiên nữ đoàn tụ hội, Ngạ quỷ chúng tới lui, Rừng ấy danh rừng si, Làm sao có lối thoát?
+=== VI. Thiên Nữ (S.i,33)
+Thiên nữ đoàn tụ hội, Ngạ quỷ chúng tới lui, Rừng ấy danh rừng si, Làm sao có lối thoát?
 \(Thế Tôn): Ðường ấy tên chơn trực, Phương ấy danh vô úy, Cỗ xe gọi vô
 thanh, Với pháp luân khéo ráp, Tàm là dàn xe dựa, Niệm là trướng màn xe,
 Ta nói vị đánh xe, Tức là chơn diệu pháp, Và chính chánh tri kiến, Mau
@@ -1211,7 +959,8 @@ chóng đi tiền phong. Không kể nam hay nữ,
 
 Ðều dùng cỗ xe ấy. Chính nhờ cỗ xe ấy, Hướng tiến đến Niết-bàn.
 
-=== VII. Trồng Rừng (S.i,33) Những ai ngày lẫn đêm, Công đức luôn tăng trưởng, Trú pháp, cụ túc giới, Kẻ nào sanh thiên giới?
+=== VII. Trồng Rừng (S.i,33)
+Những ai ngày lẫn đêm, Công đức luôn tăng trưởng, Trú pháp, cụ túc giới, Kẻ nào sanh thiên giới?
 Ai trồng vườn, trồng rừng, Ai dựng xây cầu cống, Ðào giếng, cho nước
 uống, Những ai cho nhà cửa, Những vị ấy ngày đêm, Công đức luôn tăng
 trưởng, Trú pháp, cụ túc giới, Những vị ấy sanh Thiên.
@@ -1225,7 +974,8 @@ mình, Chánh giác sát tâm pháp, Như vậy được thanh tịnh. Như ngà
 Xá-lợi-phất, Tuệ giới và tịch tịnh, Tỷ-kheo đến bờ giác, Ở đây là tối
 thượng.
 
-=== IX. Xan Tham (S.i,34) Ở đời kẻ xan tham, Keo kiết hay khước từ, Tạo nên những chướng ngại, Ngăn kẻ khác bố thí,
+=== IX. Xan Tham (S.i,34)
+Ở đời kẻ xan tham, Keo kiết hay khước từ, Tạo nên những chướng ngại, Ngăn kẻ khác bố thí,
 Ðời này và đời sau, Quả báo họ là gì? Chúng con đến tại đây, Chính muốn
 hỏi Thế Tôn, Chúng con muốn được biết, Thế Tôn đáp thế nào?
 
@@ -1253,7 +1003,8 @@ Họ được không khó khăn, Như các Tự tại thiên, Hân hoan được
 Giữa vật dụng tài sản, Ðược người khác quy tụ, Quả hiện tại là vậy, Ðời
 sau sanh Thiên giới.
 
-=== X. Thợ Ðồ Gốm (S.i,35) (Tạp 22.10 Vô phiền thiên, Ðại 2,159b) (Biệt Tạp, 9.29, Ðại 2,442b) Ðược sanh Vô phiền thiên,
+=== X. Thợ Ðồ Gốm (S.i,35) (Tạp 22.10 Vô phiền thiên, Ðại 2,159b) (Biệt Tạp, 9.29, Ðại 2,442b)
+Ðược sanh Vô phiền thiên,
 Bảy Tỷ-kheo giải thoát, Ðoạn tận tham và sân, Vượt qua đời triền phược.
 Vượt bùn, họ là ai, Khéo vượt lệnh thần chết, Sau khi bỏ thân người,
 
@@ -1446,8 +1197,10 @@ trước sáu, Trên sáu, đời khổ não.
 
 #divider()
 
-=== VIII. Phẩm Ðoạn (S.i,41) … Ðứng một bên, vị Thiên nhân ấy nói lên bài kệ với Thế Tôn:
-=== I. Ðoạn Sát (S.i,41) Sát vật gì được lạc? Sát vật gì không sầu? Có một pháp loại gì,
+=== VIII. Phẩm Ðoạn (S.i,41)
+… Ðứng một bên, vị Thiên nhân ấy nói lên bài kệ với Thế Tôn:
+=== I. Ðoạn Sát (S.i,41)
+Sát vật gì được lạc? Sát vật gì không sầu? Có một pháp loại gì,
 Ngài tán đồng sát hại, Tôn giả Gotama? (Thế Tôn): Sát phẫn nộ được lạc,
 Sát phẫn nộ không sầu, Phẫn nộ với độc căn, Với vị ngọt tối thượng, Pháp
 ấy, bậc Thánh Hiền, Tán đồng sự sát hại. Sát pháp ấy không sầu, Này
@@ -1732,7 +1485,8 @@ Thoát ly thật viên mãn, Còn con bị trói buộc, Hãy cho con quy ngư�
 
 Với lời kệ đức Phật, Nếu không thả Canda.
 
-=== X. Suriya: (S.i,51) Nhật Thiên tử
+=== X. Suriya: (S.i,51)
+Nhật Thiên tử
 #super[1] Lúc bấy giờ, Thiên tử Suriya bị Ràhu, vua A-tu-la bắt. Rồi Thiên tử
   Suriya tưởng niệm đến Thế Tôn, trong lúc ấy nói lên bài kệ này: 2)
   Ðảnh lễ đấng Giác Ngộ, Bậc Anh Hùng muôn thuở, Ngài là bậc Giải Thoát,
@@ -1757,7 +1511,8 @@ Nếu không thả Suriya.
 #divider()
 
 === II Phẩm Cấp Cô Ðộc (S.i,51)
-=== I. Candimasa Tại Sàvatthi.
+=== I. Candimasa
+Tại Sàvatthi.
 #super[1] Rồi Thiên tử Candimasa, sau khi đêm đã gần mãn,với dung sắc thù thắng
   chói sáng toàn vùng Jetavana, đi đến Thế Tôn, sau khi đến, đảnh lễ Thế
   Tôn rồi đứng một bên. Ðứng một bên, Thiên tử Candimasa nói lên bài kệ
@@ -1956,7 +1711,8 @@ pháp người hiền Chúng sanh thường hưởng lạc.
   Hãy gần gũi người thiện, Biết diệu pháp người hiền, Giải thoát mọi khổ
   đau.
 
-=== II. Khema (S.i,57) Ðứng một bên, Thiên tử Khema nói lên bài kệ này trước mặt Thế Tôn:
+=== II. Khema (S.i,57)
+Ðứng một bên, Thiên tử Khema nói lên bài kệ này trước mặt Thế Tôn:
 Kẻ ngu không trí tuệ, Lấy ngã làm kẻ thù, Tự làm các ác nghiệp, Ðưa đến
 quả đắng cay. Nghiệp nào không khéo làm, Làm xong bị nung nấu, Với mặt
 đầy nước mắt, Khóc lóc chịu quả báo. Và nghiệp nào khéo làm, Làm xong,
@@ -13879,13 +13635,15 @@ Sàvatthi. Họ không biết sanh… Họ không biết hữu… Họ không bi
 không biết ái… Họ không biết thọ… Họ không biết xúc… Họ không biết sáu
 xứ… Họ không biết danh sắc… Họ không biết thức…
 
-=== XI. (S.ii,130) Họ không biết hành… Họ không biết hành tập khởi, họ không biết hành đoạn diệt, họ không biết con đường đưa đến
+=== XI. (S.ii,130)
+Họ không biết hành… Họ không biết hành tập khởi, họ không biết hành đoạn diệt, họ không biết con đường đưa đến
 hành đoạn diệt…. \.. tự mình với thắng trí đạt được, chứng được và an
 trú ngay trong hiện tại mục đích Sa-môn hạnh và mục đích Bà-la-môn hạnh.
 
 #divider()
 
-=== IX. Trung Lược Phẩm …Trú ở Sàvatthi.
+=== IX. Trung Lược Phẩm
+…Trú ở Sàvatthi.
 === I. Ðạo Sư… (S.ii,130)
 #super[1] -- Này các Tỷ-kheo, đối với ai không như thật biết và thấy già chết,
   người ấy cần phải tìm đến bậc Ðạo Sư để có như thật trí đối với già
@@ -13931,19 +13689,27 @@ không như thật biết và thấy con đường đưa đến già chết đo�
 … Này các Tỷ-kheo, đối với ai không như thật biết và thấy già chết,
 người ấy cần phải học tập để có như thật trí đối với già chết…(I.11)
 
-=== III. Tu Tập (Yoga) (Tạp 15.5, Tam- ma-đề, Ðại 2,101b) (S.ii,131) … Này các Tỷ-kheo, đối với ai không như thật biết và thấy già chết, người ấy
+=== III. Tu Tập (Yoga) (Tạp 15.5, Tam- ma-đề, Ðại 2,101b) (S.ii,131)
+… Này các Tỷ-kheo, đối với ai không như thật biết và thấy già chết, người ấy
 cần phải tu tập để có như thật trí đối với già chết…(I.11)
 
-=== IV. Dục (S.ii,132) … Dục cần phải thực hành…(I.11)
-=== V. Nỗ Lực (S.ii,132) … Nỗ lực cần phải thực hành…(I.11)
+=== IV. Dục (S.ii,132)
+… Dục cần phải thực hành…(I.11)
+=== V. Nỗ Lực (S.ii,132)
+… Nỗ lực cần phải thực hành…(I.11)
 === VI. Bất Thối Chuyển (S.ii,132)
 … Bất thối chuyển cần phải thực hành…(I.11)
 
-=== VII. Nhiệt Tâm (S.ii,132) … Nhiệt tâm cần phải thực hành…(I.11)
-=== VIII. Tinh Tấn (S.ii,132) … Tinh tấn cần phải thực hành…(I.11)
-=== IX. Kiên Trì (S.ii,132) … Kiên trì cần phải thực hành…(I.11)
-=== X. Chánh Niệm (S.ii,132) … Chánh niệm cần phải thực hành…(I.11)
-=== XI. Chánh Tri (S.ii,132) … Chánh tri cần phải thực hành…(I.11)
+=== VII. Nhiệt Tâm (S.ii,132)
+… Nhiệt tâm cần phải thực hành…(I.11)
+=== VIII. Tinh Tấn (S.ii,132)
+… Tinh tấn cần phải thực hành…(I.11)
+=== IX. Kiên Trì (S.ii,132)
+… Kiên trì cần phải thực hành…(I.11)
+=== X. Chánh Niệm (S.ii,132)
+… Chánh niệm cần phải thực hành…(I.11)
+=== XI. Chánh Tri (S.ii,132)
+… Chánh tri cần phải thực hành…(I.11)
 === XII. Không Phóng Dật (S.ii,132)
 … Không phóng dật cần phải thực hành… (I.11)
 
@@ -17612,7 +17378,8 @@ không cố ý nói láo.”
 
 #super[5] Như vậy, này các Tỷ-kheo, các Ông cần phải học tập.
 
-=== II. Mỹ Nhân (S.ii,235) … không một mỹ nhân nào…
+=== II. Mỹ Nhân (S.ii,235)
+… không một mỹ nhân nào…
 === III. Con Trai
 #super[1] … Tại Sàvatthi.
 
@@ -18258,16 +18025,24 @@ làm; không còn trở lui trạng thái này nữa”.
 
 -- Là vô thường, bạch Thế Tôn. (6-20) -- Thanh… Hương… Vị… Xúc… Pháp…
 
-=== III. Thức (S.ii,251) (3-20) -- Nhãn thức… Nhĩ thức… Tỷ thức… Thiệt thức… Thân thức… Ý thức…
-=== IV. Xúc (S.ii,251) (3-20) -- Nhãn xúc… Nhĩ xúc… Tỷ xúc… Thiệt xúc… Thân xúc… Ý xúc…
-=== V. Thọ (S.ii,251) (3-20) -- Thọ do nhãn xúc sanh… Thọ do nhĩ xúc sanh… Thọ do tỷ xúc sanh… Thọ do thiệt xúc sanh… Thọ do thân
+=== III. Thức (S.ii,251) (3-20)
+-- Nhãn thức… Nhĩ thức… Tỷ thức… Thiệt thức… Thân thức… Ý thức…
+=== IV. Xúc (S.ii,251) (3-20)
+-- Nhãn xúc… Nhĩ xúc… Tỷ xúc… Thiệt xúc… Thân xúc… Ý xúc…
+=== V. Thọ (S.ii,251) (3-20)
+-- Thọ do nhãn xúc sanh… Thọ do nhĩ xúc sanh… Thọ do tỷ xúc sanh… Thọ do thiệt xúc sanh… Thọ do thân
 xúc sanh… Thọ do ý xúc sanh…
 
-=== VI. Tưởng (S.ii,251) (3-20) -- Sắc tưởng… Thanh tưởng… Hương tưởng… Vị tưởng… Xúc tưởng… Pháp tưởng…
-=== VII. Tư (S.ii,251) (3-20) -- Sắc tư… Thanh tư… Hương tư… Vị tư… Xúc tư… Pháp tư…
-=== VIII. Ái (S.ii,251) (3-20) -- Sắc ái… Thanh ái… Hương ái… Vị ái… Xúc ái… Pháp ái…
-=== IX. Giới (S.ii,251) (3-20) -- Ðịa giới… Thủy giới… Hỏa giới… Phong giới… Không giới… Thức giới…
-=== X. Uẩn (S.ii,252) (3-17) -- Sắc… Thọ… Tưởng… Hành… Thức là thường hay vô thường?
+=== VI. Tưởng (S.ii,251) (3-20)
+-- Sắc tưởng… Thanh tưởng… Hương tưởng… Vị tưởng… Xúc tưởng… Pháp tưởng…
+=== VII. Tư (S.ii,251) (3-20)
+-- Sắc tư… Thanh tư… Hương tư… Vị tư… Xúc tư… Pháp tư…
+=== VIII. Ái (S.ii,251) (3-20)
+-- Sắc ái… Thanh ái… Hương ái… Vị ái… Xúc ái… Pháp ái…
+=== IX. Giới (S.ii,251) (3-20)
+-- Ðịa giới… Thủy giới… Hỏa giới… Phong giới… Không giới… Thức giới…
+=== X. Uẩn (S.ii,252) (3-17)
+-- Sắc… Thọ… Tưởng… Hành… Thức là thường hay vô thường?
 -- Là vô thường, bạch Thế Tôn… (21-22) -- Thấy vậy, này Ràhula, bậc
 Thánh đệ tử nghe nhiều… "…không còn trở lui trạng thái này nữa".
 
@@ -20259,13 +20034,15 @@ Trong sự giải thoát, trí khởi lên: "Ta đã được giải thoát". V�
 "Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn
 trở lui trạng thái này nữa".
 
-=== II. Khổ (S.iii,21) 1-2) Nhân duyên ở Sàvatthi… 3-7) -- Này các Tỷ-kheo, sắc là khổ…, thọ là khổ…, tưởng là khổ…, các hành
+=== II. Khổ (S.iii,21) 1-2)
+Nhân duyên ở Sàvatthi… 3-7) -- Này các Tỷ-kheo, sắc là khổ…, thọ là khổ…, tưởng là khổ…, các hành
 là khổ…, thức là khổ…
 
 #super[8] Thấy vậy, này các Tỷ-kheo, vị Ða văn Thánh đệ tử… "… không còn trở lui
   trạng thái này nữa".
 
-=== III. Vô Ngã (S.iii,21) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Vô Ngã (S.iii,21) 1-2)
+Nhân duyên ở Sàvatthi…
 3-7) -- Này các Tỷ-kheo, sắc là vô ngã…, thọ là vô ngã…, tưởng là vô
 ngã…, các hành là vô ngã…, thức là vô ngã…
 
@@ -20323,7 +20100,8 @@ phải là tôi; cái này không phải tự ngã của tôi”.
 #super[8] Thấy vậy, này các Tỷ-kheo, vị Ða văn Thánh đệ tử yếm ly đối với sắc…
   "…không còn trở lui trạng thái này nữa".
 
-=== VI. Cái Gì Vô Ngã (S.iii,22) 1-2) Nhân duyên ở Sàvatthi…
+=== VI. Cái Gì Vô Ngã (S.iii,22) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, là vô ngã. Cái gì vô ngã; cần phải như thật
   quán với chánh trí tuệ: "Cái này không phải của tôi; cái này không
   phải là tôi; cái này không phải tự ngã của tôi". 4-6) Thọ, này các
@@ -20337,7 +20115,8 @@ phải là tôi; cái này không phải tự ngã của tôi”.
 #super[5] Thấy vậy, này các Tỷ-kheo, vị Ða văn Thánh đệ tử yếm ly đối với sắc…
   "… không còn trở lui trạng thái này nữa".
 
-=== VII. Có Nhân Là Vô Thường (Tạp 1.11 Nhân. Ðại 2,2a) (S.iii,23) 1-2) Nhân duyên ở Sàvatthi…
+=== VII. Có Nhân Là Vô Thường (Tạp 1.11 Nhân. Ðại 2,2a) (S.iii,23) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì là nhân, cái gì là duyên
   cho sắc sanh khởi; cái ấy cũng vô thường. Sắc đã được cái vô thường
   làm
@@ -20360,7 +20139,8 @@ làm cho sanh khởi, này các Tỷ-kheo, từ đâu có thể thường đư�
 #super[8] Thấy vậy, này các Tỷ-kheo, vị Ða văn Thánh đệ tử yếm ly đối với sắc…
   "… không còn trở lui với trạng thái này nữa".
 
-=== VIII. Có Nhân Là Khổ (Tạp 1.12 Nhân. Ðại 2,2b) (S.iii,23) 1-2) Nhân duyên ở Sàvatthi…
+=== VIII. Có Nhân Là Khổ (Tạp 1.12 Nhân. Ðại 2,2b) (S.iii,23) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, là khổ. Cái gì là nhân, cái gì là duyên cho
   sắc sanh khởi; cái ấy cũng khổ. Sắc đã được cái khổ làm cho sanh khởi,
   này các Tỷ- kheo, từ đâu có thể lạc được?
@@ -20378,7 +20158,8 @@ làm cho sanh khởi, này các Tỷ-kheo, từ đâu có thể thường đư�
 #super[8] Thấy vậy, này các Tỷ-kheo, vị Ða văn Thánh đệ tử yếm ly đối với sắc…
   "… không còn trở lui trạng thái này nữa".
 
-=== IX. Có Nhân Là Vô Ngã (S.iii,23) 1-2) Nhân duyên ở Sàvatthi…
+=== IX. Có Nhân Là Vô Ngã (S.iii,23) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, là vô ngã. Cái gì là nhân, cái gì là duyên
   cho sắc sanh khởi; cái ấy cũng vô ngã. Sắc đã
 
@@ -20472,7 +20253,8 @@ dòng họ như thế này. Này các Tỷ-kheo, đây gọi là kẻ mang gánh
   tham, sự đoạn tận sân, sự đoạn tận si, này các Tỷ-kheo, được gọi là
   liễu tri.
 
-=== III. Thắng Tri (Tạp 1.3, Vô Tri. Ðại 2,1a) (S.iii,27) 1-2) Nhân duyên tại Sàvatthi…
+=== III. Thắng Tri (Tạp 1.3, Vô Tri. Ðại 2,1a) (S.iii,27) 1-2)
+Nhân duyên tại Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, do không thắng tri sắc, không liễu tri, không ly
   tham, không từ bỏ, nên không có thể đoạn tận khổ.
 
@@ -20489,7 +20271,8 @@ dòng họ như thế này. Này các Tỷ-kheo, đây gọi là kẻ mang gánh
 #super[7] Này các Tỷ-kheo, do thắng tri thức, liễu tri, ly tham, từ bỏ, nên có
   thể đoạn tận khổ.
 
-=== IV. Dục Tham (Tạp 3.27 Tham, Ðại 2,19c) (S.iii,27) 1-2) Nhân duyên ở Sàvatthi…
+=== IV. Dục Tham (Tạp 3.27 Tham, Ðại 2,19c) (S.iii,27) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Dục và tham (chandaràga) đối với sắc, này các Tỷ-kheo, hãy từ bỏ
   nó. Như vậy, sắc ấy sẽ được đoạn trừ, nhổ tận gốc rễ, làm cho như thân
   cây ta-la,
@@ -20508,7 +20291,8 @@ làm cho không thể tái sanh, không thể sanh khởi trong tương lai.
   ấy sẽ được đoạn trừ, nhổ tận gốc rễ, làm cho như thân cây ta-la, làm
   cho không thể tái sanh, không thể sanh khởi trong tương lai.
 
-=== V. Vị Ngọt (Tạp 1.14, Vị, Ðại 2,2c) (S.iii,27) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Vị Ngọt (Tạp 1.14, Vị, Ðại 2,2c) (S.iii,27) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, trước khi Ta giác ngộ, chưa chứng Chánh Ðẳng Giác,
   còn là Bồ-tát, Ta suy nghĩ như sau:
 
@@ -20559,7 +20343,8 @@ quần chúng Sa-môn, Bà-la-môn, chư Thiên và loài Người.
 #super[13] Và tri kiến như sau khởi lên nơi Ta: "Tâm Ta giải thoát, bất động. Ðây
   là đời sống cuối cùng, nay không còn tái sanh nữa".
 
-=== VI. Vị Ngọt (S.iii,29) 1-2) Nhân duyên ở Sàvatthi…
+=== VI. Vị Ngọt (S.iii,29) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta đã đi tìm cầu vị ngọt của sắc. Vị ngọt của sắc
   là gì, Ta đã chứng đắc. Vị ngọt của sắc như thế nào, Ta đã khéo thấy
   với trí tuệ.
@@ -20690,7 +20475,8 @@ hành đoạn diệt…
 #super[12] Này các Tỷ-kheo, cái gọi là thức đoạn diệt, an chỉ, biến mất; cái ấy
   là khổ đoạn diệt, bệnh tật an chỉ, già chết biến mất.
 
-=== X. Cội Gốc Của Ðau Khổ (S.iii,32) 1-2) Nhân duyên ở Sàvatthi…
+=== X. Cội Gốc Của Ðau Khổ (S.iii,32) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ thuyết về đau khổ và cội gốc của đau khổ.
   Hãy lắng nghe…
 
@@ -20703,7 +20489,8 @@ hành là đau khổ; thức là đau khổ. Ðây, này các Tỷ-kheo, gọi l
   hướng tới tái sanh, câu hữu với hỷ và tham, tìm cầu hỷ lạc chỗ này,
   chỗ kia; tức là dục ái, hữu ái, phi hữu ái.
 
-=== XI. Hoại Pháp (Tạp 2,19, Hoại Pháp, Ðại 2,12b) (S.iii,32) 1-2) Nhân duyên ở Sàvatthi…
+=== XI. Hoại Pháp (Tạp 2,19, Hoại Pháp, Ðại 2,12b) (S.iii,32) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Và này các Tỷ-kheo, Ta sẽ thuyết về hoại pháp và bất hoại pháp. Hãy
   lắng nghe…
 
@@ -20759,7 +20546,8 @@ các Ông… Tưởng không phải của các Ông. Các hành không phải c�
 Thức không phải của các Ông, hãy từ bỏ nó. Từ bỏ nó sẽ đưa lại hạnh
 phúc, an lạc cho các Ông.
 
-=== II. Không Phải Của Các Ông (S.iii,34) 1-2) Nhân duyên ở Sàavatthi…
+=== II. Không Phải Của Các Ông (S.iii,34) 1-2)
+Nhân duyên ở Sàavatthi…
 #super[3] -- Cái gì không phải của các Ông, này các Tỷ-kheo, hãy từ bỏ nó. Từ bỏ
   nó sẽ đưa lại hạnh phúc, an lạc cho các Ông.
 
@@ -20892,7 +20680,8 @@ rãi như vậy.
 
 #super[11] Vị Tỷ-kheo ấy trở thành một vị A- la-hán.
 
-=== V. Ananda (S.iii,37) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Ananda (S.iii,37) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Thế Tôn nói với Tôn giả Ananda đang ngồi một bên:
 
 -- Này Ananda, nếu có người hỏi Ông: "Này Hiền giả Ananda, những pháp
@@ -20922,7 +20711,8 @@ pháp này, sự sanh khởi được thấy rõ, sự diệt mất được th�
 tồn tại, sự biến đổi được thấy rõ. Ðược hỏi vậy, Này Ananda, Ông phải
 trả lời như vậy.
 
-=== VI. Ananda (S.iii,38) 1-2) Nhân duyên ở Sàvatthi…
+=== VI. Ananda (S.iii,38) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này Ananda, nếu Ông được hỏi như sau: “Trong những pháp nào, này
   Hiền giả Ananda, sự sanh khởi đã được thấy rõ, sự diệt mất đã được
   thấy rõ, trong khi tồn tại, sự biến đổi đã được thấy rõ? Trong những
@@ -21009,7 +20799,8 @@ Trong những pháp này, sự sanh khởi được thấy rõ, sự diệt mấ
 rõ, trong khi tồn tại, sự biến đổi được thấy rõ. Ðược hỏi như vậy, này
 Ananda, Ông cần phải trả lời như vậy.
 
-=== VII. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàavatthi…
+=== VII. Tùy Pháp (S.iii,41) 1-2)
+Nhân duyên ở Sàavatthi…
 #super[3] -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
   Ðối với sắc, vị ấy sống nhiều yếm ly; đối với thọ, vị ấy sống nhiều
   yếm ly;
@@ -21025,14 +20816,17 @@ nhiều yếm ly; đối với thức, vị ấy sống nhiều yếm ly.
   các hành, giải thoát khỏi thức, giải thoát khỏi sanh, già chết, sầu,
   bi, khổ, ưu, não. Ta nói vị ấy giải thoát khỏi đau khổ.
 
-=== VIII. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàvatthi… 3-5) -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
+=== VIII. Tùy Pháp (S.iii,41) 1-2)
+Nhân duyên ở Sàvatthi… 3-5) -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
 Vị ấy sống tùy quán vô thường trong sắc… Ta nói vị ấy giải thoát khỏi
 đau khổ.
 
-=== IX. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàvatthi… 3-5) -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
+=== IX. Tùy Pháp (S.iii,41) 1-2)
+Nhân duyên ở Sàvatthi… 3-5) -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
 Vị ấy sống tùy quán khổ trong sắc… Ta nói vị ấy giải thoát khỏi đau khổ.
 
-=== X. Tùy Pháp (S.iii,41) 1-2) Nhân duyên ở Sàvatthi…
+=== X. Tùy Pháp (S.iii,41) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Ðối với vị Tỷ-kheo thực hành pháp và tùy pháp, tùy pháp này có mặt:
   Vị ấy sống tùy quán vô ngã trong sắc… trong thọ… trong tưởng… trong
   các hành. Vị ấy sống tùy quán vô ngã trong thức…
@@ -21049,7 +20843,8 @@ Vị ấy sống tùy quán khổ trong sắc… Ta nói vị ấy giải thoát
 
 V. Phẩm Tự Mình Làm Hòn Ðảo.
 
-=== I. Tự Mình Làm Hòn Ðảo (Ðại 2,8a) (S.iii,42) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Tự Mình Làm Hòn Ðảo (Ðại 2,8a) (S.iii,42) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Hãy sống tự mình làm hòn đảo cho chính mình, này các Tỷ-kheo, hãy
   nương tựa nơi chính mình, không nương tựa một ai khác. Hãy lấy pháp
   làm hòn đảo, hãy lấy pháp làm chỗ nương tựa, không nương tựa một ai
@@ -21115,7 +20910,8 @@ tướng phần, nhứt hướng Niết-bàn..
 sống an lạc. Do sống an lạc, vị Tỷ-kheo được gọi là vị đã lắng dịu mọi
 tướng phần, nhứt hướng Niết-bàn..
 
-=== II. Con Ðường (Ðại 2,8a) (S.iii,44) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Con Ðường (Ðại 2,8a) (S.iii,44) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ giảng cho các Ông con đường đưa đến thân
   kiến tập khởi và con đường đưa đến thân kiến đoạn diệt. Hãy lắng nghe.
 
@@ -21155,7 +20951,8 @@ các hành…
   đường đưa đến thân kiến đoạn diệt có nghĩa là: Sự quán sát đưa đến sự
   khổ đoạn diệt.
 
-=== III. Vô Thường (Tạp 3,35, Thanh Tịnh, Ðại 2,21c) (S.iii,44) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Vô Thường (Tạp 3,35, Thanh Tịnh, Ðại 2,21c) (S.iii,44) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì vô thường là khổ. Cái gì
   khổ là vô ngã. Cái gì vô ngã, cần phải như thật quán với chánh trí tuệ
   là: "Cái này không phải của tôi; cái này không phải là tôi; cái này
@@ -21180,7 +20977,8 @@ vị ấy tri túc. Do tri túc, vị ấy không ưu não. Do không ưu não, 
 mình tịch tịnh. Vị ấy biết: ” Sanh đã tận, Phạm hạnh đã thành, những
 việc nên làm đã làm, không còn trở lui trạng thái này nữa”.
 
-=== IV. Vô Thường (Tạp 3,36, Chánh Quán Sát, Ðại 2,21c) (S.iii,45) 1-2) Nhân duyên ở Sàvatthi…
+=== IV. Vô Thường (Tạp 3,36, Chánh Quán Sát, Ðại 2,21c) (S.iii,45) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì vô thường là khổ. Cái gì
 
 khổ là vô ngã. Cái gì vô ngã, cần phải như thật quán với chánh trí tuệ
@@ -21205,7 +21003,8 @@ thường…
   tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn trở lui
   trạng thái này nữa".
 
-=== V. Quán Kiến (Tạp 2,13, Giác, Ðại 2,11b) (S.iii,46) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Quán Kiến (Tạp 2,13, Giác, Ðại 2,11b) (S.iii,46) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào quán tự ngã dưới
   nhiều hình thức sai khác, quán cả năm thủ uẩn hay quán một trong năm
   thủ uẩn.
@@ -21246,7 +21045,8 @@ phi phi tưởng".
 sắc”… "Tôi sẽ hiện hữu với tưởng"… "Tôi sẽ hiện hữu với vô tưởng", không
 đi đến chấp kiến: "Tôi sẽ hiện hữu với phi tưởng phi phi tưởng".
 
-=== VI. Các Uẩn (Tạp 2,23 Ấm, Ðại 2,13b) (S.iii,47) 1-2) Nhân duyên ở Sàvatthi…
+=== VI. Các Uẩn (Tạp 2,23 Ấm, Ðại 2,13b) (S.iii,47) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ giảng năm uẩn và năm thủ uẩn, hãy lắng nghe…
 
 #super[4] Này các Tỷ-kheo, thế nào là năm uẩn?
@@ -21405,7 +21205,8 @@ chấp nhận là Bà-la-môn giữa các hàng Bà- la-môn; những vị Tôn 
 ngay trong đời sống hiện tại, còn tự mình chứng tri với thắng trí, chứng
 đạt và an trú mục đích của Sa-môn hạnh hay mục đích của Bà-la-môn hạnh.
 
-=== IX. Hỷ Ðược Ðoạn Tận (S.iii,51) 1-2) Nhân duyên ở Sàvatthi…
+=== IX. Hỷ Ðược Ðoạn Tận (S.iii,51) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, khi một Tỷ- kheo thấy sắc vô thường là vô thường;
   đấy là chánh tri kiến của vị ấy. Thấy chơn chánh như vậy, vị ấy yếm
   ly. Do hỷ đoạn tận, tham được đoạn tận. Do tham đoạn tận, hỷ được đoạn
@@ -21420,7 +21221,8 @@ ngay trong đời sống hiện tại, còn tự mình chứng tri với thắng
 đoạn tận, nên hỷ được đoạn tận. Do hỷ, tham đoạn tận, tâm được giải
 thoát, vị ấy được gọi là vị đã được khéo giải thoát.
 
-=== X. Hỷ Ðược Ðoạn Tận (S.iii,52) 1-2) Nhân duyên ở Sàvatthi…
+=== X. Hỷ Ðược Ðoạn Tận (S.iii,52) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Hãy như lý tác ý sắc, này các Tỷ- kheo, hãy như thật quán
   (samanupassati) sắc là vô thường. Này các Tỷ-kheo, Tỷ-kheo nào như lý
   tác ý sắc, như thật quán sắc là vô thường, vị ấy yếm ly đối với sắc.
@@ -21473,7 +21275,8 @@ túc nên không có ưu não; do không có ưu não nên tự mình cảm th�
 tịnh hoàn toàn. Vị ấy biết: "Sanh đã tận, Phạm hạnh đã thành, những việc
 nên làm đã làm, không còn trở lui trạng thái này nữa".
 
-=== II. Chủng Tử (Tạp 2, Ðại 2,8c) (S.iii,54) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Chủng Tử (Tạp 2, Ðại 2,8c) (S.iii,54) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có năm loại chủng tử. Thế nào là năm? Chủng tử từ
   rễ, chủng tử từ thân, chủng tử từ đọt, chủng tử từ quả, và chủng tử từ
   chủng tử là thứ năm.
@@ -21653,7 +21456,8 @@ tìm hỷ, đi đến tăng trưởng, tăng thịnh, lớn mạnh.
   đã thành, những việc nên làm đã làm, không còn trở lui trạng thái này
   nữa".
 
-=== IV. Thủ Chuyển (Tạp 2, Ðại 2,9b) (S.iii,58) 1-2) Nhân duyên ở Sàvatthi…
+=== IV. Thủ Chuyển (Tạp 2, Ðại 2,9b) (S.iii,58) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn,
   thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn.
 
@@ -21768,7 +21572,8 @@ tức là chánh tri kiến, chánh tư duy… chánh định.
   vẹn toàn. Những ai được vẹn toàn, thời không thể nêu rõ sự luân chuyển
   của họ.
 
-=== V. Bảy Xứ (Sattatthàna) (Tạp 2, Ðại 2,10a; 498c; 875b) (Tăng 35, Ðại 2,754b) (S.iii,61) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Bảy Xứ (Sattatthàna) (Tạp 2, Ðại 2,10a; 498c; 875b) (Tăng 35, Ðại 2,754b) (S.iii,61) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Vị Tỷ-kheo thiện xảo trong bảy xứ, này các Tỷ-kheo, quán sát theo
   ba cách, được gọi là một vị toàn vẹn trong Pháp và Luật này, đã thành
   tựu viên mãn, một bậc tối thượng nhân.
@@ -22150,7 +21955,8 @@ Do yếm ly nên ly tham, do ly tham nên giải thoát. Này Mahàli, đây là
 nhân, đây là duyên cho sự thanh tịnh của chúng sanh. Do có nhân như vậy,
 do có duyên như vậy, chúng sanh được thanh tịnh.
 
-=== IX. Lửa Cháy (S.iii,58) 1-2) Nhân duyên ở Sàvatthi…
+=== IX. Lửa Cháy (S.iii,58) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, đang bốc cháy; thọ đang bốc cháy; tưởng đang
   bốc cháy; hành đang bốc cháy; thức đang bốc cháy!
 
@@ -22163,7 +21969,8 @@ thoát, trí khởi lên: "Ta đã được giải thoát".
 #super[5] Vị ấy biết: "Sanh đã tận, Phạm hạnh đã thành, những việc nên làm đã
   làm, không còn trở lui trạng thái này nữa".
 
-=== X. Ngôn Lộ (S.iii,59) 1-2) Nhân duyên ở Sàvatthi…
+=== X. Ngôn Lộ (S.iii,59) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có ba loại này, ngôn lộ, danh ngôn lộ, thi thiết
   lộ, không có lẫn lộn, trước không lẫn lộn, nay không lẫn lộn, tương
   lai không lẫn lộn, không bị các Sa-môn, Bà-la-môn có trí quở trách.
@@ -22290,7 +22097,8 @@ tắt này của Thế Tôn, con hiểu ý nghĩa một cách rộng rãi như v
   tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn trở lui
   trạng thái này nữa". Tỷ-kheo ấy trở thành một vị A-la-hán nữa.
 
-=== II. Suy Tưởng (S.iii,74) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Suy Tưởng (S.iii,74) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Rồi một Tỷ-kheo… bạch Thế Tôn:
 
 -- Bạch Thế Tôn, lành thay, Thế Tôn hãy thuyết pháp tóm tắt cho con…
@@ -22321,7 +22129,8 @@ giải thoát khỏi Ác ma. Này Tỷ-kheo, lời nói vắn tắt này của T
 hiểu ý nghĩa một cách rộng rãi như vậy. 8-9) Rồi Tỷ-kheo ấy hoan hỷ, tín
 thọ lời Thế Tôn dạy… Vị Tỷ-kheo ấy trở thành một vị A-la-hán nữa.
 
-=== III. Hoan Hỷ (S.iii,75) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Hoan Hỷ (S.iii,75) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] . \.. Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp tóm tắt cho con… con
@@ -22354,7 +22163,8 @@ Tôn con đã hiểu ý nghĩa một cách rộng rãi như vậy.
 8-9) Rồi Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy… Vị Tỷ-kheo ấy trở
 thành một vị A-la-hán nữa.
 
-=== IV. Vô Thường (Tạp 1, Ðại 2,3b) (S.iii,76) 1-3) Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
+=== IV. Vô Thường (Tạp 1, Ðại 2,3b) (S.iii,76) 1-3)
+Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con… con
 sẽ sống một mình, tịnh cư, không phóng dật, nhiệt tâm, tinh cần…
 
@@ -22380,7 +22190,8 @@ dục. Lời nói vắn tắt này của Ta, này Tỷ-kheo, Ông cần phải h
 một cách rộng rãi như vậy. 8-9) Rồi Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế
 Tôn dạy… Tỷ-kheo ấy trở thành một vị A-la-hán nữa.
 
-=== V. Khổ (S.iii,77) 1-3) Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
+=== V. Khổ (S.iii,77) 1-3)
+Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con… con
 sẽ sống một mình, tịnh cư, không phóng dật, nhiệt tâm, tinh cần.
 
@@ -22405,7 +22216,8 @@ phải đoạn trừ lòng dục. Lời nói vắn tắt này của Ta, này T�
 phải hiểu ý nghĩa một cách rộng rãi như vậy. 8-9) Rồi Tỷ-kheo ấy hoan
 hỷ, tín thọ lời Thế Tôn dạy… Tỷ-kheo ấy trở thành một vị A-la-hán nữa.
 
-=== VI. Vô Ngã (Tạp 1, Ðại 2,3b) (S.iii,77) 1-3) Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
+=== VI. Vô Ngã (Tạp 1, Ðại 2,3b) (S.iii,77) 1-3)
+Nhân duyên ở Sàvatthi. Rồi một Tỷ-kheo… bạch Thế Tôn:
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con… con
 
 sẽ sống một mình, tịnh cư, không phóng dật, nhiệt tâm, tinh cần.
@@ -22459,7 +22271,8 @@ của Thế Tôn, con hiểu ý nghĩa một cách rộng rãi như vậy.
 8-9) Rồi Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy… Tỷ-kheo ấy trở
 thành một vị A-la-hán nữa.
 
-=== VIII. Chỉ Trú Cho Ô Nhiễm (Tạp 1, Ðại 2,4a) (S.iii,79) 1-2) Nhân duyên ở Sàvatthi…
+=== VIII. Chỉ Trú Cho Ô Nhiễm (Tạp 1, Ðại 2,4a) (S.iii,79) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Lành thay, bạch Thế Tôn, Thế Tôn hãy thuyết pháp vắn tắt cho con….
@@ -22553,7 +22366,8 @@ thủ.
 #divider()
 
 === III. Phẩm Những Gì Ðược Ăn
-=== I. Vị Ngọt (S.iii,81) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Vị Ngọt (S.iii,81) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, kẻ vô văn phàm phu không như thật biết rõ vị ngọt,
   sự nguy hiểm và sự xuất ly của sắc. 4-6) … của thọ… của tưởng… của các
   hành.
@@ -22563,7 +22377,8 @@ thủ.
   ngọt, sự nguy hiểm và sự xuất ly của sắc… của thọ… của tưởng… của các
   hành… của thức.
 
-=== II. Tập Khởi (S.iii,82) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Tập Khởi (S.iii,82) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, kẻ vô văn phàm phu không như thật biết rõ sự tập
   khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và sự xuất ly của sắc. 4-6)
   … của thọ… của tưởng… của các hành…
@@ -22579,7 +22394,8 @@ thủ.
 #super[12] … như thật biết rõ sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và
   sự xuất ly của thức.
 
-=== III. Tập Khởi (S.iii,82) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Tập Khởi (S.iii,82) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, bậc Ða văn Thánh đệ tử như thật biết rõ sự tập
   khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và sự xuất ly của sắc. 4-6)
   … của thọ… của tưởng… của các hành…
@@ -22587,7 +22403,8 @@ thủ.
 #super[4] … như thật biết rõ sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hiểm và
   sự xuất ly của thức.
 
-=== IV. Các Vị A-La-Hán (S.iii,83) 1-2) Nhân duyên ở Sàvatthi…
+=== IV. Các Vị A-La-Hán (S.iii,83) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, sắc là vô thường. Cái gì vô thường là khổ. Cái gì
   khổ là vô ngã. Cái gì vô ngã cần phải như thật thấy với chánh trí tuệ
   là: "Cái này không phải của tôi, cái này không phải là tôi, cái này
@@ -22639,7 +22456,8 @@ thượng, những bậc ấy là tối thắng ở trong đời, tức là các
 #super[19] Thượng, hạ cùng tả, hữu. Họ không có hỷ lạc, Họ rống sư tử rống, Phật
   vô thượng ở đời!
 
-=== V. Các Vị A-La-Hán (S.iii,84) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Các Vị A-La-Hán (S.iii,84) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc, này các Tỷ-kheo, là vô thường. Cái gì vô thường là khổ. Cái gì
   khổ là vô ngã. Cái gì vô ngã cần phải như thật thấy với chánh trí tuệ
   là: "Cái này không phải của tôi, cái này không phải là tôi, cái này
@@ -22719,7 +22537,8 @@ bị thâu nhiếp trong một thân này”.
 #super[14] Vì chưa thoát tự thân, "Chúng ta là vô thường", Nghe lời bậc ứng Cúng,
   Ðã giải thoát như vậy.
 
-=== VII. Ðáng Ðược Ăn (Tạp 2, Ðại 2,11) (S.iii,86) 1-2) Nhân duyên ở Sàvatthi…
+=== VII. Ðáng Ðược Ăn (Tạp 2, Ðại 2,11) (S.iii,86) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào có nhớ đến các đời
   sống ở các kiếp trước, tất cả họ đều nhớ đến năm thủ uẩn hay nhớ đến
   một trong những uẩn này.
@@ -24700,7 +24519,8 @@ không phải tự ngã của tôi".
   với tất cả các tướng ở ngoài, không có (tư tưởng) ngã kiến, ngã sở
   kiến, ngã mạn, tùy miên.
 
-=== X. Ràhula 1-2) Nhân duyên ở Sàvatthi…
+=== X. Ràhula 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràhula bạch Thế Tôn:
 
 -- Biết như thế nào, bạch Thế Tôn, thấy như thế nào đối với thân có thức
@@ -24734,7 +24554,8 @@ thoát.
 #divider()
 
 === V. Phẩm Hoa
-=== I. Dòng Sông (Tạp 10, Ðại 2,70a) (S.iii,137) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Dòng Sông (Tạp 10, Ðại 2,70a) (S.iii,137) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Ví như, này các Tỷ-kheo, một con sông từ núi cao chảy xuống, từ xa
   chảy đến, dòng nước chảy xiết. Trên hai bờ con sông ấy, nếu cỏ lau
   kàsà mọc lên, chúng từ bờ rũ xuống; nếu các loại cỏ kàsà mọc lên,
@@ -24775,7 +24596,8 @@ thường hay vô thường?
 -- Vô thường, bạch Thế Tôn. 15-16) Do vậy… Thấy vậy… "… không còn trở
 lui trạng thái này nữa". Vị ấy biết rõ như vậy.
 
-=== II. Bông Hoa (hay Tăng trưởng) (Tạp 2, Ðại 2,8b) (Siii,113) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Bông Hoa (hay Tăng trưởng) (Tạp 2, Ðại 2,8b) (Siii,113) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta không tranh luận với đời, chỉ có đời tranh luận
   với Ta. Này các Tỷ-kheo, người nói Pháp không tranh luận bất cứ với
   một ai ở đời.
@@ -24969,7 +24791,8 @@ ra là không có lõi cứng. Làm sao, này các Tỷ-kheo, lại có lõi c�
 
 #divider()
 
-=== IV. Phân Bò (Tạp 10, Ðại 2,67c) (Trang 11, Ðại 1,496a) (Trang 34, Ðại 1,645a) (S.iii,143) 1-2) Nhân duyên ở Sàvatthi…
+=== IV. Phân Bò (Tạp 10, Ðại 2,67c) (Trang 11, Ðại 1,496a) (Trang 34, Ðại 1,645a) (S.iii,143) 1-2)
+Nhân duyên ở Sàvatthi…
 3-4) Sau khi ngồi, vị Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Bạch Thế Tôn, có thể có sắc nào, sắc ấy là thường còn, thường hằng,
@@ -25115,7 +24938,8 @@ dĩa bàn thứ hai, Ta dùng để ăn đồ ăn tương đương.
 #super[42] Cho đến như vậy, này các Tỷ-kheo, là vừa đủ để nhàm chán đối với tất
   cả hành, là vừa đủ để ly tham, là vừa đủ để giải thoát.
 
-=== V. Ðầu Ngón Tay (Tăng 14, Ðại 2,617b) (S.iii,147) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Ðầu Ngón Tay (Tăng 14, Ðại 2,617b) (S.iii,147) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Sau khi ngồi, vị Tỷ-kheo ấy bạch Thế Tôn:
 
 #super[4] -- Bạch Thế Tôn, có thể có sắc nào là thường còn, thường hằng, thường
@@ -25182,7 +25006,8 @@ trình bày.
 -- Là vô thường, bạch Thế Tôn. 21-22) Do vậy, thấy vậy… "… không có trở
 lui trạng thái này nữa". Vị ấy biết rõ như vậy.
 
-=== VI. Thanh Tịnh (hay Biển) (Tạp 18, Ðại 2,69c) (S.iii,149) 1-2) Nhân duyên ở Sàvatthi…
+=== VI. Thanh Tịnh (hay Biển) (Tạp 18, Ðại 2,69c) (S.iii,149) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 #super[4] -- Có một sắc nào, bạch Thế Tôn, sắc ấy là thường còn, thường hằng,
@@ -25255,7 +25080,8 @@ quanh thức, vị ấy được giải thoát khỏi sắc, được giải tho
 thoát khỏi thức, được giải thoát khỏi sanh, già chết, sầu, bi, khổ, ưu,
 não. Ta nói: "Vị ấy được giải thoát khỏi đau khổ".
 
-=== VIII. Dây Thằng (Hay Dây Buộc) (Tạp 10, Ðại 2,69c) (S.iii,151) 1-2) Nhân duyên ở Sàvatthi…
+=== VIII. Dây Thằng (Hay Dây Buộc) (Tạp 10, Ðại 2,69c) (S.iii,151) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Vô thỉ, này các Tỷ-kheo, là sự luân hồi này. Ðiểm bắt đầu không thể
   nêu rõ đối với chúng sanh bị vô minh che đậy, bị khát ái trói buộc,
   phải lưu chuyển, luân hồi.
@@ -25323,7 +25149,8 @@ liên tục làm cho hiện hữu thức.
 -- Vô thường, bạch Thế Tôn. 13-14) -- Do vậy, này các Tỷ-kheo… Thấy vậy…
 "… không còn trở lui trạng thái này nữa". Vị ấy biết rõ như vậy.
 
-=== IX. Cán Búa (Hay Chiếc Thuyền) (Tạp 10, Ðại 2,67a) (S.iii,152) 1-2) Nhân duyên ở Sàvatthi…
+=== IX. Cán Búa (Hay Chiếc Thuyền) (Tạp 10, Ðại 2,67a) (S.iii,152) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Do biết, do thấy, này các Tỷ-kheo, Ta tuyên bố sự đoạn tận các lậu
   hoặc, không phải do không biết, do không thấy.
 
@@ -25425,7 +25252,8 @@ búa bị hao mòn trên sự hao mòn của cán búa.
 #super[21] Cũng vậy, này các Tỷ-kheo, Tỷ- kheo sống chí tâm trong sự tu tập, các
   kiết sử rất dễ bị yếu dần và hư nát.
 
-=== X. Vô Thường Tánh (Hay Tưởng) (Tạp 10, Ðại 2,70c) (S.iii,155) 1-2) Nhân duyên ở Sàvatthi…
+=== X. Vô Thường Tánh (Hay Tưởng) (Tạp 10, Ðại 2,70c) (S.iii,155) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Do tu tập, làm cho sung mãn vô thường tưởng, tất cả dục tham được
   đoạn tận, tất cả sắc tham được đoạn tận, tất cả hữu tham được đoạn
   tận, tất cả vô minh được đoạn tận, tất cả ngã mạn được tận trừ.
@@ -25502,7 +25330,8 @@ tất cả ngã mạn được tận trừ.
 
 === C. Năm Mươi Kinh Sau
 === I. Phẩm Biên
-=== I. Biên Kinh (Tạp 3, Ðại 2,18b) (S.iii,157) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Biên Kinh (Tạp 3, Ðại 2,18b) (S.iii,157) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Có bốn biên này, này các Tỷ- kheo. Thế nào là bốn? Hữu thân biên,
   hữu thân tập khởi biên, hữu thân đoạn diệt biên, hữu thân đoạn diệt
   đạo biên.
@@ -25528,7 +25357,8 @@ là năm thủ uẩn.
   chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh định. Này
   các Tỷ- kheo, đây gọi là hữu thân đoạn diệt đạo biên.
 
-=== II. Khổ (S.iii,158) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Khổ (S.iii,158) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về Khổ, Khổ tập khởi, Khổ
   đoạn diệt, Con đường đưa đến khổ đoạn diệt. Hãy lắng nghe.
 
@@ -25550,7 +25380,8 @@ thủ uẩn. Ðây gọi là Khổ, này các Tỷ- kheo.
 
 Tỷ-kheo, đây gọi là Con đường đưa đến khổ đoạn diệt.
 
-=== III. Hữu Thân (Tạp 3, Ðại 2,18b) (S.iii,159) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Hữu Thân (Tạp 3, Ðại 2,18b) (S.iii,159) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ giảng cho các Ông về hữu thân, hữu thân tập
   khởi, hữu thân đoạn diệt, con đường đưa đến hữu thân đoạn diệt. Hãy
   lắng nghe.
@@ -25592,7 +25423,8 @@ Tỷ-kheo, đây gọi là Con đường đưa đến khổ đoạn diệt.
 bậc A-la-hán. Bậc Tôn giả này, với tên như vậy, với dòng họ như vậy. Này
 các Tỷ-kheo, đây gọi là con người đã biến tri.
 
-=== V. Các Sa Môn (S.iii,160) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Các Sa Môn (S.iii,160) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Có năm thủ uẩn, này các Tỷ-kheo. Thế nào là năm? Tức là sắc thủ
   uẩn… thức thủ uẩn.
 
@@ -25610,7 +25442,8 @@ các Tỷ-kheo, đây gọi là con người đã biến tri.
   năm thủ uẩn này… biết rõ…; tự mình chứng ngộ với thắng trí, chứng đạt
   và an trú.
 
-=== VII. Dự Lưu (S.iii,160) 1-2) Nhân duyên ở Sàvatthi…
+=== VII. Dự Lưu (S.iii,160) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có năm thủ uẩn này. Thế nào năm? Tức là sắc thủ
   uẩn… thức thủ uẩn.
 
@@ -25620,7 +25453,8 @@ các Tỷ-kheo, đây gọi là con người đã biến tri.
   Dự lưu, không còn bị thối thất, đã được quyết định, hướng đến Chánh
   Ðẳng Giác.
 
-=== VIII. A-La-Hán (S.iii,161) 1-2) Nhân duyên ở Sàvatthi…
+=== VIII. A-La-Hán (S.iii,161) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có năm thủ uẩn này. Thế nào là năm? Tức là sắc thủ
   uẩn… thức thủ uẩn.
 
@@ -25633,7 +25467,8 @@ A- la-hán, các lậu hoặc được đoạn tận, Phạm hạnh đã thành,
 làm đã làm, đã đặt gánh nặng xuống, đã đạt được mục đích, hữu kiết sử đã
 được đoạn tận, được giải thoát nhờ chánh trí.
 
-=== IX. Dục Ðược Ðoạn Trừ (S.iii,161) 1-2) Nhân duyên ở Sàvatthi…
+=== IX. Dục Ðược Ðoạn Trừ (S.iii,161) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, phàm có dục nào, tham nào, hỷ nào, khát ái nào đối
   với sắc, hãy đoạn trừ nó. Như vậy sắc ấy sẽ được đoạn trừ, cắt đứt tận
   gốc rễ, làm cho như thân cây ta-la, làm cho không thể tái sanh, không
@@ -25646,7 +25481,8 @@ làm đã làm, đã đặt gánh nặng xuống, đã đạt được mục đ�
   gốc rễ, làm cho như thân cây ta-la, làm cho không thể tái sanh, không
   thể sanh khởi lại trong tương lai.
 
-=== X. Dục Ðược Ðoạn Trừ (S.iii,161) 1-2) Nhân duyên ở Sàvatthi…
+=== X. Dục Ðược Ðoạn Trừ (S.iii,161) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, phàm có dục nào, tham nào, hỷ nào, khát ái nào,
   phàm có những chấp thủ phương tiện, tâm thủ trước, thiên chấp tùy miên
   nào đối với sắc… hãy đoạn trừ chúng. Như
@@ -25682,7 +25518,8 @@ không biết rõ tưởng… không biết rõ các hành… không biết rõ 
 #super[9] Này Tỷ-kheo, đây gọi là vô minh. Và cho đến như vậy, một người là vô
   minh.
 
-=== II. Minh (Hay Vị Tỷ-kheo) (S.iii,163) 1-4) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, vị Tỷ-kheo ấy bạch
+=== II. Minh (Hay Vị Tỷ-kheo) (S.iii,163) 1-4)
+Nhân duyên ở Sàvatthi… Ngồi xuống một bên, vị Tỷ-kheo ấy bạch
 Thế Tôn:
 
 -- "Minh, minh", bạch Thế Tôn, như vậy được nói đến. Bạch Thế Tôn, như
@@ -25697,7 +25534,8 @@ khởi, biết rõ sắc đoạn diệt, biết rõ con đường đưa đến s
 
 #super[9] Này Tỷ-kheo, đây gọi là minh. Và cho đến như vậy, một người là minh.
 
-=== III. Vị Thuyết Pháp (Tập 3, Ðại 2,5c) (S.iii,163) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Vị Thuyết Pháp (Tập 3, Ðại 2,5c) (S.iii,163) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Sau khi ngồi xuống, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- "Vị thuyết pháp, vị thuyết pháp", bạch Thế Tôn, như vậy được nói đến.
@@ -25752,7 +25590,8 @@ chán, ly tham, đoạn diệt đối với thức, được giải thoát, khô
 thủ; như vậy là vừa đủ để được gọi là Tỷ- kheo đã đạt được Niết-bàn ngay
 trong hiện tại.
 
-=== V. Trói Buộc (Tạp 2, Ðại 2,19b) (S.iii,164) 1-2) Nhân duyên ở Sàvatthi…
+=== V. Trói Buộc (Tạp 2, Ðại 2,19b) (S.iii,164) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Ở đây, này các Tỷ-kheo, kẻ vô văn phàm phu không thấy rõ các bậc
   Thánh… không tu tập pháp các bậc Chân nhân, quán sắc như là tự ngã,
   hay tự ngã như là có sắc, hay sắc ở trong tự ngã, hay tự ngã ở trong
@@ -25841,7 +25680,8 @@ cái này không phải tự ngã của tôi".
 #super[7] Do thấy vậy, này các Tỷ-kheo, vị ấy biết rõ: "… không còn trở lui
   trạng thái này nữa".
 
-=== VIII. Kiết Sử (S.iii,166) 1-2) Nhân duyên ở Sàvatthi…
+=== VIII. Kiết Sử (S.iii,166) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về các pháp bị trói buộc
   và sự trói buộc. Hãy lắng nghe.
 
@@ -25855,7 +25695,8 @@ cái này không phải tự ngã của tôi".
 #super[6] Này các Tỷ-kheo, các pháp này, này các Tỷ-kheo, được gọi là các pháp
   bị trói buộc. Ðây là sự trói buộc.
 
-=== IX. Chấp Thủ (S.iii,167) 1-2) Nhân duyên ở Sàvatthi…
+=== IX. Chấp Thủ (S.iii,167) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ thuyết giảng cho các Ông về các pháp bị chấp
   thủ và sự chấp thủ. Hãy lắng nghe.
 
@@ -26053,7 +25894,8 @@ gọi là vô minh? (… như kinh trên).
 là minh, thưa Hiền giả Sàriputta? Cho đến như thế nào được gọi là minh?
 (… như kinh trên).
 
-=== IV. Vi Ngọt 1-2) Tại Bàrànasi, Isipatana, vườn Lộc Uyển…
+=== IV. Vi Ngọt 1-2)
+Tại Bàrànasi, Isipatana, vườn Lộc Uyển…
 #super[3] Ngồi xuống một bên, Tôn giả Mahà Kotthika thưa với Tôn giả Sàriputta:
 
 -- "Vô minh, vô minh", thưa Hiền giả Sàriputta, được nói đến như vậy.
@@ -26067,7 +25909,8 @@ minh?
 
 #super[6] Ðây là vô minh, này Hiền giả. Cho đến như vậy được gọi là vô minh.
 
-=== V. Vị Ngọt (S.iii,174) 1-2) Tại Bàrànasi, Isipatana, vườn Lộc Uyển…
+=== V. Vị Ngọt (S.iii,174) 1-2)
+Tại Bàrànasi, Isipatana, vườn Lộc Uyển…
 #super[3] -- "Minh, minh", này Hiền giả Sàriputta, được nói đến như vậy. Thế nào
   là minh, thưa Hiền giả? Như thế nào được gọi là minh? 4-8) Ở đây, này
   Hiền giả, bậc Ða văn Thánh đệ tử như thật biết rõ vị ngọt, sự nguy
@@ -26076,7 +25919,8 @@ minh?
 
 #super[4] Ðây gọi là vô minh, này Hiền giả. Cho đến như vậy được gọi là vô minh.
 
-=== VI. Tập Khởi (S.iii,174) 1-2) Bàrànasi, Isipatana, vườn Lộc Uyển…
+=== VI. Tập Khởi (S.iii,174) 1-2)
+Bàrànasi, Isipatana, vườn Lộc Uyển…
 #super[3] -- "Vô minh, vô minh", thưa Hiền giả Sàriputa, được nói đến là như
   vậy. Và thế nào là vô minh, thưa Hiền giả? Cho đến như thế nào được
   gọi là vô minh?
@@ -26091,7 +25935,8 @@ minh?
 #super[6] Như vậy, này Hiền giả, được gọi là vô minh. Cho đến như vậy được gọi
   là vô minh.
 
-=== VII. Tập Khởi (S.iii,174) 1-2) Bàrànasi, Isipatana, vườn Lộc Uyển…
+=== VII. Tập Khởi (S.iii,174) 1-2)
+Bàrànasi, Isipatana, vườn Lộc Uyển…
 #super[3] Ngồi xuống một bên, Tôn giả Mahà Kotthika thưa với Tôn giả Sàriputta:
 
 -- "Minh, minh" thưa Hiền giả Sàriputta, được nói đến như vậy. Thế nào
@@ -26170,7 +26015,8 @@ nào là minh, thưa Hiền giả? Cho đến như thế nào được gọi là
 #super[13] Như vậy, này Hiền giả, được gọi là minh. Cho đến như vậy, được gọi là
   minh.
 
-=== X. Kotthika (S.iii,176) 1-2) Nhân duyên như trên.
+=== X. Kotthika (S.iii,176) 1-2)
+Nhân duyên như trên.
 #super[3] Ngồi xuống một bên, Tôn giả Sàriputta nói với Tôn giả Kotthika:
 
 -- "Vô minh, vô minh", thưa Hiền giả Kotthika, được nói đến như vậy. Và
@@ -26205,7 +26051,8 @@ sắc đoạn diệt. 12-14) … thọ… tưởng… các hành…
 #divider()
 
 === IV. Phẩm Than Ðỏ
-=== I. Than Ðỏ Hực (S.iii,177) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Than Ðỏ Hực (S.iii,177) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Sắc là than đỏ, này các Tỷ-kheo! Thọ là than đỏ! Tưởng là than đỏ!
   Các hành là than đỏ! Thức là than đỏ!
 
@@ -26233,11 +26080,13 @@ lòng dục. Này các Tỷ-kheo, cái gì là vô thường?
   lòng dục.
 
 === III. Vô Thường (Như kinh trên, chỉ khác là tham (ràga) thay thế cho dục (chanda).
-=== IV. Vô Thường (Như kinh trên, chỉ khác là cả dục và tham ). V-VI-VII. Khổ (1,2,3)
+=== IV. Vô Thường (Như kinh trên, chỉ khác là cả dục và tham ).
+V-VI-VII. Khổ (1,2,3)
 \(Như kinh trên, chỉ khác là khổ thay thế cho vô thường ). VIII-IX-X. Vô
 Ngã (1,2,3) (Như kinh trên, chỉ khác là vô ngã thay thế cho khổ ).
 
-=== XI. Thiện Nam Tử Khổ (Tạp 2, Ðại 2,12a) (S.iii,179) 1-2) Nhân duyên ở Sàvatthi…
+=== XI. Thiện Nam Tử Khổ (Tạp 2, Ðại 2,12a) (S.iii,179) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Ðối với vị thiện nam tử vì lòng tin xuất gia, này các Tỷ-kheo, đây
   là thuận pháp (anudhammam): Hãy sống nhàm chán nhiều đối với sắc… đối
   với thọ… đối với tưởng… đối với các hành, hãy sống nhàm chán nhiều đối
@@ -26257,7 +26106,8 @@ Ngã (1,2,3) (Như kinh trên, chỉ khác là vô ngã thay thế cho khổ ).
 === XII. Thiện Nam Tử Khổ (Như kinh trên, chỉ khác là "thấy vô thường" thay thế "sống nhàm chán").
 === XIII. Thiện Nam Tử Khổ (Như kinh trên, ở đây chỉ khác là "thấy vô ngã" ).
 === V. Phẩm Kiến
-=== I. Nội (Tạp 7, Ðại 2,43b) (S.iii,180) 1-2) Ở Sàvatthi…
+=== I. Nội (Tạp 7, Ðại 2,43b) (S.iii,180) 1-2)
+Ở Sàvatthi…
 #super[3] -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, nội lạc, khổ
   khởi lên?
 
@@ -26297,7 +26147,8 @@ thời nội lạc, khổ có thể sanh khởi không?
 
 #super[15] Do thấy vậy… "… không còn trở lui trạng thái này nữa".
 
-=== II. Cái Này Là Của Tôi (Tạp 7, Ðại 2,43a) (S.iii,181) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Cái Này Là Của Tôi (Tạp 7, Ðại 2,43a) (S.iii,181) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, do có cái gì, do chấp thủ cái gì, do thiên chấp
   cái gì mà quán: "Cái này là của tôi, cái này là tôi, cái này là tự ngã
   của tôi"?
@@ -26333,7 +26184,8 @@ tôi"?
 
 #super[15] Do thấy vậy… vị ấy biết rõ… "… không còn trở lui trạng thái này nữa".
 
-=== III. Ngã (Tạp 7, Ðại 2,43c) (S.iii,182) 1-3) Nhân duyên ở Sàvatthi…
+=== III. Ngã (Tạp 7, Ðại 2,43c) (S.iii,182) 1-3)
+Nhân duyên ở Sàvatthi…
 -- Này các Tỷ-kheo, do có cái gì, do chấp thủ cái gì, do thiên chấp cái
 gì, tà kiến này khởi lên: "Cái này là ngã, cái này là thế giới, cái này
 sau khi chết sẽ thường còn, thường hằng, thường trú, không chịu sự biến
@@ -26430,7 +26282,8 @@ trở lui trạng thái này nữa".
 
 #divider()
 
-=== V. Tà Kiến (S.iii,184) 1-3) Nhân duyên ở Sàvatthi…
+=== V. Tà Kiến (S.iii,184) 1-3)
+Nhân duyên ở Sàvatthi…
 -- Này các Tỷ-kheo, do có cái gì, do chấp thủ gì, do thiên chấp gì, tà
 kiến khởi lên?
 
@@ -26559,7 +26412,8 @@ tưởng… các hành…
 của câu hỏi. Nhập vào Niết-bàn, này Ràdha, là sự thực hành Phạm hạnh;
 Niết-bàn là mục tiêu cuối cùng; Niết- bàn là cứu cánh.
 
-=== II. Chúng Sanh (Tạp 6, Ðại 2,40a) (S.iii,189) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Chúng Sanh (Tạp 6, Ðại 2,40a) (S.iii,189) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
 
 -- "Chúng sanh, chúng sanh", bạch Thế Tôn, được nói đến như vậy. Cho đến
@@ -26597,7 +26451,8 @@ tưởng… các hành…
 
 #super[16] Ðoạn diệt khát ái, này Ràdha, là Niết-bàn.
 
-=== III. Sợi Dây Tái Sanh (Tạp 6, Ðại 2,37c) (S.iii,190) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Sợi Dây Tái Sanh (Tạp 6, Ðại 2,37c) (S.iii,190) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
 
 -- "Ðoạn diệt sợi dây tái sanh. Ðoạn diệt sợi dây tái sanh", bạch Thế
@@ -26615,7 +26470,8 @@ Thế nào là sự đoạn diệt sợi dây tái sanh?
 
 đoạn diệt chúng là sự đoạn diệt sợi dây tái sanh.
 
-=== IV. Sở Biến Tri (Tạp 6, Ðại 2,37c) (Parinneyya) (S.iii,191) 1-2) Nhân duyên ở Sàvatthi…
+=== IV. Sở Biến Tri (Tạp 6, Ðại 2,37c) (Parinneyya) (S.iii,191) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
 
 -- Này Ràdha, Ta sẽ thuyết về các pháp cần phải biến tri, sự biến tri.
@@ -26640,7 +26496,8 @@ này Ràdha, là những pháp cần phải biến tri.
 
 Như vậy, này Ràdha, là người đã được chánh biến tri.
 
-=== V. Sa Môn (S.iii,191) 1-2) Nhân duyên ở Sàvatthi… 3-4) Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
+=== V. Sa Môn (S.iii,191) 1-2)
+Nhân duyên ở Sàvatthi… 3-4) Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
 -- Này Ràdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ
 uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn.
 
@@ -26663,13 +26520,15 @@ hạnh.
 
 đích của Sa-môn hạnh và mục đích của Bà-la-môn hạnh.
 
-=== VI. Sa Môn (S.iii,192) 1-3) Nhân duyên ở Sàvatthi…
+=== VI. Sa Môn (S.iii,192) 1-3)
+Nhân duyên ở Sàvatthi…
 #super[4] -- Này Ràdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ
   uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn… (như kinh trên, chỉ
   thêm sự tập khởi và sự đoạn diệt vào vị ngọt, sự nguy hiểm và sự xuất
   ly của năm thủ uẩn).
 
-=== VII. Bậc Dự Lưu (S.iii,192) 1-3) Nhân duyên ở Sàvatthi…
+=== VII. Bậc Dự Lưu (S.iii,192) 1-3)
+Nhân duyên ở Sàvatthi…
 #super[4] -- Này Ràdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn… thức
   thủ uẩn.
 
@@ -26678,7 +26537,8 @@ hạnh.
   uẩn này. Vị này, này Ràdha, được gọi là vị Thánh đệ tử đã chứng Dự
   lưu, không còn bị thối đọa, quyết chắc đạt đến cứu cánh bồ-đề.
 
-=== VIII. Bậc A-La-Hán (S.iii,192) 1-3) Nhân duyên ở Sàvatthi…
+=== VIII. Bậc A-La-Hán (S.iii,192) 1-3)
+Nhân duyên ở Sàvatthi…
 #super[4] -- Này Rdha, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn… thức thủ
   uẩn.
 
@@ -26691,7 +26551,8 @@ hán, đã đoạn tận các lậu hoặc, đã thành tựu Phạm hạnh, đ�
 phải làm, đã đặt gánh nặng xuống, đã đạt được mục đích, đã đoạn tận hữu
 kiết sử, đã giải thoát nhờ chánh trí.
 
-=== IX. Dục Tham (S.iii,193) 1-2) Nhân duyên ở Sàvatthi… 3-4) Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
+=== IX. Dục Tham (S.iii,193) 1-2)
+Nhân duyên ở Sàvatthi… 3-4) Thế Tôn nói với Tôn giả Ràdha đang ngồi một bên:
 -- Này Ràdha, phàm có dục nào, tham nào, hỷ nào, khát ái nào đối với
 sắc, hãy từ bỏ chúng. Như vậy, sắc sẽ được đoạn tận, cắt đứt tận gốc rễ,
 làm cho như thân cây ta-la, làm cho không thể
@@ -26708,7 +26569,8 @@ với tưởng… đối với các hành…
 
 #divider()
 
-=== I. Màra 1-2) Nhân duyên ở Sàvatthi…
+=== I. Màra 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
 
 -- "Màra, Màra", bạch Thế Tôn, như vậy được gọi đến. Thế nào là Màra,
@@ -26727,7 +26589,8 @@ thành, những việc nên làm đã làm, không còn trở lui trạng thái 
 II. Tánh Chất Của Màra. (Như kinh trước, chỉ thay Màra bằng tánh chất
 của Màra (Màradhamma) ).
 
-=== III. Vô Thường 1-2) Nhân duyên ở Sàvatthi…
+=== III. Vô Thường 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
 
 -- "Vô thường, vô thường", bạch Thế Tôn, được nói đến như vậy. Bạch Thế
@@ -26739,7 +26602,8 @@ Tôn, thế nào là vô thường?
 #super[5] Do thấy vậy… Vị ấy biết rõ… "… không còn trở lui trạng thái này nữa".
 
 === IV. Vô Thường Tánh (Kinh như trên, chỉ thay "vô thường" bằng "vô thường tánh").
-=== V. Khổ 1-2) Nhân duyên ở Sàvatthi…
+=== V. Khổ 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
 
 -- "Khổ, khổ", bạch Thế Tôn, như vậy được nói đến. Bạch Thế Tôn, thế nào
@@ -26761,7 +26625,8 @@ là khổ?
 #divider()
 
 === III. Phẩm Sơ Vấn
-=== I. Về Màra (Tạp quyển 6, Ðại 2,40c) (S.iii,198) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Về Màra (Tạp quyển 6, Ðại 2,40c) (S.iii,198) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
 
 -- Lành thay, bạch Thế Tôn! Thế Tôn hãy thuyết pháp vắn tắt cho con, để
@@ -26799,7 +26664,8 @@ dục và tham.
 #super[33] Cái gì là tập khởi tánh, ở đây Ông cần phải đoạn trừ lòng dục, cần
   phải đoạn trừ lòng tham, cần phải đoạn trừ lòng dục và tham.
 
-=== II. Ðoạn Diệt Tánh (S.iii,199) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Ðoạn Diệt Tánh (S.iii,199) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tôn giả Ràdha bạch Thế Tôn:
 
 -- Lành thay, bạch Thế Tôn! Thế Tôn hãy thuyết pháp vắn tắt cho con, để
@@ -26836,7 +26702,8 @@ tâm, tinh cần.
 
 == \[24\] Chương III - Tương Ưng Kiến
 === I. Phẩm Dự Lưu
-=== I. Gió (Tạp 7, Ðại 2,45a) (S.iii,202) 1-2) Nhân duyên ở Sàvatthi… Thế Tôn nói với các Tỷ-kheo:
+=== I. Gió (Tạp 7, Ðại 2,45a) (S.iii,202) 1-2)
+Nhân duyên ở Sàvatthi… Thế Tôn nói với các Tỷ-kheo:
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: “Gió không thổi, sông không chảy, đàn bà
 mang thai không sanh, mặt trăng, mặt trời không
@@ -26914,7 +26781,8 @@ như cột trụ"?
   đoạn trừ; như vậy, này các Tỷ-kheo gọi là bậc Thánh đệ tử đã chứng
   được Dự lưu, không còn bị thối đọa, quyết chắc hướng đến giác ngộ.
 
-=== II. Cái Này Là Của Tôi. (S.iii,203) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Cái Này Là Của Tôi. (S.iii,203) 1-2)
+Nhân duyên ở Sàvatthi…
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này được khởi lên: “Cái này là
 
@@ -26979,7 +26847,8 @@ cái này là tự ngã của tôi"?
   Tỷ-kheo, gọi là bậc Thánh đệ tử đã chứng được Dự lưu, không còn bị
   thối đọa, quyết chắc hướng đến giác ngộ.
 
-=== III. Cái Này Là Tự Ngã (S.iii,204) 1-2) Nhân duyên ở Sàvatthi…
+=== III. Cái Này Là Tự Ngã (S.iii,204) 1-2)
+Nhân duyên ở Sàvatthi…
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: "Cái ấy là tự ngã, cái ấy là thế giới. Sau
 khi chết, cái ấy sẽ thường còn, thường hằng, thường trú, không chịu sự
@@ -27052,7 +26921,8 @@ hoặc được đoạn trừ;… đối với con đường đưa đến khổ 
 được đoạn trừ; như vậy, này các Tỷ-kheo, được gọi là vị Thánh đệ tử
 chứng được Dự lưu, không còn thối đọa, quyết chắc hướng đến giác ngộ.
 
-=== IV. Có Thể Không Phải Của Tôi (S.iii,205) 1-2) Nhân duyên ở Sàvatthi…
+=== IV. Có Thể Không Phải Của Tôi (S.iii,205) 1-2)
+Nhân duyên ở Sàvatthi…
 -- Do cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái gì,
 (tà) kiến này khởi lên: "Nếu trước không có ta, thời đã không có của ta.
 Nếu sẽ không có ta, thời sẽ không có của ta"? (Như kinh trên, chỉ có sự
@@ -27081,7 +26951,8 @@ diệt, tiêu thất, không còn tồn tại sau khi chết”?
 
 #super[4] \(Như kinh trên, chỉ khác ở "tà kiến").
 
-=== VI. Ðối Với Người Hành Ðộng (Tạp 7, Ðại 2,44b) (S.iii,208) 1-2) Nhân duyên ở Sàvatthi…
+=== VI. Ðối Với Người Hành Ðộng (Tạp 7, Ðại 2,44b) (S.iii,208) 1-2)
+Nhân duyên ở Sàvatthi…
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: “Tự làm hay khiến người làm, chém giết hay
 khiến người chém giết, đốt nấu hay khiến người đốt nấu, gây phiền muộn
@@ -27104,7 +26975,8 @@ không có phước đức, không đưa đến phước đức”?
 
 \(Như kinh trên, chỉ khác phần tà kiến”).
 
-=== VII. Nhân (Tạp 7, Ðại 2,44a) (S.iii,210) 1-2) Nhân duyên ở Sàvatthi…
+=== VII. Nhân (Tạp 7, Ðại 2,44a) (S.iii,210) 1-2)
+Nhân duyên ở Sàvatthi…
 -- Do có cái gì, này các Tỷ-kheo, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: “Không có nhân, không có duyên, các loài hữu
 tình bị nhiễm ô; vô nhân, vô duyên, các loài hữu tình bị nhiễm ô. Không
@@ -27171,7 +27043,8 @@ hiền sau khi lưu chuyển luân hồi sẽ trừ tận khổ đau.
 #super[8] -- Ðối với chúng con, bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…
   (Như các kinh trên, chỉ khác về "tà kiến").
 
-=== IX. Thế Gian Là Thường (S.iii,213) (Như các kinh trên, chỉ khác về "tà kiến". Ở đây "tà kiến" được thay bằng
+=== IX. Thế Gian Là Thường (S.iii,213)
+(Như các kinh trên, chỉ khác về "tà kiến". Ở đây "tà kiến" được thay bằng
 "thế gian là thường").
 
 === X. Thế Gian Là Vô Thường (S.iii,214) (Như các kinh trên, chỉ khác về "tà kiến").
@@ -27182,7 +27055,8 @@ hiền sau khi lưu chuyển luân hồi sẽ trừ tận khổ đau.
 === XV. Như Lai Có Tồn Tại (Như các kinh trên, chỉ khác về "tà kiến")
 === XVI. Như Lai Không Có Tồn Tại (Như các kinh trên, chỉ khác về "tà kiến")
 === XVII. Như Lai Có Tồn Tại Và Không Có Tồn Tại (Như các kinh trên, chỉ khác về "tà kiến")
-=== XVIII. Như Lai Không Tồn Tại Và Không Không Tồn Tại (S.iii,216) 1-2) Nhân duyên ở Sàvatthi…
+=== XVIII. Như Lai Không Tồn Tại Và Không Không Tồn Tại (S.iii,216) 1-2)
+Nhân duyên ở Sàvatthi…
 -- Này các Tỷ-kheo, do có cái gì, do chấp thủ cái gì, do thiên chấp cái
 gì, (tà) kiến này khởi lên: "Như Lai không tồn tại và không không tồn
 tại sau khi chết"?
@@ -27245,7 +27119,8 @@ không có sắc, sau khi chết, không bệnh"). III. Tự Ngã Có Sắc Và 
 Sắc.
 
 === IV. Tự Ngã Không Có Sắc Và Không Không Sắc
-=== V. Thuần Lạc (… "Tự ngã là thuần lạc, sau khi chết, không bệnh").
+=== V. Thuần Lạc
+(… "Tự ngã là thuần lạc, sau khi chết, không bệnh").
 === VI. Thuần Khổ
 === VII. Thuần Lạc Và Thuần Khổ
 === VIII. Chẳng Phải Khổ , Chẳng Phải Lạc (S.iii,220)
@@ -27267,7 +27142,8 @@ Thuyết 2)
 #divider()
 
 == \[25\] Chương IV - Tương Ưng Nhập
-=== I. Con Mắt (S.iii,225) 1-2) Nhân duyên tại Sàvatthi…
+=== I. Con Mắt (S.iii,225) 1-2)
+Nhân duyên tại Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, mắt là vô thường, biến hoại, đổi khác. Tai là vô
   thường, biến hoại, đổi khác. Mũi là vô
 
@@ -27307,7 +27183,8 @@ thọ do thân xúc sanh, thọ do ý xúc sanh”).
 #divider()
 
 == \[26\] Chương V - Tương Ưng Sanh
-=== I. Mắt (Tạp 13, Ðại 2,90c) (S.iii,228) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Mắt (Tạp 13, Ðại 2,90c) (S.iii,228) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, sự sanh, sự trú, sự thành, sự xuất hiện của mắt là
   sự sanh của khổ, sự trú của bệnh hoạn, sự xuất hiện của già chết. 4-8)
   Sự sanh, sự trú, sự thành, sự xuất hiện của tai… của mũi… của lưỡi…
@@ -27338,7 +27215,8 @@ thọ do tỷ xúc sanh, thọ do thiệt xúc sanh, thọ do thân xúc sanh, t
 #divider()
 
 == \[27\] Chương VI - Tương Ưng Phiền Não
-=== I. Con Mắt (S.iii,232) 1-2) Nhân duyên ở Sàvathi…
+=== I. Con Mắt (S.iii,232) 1-2)
+Nhân duyên ở Sàvathi…
 #super[3] -- Này các Tỷ-kheo, dục tham đối với mắt là tùy phiền não của tâm. Dục
   tham đối với tai là tùy phiền não của tâm. Dục tham đối với mũi là tùy
   phiền
@@ -27365,7 +27243,8 @@ thọ do ý xúc sanh).
 === VII. Tư (Như kinh trên, chỉ thế vào sắc tư, thanh tư, hương tư, vị tư, xúc tư, pháp tư).
 === VIII. Ái (Như kinh trên, chỉ thế vào sắc ái, thanh ái, hương ái, vị ái, xúc ái, pháp ái).
 === IX. Giới (Như kinh trên, chỉ thế vào địa giới, thủy giới, hỏa giới, phong giới, không giới, thức giới).
-=== X. Uẩn (S.iii,234) 1-2) Nhân duyên ở Sàvatthi…
+=== X. Uẩn (S.iii,234) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, dục tham đối với sắc uẩn là tùy phiền não của tâm.
   Dục tham đối với thọ uẩn là tùy phiền não của tâm. Dục tham đối với
   tưởng uẩn là tùy phiền não của tâm. Dục tham đối với hành uẩn là tùy
@@ -27410,7 +27289,8 @@ tịnh, trong sáng. Hôm nay, Hiền giả an trú với sự an trú nào?
   hay "Tôi đã chứng nhập Thiền thứ nhất", hay "Tôi đã ra khỏi Thiền thứ
   nhất".
 
-=== II. Không Tầm 1-5) Một thời Tôn giả Sàriputta trú ở Sàvatthi…
+=== II. Không Tầm 1-5)
+Một thời Tôn giả Sàriputta trú ở Sàvatthi…
 #super[6] Tôn giả Ananda thấy Tôn giả Sàriputta từ xa đi đến; sau khi thấy, liền
   nói với Tôn giả Sàriputta:
 
@@ -27430,7 +27310,8 @@ Sàriputta không khởi lên ý nghĩ: "Tôi đang chứng nhập Thiền thứ
 hay "Tôi đã chứng nhập Thiền thứ hai", hay "Tôi đã ra khỏi Thiền thứ
 hai".
 
-=== III. Hỷ 1-5) Một thời Tôn giả Sàriputta trú ở Savatthi…
+=== III. Hỷ 1-5)
+Một thời Tôn giả Sàriputta trú ở Savatthi…
 #super[6] Tôn giả Ananda thấy Tôn giả Sàriputta từ xa đi đến; sau khi thấy, liền
   nói với Tôn giả Sàriputta:
 
@@ -27446,7 +27327,8 @@ chứng nhập Thiền thứ ba", hay "Tôi đã chứng nhập Thiền thứ ba
 -- Như vậy, chắc chắn Hiền giả trong một thời gian… hay "Tôi đã ra khỏi
 Thiền thứ ba".
 
-=== IV. Xả 1-5) Một thời Tôn giả Sàriputta trú ở Sàvatthi…
+=== IV. Xả 1-5)
+Một thời Tôn giả Sàriputta trú ở Sàvatthi…
 #super[6] Tôn giả Ananda thấy Tôn giả Sàriputta từ xa đi đến… với sự an trú nào?
 
 #super[7] -- Ở đây, này Hiền giả, xả lạc và xả khổ, diệt hỷ ưu đã cảm thọ từ
@@ -27457,7 +27339,8 @@ Thiền thứ ba".
 
 #super[8] -- Như vậy, chắc chắn Hiền giả… hay "Tôi đã ra khỏi Thiền thứ tư".
 
-=== V. Không Vô Biên Xứ 1-6) Một thời Tôn giả Sàriputta trú ở Sàvatthi… … Tôn giả Ananda thấy… với sự an trú
+=== V. Không Vô Biên Xứ 1-6)
+Một thời Tôn giả Sàriputta trú ở Sàvatthi… … Tôn giả Ananda thấy… với sự an trú
 nào?
 
 7-8) -- Ở đây, này Hiền giả, vượt lên hoàn toàn sắc tưởng, đoạn diệt hữu
@@ -27467,19 +27350,22 @@ lên ý nghĩ… hay "Tôi đã ra khỏi Không vô biên xứ".
 
 -- Như vậy, chắc chắn Hiền giả… "Tôi đã ra khỏi Không vô biên xứ".
 
-=== VI. Thức Vô Biên Xứ 1-6) Một thời, Tôn giả Sàriputta trú ở Sàvatthi… … Tôn giả Ananda thấy… với sự an trú
+=== VI. Thức Vô Biên Xứ 1-6)
+Một thời, Tôn giả Sàriputta trú ở Sàvatthi… … Tôn giả Ananda thấy… với sự an trú
 nào? 7-8) -- Ở đây, này Hiền giả, vượt qua hoàn toàn Không vô biên xứ,
 với ý
 
 nghĩ: "Thức là vô biên", tôi chứng đạt và an trú Thức vô biên xứ… hay "…
 đã ra khỏi Thức vô biên xứ".
 
-=== VII. Vô Sở Hữu Xứ 1-6) Một thời Tôn giả Sàriputta trú ở Sàvatthi. … Tôn giả Ananda thấy… với sự an trú
+=== VII. Vô Sở Hữu Xứ 1-6)
+Một thời Tôn giả Sàriputta trú ở Sàvatthi. … Tôn giả Ananda thấy… với sự an trú
 nào? 7-8) -- Ở đây, này Hiền giả, vượt qua hoàn toàn Thức vô biên xứ,
 với ý nghĩ: "Không có vật gì", tôi chứng đạt và an trú Vô sở hữu xứ… hay
 "… đã ra khỏi Vô sở hữu xứ".
 
-=== VIII. Phi Tưởng Phi Phi Tưởng Xứ 1-6) Một thời, Tôn giả Sàriputta trú ở Sàvatthi.
+=== VIII. Phi Tưởng Phi Phi Tưởng Xứ 1-6)
+Một thời, Tôn giả Sàriputta trú ở Sàvatthi.
 … Tôn giả Ananda thấy… với sự an trú nào? 7-8) -- Ở đây, này Hiền giả,
 vượt qua hoàn toàn Vô sở hữu xứ, tôi chứng đạt và an trú Phi tưởng phi
 phi tưởng xứ… hay "… đã ra khỏi Phi tưởng phi phi tưởng xứ". IX. Diệt
@@ -27569,13 +27455,15 @@ Thích tử”.
 #divider()
 
 == \[29\] Chương VIII - Tương Ưng Loài Rồng
-=== I. Chủng Loại (Tạp 19, Ðại 2, 646a) (S.iii,240) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Chủng Loại (Tạp 19, Ðại 2, 646a) (S.iii,240) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo có bốn loại Nàga (rồng, rắn) về sanh chủng. Thế nào
   là bốn? Loại Nàga từ trứng sanh, loại Nàga từ thai sanh, loại Nàga từ
   ẩm ướt sanh, loại Nàga hóa sanh. Này các Tỷ-kheo, đây là bốn loại Nàga
   theo sanh chủng.
 
-=== II. Diệu Thắng (S.iii,240) 1-3) Nhân duyên ở Sàvatthi…
+=== II. Diệu Thắng (S.iii,240) 1-3)
+Nhân duyên ở Sàvatthi…
 #super[4] -- Này các Tỷ-kheo, có bốn loại Nàga về sanh chủng. Thế nào là bốn?
   Loại Nàga từ trứng sanh, loại Nàga từ thai sanh, loại Nàga từ ẩm ướt
   sanh, loại Nàga hóa sanh.
@@ -27619,7 +27507,8 @@ sống giữ hạnh Uposatha và từ bỏ thân của chúng?
 #super[7] Do nhân này, do duyên này, này Tỷ- kheo, ở đây một số Nàga do trứng
   sanh, sống giữ hạnh Uposatha và từ bỏ thân của chúng.
 
-=== IV. Uposatha (S.iii,242) 1-2) Nhân duyên ở Sàvatthi… Rồi một Tỷ-kheo…
+=== IV. Uposatha (S.iii,242) 1-2)
+Nhân duyên ở Sàvatthi… Rồi một Tỷ-kheo…
 #super[3] Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, một số Nàga từ thai
@@ -27632,7 +27521,8 @@ sanh sống giữ hạnh Uposatha và từ bỏ thân của chúng?
 
 === V. Uposatha (Như kinh trước chỉ thế vào: Loại Nàga từ ẩm ướt sanh ).
 === VI. Uposatha (Như kinh trước, chỉ thế vào: Loại Nàga hóa sanh ).
-=== VII. Nghe (S.iii,243) 1-2) Nhân duyên ở Sàvatthi…
+=== VII. Nghe (S.iii,243) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, một loại (chúng sanh),
@@ -27659,7 +27549,8 @@ sanh?
 === X. Nghe
 \(Như kinh trước, chỉ thế vào: Loại Nàga từ hóa sanh ).
 
-=== XI. Ủng Hộ Bố Thí (S.iii,244) 1-3)… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
+=== XI. Ủng Hộ Bố Thí (S.iii,244) 1-3)
+… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, một số (chúng sanh),
 sau khi thân hoại mạng chung, được sanh cọng trú với các Nàaga từ trứng
 sanh?
@@ -27692,13 +27583,15 @@ sanh?
 #divider()
 
 == \[30\] Chương IX - Tương Ưng Kim Xí Ðiểu
-=== I. Chủng Loại (S.iii,246) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Chủng Loại (S.iii,246) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có bốn loại Kim xí điểu về sanh chủng. Thế nào là
   bốn? Loại Kim xí điểu từ trứng sanh, loại Kim xí điểu từ thai sanh,
   loại Kim xí điểu từ ẩm ướt sanh, loại Kim xí điểu từ hóa sanh. Này các
   Tỷ-kheo, đây là bốn loại Kim xí điểu.
 
-=== II. Mang Ði (Tăng 19, Ðại 2, 646a) (S.iii,247) 1-2) Nhân duyên ở Sàvatthi…
+=== II. Mang Ði (Tăng 19, Ðại 2, 646a) (S.iii,247) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có bốn loại Kim xí điểu về sanh chủng. Thế nào là
   bốn? Loại Kim xí điểu từ trứng sanh… loại Kim xí điểu hóa sanh. Này
   các Tỷ- kheo, đây là bốn loại Kim xí điểu.
@@ -27752,7 +27645,8 @@ trứng sanh?
 cọng trú với các Kim xí điểu từ trứng sanh.
 
 === IV. Làm Hại Hạnh (S.iii,248) (Như kinh trước, chỉ thế vào các loại Kim xí điểu từ thai sanh, từ ẩm ướt sanh và các loại hóa sanh ).
-=== V. Ủng Hộ Bố Thí (S.iii,248) 1-3) Nhân duyên ở Sàvathi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
+=== V. Ủng Hộ Bố Thí (S.iii,248) 1-3)
+Nhân duyên ở Sàvathi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây một số (chúng sanh), sau
 khi thân hoại mạng chung, được sanh cọng trú với các Kim xí điểu từ
 trứng sanh?
@@ -27786,7 +27680,8 @@ câu trả lời được nói lên theo mỗi trường hợp).
 #divider()
 
 == \[31\] Chương X - Tương Ưng Càn Thát Bà
-=== I. Chủng Loại (S.iii,249) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Chủng Loại (S.iii,249) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về chư Thiên thuộc loại
   Gandhabba (Càn-thát-bà). Hãy lắng nghe.
 
@@ -27804,7 +27699,8 @@ Tỷ-kheo, trú hương vị. Có chư Thiên, này các Tỷ-kheo, trú hương
 #super[5] Những loại này, này các Tỷ-kheo được gọi là chư Thiên thuộc loại Càn-
   thát-bà.
 
-=== II. Thiện Hành (S.iii,250) 1-3) Nhân duyên ở Sàvatthi…
+=== II. Thiện Hành (S.iii,250) 1-3)
+Nhân duyên ở Sàvatthi…
 #super[4] Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, một loại (chúng sanh),
@@ -27826,7 +27722,8 @@ cọng trú với chư Thiên thuộc loại Gandhabba.
   sanh), sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên
   thuộc loại Gandhabba.
 
-=== III. Kẻ Bố Thí (1) (S.iii,251) 1-4) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
+=== III. Kẻ Bố Thí (1) (S.iii,251) 1-4)
+Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây có loại chúng sanh, sau
 khi
 
@@ -27851,13 +27748,15 @@ thân hoại mạng chung, được sanh cọng trú với chư Thiên trú hư�
 cụ, nhà cửa, đèn dầu, để sanh cộng trú với chư Thiên sống trên hương từ
 gốc rễ”).
 
-=== XIV - XXIII. Ủng Hộ Bằng Bố Thí (2-10) (Như kinh trên, chỉ thế vào "chư Thiên trú trên các loại hương khác"… cho đến
+=== XIV - XXIII. Ủng Hộ Bằng Bố Thí (2-10)
+(Như kinh trên, chỉ thế vào "chư Thiên trú trên các loại hương khác"… cho đến
 "chư Thiên sống trên hương từ hương").
 
 #divider()
 
 == \[32\] Chương XI - Tương Ưng Thần Mây
-=== I. Chủng Loại (S.iii,254) 1-2) Trú ở Sàvatthi…
+=== I. Chủng Loại (S.iii,254) 1-2)
+Trú ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, Ta sẽ thuyết cho các Ông về chư Thiên thuộc loại
   thần mây. Hãy lắng nghe.
 
@@ -27871,7 +27770,8 @@ này các Tỷ-kheo, thuộc loại mây mưa.
 #super[5] Như vậy, này các Tỷ-kheo, họ được gọi là chư Thiên thuộc loại thần
   mây.
 
-=== II. Thiện Hành (S.iii,254) 1-3) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
+=== II. Thiện Hành (S.iii,254) 1-3)
+Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, có loại (chúng sanh),
 sau
 
@@ -27892,7 +27792,8 @@ thần mây?
   sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên thuộc
   loại thần mây.
 
-=== III. Ủng Hộ Bố Thí (S.iii,254) 1-3) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, vị Tỷ-kheo ấy bạch Thế Tôn:
+=== III. Ủng Hộ Bố Thí (S.iii,254) 1-3)
+Nhân duyên ở Sàvatthi… Ngồi xuống một bên, vị Tỷ-kheo ấy bạch Thế Tôn:
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, ở đây, có loại (chúng sanh),
 sau khi thân hoại mạng chung, được sanh cọng trú với chư Thiên thuộc
 loại thần mây lạnh?
@@ -27915,7 +27816,8 @@ cọng trú chư Thiên thuộc loại thần mây lạnh. IV-VII. Ủng Hộ B�
 (S.iii,256) (Như kinh trên, chỉ khác là "chư Thiên thuộc loại thần mây
 khác như thần mây nóng" … "thần mây mưa").
 
-=== VIII. Lạnh 1-3) Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
+=== VIII. Lạnh 1-3)
+Nhân duyên ở Sàvatthi… Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn:
 -- Do nhân gì, do duyên gì, bạch Thế Tôn, có khi trời lạnh?
 
 #super[4] -- Này Tỷ-kheo, có chư Thiên được gọi là thần mây lạnh. Khi chư Thiên
@@ -27926,7 +27828,8 @@ của họ, trời lạnh.
 
 #super[5] Do nhân này, do duyên này, này Tỷ- kheo, có khi trời lạnh.
 
-=== IX. Trời Nóng (S.iii,256) (Như kinh trên, chỉ khác …. “ở đây là trời nóng và thuộc chư Thiên thuộc loại
+=== IX. Trời Nóng (S.iii,256)
+(Như kinh trên, chỉ khác …. “ở đây là trời nóng và thuộc chư Thiên thuộc loại
 mây nóng”).
 
 === X. Trời Sấm (Như kinh trên, chỉ khác … "ở đây là trời sấm và thuộc chư Thiên loại mây sấm").
@@ -27939,7 +27842,8 @@ gió").
 #divider()
 
 == \[33\] Chương XII - Tương Ưng Vacchagota
-=== I. Vô Tri (1) (S.iii,257) 1-2) Nhân duyên ở Sàvatthi… Rồi du sĩ ngoại đạo Vacchagota đi đến Thế Tôn; sau khi đến, nói lên những lời
+=== I. Vô Tri (1) (S.iii,257) 1-2)
+Nhân duyên ở Sàvatthi… Rồi du sĩ ngoại đạo Vacchagota đi đến Thế Tôn; sau khi đến, nói lên những lời
 chào đón hỏi thăm; sau khi nói lên những lời chào đón hỏi thăm thân hữu,
 liền ngồi xuống một bên.
 
@@ -27985,7 +27889,8 @@ tri đối với thức").
 #divider()
 
 == \[34\] Chương XIII - Tương Ưng Thiền
-=== I. Thiền Ðịnh Thiền Chứng (Tạp 31, Ðại 2,222c) (S,iii,263) 1-2) Nhân duyên ở Sàvatthi…
+=== I. Thiền Ðịnh Thiền Chứng (Tạp 31, Ðại 2,222c) (S,iii,263) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Này các Tỷ-kheo, có bốn hạng người tu Thiền này. Thế nào là bốn?
 
 #super[4] Ở đây, này các Tỷ-kheo, có vị tu Thiền, thiện xảo về Thiền định trong
@@ -28015,7 +27920,8 @@ tối thắng, là vị thượng thủ, tối thượng, tối diệu.
   trong Thiền định. Trong bốn vị tu Thiền ấy, vị này là vị tối tôn, tối
   thắng, là vị thượng thủ, tối thượng, tối diệu.
 
-=== II. Chỉ Trú (S.iii,264) 1-3) Nhân duyên ở Sàvatthi…
+=== II. Chỉ Trú (S.iii,264) 1-3)
+Nhân duyên ở Sàvatthi…
 -- Ở đây, này các Tỷ-kheo, có bốn vị tu Thiền này. Thế nào là bốn?
 
 #super[4] Ở đây, này các Tỷ-kheo, có vị tu Thiền, thiện xảo về Thiền định trong
@@ -28055,7 +27961,8 @@ tối diệu.
 === VIII. Thận Trọng (Sakkaccakàrii) (Như kinh trên, chỉ đổi "thiện xảo về thận trọng").
 === IX. Kiên Trì (Sàtacca) (Như kinh trên, chỉ đổi "thiện xảo về kiên trì").
 === X. Thích ứng (Sappàyam) (Như kinh trên, chỉ đổi "thiện xảo về thích ứng").
-=== XI. Chỉ Trú Trong Thiền Chứng (S.iii,269) 1-2) Nhân duyên ở Sàvatthi…
+=== XI. Chỉ Trú Trong Thiền Chứng (S.iii,269) 1-2)
+Nhân duyên ở Sàvatthi…
 #super[3] -- Có bốn hạng tu Thiền này, này các Tỷ-kheo. Thế nào là bốn?
 
 #super[4] Ở đây, này các Tỷ-kheo, có người tu Thiền, thiện xảo về Thiền chứng
@@ -28090,7 +27997,8 @@ trú”).
 === XVII. Thận Trọng Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về thận trọng").
 === XVIII. Kiên Trì Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về kiên trì").
 === XIX. Thích ứng Trong Thiền Chứng (Như kinh trên, chỉ thế vào "thiện xảo về thích ứng").
-=== XX. Chỉ Trú - Xuất Khởi ( S.iii,272) 1-3) Nhân duyên ở Sàvatthi…
+=== XX. Chỉ Trú - Xuất Khởi ( S.iii,272) 1-3)
+Nhân duyên ở Sàvatthi…
 -- Có bốn hạng tu Thiền này, này các Tỷ-kheo. Thế nào là bốn?
 
 #super[4] Ở đây, này các Tỷ-kheo, có người tu Thiền, thiện xảo về chỉ trú trong
@@ -28113,7 +28021,8 @@ thắng, là bậc thượng thủ, bậc tối thượng, tối diệu.
 === XXI - XXVII. Thuần Thục Cho Ðến Thích ứng (Như kinh trên, chỉ thế vào “thuần thục, sở duyên, hành cảnh, sở nguyện,
 thận trọng, kiên trì, thích ứng trong chỉ trú”).
 
-=== XXVIII. Xuất Khởi - Thuần Thục (S.iii,272) 1-3) Nhân duyên ở Sàvatthi…
+=== XXVIII. Xuất Khởi - Thuần Thục (S.iii,272) 1-3)
+Nhân duyên ở Sàvatthi…
 -- Có bốn hạng người tu Thiền này, này các Tỷ-kheo. Thế nào là bốn?
 
 #super[4] Ở đây, này các Tỷ-kheo, có người tu Thiền, thiện xảo về xuất khởi
@@ -28137,7 +28046,8 @@ Thiền định, nhưng không thiện xảo về thuần thục trong Thiền �
 thượng thủ, tối thượng và tối diệu.
 
 === XXIX - XXXIV. Sở Duyên - Thích ứng (Như kinh trên, chỉ thế vào "sở duyên" … cho đến "thích ứng").
-=== XXXV. Thuần Thục - Sở Duyên 1-4) Nhân duyên ở Sàvatthi…
+=== XXXV. Thuần Thục - Sở Duyên 1-4)
+Nhân duyên ở Sàvatthi…
 -- Có bốn hạng người tu Thiền này, này các Tỷ-kheo. Thế nào là bốn? Ở
 đây, này các Tỷ-kheo, có người tu Thiền, thiện xảo về thuần thục trong
 Thiền định, nhưng không thiện xảo về sở duyên trong Thiền định.
@@ -28158,12 +28068,14 @@ Thiền định, nhưng không thiện xảo về sở duyên trong Thiền đ�
 
 thắng, là bậc thượng thủ, là vị tối thượng, tối diệu.
 
-=== XXXVI - XL. Thuần Thục (S.iii,275) (Vị ấy thiện xảo về thuần thục trong Thiền định, nhưng (a) không thiện xảo
+=== XXXVI - XL. Thuần Thục (S.iii,275)
+(Vị ấy thiện xảo về thuần thục trong Thiền định, nhưng (a) không thiện xảo
 về hành cảnh… (b) không thiện xảo về sở nguyện, (c) không thiện xảo về
 thận trọng, (d) không thiện xảo về kiên trì, (e) không thiện xảo về
 thích ứng).
 
-=== XLI. Sở Duyên - Hành Cảnh 1-7) Nhân duyên ở Sàvatthi… … thiện xảo về sở duyên trong Thiền định, nhưng không thiện xảo về hành
+=== XLI. Sở Duyên - Hành Cảnh 1-7)
+Nhân duyên ở Sàvatthi… … thiện xảo về sở duyên trong Thiền định, nhưng không thiện xảo về hành
 cảnh trong Thiền định.
 
 … thiện xảo về hành cảnh trong Thiền định, nhưng không thiện xảo về sở
@@ -28171,7 +28083,8 @@ duyên trong Thiền định. … không thiện xảo về sở duyên trong Th
 cũng không thiện xảo về hành cảnh trong Thiền định. … thiện xảo về sở
 duyên trong Thiền định, cũng thiện xảo về hành cảnh trong Thiền định.
 
-=== XL.II-XL.V. Sở Duyên … vị ấy thiện xảo về sở duyên trong Thiền định, nhưng (a) không thiện xảo về sở nguyện, (b) không thiện xảo về
+=== XL.II-XL.V. Sở Duyên
+… vị ấy thiện xảo về sở duyên trong Thiền định, nhưng (a) không thiện xảo về sở nguyện, (b) không thiện xảo về
 thận trọng, (c) không thiện xảo về kiên trì, (d) không thiện xảo về
 thích ứng.
 
@@ -28188,7 +28101,8 @@ trọng trong Thiền định, (b) không thiện xảo về kiên trì trong Th
 
 không thiện xảo về thích ứng trong Thiền định.
 
-=== L. Sỏ Nguyện - Thận Trọng 1-7) Nhân duyên ở Sàvatthi… … thiện xảo về sở nguyện trong Thiền định, nhưng không thiện xảo về thận
+=== L. Sỏ Nguyện - Thận Trọng 1-7)
+Nhân duyên ở Sàvatthi… … thiện xảo về sở nguyện trong Thiền định, nhưng không thiện xảo về thận
 trọng trong Thiền định. … thiện xảo về thận trọng trong Thiền định,
 nhưng không thiện xảo về sở nguyện trong Thiền định. … không thiện xảo
 về sở nguyện trong Thiền định, và cũng không thiện xảo về thận trọng
@@ -28199,7 +28113,8 @@ LI-LII. Sở Nguyện Và Kiên Trì … thiện xảo về sở nguyện trong 
 nhưng (a) không thiện xảo về kiên trì, và (b) không thiện xảo về thích
 ứng.
 
-=== LIII. Thận Trọng Và Kiên Trì … thiện xảo về thận trọng trong Thiền định, nhưng không thiện xảo về kiên trì
+=== LIII. Thận Trọng Và Kiên Trì
+… thiện xảo về thận trọng trong Thiền định, nhưng không thiện xảo về kiên trì
 trong Thiền định.. \.. thiện xảo về kiên trì trong Thiền định, nhưng
 không thiện xảo về thận trọng trong Thiền định. … không thiện xảo về
 thận trọng trong Thiền định, và cũng thiện xảo về kiên trì trong Thiền
@@ -28208,7 +28123,8 @@ thận trọng trong Thiền định, và cũng thiện xảo về kiên trì tr
 … thiện xảo về thận trọng trong Thiền định và cũng thiện xảo về kiên trì
 trong Thiền định.
 
-=== LIV. Kiên Trì Và Thích ứng (S.iii,277) 1-3) Nhân duyên ở Sàvatthi…
+=== LIV. Kiên Trì Và Thích ứng (S.iii,277) 1-3)
+Nhân duyên ở Sàvatthi…
 -- Này các Tỷ-kheo, có bốn hạng người tu Thiền này. Thế nào là bốn?
 
 #super[4] Ở đây, này các Tỷ-kheo, có người tu Thiền, thiện xảo về kiên trì trong
@@ -33317,7 +33233,8 @@ I. Do Dục Niệm (18 kinh) (1) (S.iv,148) 1-2) …
   khác, Thế Tôn nói với các Tỷ-kheo).
 
 === II. Do Dục Niệm (2) (Như kinh trên, chỉ thế tham (ràga) cho dục niệm).
-=== III. Do Dục Niệm (3) (Như kinh trên, chỉ thế dục và tham cho dục niệm)…
+=== III. Do Dục Niệm (3) (Như kinh trên, chỉ thế dục và tham cho dục niệm)
+…
 IV-VI. Do Dục Niệm (4), (5), (6). (S.iv,149) 1-2) …
 
 #super[3] -- Cái gì khổ, này các Tỷ-kheo, ở đấy các Ông cần phải đoạn trừ lòng
@@ -33408,12 +33325,14 @@ XIX. Thuộc Quá Khứ (1)(9 kinh) (S.iv,151) 1-2) … 3-9) -- Mắt, này các
   tận, Phạm hạnh đã thành, những việc nên làm đã làm, không còn trở lui
   trạng thái này nữa".
 
-=== XX. Thuộc Quá Khứ (2) 1-2) … 3-8) -- Mắt, này các Tỷ-kheo, là vô thường, thuộc vị lai… Tai… Mũi…
+=== XX. Thuộc Quá Khứ (2) 1-2)
+… 3-8) -- Mắt, này các Tỷ-kheo, là vô thường, thuộc vị lai… Tai… Mũi…
 Lưỡi… Thân… Ý là vô thường, thuộc vị lai.
 
 #super[9] Thấy vậy… "… không còn trở lui trạng thái này nữa".
 
-=== XXI. Thuộc Quá Khứ (3) 1-2) … 3-8) Mắt, này các Tỷ-kheo, là vô thường, thuộc hiện tại. Tai… Mũi… Lưỡi… Thân… Ý là vô thường, thuộc
+=== XXI. Thuộc Quá Khứ (3) 1-2)
+… 3-8) Mắt, này các Tỷ-kheo, là vô thường, thuộc hiện tại. Tai… Mũi… Lưỡi… Thân… Ý là vô thường, thuộc
 hiện tại…
 
 #super[9] Thấy vậy… "… không còn trở lui trạng thái này nữa".
@@ -33556,10 +33475,12 @@ vô thường.
 
 #super[9] Thấy vậy… "… không còn trở lui trạng thái này nữa".
 
-=== LVI. Nội (2) 1-2) … 3-8) -- Mắt, này các Tỷ-kheo, là khổ. Tai… Mũi… Lưỡi… Thân… Ý là khổ…
+=== LVI. Nội (2) 1-2)
+… 3-8) -- Mắt, này các Tỷ-kheo, là khổ. Tai… Mũi… Lưỡi… Thân… Ý là khổ…
 #super[9] Thấy vậy… "… không còn trở lui trạng thái này nữa".
 
-=== LVII. Nội (3) 1-2) …
+=== LVII. Nội (3) 1-2)
+…
 3-8) Mắt, này các Tỷ-kheo, là vô ngã… Tai… Mũi… Lưỡi… Thân… Ý là vô ngã.
 
 #super[9] Thấy vậy… "… không còn trở lui trạng thái này nữa".
@@ -33570,11 +33491,13 @@ LVIII. Ngoại (3 kinh) (1) (S.iv,156) 1-2) … 3-8) -- Các sắc, này các
 
 #super[9] Thấy vậy… "… không còn trở lui trạng thái này nữa".
 
-=== LIX. Ngoại (2) 1-2) …
+=== LIX. Ngoại (2) 1-2)
+…
 3-8) -- Các sắc, này các Tỷ-kheo, là khổ. Các tiếng… Các hương… Các vị…
 Các xúc… Các pháp là khổ…
 
-=== LX. Ngoại (3) 1-2) … 3-8) -- Các sắc, này các Tỷ-kheo, là vô ngã. Các tiếng… Các hương… Các vị… Các xúc… Các pháp là vô ngã…
+=== LX. Ngoại (3) 1-2)
+… 3-8) -- Các sắc, này các Tỷ-kheo, là vô ngã. Các tiếng… Các hương… Các vị… Các xúc… Các pháp là vô ngã…
 #super[9] Thấy vậy… "… không còn trở lui trạng thái này nữa".
 
 #divider()
@@ -36681,7 +36604,8 @@ giả, đây là con đường, đây là đạo lộ đưa đến chứng đắ
 #super[6] -- Này Hiền giả, hiền thiện là con đường, hiền thiện là đạo lộ đưa đến
   chứng đắc Niết-bàn. Thật là vừa đủ, này Hiền giả, để không phóng dật.
 
-=== II. A-La-Hán (S.iv,251) 1-2) …
+=== II. A-La-Hán (S.iv,251) 1-2)
+…
 #super[3] -- "A-la-hán, A-la-hán", này Hiền giả Sàriputta, được gọi là như vậy.
   Này Hiền giả, thế nào là A-la-hán?
 
@@ -36704,7 +36628,8 @@ chứng đắc A-la-hán ấy.
 #super[6] -- Này Hiền giả, hiền thiện là con đường, hiền thiện là đạo lộ đưa đến
   chứng đắc A-la-hán. Thật là vừa đủ, này Hiền giả, để không phóng dật.
 
-=== III. Vị Thuyết Pháp (S.iv,252) 1-2) …
+=== III. Vị Thuyết Pháp (S.iv,252) 1-2)
+…
 #super[3] -- Thưa Hiền giả, những ai là những vị thuyết thuận pháp ở đời? Những
   ai là những vị khéo thực hành ở đời? Những ai là những vị khéo đến ở
   đời?
@@ -36769,7 +36694,8 @@ tri khổ ấy.
 #super[5] -- Này Hiền giả, hiền thiện là con đường, hiền thiện là đạo lộ đưa đến
   liễu tri khổ ấy. Thật là vừa đủ, này Hiền giả, để không phóng dật.
 
-=== V. Ðiều Hòa Hơi Thở (Assàsa) (S.iv,254) 1-2) …
+=== V. Ðiều Hòa Hơi Thở (Assàsa) (S.iv,254) 1-2)
+…
 #super[3] -- "Ðạt đến điều hòa hơi thở, đạt đến điều hòa hơi thở", này Hiền giả
   Sàriputta, được nói đến như vậy. Cho đến như thế nào, này Hiền giả, là
   đạt đến điều hòa hơi thở?
@@ -36793,7 +36719,8 @@ chứng đắc điều hòa hơi thở ấy.
 
 #super[6] -- Này Hiền giả, hiền thiện là con đường…
 
-=== VI. Ðiều Hòa Hơi Thở Tối Thượng (S.iv,254) 1-2) …
+=== VI. Ðiều Hòa Hơi Thở Tối Thượng (S.iv,254) 1-2)
+…
 #super[3] -- "Ðạt đến điều hòa hơi thở tối thượng, đạt đến điều hòa hơi thở tối
   thượng", này Hiền giả Sàriputta, được
 
@@ -36813,7 +36740,8 @@ thở tối thượng ấy.
 
 #super[5] -- Này Hiền giả, con đường ấy là gì… (như kinh trên, số 5 và 6).
 
-=== VII. Thọ (S.iv,255) 1-2) …
+=== VII. Thọ (S.iv,255) 1-2)
+…
 #super[3] -- "Thọ, thọ", này Hiền giả Sàriputta, được nói đến như vậy. Này Hiền
   giả, thế nào là thọ?
 
@@ -36829,7 +36757,8 @@ Hiền giả, đây là những thọ này.
   những thọ ấy?. \.. (như kinh trên, số 5 và số 6, với những thay đổi
   cần thiết).
 
-=== VIII. Lậu Hoặc (S.iv,256) 1-2) …
+=== VIII. Lậu Hoặc (S.iv,256) 1-2)
+…
 #super[3] -- "Lậu hoặc, lậu hoặc", này Hiền giả Sàriputta, được nói đến như vậy.
   Này Hiền giả, thế nào là lậu hoặc?
 
@@ -36844,7 +36773,8 @@ Hiền giả, đây là ba lậu hoặc này.
 
 #super[5] \(Như kinh trên, số 5 và 6, với những thay đổi cần thiết).
 
-=== IX. Vô Minh. (S.iv,256) 1-2) …
+=== IX. Vô Minh. (S.iv,256) 1-2)
+…
 #super[3] -- "Vô minh, vô minh", này Hiền giả Sàriputta, được nói đến như vậy.
   Này Hiền giả, thế nào là vô minh?
 
@@ -36858,7 +36788,8 @@ tập khởi, không biết rõ đối với khổ đoạn diệt, không biết
 -- Này Hiền giả, có con đường, có đạo lộ đưa đến đoạn tận vô minh ấy?
 5-6) (Như kinh trên, số 5 và số 6, với những thay đổi cần thiết).
 
-=== X. Khát Ái (S.iv,257) 1-2) …
+=== X. Khát Ái (S.iv,257) 1-2)
+…
 #super[3] "Khát ái, khát ái", này Hiền giả Sàriputta, được nói đến như vậy. Này
   Hiền giả, thế nào là khát ái?
 
@@ -36871,7 +36802,8 @@ tập khởi, không biết rõ đối với khổ đoạn diệt, không biết
 -- Này Hiền giả, có con đường, có đạo lộ đưa đến đoạn tận các khát ái
 ấy. 5-6) (Như kinh trước, số 5 và 6, với những thay đổi cần thiết).
 
-=== XI. Bộc Lưu (Ogha) (S.iv,257) 1-2) …
+=== XI. Bộc Lưu (Ogha) (S.iv,257) 1-2)
+…
 #super[3] "Bộc lưu, bộc lưu", này Hiền giả Sàriputta, được nói đến như vậy. Này
   Hiền giả, thế nào là bộc lưu?
 
@@ -36884,7 +36816,8 @@ lưu, vô minh bộc lưu. Này Hiền giả, có bốn bộc lưu này.
 -- Này Hiền giả, có con đường, có đạo lộ đưa đến đoạn tận các bộc lưu
 ấy. 5-6) (Như kinh trước, số 5 và số 6, với những thay đổi cần thiết)
 
-=== XII. Chấp Thủ (Upàdànam) (S.iv,258) 1-2) …
+=== XII. Chấp Thủ (Upàdànam) (S.iv,258) 1-2)
+…
 #super[3] -- "Thủ,thủ", này Hiền giả Sàriputta, được gọi là như vậy. Này Hiền
   giả, thế nào là thủ?
 
@@ -36897,7 +36830,8 @@ luận thủ. Này Hiền giả, đây là bốn thủ này.
 -- Này Hiền giả, có con đường, có đạo lộ đưa đến đoạn tận bốn thủ ấy.
 5-6) (Như kinh trên, số 5 và số 6, với những thay đổi cần thiết).
 
-=== XIII. Hữu (S.iv,258) 1-2) …
+=== XIII. Hữu (S.iv,258) 1-2)
+…
 #super[3] -- "Hữu, hữu", này Hiền giả Sàriputta, như vậy được nói đến. Này Hiền
   giả, thế nào là hữu?
 
@@ -36910,7 +36844,8 @@ giả, đây là các hữu này.
 -- Này Hiền giả, có con đường, có đạo lộ đưa đến đoạn tận các hữu ấy.
 5-6) (Như kinh trước, số 5 và số 6, với những thay đổi cần thiết).
 
-=== XIV. Khổ (S.iv,259) 1-2) …
+=== XIV. Khổ (S.iv,259) 1-2)
+…
 #super[3] -- "Khổ, khổ", này Hiền giả Sàriputta, được nói đến như vậy. Này Hiền
   giả, thế nào là khổ?
 
@@ -36923,7 +36858,8 @@ khổ tánh. Này Hiền giả, đây là ba khổ tánh này.
 -- Này Hiền giả, có con đường có đạo lộ đưa đến đoạn tận các khổ tánh
 ấy. 5-6) (như kinh trước, số 5 và số 6, với những thay đổi cần thiết).
 
-=== XV. Có Thân (Sakkàya) (S.iv,259) 1-2) …
+=== XV. Có Thân (Sakkàya) (S.iv,259) 1-2)
+…
 #super[3] -- "Có thân, có thân", này Hiền giả Sàriputta, được nói đến như vậy.
   Này Hiền giả, thế nào là có thân?
 
@@ -36939,7 +36875,8 @@ thủ uẩn này được Thế Tôn gọi là có thân.
 -- Này Hiền giả, có con đường, có đạo lộ đưa đến liễu tri có thân ấy.
 5-6) (như kinh trước, số 5 và số 6, với những thay đổi cần thiết).
 
-=== XVI. Khó Làm (S.iv,260) 1-2) …
+=== XVI. Khó Làm (S.iv,260) 1-2)
+…
 #super[3] -- Này Hiền giả Sàriputta, trong Pháp luật này, cái gì là khó làm?
 
 -- Xuất gia, này Hiền giả, là điều khó làm trong Pháp luật này.
@@ -37024,7 +36961,8 @@ Thiền thứ nhất.
   "Mahà Moggahàna là người đệ tử được bậc Ðạo Sư hỗ trợ, chứng được đại
   thắng trí".
 
-=== II. Không Tầm (S.iv,263) 1-2). \..
+=== II. Không Tầm (S.iv,263) 1-2).
+\..
 #super[3] -- "Thiền thứ hai, Thiền thứ hai", được nói đến như vậy. Thế nào là
   Thiền thứ hai?
 
@@ -37050,7 +36988,8 @@ môn, hãy đặt tâm vào Thiền thứ hai! Hãy nhứt tâm vào Thiền th�
 
 #super[8] \(Như đoạn 8 của kinh trên).
 
-=== III. Với Lạc (S.iv,264) 1-2). \..
+=== III. Với Lạc (S.iv,264) 1-2).
+\..
 #super[3] -- "Thiền thứ ba, Thiền thứ ba", như vậy được nói đến. Như thế nào là
   Thiền thứ ba?
 
@@ -37076,7 +37015,8 @@ ba! Hãy nhứt tâm vào Thiền thứ ba! Hãy định tâm vào Thiền thứ
 
 #super[8] \(Như đoạn 8 của kinh trước)
 
-=== IV. Xả (S.iv,265) 1-2). \..
+=== IV. Xả (S.iv,265) 1-2).
+\..
 #super[3] -- "Thiền thứ tư, Thiền thứ tư", như vậy được nói đến. Như thế nào là
   Thiền thứ tư?
 
@@ -37102,7 +37042,8 @@ Thiền thứ tư.
 
 #super[8] \(Như đoạn 8 của kinh trên).
 
-=== V. Hư Không (S.iv,266) 1-2). \..
+=== V. Hư Không (S.iv,266) 1-2).
+\..
 #super[3] -- "Không vô biên xứ, Không vô biên xứ", như vậy được nói đến. Thế nào
   là Không vô biên xứ?
 
@@ -37129,7 +37070,8 @@ biên xứ! Hãy định tâm vào Không vô biên xứ!”
 
 #super[8] \(Như đoạn 8 của kinh trên).
 
-=== VI. Thức (S.iv,266) 1-2). \..
+=== VI. Thức (S.iv,266) 1-2).
+\..
 #super[3] -- "Thức vô biên xứ, Thức vô biên xứ", như vậy được nói đến. Thế nào
   là Thức vô biên xứ?
 
@@ -37154,7 +37096,8 @@ biên xứ! Hãy định tâm vào Thức vô biên xứ!”
 
 #super[8] \(Như đoạn 8 của kinh trên).
 
-=== VII. Vô Sở Hữu Xứ (S.iv,267) 1-2). \..
+=== VII. Vô Sở Hữu Xứ (S.iv,267) 1-2).
+\..
 #super[3] -- "Vô sở hữu xứ, Vô sở hữu xứ", như vậy được nói đến. Thế nào là Vô
   sở hữu xứ?
 
@@ -37181,7 +37124,8 @@ không có sự vật gì, chứng và trú Vô sở hữu xứ.
 
 #super[8] \(Như đoạn 8 của kinh trên).
 
-=== VIII. Phi Tưởng (S.iv,268) 1-2). \..
+=== VIII. Phi Tưởng (S.iv,268) 1-2).
+\..
 #super[3] -- "Phi tưởng phi phi tưởng xứ, Phi tưởng phi phi tưởng xứ", như vậy
   được nói đến. Thế nào là Phi tưởng phi phi tưởng xứ?
 
@@ -37205,7 +37149,8 @@ này, các tưởng câu hữu với Vô sở hữu xứ được tác ý và hi
 
 #super[8] \(Như số 8 của kinh trước).
 
-=== IX. Vô Tướng (S.iv,268) 1-2). \..
+=== IX. Vô Tướng (S.iv,268) 1-2).
+\..
 #super[3] -- "Vô tướng tâm định, Vô tướng tâm định" (animitto cete samàdhi), như
   vậy được nói đến. Thế nào là Vô tướng tâm định?
 
@@ -37394,7 +37339,8 @@ lòng tin bất động đối với chúng Tăng… là đầy đủ các giớ
 với 700 chư Thiên… 57-60) Rồi Thiên chủ Sakka với 800 chư Thiên… 61-63)
 Rồi Thiên chủ Sakka với 8000 chư Thiên… thiên xúc.
 
-=== XI. Candana (S.iv,280) 1-63) Rồi Thiên tử Candana… 1-63) Rồi Thiên tử Suyàma… 1-63) Rồi Thiên tử Santusita…
+=== XI. Candana (S.iv,280) 1-63)
+Rồi Thiên tử Candana… 1-63) Rồi Thiên tử Suyàma… 1-63) Rồi Thiên tử Santusita…
 1-63) Rồi Thiên chủ Sunimmita… 1-63) Rồi Thiên tử Vasavatti…
 
 #divider()
@@ -38048,7 +37994,8 @@ không có tham; trống không, không có sân; trống không, không có si.
 #super[14] Ðây là pháp môn, bạch Thượng tọa, do pháp môn ấy, các pháp này là đồng
   nghĩa chỉ khác ngôn từ.
 
-=== VIII. Nigantha (Ni-kiền-tử) (S.iv,297) 1-2) Lúc bấy giờ, Nigantha Nàtaputta đã đi đến Macchikàsanda với một đại
+=== VIII. Nigantha (Ni-kiền-tử) (S.iv,297) 1-2)
+Lúc bấy giờ, Nigantha Nàtaputta đã đi đến Macchikàsanda với một đại
 chúng Nigantha.
 
 #super[3] Gia chủ Citta được nghe Nigantha Nàtaputta đã đi đến Macchikàsanda với
@@ -38209,7 +38156,8 @@ trạng thái này nữa".
 
 #super[12] Và Tôn giả Kassapa trở thành một vị A-la-hán nữa.
 
-=== X. Thăm Người Bệnh (S.iv,302) 1-2) Lúc bấy giờ, gia chủ Citta bị bệnh, khổ đau, bị trọng bệnh.
+=== X. Thăm Người Bệnh (S.iv,302) 1-2)
+Lúc bấy giờ, gia chủ Citta bị bệnh, khổ đau, bị trọng bệnh.
 #super[3] Rồi số đông chư Thiên ở hoa viên, chư Thiên ở rừng, chư Thiên ở cây,
   chư Thiên ở rừng các dược thảo, các cây trong rừng tụ hội lại và nói
   với gia chủ Citta:
@@ -40079,12 +40027,14 @@ vi.
 #super[3] Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi, chỉ và quán,
   này các Tỷ-kheo, đây là con đường đưa đến vô vi… (như trên)…
 
-=== III. Tầm (S.iv,360) 1-2) …
+=== III. Tầm (S.iv,360) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Có định có
 tầm, có tứ; có định không tầm, có tứ; có định không tầm, không tứ. Này
 các Tỷ-kheo, đây gọi là con đường đưa đến vô vi.
 
-=== IV. Không 1-2) …
+=== IV. Không 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Không định,
   Vô tướng định, Vô nguyện định. Này các Tỷ-kheo, đây là con đường đưa
   đến vô vi. V. Niệm Xứ. 1-2) …
@@ -40110,7 +40060,8 @@ Căn. 1-2) …
 #super[5] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Bảy giác
   chi, này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
-=== XI. Với Con Ðường (S.iv,361) 1-2) …
+=== XI. Với Con Ðường (S.iv,361) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Con đường
   Thánh đạo Tám ngành, này các Tỷ- kheo, đây là con đường đưa đến vô vi.
 
@@ -40170,20 +40121,24 @@ vi.
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh có tầm
   có tứ, này các Tỷ-kheo, đây là con đường đưa đến vô vi… (như trên)…
 
-=== IV. Sáu Ðịnh (2) 1-2) …
+=== IV. Sáu Ðịnh (2) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không
 tầm, chỉ có tứ \; này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
-=== V. Sáu Ðịnh (3) 1-2) …
+=== V. Sáu Ðịnh (3) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh không
 
 tầm không tứ; này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
-=== VI. Sáu Ðịnh (4) 1-2) …
+=== VI. Sáu Ðịnh (4) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Không định,
   này các Tỷ-kheo, đây là con đường đưa đến vô vi…
 
-=== VII. Sáu Ðịnh (5) 1-2) …
+=== VII. Sáu Ðịnh (5) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh Vô
   tướng, này các Tỷ-kheo, đây là con đường đưa đến vô vi…
 
@@ -40193,18 +40148,21 @@ tầm không tứ; này các Tỷ-kheo, đây là con đường đưa đến vô
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ðịnh Vô
 nguyện, này các Tỷ-kheo, đây là con đường đưa đến vô vi.
 
-=== IX. Bốn Niệm Xứ (1) (S.iv,363) 1-2) …
+=== IX. Bốn Niệm Xứ (1) (S.iv,363) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế nào là con đường đưa đến vô vi? Ở đây, này
 các Tỷ-kheo, Tỷ-kheo sống tùy quán thân trên thân, nhiệt tâm, tỉnh giác,
 chánh niệm, nhiếp phục tham ưu ở đời. Này các Tỷ-kheo, đây gọi là con
 đường đưa đến vô vi…
 
-=== X - XII. Bốn Niệm Xứ (2-4) 1-2) …
+=== X - XII. Bốn Niệm Xứ (2-4) 1-2)
+…
 #super[3] … Ở đây, này các Tỷ-kheo, Tỷ-kheo sống tùy quán thọ trên thọ… tùy quán
 tâm trên tâm… tùy quán pháp trên pháp. Này các Tỷ-kheo, đây là con đường
 đưa đến vô vi…
 
-=== XIII. Bốn Chánh Cần (1) 1-2) …
+=== XIII. Bốn Chánh Cần (1) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo, thế này là con đường đưa đến vô vi? Ở đây, này
 các Tỷ-kheo, Tỷ-kheo phát sanh lòng ước muốn rằng các ác bất thiện pháp
 chưa sanh không cho sanh khởi, tinh cần, tinh tấn, kiên tâm, trì chí.
@@ -40222,7 +40180,8 @@ lòng ước muốn rằng các thiện pháp đã sanh được an trú, không
 tinh tấn, kiên tâm, trì chí. Này các Tỷ-kheo, đây là con đường đưa đến
 vô vi.
 
-=== XVII. Bốn Như Ý Túc (1) (S.iv,365) 1-2) …
+=== XVII. Bốn Như Ý Túc (1) (S.iv,365) 1-2)
+…
 #super[3] -- Và này các Tỷ-kheo thế nào là con đường đưa đến vô vi? Ở đây, này
 các Tỷ-kheo, Tỷ-kheo tu tập như ý túc, câu hữu với dục Thiền định, tinh
 cần hành. Này các Tỷ-kheo, đây gọi là con đường đưa đến vô vi… XVIII-XX.
@@ -42615,7 +42574,8 @@ Hằng, Yamunà, Aciiravattii, Sarabhuu, Mahii…) 97-102.VII-XII. Biển (1-6)
 (S.v,39- 40) (Như các kinh 91-96, chỉ khác, ở đây là hướng về biển,
 không phải hướng về hướng Ðông).
 
-=== II. Nhiếp Phục Tham 103-108.I-VI. Hướng Ðông (1-6) (S.v,40) 109-114.VII-XII. Biển (1-6) (S.v,40) 1-2) …
+=== II. Nhiếp Phục Tham 103-108.I-VI. Hướng Ðông (1-6) (S.v,40) 109-114.VII-XII. Biển (1-6) (S.v,40) 1-2)
+…
 #super[3] -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến với cứu cánh
   là nhiếp phục tham, với cứu cánh là nhiếp phục sân, với cứu cánh là
   nhiếp phục si… (như trên với những thay đổi cần thiết) …
@@ -42626,7 +42586,8 @@ không phải hướng về hướng Ðông).
 #super[3] -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến, nhập vào bất
 tử, hướng về bất tử, cứu cánh là bất tử.
 
-=== IV. Thiên Về Niết Bàn 127-132.I-VI. Hướng Ðông (1-6) (S.v,41) 133-138.VII-XII. Biển (1-6) (S.v,41) 1-2) …
+=== IV. Thiên Về Niết Bàn 127-132.I-VI. Hướng Ðông (1-6) (S.v,41) 133-138.VII-XII. Biển (1-6) (S.v,41) 1-2)
+…
 #super[3] -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến, thiên về
   Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn… Cũng vậy, này các
   Tỷ-kheo, Tỷ-kheo tu tập Thánh đạo Tám ngành, làm cho
@@ -42667,7 +42628,8 @@ bỏ… tu tập chánh định liên hệ đến viễn ly, liên hệ đến l
   Tám ngành, làm cho sung mãn Thánh đạo Tám ngành. (Ba kinh khác về viễn
   ly, cũng được thuyết tương tự).
 
-=== II. Nhiếp Phục Tham 1-2-3) …
+=== II. Nhiếp Phục Tham 1-2-3)
+…
 #super[4] -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến, lấy nhiếp
   phục tham làm cứu cánh, lấy nhiếp phục sân làm cứu cánh, lấy nhiếp
   phục si làm cứu cánh… tu tập chánh định, lấy nhiếp phục tham làm cứu
@@ -42681,7 +42643,8 @@ phục sân làm cứu cánh, lấy nhiếp phục si làm cứu cánh… III. B
   tập chánh định, lấy bất tử làm chỗ hội nhập, lấy bất tử làm mục đích,
   lấy bất tử làm cứu cánh.
 
-=== IV. Niết Bàn 1-2-3) …
+=== IV. Niết Bàn 1-2-3)
+…
 #super[4] -- Ở đây, này các Tỷ-kheo, Tỷ-kheo tu tập chánh tri kiến thiên về
   Niết-bàn, hướng về Niết-bàn, xuôi về Niết-bàn…
 
@@ -42791,7 +42754,8 @@ hướng đến từ bỏ.
 
 #divider()
 
-=== VI. Phẩm Việc Làm Cần Sức Mạnh Tất cả đều nhân duyên ở Sàvatthi.
+=== VI. Phẩm Việc Làm Cần Sức Mạnh
+Tất cả đều nhân duyên ở Sàvatthi.
 I. Sức lực (S.v,45)
 
 #super[1] …
@@ -43151,7 +43115,8 @@ ngành này được tu tập. Thế nào là Thánh đạo tám ngành được
 8-9) … Tu tập chánh định, thiên về Niết-bàn, hướng về Niết-bàn, xuôi về
 Niết-bàn.
 
-=== II. Liễu Tri: Parinnà 10-17) -- Này các Tỷ-kheo, có ba loại tầm cầu. Thế nào là ba? Tầm cầu về dục, tầm cầu về hữu, tầm cầu về Phạm
+=== II. Liễu Tri: Parinnà 10-17)
+-- Này các Tỷ-kheo, có ba loại tầm cầu. Thế nào là ba? Tầm cầu về dục, tầm cầu về hữu, tầm cầu về Phạm
 hạnh. Những pháp này, này các Tỷ- kheo, là ba tầm cầu. Chính vì liễu tri
 ba tầm cầu này mà Thánh đạo Tám ngành được tu tập. III. Ðoạn Diệt:
 Parikkaya. 18-25) -- Này các Tỷ-kheo, có ba loại tầm cầu. Thế nào là ba?
@@ -43160,7 +43125,8 @@ ba tầm cầu
 
 này mà Thánh đạo Tám ngành được tu tập.
 
-=== IV. Ðoạn Tận: Pahàna 26-33) -- Này các Tỷ-kheo, có ba tầm cầu này. Thế nào là ba? Tầm cầu dục, tầm cầu hữu, tầm cầu Phạm hạnh.
+=== IV. Ðoạn Tận: Pahàna 26-33)
+-- Này các Tỷ-kheo, có ba tầm cầu này. Thế nào là ba? Tầm cầu dục, tầm cầu hữu, tầm cầu Phạm hạnh.
 Chính vì mục đích đoạn tận ba tầm cầu này mà Thánh đạo Tám ngành được tu
 tập.
 
@@ -44895,7 +44861,8 @@ này các Tỷ-kheo, là Tỷ-kheo làm bạn với thiện, được tu tập b
 #super[2] -- Ta sẽ giảng cho các Ông, này các Tỷ-kheo, các món ăn và không phải
   món ăn của năm triền cái và bảy giác chi. Hãy lắng nghe.
 
-=== I. Món Ăn Của Các Triền Cái 1-2) …
+=== I. Món Ăn Của Các Triền Cái 1-2)
+…
 #super[3] -- Cái gì là món ăn, này các Tỷ- kheo, khiến cho dục tham
   (kàmacchanda) chưa sanh được sanh khởi; hay dục tham đã sanh được tăng
   trưởng, quảng đại? Có tịnh tướng, này các Tỷ-kheo. Ở đây, nếu phi như
@@ -46001,17 +45968,20 @@ nhiếp phục si. Cũng vậy, này các Tỷ- kheo, Tỷ-kheo… xuôi về Ni
 
 #divider()
 
-=== XV. Phẩm Không Phóng Dật (Nhiếp phục tham) 132-142. I-X. (S.v,138) Gồm các kinh: Chân Của Như Lai, Nóc Nhọn, Căn
+=== XV. Phẩm Không Phóng Dật (Nhiếp phục tham) 132-142. I-X. (S.v,138)
+Gồm các kinh: Chân Của Như Lai, Nóc Nhọn, Căn
 Rễ, Với Lõi, Cây, Hoa Lý, Vua, Mặt Trăng, Mặt Trời, và Vải là thứ mười.
 
 #divider()
 
-=== XVI. Phẩm Cần Dùng Sức Mạnh(Nhiếp phục tham) 143-154. I-XII. (S.v,138) Gồm các kinh: Sức Mạnh, Hột Giống, Rắn, Cây, Ghè,
+=== XVI. Phẩm Cần Dùng Sức Mạnh(Nhiếp phục tham) 143-154. I-XII. (S.v,138)
+Gồm các kinh: Sức Mạnh, Hột Giống, Rắn, Cây, Ghè,
 Râu Lúa Mì, Hư Không, Mây, Tàu, Thuyền, Khách, Sông.
 
 #divider()
 
-=== XVII. Phẩm Tầm Cầu (Nhiếp phục tham) 155-164 I-X (S.v, 139) Gồm các kinh:
+=== XVII. Phẩm Tầm Cầu (Nhiếp phục tham) 155-164 I-X (S.v, 139)
+Gồm các kinh:
 Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Chướng Ngại, Vết Nhơ, Ðau Ðớn, Thọ,
 Ái, Khát.
 
@@ -46062,17 +46032,20 @@ nhiếp phục si. Cũng vậy, này các Tỷ- kheo, Tỷ-kheo… xuôi về Ni
 
 #divider()
 
-=== XV. Phẩm Không Phóng Dật (Nhiếp phục tham) 132-142. I-X. (S.v,138) Gồm các kinh: Chân Của Như Lai, Nóc Nhọn, Căn
+=== XV. Phẩm Không Phóng Dật (Nhiếp phục tham) 132-142. I-X. (S.v,138)
+Gồm các kinh: Chân Của Như Lai, Nóc Nhọn, Căn
 Rễ, Với Lõi, Cây, Hoa Lý, Vua, Mặt Trăng, Mặt Trời, và Vải là thứ mười.
 
 #divider()
 
-=== XVI. Phẩm Cần Dùng Sức Mạnh (Nhiếp phục tham) 143-154. I-XII. (S.v,138) Gồm các kinh: Sức Mạnh, Hột Giống, Rắn, Cây, Ghè,
+=== XVI. Phẩm Cần Dùng Sức Mạnh (Nhiếp phục tham) 143-154. I-XII. (S.v,138)
+Gồm các kinh: Sức Mạnh, Hột Giống, Rắn, Cây, Ghè,
 Râu Lúa Mì, Hư Không, Mây, Tàu, Thuyền, Khách, Sông.
 
 #divider()
 
-=== XVII. Phẩm Tầm Cầu (Nhiếp phục tham) 155-164 I-X (S.v, 139) Gồm các kinh:
+=== XVII. Phẩm Tầm Cầu (Nhiếp phục tham) 155-164 I-X (S.v, 139)
+Gồm các kinh:
 Tầm Cầu, Mạn, Lậu Hoặc, Hữu, Khổ, Chướng Ngại, Vết Nhơ, Ðau Ðớn, Thọ,
 Ái, Khát.
 
@@ -47893,17 +47866,20 @@ như các kinh trước).
 
 #divider()
 
-=== VII. Phẩm Không Phóng Dật 63-72. I-X. (S.v,191) Gồm các kinh: Như Lai, Dấu Chân, Nóc Nhọn, Rễ Cây. Lõi Cây, Hoa Mưa Sanh, Vua,
+=== VII. Phẩm Không Phóng Dật 63-72. I-X. (S.v,191)
+Gồm các kinh: Như Lai, Dấu Chân, Nóc Nhọn, Rễ Cây. Lõi Cây, Hoa Mưa Sanh, Vua,
 Mặt Trăng, Mặt Trời, Vải, tất cả là mười kinh. (Các kinh này được thuyết
 rộng theo bốn niệm xứ).
 
 #divider()
 
-=== VIII. Phẩm Việc Làm Cần Sức Mạnh 73-82. I-X. (S.v,191) Gồm các kinh: Quả, Chủng Tử, Rồng, Cây, Ghè, Râu Mì, Hư Không, Khách, Sông.
+=== VIII. Phẩm Việc Làm Cần Sức Mạnh 73-82. I-X. (S.v,191)
+Gồm các kinh: Quả, Chủng Tử, Rồng, Cây, Ghè, Râu Mì, Hư Không, Khách, Sông.
 
 #divider()
 
-=== IX. Phẩm Tầm Cầu 83-93. I-XI. (S.v,192) Gồm các kinh: Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Khổ Tánh, Ba Chướng Ngại (khila), Cấu
+=== IX. Phẩm Tầm Cầu 83-93. I-XI. (S.v,192)
+Gồm các kinh: Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Khổ Tánh, Ba Chướng Ngại (khila), Cấu
 Uế. Khổ Và Thọ, Ái và Khát, thành phẩm Tầm Cầu.
 
 #divider()
@@ -49602,18 +49578,21 @@ bỏ.
 
 #divider()
 
-=== IX. Phẩm Không Phóng Dật 83-92 I-X Viễn Ly (S.v,240) Gồm các kinh: Như Lai, Chân, Nóc Nhà, Gốc, Lõi, Hạ Sanh Hoa, Vua, Mặt Trăng, Mặt Trời,
+=== IX. Phẩm Không Phóng Dật 83-92 I-X Viễn Ly (S.v,240)
+Gồm các kinh: Như Lai, Chân, Nóc Nhà, Gốc, Lõi, Hạ Sanh Hoa, Vua, Mặt Trăng, Mặt Trời,
 Y; tất cả là mười. (Ðược thuyết rộng như các căn).
 
 #divider()
 
-=== X. Phẩm Làm Việc Cần Sứ Mạnh 93-104. I-XII Viễn Ly (S.v,240) Gồm các kinh: Lực, Chủng Tử, Rồng, Cây, Ghè, Mặt
+=== X. Phẩm Làm Việc Cần Sứ Mạnh 93-104. I-XII Viễn Ly (S.v,240)
+Gồm các kinh: Lực, Chủng Tử, Rồng, Cây, Ghè, Mặt
 Trời, Hư Không, hai kinh Mây, Thuyền, Khách, Sông. (Ðược thuyết rộng như
 Căn Tương Ưng).
 
 #divider()
 
-=== XI. Phẩm Tầm Cầu 105-117. I-XII. Viễn Ly (S.v,240) Gồm các kinh:
+=== XI. Phẩm Tầm Cầu 105-117. I-XII. Viễn Ly (S.v,240)
+Gồm các kinh:
 Tầm Cầu, Mạn, Lậu Hoặc, HữuK Khổ (ba kinh), Chướng Ngại, Cấu Uế, Dao
 Ðộng, Thọ, Khát ái. (Ðược thuyết rộng như Căn Tương Ưng)
 
@@ -49681,7 +49660,8 @@ X. Thượng Phần Kiết Sử (S.v,242)
 #divider()
 
 == \[49\] Chương V - Tương Ưng Chánh Cần
-=== I. Phẩm Sông Hằng Rộng Thuyết 1-12.(I-XII) (S.v,244) 1-2) Tại Sàvatthi. Tại đấy, Thế Tôn nói như sau :
+=== I. Phẩm Sông Hằng Rộng Thuyết 1-12.(I-XII) (S.v,244) 1-2)
+Tại Sàvatthi. Tại đấy, Thế Tôn nói như sau :
 -- Này các Tỷ-kheo, có bốn chánh cần này. Thế nào là bốn ?
 
 #super[3] Ở đây, này các Tỷ-kheo, Tỷ-kheo đối với các ác, bất thiện pháp chưa
@@ -49724,7 +49704,8 @@ làm cho viên mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 
 #divider()
 
-=== II. Phẩm Không Phóng Dật 13-22.I-X. (S.v,245) Gồm các kinh : Như Lai, Chân, Nóc Nhọn, Căn, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt Trăng,
+=== II. Phẩm Không Phóng Dật 13-22.I-X. (S.v,245)
+Gồm các kinh : Như Lai, Chân, Nóc Nhọn, Căn, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt Trăng,
 Mặt Trời, Vải; tất cả là mười.
 
 #divider()
@@ -49817,17 +49798,20 @@ cho sung mãn, tinh cần, tinh tấn, quyết tâm, cố gắng.
 
 #divider()
 
-=== II. Phẩm Không Phóng Dật 13-22.I-X Viễn Ly (S.v,250) Gồm các kinh : Như Lai, Bàn Chân, Nóc Nhà, Cội Gốc, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt
+=== II. Phẩm Không Phóng Dật 13-22.I-X Viễn Ly (S.v,250)
+Gồm các kinh : Như Lai, Bàn Chân, Nóc Nhà, Cội Gốc, Lõi Cây, Hạ Sanh Hoa, Vua, Mặt
 Trăng, Mặt Trời, Vải; gồm tất cả là mười.
 
 #divider()
 
-=== III. Phẩm Sức Mạnh (Viễn Ly) 23-34.I-XII (S.v,250) Gồm các kinh: Lực, Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây,
+=== III. Phẩm Sức Mạnh (Viễn Ly) 23-34.I-XII (S.v,250)
+Gồm các kinh: Lực, Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây,
 Thuyền, Khách, Sông.
 
 #divider()
 
-=== IV. Phẩm Tầm Cầu 35-46.I-XII Viễn Ly (S.v,250) Gồm các kinh : Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Hữu, Khổ, Ba Uế Nhiễm, Chướng Ngại, Cấu
+=== IV. Phẩm Tầm Cầu 35-46.I-XII Viễn Ly (S.v,250)
+Gồm các kinh : Tầm Cầu, Kiêu Mạn, Lậu Hoặc, Hữu, Khổ, Ba Uế Nhiễm, Chướng Ngại, Cấu
 Uế. Dao Ðộng, Thọ. Ái. (Phẩm Tầm Cầu được thuyết rộng như chương nói về
 Lực)
 
@@ -49873,11 +49857,13 @@ Thượng, Hạ Phần Kiết Sử).
 
 #divider()
 
-=== VII. Phẩm Không Phóng Dật 69-78.II-XII. (S.v,252) Tham
+=== VII. Phẩm Không Phóng Dật 69-78.II-XII. (S.v,252)
+Tham
 Gồm các kinh: Như Lai, Chân, Nóc Nhọn, Rễ, Lõi, Hạ Sanh Hoa, Vua, Mặt
 Trăng, Mặt Trời, Vải, tất cả là mười.
 
-=== VIII. Phẩm Lực 79-90.I-XII. (S.v,252) Tham Gồm các kinh : Lực. Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây,
+=== VIII. Phẩm Lực 79-90.I-XII. (S.v,252)
+Tham Gồm các kinh : Lực. Chủng Tử, Long, Cây, Ghè, Mặt Trời, Hư Không, hai kinh Mây,
 Thuyền, Khách, Sông.
 
 #divider()
@@ -49888,7 +49874,8 @@ Chướng Ngại, Cấu Uế, Dao Ðộng, Thọ, Ái.
 
 #divider()
 
-=== X. Phẩm Bộc Lưu 101-109 I-IX (S.v,53) Tham
+=== X. Phẩm Bộc Lưu 101-109 I-IX (S.v,53)
+Tham
 110.X. Thượng Phần Kiết Sử (S.v,243)
 
 #super[1] …

@@ -57,6 +57,15 @@ INTRO_TITLES = {
 # Library map
 # ---------------------------------------------------------------------------
 
+VN_VOLUMES = [
+    {"id": "dn", "title": "Kinh Trường Bộ", "pali": "Dīgha Nikāya", "file": "kinh-truong-bo-tron-bo-34-kinh.typ"},
+    {"id": "mn", "title": "Kinh Trung Bộ", "pali": "Majjhima Nikāya", "file": "kinh-trung-bo-tron-bo-152-kinh.typ"},
+    {"id": "sn", "title": "Kinh Tương Ưng Bộ", "pali": "Saṃyutta Nikāya", "file": "kinh-tuong-ung-bo-tron-bo-56-nhom.typ"},
+    {"id": "an", "title": "Kinh Tăng Chi Bộ", "pali": "Aṅguttara Nikāya", "file": "kinh-tang-chi-bo-tron-bo-11-chuong.typ"},
+    {"id": "kn", "title": "Kinh Tiểu Bộ", "pali": "Khuddaka Nikāya", "file": "kinh-tieu-bo-tuyen-tap-7-phan.typ"},
+    {"id": "vinaya", "title": "Luật Tạng", "pali": "Vinaya Piṭaka", "file": "luat-tang-tuyen-tap-6-tap.typ"},
+]
+
 NIKAYA_GROUPS = [
     ("dn", "Trường Bộ", "Dīgha Nikāya", "truong-bo"),
     ("mn", "Trung Bộ", "Majjhima Nikāya", "trung-bo"),
@@ -550,6 +559,37 @@ def pretty_file_title(name: str) -> tuple[str, str | None]:
     return stem, None
 
 
+def build_vn(root: Path, texts: Path, only: str | None) -> dict:
+    col_id = "vn"
+    folder = root / "kinh" / "kinh-tieng-viet-suu-tam"
+    volumes = []
+    for spec in VN_VOLUMES:
+        key = f"{col_id}/{spec['id']}"
+        if only and not key.startswith(only) and only != col_id:
+            continue
+        src = folder / spec["file"]
+        print(f"  {key}  ← {src.name}", flush=True)
+        units = flatten_structural(units_from_typ(src, root))
+        children = write_units(units, texts, key, Path(col_id) / spec["id"])
+        volumes.append(
+            {
+                "id": spec["id"],
+                "title": spec["title"],
+                "pali": spec["pali"],
+                "route": key,
+                "source": str(src.relative_to(root)),
+                "leafCount": count_leaves(children),
+                "children": children,
+            }
+        )
+    return {
+        "id": col_id,
+        "title": "Bản dịch sưu tầm",
+        "blurb": "Bản Việt đã xuất bản.",
+        "volumes": volumes,
+    }
+
+
 def build_grouped(
     col_id: str,
     title: str,
@@ -647,9 +687,24 @@ def main() -> int:
     only = args.only.strip("/") if args.only else None
     print(f"Building web data → {out}", flush=True)
 
-    # The site publishes only the independent translation. The collected
-    # Vietnamese volumes and the Pali sources stay in kinh/ for the library.
+    # The shelf shows only "new". "vn" and "pali" are the other reading tabs.
     collections = []
+    if only is None or only.startswith("vn"):
+        print("== vn", flush=True)
+        collections.append(build_vn(root, texts, only))
+    if only is None or only.startswith("pali"):
+        print("== pali", flush=True)
+        collections.append(
+            build_grouped(
+                "pali",
+                "Tiếng Pali gốc",
+                "Nguyên bản Pāli.",
+                root / "kinh" / "tam-tang-pali-goc",
+                root,
+                texts,
+                only,
+            )
+        )
     if only is None or only.startswith("new"):
         print("== new", flush=True)
         collections.append(

@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Saṃyuttanikāyo Khandhavaggo
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Saṃyuttanikāyo Khandhavaggo
-
 + Khandhasaṃyuttaṃ
 
 == 1. Nakulapituvaggo

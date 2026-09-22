@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Dasakanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Dasakanipātapāḷi
-
 + Paṭhamapaṇṇāsakaṃ
 
 == 1. Ānisaṃsavaggo

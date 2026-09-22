@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Buddhavaṃsapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Buddhavaṃsapāḷi
-
 + Ratanacaṅkamanakaṇḍaṃ
 
 + Brahmā ca lokādhipatī sahampatī \[sahampati (syā. kaṃ.)\], katañjalī

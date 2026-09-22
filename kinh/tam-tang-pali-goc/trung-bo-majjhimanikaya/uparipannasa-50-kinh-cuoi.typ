@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Majjhimanikāyo Uparipaṇṇāsapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Majjhimanikāye Uparipaṇṇāsapāḷi
-
 == 1. Devadahavaggo
 === 1. Devadahasuttaṃ
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sakkesu viharati devadahaṃ nāma

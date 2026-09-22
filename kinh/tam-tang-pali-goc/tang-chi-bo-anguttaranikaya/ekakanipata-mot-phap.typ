@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Ekakanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Ekakanipātapāḷi
-
 == 1. Rūpādivaggo
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme. Tatra kho bhagavā bhikkhū āmantesi --

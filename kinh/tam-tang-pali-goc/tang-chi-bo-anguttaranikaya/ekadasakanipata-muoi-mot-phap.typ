@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Ekādasakanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Ekādasakanipātapāḷi
-
 == 1. Nissayavaggo
 === 1. Kimatthiyasuttaṃ
 + \[a. ni. 10.1\] Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ

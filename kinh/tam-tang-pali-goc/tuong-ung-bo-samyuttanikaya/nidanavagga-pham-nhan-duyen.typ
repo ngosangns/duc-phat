@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Saṃyuttanikāyo Nidānavaggo
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Saṃyuttanikāyo Nidānavaggo
-
 + Nidānasaṃyuttaṃ
 
 == 1. Buddhavaggo

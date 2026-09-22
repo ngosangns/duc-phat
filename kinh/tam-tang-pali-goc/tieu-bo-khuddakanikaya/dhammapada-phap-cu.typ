@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Dhammapadapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Dhammapadapāḷi
-
 == 1. Yamakavaggo
 + Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena,
   bhāsati vā karoti vā; Tato naṃ dukkhamanveti, cakkaṃva vahato padaṃ.

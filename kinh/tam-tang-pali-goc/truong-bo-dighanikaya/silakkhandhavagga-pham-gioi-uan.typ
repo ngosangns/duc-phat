@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Dīghanikāyo Sīlakkhandhavaggapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Dīghanikāyo Sīlakkhandhavaggapāḷi
-
 === 1. Brahmajālasuttaṃ Paribbājakakathā
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā antarā ca rājagahaṃ antarā ca
   nāḷandaṃ addhānamaggappaṭipanno hoti mahatā bhikkhusaṅghena saddhiṃ

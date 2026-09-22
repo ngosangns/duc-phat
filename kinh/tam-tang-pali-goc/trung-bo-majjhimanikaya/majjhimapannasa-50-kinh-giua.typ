@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Majjhimanikāyo Majjhimapaṇṇāsapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Majjhimanikāye Majjhimapaṇṇāsapāḷi
-
 == 1. Gahapativaggo
 === 1. Kandarakasuttaṃ
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā campāyaṃ viharati gaggarāya

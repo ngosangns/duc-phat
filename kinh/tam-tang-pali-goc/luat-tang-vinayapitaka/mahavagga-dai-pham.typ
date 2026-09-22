@@ -1,8 +1,3 @@
-= Mūla Vinaya Piṭaka Mahāvaggapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Vinayapiṭake Mahāvaggapāḷi
-
 + Mahākhandhako
 
 + Bodhikathā

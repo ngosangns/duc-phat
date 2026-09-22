@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Dukanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Dukanipātapāḷi
-
 + Paṭhamapaṇṇāsakaṃ
 
 == 1. Kammakaraṇavaggo

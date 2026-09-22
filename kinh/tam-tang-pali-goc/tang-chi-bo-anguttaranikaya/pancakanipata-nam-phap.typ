@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Pañcakanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Pañcakanipātapāḷi
-
 + Paṭhamapaṇṇāsakaṃ
 
 == 1. Sekhabalavaggo

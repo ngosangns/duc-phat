@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Catukkanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Catukkanipātapāḷi
-
 + Paṭhamapaṇṇāsakaṃ
 
 == 1. Bhaṇḍagāmavaggo

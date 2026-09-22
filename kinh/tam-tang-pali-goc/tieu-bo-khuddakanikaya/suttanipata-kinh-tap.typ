@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Suttanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Suttanipātapāḷi
-
 == 1. Uragavaggo
 === 1. Uragasuttaṃ
 + Yo \[yo ve (syā.)\] uppatitaṃ vineti kodhaṃ, visaṭaṃ sappavisaṃva

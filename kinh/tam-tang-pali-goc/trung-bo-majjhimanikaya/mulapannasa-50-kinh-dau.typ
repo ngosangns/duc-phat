@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Majjhimanikāyo Mūlapaṇṇāsapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Majjhimanikāyo Mūlapaṇṇāsapāḷi
-
 == 1. Mūlapariyāyavaggo
 === 1. Mūlapariyāyasuttaṃ
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā ukkaṭṭhāyaṃ viharati subhagavane

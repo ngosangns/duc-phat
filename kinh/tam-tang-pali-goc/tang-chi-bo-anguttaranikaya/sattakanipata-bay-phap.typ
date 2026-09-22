@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Aṅguttaranikāyo Sattakanipātapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Aṅguttaranikāyo Sattakanipātapāḷi Paṭhamapaṇṇāsakaṃ
-
 == 1. Dhanavaggo
 === 1. Paṭhamapiyasuttaṃ
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane

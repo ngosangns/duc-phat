@@ -10,10 +10,10 @@ import {
   findByRoute,
   findCollection,
   findVolume,
-  leafIndex,
   leaves,
   loadCatalog,
 } from "./catalog";
+import { canonRoutesFor, canonVolume, isFrontMatter, parallelEdition, type Edition } from "./editions";
 import {
   bookmarksFor,
   capturePlace,
@@ -95,8 +95,24 @@ async function route() {
     renderShelf(catalog);
     return;
   }
+  if (segs[0] === "note") {
+    const inner = segs.slice(1);
+    const host = findCollection(catalog, inner[0] ?? "");
+    const vol = host && findVolume(host, inner[1] ?? "");
+    const node = vol && findByRoute(vol, inner.slice(2));
+    if (!host || !vol || !node?.path) {
+      location.hash = "#/";
+      return;
+    }
+    await renderReader(catalog, host, vol, node, true);
+    return;
+  }
   const col = findCollection(catalog, segs[0]);
-  if (!col || col.id !== "new") {
+  if (!col || (col.id !== "new" && col.id !== "vn" && col.id !== "pali")) {
+    location.hash = "#/";
+    return;
+  }
+  if (col.id !== "new" && segs.length === 1) {
     location.hash = "#/";
     return;
   }
@@ -127,6 +143,7 @@ async function route() {
 /* ---------- shelf ---------- */
 
 function renderShelf(cat: Catalog) {
+  document.body.classList.remove("has-editions");
   document.title = cat.title;
   const rec = mostRecent();
   const marks = loadBookmarks().filter((m) => m.route.startsWith("new/"));
@@ -239,21 +256,30 @@ function cover(col: Collection, v: CatNode): string {
 /* ---------- volume / group toc ---------- */
 
 function renderVolume(cat: Catalog, col: Collection, vol: CatNode, node: CatNode) {
-  document.title = `${node.title} — ${cat.title}`;
-  const kids = node.children ?? [];
-  const n = countLeaves(node);
+  document.body.classList.remove("has-editions");
+  const shared = node.route === vol.route || col.id !== "new";
+  const shown = shared ? (canonVolume(cat, vol.id) ?? node) : node;
+  document.title = `${shown.title} — ${cat.title}`;
+  const kids = shown.children ?? [];
+  const n = countLeaves(shown);
+  const edition = col.id as Edition;
+  const hrefOf = (leaf: CatNode): string | null => {
+    if (!leaf.path) return null;
+    if (edition === "new") return leaf.route;
+    return parallelEdition(cat, leaf, vol.id, edition);
+  };
   app.innerHTML = `
     ${topBar(cat.title, col.title, false)}
     <main class="wrap toc-page">
-      ${crumbs(cat, col, vol, node)}
+      ${crumbs(cat, col, vol, shared ? vol : node)}
       <header class="toc-head">
-        <h1>${escapeHtml(node.title || vol.title)}</h1>
-        ${node.pali ? `<p class="pali">${escapeHtml(node.pali)}</p>` : ""}
+        <h1>${escapeHtml(shown.title || vol.title)}</h1>
+        ${shown.pali ? `<p class="pali">${escapeHtml(shown.pali)}</p>` : ""}
         <p class="toc-meta">${n} mục</p>
       </header>
       <input class="filter" type="search" placeholder="Lọc tên kinh trong tập này…" aria-label="Lọc mục lục" />
       <ul class="toc-list" id="toc-list">
-        ${kids.map((ch) => tocItem(ch)).join("")}
+        ${kids.map((ch) => tocItem(ch, shared ? hrefOf : undefined)).join("")}
       </ul>
     </main>
   `;
@@ -293,7 +319,7 @@ function tocNum(id: string): string {
   return n === "·" ? "" : n;
 }
 
-function tocItem(node: CatNode): string {
+function tocItem(node: CatNode, hrefOf?: (leaf: CatNode) => string | null): string {
   const self = escapeAttr(tocSelf(node));
   if (node.children?.length && !node.path) {
     const num = tocNum(node.id);
@@ -311,19 +337,18 @@ function tocItem(node: CatNode): string {
             </span>
           </summary>
           <ul class="toc-list">
-            ${node.children.map((ch) => tocItem(ch)).join("")}
+            ${node.children.map((ch) => tocItem(ch, hrefOf)).join("")}
           </ul>
         </details>
       </li>
     `;
   }
-  const saved = placeFor(node.route);
-  const marked = bookmarksFor(node.route).length > 0;
+  const href = hrefOf ? hrefOf(node) : node.route;
+  const saved = href ? placeFor(href) : undefined;
+  const marked = href ? bookmarksFor(href).length > 0 : false;
   const hint = saved ? placeLabel(saved) : marked ? "có dấu" : "";
   const num = tocNum(node.id);
-  return `
-    <li data-self="${self}">
-      <a href="#/${escapeAttr(node.route)}">
+  const body = `
         <span class="toc-num">${escapeHtml(num)}</span>
         <span class="toc-body">
           <span class="toc-title">${escapeHtml(displayTitle(node))}</span>
@@ -335,22 +360,30 @@ function tocItem(node: CatNode): string {
               ? `<span class="mark${marked ? " is-pin" : ""}" title="${escapeAttr(hint)}"></span>`
               : ""
           }
-        </span>
-      </a>
+        </span>`;
+  if (!href) return `<li data-self="${self}"><span class="is-missing">${body}</span></li>`;
+  return `
+    <li data-self="${self}">
+      <a href="#/${escapeAttr(href)}">${body}</a>
     </li>
   `;
 }
 
-function readerToc(node: CatNode, current: string): string {
+function readerToc(node: CatNode, active: Set<string>, hrefOf: (leaf: CatNode) => string | null): string {
   const kids = node.children ?? [];
   if (!kids.length) return "";
-  return `<nav class="rtoc" aria-label="Mục lục">${kids.map((ch) => readerNode(ch, current)).join("")}</nav>`;
+  return `<nav class="rtoc" aria-label="Mục lục">${kids.map((ch) => readerNode(ch, active, hrefOf)).join("")}</nav>`;
 }
 
-function readerNode(node: CatNode, current: string): string {
+function coversRoute(node: CatNode, active: Set<string>): boolean {
+  if (node.path && active.has(node.route)) return true;
+  return (node.children ?? []).some((child) => coversRoute(child, active));
+}
+
+function readerNode(node: CatNode, active: Set<string>, hrefOf: (leaf: CatNode) => string | null): string {
   const kids = node.children ?? [];
   if (kids.length && !node.path) {
-    const open = current === node.route || current.startsWith(`${node.route}/`);
+    const open = coversRoute(node, active);
     return `
       <details class="rtoc-group"${open ? " open" : ""}>
         <summary>
@@ -360,16 +393,18 @@ function readerNode(node: CatNode, current: string): string {
             <span class="rtoc-count">${countLeaves(node)}</span>
           </span>
         </summary>
-        <div class="rtoc-kids">${kids.map((ch) => readerNode(ch, current)).join("")}</div>
+        <div class="rtoc-kids">${kids.map((ch) => readerNode(ch, active, hrefOf)).join("")}</div>
       </details>
     `;
   }
-  const active = node.route === current;
+  const on = active.has(node.route);
+  const href = hrefOf(node);
   const num = tocNum(node.id);
+  const inner = `<span class="rtoc-num">${escapeHtml(num)}</span><span class="rtoc-title">${escapeHtml(displayTitle(node))}</span>`;
+  if (!href) return `<span class="rtoc-link is-missing">${inner}</span>`;
   return `
-    <a class="rtoc-link${active ? " active" : ""}" href="#/${escapeAttr(node.route)}"${active ? ' aria-current="page"' : ""}>
-      <span class="rtoc-num">${escapeHtml(num)}</span>
-      <span class="rtoc-title">${escapeHtml(displayTitle(node))}</span>
+    <a class="rtoc-link${on ? " active" : ""}" href="#/${escapeAttr(href)}"${on ? ' aria-current="page"' : ""}>
+      ${inner}
     </a>
   `;
 }
@@ -394,17 +429,78 @@ function setTocOpen(open: boolean): void {
 
 /* ---------- reader ---------- */
 
+const EDITIONS = [
+  ["new", "Bản dịch độc lập"],
+  ["vn", "Bản dịch sưu tầm"],
+  ["pali", "Tiếng Pali gốc"],
+  ["note", "Giải nghĩa"],
+] as const;
+
+function parallelRoute(cat: Catalog, node: CatNode, vol: CatNode, target: "new" | "vn" | "pali"): string | null {
+  return parallelEdition(cat, node, vol.id, target);
+}
+
+function editionTabs(cat: Catalog, col: Collection, vol: CatNode, node: CatNode, commentary: boolean): string {
+  const items = EDITIONS.map(([id, label]) => {
+    const selected = commentary ? id === "note" : id === col.id;
+    if (id === "note") {
+      return `<a role="tab" href="#/note/${escapeAttr(node.route)}" aria-selected="${selected ? "true" : "false"}">${label}</a>`;
+    }
+    const route = id === col.id && !commentary ? node.route : parallelRoute(cat, node, vol, id as "new" | "vn" | "pali");
+    if (!route) return `<span class="is-missing" role="tab" aria-disabled="true">${label}</span>`;
+    return `<a role="tab" href="#/${escapeAttr(route)}" aria-selected="${selected ? "true" : "false"}">${label}</a>`;
+  });
+  return `<nav class="edition-tabs" role="tablist">${items.join("")}</nav>`;
+}
+
 async function renderReader(
   cat: Catalog,
   col: Collection,
   vol: CatNode,
   node: CatNode,
+  commentary = false,
 ) {
+  document.body.classList.add("has-editions");
   document.title = `${displayTitle(node)} — ${cat.title}`;
-  const all = leaves(vol);
-  const idx = leafIndex(vol, node.route);
-  const prev = idx > 0 ? all[idx - 1] : undefined;
-  const next = idx >= 0 && idx < all.length - 1 ? all[idx + 1] : undefined;
+  const edition: Edition = col.id === "vn" || col.id === "pali" ? col.id : "new";
+  const outline = canonVolume(cat, vol.id) ?? vol;
+  const reading = leaves(outline).filter((leaf) => leaf.path && !isFrontMatter(leaf));
+  const here = new Set(canonRoutesFor(cat, node.route));
+  const matched = reading.flatMap((leaf, i) => (here.has(leaf.route) ? [i] : []));
+  const textOf = (leaf: CatNode): string | null =>
+    edition === "new" ? leaf.route : parallelEdition(cat, leaf, vol.id, edition);
+  const hrefOf = (leaf: CatNode): string | null => {
+    const dest = textOf(leaf);
+    if (!dest) return null;
+    return commentary ? `note/${dest}` : dest;
+  };
+  let prev: { href: string; title: string } | undefined;
+  let next: { href: string; title: string } | undefined;
+  let pos: string;
+  if (matched.length) {
+    const lo = matched[0];
+    const hi = matched[matched.length - 1];
+    pos = lo === hi ? `${lo + 1} / ${reading.length}` : `${lo + 1}–${hi + 1} / ${reading.length}`;
+    const step = (dir: number) => {
+      const start = dir < 0 ? lo : hi;
+      for (let i = start + dir; i >= 0 && i < reading.length; i += dir) {
+        const dest = textOf(reading[i]);
+        if (!dest || dest === node.route) continue;
+        return { href: commentary ? `note/${dest}` : dest, title: shortTitle(reading[i]) };
+      }
+      return undefined;
+    };
+    prev = step(-1);
+    next = step(1);
+  } else {
+    const all = leaves(vol).filter((leaf) => leaf.path);
+    const idx = all.findIndex((leaf) => leaf.route === node.route);
+    pos = `${Math.max(idx, 0) + 1} / ${Math.max(all.length, 1)}`;
+    const hop = (leaf?: CatNode) =>
+      leaf && { href: commentary ? `note/${leaf.route}` : leaf.route, title: shortTitle(leaf) };
+    prev = hop(idx > 0 ? all[idx - 1] : undefined);
+    next = hop(idx >= 0 && idx < all.length - 1 ? all[idx + 1] : undefined);
+  }
 
   app.innerHTML = `
     ${topBar(cat.title, displayTitle(node), true, node.route)}
@@ -412,20 +508,23 @@ async function renderReader(
       <button class="toc-scrim" type="button" data-act="toc" tabindex="-1" aria-label="Đóng mục lục"></button>
       <aside class="reader-toc${tocOpen ? " open" : ""}" id="reader-toc">
         <p class="rtoc-kicker">Mục lục</p>
-        ${readerToc(vol, node.route)}
+        ${readerToc(outline, here, hrefOf)}
       </aside>
       <div class="reader-main">
-        <article class="paper sutta" id="sutta"><p class="loading">Đang mở sách…</p></article>
+        <div class="reading-row">
+          ${editionTabs(cat, col, vol, node, commentary)}
+          <article class="paper sutta${col.id === "pali" && !commentary ? " is-pali" : ""}" id="sutta"><p class="loading">Đang mở sách…</p></article>
+        </div>
         <nav class="nav-sutta">
           ${
             prev
-              ? `<a href="#/${escapeAttr(prev.route)}" rel="prev">← ${escapeHtml(shortTitle(prev))}</a>`
+              ? `<a href="#/${escapeAttr(prev.href)}" rel="prev">← ${escapeHtml(prev.title)}</a>`
               : `<span></span>`
           }
-          <span class="pos">${idx + 1} / ${all.length}</span>
+          <span class="pos">${pos}</span>
           ${
             next
-              ? `<a href="#/${escapeAttr(next.route)}" rel="next">${escapeHtml(shortTitle(next))} →</a>`
+              ? `<a href="#/${escapeAttr(next.href)}" rel="next">${escapeHtml(next.title)} →</a>`
               : `<span></span>`
           }
         </nav>
@@ -438,6 +537,12 @@ async function renderReader(
   requestAnimationFrame(revealActiveToc);
 
   const article = app.querySelector<HTMLElement>("#sutta")!;
+  if (commentary) {
+    article.innerHTML = `<h1>Giải nghĩa</h1><p>Thư viện chưa có bản giải nghĩa cho bài này. Ở đây chỉ giữ lời kinh, không đưa chú giải vào.</p>`;
+    bindChrome();
+    window.scrollTo(0, 0);
+    return;
+  }
   try {
     const res = await fetch(`./data/${node.path}`);
     if (!res.ok) throw new Error("Không tải được kinh.");
@@ -488,8 +593,8 @@ async function renderReader(
   const onKey = (ev: KeyboardEvent) => {
     const tag = (ev.target as HTMLElement | null)?.tagName;
     if (tag === "INPUT" || tag === "TEXTAREA") return;
-    if (ev.key === "ArrowLeft" && prev) location.hash = `#/${prev.route}`;
-    if (ev.key === "ArrowRight" && next) location.hash = `#/${next.route}`;
+    if (ev.key === "ArrowLeft" && prev) location.hash = `#/${prev.href}`;
+    if (ev.key === "ArrowRight" && next) location.hash = `#/${next.href}`;
     if (ev.key === "t") setTocOpen(!tocOpen);
     if (ev.key === "b") toggleCurrentMark();
     if (ev.key === "+" || ev.key === "=") bumpFont(0.05);
@@ -653,6 +758,7 @@ function crumbs(cat: Catalog, col: Collection, vol: CatNode, node: CatNode): str
 }
 
 function renderMissing() {
+  document.body.classList.remove("has-editions");
   app.innerHTML = `${topBar("Thư viện Kinh điển", "", false)}<p class="err">Không tìm thấy mục này. <a href="#/">Về kệ sách</a>.</p>`;
 }
 

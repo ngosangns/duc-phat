@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Udānapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Udānapāḷi
-
 == 1. Bodhivaggo
 === 1. Paṭhamabodhisuttaṃ
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā uruvelāyaṃ viharati najjā

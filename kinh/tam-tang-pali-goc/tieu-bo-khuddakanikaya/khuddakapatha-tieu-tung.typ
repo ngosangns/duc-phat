@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Khuddakapāṭhapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Khuddakapāṭhapāḷi
-
 + Saraṇattayaṃ Buddhaṃ saraṇaṃ gacchāmi; Dhammaṃ saraṇaṃ gacchāmi;
   Saṅghaṃ saraṇaṃ gacchāmi.
 

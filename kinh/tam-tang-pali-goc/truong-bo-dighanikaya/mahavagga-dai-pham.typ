@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Dīghanikāyo Mahāvaggapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Dīghanikāyo Mahāvaggapāḷi
-
 === 1. Mahāpadānasuttaṃ Pubbenivāsapaṭisaṃyuttakathā
 + Evaṃ me sutaṃ -- ekaṃ samayaṃ bhagavā sāvatthiyaṃ viharati jetavane
   anāthapiṇḍikassa ārāme karerikuṭikāyaṃ. Atha kho sambahulānaṃ

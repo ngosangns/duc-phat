@@ -1,8 +1,3 @@
-= Mūla Vinaya Piṭaka Pārājikapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Vinayapiṭake Pārājikapāḷi Verañjakaṇḍaṃ
-
 + Tena samayena buddho bhagavā verañjāyaṃ viharati naḷerupucimandamūle
   mahatā bhikkhusaṅghena saddhiṃ pañcamattehi bhikkhusatehi. Assosi kho
   verañjo brāhmaṇo -- ‘‘samaṇo khalu, bho, gotamo sakyaputto sakyakulā

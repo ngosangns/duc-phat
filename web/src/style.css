@@ -124,12 +124,75 @@ button, input { font: inherit; color: inherit; }
   z-index: 20;
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 0.75rem;
   padding: calc(0.55rem + var(--safe-top)) max(1rem, var(--safe-right)) 0.7rem max(1rem, var(--safe-left));
   background: color-mix(in srgb, var(--paper) 88%, transparent);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--rule);
 }
+
+.reading-row {
+  display: grid;
+  grid-template-columns: 8.6rem minmax(0, 1fr);
+  align-items: start;
+  gap: 0.85rem;
+  width: min(52rem, calc(100% - 1.5rem));
+  margin: 1.2rem auto 0;
+}
+
+.reading-row .paper {
+  width: auto;
+  margin: 0 0 5rem;
+}
+
+.edition-tabs {
+  position: sticky;
+  top: calc(4.2rem + var(--safe-top));
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.edition-tabs a,
+.edition-tabs span {
+  display: block;
+  border: 1px solid var(--rule);
+  border-radius: 10px;
+  padding: 0.45rem 0.55rem;
+  font-size: 0.78rem;
+  line-height: 1.3;
+  color: var(--muted);
+  background: color-mix(in srgb, var(--paper) 80%, white);
+}
+
+.edition-tabs a[aria-selected="true"] {
+  color: var(--ink);
+  border-color: var(--saffron);
+  background: color-mix(in srgb, var(--saffron) 16%, var(--paper));
+}
+
+.edition-tabs span.is-missing { opacity: 0.4; }
+
+.sutta.is-pali {
+  font-family: "Gentium Book Plus", "Source Serif 4 Variable", serif;
+  font-size: 1.28rem;
+  font-weight: 400;
+  line-height: 1.7;
+  font-optical-sizing: none;
+}
+
+.sutta.is-pali ol {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sutta.is-pali ol > li {
+  margin: 0.85em 0;
+}
+
+.sutta.is-pali ol > li > p { margin: 0; }
 
 .top .brand {
   font-family: var(--serif);
@@ -509,6 +572,15 @@ html[data-theme="night"] .toc-page > .toc-list {
 
 .toc-page .toc-list a:hover .toc-title { color: var(--saffron); }
 
+.toc-page .toc-list .is-missing {
+  display: grid;
+  grid-template-columns: 2.35rem minmax(0, 1fr) 1.1rem;
+  gap: 0.35rem 0.7rem;
+  align-items: start;
+  padding: 0.72rem 0.85rem 0.72rem 0.45rem;
+  opacity: 0.4;
+}
+
 .toc-num {
   font-variant-numeric: tabular-nums;
   font-weight: 600;
@@ -710,6 +782,11 @@ details[open] > summary .rtoc-chev {
   border-radius: 0 8px 8px 0;
   background: color-mix(in srgb, var(--saffron) 14%, transparent);
   box-shadow: inset 3px 0 0 var(--saffron);
+}
+
+.rtoc-link.is-missing {
+  opacity: 0.4;
+  cursor: default;
 }
 
 .rtoc-group > summary {
@@ -935,6 +1012,26 @@ html[data-theme="night"] .paper {
   }
   .icon-btn.icon-only.toc-drawer { display: inline-flex; }
   .paper { padding: 1.4rem 1.1rem 2.4rem; width: min(42rem, calc(100% - 1rem)); }
+  .reading-row {
+    grid-template-columns: 1fr;
+    width: min(42rem, calc(100% - 1rem));
+  }
+  .reading-row .paper { width: auto; }
+  .edition-tabs {
+    position: sticky;
+    top: calc(3.2rem + var(--safe-top));
+    z-index: 12;
+    flex-direction: row;
+    overflow-x: auto;
+    scrollbar-width: none;
+    background: color-mix(in srgb, var(--paper) 92%, transparent);
+    padding-bottom: 0.35rem;
+  }
+  .edition-tabs a,
+  .edition-tabs span {
+    flex: 0 0 auto;
+    border-radius: 999px;
+  }
   .cover { flex-basis: 148px; height: 210px; }
   .toc-group .toc-list { margin-left: 0.7rem; }
   .nav-sutta a, .nav-sutta span { min-height: 2.6rem; display: flex; align-items: center; justify-content: center; }

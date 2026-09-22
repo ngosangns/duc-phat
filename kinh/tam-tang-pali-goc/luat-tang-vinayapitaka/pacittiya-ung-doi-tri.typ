@@ -1,8 +1,3 @@
-= Mūla Vinaya Piṭaka Pācittiyapāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Vinayapiṭake Pācittiyapāḷi
-
 #block[
 #set enum(numbering: "1.", start: 5)
 + Pācittiyakaṇḍaṃ
@@ -11085,7 +11080,6 @@ sabbeheva samaggehi sammodamānehi avivadamānehi sikkhitabbanti.
 
 Mahāvibhaṅgo niṭṭhito.
 
-Namo tassa bhagavato arahato sammāsambuddhassa
 
 Bhikkhunīvibhaṅgo
 

@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Khuddakanikāyo Vimānavatthupāḷi
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Khuddakanikāye Vimānavatthupāḷi
-
 + Itthivimānaṃ
 
 == 1. Pīṭhavaggo

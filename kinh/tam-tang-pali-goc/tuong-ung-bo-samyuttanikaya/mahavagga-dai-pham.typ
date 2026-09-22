@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Saṃyuttanikāyo Mahāvaggo
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Saṃyuttanikāyo Mahāvaggo
-
 + Maggasaṃyuttaṃ
 
 == 1. Avijjāvaggo

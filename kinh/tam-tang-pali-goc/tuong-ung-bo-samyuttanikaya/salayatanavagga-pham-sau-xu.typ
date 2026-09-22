@@ -1,8 +1,3 @@
-= Mūla Sutta Piṭaka Saṃyuttanikāyo Saḷāyatanavaggo
-Namo tassa bhagavato arahato sammāsambuddhassa
-
-Saṃyuttanikāyo Saḷāyatanavaggo
-
 + Saḷāyatanasaṃyuttaṃ
 
 == 1. Aniccavaggo
