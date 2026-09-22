@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the static reading-library data from Typst sources.
+"""Build the static reading-library data from the independent translation.
 
 Compiles each .typ volume to HTML (Typst experimental HTML export), splits
 the result on headings into reading-sized fragments, and writes:
@@ -56,45 +56,6 @@ INTRO_TITLES = {
 # ---------------------------------------------------------------------------
 # Library map
 # ---------------------------------------------------------------------------
-
-VN_VOLUMES = [
-    {
-        "id": "dn",
-        "title": "Kinh Trường Bộ",
-        "pali": "Dīgha Nikāya",
-        "file": "kinh-truong-bo-tron-bo-34-kinh.typ",
-    },
-    {
-        "id": "mn",
-        "title": "Kinh Trung Bộ",
-        "pali": "Majjhima Nikāya",
-        "file": "kinh-trung-bo-tron-bo-152-kinh.typ",
-    },
-    {
-        "id": "sn",
-        "title": "Kinh Tương Ưng Bộ",
-        "pali": "Saṃyutta Nikāya",
-        "file": "kinh-tuong-ung-bo-tron-bo-56-nhom.typ",
-    },
-    {
-        "id": "an",
-        "title": "Kinh Tăng Chi Bộ",
-        "pali": "Aṅguttara Nikāya",
-        "file": "kinh-tang-chi-bo-tron-bo-11-chuong.typ",
-    },
-    {
-        "id": "kn",
-        "title": "Kinh Tiểu Bộ",
-        "pali": "Khuddaka Nikāya",
-        "file": "kinh-tieu-bo-tuyen-tap-7-phan.typ",
-    },
-    {
-        "id": "vinaya",
-        "title": "Luật Tạng",
-        "pali": "Vinaya Piṭaka",
-        "file": "luat-tang-tuyen-tap-6-tap.typ",
-    },
-]
 
 NIKAYA_GROUPS = [
     ("dn", "Trường Bộ", "Dīgha Nikāya", "truong-bo"),
@@ -561,39 +522,6 @@ def count_leaves(nodes: list[dict]) -> int:
             n += 1
         n += count_leaves(node.get("children") or [])
     return n
-
-
-def build_vn(root: Path, texts: Path, only: str | None) -> dict:
-    col_id = "vn"
-    folder = root / "kinh/kinh-tieng-viet-suu-tam"
-    volumes = []
-    for spec in VN_VOLUMES:
-        key = f"{col_id}/{spec['id']}"
-        if only and not key.startswith(only) and only != col_id:
-            continue
-        src = folder / spec["file"]
-        print(f"  {key}  ← {src.name}", flush=True)
-        units = flatten_structural(units_from_typ(src, root))
-        children = write_units(
-            units, texts, key, Path(col_id) / spec["id"]
-        )
-        volumes.append(
-            {
-                "id": spec["id"],
-                "title": spec["title"],
-                "pali": spec["pali"],
-                "route": key,
-                "source": str(src.relative_to(root)),
-                "leafCount": count_leaves(children),
-                "children": children,
-            }
-        )
-    return {
-        "id": col_id,
-        "title": "Kinh tiếng Việt sưu tầm",
-        "blurb": "Bản dịch HT. Thích Minh Châu và các dịch giả Việt Nam đã xuất bản.",
-        "volumes": volumes,
-    }
 
 
 def nikaya_folder(base: Path, prefix: str) -> Path | None:
