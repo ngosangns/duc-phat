@@ -22,7 +22,7 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.1
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, Ta không thấy một hình sắc nào khác chiếm cứ tâm người nam mạnh mẽ như hình sắc người nữ. Này các thầy, hình sắc người nữ chiếm cứ tâm người nam."
+#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, Ta không thấy một hình sắc nào khác chiếm cứ tâm người nam mạnh mẽ như hình sắc người nữ. Này các thầy, hình sắc người nữ chiếm cứ tâm người nam."
 
 === AN 1.2
 
@@ -566,7 +566,7 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.131
 
-#super[1] "Này các thầy, Ta không thấy một người nào khác có thể chuyển vận đúng đắn, tiếp nối đúng đắn bánh xe Pháp vô thượng mà Như Lai đã chuyển vận, như Sāriputta. Này các thầy, Sāriputta chuyển vận đúng đắn, tiếp nối đúng đắn bánh xe Pháp vô thượng mà Như Lai đã chuyển vận."
+#super[1] "Này các thầy, Ta không thấy một người nào khác có thể chuyển vận đúng đắn, tiếp nối đúng đắn bánh xe Pháp vô thượng mà Như Lai đã chuyển vận, như Xá-lợi-phất (Sāriputta). Này các thầy, Sāriputta chuyển vận đúng đắn, tiếp nối đúng đắn bánh xe Pháp vô thượng mà Như Lai đã chuyển vận."
 
 == 14. Hạng Nhất (Etadaggavaggo)
 
@@ -576,47 +576,47 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.133
 
-#super[1] "Này các thầy, vị hạng nhất về đại trí tuệ chính là Sāriputta."
+#super[1] "Này các thầy, vị hạng nhất về đại trí tuệ chính là Xá-lợi-phất (Sāriputta)."
 
 === AN 1.134
 
-#super[1] "Này các thầy, vị hạng nhất về thần thông chính là Mahāmoggallāna."
+#super[1] "Này các thầy, vị hạng nhất về thần thông chính là Mục Kiền Liên (Mahāmoggallāna)."
 
 === AN 1.135
 
-#super[1] "Này các thầy, vị hạng nhất về hạnh đầu đà chính là Mahākassapa."
+#super[1] "Này các thầy, vị hạng nhất về hạnh đầu đà chính là Ma-ha-ca-diếp (Mahākassapa)."
 
 === AN 1.136
 
-#super[1] "Này các thầy, vị hạng nhất về thiên nhãn chính là Anuruddha."
+#super[1] "Này các thầy, vị hạng nhất về thiên nhãn chính là A-na-luật-đà (Anuruddha)."
 
 === AN 1.137
 
-#super[1] "Này các thầy, vị hạng nhất về xuất thân dòng dõi cao quý chính là Bhaddiya Kāḷigodhāyaputta."
+#super[1] "Này các thầy, vị hạng nhất về xuất thân dòng dõi cao quý chính là Ba-đi-da (Bhaddiya) Kāḷigodhāyaputta."
 
 === AN 1.138
 
-#super[1] "Này các thầy, vị hạng nhất về giọng nói du dương chính là Lakuṇṭaka Bhaddiya."
+#super[1] "Này các thầy, vị hạng nhất về giọng nói du dương chính là Lakuṇṭaka Ba-đi-da (Bhaddiya)."
 
 === AN 1.139
 
-#super[1] "Này các thầy, vị hạng nhất về rống tiếng rống sư tử chính là Piṇḍolabhāradvāja."
+#super[1] "Này các thầy, vị hạng nhất về rống tiếng rống sư tử chính là Tân-đầu-lô-phả-la-đọa (Piṇḍolabhāradvāja)."
 
 === AN 1.140
 
-#super[1] "Này các thầy, vị hạng nhất về thuyết pháp chính là Puṇṇa Mantāṇiputta."
+#super[1] "Này các thầy, vị hạng nhất về thuyết pháp chính là Phú-lâu-na (Puṇṇa) Mãn-từ tử (Mantāṇiputta)."
 
 === AN 1.141
 
-#super[1] "Này các thầy, vị hạng nhất về phân tích rộng ý nghĩa những lời nói vắn tắt chính là Mahākaccāna." (Hết phẩm thứ nhất.)
+#super[1] "Này các thầy, vị hạng nhất về phân tích rộng ý nghĩa những lời nói vắn tắt chính là Đại Ca-chiên-diên (Mahākaccāna)." (Hết phẩm thứ nhất.)
 
 === AN 1.142
 
-#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo của Ta, vị hạng nhất về tạo ra thân do ý sinh chính là Cūḷapanthaka."
+#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo của Ta, vị hạng nhất về tạo ra thân do ý sinh chính là Chu-lợi Bàn-đặc (Cūḷapanthaka)."
 
 === AN 1.143
 
-#super[1] "Này các thầy, vị hạng nhất về thiện xảo chuyển đổi tâm chính là Cūḷapanthaka."
+#super[1] "Này các thầy, vị hạng nhất về thiện xảo chuyển đổi tâm chính là Chu-lợi Bàn-đặc (Cūḷapanthaka)."
 
 === AN 1.144
 
@@ -624,27 +624,27 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.145
 
-#super[1] "Này các thầy, vị hạng nhất về an trú vô tránh chính là Subhūti."
+#super[1] "Này các thầy, vị hạng nhất về an trú vô tránh chính là Tu-bồ-đề (Subhūti)."
 
 === AN 1.146
 
-#super[1] "Này các thầy, vị hạng nhất về xứng đáng được cúng dường chính là Subhūti."
+#super[1] "Này các thầy, vị hạng nhất về xứng đáng được cúng dường chính là Tu-bồ-đề (Subhūti)."
 
 === AN 1.147
 
-#super[1] "Này các thầy, vị hạng nhất về sống hạnh a-lan-nhã nơi rừng núi chính là Revata Khadiravaniya."
+#super[1] "Này các thầy, vị hạng nhất về sống hạnh a-lan-nhã nơi rừng núi chính là Ly-bà-đa (Revata) Khadiravaniya."
 
 === AN 1.148
 
-#super[1] "Này các thầy, vị hạng nhất về tu thiền chính là Kaṅkhārevata."
+#super[1] "Này các thầy, vị hạng nhất về tu thiền chính là Kankhà Ly-bà-la (Kaṅkhārevata)."
 
 === AN 1.149
 
-#super[1] "Này các thầy, vị hạng nhất về tinh tấn chính là Soṇa Koḷivisa."
+#super[1] "Này các thầy, vị hạng nhất về tinh tấn chính là Tô-na (Soṇa) Cổ-li-vi-sa (Koḷivisa)."
 
 === AN 1.150
 
-#super[1] "Này các thầy, vị hạng nhất về ăn nói khéo léo chính là Soṇa Kuṭikaṇṇa."
+#super[1] "Này các thầy, vị hạng nhất về ăn nói khéo léo chính là Tô-na (Soṇa) Ku-ti-canh-na (Kuṭikaṇṇa)."
 
 === AN 1.151
 
@@ -656,11 +656,11 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.153
 
-#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo của Ta, vị hạng nhất về ưa thích tu học chính là Rāhula."
+#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo của Ta, vị hạng nhất về ưa thích tu học chính là La-hầu-la (Rāhula)."
 
 === AN 1.154
 
-#super[1] "Này các thầy, vị hạng nhất về xuất gia do lòng tin chính là Raṭṭhapāla."
+#super[1] "Này các thầy, vị hạng nhất về xuất gia do lòng tin chính là La-tha-ba-la (Raṭṭhapāla)."
 
 === AN 1.155
 
@@ -668,11 +668,11 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.156
 
-#super[1] "Này các thầy, vị hạng nhất về biện tài chính là Vaṅgīsa."
+#super[1] "Này các thầy, vị hạng nhất về biện tài chính là Bằng-kỳ-sa (Vaṅgīsa)."
 
 === AN 1.157
 
-#super[1] "Này các thầy, vị hạng nhất về oai nghi trọn vẹn khả ái chính là Upasena Vaṅgantaputta."
+#super[1] "Này các thầy, vị hạng nhất về oai nghi trọn vẹn khả ái chính là Upasena Bang-gan-đa-bu-đa (Vaṅgantaputta)."
 
 === AN 1.158
 
@@ -684,11 +684,11 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.160
 
-#super[1] "Này các thầy, vị hạng nhất về mau chứng thắng trí chính là Bāhiya Dārucīriya."
+#super[1] "Này các thầy, vị hạng nhất về mau chứng thắng trí chính là Bà-hi (Bāhiya) Đầu-mộc (Dārucīriya)."
 
 === AN 1.161
 
-#super[1] "Này các thầy, vị hạng nhất về thuyết pháp linh động, gây nhiều cảm hứng chính là Kumārakassapa."
+#super[1] "Này các thầy, vị hạng nhất về thuyết pháp linh động, gây nhiều cảm hứng chính là Câu-ma-la-ca-diếp (Kumārakassapa)."
 
 === AN 1.162
 
@@ -696,23 +696,23 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.163
 
-#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo của Ta, vị hạng nhất về đa văn chính là Ānanda."
+#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo của Ta, vị hạng nhất về đa văn chính là A-nan (Ānanda)."
 
 === AN 1.164
 
-#super[1] "Này các thầy, vị hạng nhất về có niệm chính là Ānanda."
+#super[1] "Này các thầy, vị hạng nhất về có niệm chính là A-nan (Ānanda)."
 
 === AN 1.165
 
-#super[1] "Này các thầy, vị hạng nhất về mẫn tiệp chính là Ānanda."
+#super[1] "Này các thầy, vị hạng nhất về mẫn tiệp chính là A-nan (Ānanda)."
 
 === AN 1.166
 
-#super[1] "Này các thầy, vị hạng nhất về kiên trì chính là Ānanda."
+#super[1] "Này các thầy, vị hạng nhất về kiên trì chính là A-nan (Ānanda)."
 
 === AN 1.167
 
-#super[1] "Này các thầy, vị hạng nhất về làm thị giả chính là Ānanda."
+#super[1] "Này các thầy, vị hạng nhất về làm thị giả chính là A-nan (Ānanda)."
 
 === AN 1.168
 
@@ -724,7 +724,7 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.170
 
-#super[1] "Này các thầy, vị hạng nhất về ít bệnh tật chính là Bākula."
+#super[1] "Này các thầy, vị hạng nhất về ít bệnh tật chính là Bạc-câu-la (Bākula)."
 
 === AN 1.171
 
@@ -732,7 +732,7 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.172
 
-#super[1] "Này các thầy, vị hạng nhất về trì luật chính là Upāli."
+#super[1] "Này các thầy, vị hạng nhất về trì luật chính là Ưu-ba-ly (Upāli)."
 
 === AN 1.173
 
@@ -744,15 +744,15 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.175
 
-#super[1] "Này các thầy, vị hạng nhất về giáo giới Tỷ-kheo chính là Mahākappina."
+#super[1] "Này các thầy, vị hạng nhất về giáo giới Tỷ-kheo chính là Kiếp-tân-na (Mahākappina)."
 
 === AN 1.176
 
-#super[1] "Này các thầy, vị hạng nhất về thiện xảo hỏa giới chính là Sāgata."
+#super[1] "Này các thầy, vị hạng nhất về thiện xảo hỏa giới chính là Sa-già-đà (Sāgata)."
 
 === AN 1.177
 
-#super[1] "Này các thầy, vị hạng nhất về khơi gợi biện tài chính là Rādha."
+#super[1] "Này các thầy, vị hạng nhất về khơi gợi biện tài chính là La-đà (Rādha)."
 
 === AN 1.178
 
@@ -760,15 +760,15 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.179
 
-#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo-ni của Ta, vị hạng nhất về hàng kỳ cựu, xuất gia lâu năm, chính là Mahāpajāpatī Gotamī."
+#super[1] "Này các thầy, trong số các đệ tử Tỷ-kheo-ni của Ta, vị hạng nhất về hàng kỳ cựu, xuất gia lâu năm, chính là Ma-ha-bà-xà-ba-đề (Mahāpajāpatī) Cù-đàm-di (Gotamī)."
 
 === AN 1.180
 
-#super[1] "Này các thầy, vị hạng nhất về đại trí tuệ chính là Khemā."
+#super[1] "Này các thầy, vị hạng nhất về đại trí tuệ chính là An Hòa (Khemā)."
 
 === AN 1.181
 
-#super[1] "Này các thầy, vị hạng nhất về thần thông chính là Uppalavaṇṇā."
+#super[1] "Này các thầy, vị hạng nhất về thần thông chính là Liên Hoa Sắc (Uppalavaṇṇā)."
 
 === AN 1.182
 
@@ -776,7 +776,7 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.183
 
-#super[1] "Này các thầy, vị hạng nhất về thuyết pháp chính là Dhammadinnā."
+#super[1] "Này các thầy, vị hạng nhất về thuyết pháp chính là Đa-ma-đi-na (Dhammadinnā)."
 
 === AN 1.184
 
@@ -784,19 +784,19 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.185
 
-#super[1] "Này các thầy, vị hạng nhất về tinh tấn chính là Soṇā."
+#super[1] "Này các thầy, vị hạng nhất về tinh tấn chính là Tô-na (Soṇā)."
 
 === AN 1.186
 
-#super[1] "Này các thầy, vị hạng nhất về thiên nhãn chính là Bakulā."
+#super[1] "Này các thầy, vị hạng nhất về thiên nhãn chính là Bạc-câu-la (Bakulā)."
 
 === AN 1.187
 
-#super[1] "Này các thầy, vị hạng nhất về mau chứng thắng trí chính là Bhaddā Kuṇḍalakesā."
+#super[1] "Này các thầy, vị hạng nhất về mau chứng thắng trí chính là Cát Tường (Bhaddā) Kuṇḍalakesā."
 
 === AN 1.188
 
-#super[1] "Này các thầy, vị hạng nhất về nhớ lại các đời sống trước chính là Bhaddā Kāpilānī."
+#super[1] "Này các thầy, vị hạng nhất về nhớ lại các đời sống trước chính là Cát Tường (Bhaddā) Ca-tỳ-la-ni (Kāpilānī)."
 
 === AN 1.189
 
@@ -816,47 +816,47 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.193
 
-#super[1] "Này các thầy, vị hạng nhất về bố thí chính là gia chủ Sudatta Anāthapiṇḍika."
+#super[1] "Này các thầy, vị hạng nhất về bố thí chính là gia chủ Tu-đạt-đa (Sudatta) Cấp Cô Độc (Anāthapiṇḍika)."
 
 === AN 1.194
 
-#super[1] "Này các thầy, vị hạng nhất về thuyết pháp chính là gia chủ Citta ở Macchikāsaṇḍa."
+#super[1] "Này các thầy, vị hạng nhất về thuyết pháp chính là gia chủ Citta ở Mạc-chi-ca-san-đa (Macchikāsaṇḍa)."
 
 === AN 1.195
 
-#super[1] "Này các thầy, vị hạng nhất về nhiếp phục hội chúng bằng bốn nhiếp pháp chính là Hatthaka ở Āḷavī."
+#super[1] "Này các thầy, vị hạng nhất về nhiếp phục hội chúng bằng bốn nhiếp pháp chính là Hatthaka ở A-la-bi (Āḷavī)."
 
 === AN 1.196
 
-#super[1] "Này các thầy, vị hạng nhất về bố thí vật thượng hạng chính là Mahānāma dòng Sakya."
+#super[1] "Này các thầy, vị hạng nhất về bố thí vật thượng hạng chính là Ma-ha-nam (Mahānāma) dòng Thích-ca (Sakya)."
 
 === AN 1.197
 
-#super[1] "Này các thầy, vị hạng nhất về bố thí vật vừa ý chính là gia chủ Ugga ở Vesāli."
+#super[1] "Này các thầy, vị hạng nhất về bố thí vật vừa ý chính là gia chủ Ugga ở Tỳ-xá-ly (Vesāli)."
 
 === AN 1.198
 
-#super[1] "Này các thầy, vị hạng nhất về phụng sự Tăng chúng chính là gia chủ Uggata ở Hatthigāma."
+#super[1] "Này các thầy, vị hạng nhất về phụng sự Tăng chúng chính là gia chủ Uggata ở Hát-thi (Hatthigāma)."
 
 === AN 1.199
 
-#super[1] "Này các thầy, vị hạng nhất về lòng tin bất động chính là Sūra Ambaṭṭha."
+#super[1] "Này các thầy, vị hạng nhất về lòng tin bất động chính là Sūra A-MA-TRÚ (Ambaṭṭha)."
 
 === AN 1.200
 
-#super[1] "Này các thầy, vị hạng nhất về khiến người khác khởi lòng tin chính là Jīvaka Komārabhacca."
+#super[1] "Này các thầy, vị hạng nhất về khiến người khác khởi lòng tin chính là Kỳ-bà (Jīvaka) Cô-ma-la-ba-xa (Komārabhacca)."
 
 === AN 1.201
 
-#super[1] "Này các thầy, vị hạng nhất về được tin cậy thân thiết chính là gia chủ Nakulapitā." (Hết phẩm thứ sáu.)
+#super[1] "Này các thầy, vị hạng nhất về được tin cậy thân thiết chính là gia chủ Na-cu-la-bi-đa (Nakulapitā)." (Hết phẩm thứ sáu.)
 
 === AN 1.202
 
-#super[1] "Này các thầy, trong số các đệ tử cư sĩ nữ của Ta, vị hạng nhất về quy y đầu tiên chính là Sujātā, con gái ông Seniya."
+#super[1] "Này các thầy, trong số các đệ tử cư sĩ nữ của Ta, vị hạng nhất về quy y đầu tiên chính là Tô-già-đà (Sujātā), con gái ông Seniya."
 
 === AN 1.203
 
-#super[1] "Này các thầy, vị hạng nhất về bố thí chính là Visākhā Migāramātā."
+#super[1] "Này các thầy, vị hạng nhất về bố thí chính là Tỳ-xá-khư (Visākhā) Lộc Mẫu (Migāramātā)."
 
 === AN 1.204
 
@@ -868,15 +868,15 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.206
 
-#super[1] "Này các thầy, vị hạng nhất về tu thiền chính là Uttarā Nandamātā."
+#super[1] "Này các thầy, vị hạng nhất về tu thiền chính là Uất-đa-la (Uttarā) Nan-đa-mẫu (Nandamātā)."
 
 === AN 1.207
 
-#super[1] "Này các thầy, vị hạng nhất về bố thí vật thượng hạng chính là Suppavāsā, con gái dòng Koliya."
+#super[1] "Này các thầy, vị hạng nhất về bố thí vật thượng hạng chính là Su-ba-ba-sa (Suppavāsā), con gái dòng Cô-li-da (Koliya)."
 
 === AN 1.208
 
-#super[1] "Này các thầy, vị hạng nhất về chăm sóc người bệnh chính là cận sự nữ Suppiyā."
+#super[1] "Này các thầy, vị hạng nhất về chăm sóc người bệnh chính là cận sự nữ Su-bi-da (Suppiyā)."
 
 === AN 1.209
 
@@ -884,11 +884,11 @@ _Trạng thái: đã dịch 323/323 kinh/nhóm; đã trọn tập._
 
 === AN 1.210
 
-#super[1] "Này các thầy, vị hạng nhất về được tin cậy thân thiết chính là nữ gia chủ Nakulamātā."
+#super[1] "Này các thầy, vị hạng nhất về được tin cậy thân thiết chính là nữ gia chủ Na-ku-la-mẫu (Nakulamātā)."
 
 === AN 1.211
 
-#super[1] "Này các thầy, vị hạng nhất về khởi lòng tin qua nghe danh tiếng chính là cận sự nữ Kāḷī, người ở Kulaghara." (Hết phẩm thứ bảy — hết phẩm Đệ Nhất.)
+#super[1] "Này các thầy, vị hạng nhất về khởi lòng tin qua nghe danh tiếng chính là cận sự nữ Ca-lê (Kāḷī), người ở Kulaghara." (Hết phẩm thứ bảy — hết phẩm Đệ Nhất.)
 
 === AN 1.212
 

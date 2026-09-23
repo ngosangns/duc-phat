@@ -434,10 +434,10 @@ phước là tên gọi của lạc, của điều đáng muốn, đáng ưa, đ
 thích. Này các thầy, Ta thắng tri rằng, các phước đã làm từ lâu, Ta đã
 thọ nhận quả báo đáng muốn, đáng ưa, đáng mến, đáng thích. Tu tập tâm từ
 bảy năm, suốt bảy kiếp thành-hoại Ta không trở lại đời này. Này các thầy,
-khi kiếp đang hoại, Ta sanh lên cõi Ābhassara; khi kiếp đang thành, Ta
+khi kiếp đang hoại, Ta sanh lên cõi Quang Âm thiên (Ābhassara); khi kiếp đang thành, Ta
 sanh vào Phạm cung trống không. Ở đó, này các thầy, Ta là Phạm thiên, Đại
 Phạm thiên, bậc chiến thắng, không bị ai chiến thắng, thấy rõ tất cả, nắm
-quyền tự tại. Ba mươi sáu lần, này các thầy, Ta đã là Sakka, Đế Thích của
+quyền tự tại. Ba mươi sáu lần, này các thầy, Ta đã là Thích-ca (Sakka), Đế Thích của
 chư thiên; hàng trăm lần, Ta đã là Chuyển luân vương, đúng pháp, Pháp
 vương, chinh phục bốn phương, đạt sự an ổn của quốc độ, đầy đủ bảy báu.
 Huống gì là ngôi vua một vùng! Này các thầy, Ta khởi lên ý nghĩ: 'Đây là
@@ -484,7 +484,7 @@ Do chứng đạt lợi ích, bậc vững chãi \
 #super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
 nghe như vậy. "Này các thầy, với một người lưu chuyển, luân hồi suốt một
 kiếp, sẽ có một chuỗi xương, một đống xương, một khối xương lớn như núi
-Vepulla này — nếu có người gom lại, và phần đã gom không bị hủy hoại."
+Quảng Phổ (Vepulla) này — nếu có người gom lại, và phần đã gom không bị hủy hoại."
 Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Chỉ trong một kiếp, \
 đống xương của một người \
@@ -492,8 +492,8 @@ có thể lớn như núi, \
 Đại Sĩ đã nói vậy. \
 Núi ấy được chỉ ra, \
 núi Vepulla lớn, \
-phía bắc Gijjhakūṭa, \
-tại Giribbaja của dân Magadha. \
+phía bắc Linh Thứu (Gijjhakūṭa), \
+tại Gi-li-bát-xa (Giribbaja) của dân Ma-kiệt-đà (Magadha). \
 Khi nào thấy các Thánh đế bằng chánh tuệ: \
 khổ, nguồn sanh khổ, \
 sự vượt khỏi khổ, \
@@ -601,7 +601,7 @@ không có thù hận với ai." \
 #strong[Tổng thuyết:]
 
 Tâm, từ, hai lợi ích, \
-đống, núi Vepulla; \
+đống, núi Quảng Phổ (Vepulla); \
 Cố ý nói dối, bố thí, \
 và tu tập từ.
 
@@ -1972,7 +1972,7 @@ như mặt trời mọc diệt bóng tối." \
 
 #super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
 nghe như vậy. "Này các thầy, bị ba phi chánh pháp chế ngự, tâm bị chiếm
-đoạt, Devadatta phải đọa xứ, phải địa ngục, phải ở đó một kiếp, không
+đoạt, Đề-bà-đạt-đa (Devadatta) phải đọa xứ, phải địa ngục, phải ở đó một kiếp, không
 thể chữa. Ba pháp nào? Này các thầy, bị ác dục chế ngự, tâm bị chiếm
 đoạt, Devadatta phải đọa xứ, phải địa ngục, phải ở đó một kiếp, không
 thể chữa. Này các thầy, bị ác hữu chế ngự, tâm bị chiếm đoạt, Devadatta
@@ -1991,7 +1991,7 @@ thú hướng của những kẻ ác dục. \
 nổi danh là Devadatta. \
 Vị ấy đã vượt quá mức, \
 xông vào Như Lai, \
-rơi vào địa ngục Avīci \
+rơi vào địa ngục Vô gián hay A-tỳ (Avīci) \
 bốn cửa, đáng sợ. \
 Ai hại người không sân, \
 người không làm ác, \
@@ -2202,7 +2202,7 @@ vị ấy không còn tái sanh." \
 
 #super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
 nghe như vậy. "Này các thầy, có ba sanh thú dục. Ba sanh thú nào? Dục
-hiện tiền, chư thiên Nimmānarati, chư thiên Paranimmitavasavatti. Này
+hiện tiền, chư thiên Hóa lạc thiên (Nimmānarati), chư thiên Paranimmitavasavatti. Này
 các thầy, đó là ba sanh thú dục." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
 được nói như vầy: \
 "Dục hiện tiền, \
@@ -2260,7 +2260,7 @@ trong Pháp và Luật này được gọi là 'bậc hoàn toàn, đã sống x
 thượng nhân'.
 
 Này các thầy, thế nào là Tỷ-kheo thiện giới? Ở đây, này các thầy,
-Tỷ-kheo có giới, sống chế ngự với sự chế ngự của giới bổn Pātimokkha,
+Tỷ-kheo có giới, sống chế ngự với sự chế ngự của giới bổn Ba-la-đề-mộc-xoa (Pātimokkha),
 thành tựu oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt,
 thọ trì và học tập trong các học giới. Như vậy, này các thầy, Tỷ-kheo
 là thiện giới. Ấy là thiện giới.
@@ -2782,7 +2782,7 @@ chạm đến Chánh giác tối thượng." \
 
 #super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
 nghe như vậy. "Này các thầy, hãy sống đầy đủ giới, đầy đủ giới bổn
-Pātimokkha; hãy sống chế ngự với sự chế ngự của giới bổn Pātimokkha,
+Ba-la-đề-mộc-xoa (Pātimokkha); hãy sống chế ngự với sự chế ngự của giới bổn Pātimokkha,
 thành tựu oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt; hãy
 thọ trì và học tập trong các học giới.
 

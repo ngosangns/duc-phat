@@ -40,7 +40,7 @@ trước ông đã làm nghiệp gì?
 #super[2] Tôi từng hộ trì nơi thân, \
 nhưng không hộ trì nơi lời; \
 vì thế dung sắc tôi như vậy, \
-như ông thấy, này Nārada.
+như ông thấy, này Na-la-đà (Nārada).
 
 #super[3] Tôi nói với ông, Nārada, \
 điều này chính ông đã thấy; \
@@ -61,7 +61,7 @@ dáng khổ hạnh mà miệng không hộ trì; \
 nhờ khổ hạnh tôi được dung sắc ấy, \
 còn miệng tôi hôi thối vì nói hai lưỡi.
 
-#super[3] Điều này chính ông đã thấy, Nārada; \
+#super[3] Điều này chính ông đã thấy, Na-la-đà (Nārada); \
 kẻ bi mẫn, kẻ thiện sẽ nói: \
 "Chớ nói hai lưỡi, chớ nói dối, \
 ông sẽ là Dạ-xoa, hưởng các dục."
@@ -77,8 +77,8 @@ hay nhân thiên thần nơi trú xứ.
 
 #super[2] Cả Tứ Đại Thiên Vương, \
 hộ thế, có danh vọng; \
-Kuvera và Dhataraṭṭha, \
-Virūpakkha và Virūḷhaka; \
+Kuvera và Trì Quốc Thiên vương (Dhataraṭṭha), \
+Quảng Mục Thiên vương (Virūpakkha) và Tăng Trưởng Thiên vương (Virūḷhaka); \
 họ được cúng dường, \
 và người thí không vô quả.
 
@@ -170,7 +170,7 @@ bị ruồi bu quanh, \
 nàng là ai đứng ở đây?
 
 #super[2] Bạch Tôn giả, tôi là ngạ quỷ nữ, \
-khốn khổ, thuộc cõi Yama; \
+khốn khổ, thuộc cõi Dạ-ma (Yama); \
 đã làm nghiệp ác, \
 từ đây đi đến cõi ngạ quỷ.
 
@@ -221,7 +221,7 @@ bị ruồi bu quanh, \
 nàng là ai đứng ở đây?
 
 #super[2] Bạch Tôn giả, tôi là ngạ quỷ nữ, \
-khốn khổ, thuộc cõi Yama; \
+khốn khổ, thuộc cõi Dạ-ma (Yama); \
 đã làm nghiệp ác, \
 từ đây đi đến cõi ngạ quỷ.
 
@@ -312,7 +312,7 @@ sau khi nghe ông, này thanh niên.
 #super[8] Bậc có tuệ làm như vậy, \
 những người có lòng thương; \
 họ quay người ra khỏi sầu, \
-như Sujāta đối với cha.
+như Tô-già-đà (Sujāta) đối với cha.
 
 #strong[(Hết chuyện ngạ quỷ Goṇa, chuyện thứ tám.)]
 
@@ -382,7 +382,7 @@ quả dị thục liền sanh; \
 đây là quả của sự cúng dường.
 
 #super[8] Rồi nàng thanh tịnh, áo sạch, \
-mặc lụa Kāsi tối thượng; \
+mặc lụa Ca-thi (Kāsi) tối thượng; \
 cười, bước ra từ thiên cung: \
 "Đây là quả của sự cúng dường."
 
@@ -468,7 +468,7 @@ uống nhiều vẫn không no, \
 chúng tôi không thỏa.
 
 #super[9] Người đời than khóc như vậy, \
-kẻ không thí, chết rồi đứng chỗ Yama; \
+kẻ không thí, chết rồi đứng chỗ Dạ-ma (Yama); \
 những ai gắng sức được tài sản, \
 không thọ hưởng cũng không làm phước.
 
@@ -551,7 +551,7 @@ Khetta và Sūkara, Pūti, \
 Piṭṭha và Tirokuṭṭa; \
 Pañca và Sattaputta, \
 Goṇa và Pesakāraka; \
-cùng Khallāṭiya, Nāga, \
+cùng Khallāṭiya, Na-già (Nāga), \
 và Uraga là chuyện thứ mười hai.
 
 == 2. Phẩm Up-ba-ri (Ubbarivaggo)
@@ -564,7 +564,7 @@ xương sườn lộ, gầy mòn, \
 nàng là ai đứng ở đây?
 
 #super[2] Bạch Tôn giả, tôi là ngạ quỷ nữ, \
-khốn khổ, thuộc cõi Yama; \
+khốn khổ, thuộc cõi Dạ-ma (Yama); \
 đã làm nghiệp ác, \
 từ đây đi đến cõi ngạ quỷ.
 
@@ -589,7 +589,7 @@ thí rồi hãy hồi hướng cho con bất cứ gì, \
 giải thoát con khỏi đường dữ, bạch Tôn giả.
 
 #super[7] "Lành thay," ngài nhận lời, \
-Sāriputta có lòng thương; \
+Xá-lợi-phất (Sāriputta) có lòng thương; \
 thí cho các Tỷ-kheo một vắt cơm, \
 một nắm vải vụn, \
 và nước một bát, \
@@ -601,14 +601,14 @@ quả dị thục liền sanh; \
 đây là quả của sự cúng dường.
 
 #super[9] Rồi nàng thanh tịnh, áo sạch, \
-mặc lụa Kāsi tối thượng; \
+mặc lụa Ca-thi (Kāsi) tối thượng; \
 áo trang sức sặc sỡ, \
 đi đến Sāriputta.
 
 #super[10] Với dung sắc thù thắng, \
 nàng chư thiên đứng đó; \
 chiếu sáng khắp mọi phương, \
-như sao Osadhī.
+như sao Ô-sa-đi (Osadhī).
 
 #super[11] Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây được thành tựu? \
@@ -701,8 +701,8 @@ khỏi ăn mủ máu.
 
 #super[7] Nghe lời mẹ, \
 Upatissa có lòng thương; \
-gọi Moggallāna, \
-Anuruddha và Kappina.
+gọi Mục-kiền-liên (Moggallāna), \
+A-na-luật-đà (Anuruddha) và Kappina.
 
 #super[8] Làm bốn am, \
 thí cho Tăng bốn phương; \
@@ -715,14 +715,14 @@ quả dị thục liền sanh; \
 đây là quả của sự cúng dường.
 
 #super[10] Rồi nàng thanh tịnh, áo sạch, \
-mặc lụa Kāsi tối thượng; \
+mặc lụa Ca-thi (Kāsi) tối thượng; \
 áo trang sức sặc sỡ, \
 đi đến Kolita.
 
 #super[11] Với dung sắc thù thắng, \
 nàng chư thiên đứng đó; \
 chiếu sáng khắp mọi phương, \
-như sao Osadhī.
+như sao Ô-sa-đi (Osadhī).
 
 #super[12] Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây được thành tựu? \
@@ -734,7 +734,7 @@ khi làm người, nàng đã làm phước gì? \
 Do đâu nàng oai lực rực cháy như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?
 
-#super[14] Tôi là mẹ của Sāriputta, \
+#super[14] Tôi là mẹ của Xá-lợi-phất (Sāriputta), \
 trong những đời trước; \
 sanh vào cảnh giới ngạ quỷ, \
 bị đói khát chi phối.
@@ -768,7 +768,7 @@ gầy, gân nổi lên; \
 xương sườn lộ, gầy mòn, \
 nàng là ai đứng ở đây?
 
-#super[2] Tôi là Mattā, nàng là Tissā, \
+#super[2] Tôi là Mattā, nàng là Đề-xá (Tissā), \
 trước tôi từng là vợ cùng chồng với nàng; \
 đã làm nghiệp ác, \
 từ đây đi đến cõi ngạ quỷ.
@@ -905,14 +905,14 @@ quả dị thục liền sanh; \
 đây là quả của sự cúng dường.
 
 #super[28] Rồi nàng thanh tịnh, áo sạch, \
-mặc lụa Kāsi tối thượng; \
+mặc lụa Ca-thi (Kāsi) tối thượng; \
 áo trang sức sặc sỡ, \
 đi đến người vợ cùng chồng.
 
 #super[29] Với dung sắc thù thắng, \
 nàng chư thiên đứng đó; \
 chiếu sáng khắp mọi phương, \
-như sao Osadhī.
+như sao Ô-sa-đi (Osadhī).
 
 #super[30] Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây được thành tựu? \
@@ -1003,14 +1003,14 @@ quả dị thục liền sanh; \
 đây là quả của sự cúng dường.
 
 #super[12] Rồi nàng thanh tịnh, áo sạch, \
-mặc lụa Kāsi tối thượng; \
+mặc lụa Ca-thi (Kāsi) tối thượng; \
 áo trang sức sặc sỡ, \
 đi đến chồng.
 
 #super[13] Với dung sắc thù thắng, \
 nàng chư thiên đứng đó; \
 chiếu sáng khắp mọi phương, \
-như sao Osadhī.
+như sao Ô-sa-đi (Osadhī).
 
 #super[14] Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây được thành tựu? \
@@ -1095,7 +1095,7 @@ tôi không sầu, không khóc, \
 sau khi nghe ông, này thanh niên.
 
 #super[11] Ông là chư thiên hay Càn-thát-bà, \
-hay Sakka Purindada? \
+hay Thích-ca (Sakka) Purindada? \
 Ông là ai, con của ai, \
 làm sao chúng tôi biết ông?
 
@@ -1153,7 +1153,7 @@ tôi vui với vợ mình.
 
 === 18. Chuyện ngạ quỷ Can-ha (Kaṇhapetavatthu)
 
-#super[1] Hãy dậy, Kaṇha, sao còn nằm, \
+#super[1] Hãy dậy, Can-ha (Kaṇha), sao còn nằm, \
 ngủ có ích gì cho ông? \
 Người anh em ruột của ông, \
 như tim, như mắt phải; \
@@ -1210,8 +1210,8 @@ Sát-đế-lỵ có nước; \
 của lúa dồi dào, \
 họ cũng không già không chết.
 
-#super[12] Sát-đế-lỵ, Bà-la-môn, Vessa, \
-Sudda, Caṇḍāla, Pukkusa; \
+#super[12] Sát-đế-lỵ, Bà-la-môn, Phệ-xá (Vessa), \
+Thủ-đà (Sudda), Chiên-đà-la: hạ liệt (Caṇḍāla), Pukkusa; \
 những người ấy và kẻ khác do sanh, \
 họ cũng không già không chết.
 
@@ -1265,7 +1265,7 @@ xương sườn lộ, gầy mòn, \
 ông là ai, này hiền giả?
 
 #super[2] Bạch Tôn giả, tôi là ngạ quỷ, \
-khốn khổ, thuộc cõi Yama; \
+khốn khổ, thuộc cõi Dạ-ma (Yama); \
 đã làm nghiệp ác, \
 từ đây đi đến cõi ngạ quỷ.
 
@@ -1367,10 +1367,10 @@ như vậy sẽ đi đến cõi trời.
 Hãy nói cho tôi, biết đâu tôi có thể \
 dâng hết tài sản này cho Ngài."
 
-#super[2] "Thành Bārāṇasī vốn nổi tiếng xa gần, \
+#super[2] "Thành Ba-la-nại (Bārāṇasī) vốn nổi tiếng xa gần, \
 nơi ấy tôi từng là gia chủ giàu có mà keo kiệt. \
 Không bố thí, tâm tham đắm vật thực, \
-vì ác giới tôi đã rơi vào cảnh giới của Yama."
+vì ác giới tôi đã rơi vào cảnh giới của Dạ-ma (Yama)."
 
 #super[3] "Bị kim châm hành hạ vì đói, \
 tôi đi đến bà con vì một chút vật thực. \
@@ -1380,7 +1380,7 @@ rằng quả bố thí có ở đời sau."
 #super[4] "Con gái tôi thường nói mãi: \
 'Tôi sẽ bố thí cho cha và ông.' \
 Bà-la-môn đang hầu hạ lễ vật ấy; \
-tôi đi Andhakavinda để được ăn."
+tôi đi An-đa-ca-bin-đa (Andhakavinda) để được ăn."
 
 #super[5] Nhà vua nói với ngạ quỷ ấy: \
 "Khi đã thọ hưởng xong, hãy mau trở lại, \
@@ -1390,7 +1390,7 @@ ta nghe lời nói có nguyên nhân, đáng tin."
 
 #super[6] Nói "Xin vâng" rồi, ngạ quỷ đi đến đó. \
 Họ ăn cơm, nhưng không phải bậc đáng nhận sự hồi hướng. \
-Ngạ quỷ trở lại Rājagaha lần nữa, \
+Ngạ quỷ trở lại Vương Xá (Rājagaha) lần nữa, \
 hiện ra trước mặt vua chúa.
 
 #super[7] Thấy ngạ quỷ lại đến lần nữa, \
@@ -1480,8 +1480,8 @@ nhiều vị tuôn ra, \
 tôi tưởng Ngài là Purindada."
 
 #super[12] "Ta không phải chư thiên, không phải Càn-thát-bà, \
-cũng không phải Sakka Purindada; \
-này Aṅkura, hãy biết ta là ngạ quỷ, \
+cũng không phải Thích-ca (Sakka) Purindada; \
+này Ang-cu-la (Aṅkura), hãy biết ta là ngạ quỷ, \
 đến đây từ Roruva."
 
 #super[13] "Trước kia ở Roruva, \
@@ -1535,8 +1535,8 @@ bỏ thân người rồi, \
 đã đi về phương nào?"
 
 #super[23] "Ta không biết thú hướng, lai hướng \
-của gia chủ Asayha, bậc Aṅgīrasa; \
-nhưng ta nghe nơi Vessavaṇa: \
+của gia chủ Asayha, bậc Ương-kỳ-la (Aṅgīrasa); \
+nhưng ta nghe nơi Tỳ-sa-môn (Vessavaṇa): \
 Asayha đã đi đến cộng trú với Sakka."
 
 #super[24] "Đủ rồi để làm điều lành, \
@@ -1612,7 +1612,7 @@ hãy thắng ngựa từ đây?
 
 #super[38] "Ai muốn lọng và hương, \
 ai muốn vòng hoa, ai muốn dép?" \
-Thợ cắt tóc, đầu bếp, người Māgadha \
+Thợ cắt tóc, đầu bếp, người Ma-kiệt-đà (Māgadha) \
 luôn hô như vậy ở đó, \
 sáng chiều không dứt, \
 tại nhà Aṅkura.
@@ -1715,7 +1715,7 @@ Aṅkura bỏ thân người, \
 đã đi đến cõi trời Tam thập tam.
 
 #super[58] Indaka chỉ cho một muôi khất thực \
-đến Tôn giả Anuruddha; \
+đến Tôn giả A-na-luật-đà (Anuruddha); \
 ông bỏ thân người, \
 cũng đã đi đến cõi trời Tam thập tam.
 
@@ -1730,8 +1730,8 @@ về địa vị chúa tể, \
 Indaka vượt hơn Aṅkura.
 
 #super[61] Khi Phật, bậc Tối thắng nhân, \
-ngự trên tảng đá Paṇḍukambala \
-dưới gốc cây Pāricchattaka \
+ngự trên tảng đá Vô cấu bạch thạch (Paṇḍukambala) \
+dưới gốc cây cây san hô (Pāricchattaka) \
 ở cõi trời Tam thập tam.
 
 #super[62] Chư thiên từ mười thế giới \
@@ -1804,7 +1804,7 @@ như hạt giống gieo vào ruộng tốt.
 === 22. Chuyện ngạ quỷ Mẹ Của Uất-đa-la (Uttaramātupetivatthu)
 
 #super[1] Một Tỷ-kheo ngồi nghỉ ban ngày \
-bên bờ sông Gaṅgā. \
+bên bờ sông Hằng (Gaṅgā). \
 Một nữ ngạ quỷ đến gần vị ấy, \
 xấu xí, trông thật đáng sợ.
 
@@ -1821,7 +1821,7 @@ Bạch Ngài, xin cho tôi nước uống, \
 tôi khát nước lắm."
 
 #super[4] "Đây là sông Gaṅgā nước lạnh, \
-chảy từ Himavanta. \
+chảy từ Tuyết sơn (Himavanta). \
 Hãy lấy mà uống từ đây, \
 sao lại xin nước nơi tôi?"
 
@@ -1835,7 +1835,7 @@ bằng thân, lời hay ý? \
 Do quả nghiệp gì \
 mà sông Gaṅgā thành máu đối với ngươi?"
 
-#super[7] "Con trai tôi tên Uttara, \
+#super[7] "Con trai tôi tên Uất-đa-la (Uttara), \
 là cận sự nam có lòng tin. \
 Nó bất chấp ý tôi, \
 cúng dường cho các Sa-môn
@@ -1945,7 +1945,7 @@ ao sen ở khắp quanh; \
 nàng đứng bên bờ ao, \
 trên cỏ xanh tươi đẹp.
 
-#super[10] "Rồi chó Kaṇṇamuṇḍa \
+#super[10] "Rồi chó Tai cụt (Kaṇṇamuṇḍa) \
 cắn ăn từng phần thân nàng; \
 khi đã bị cắn, \
 thân thành bộ xương; \
@@ -1962,7 +1962,7 @@ bằng thân, lời hay ý? \
 Do quả nghiệp gì \
 mà chó Kaṇṇamuṇḍa cắn ăn từng phần thân ngươi?"
 
-#super[13] "Ở Kimilā có gia chủ \
+#super[13] "Ở Ci-mi-la (Kimilā) có gia chủ \
 là cận sự nam có lòng tin; \
 tôi là vợ người ấy, \
 ác giới, tà dâm.
@@ -2008,8 +2008,8 @@ hãy mau đưa ta trở về."
 
 === 25. Chuyện ngạ quỷ Up-ba-ri (Ubbaripetavatthu)
 
-#super[1] Có vua Brahmadatta, \
-bậc tối thắng xe của dân Pañcāla; \
+#super[1] Có vua Phạm Thi (Brahmadatta), \
+bậc tối thắng xe của dân Ban-giá-la (Pañcāla); \
 ngày đêm trôi qua, \
 nhà vua mệnh chung.
 
@@ -2099,7 +2099,7 @@ tu tập tâm từ, \
 
 #super[18] Nàng đi từ làng đến làng, \
 qua thị trấn, kinh thành; \
-có làng tên Uruvelā, \
+có làng tên Ưu lâu tần loa (Uruvelā), \
 nơi nàng mệnh chung.
 
 #super[19] Đã tu tập tâm từ \
@@ -2116,26 +2116,26 @@ nàng đã đi đến Phạm thiên giới.
 Mocaka, người mẹ, Mattā, \
 Nandā, Kuṇḍalī, Ghaṭa; \
 hai trưởng giả và người thợ may, \
-Uttara, Sutta, Kaṇṇa, Ubbari.
+Uất-đa-la (Uttara), Sutta, Kaṇṇa, Ubbari.
 
 == 3. Tiểu Phẩm (Cūḷavaggo)
 
 === 26. Chuyện ngạ quỷ A-bhit-xa-ma-na (Abhijjamānapetavatthu)
 
-#super[1] "Ngươi đi trên sông Gaṅgā này \
+#super[1] "Ngươi đi trên sông Hằng (Gaṅgā) này \
 mà nước không gợn sóng; \
 lõa thể như ngạ quỷ nửa thân trước, \
 lại đeo vòng hoa, trang sức. \
 Này ngạ quỷ, ngươi sẽ đi đâu, \
 chỗ ở sẽ là đâu?"
 
-#super[2] "Tôi sẽ đi Cundaṭṭhila," \
+#super[2] "Tôi sẽ đi Xun-đa-thi-la (Cundaṭṭhila)," \
 ngạ quỷ nói như vậy, \
-"giữa Vāsabhagāma \
-và gần Bārāṇasī."
+"giữa Ba-sa-ba-ga-ma (Vāsabhagāma) \
+và gần Ba-la-nại (Bārāṇasī)."
 
 #super[3] Đại thần thấy vậy, \
-nổi tiếng là Koliya, \
+nổi tiếng là Cô-li-da (Koliya), \
 đã cho ngạ quỷ \
 bột rang, cơm, và một đôi y vàng.
 
@@ -2199,9 +2199,9 @@ chúng sanh vào những nơi ấy — \
 #super[15] "Còn người trước đã làm điều lành, \
 thí chủ hết xan tham, \
 họ làm đầy cõi trời, \
-chiếu sáng vườn Nandana.
+chiếu sáng vườn Hoan Lạc Viên (Nandana).
 
-#super[16] "Vui chơi trên lầu Vejayanta, \
+#super[16] "Vui chơi trên lầu Tối Thắng Điện (Vejayanta), \
 những người ưa dục lạc; \
 từ đó chết đi, sanh vào \
 dòng họ cao, giàu có.
@@ -2235,13 +2235,13 @@ người đã làm phước vui thích, \
 
 === 27. Chuyện ngạ quỷ Trưởng Lão Thương-na-hòa-tu (Sāṇavāsītherapetavatthu)
 
-#super[1] Trưởng lão người thành Kuṇḍina, \
-cư ngụ tại Sāṇavāsi, \
-tên Poṭṭhapāda, \
+#super[1] Trưởng lão người thành Cun-đi-na (Kuṇḍina), \
+cư ngụ tại Thương-na-hòa-tu (Sāṇavāsi), \
+tên BỐ-SÁ-BÀ-LÂU (Poṭṭhapāda), \
 Sa-môn đã tu tập các căn.
 
 #super[2] Mẹ, cha và anh ông \
-khốn khổ trong cảnh giới Yama; \
+khốn khổ trong cảnh giới Dạ-ma (Yama); \
 đã làm nghiệp ác, \
 từ đây đi đến cõi ngạ quỷ.
 
@@ -2432,7 +2432,7 @@ toàn thân xinh đẹp, nàng hết sức rực rỡ.
 #super[6] "Lầu đài này không bụi, đứng trên đất bằng, \
 có vườn, làm tăng niềm vui thích; \
 này người nữ dung sắc vô tỷ, tôi muốn \
-cùng nàng vui ở Nandana này."
+cùng nàng vui ở Hoan Lạc Viên (Nandana) này."
 
 #super[7] "Hãy làm nghiệp đáng thọ hưởng ở đây, \
 và hãy để tâm nương nơi đây; \
@@ -2527,7 +2527,7 @@ nó nói lời thô ác, bất thiện.
 #super[9] Nó xua tan tầm ấy, \
 sau được hỷ và tịnh tín; \
 đã hầu hạ Như Lai \
-ngụ tại Jetavana bằng cháo bảy đêm.
+ngụ tại Kỳ-đà Lâm (Jetavana) bằng cháo bảy đêm.
 
 #super[10] Ấy là hạnh ấy, ấy là Phạm hạnh, \
 ấy là quả của hạnh lành ấy; \
@@ -2537,7 +2537,7 @@ nó sẽ thọ hưởng thần lực như thế.
 #super[11] Nó sẽ trụ đúng một trăm năm ở đây, \
 đầy đủ hết thảy dục lạc; \
 thân hoại mạng chung, \
-đi đến cộng trú với Vāsava.
+đi đến cộng trú với Bà-sa-bà (Vāsava).
 
 #strong[(Hết chuyện ngạ quỷ Kumāra, chuyện thứ năm.)]
 
@@ -2549,7 +2549,7 @@ xương sườn lộ, gầy mòn, \
 ngươi là ai đứng đây?"
 
 #super[2] "Bạch Ngài, tôi là nữ ngạ quỷ, \
-khốn khổ trong cảnh giới Yama; \
+khốn khổ trong cảnh giới Dạ-ma (Yama); \
 đã làm nghiệp ác, \
 từ đây đi đến cõi ngạ quỷ."
 
@@ -2573,7 +2573,7 @@ thổi đến thiêu đốt tôi; \
 Bạch Ngài, tôi đáng chịu điều ấy \
 và còn việc ác khác hơn thế.
 
-#super[7] "Xin hãy đến thành Hatthinī, \
+#super[7] "Xin hãy đến thành Hát-thi-ni (Hatthinī), \
 nói với mẹ tôi: \
 'Con gái bà, tôi đã thấy, \
 khốn khổ trong cảnh giới Yama; \
@@ -2633,8 +2633,8 @@ rực rỡ với các dục đáng ưa; \
 ban ngày ngươi thọ nhận hình phạt — \
 ngươi đã làm gì ở đời trước?"
 
-#super[2] "Tôi ở Rājagaha đáng vui, \
-Giribbaja đáng thích; \
+#super[2] "Tôi ở Vương Xá (Rājagaha) đáng vui, \
+Gi-li-bát-xa (Giribbaja) đáng thích; \
 ngày trước tôi là thợ săn nai, \
 tay nhuốm máu, tàn nhẫn.
 
@@ -2697,15 +2697,15 @@ bằng thân, lời hay ý? \
 Do quả nghiệp gì \
 mà ngươi chịu khổ này?"
 
-#super[4] "Tôi ở Rājagaha đáng vui, \
-Giribbaja đáng thích; \
+#super[4] "Tôi ở Vương Xá (Rājagaha) đáng vui, \
+Gi-li-bát-xa (Giribbaja) đáng thích; \
 ngày trước tôi là thợ săn nai, \
 thợ săn không tự chế.
 
 #super[5] "Tôi có bạn thân tình, \
 là cận sự nam có lòng tin; \
 Tỷ-kheo lui tới nhà người ấy \
-là đệ tử Gotama; \
+là đệ tử Cù-đàm (Gotama); \
 vì thương tôi, \
 vị ấy cũng ngăn tôi mãi:
 
@@ -2781,7 +2781,7 @@ tự ăn thịt mình như vậy; \
 như hôm nay tôi đang ăn \
 thịt lưng của chính mình.
 
-#super[8] "Này Nārada, chính ngài đã thấy điều ấy; \
+#super[8] "Này Na-la-đà (Nārada), chính ngài đã thấy điều ấy; \
 những người lành có lòng thương nên nói: \
 chớ nói hai lưỡi, chớ nói vọng, \
 chớ là kẻ ăn thịt lưng người."
@@ -2805,8 +2805,8 @@ bằng thân, lời hay ý? \
 Do quả nghiệp gì \
 mà ngươi chịu khổ này?"
 
-#super[4] "Tôi ở Rājagaha đáng vui, \
-Giribbaja đáng thích; \
+#super[4] "Tôi ở Vương Xá (Rājagaha) đáng vui, \
+Gi-li-bát-xa (Giribbaja) đáng thích; \
 này hiền giả, tôi là chủ \
 của cải lúa gạo rất dồi dào.
 
@@ -2848,7 +2848,7 @@ không phóng dật, lại càng thêm."
 #strong[Tổng thuyết]
 
 Abhijjamāna, Kuṇḍiya, \
-Rathakārī cùng Bhusa; \
+Rathakàràpeti (Rathakārī) cùng Bhusa; \
 Kumāra và kỹ nữ, \
 hai thợ săn, thịt lưng, sự cúng; \
 phẩm được gọi như vậy.
@@ -2857,8 +2857,8 @@ phẩm được gọi như vậy.
 
 === 36. Chuyện ngạ quỷ Am-ba-sát-kha-la (Ambasakkarapetavatthu)
 
-#super[1] Có thành tên Vesālī của dân Vajjī, \
-nơi ấy có Licchavi Ambasakkara; \
+#super[1] Có thành tên Tỳ-xá-ly (Vesālī) của dân Bạt-kỳ (Vajjī), \
+nơi ấy có Ly- xa tử (Licchavi) Ambasakkara; \
 thấy ngạ quỷ ngoài thành, \
 ông hỏi ngay, muốn biết nguyên nhân.
 
@@ -3311,7 +3311,7 @@ và các thương nhân khi ấy; \
 cùng lời nói qua lại, \
 hết thảy hãy nghe lời khéo nói ấy.
 
-#super[2] Vua tên Pāyāsi, \
+#super[2] Vua tên Tệ Túc (Pāyāsi), \
 đã đi đến cộng trú với địa thần, có danh vọng; \
 đang vui trong lầu đài của mình, \
 kẻ phi nhân nói với người:
@@ -3336,9 +3336,9 @@ mong gì mà vào vùng này, \
 xông vào cùng tùy tùng — \
 vì tham, vì sợ, hay vì mê lạc?"
 
-#super[7] "Chúng tôi là chủ đoàn xe ở Magadha và Aṅga, \
+#super[7] "Chúng tôi là chủ đoàn xe ở Ma-kiệt-đà (Magadha) và Ương-già (Aṅga), \
 chất đầy hàng hóa nhiều thứ; \
-chúng tôi đi đất Sindhu Sovīra, \
+chúng tôi đi đất Sindhu Tô-vĩ- la (Sovīra), \
 vì của, mong lợi tức.
 
 #super[8] "Ban ngày không chịu nổi khát, \
@@ -3386,7 +3386,7 @@ phía trên là lầu đài tốt đẹp này; \
 xen ngọc, lan can vàng, \
 phủ khéo bằng tấm vàng tapanīya.
 
-#super[17] "Đây là vàng Jambu nung, mài nhẵn, \
+#super[17] "Đây là vàng Diêm-phù (Jambu) nung, mài nhẵn, \
 có bậc thang lầu; \
 bền, đẹp, khéo ráp, \
 hết sức đáng ngắm, dễ chịu.
@@ -3399,14 +3399,14 @@ Ngài được đảnh lễ bằng lời tán thán.
 #super[19] "Ngài vui, đánh thức đoàn nữ, \
 trong lầu đài cung điện tối thắng đáng ưa; \
 không nghĩ hết, đầy đủ mọi đức, \
-như vua Vessavaṇa tại Naḷinī.
+như vua Tỳ-sa-môn (Vessavaṇa) tại Naḷinī.
 
 #super[20] "Ngài là chư thiên, hay Dạ-xoa, \
 hay Đế Thích, hay từng là người? \
 Các thương nhân, chủ đoàn xe hỏi Ngài, \
 xin nói Ngài là Dạ-xoa tên gì?"
 
-#super[21] "Ta là Dạ-xoa tên Serīsaka, \
+#super[21] "Ta là Dạ-xoa tên Serissaka (Serīsaka), \
 canh sa mạc, hộ đường cát; \
 ta gìn giữ vùng này, \
 làm theo lời vua Vessavaṇa."
@@ -3427,11 +3427,11 @@ Các thương nhân, chủ đoàn xe hỏi Ngài, \
 làm sao Ngài được lầu đài này?"
 
 #super[25] "Người ta gọi ta là Pāyāsi, \
-khi ta trị vì nước Kosala; \
+khi ta trị vì nước Câu-tát-la (Kosala); \
 tà kiến không có, keo kiệt, theo pháp ác, \
 khi ấy ta chủ trương đoạn diệt.
 
-#super[26] "Có Sa-môn Kumārakassapa, \
+#super[26] "Có Sa-môn Câu-ma-la-ca-diếp (Kumārakassapa), \
 nghe nhiều, nói hay, cao quý; \
 khi ấy vị ấy nói pháp thoại cho ta, \
 xua tan những tà kiến chướng của ta.
@@ -3536,7 +3536,7 @@ Này Dạ-xoa, chúng tôi cũng muốn thấy người \
 mà Ngài vì thương đã đến đây; \
 lợi thay cho người mà Ngài quý mến."
 
-#super[46] "Người thợ cắt tóc tên Sambhava, \
+#super[46] "Người thợ cắt tóc tên Tam-bà-bà (Sambhava), \
 cận sự nam, sống bằng quả koccha; \
 hãy biết người ấy là đầy tớ các ông, \
 chớ khinh người ấy, người ấy rất khéo lành."
@@ -3554,7 +3554,7 @@ kẻ keo kiệt hãy xem quả của phước."
 #super[49] Hết thảy ở đó, "tôi trước", \
 tôn thợ cắt tóc ấy lên trước; \
 hết thảy nắm lầu đài, \
-như Masakkasāra của Vāsava.
+như Masakkasāra của Bà-sa-bà (Vāsava).
 
 #super[50] Hết thảy ở đó, "tôi trước", \
 tuyên bố mình là cận sự nam; \
@@ -3571,7 +3571,7 @@ và vừa đủ với vợ mình.
 #super[52] Họ đi đất Sindhu Sovīra, \
 vì của, mong lợi tức; \
 theo nghề, lợi đầy đủ, \
-trở về Pāṭaliputta không tổn hại.
+trở về Ba-tha-li-bu-đa (Pāṭaliputta) không tổn hại.
 
 #super[53] Họ về nhà mình, bình an, \
 đầy đủ con và vợ; \
@@ -3591,8 +3591,8 @@ hết thảy chúng sanh đều được an lạc.
 === 38. Chuyện ngạ quỷ Nan-đa-ca (Nandakapetavatthu)
 
 #super[1] Có vua tên Piṅgalaka, \
-chúa đất Suraṭṭha; \
-đi hầu Moriyā xong, \
+chúa đất Vương quốc an lạc (Suraṭṭha); \
+đi hầu Mô-li-da (Moriyā) xong, \
 lại trở về Suraṭṭha.
 
 #super[2] Lúc nóng giữa trưa, \
@@ -3606,7 +3606,7 @@ an ổn, tốt lành, cát tường; \
 này đánh xe, hãy đi đường này, \
 từ đây gần Suraṭṭha."
 
-#super[4] Người Soraṭṭha đi đường ấy \
+#super[4] Người Sô-la-tha (Soraṭṭha) đi đường ấy \
 cùng quân bốn bộ; \
 một người vẻ mặt kinh sợ \
 nói với người Soraṭṭha:
@@ -3617,7 +3617,7 @@ phía trước còn thấy đường, \
 phía sau không thấy nữa.
 
 #super[6] "Chúng ta đã vào đường tà, \
-gần người của Yama; \
+gần người của Dạ-ma (Yama); \
 hương phi nhân tỏa ra, \
 tiếng kêu tàn nhẫn được nghe."
 
@@ -3678,7 +3678,7 @@ cùng đại thần, cùng quyến thuộc; \
 người Soraṭṭha nói như vầy:
 
 #super[17] "Ngươi là chư thiên hay Càn-thát-bà, \
-hay Sakka Purindada? \
+hay Thích-ca (Sakka) Purindada? \
 Chúng tôi không biết, xin hỏi, \
 làm sao chúng tôi biết ngươi?"
 
@@ -3801,7 +3801,7 @@ vì vậy ta sầu nặng.
 #super[41] "Tâu đại vương, hãy nghe, \
 bậc hàng phục kẻ thù, làm nước hưng thịnh; \
 tâu đại vương, con gái ta \
-Uttarā, cầu nàng được lành.
+Uất-đa-la (Uttarā), cầu nàng được lành.
 
 #super[42] "Nàng làm việc lành, \
 ưa giới và ngày trai, \
@@ -3810,7 +3810,7 @@ biết nói, hết xan tham.
 
 #super[43] "Hành học không khuyết, \
 dịu dàng với nhà người, \
-cận sự nữ của muni dòng Sakya, \
+cận sự nữ của muni dòng Thích-ca (Sakya), \
 bậc Chánh Giác có oai.
 
 #super[44] "Tỷ-kheo đủ giới \
@@ -3831,7 +3831,7 @@ phần này hãy thành tựu cho người ấy.'
 #super[47] "Vừa hồi hướng xong, \
 quả hiện ra; \
 ta thọ hưởng, thỏa mãn dục, \
-như vua Vessavaṇa.
+như vua Tỳ-sa-môn (Vessavaṇa).
 
 #super[48] "Tâu đại vương, hãy nghe, \
 bậc hàng phục kẻ thù, làm nước hưng thịnh; \
@@ -3886,12 +3886,12 @@ bậc dẫn đầu lên xe.
 
 === 39. Chuyện ngạ quỷ Lê-ba-đi (Revatīpetavatthu)
 
-#super[1] "Hãy dậy, Revatī, kẻ tánh hạnh rất ác, \
+#super[1] "Hãy dậy, Lê-ba-đi (Revatī), kẻ tánh hạnh rất ác, \
 cửa nhà đang mở, không có thói bố thí; \
 Chúng ta sẽ đưa ngươi đến chỗ những kẻ khốn cùng kêu than, \
 những chúng sanh địa ngục đang bị khổ bức."
 
-#super[2] Nói xong như vậy, các sứ giả của Yama, \
+#super[2] Nói xong như vậy, các sứ giả của Dạ-ma (Yama), \
 hai Dạ-xoa mắt đỏ, thân hình to lớn, \
 nắm lấy Revatī mỗi bên một cánh tay, \
 đưa đi đến trước hội chúng chư thiên.
@@ -3906,7 +3906,7 @@ làm đẹp thiên cung cả hai phía; \
 Nó hiện ra cùng màu với mặt trời — \
 ai được lên cõi trời, vui chơi trong thiên cung ấy?"
 
-#super[5] "Ở Bārāṇasī có người tên Nandiya, \
+#super[5] "Ở Ba-la-nại (Bārāṇasī) có người tên Nan-đề (Nandiya), \
 cư sĩ không keo kiệt, thí chủ rộng rãi; \
 Thiên cung này của người ấy, đông đảo người, \
 rực rỡ như ánh nắng mặt trời."
@@ -4059,8 +4059,8 @@ mừng rỡ, hân hoan, và hoan hỷ.
 
 === 41. Chuyện ngạ quỷ Thiếu Niên (Kumārapetavatthu)
 
-#super[1] "Có thành tên Sāvatthi, \
-phía núi Himavanta; \
+#super[1] "Có thành tên Xá-vệ (Sāvatthi), \
+phía núi Tuyết sơn (Himavanta); \
 Ở đấy có hai hoàng tử, \
 con vua, tôi đã nghe như vậy."
 
@@ -4108,9 +4108,9 @@ và xúc đáng ưa.
 #super[2] Đã hưởng không ít \
 múa, hát, vui thú, trò chơi, \
 dạo chơi trong vườn, \
-khi đang vào thành Giribbaja.
+khi đang vào thành Gi-li-bát-xa (Giribbaja).
 
-#super[3] Ông thấy ẩn sĩ Sunetta, \
+#super[3] Ông thấy ẩn sĩ Su-nê-đa (Sunetta), \
 tự điều phục, tâm định, \
 ít ham muốn, đủ hổ thẹn, \
 vui với đồ khất thực đã vào bát.
@@ -4175,7 +4175,7 @@ Chắc chắn ngươi là kẻ làm ác, \
 ngươi tin điều gì vậy?"
 
 #super[2] "Bạch Ngài, tôi là ngạ quỷ, \
-khốn cùng, thuộc cõi Yama; \
+khốn cùng, thuộc cõi Dạ-ma (Yama); \
 Đã làm nghiệp ác, \
 từ đây đi vào cõi ngạ quỷ."
 
@@ -4218,7 +4218,7 @@ Chắc chắn nàng là kẻ làm ác, \
 nàng tin điều gì vậy?"
 
 #super[2] "Bạch Ngài, tôi là nữ ngạ quỷ, \
-khốn cùng, thuộc cõi Yama; \
+khốn cùng, thuộc cõi Dạ-ma (Yama); \
 Đã làm nghiệp ác, \
 từ đây đi vào cõi ngạ quỷ."
 
@@ -4261,7 +4261,7 @@ xương sườn lộ, khẳng khiu — \
 các ngươi là ai ở đây, này các bạn?"
 
 #super[2] "Bạch Ngài, chúng tôi là ngạ quỷ, \
-khốn cùng, thuộc cõi Yama; \
+khốn cùng, thuộc cõi Dạ-ma (Yama); \
 Đã làm nghiệp ác, \
 từ đây đi vào cõi ngạ quỷ."
 
@@ -4316,7 +4316,7 @@ chúng tôi sẽ làm nhiều việc lành."
 #super[1] "Ngươi đã thấy địa ngục, thai súc sanh, \
 ngạ quỷ, a-tu-la, cả loài người và chư thiên; \
 Chính ngươi đã thấy quả nghiệp của mình. \
-Ta sẽ đưa ngươi đến Pāṭaliputta an toàn; \
+Ta sẽ đưa ngươi đến Ba-tha-li-bu-đa (Pāṭaliputta) an toàn; \
 Đến đó hãy làm nghiệp lành."
 
 #super[2] "Dạ-xoa muốn lợi cho tôi, \
@@ -4405,7 +4405,7 @@ Chắc chắn ngươi là kẻ làm ác, \
 sao ngươi kêu la vậy?"
 
 #super[2] "Bạch Ngài, tôi là ngạ quỷ, \
-khốn cùng, thuộc cõi Yama; \
+khốn cùng, thuộc cõi Dạ-ma (Yama); \
 Đã làm nghiệp ác, \
 từ đây đi vào cõi ngạ quỷ."
 
@@ -4449,13 +4449,13 @@ chúng đập vỡ sọ ngươi."
 
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
-Ambasakkara, Serīsaka, \
-Piṅgala, Revatī, Ucchu; \
+Ambasakkara, Serissaka (Serīsaka), \
+Piṅgala, Lê-ba-đi (Revatī), Ucchu; \
 Hai chuyện hoàng tử, hai chuyện phân, \
-Gaṇa, Pāṭali, Ambavana.
+Gaṇa, Ba-ba-la (Pāṭali), Ambavana.
 
 Akkharukkha, Bhogasaṃhara, \
-Seṭṭhiputta, Saṭṭhikūṭa; \
+Seṭṭhiputta, Sa-thi-cu-tha (Saṭṭhikūṭa); \
 Mười sáu chuyện như vậy, \
 nên được gọi là một phẩm.
 

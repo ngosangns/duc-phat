@@ -170,7 +170,7 @@ tỉnh thức giữa những kẻ ngủ; \
 người có trí bỏ lại chúng mà đi, \
 như ngựa nhanh bỏ lại ngựa yếu.
 
-#super[30] Nhờ không phóng dật, Maghavā \
+#super[30] Nhờ không phóng dật, Ma-kha-phu (Maghavā) \
 đi đến địa vị tối thượng giữa chư thiên; \
 không phóng dật được tán thán, \
 phóng dật luôn bị chê.
@@ -249,7 +249,7 @@ còn làm lợi mình hơn thế.
 == 4. Phẩm Hoa (Pupphavaggo)
 
 #super[44] Ai sẽ xem xét quả đất này, \
-cõi Yama và thế giới chư thiên này? \
+cõi Dạ-ma (Yama) và thế giới chư thiên này? \
 Ai sẽ hái lấy câu Pháp đã khéo dạy, \
 như người khéo tay hái hoa?
 
@@ -1102,7 +1102,7 @@ chúng ta sống không hối hả.
 #super[200] Thật chúng ta sống rất lạc, \
 những kẻ không còn sở hữu gì; \
 chúng ta sẽ lấy hỷ làm thức ăn, \
-như chư thiên Ābhassarā.
+như chư thiên Quang Âm thiên (Ābhassarā).
 
 #super[201] Thắng thì sanh hận, \
 bại thì ngủ khổ; \
@@ -1291,7 +1291,7 @@ họ thật khéo thu thúc.
 == 18. Phẩm Cáu Bẩn (Malavaggo)
 
 #super[235] Nay ngươi như lá úa, \
-sứ giả Yama đã đứng sẵn; \
+sứ giả Dạ-ma (Yama) đã đứng sẵn; \
 ngươi đứng trước cửa ra đi, \
 lương thực đường trường cũng không có.
 
@@ -1615,7 +1615,7 @@ và hai vị vua Bà-la-môn; \
 giết hổ làm thứ năm, \
 Bà-la-môn ra đi không ưu não.
 
-#super[296] Đệ tử Gotama luôn luôn \
+#super[296] Đệ tử Cù-đàm (Gotama) luôn luôn \
 tỉnh thức một cách khéo léo; \
 ngày và đêm, \
 niệm của họ thường hướng về Phật.
@@ -1658,7 +1658,7 @@ cũng chớ để khổ đuổi theo.
 ở đó được cung kính.
 
 #super[304] Bậc hiền thiện tỏa sáng từ xa, \
-như núi Himavanta; \
+như núi Tuyết sơn (Himavanta); \
 kẻ bất thiện ở đây không hiện, \
 như tên bắn trong đêm.
 

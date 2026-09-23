@@ -30,7 +30,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -68,7 +68,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -106,7 +106,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -149,7 +149,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -207,7 +207,7 @@ hay là quả trì giới, \
 hay là quả chắp tay lễ; \
 nàng hãy nói cho tôi, khi được hỏi."
 
-#super[7] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[7] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -255,7 +255,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -308,7 +308,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -414,7 +414,7 @@ vì lợi ích, đức Phật đã uống nước."
 #super[1] "Với dung sắc thù thắng, \
 nàng đứng đó, này thiên nữ; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -431,7 +431,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[5] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[5] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -467,7 +467,7 @@ và dung sắc tôi chiếu sáng mọi phương."
 #super[1] "Với dung sắc thù thắng, \
 nàng đứng đó, này thiên nữ; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -479,7 +479,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -521,7 +521,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -561,7 +561,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[3] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[3] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -592,7 +592,7 @@ và dung sắc tôi chiếu sáng mọi phương."
 #super[1] "Với dung sắc thù thắng, \
 nàng đứng đó, này thiên nữ; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -604,7 +604,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -616,7 +616,7 @@ tâm trong sáng, không xao động; \
 tôi đã dâng bánh cho vị ấy, \
 với tâm tịnh tín, bằng chính đôi tay; \
 đã cho nửa phần của mình, \
-tôi vui trong rừng Nandana."
+tôi vui trong rừng Hoan Lạc Viên (Nandana)."
 
 #super[7] "Do đó dung sắc tôi như vậy, \
 do đó ở đây tôi được thịnh vượng; \
@@ -635,7 +635,7 @@ và dung sắc tôi chiếu sáng mọi phương."
 #super[1] "Với dung sắc thù thắng, \
 nàng đứng đó, này thiên nữ; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -647,7 +647,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -659,7 +659,7 @@ tâm trong sáng, không xao động; \
 tôi đã dâng một phần cho vị ấy, \
 với tâm tịnh tín, bằng chính đôi tay; \
 đã cho một nắm kummāsa, \
-tôi vui trong rừng Nandana."
+tôi vui trong rừng Hoan Lạc Viên (Nandana)."
 
 #super[7] "Do đó dung sắc tôi như vậy, \
 do đó ở đây tôi được thịnh vượng; \
@@ -678,7 +678,7 @@ và dung sắc tôi chiếu sáng mọi phương."
 #super[1] "Với dung sắc thù thắng, \
 nàng đứng đó, này thiên nữ; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -690,7 +690,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -717,7 +717,7 @@ xa lìa uống rượu men."
 #super[9] "Tôi ưa thích năm học giới, \
 thông suốt các Thánh đế; \
 là nữ cư sĩ của bậc Có Mắt, \
-của Gotama, bậc danh tiếng."
+của Cù-đàm (Gotama), bậc danh tiếng."
 
 #super[10] "Tôi, nhờ giới của mình, \
 nhờ danh, là người có danh; \
@@ -734,7 +734,7 @@ khi còn là người tôi đã làm gì; \
 do đó tôi có oai lực chói sáng như vậy, \
 và dung sắc tôi chiếu sáng mọi phương."
 
-#super[13] Và bạch Tôn giả, xin hãy nhân lời tôi, cúi đầu đảnh lễ dưới chân Thế Tôn: "Bạch Thế Tôn, nữ cư sĩ tên Uttarā cúi đầu đảnh lễ dưới chân Thế Tôn." Thật không lạ, bạch Tôn giả, nếu Thế Tôn thọ ký tôi ở một quả vị Sa-môn nào đó — Thế Tôn đã thọ ký tôi quả Nhất lai.
+#super[13] Và bạch Tôn giả, xin hãy nhân lời tôi, cúi đầu đảnh lễ dưới chân Thế Tôn: "Bạch Thế Tôn, nữ cư sĩ tên Uất-đa-la (Uttarā) cúi đầu đảnh lễ dưới chân Thế Tôn." Thật không lạ, bạch Tôn giả, nếu Thế Tôn thọ ký tôi ở một quả vị Sa-môn nào đó — Thế Tôn đã thọ ký tôi quả Nhất lai.
 
 #strong[(Hết chuyện thiên cung Uttarā, thứ mười lăm.)]
 
@@ -769,7 +769,7 @@ hãy nói cho tôi nếu nàng là đệ tử Phật."
 #super[6] "Trong thành quý khéo xây giữa núi, \
 tôi là thị nữ của bậc vua quý, người có phúc; \
 tôi từng được huấn luyện tối thắng về múa và hát, \
-ở Rājagaha người ta biết tôi là Sirimā."
+ở Vương Xá (Rājagaha) người ta biết tôi là Thi-lợi-ma (Sirimā)."
 
 #super[7] "Đức Phật, đấng Ngưu vương giữa các ẩn sĩ, bậc Đạo sư, \
 đã dạy tôi sự sanh khởi, khổ và vô thường; \
@@ -827,12 +827,12 @@ rực rỡ, chói sáng nhờ danh."
 
 #super[4] "Từ đâu đến, này bậc tướng mạo vô song, \
 nàng sanh vào cung của ta đây; \
-như chư thiên Tam thập tam cùng Indra đối với Phạm thiên, \
+như chư thiên Tam thập tam cùng Nhân-đà-la (Indra) đối với Phạm thiên, \
 tất cả chúng ta nhìn nàng mà không chán."
 
-#super[5] "Điều này, này Sakka, ngài hỏi tôi: \
+#super[5] "Điều này, này Thích-ca (Sakka), ngài hỏi tôi: \
 'từ đâu thác sanh, nàng đến đây'; \
-có thành tên Bārāṇasī của người Kāsi, \
+có thành tên Ba-la-nại (Bārāṇasī) của người Ca-thi (Kāsi), \
 trước kia tôi là thợ làm tóc ở đó."
 
 #super[6] "Tâm tịnh tín nơi Phật và nơi Pháp, \
@@ -855,8 +855,8 @@ quyết định nơi pháp giác ngộ, không bệnh."
 
 Năm tòa, ba thuyền, \
 đèn và lễ hạt mè là hai; \
-chồng hai, dâu, Uttarā, \
-Sirimā, Kesakārikā; \
+chồng hai, dâu, Uất-đa-la (Uttarā), \
+Thi-lợi-ma (Sirimā), Kesakārikā; \
 
 Do đó phẩm này được gọi.
 
@@ -864,12 +864,12 @@ Do đó phẩm này được gọi.
 
 ==== 18. Chuyện thiên cung Nữ Tỳ (Dāsivimānavatthu)
 
-#super[1] "Như chính Sakka, thiên đế, \
-trong rừng Cittalatā đáng ưa; \
+#super[1] "Như chính Thích-ca (Sakka), thiên đế, \
+trong rừng Xit-ta-la-đa (Cittalatā) đáng ưa; \
 nàng đi vòng khắp quanh, \
 được đoàn nữ nhân tôn sùng; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -881,7 +881,7 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
@@ -889,7 +889,7 @@ nghiệp nào cho quả này.
 tôi là nữ tỳ, bị sai khiến trong nhà người."
 
 #super[6] "Tôi là nữ cư sĩ của bậc Có Mắt, \
-của Gotama, bậc danh tiếng; \
+của Cù-đàm (Gotama), bậc danh tiếng; \
 nơi tôi có sự nỗ lực \
 trong giáo pháp của bậc Như Thị ấy."
 
@@ -908,7 +908,7 @@ của Sakka, bậc tự tại; \
 sáu mươi ngàn nhạc khí \
 làm tôi thức giấc."
 
-#super[10] "Ālamba, Gaggara, Bhīma, \
+#super[10] "Ālamba, Già-già liên-trì (Gaggara), Bhīma, \
 Sādhuvādī và Saṃsaya; \
 Pokkhara và Suphassa, \
 cùng các nữ nhân giỏi nhất về vīṇā."
@@ -916,10 +916,10 @@ cùng các nữ nhân giỏi nhất về vīṇā."
 #super[11] "Nandā và Sunandā, \
 Soṇadinnā, Sucimhitā; \
 Alambusā và Missakesī, \
-Puṇḍarīkā, Dāruṇī."
+Hoa sen (Puṇḍarīkā), Dāruṇī."
 
 #super[12] "Eṇīphassā và Suphassā, \
-Subhaddā, Muduvādinī; \
+Thiện Hiền phi (Subhaddā), Muduvādinī; \
 những vị này và các vị khác nữa, hạng tối thắng, \
 là những vị đánh thức các thiên nữ."
 
@@ -930,7 +930,7 @@ nào, chúng ta làm nàng vui."
 
 #super[14] "Đây không phải của người không làm phước, \
 đây chỉ của người đã làm phước; \
-rừng Nandana không sầu, đáng ưa, \
+rừng Hoan Lạc Viên (Nandana) không sầu, đáng ưa, \
 đại lâm của chư thiên Tam thập tam."
 
 #super[15] "An lạc của người không làm phước \
@@ -950,7 +950,7 @@ vì người đã làm phước thì vui, \
 #super[1] "Với dung sắc thù thắng, \
 nàng đứng đó, này thiên nữ; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -962,11 +962,11 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
-#super[5] "Ra khỏi cửa Kevaṭṭa, \
+#super[5] "Ra khỏi cửa Kê-vát-đạt (Kevaṭṭa), \
 tôi có một chỗ ở; \
 ở đó, các đệ tử của bậc Đại ẩn sĩ \
 đi lại."
@@ -994,7 +994,7 @@ xa lìa uống rượu men."
 #super[10] "Tôi ưa thích năm học giới, \
 thông suốt các Thánh đế; \
 là nữ cư sĩ của bậc Có Mắt, \
-của Gotama, bậc danh tiếng."
+của Cù-đàm (Gotama), bậc danh tiếng."
 
 #super[11] "Do đó dung sắc tôi như vậy, \
 do đó ở đây tôi được thịnh vượng; \
@@ -1031,12 +1031,12 @@ nàng bỏ thân người, \
 đã giải thoát, thác sanh từ đây."
 
 #super[5] "Có chư thiên đại thần lực \
-tên Nimmānaratī; \
+tên Hóa lạc thiên (Nimmānaratī); \
 ở đó người nữ ấy được an lạc, \
 người dâng nước vo gạo đang vui."
 
 #super[6] "Ôi, bố thí của người đàn bà khốn khổ, \
-khéo đặt nơi Kassapa; \
+khéo đặt nơi Ca-diếp (Kassapa); \
 bằng lễ vật mang từ chỗ khác, \
 quả thật sự cúng dường đã thành."
 
@@ -1070,8 +1070,8 @@ của sự bố thí nước vo gạo này."
 
 ==== 21. Chuyện thiên cung Chiên-đà-la (Caṇḍālivimānavatthu)
 
-#super[1] "Này Caṇḍālī, hãy đảnh lễ dưới chân \
-Gotama, bậc danh tiếng; \
+#super[1] "Này Chiên-đà-la: hạ liệt (Caṇḍālī), hãy đảnh lễ dưới chân \
+Cù-đàm (Gotama), bậc danh tiếng; \
 vì lòng từ mẫn đối với nàng, \
 ẩn sĩ thứ bảy đã đứng lại."
 
@@ -1108,7 +1108,7 @@ Gotama, bậc danh tiếng."
 #super[8] "Tôi đã đảnh lễ dưới chân, \
 thác sanh khỏi thai Caṇḍāla; \
 tôi được sanh vào thiên cung \
-tốt lành mọi bề, trong Nandana."
+tốt lành mọi bề, trong Hoan Lạc Viên (Nandana)."
 
 #super[9] "Một trăm ngàn thiên nữ \
 đứng tôn sùng quanh; \
@@ -1140,12 +1140,12 @@ những cây này không có \
 ở các cõi khác, này bậc trí."
 
 #super[3] "Do đâu nàng sanh vào thân, \
-ở Tāvatiṃsa, này bậc danh tiếng; \
+ở Tam thập tam thiên (Tāvatiṃsa), này bậc danh tiếng; \
 này thiên nữ, được hỏi hãy nói, \
 đây là quả của nghiệp gì?"
 
 #super[4] "Người ta biết tôi là Bhadditthikā, \
-nữ cư sĩ ở Kimilā; \
+nữ cư sĩ ở Ci-mi-la (Kimilā); \
 đầy đủ tín và giới, \
 luôn ưa san sẻ."
 
@@ -1174,7 +1174,7 @@ thông suốt các Thánh đế; \
 nữ cư sĩ của bậc Có Mắt, \
 sống không phóng dật. \
 Đã làm chỗ ở, đã làm việc lành, từ đó thác sanh, \
-tự chiếu sáng, tôi đi dạo trong Nandana."
+tự chiếu sáng, tôi đi dạo trong Hoan Lạc Viên (Nandana)."
 
 #super[10] "Và các Tỷ-kheo, bậc tối thắng vì lợi ích, vì từ bi, \
 tôi đã cúng dường một đôi ẩn sĩ, bậc đại ẩn sĩ; \
@@ -1194,7 +1194,7 @@ tự chiếu sáng, tôi đi dạo trong Nandana."
 #super[1] "Với dung sắc thù thắng, \
 nàng đứng đó, này thiên nữ; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu dung sắc nàng như vậy, \
 do đâu ở đây nàng được thịnh vượng; \
@@ -1206,12 +1206,12 @@ khi còn là người, nàng đã làm phước gì; \
 do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc nàng chiếu sáng mọi phương?"
 
-#super[4] Thiên nữ ấy, được Moggallāna hỏi, hoan hỷ; \
+#super[4] Thiên nữ ấy, được Mục-kiền-liên (Moggallāna) hỏi, hoan hỷ; \
 được hỏi, nàng giải đáp \
 nghiệp nào cho quả này.
 
 #super[5] "Người ta biết tôi là Soṇadinnā, \
-nữ cư sĩ ở Nāḷandā; \
+nữ cư sĩ ở Na-lan-đà (Nāḷandā); \
 đầy đủ tín và giới, \
 luôn ưa san sẻ."
 
@@ -1238,7 +1238,7 @@ xa lìa uống rượu men."
 #super[10] "Tôi ưa thích năm học giới, \
 thông suốt các Thánh đế; \
 là nữ cư sĩ của bậc Có Mắt, \
-của Gotama, bậc danh tiếng."
+của Cù-đàm (Gotama), bậc danh tiếng."
 
 #super[11] "Do đó dung sắc tôi như vậy, \
 do đó ở đây tôi được thịnh vượng; \
@@ -1256,7 +1256,7 @@ và dung sắc tôi chiếu sáng mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1268,12 +1268,12 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[3] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
 #super[4] "Người ta từng biết tôi là Uposathā, \
-nữ cư sĩ ở Sāketa; \
+nữ cư sĩ ở Sa-kỳ (Sāketa); \
 tôi đầy đủ tín và giới, \
 luôn ưa thích san sẻ.
 
@@ -1300,7 +1300,7 @@ cũng xa lìa uống rượu men.
 #super[9] "Tôi ưa thích năm học giới, \
 thông suốt các Thánh đế; \
 là nữ cư sĩ của bậc Có Mắt, \
-Gotama bậc danh xưng.
+Cù-đàm (Gotama) bậc danh xưng.
 
 #super[10] "Do đó tôi có dung sắc như vậy, \
 do đó ở đây mọi sự thành tựu cho tôi; \
@@ -1311,7 +1311,7 @@ khi còn làm người tôi đã làm phước gì; \
 do đó tôi có oai lực chói sáng như vậy, \
 và dung sắc của tôi chiếu khắp mọi phương."
 
-#super[11] "Thường nghe nói về vườn Nandana, \
+#super[11] "Thường nghe nói về vườn Hoan Lạc Viên (Nandana), \
 ý muốn khởi lên nơi tôi; \
 hướng tâm đến đó, \
 tôi đã sanh vào Nandana.
@@ -1343,7 +1343,7 @@ nàng là bậc Dự lưu, đã đạt sự thù thắng, \
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1355,12 +1355,12 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[3] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
 #super[4] "Người ta từng biết tôi là Niddā, \
-nữ cư sĩ ở Rājagaha; \
+nữ cư sĩ ở Vương Xá (Rājagaha); \
 tôi đầy đủ tín và giới, \
 luôn ưa thích san sẻ.
 
@@ -1387,7 +1387,7 @@ cũng xa lìa uống rượu men.
 #super[9] "Tôi ưa thích năm học giới, \
 thông suốt các Thánh đế; \
 là nữ cư sĩ của bậc Có Mắt, \
-Gotama bậc danh xưng.
+Cù-đàm (Gotama) bậc danh xưng.
 
 #super[10] "Do đó tôi có dung sắc như vậy, \
 do đó ở đây mọi sự thành tựu cho tôi; \
@@ -1405,7 +1405,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1417,12 +1417,12 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[3] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
 #super[4] "Người ta từng biết tôi là Suniddā, \
-nữ cư sĩ ở Rājagaha; \
+nữ cư sĩ ở Vương Xá (Rājagaha); \
 tôi đầy đủ tín và giới, \
 luôn ưa thích san sẻ.
 
@@ -1446,7 +1446,7 @@ cũng xa lìa uống rượu men.
 #super[6] "Tôi ưa thích năm học giới, \
 thông suốt các Thánh đế; \
 là nữ cư sĩ của bậc Có Mắt, \
-Gotama bậc danh xưng.
+Cù-đàm (Gotama) bậc danh xưng.
 
 #super[7] "Do đó tôi có dung sắc như vậy, \
 do đó ở đây mọi sự thành tựu cho tôi; \
@@ -1464,7 +1464,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1476,7 +1476,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[3] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -1504,7 +1504,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1516,7 +1516,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[3] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -1545,7 +1545,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 
 Dāsī và Lakhumā, \
 rồi người nữ bố thí nước cơm; \
-Caṇḍālī và Bhadditthī, \
+Chiên-đà-la: hạ liệt (Caṇḍālī) và Bhadditthī, \
 Soṇadinnā, Uposathā; \
 Niddā và Suniddā, \
 cùng hai người nữ bố thí thức ăn khất thực — \
@@ -1565,7 +1565,7 @@ các thiên tử trang điểm.
 #super[2] "Họ vui mừng, vây quanh, \
 cúng dường nàng, này thiên nữ; \
 các thiên cung vàng này của nàng, \
-ở Sudassana.
+ở Thiện Kiến (Sudassana).
 
 #super[3] "Nàng là chủ của họ, \
 thành tựu mọi điều mong muốn; \
@@ -1602,7 +1602,7 @@ tôi không sống được lâu.
 #super[9] "Khi thân hoại, tôi được giải thoát, \
 mạng chung từ đó; \
 tôi sanh cộng trú \
-với chư thiên Tāvatiṃsa.
+với chư thiên Tam thập tam thiên (Tāvatiṃsa).
 
 #super[10] "Do đó tôi có dung sắc như vậy, \
 do đó ở đây mọi sự thành tựu cho tôi; \
@@ -1667,7 +1667,7 @@ hoan hỷ với năm dục công đức.
 #super[10] "Quả phước như vậy không phải nhỏ, \
 lễ phẩm mía của tôi có ánh sáng lớn; \
 được Thiên chủ che chở, được chư thiên Tam thập hộ trì, \
-như bậc Ngàn Mắt trong vườn Nandana.
+như bậc Ngàn Mắt trong vườn Hoan Lạc Viên (Nandana).
 
 #super[11] "Và bạch Tôn giả, bậc từ mẫn, bậc trí, \
 tôi đến đảnh lễ, hỏi về điều lành; \
@@ -1733,7 +1733,7 @@ tôi thọ mạng dài, đã đến thiên cung."
 
 #super[1] Latā và Sajjā, thiên nữ tối thắng Accimatī \
 của bậc vua hiền, đầy uy quang; \
-và Sutā, con gái vua Vessavaṇa, \
+và Sutā, con gái vua Tỳ-sa-môn (Vessavaṇa), \
 Rājīmatī, họ rực rỡ nhờ các đức pháp.
 
 #super[2] Năm người nữ đến đây để tắm, \
@@ -1803,7 +1803,7 @@ này thầy, thầy sẽ thắng đệ tử."
 #super[3] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī.
+như ngôi sao Ô-sa-đi (Osadhī).
 
 #super[4] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1816,7 +1816,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[6] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -1847,7 +1847,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1860,7 +1860,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[4] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -1888,7 +1888,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1901,7 +1901,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[4] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -1929,7 +1929,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1942,7 +1942,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[4] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -1970,7 +1970,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -1983,7 +1983,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[4] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -2011,7 +2011,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -2023,12 +2023,12 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[3] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
 #super[4] "Tôi đã ấn dấu hương năm ngón \
-lên tháp của Thế Tôn Kassapa; \
+lên tháp của Thế Tôn Ca-diếp (Kassapa); \
 bố thí vật đáng yêu, đáng mến như vậy, \
 nàng đạt chỗ an vui, cảnh giới chư thiên.
 
@@ -2053,7 +2053,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī. \
+như ngôi sao Ô-sa-đi (Osadhī). \
 Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
 Những của cải nào vừa ý, \
@@ -2064,7 +2064,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[2] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -2092,7 +2092,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī. \
+như ngôi sao Ô-sa-đi (Osadhī). \
 Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
 Những của cải nào vừa ý, \
@@ -2103,7 +2103,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[2] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -2131,7 +2131,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī. \
+như ngôi sao Ô-sa-đi (Osadhī). \
 Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
 Những của cải nào vừa ý, \
@@ -2142,7 +2142,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[2] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -2170,7 +2170,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī. \
+như ngôi sao Ô-sa-đi (Osadhī). \
 Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
 Những của cải nào vừa ý, \
@@ -2181,7 +2181,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[2] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -2209,7 +2209,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī."
+như ngôi sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
@@ -2221,7 +2221,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[3] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -2251,7 +2251,7 @@ và dung sắc của tôi chiếu khắp mọi phương."
 #super[1] "Này thiên nữ, nàng đứng đây \
 với dung sắc thù thắng, \
 chiếu sáng khắp các phương, \
-như ngôi sao Osadhī. \
+như ngôi sao Ô-sa-đi (Osadhī). \
 Do đâu nàng có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho nàng? \
 Những của cải nào vừa ý, \
@@ -2262,7 +2262,7 @@ Do đâu nàng có oai lực chói sáng như vậy, \
 và dung sắc của nàng chiếu khắp mọi phương?"
 
 #super[2] Thiên nữ ấy hoan hỷ, \
-được Tôn giả Moggallāna hỏi; \
+được Tôn giả Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi, nàng trả lời câu hỏi, \
 nói về nghiệp nào có quả này.
 
@@ -2290,8 +2290,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 45. Chuyện thiên cung Cúng Hoa Tim-ba-lu-sa-ca (Timbarusakadāyikāvimānavatthu (3))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí trái timbaru \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2304,8 +2304,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 46. Chuyện thiên cung Cúng Dưa Chuột (Kakkārikadāyikāvimānavatthu (4))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dưa kakkārika \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2318,8 +2318,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 47. Chuyện thiên cung Cúng Dưa Leo (Eḷālukadāyikāvimānavatthu (5))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dưa eḷāluka \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2332,8 +2332,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 48. Chuyện thiên cung Cúng Trái Dây Leo (Valliphaladāyikāvimānavatthu(6))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí trái dây leo \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2346,8 +2346,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 49. Chuyện thiên cung Cúng Quả Pha-lu-sa-ca (Phārusakadāyikāvimānavatthu (7))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí trái phārusaka \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2360,8 +2360,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 50. Chuyện thiên cung Cúng Che Nắng Bằng Tay (Hatthappatāpakadāyikāvimānavatthu (8))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí bánh nướng \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2374,8 +2374,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 51. Chuyện thiên cung Cúng Nắm Rau (Sākamuṭṭhidāyikāvimānavatthu (9))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí một nắm rau \
 cho vị Tỷ-kheo đang đi trên đường; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2388,8 +2388,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 52. Chuyện thiên cung Cúng Nắm Hoa (Pupphakamuṭṭhidāyikāvimānavatthu (10))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí một nắm hoa \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2402,8 +2402,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 53. Chuyện thiên cung Cúng Củ Cải (Mūlakadāyikāvimānavatthu (11))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí củ cải \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2416,8 +2416,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 54. Chuyện thiên cung Cúng Nắm Xoan (Nimbamuṭṭhidāyikāvimānavatthu (12))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí một nắm lá nimba \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2430,8 +2430,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 55. Chuyện thiên cung Cúng Cháo Xoài (Ambakañjikadāyikāvimānavatthu (13))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí cháo chua xoài \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2444,8 +2444,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 56. Chuyện thiên cung Cúng Máng Đong (Doṇinimmajjanidāyikāvimānavatthu (14))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dụng cụ rửa chậu \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2458,8 +2458,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 57. Chuyện thiên cung Cúng Thắt Lưng (Kāyabandhanadāyikāvimānavatthu (15))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dây thắt lưng \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2472,8 +2472,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 58. Chuyện thiên cung Cúng Bọc Vai (Aṃsabaddhakadāyikāvimānavatthu (16))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dây đeo vai \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2486,8 +2486,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 59. Chuyện thiên cung Cúng Tấm Sắt (Āyogapaṭṭadāyikāvimānavatthu (17))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí đai áyoga \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2500,8 +2500,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 60. Chuyện thiên cung Cúng Quạt Xông (Vidhūpanadāyikāvimānavatthu (18))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí quạt \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2514,8 +2514,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 61. Chuyện thiên cung Cúng Quạt Cọ (Tālavaṇṭadāyikāvimānavatthu (19))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí quạt lá thốt nốt \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2528,8 +2528,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 62. Chuyện thiên cung Cúng Quạt Đuôi Công (Morahatthadāyikāvimānavatthu (20))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí quạt lông công \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2542,8 +2542,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 63. Chuyện thiên cung Cúng Ô (Chattadāyikāvimānavatthu (21))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí lọng \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2556,8 +2556,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 64. Chuyện thiên cung Cúng Giày (Upāhanadāyikāvimānavatthu (22))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí dép \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2570,8 +2570,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 65. Chuyện thiên cung Cúng Bánh (Pūvadāyikāvimānavatthu (23))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí bánh \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2584,8 +2584,8 @@ do đó tôi có oai lực chói sáng như vậy, và dung sắc của tôi chi
 
 ==== 66. Chuyện thiên cung Cúng Bánh Ngọt (Modakadāyikāvimānavatthu (24))
 
-#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Osadhī. Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
-Thiên nữ ấy hoan hỷ, được Tôn giả Moggallāna hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
+#super[1] "Này thiên nữ, nàng đứng đây với dung sắc thù thắng, chiếu sáng khắp các phương như ngôi sao Ô-sa-đi (Osadhī). Do đâu nàng có dung sắc như vậy, do đâu ở đây mọi sự thành tựu cho nàng, những của cải nào vừa ý đều hiện ra cho nàng? Tôi hỏi nàng, này thiên nữ đại oai lực, khi còn làm người nàng đã làm phước gì? Do đâu nàng có oai lực chói sáng như vậy, và dung sắc của nàng chiếu khắp mọi phương?" \
+Thiên nữ ấy hoan hỷ, được Tôn giả Mục-kiền-liên (Moggallāna) hỏi, trả lời câu hỏi — nói về nghiệp nào có quả này: \
 "Tôi đã bố thí bánh ngọt \
 cho vị Tỷ-kheo đang đi khất thực; \
 làm nghiệp ấy, tôi sanh vào thiện thú và được vui sướng. \
@@ -2635,14 +2635,14 @@ nơi đã đến thì không còn sầu."
 #super[1] "Nàng chói sáng về dung sắc, \
 bậc danh xưng với danh xưng; \
 nàng chói hơn tất cả \
-chư thiên Tāvatiṃsa về dung sắc.
+chư thiên Tam thập tam thiên (Tāvatiṃsa) về dung sắc.
 
 #super[2] "Tôi không nhớ đã từng thấy, \
 đây là lần thấy đầu tiên; \
 từ thân nào nàng đến, \
 mà gọi tên tôi mà nói?"
 
-#super[3] "Này hiền nữ, trước kia tôi là Subhaddā, \
+#super[3] "Này hiền nữ, trước kia tôi là Thiện Hiền phi (Subhaddā), \
 trong đời người; \
 tôi từng là chị em đồng chồng của nàng, \
 và là em gái út.
@@ -2650,7 +2650,7 @@ và là em gái út.
 #super[4] "Khi thân hoại, tôi được giải thoát, \
 mạng chung từ đó; \
 tôi sanh cộng trú \
-với chư thiên Nimmānaratī."
+với chư thiên Hóa lạc thiên (Nimmānaratī)."
 
 #super[5] "Chúng sanh nào làm nhiều điều lành, \
 đi đến các vị trời ấy; \
@@ -2693,7 +2693,7 @@ Này thiên nữ, được hỏi hãy nói, \
 
 #super[12] "Một Tỷ-kheo đáng tôn kính trong tâm, \
 trước kia tôi đã gặp; \
-tôi thỉnh Revata thọ thực, \
+tôi thỉnh Ly-bà-đa (Revata) thọ thực, \
 cùng đủ tám vị.
 
 #super[13] "Vì lợi ích của tôi, \
@@ -2731,7 +2731,7 @@ vì đã an trú lễ phẩm \
 nơi Tăng chúng vô lượng.
 
 #super[19] "Vì Đức Phật đã được ta hỏi, \
-trên núi Gijjhakūṭa, \
+trên núi Linh Thứu (Gijjhakūṭa), \
 về quả của sự san sẻ, \
 chỗ bố thí nào có quả lớn.
 
@@ -2819,8 +2819,8 @@ có pāṭali, jambu và asoka; \
 tôi đạt thiên cung này như thế nào, \
 tôi nói cho Tôn giả, xin hãy nghe.
 
-#super[10] "Phía đông thành Magadha tối thắng, \
-bạch Tôn giả, có làng tên Nāḷaka; \
+#super[10] "Phía đông thành Ma-kiệt-đà (Magadha) tối thắng, \
+bạch Tôn giả, có làng tên Na-la-ca (Nāḷaka); \
 trước kia tôi là nàng dâu ở đó, \
 người ta biết tôi là Pesavatī.
 
@@ -2870,7 +2870,7 @@ này thiên nữ, được hỏi hãy nói, \
 
 #super[7] "Lưới vàng, khảm ngọc và vàng, \
 điểm châu, phủ lưới vàng; \
-khi Gotama vô lượng đã nhập Niết-bàn, \
+khi Cù-đàm (Gotama) vô lượng đã nhập Niết-bàn, \
 tôi với tâm tịnh tín đã dâng lên.
 
 #super[8] "Làm nghiệp ấy, \
@@ -2883,11 +2883,11 @@ tôi hoan hỷ, không bệnh tật."
 ==== 71. Chuyện thiên cung Mắt To (Visālakkhivimānavatthu)
 
 #super[1] "Nàng tên gì, này người mắt rộng, \
-trong vườn Cittalatā đáng ưa; \
+trong vườn Xit-ta-la-đa (Cittalatā) đáng ưa; \
 nàng đi vòng khắp bốn phía, \
 được chúng nữ vây quanh.
 
-#super[2] "Khi chư thiên Tāvatiṃsa \
+#super[2] "Khi chư thiên Tam thập tam thiên (Tāvatiṃsa) \
 bước vào khu rừng này, \
 cùng xe cùng thắng, tất cả, \
 đến đây đều trở nên rực rỡ muôn màu.
@@ -2904,7 +2904,7 @@ mà tôi có dung sắc và cảnh giới này, \
 thần thông và oai lực, \
 xin Purindada hãy nghe.
 
-#super[5] "Tôi ở Rājagaha đáng ưa, \
+#super[5] "Tôi ở Vương Xá (Rājagaha) đáng ưa, \
 là nữ cư sĩ tên Sunandā; \
 tôi đầy đủ tín và giới, \
 luôn ưa thích san sẻ.
@@ -2932,7 +2932,7 @@ cũng xa lìa uống rượu men.
 #super[10] "Tôi ưa thích năm học giới, \
 thông suốt các Thánh đế; \
 là nữ cư sĩ của bậc Có Mắt, \
-Gotama bậc danh xưng.
+Cù-đàm (Gotama) bậc danh xưng.
 
 #super[11] "Một nữ tỳ từ nhà bà con tôi, \
 luôn mang hoa đến; \
@@ -2958,7 +2958,7 @@ và bạch Thiên chủ, tôi còn nguyện \
 
 ==== 72. Chuyện thiên cung Cây San Hô (Pāricchattakavimānavatthu)
 
-#super[1] "Nơi cây Pāricchattaka koviḷāra, \
+#super[1] "Nơi cây cây san hô (Pāricchattaka) koviḷāra, \
 đáng ưa, làm đẹp lòng; \
 nàng kết vòng hoa trời, \
 hát mà hết sức vui.
@@ -3011,7 +3011,7 @@ tôi hoan hỷ, không bệnh tật."
 
 Uḷāra, Ucchu, Pallaṅka, \
 Latā cùng với Guttila; \
-Daddalla, Pesa, Mallikā, \
+Daddalla, Pesa, Ma-li-ca (Mallikā), \
 Visālakkhi, Pāricchattaka — \
 phẩm được gọi như vậy.
 
@@ -3071,7 +3071,7 @@ này thiên nữ xinh đẹp, nàng là ai mà đảnh lễ tôi?
 #super[2] "Bảo tọa của nàng thật quý, \
 khảm đủ loại ngọc, đẹp đẽ; \
 nàng ngồi đó mà chói sáng, \
-như vua trời trong vườn Nandana.
+như vua trời trong vườn Hoan Lạc Viên (Nandana).
 
 #super[3] "Này hiền nữ, trước kia nàng đã làm hạnh lành gì, \
 quả của nghiệp nào \
@@ -3121,7 +3121,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] "Đã đến Bārāṇasī, tôi dâng Đức Phật một cặp y; \
+#super[4] "Đã đến Ba-la-nại (Bārāṇasī), tôi dâng Đức Phật một cặp y; \
 đảnh lễ hai chân Ngài, tôi ngồi xuống đất, \
 vui mừng, tôi chắp tay."
 
@@ -3131,8 +3131,8 @@ vui mừng, tôi chắp tay."
 đã thuyết con đường, từ đó tôi hiểu rõ."
 
 #super[6] "Tuổi thọ ngắn, tôi mạng chung, từ đó thác sanh, \
-sanh lên chúng thiên Tāvatiṃsa, có danh tiếng; \
-tôi là một người vợ của Sakka, \
+sanh lên chúng thiên Tam thập tam thiên (Tāvatiṃsa), có danh tiếng; \
+tôi là một người vợ của Thích-ca (Sakka), \
 tên Yasuttarā, nổi tiếng khắp các phương."
 
 #strong[(Hết chuyện thiên cung Nāga, thứ ba.)]
@@ -3140,7 +3140,7 @@ tên Yasuttarā, nổi tiếng khắp các phương."
 ==== 76. Chuyện thiên cung A-lô-ma (Alomavimānavatthu)
 
 #super[1] "Này thiên nữ, người đứng đây với dung sắc thù thắng, \
-chiếu sáng mọi phương, như sao Osadhī."
+chiếu sáng mọi phương, như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu người có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho người? \
@@ -3151,11 +3151,11 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Thiên nữ ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Thiên nữ ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, nàng giải đáp \
 quả của nghiệp ấy.
 
-#super[4] "Tôi ở Bārāṇasī, \
+#super[4] "Tôi ở Ba-la-nại (Bārāṇasī), \
 đã dâng Đức Phật, bà con của mặt trời, \
 một phần bánh lúa mạch khô, \
 tâm tịnh tín, bằng chính đôi tay mình."
@@ -3179,7 +3179,7 @@ và dung sắc tôi chiếu khắp mọi phương."
 ==== 77. Chuyện thiên cung Cúng Cháo (Kañjikadāyikāvimānavatthu)
 
 #super[1] "Này thiên nữ, người đứng đây với dung sắc thù thắng, \
-chiếu sáng mọi phương, như sao Osadhī."
+chiếu sáng mọi phương, như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu người có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho người? \
@@ -3190,11 +3190,11 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Thiên nữ ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Thiên nữ ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, nàng giải đáp \
 quả của nghiệp ấy.
 
-#super[4] "Tôi ở Andhakavinda, \
+#super[4] "Tôi ở An-đa-ca-bin-đa (Andhakavinda), \
 đã dâng Đức Phật, bà con của mặt trời, \
 nước cháo nấu với trái kola, \
 ướp dầu thơm."
@@ -3216,7 +3216,7 @@ trăm ngàn thiếu nữ đeo hoa tai ngọc — \
 cũng không bằng một phần mười sáu \
 của một lần bố thí nước cháo."
 
-#super[8] "Trăm voi vùng Himavanta, \
+#super[8] "Trăm voi vùng Tuyết sơn (Himavanta), \
 ngà như đòn kéo, thân to lớn, \
 voi mātaṅga đeo dây vàng, \
 phủ đồ vàng — \
@@ -3233,7 +3233,7 @@ của một lần bố thí nước cháo."
 ==== 78. Chuyện thiên cung Tịnh Xá (Vihāravimānavatthu)
 
 #super[1] "Này thiên nữ, người đứng đây với dung sắc thù thắng, \
-chiếu sáng mọi phương, như sao Osadhī."
+chiếu sáng mọi phương, như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Khi người múa, từ mọi chi phần, \
 những âm thanh cõi trời vang ra, \
@@ -3262,7 +3262,7 @@ thấy sắc tướng phi nhân; \
 này thiên nữ, được hỏi hãy nói, \
 đây là quả của nghiệp gì?"
 
-#super[8] "Bạch Tôn giả, tại Sāvatthi, bạn tôi \
+#super[8] "Bạch Tôn giả, tại Xá-vệ (Sāvatthi), bạn tôi \
 đã cho Tăng chúng xây một ngôi đại tịnh xá; \
 tôi sinh lòng tịnh tín, tùy hỷ, \
 thấy ngôi nhà ấy, và nó trở nên thân thiết với tôi."
@@ -3310,7 +3310,7 @@ hãy nói thú hướng của nàng: nàng sanh về đâu?"
 #super[17] "Bạch Tôn giả, bạn tôi ngày trước \
 đã cho Tăng chúng xây một ngôi đại tịnh xá; \
 nàng hiểu pháp, đã bố thí, \
-sanh lên chúng thiên Nimmānaratī."
+sanh lên chúng thiên Hóa lạc thiên (Nimmānaratī)."
 
 #super[18] "Nàng là người vợ của vị Sunimmita ấy; \
 quả dị thục nghiệp của vị ấy không thể nghĩ bàn. \
@@ -3364,7 +3364,7 @@ không bị chê trách, đi đến cảnh trời."
 ==== 79. Chuyện thiên cung Bốn Nữ Nhân (Caturitthivimānavatthu)
 
 #super[1] "Này thiên nữ, người đứng đây với dung sắc thù thắng, \
-chiếu sáng mọi phương, như sao Osadhī. \
+chiếu sáng mọi phương, như sao Ô-sa-đi (Osadhī). \
 Do đâu người có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho người? \
 Các tài sản nào tâm ưa thích \
@@ -3374,7 +3374,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[2] Thiên nữ ấy vui mừng, được Moggallāna hỏi; \
+#super[2] Thiên nữ ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, nàng giải đáp \
 quả của nghiệp ấy.
 
@@ -3466,7 +3466,7 @@ và dung sắc người chiếu khắp mọi phương?"
 được hỏi câu hỏi, nàng giải đáp \
 quả của nghiệp ấy.
 
-#super[15] "Tôi là Sumanā, đã dâng những nụ hoa sumana \
+#super[15] "Tôi là Tô-ma-na (Sumanā), đã dâng những nụ hoa sumana \
 màu răng, \
 cho vị Tỷ-kheo đang đi khất thực, \
 tại Esikā cao ráo, \
@@ -3504,7 +3504,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Thiên nữ ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Thiên nữ ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, nàng giải đáp \
 quả của nghiệp ấy.
 
@@ -3577,14 +3577,14 @@ nếu tôi hoàn tất việc ấy, \
 chắc còn hơn thế này nữa."
 
 #super[7] "Do nghiệp ấy, này thiên chủ, \
-Maghavā, voi chúa giữa chư thiên, \
+Ma-kha-phu (Maghavā), voi chúa giữa chư thiên, \
 tôi bỏ thân người, \
 đến cộng trú với Ngài."
 
-#super[8] Nghe vậy, vị chúa tể Tāvatiṃsa, \
+#super[8] Nghe vậy, vị chúa tể Tam thập tam thiên (Tāvatiṃsa), \
 Maghavā, voi chúa giữa chư thiên, \
 khiến chúng Tāvatiṃsa sinh tịnh tín, \
-nói với Mātali như vầy:
+nói với Ma-đá-lợi (Mātali) như vầy:
 
 #super[9] "Này Mātali, hãy xem điều kỳ diệu, \
 quả nghiệp bất ngờ này: \
@@ -3618,7 +3618,7 @@ những thí chủ đi đến cõi trời."
 #super[1] "Chiếu sáng quả đất cùng với chư thiên, \
 người chói hơn cả mặt trăng mặt trời; \
 bằng quang minh, dung sắc, danh tiếng, oai lực, \
-như Phạm thiên giữa chư thiên Tāvatiṃsa cùng Đế Thích."
+như Phạm thiên giữa chư thiên Tam thập tam thiên (Tāvatiṃsa) cùng Đế Thích."
 
 #super[2] "Ta hỏi người, kẻ đeo vòng hoa sen, \
 đeo trâm, da như vàng ròng, \
@@ -3665,7 +3665,7 @@ tôi hoan hỷ với năm dục lạc."
 #super[10] "Quả phước không nhỏ như vậy, \
 sự cúng dường mía của tôi rất chói sáng; \
 được thiên chủ che chở, được chúng Tāvatiṃsa hộ trì, \
-như vị Ngàn Mắt trong rừng Nandana."
+như vị Ngàn Mắt trong rừng Hoan Lạc Viên (Nandana)."
 
 #super[11] "Và Tôn giả, bậc trí bi mẫn, \
 tôi đến đảnh lễ và hỏi điều lành; \
@@ -3677,7 +3677,7 @@ tâm tịnh tín, với hỷ vô lượng."
 ==== 83. Chuyện thiên cung Đảnh Lễ (Vandanavimānavatthu)
 
 #super[1] "Này thiên nữ, người đứng đây với dung sắc thù thắng, \
-chiếu sáng mọi phương, như sao Osadhī."
+chiếu sáng mọi phương, như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu người có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho người? \
@@ -3688,7 +3688,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Thiên nữ ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Thiên nữ ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, nàng giải đáp \
 quả của nghiệp ấy.
 
@@ -3742,7 +3742,7 @@ này thiên nữ, được hỏi hãy nói, \
 đây là quả của nghiệp gì?"
 
 #super[8] "Trước đây tôi là nữ tỳ \
-của một Bà-la-môn ở Gayā; \
+của một Bà-la-môn ở Già-da (Gayā); \
 ít phước, không may mắn, \
 người ta biết tôi là Rajjumālā."
 
@@ -3832,9 +3832,9 @@ Nandā và Sunandā, \
 Soṇadinnā, Sucimhitā."
 
 #super[26] "Alambusā và Missakesī, \
-Puṇḍarīkā, Atidāruṇī; \
+Hoa sen (Puṇḍarīkā), Atidāruṇī; \
 Eṇīphassā và Suphassā, \
-Subhaddā, Muduvādinī."
+Thiện Hiền phi (Subhaddā), Muduvādinī."
 
 #super[27] "Những vị ấy và những vị khác, tối thắng hơn, \
 là những vị đánh thức các thiên nữ; \
@@ -3846,8 +3846,8 @@ nào, chúng ta làm người vui; \
 đây không phải của những kẻ không làm phước, \
 đây chỉ của những người đã làm phước.'"
 
-#super[29] "Không sầu, Nandana đáng ưa, \
-rừng lớn của chúng Tāvatiṃsa; \
+#super[29] "Không sầu, Hoan Lạc Viên (Nandana) đáng ưa, \
+rừng lớn của chúng Tam thập tam thiên (Tāvatiṃsa); \
 an vui không có cho kẻ không làm phước, \
 ở đây cũng không, đời sau cũng không."
 
@@ -3871,7 +3871,7 @@ các thí chủ hoan hỷ trên cõi trời."
 
 #strong[Tổng thuyết:]
 
-Mañjiṭṭhā, Pabhassarā, Nāgā, Alomā, Kañjikadāyikā; Vihāra, Caturitthi, Ambā, Pītā, Ucchu, Vandana, và Rajjumālā; phẩm được gọi như vậy.
+Mañjiṭṭhā, Pabhassarā, Na-già (Nāgā), Alomā, Kañjikadāyikā; Bi-ha-la (Vihāra), Caturitthi, Ambā, Pītā, Ucchu, Vandana, và Rajjumālā; phẩm được gọi như vậy.
 
 #strong[(Hết phần Thiên cung nữ.)]
 
@@ -3897,7 +3897,7 @@ hãy xem oai lực của tôi, \
 hãy xem dung sắc và ánh sáng của tôi."
 
 #super[4] "Còn những ai đã nghe pháp \
-của Gotama trong thời gian dài, \
+của Cù-đàm (Gotama) trong thời gian dài, \
 họ đã đạt chỗ không lay chuyển, \
 đi đến đó thì không còn sầu."
 
@@ -3915,12 +3915,12 @@ từ đời này đi sang đời kia, \
 các phước đức đón nhận, \
 như bà con thương mến đón người về."
 
-#super[3] "Hãy dậy, Revatī, kẻ ác pháp, \
+#super[3] "Hãy dậy, Lê-ba-đi (Revatī), kẻ ác pháp, \
 cửa không mở cho bố thí, không có tánh bố thí; \
 chúng ta sẽ đưa ngươi đến chỗ những kẻ khốn cùng rên rỉ, \
 những chúng sanh địa ngục bị nhận chìm trong khổ."
 
-#super[4] Nói vậy rồi, hai sứ giả của Yama, \
+#super[4] Nói vậy rồi, hai sứ giả của Dạ-ma (Yama), \
 hai Dạ-xoa mắt đỏ, thân to lớn, \
 mỗi bên nắm một cánh tay Revatī, \
 dẫn đi đến trước chúng thiên.
@@ -3935,7 +3935,7 @@ làm đẹp thiên cung từ hai phía; \
 nó hiện ra màu như mặt trời — \
 ai đã đến cõi trời, đang vui trong thiên cung?"
 
-#super[7] "Ở Bārāṇasī có người tên Nandiya, \
+#super[7] "Ở Ba-la-nại (Bārāṇasī) có người tên Nan-đề (Nandiya), \
 cư sĩ không xan tham, thí chủ, ưa bố thí; \
 thiên cung đông người này là của ông ấy, \
 chói sáng như tia mặt trời."
@@ -4041,7 +4041,7 @@ tôi bị nấu trong địa ngục hình tướng khủng khiếp."
 ==== 87. Chuyện thiên cung Nam Tử Xát-đa (Chattamāṇavakavimānavatthu)
 
 #super[1] "Bậc tối thắng trong những người thuyết giữa loài người, \
-bậc Mâu-ni dòng Sakya, Thế Tôn, việc cần làm đã làm; \
+bậc Mâu-ni dòng Thích-ca (Sakya), Thế Tôn, việc cần làm đã làm; \
 đã đến bờ kia, đầy đủ sức mạnh và tinh tấn — \
 hãy đi đến nương tựa Thiện Thệ ấy."
 
@@ -4128,7 +4128,7 @@ chúng giết tôi ở đó vì của cải."
 #super[18] "Bấy nhiêu việc lành tôi nhớ; \
 ngoài ra tôi không có gì khác; \
 do nghiệp khéo làm ấy, \
-tôi sanh lên cõi trời Tāvatiṃsa, hưởng dục."
+tôi sanh lên cõi trời Tam thập tam thiên (Tāvatiṃsa), hưởng dục."
 
 #super[19] "Hãy xem quả của sự tự chế trong khoảnh khắc, \
 của sự thực hành theo pháp; \
@@ -4184,7 +4184,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[5] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[5] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4227,7 +4227,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4268,7 +4268,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4280,7 +4280,7 @@ chỗ bố thí có quả lớn."
 #super[6] "Thật vì lợi ích cho tôi, Đức Phật \
 từ rừng đi vào làng; \
 tôi khiến tâm tịnh tín ở đó, \
-nên được sanh lên Tāvatiṃsa."
+nên được sanh lên Tam thập tam thiên (Tāvatiṃsa)."
 
 #super[7] "Do đó tôi có dung sắc như vậy, \
 do đó ở đây mọi sự thành tựu cho tôi. \
@@ -4314,7 +4314,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4326,7 +4326,7 @@ chỗ bố thí có quả lớn."
 #super[6] "Thật vì lợi ích cho tôi, vị Tỷ-kheo \
 từ rừng đi vào làng; \
 tôi khiến tâm tịnh tín ở đó, \
-nên được sanh lên Tāvatiṃsa."
+nên được sanh lên Tam thập tam thiên (Tāvatiṃsa)."
 
 #super[7] "Do đó tôi có dung sắc như vậy, \
 do đó ở đây mọi sự thành tựu cho tôi. \
@@ -4360,7 +4360,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4400,7 +4400,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4440,13 +4440,13 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
 #super[5] "Tám đóa hoa rời, \
 tôi đã dâng lên tháp \
-của bậc đại ẩn sĩ Kassapa, \
+của bậc đại ẩn sĩ Ca-diếp (Kassapa), \
 tịnh tín, bằng chính đôi tay mình."
 
 #super[6] "Do đó tôi có dung sắc như vậy, \
@@ -4467,7 +4467,7 @@ toàn trắng, voi tối thắng, \
 người đi từ rừng này sang rừng khác, \
 được chúng nữ vây quanh; \
 chiếu sáng mọi phương, \
-như sao Osadhī."
+như sao Ô-sa-đi (Osadhī)."
 
 #super[2] "Do đâu người có dung sắc như vậy, \
 do đâu ở đây mọi sự thành tựu cho người? \
@@ -4478,7 +4478,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Vaṅgīsa hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Bằng-kỳ-sa (Vaṅgīsa) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4510,13 +4510,13 @@ trên xe voi toàn trắng cõi trời, \
 vang tiếng nhạc và nhịp?"
 
 #super[2] "Người là thiên thần, hay Càn-thát-bà, \
-hay Sakka Purindada? \
+hay Thích-ca (Sakka) Purindada? \
 Không biết, chúng tôi hỏi người: \
 làm sao chúng tôi biết được người?"
 
 #super[3] "Tôi không phải chư thiên, không phải Càn-thát-bà, \
 cũng không phải Sakka Purindada; \
-những vị thiên tên Sudhammā — \
+những vị thiên tên Thiện Pháp (Sudhammā) — \
 tôi là một trong số ấy."
 
 #super[4] "Chúng tôi hỏi vị thiên Sudhamma, \
@@ -4537,10 +4537,10 @@ bố thí một trong ba thứ ấy, \
 người là Sát-đế-lỵ dòng vua, \
 hay thợ săn, kẻ ở rừng?"
 
-#super[2] "Bạch Tôn giả, tôi là con của chúa Assaka, \
+#super[2] "Bạch Tôn giả, tôi là con của chúa Ma-thấp-na-ka (Assaka), \
 kẻ ở rừng; \
 tôi nói tên tôi với Tỷ-kheo: \
-người ta biết tôi là Sujāta."
+người ta biết tôi là Tô-già-đà (Sujāta)."
 
 #super[3] "Tôi đang tìm nai, \
 đi vào rừng lớn; \
@@ -4602,8 +4602,8 @@ dũng cảm, anh hùng, đánh đòn xuất chúng; \
 họ cũng đi đến hết thọ, \
 tan hoại như những người thuở xưa."
 
-#super[15] "Sát-đế-lỵ, Bà-la-môn, Vessa, \
-Sudda, Caṇḍāla và Pukkusa; \
+#super[15] "Sát-đế-lỵ, Bà-la-môn, Phệ-xá (Vessa), \
+Thủ-đà (Sudda), Chiên-đà-la: hạ liệt (Caṇḍāla) và Pukkusa; \
 những hạng này và hạng khác theo sanh chủng — \
 họ cũng không phải không già, không chết."
 
@@ -4629,7 +4629,7 @@ và Ngài hãy làm chỗ nương cho tôi."
 
 #super[20] "Chớ đi đến nương tựa ta; \
 hãy đi đến chính chỗ nương ấy: \
-con dòng Sakya, bậc đại hùng, \
+con dòng Thích-ca (Sakya), bậc đại hùng, \
 chỗ ta đã đi đến nương tựa."
 
 #super[21] "Đạo Sư của Ngài ở quốc độ nào, \
@@ -4638,7 +4638,7 @@ Tôi cũng sẽ đi để thấy \
 bậc Thắng Giả không ai sánh."
 
 #super[22] "Ở quốc độ phương đông, \
-sanh từ dòng Okkāka; \
+sanh từ dòng Cam Giá (Okkāka); \
 ở đó có bậc thượng nhân, \
 nhưng Ngài đã hoàn toàn Niết-bàn."
 
@@ -4695,7 +4695,7 @@ nó sẽ vì lợi ích cho người.'"
 #super[33] "Tôi cúng dường bằng hương và hoa, \
 nhiệt tâm; \
 bỏ thân người, \
-tôi sanh lên Nandana."
+tôi sanh lên Hoan Lạc Viên (Nandana)."
 
 #super[34] "Trong rừng Nandana đáng ưa, \
 có đủ loài chim; \
@@ -4709,7 +4709,7 @@ tôi vui với múa hát, \
 #super[1] "Cỡi cỗ xe đẹp, thắng ngàn ngựa, \
 xe nhiều vẻ trang trí; \
 đi tuần tự quanh khu vườn, \
-như Purindada Vāsava, chúa các loài."
+như Purindada Bà-sa-bà (Vāsava), chúa các loài."
 
 #super[2] "Hai càng xe của người bằng vàng, \
 khớp rất khéo với các mối và vai; \
@@ -4831,12 +4831,12 @@ hay là quả giới, \
 hay là quả việc chắp tay — \
 hãy nói cho ta, được hỏi."
 
-#super[26] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[26] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
 #super[27] "Bậc Phật đã chế ngự các căn, tinh tấn không lường, \
-bậc tối thắng giữa loài người, Kassapa, bậc độc nhất trên đạo; \
+bậc tối thắng giữa loài người, Ca-diếp (Kassapa), bậc độc nhất trên đạo; \
 mở cửa bất tử, \
 Thiên trung thiên, trăm tướng phước."
 
@@ -4876,7 +4876,7 @@ cho những người cầu phước, cầu quả rộng lớn."
 
 #strong[Tổng thuyết:]
 
-Maṇḍūka, Revatī, Chatta, Kakkaṭa, Dvārapālaka; hai Karaṇīya, hai Sūci, ba Nāga và hai Ratha; được gọi là phẩm thứ nhất của các vị nam.
+Maṇḍūka, Lê-ba-đi (Revatī), Chatta, Kakkaṭa, Dvārapālaka; hai Karaṇīya, hai Sūci, ba Na-già (Nāga) và hai Ratha; được gọi là phẩm thứ nhất của các vị nam.
 
 #strong[(Hết tụng phẩm thứ ba.)]
 
@@ -4884,8 +4884,8 @@ Maṇḍūka, Revatī, Chatta, Kakkaṭa, Dvārapālaka; hai Karaṇīya, hai S�
 
 ==== 99. Chuyện thiên cung Gia Chủ (Paṭhamaagāriyavimānavatthu)
 
-#super[1] "Như rừng Cittalatā chói sáng, \
-vườn tối thắng, bậc nhất của chúng Tāvatiṃsa; \
+#super[1] "Như rừng Xit-ta-la-đa (Cittalatā) chói sáng, \
+vườn tối thắng, bậc nhất của chúng Tam thập tam thiên (Tāvatiṃsa); \
 thiên cung này của người cũng vậy, \
 đứng giữa hư không chiếu sáng."
 
@@ -4894,7 +4894,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4916,8 +4916,8 @@ và dung sắc tôi chiếu khắp mọi phương."
 
 ==== 100. Chuyện thiên cung Gia Chủ (Dutiyaagāriyavimānavatthu)
 
-#super[1] "Như rừng Cittalatā chói sáng, \
-vườn tối thắng, bậc nhất của chúng Tāvatiṃsa; \
+#super[1] "Như rừng Xit-ta-la-đa (Cittalatā) chói sáng, \
+vườn tối thắng, bậc nhất của chúng Tam thập tam thiên (Tāvatiṃsa); \
 thiên cung này của người cũng vậy, \
 đứng giữa hư không chiếu sáng."
 
@@ -4926,7 +4926,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -4956,7 +4956,7 @@ cột lưu ly, trải thảm rực rỡ, xinh đẹp."
 #super[2] "Ở đó người ngồi, người uống, người ăn, \
 các đàn vīṇā cõi trời vang lên êm dịu; \
 tám nhóm tám, được huấn luyện, hình dáng tốt, \
-các thiếu nữ cõi trời, đi trong Tāvatiṃsa, nguy nga, \
+các thiếu nữ cõi trời, đi trong Tam thập tam thiên (Tāvatiṃsa), nguy nga, \
 đang múa, đang hát, đang làm vui."
 
 #super[3] "Người đã đạt thần lực chư thiên, đại oai lực; \
@@ -4964,7 +4964,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5004,7 +5004,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5034,7 +5034,7 @@ Người đã đạt thần lực chư thiên, đại oai lực; \
 khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?" \
-Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy. \
 "Tôi và vợ, trong cõi người, \
@@ -5065,7 +5065,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5096,7 +5096,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[2] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[2] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5108,7 +5108,7 @@ tâm trong sạch, không đục."
 #super[4] "Tôi đã dâng Ngài một phần, \
 tịnh tín, bằng chính đôi tay mình; \
 đã cho nắm bánh lúa mạch, \
-tôi hoan hỷ trong rừng Nandana."
+tôi hoan hỷ trong rừng Hoan Lạc Viên (Nandana)."
 
 #super[5] "Do đó tôi có dung sắc như vậy, \
 do đó ở đây mọi sự thành tựu cho tôi. \
@@ -5130,7 +5130,7 @@ trong thiên cung cõi trời như mặt trăng."
 
 #super[2] "Các đàn vīṇā cõi trời vang lên êm dịu, \
 tám nhóm tám, được huấn luyện, hình dáng tốt; \
-các thiếu nữ cõi trời, đi trong Tāvatiṃsa, nguy nga, \
+các thiếu nữ cõi trời, đi trong Tam thập tam thiên (Tāvatiṃsa), nguy nga, \
 đang múa, đang hát, đang làm vui."
 
 #super[3] "Người đã đạt thần lực chư thiên, đại oai lực; \
@@ -5138,7 +5138,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5169,7 +5169,7 @@ trong thiên cung cõi trời như mặt trăng."
 
 #super[2] "Các đàn vīṇā cõi trời vang lên êm dịu, \
 tám nhóm tám, được huấn luyện, hình dáng tốt; \
-các thiếu nữ cõi trời, đi trong Tāvatiṃsa, nguy nga, \
+các thiếu nữ cõi trời, đi trong Tam thập tam thiên (Tāvatiṃsa), nguy nga, \
 đang múa, đang hát, đang làm vui."
 
 #super[3] "Người đã đạt thần lực chư thiên, đại oai lực; \
@@ -5177,7 +5177,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5201,7 +5201,7 @@ và dung sắc tôi chiếu khắp mọi phương."
 
 ==== 108. Chuyện thiên cung (Uất-đa-la) Tệ Túc ((Uttara) pāyāsivimānavatthu)
 
-#super[1] "Hội trường Sudhammā của thiên chủ, \
+#super[1] "Hội trường Thiện Pháp (Sudhammā) của thiên chủ, \
 chỗ chúng thiên họp hòa hợp ngồi; \
 thiên cung này của người cũng vậy, \
 đứng giữa hư không chiếu sáng."
@@ -5211,12 +5211,12 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
 #super[4] "Tôi là người giữa loài người, \
-là thanh niên của vua Pāyāsi; \
+là thanh niên của vua Tệ Túc (Pāyāsi); \
 được của, tôi chia sẻ, \
 và những người trì giới thân thiết với tôi; \
 cơm và nước, với tâm tịnh tín, \
@@ -5245,8 +5245,8 @@ Hai Agārin, Phaladāyī, hai Upassayadāyī, Bhikkhāyadāyī; Yavapālaka và 
 
 ==== 109. Chuyện thiên cung Xit-ta-la-đa (Cittalatāvimānavatthu)
 
-#super[1] "Như rừng Cittalatā chói sáng, \
-vườn tối thắng, bậc nhất của chúng Tāvatiṃsa; \
+#super[1] "Như rừng Xit-ta-la-đa (Cittalatā) chói sáng, \
+vườn tối thắng, bậc nhất của chúng Tam thập tam thiên (Tāvatiṃsa); \
 thiên cung này của người cũng vậy, \
 đứng giữa hư không chiếu sáng."
 
@@ -5255,7 +5255,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5279,8 +5279,8 @@ và dung sắc tôi chiếu khắp mọi phương."
 
 ==== 110. Chuyện thiên cung Vườn Hoan Hỷ (Nandanavimānavatthu)
 
-#super[1] "Như rừng Nandana chói sáng, \
-vườn tối thắng, bậc nhất của chúng Tāvatiṃsa; \
+#super[1] "Như rừng Hoan Lạc Viên (Nandana) chói sáng, \
+vườn tối thắng, bậc nhất của chúng Tam thập tam thiên (Tāvatiṃsa); \
 thiên cung này của người cũng vậy, \
 đứng giữa hư không chiếu sáng."
 
@@ -5289,7 +5289,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[3] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[3] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5332,7 +5332,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5396,11 +5396,11 @@ hay là quả giới, \
 hay là quả việc chắp tay — \
 hãy nói cho ta, được hỏi."
 
-#super[9] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[9] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
-#super[10] "Tôi ở Andhakavinda, \
+#super[10] "Tôi ở An-đa-ca-bin-đa (Andhakavinda), \
 đã cho Đạo Sư, Đức Phật, bà con của mặt trời, \
 xây một tịnh xá, \
 tịnh tín, bằng chính đôi tay mình."
@@ -5410,7 +5410,7 @@ vật dụng và dầu thoa, \
 tôi đã dâng tịnh xá cho Đạo Sư, \
 với tâm hoàn toàn trong sạch; \
 do đó tôi được chỗ này, \
-tôi sống, cai quản trong Nandana."
+tôi sống, cai quản trong Hoan Lạc Viên (Nandana)."
 
 #super[12] "Trong rừng Nandana đáng ưa, \
 có đủ loài chim; \
@@ -5440,7 +5440,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5450,7 +5450,7 @@ một người làm thuê của kẻ khác \
 đang tưới vườn xoài."
 
 #super[6] "Rồi một Tỷ-kheo đến đó, \
-nổi tiếng là Sāriputta; \
+nổi tiếng là Xá-lợi-phất (Sāriputta); \
 thân mệt, \
 tâm không mệt."
 
@@ -5477,7 +5477,7 @@ như vậy, với hỷ, \
 #super[11] "Chỉ bấy nhiêu nghiệp \
 tôi đã làm trong đời ấy; \
 bỏ thân người, \
-tôi sanh lên Nandana."
+tôi sanh lên Hoan Lạc Viên (Nandana)."
 
 #super[12] "Trong rừng Nandana đáng ưa, \
 có đủ loài chim; \
@@ -5500,7 +5500,7 @@ trong thiên cung cõi trời như mặt trăng."
 
 #super[3] "Các đàn vīṇā cõi trời vang lên êm dịu, \
 tám nhóm tám, được huấn luyện, hình dáng tốt; \
-các thiếu nữ cõi trời, đi trong Tāvatiṃsa, nguy nga, \
+các thiếu nữ cõi trời, đi trong Tam thập tam thiên (Tāvatiṃsa), nguy nga, \
 đang múa, đang hát, đang làm vui."
 
 #super[4] "Người đã đạt thần lực chư thiên, đại oai lực; \
@@ -5508,7 +5508,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[5] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[5] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5616,13 +5616,13 @@ hay là quả giới, \
 hay là quả việc chắp tay — \
 hãy nói cho ta, được hỏi."
 
-#super[14] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[14] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
-#super[15] "Tôi ở Kapilavatthu, \
-thành tối thắng của dòng Sakya; \
-của con Suddhodana, \
+#super[15] "Tôi ở Ca-tỳ-la-vệ (Kapilavatthu), \
+thành tối thắng của dòng Thích-ca (Sakya); \
+của con Tịnh Phạn (Suddhodana), \
 tôi là Kaṇḍaka, sanh cùng ngày."
 
 #super[16] "Khi nửa đêm Ngài xuất gia \
@@ -5647,7 +5647,7 @@ tôi chở bậc tối thắng giữa loài người."
 
 #super[20] "Đi đến lãnh thổ người khác, \
 khi mặt trời đã mọc; \
-bỏ tôi và Channa, \
+bỏ tôi và Xa-nặc (Channa), \
 Ngài ra đi, không ngoảnh lại."
 
 #super[21] "Hai chân móng đồng của Ngài, \
@@ -5701,7 +5701,7 @@ bậc khéo hóa hiện, người vui như chúa các loài."
 
 #super[2] "Không có ai bằng, huống chi hơn, \
 về danh tiếng, phước và thần lực; \
-tất cả chư thiên Tāvatiṃsa họp lại, \
+tất cả chư thiên Tam thập tam thiên (Tāvatiṃsa) họp lại, \
 đảnh lễ người như chư thiên đảnh lễ mặt trăng; \
 và những thiên nữ này khắp bốn phía \
 đang múa, đang hát, đang làm vui."
@@ -5711,7 +5711,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[4] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[4] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -5790,14 +5790,14 @@ tôi không sầu, không khóc, \
 sau khi nghe người, này thanh niên."
 
 #super[11] "Người là thiên thần, hay Càn-thát-bà, \
-hay Sakka Purindada? \
+hay Thích-ca (Sakka) Purindada? \
 Người là ai, con của ai, \
 làm sao chúng tôi biết được người?"
 
 #super[12] "Kẻ người than khóc, kẻ người khóc, \
 con trai, tự tay thiêu ở chỗ hỏa táng; \
 chính tôi đã làm nghiệp lành, \
-đã đi đến cộng trú với chúng Tāvatiṃsa."
+đã đi đến cộng trú với chúng Tam thập tam thiên (Tāvatiṃsa)."
 
 #super[13] "Ít hay nhiều, chúng tôi không thấy \
 ngươi bố thí trong nhà mình; \
@@ -5852,12 +5852,12 @@ chỗ khi ấy đã xảy ra; \
 họ nói với nhau thế nào, \
 và lời khéo ấy, hết thảy hãy nghe.
 
-#super[2] "Vị ấy từng là vua tên Pāyāsi, \
+#super[2] "Vị ấy từng là vua tên Tệ Túc (Pāyāsi), \
 đi đến cộng trú với chư thiên đất, có danh tiếng; \
 ông ấy như đang vui trong thiên cung của mình, \
 phi nhân, nói với loài người."
 
-#super[3] "Trong rừng Vaṅka, chỗ không người, \
+#super[3] "Trong rừng Bang-ca (Vaṅka), chỗ không người, \
 hoang mạc ít nước, ít thức ăn; \
 rất khó đi, giữa đường cát, \
 Vaṅka, vì sợ, người ta tâm mất."
@@ -5877,7 +5877,7 @@ mong điều gì, đã vào vùng này, \
 bỗng nhiên gặp nhau — \
 vì tham, vì sợ, hay vì mê loạn?"
 
-#super[7] "Những chủ đoàn buôn ở Magadha và Aṅga, \
+#super[7] "Những chủ đoàn buôn ở Ma-kiệt-đà (Magadha) và Ương-già (Aṅga), \
 đã chất nhiều hàng hóa; \
 chúng tôi đang đi đến đất Sindhu-Sovīra, \
 cầu của, mong lợi."
@@ -5927,7 +5927,7 @@ phía trên chúng, thiên cung này thật tốt; \
 xen châu, lan can vàng, \
 phủ khéo bằng những tấm vàng ròng."
 
-#super[17] "Được đánh bóng, như vàng Jambu nấu kỹ, \
+#super[17] "Được đánh bóng, như vàng Diêm-phù (Jambu) nấu kỹ, \
 có bậc thang lầu và phiến đá; \
 vững, êm, khớp khéo, \
 rất đáng ngắm, dễ ưa."
@@ -5940,14 +5940,14 @@ Ngài được đảnh lễ bằng lời ca ngợi."
 #super[19] "Ngài vui, được chúng nữ đánh thức, \
 trong lầu thiên cung tối thắng, đáng ưa; \
 không thể nghĩ bàn, đầy đủ mọi đức, \
-như vua Vessavaṇa ở Naḷinī."
+như vua Tỳ-sa-môn (Vessavaṇa) ở Naḷinī."
 
 #super[20] "Ngài là chư thiên, hay là Dạ-xoa, \
 hay thiên chủ từng làm người? \
 Các thương nhân, chủ đoàn buôn hỏi Ngài: \
 hãy nói, Dạ-xoa tên gì?"
 
-#super[21] "Tôi là Dạ-xoa tên Serīsaka, \
+#super[21] "Tôi là Dạ-xoa tên Serissaka (Serīsaka), \
 người canh hoang mạc, được hộ trên đường cát; \
 tôi gìn giữ vùng này, \
 làm theo lời vua Vessavaṇa."
@@ -5968,11 +5968,11 @@ Các thương nhân, chủ đoàn buôn hỏi Ngài: \
 làm sao Ngài được thiên cung này?"
 
 #super[25] "Tôi có tên Pāyāsi, \
-khi cai trị quốc độ Kosala; \
+khi cai trị quốc độ Câu-tát-la (Kosala); \
 tà kiến đoạn diệt, xan tham, ác pháp, \
 và chủ trương đoạn diệt khi ấy."
 
-#super[26] "Và có Sa-môn Kumārakassapa, \
+#super[26] "Và có Sa-môn Câu-ma-la-ca-diếp (Kumārakassapa), \
 nghe nhiều, nói hay, nguy nga; \
 ông ấy khi ấy thuyết pháp thoại cho tôi, \
 làm tiêu các kiến điên đảo của tôi."
@@ -6077,7 +6077,7 @@ Chúng tôi cũng muốn thấy người ấy, này Dạ-xoa, \
 vì bi mẫn đối với ai Ngài đã đến đây; \
 thật lợi cho người mà Ngài thương."
 
-#super[46] "Người ấy là thợ cạo, tên Sambhava, \
+#super[46] "Người ấy là thợ cạo, tên Tam-bà-bà (Sambhava), \
 cư sĩ sống bằng trái koccha; \
 hãy biết người ấy, kẻ phục vụ các người; \
 chớ khinh người ấy, người ấy rất hiền."
@@ -6095,7 +6095,7 @@ kẻ xan tham hãy thấy quả của các phước."
 #super[49] Ở đó hết thảy họ, nói "tôi trước", \
 đưa người thợ cạo ấy lên trước; \
 hết thảy họ chạm thiên cung, \
-như Masakkasāra của Vāsava.
+như Masakkasāra của Bà-sa-bà (Vāsava).
 
 #super[50] Ở đó hết thảy họ, nói "tôi trước", \
 tuyên bố mình là cư sĩ; \
@@ -6112,7 +6112,7 @@ và thỏa mãn với vợ mình.
 #super[52] Họ đi đến đất Sindhu-Sovīra, \
 cầu của, mong lợi; \
 theo khả năng, lợi đầy đủ, \
-họ trở về Pāṭaliputta bình an.
+họ trở về Ba-tha-li-bu-đa (Pāṭaliputta) bình an.
 
 #super[53] Họ về nhà, bình an, \
 đầy đủ con và vợ; \
@@ -6149,7 +6149,7 @@ khi còn làm người, người đã làm phước gì? \
 Do đâu người có oai lực chói sáng như vậy, \
 và dung sắc người chiếu khắp mọi phương?"
 
-#super[5] Vị thiên tử ấy vui mừng, được Moggallāna hỏi; \
+#super[5] Vị thiên tử ấy vui mừng, được Mục-kiền-liên (Moggallāna) hỏi; \
 được hỏi câu hỏi, vị ấy giải đáp \
 quả của nghiệp ấy.
 
@@ -6174,7 +6174,7 @@ và dung sắc tôi chiếu khắp mọi phương."
 
 #strong[Tổng thuyết:]
 
-Hai Dalidda, Vanavihāra, Bhataka, Gopāla, Kaṇḍaka; Anekavaṇṇa, Maṭṭhakuṇḍalī, Serīsaka, Sunikkhitta; được gọi là phẩm thứ ba của các vị nam.
+Hai Dalidda, Ba-na-bi-ha-la (Vanavihāra), Bhataka, Gopāla, Kaṇḍaka; Anekavaṇṇa, Maṭṭhakuṇḍalī, Serissaka (Serīsaka), Sunikkhitta; được gọi là phẩm thứ ba của các vị nam.
 
 #strong[(Hết tụng phẩm thứ tư.)]
 

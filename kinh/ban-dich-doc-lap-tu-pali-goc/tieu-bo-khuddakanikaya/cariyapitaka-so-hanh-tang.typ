@@ -117,11 +117,11 @@ Ta đã cho vị ấy như vậy.
 === 3. Sở hạnh Vua Cu-lu (Kururājacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-Indapattha, đô thành tối thắng; \
+In-đa-bát-tha (Indapattha), đô thành tối thắng; \
 là vua tên Dhanañcaya, \
 đầy đủ mười nghiệp lành.
 
-#super[2] Từ xứ Kaliṅga, \
+#super[2] Từ xứ Ca-lăng-giới (Kaliṅga), \
 các Bà-la-môn đến với Ta; \
 họ xin Ta con voi, \
 con voi được xem là điềm lành cho mùa màng.
@@ -129,7 +129,7 @@ con voi được xem là điềm lành cho mùa màng.
 #super[3] "Xứ không mưa, \
 đói kém, đói lớn; \
 hãy cho con voi tối thắng, \
-màu xanh đen, tên Añjana.
+màu xanh đen, tên Anh-xa-na (Añjana).
 
 #super[4] Khi người xin đã đến, \
 từ chối không hợp với Ta; \
@@ -160,9 +160,9 @@ vì vậy Ta đã cho voi."
 
 === 4. Sở hạnh Đại Thiện Kiến (Mahāsudassanacariyā)
 
-#super[1] Ở thành Kusāvatī, \
+#super[1] Ở thành Câu-xá- bà-đề (Kusāvatī), \
 khi Ta là chúa trái đất; \
-tên Mahāsudassana, \
+tên Đại Thiện Kiến (Mahāsudassana), \
 Chuyển luân vương đại lực.
 
 #super[2] Ở đó, mỗi ngày ba lần, \
@@ -214,7 +214,7 @@ không chấp trước, không mong đợi, \
 #super[1] Lại nữa, khi Ta là \
 quốc sư của bảy vua; \
 được các bậc chúa nhân tôn kính, \
-là Bà-la-môn Mahāgovinda.
+là Bà-la-môn Đại Điển Tôn (Mahāgovinda).
 
 #super[2] Lúc ấy, trong bảy nước, \
 lễ vật nào Ta có được; \
@@ -231,7 +231,7 @@ vì vậy Ta cho của cải tối thắng.
 === 6. Sở hạnh Vua Ni-mi (Nimirājacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-Mithilā, đô thành tối thắng; \
+Di-tát-la (Mithilā), đô thành tối thắng; \
 là đại vương tên Nimi, \
 bậc trí, cầu điều lành.
 
@@ -261,8 +261,8 @@ Ta muốn Bồ-đề tối thượng.
 
 #super[1] Lại nữa, khi Ta là \
 con trai vua Ekarāja; \
-ở thành Pupphavatī, \
-là vương tử tên Canda.
+ở thành Bup-ha-ba-đi (Pupphavatī), \
+là vương tử tên Tàn bạo (Canda).
 
 #super[2] Lúc ấy Ta thoát khỏi tế lễ, \
 ra khỏi khu tế đàn; \
@@ -293,7 +293,7 @@ không thối lui khỏi bố thí, \
 
 === 8. Sở hạnh Vua Si-vi (Sivirājacariyā)
 
-#super[1] Ở thành tên Ariṭṭha, \
+#super[1] Ở thành tên A-lợi-sá (Ariṭṭha), \
 có Sát-đế-lỵ tên Sivi; \
 ngồi nơi lầu cao tốt đẹp, \
 lúc ấy Ta nghĩ như vầy.
@@ -304,7 +304,7 @@ dù ai xin Ta con mắt, \
 Ta cũng cho, không dao động."
 
 #super[3] Biết ý nghĩ của Ta, \
-Sakka, chúa của chư thiên; \
+Thích-ca (Sakka), chúa của chư thiên; \
 ngồi giữa chúng thiên, \
 nói lời này.
 
@@ -380,7 +380,7 @@ vì vậy Ta đã cho mắt.
 #super[1] Người sanh ra Ta \
 là Sát-đế-lỵ tên Phussatī; \
 nàng, trong các đời trước, \
-là hoàng hậu yêu quý của Sakka.
+là hoàng hậu yêu quý của Thích-ca (Sakka).
 
 #super[2] Biết thọ mạng nàng đã hết, \
 vua trời nói như vầy: \
@@ -411,7 +411,7 @@ Phussatī chọn mười điều nguyện.
 
 #super[7] Từ đó chết đi, Phussatī \
 sanh vào dòng Sát-đế-lỵ; \
-ở thành Jetuttara, \
+ở thành Xê-tút-ta-la (Jetuttara), \
 nàng gặp Sañjaya.
 
 #super[8] Khi Ta vào bụng Phussatī, \
@@ -447,14 +447,14 @@ nếu có ai xin Ta."
 #super[14] Khi nghĩ điều tự nhiên ấy, \
 không dao động, không lay chuyển; \
 đất ở đó đã rung, \
-cùng Sineru đội rừng trên đỉnh.
+cùng Tu-di (Sineru) đội rừng trên đỉnh.
 
 #super[15] Nửa tháng, ngày rằm, \
 ngày Bố-tát trăng tròn; \
 cưỡi voi Paccaya, \
 Ta đi đến để bố thí.
 
-#super[16] Từ xứ Kaliṅga, \
+#super[16] Từ xứ Ca-lăng-giới (Kaliṅga), \
 các Bà-la-môn đến với Ta; \
 họ xin Ta con voi, \
 con voi được xem là điềm lành cho mùa màng.
@@ -487,7 +487,7 @@ cùng Sineru đội rừng trên đỉnh.
 #super[22] Do bố thí voi ấy, \
 dân Sivi giận, họp lại; \
 trục xuất khỏi nước mình: \
-"Hãy đi đến núi Vaṅka."
+"Hãy đi đến núi Bang-ca (Vaṅka)."
 
 #super[23] Khi họ đang trục xuất, \
 Ta không dao động, không lay chuyển; \
@@ -519,7 +519,7 @@ cùng Sineru đội rừng trên đỉnh.
 một mình, không người thứ hai, \
 Ta nói với Maddīdevī.
 
-#super[29] "Này Maddī, nàng hãy bế Kaṇhā, \
+#super[29] "Này Maddī, nàng hãy bế Can-ha (Kaṇhā), \
 em nhỏ, nhẹ; \
 Ta sẽ bế Jāli, \
 vì anh ấy nặng."
@@ -567,7 +567,7 @@ các cây tự cúi xuống."
 #super[38] Các Dạ-xoa rút ngắn đường, \
 vì thương cảm trẻ con; \
 ngay ngày ra đi, \
-họ đến xứ Ceta.
+họ đến xứ Chi-đề (Ceta).
 
 #super[39] Sáu vạn vị vua \
 lúc ấy sống nơi cậu; \
@@ -580,7 +580,7 @@ rồi từ đó ra đi, \
 họ đến núi Vaṅka.
 
 #super[41] Vua trời gọi \
-Vissakamma đại thần lực: \
+Tỳ-thủ-yết-ma (Vissakamma) đại thần lực: \
 "Hãy làm một am tốt đẹp, đáng ưa, \
 một am lá."
 
@@ -719,7 +719,7 @@ Ta sẽ cho chính bản thân, \
 người ấy sẽ không ra về tay không."
 
 #super[10] Biết ý nghĩ của Ta, \
-Sakka mang hình Bà-la-môn \
+Thích-ca (Sakka) mang hình Bà-la-môn \
 đến chỗ Ta ở, \
 để thử sự bố thí của Ta.
 
@@ -774,9 +774,9 @@ Ta đã cho Bà-la-môn.
 #strong[Tổng thuyết:]
 
 Bà-la-môn Akitti, Saṅkha, \
-vua Kuru Dhanañcaya; \
-vua Mahāsudassana, \
-Bà-la-môn Mahāgovinda.
+vua Câu-lâu (Kuru) Dhanañcaya; \
+vua Đại Thiện Kiến (Mahāsudassana), \
+Bà-la-môn Đại Điển Tôn (Mahāgovinda).
 
 Nimi và Candakumāra, \
 Sivi, Vessantara, thỏ; \
@@ -855,7 +855,7 @@ vì sợ giới bị gãy.
 
 #super[1] Lại nữa, khi Ta là \
 Bhūridatta đại thần lực; \
-cùng đại vương Virūpakkha, \
+cùng đại vương Quảng Mục Thiên vương (Virūpakkha), \
 Ta đi đến cõi trời.
 
 #super[2] Ở đó Ta thấy chư thiên \
@@ -949,7 +949,7 @@ xuất ly, ra đi.
 #super[3] Không chấp trước, cắt hết buộc ràng, \
 không luyến gia tộc, đồ chúng; \
 đi làng, đi ấp, \
-chúng ta đến Bārāṇasī.
+chúng ta đến Ba-la-nại (Bārāṇasī).
 
 #super[4] Ở đó chúng ta sống thận trọng, \
 không xen lẫn gia tộc, đồ chúng; \
@@ -1122,7 +1122,7 @@ chỉ vì Bồ-đề.
 
 #super[1] Lại nữa, khi Ta là \
 đạo sĩ bím tóc, khổ hạnh mãnh liệt; \
-tên là Mātaṅga, \
+tên là Ma-đang-ga (Mātaṅga), \
 có giới, khéo định tĩnh.
 
 #super[2] Ta và một Bà-la-môn, \
@@ -1198,8 +1198,8 @@ nuốt Dạ-xoa ác ngay lúc ấy.
 
 === 19. Sở hạnh A-li-na-sát-tu (Alīnasattucariyā)
 
-#super[1] Ở xứ Pañcāla, thành tốt, \
-Kapilā, đô thành tối thắng; \
+#super[1] Ở xứ Ban-giá-la (Pañcāla), thành tốt, \
+Ca-bi-la (Kapilā), đô thành tối thắng; \
 có vua tên Jayaddisa, \
 đầy đủ giới đức.
 
@@ -1299,7 +1299,7 @@ Ta không giận các con nhà Bhoja, \
 
 Voi, Bhūridatta, \
 Campeyyaka, Bodhi, trâu; \
-Ruru, Mātaṅga và Dhamma, \
+Ruru, Ma-đang-ga (Mātaṅga) và Dhamma, \
 cùng con trai Jayaddisa.
 
 Chín vị ấy có sức giới, \
@@ -1353,7 +1353,7 @@ vì vậy Ta đã bỏ ngôi.
 === 22. Sở hạnh Hỷ (Somanassacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-Indapattha, đô thành tối thắng; \
+In-đa-bát-tha (Indapattha), đô thành tối thắng; \
 là con được yêu, được quý, \
 nổi tiếng tên Somanassa.
 
@@ -1442,7 +1442,7 @@ vì vậy Ta đã bỏ ngôi.
 === 23. Sở hạnh A-dô-gha-la (Ayogharacariyā)
 
 #super[1] Lại nữa, khi Ta là \
-con trai vua Kāsi; \
+con trai vua Ca-thi (Kāsi); \
 lớn lên trong nhà sắt, \
 tên là Ayoghara.
 
@@ -1496,7 +1496,7 @@ vì vậy Ta đã bỏ ngôi.
 === 24. Sở hạnh Bhi-sa (Bhisacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-đô thành tối thắng của dân Kāsi; \
+đô thành tối thắng của dân Ca-thi (Kāsi); \
 một chị em và bảy anh em, \
 sanh trong gia tộc Bà-la-môn.
 
@@ -1540,7 +1540,7 @@ chúng ta vào rừng lớn.
 === 25. Sở hạnh Hiền Trí Sô-na (Soṇapaṇḍitacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-thành Brahmavaḍḍhana; \
+thành Ba-ma-bat-ha-na (Brahmavaḍḍhana); \
 trong tộc tối thắng, giàu có, \
 nhà lớn, Ta được sanh.
 
@@ -1564,7 +1564,7 @@ bậc trí tên Nanda; \
 cũng theo học Ta, \
 vui theo sự xuất gia.
 
-#super[6] Ta là Soṇa và Nanda, \
+#super[6] Ta là Tô-na (Soṇa) và Nanda, \
 cả mẹ lẫn cha của Ta; \
 lúc ấy cũng bỏ của cải, \
 chúng ta vào rừng lớn.
@@ -1574,7 +1574,7 @@ chúng ta vào rừng lớn.
 === 26. Sở hạnh Tê-mi-da (Temiyacariyā)
 
 #super[1] Lại nữa, khi Ta là \
-con trai vua Kāsi; \
+con trai vua Ca-thi (Kāsi); \
 tên là Mūgapakkha, \
 họ gọi Ta là Temiya.
 
@@ -1708,7 +1708,7 @@ Ta làm cho dân chúng hòa hợp.
 === 29. Sở hạnh Bát-đa-bô-đa-ca (Vaṭṭapotakacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-Magadha, là chim cút con; \
+Ma-kiệt-đà (Magadha), là chim cút con; \
 chưa mọc cánh, còn non, \
 một nắm thịt trong tổ.
 
@@ -1878,7 +1878,7 @@ hơn năm mươi năm.
 
 #super[12] Ta sống không vui, \
 bằng chân thật ấy, xin được an lành; \
-độc hãy dứt, Yaññadatta hãy sống."
+độc hãy dứt, Đạt Đức (Yaññadatta) hãy sống."
 
 #super[13] Vừa khi Ta làm sự chân thật, \
 đứa trẻ rung vì sức độc; \
@@ -1928,7 +1928,7 @@ không ai bằng Ta về chân thật, \
 === 33. Sở hạnh Su-ban-na-sa-ma (Suvaṇṇasāmacariyā)
 
 #super[1] Khi Ta là Sāma trong rừng, \
-do Sakka hóa hiện; \
+do Thích-ca (Sakka) hóa hiện; \
 trong rừng, sư tử và cọp, \
 Ta đưa lại gần bằng từ.
 
@@ -2004,7 +2004,7 @@ Ta đều như nhau mọi nơi, \
 
 Yudhañjaya, Somanassa, \
 Ayoghara cùng Bhisa; \
-Soṇa và Nanda, Mūgapakkha, \
+Tô-na (Soṇa) và Nanda, Mūgapakkha, \
 vua khỉ, vị tên Sacca.
 
 Chim cút và vua cá, \

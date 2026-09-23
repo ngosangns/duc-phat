@@ -24,7 +24,7 @@ _Trạng thái: đã dịch 276/276 kinh/nhóm; đã trọn tập._
 
 #strong[Năm Mươi Kinh Đầu]
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, có năm sức mạnh của bậc Hữu học. Thế nào là năm? Sức mạnh của tín, sức mạnh của tàm, sức mạnh của quý, sức mạnh của tấn, sức mạnh của tuệ — này các thầy, đó là năm sức mạnh của bậc Hữu học. Do vậy, này các thầy, các thầy cần tu tập như vầy: 'Chúng ta sẽ thành tựu sức mạnh của tín, sức mạnh của tàm, sức mạnh của quý, sức mạnh của tấn, sức mạnh của tuệ — thuộc sức mạnh của bậc Hữu học.' Này các thầy, các thầy cần tu tập như vậy."
+#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, có năm sức mạnh của bậc Hữu học. Thế nào là năm? Sức mạnh của tín, sức mạnh của tàm, sức mạnh của quý, sức mạnh của tấn, sức mạnh của tuệ — này các thầy, đó là năm sức mạnh của bậc Hữu học. Do vậy, này các thầy, các thầy cần tu tập như vầy: 'Chúng ta sẽ thành tựu sức mạnh của tín, sức mạnh của tàm, sức mạnh của quý, sức mạnh của tấn, sức mạnh của tuệ — thuộc sức mạnh của bậc Hữu học.' Này các thầy, các thầy cần tu tập như vậy."
 
 === AN 5.2. Chi Tiết (Vitthatasuttaṃ)
 
@@ -211,9 +211,9 @@ Nếu vị ấy muốn: 'Do đoạn tận các lậu hoặc, ngay trong hiện t
 
 === AN 5.30. Na-gi-đa (Nāgitasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn du hành trong xứ Kosala cùng đại chúng Tỷ-kheo, đến ngôi làng Bà-la-môn của người Kosala tên Icchānaṅgala. Tại đó Thế Tôn trú ở Icchānaṅgala, trong khu rừng Icchānaṅgala. Các gia chủ Bà-la-môn ở Icchānaṅgala nghe: "Sa-môn Gotama, dòng Thích-ca, xuất gia từ gia tộc Thích-ca, đã đến Icchānaṅgala; đang trú ở Icchānaṅgala, trong khu rừng Icchānaṅgala. Về tôn giả Gotama ấy, tiếng đồn tốt đẹp đã lan truyền: 'Ngài là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Ngài tự mình thắng tri, chứng ngộ rồi tuyên thuyết thế giới này cùng với chư Thiên, Ma vương, Phạm thiên, cùng với chúng Sa-môn, Bà-la-môn, chư Thiên và loài người. Ngài thuyết pháp sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn; tuyên thuyết Phạm hạnh hoàn toàn viên mãn, thanh tịnh. Thật tốt lành nếu được chiêm ngưỡng bậc A-la-hán như vậy."
+#super[1] Tôi nghe như vầy: một thời Thế Tôn du hành trong xứ Câu-tát-la (Kosala) cùng đại chúng Tỷ-kheo, đến ngôi làng Bà-la-môn của người Kosala tên Ic-ha-nang-ga-la (Icchānaṅgala). Tại đó Thế Tôn trú ở Icchānaṅgala, trong khu rừng Icchānaṅgala. Các gia chủ Bà-la-môn ở Icchānaṅgala nghe: "Sa-môn Cù-đàm (Gotama), dòng Thích-ca, xuất gia từ gia tộc Thích-ca, đã đến Icchānaṅgala; đang trú ở Icchānaṅgala, trong khu rừng Icchānaṅgala. Về tôn giả Gotama ấy, tiếng đồn tốt đẹp đã lan truyền: 'Ngài là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Ngài tự mình thắng tri, chứng ngộ rồi tuyên thuyết thế giới này cùng với chư Thiên, Ma vương, Phạm thiên, cùng với chúng Sa-môn, Bà-la-môn, chư Thiên và loài người. Ngài thuyết pháp sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn; tuyên thuyết Phạm hạnh hoàn toàn viên mãn, thanh tịnh. Thật tốt lành nếu được chiêm ngưỡng bậc A-la-hán như vậy."
 
-Rồi các gia chủ Bà-la-môn ở Icchānaṅgala, sau khi đêm đã qua, mang theo nhiều đồ cứng đồ mềm, đi đến khu rừng Icchānaṅgala; đến rồi đứng ngoài cổng, ồn ào, om sòm. Lúc bấy giờ Tôn giả Nāgita là thị giả của Thế Tôn. Thế Tôn gọi Tôn giả Nāgita: "Nāgita, những tiếng ồn ào, om sòm kia là gì? Như dân chài đang tranh giành cá vậy." "Bạch Thế Tôn, đó là các gia chủ Bà-la-môn ở Icchānaṅgala, mang theo nhiều đồ cứng đồ mềm, đứng ngoài cổng, vì Thế Tôn và chúng Tỷ-kheo." "Nāgita, chớ để Ta gặp danh vọng, chớ để danh vọng gặp Ta. Nāgita, ai chưa tùy ý chứng đắc, chưa chứng đắc không khó khăn, chưa chứng đắc không mệt nhọc lạc xuất ly, lạc viễn ly, lạc tịch tịnh, lạc giác ngộ này — mà Ta đã tùy ý chứng đắc, chứng đắc không khó khăn, chứng đắc không mệt nhọc lạc xuất ly, lạc viễn ly, lạc tịch tịnh, lạc giác ngộ — người ấy mới có thể ưa thích lạc phân, lạc hôn trầm, lạc lợi dưỡng, cung kính, danh tiếng."
+Rồi các gia chủ Bà-la-môn ở Icchānaṅgala, sau khi đêm đã qua, mang theo nhiều đồ cứng đồ mềm, đi đến khu rừng Icchānaṅgala; đến rồi đứng ngoài cổng, ồn ào, om sòm. Lúc bấy giờ Tôn giả Na-gi-đa (Nāgita) là thị giả của Thế Tôn. Thế Tôn gọi Tôn giả Nāgita: "Nāgita, những tiếng ồn ào, om sòm kia là gì? Như dân chài đang tranh giành cá vậy." "Bạch Thế Tôn, đó là các gia chủ Bà-la-môn ở Icchānaṅgala, mang theo nhiều đồ cứng đồ mềm, đứng ngoài cổng, vì Thế Tôn và chúng Tỷ-kheo." "Nāgita, chớ để Ta gặp danh vọng, chớ để danh vọng gặp Ta. Nāgita, ai chưa tùy ý chứng đắc, chưa chứng đắc không khó khăn, chưa chứng đắc không mệt nhọc lạc xuất ly, lạc viễn ly, lạc tịch tịnh, lạc giác ngộ này — mà Ta đã tùy ý chứng đắc, chứng đắc không khó khăn, chứng đắc không mệt nhọc lạc xuất ly, lạc viễn ly, lạc tịch tịnh, lạc giác ngộ — người ấy mới có thể ưa thích lạc phân, lạc hôn trầm, lạc lợi dưỡng, cung kính, danh tiếng."
 
 "Bạch Thế Tôn, nay xin Thế Tôn nhẫn nại, xin Thiện Thệ nhẫn nại; nay đã đến lúc Thế Tôn nhẫn nại. Chỗ nào Thế Tôn đi đến, các gia chủ Bà-la-môn, dân thành thị và dân thôn quê sẽ đổ về chỗ ấy. Bạch Thế Tôn, cũng như khi trời mưa hạt to, nước chảy theo chỗ thấp; cũng vậy, bạch Thế Tôn, chỗ nào Thế Tôn đi đến, các gia chủ Bà-la-môn, dân thành thị và dân thôn quê sẽ đổ về chỗ ấy. Vì sao? Vì giới và tuệ của Thế Tôn là như vậy."
 
@@ -230,7 +230,7 @@ Kinh hành, cùng Nāgita.
 
 === AN 5.31. Tô-ma-na (Sumanasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Rồi công chúa Sumanā, được năm trăm cỗ xe và năm trăm công chúa vây quanh, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, công chúa Sumanā bạch Thế Tôn:
+#super[1] Một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Rồi công chúa Tô-ma-na (Sumanā), được năm trăm cỗ xe và năm trăm công chúa vây quanh, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, công chúa Sumanā bạch Thế Tôn:
 
 "Bạch Thế Tôn, ở đây giả sử có hai đệ tử của Thế Tôn, đồng tín, đồng giới, đồng tuệ — một người bố thí, một người không bố thí. Sau khi thân hoại mạng chung, họ sinh vào thiện thú, thiên giới. Bạch Thế Tôn, khi đã thành chư Thiên, giữa họ có sự khác biệt, có sự sai khác không?"
 
@@ -281,9 +281,9 @@ chết đi vui ở thiên giới."
 
 === AN 5.32. Chuẩn Đề (Cundīsuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Rājagaha, tại Veḷuvana, chỗ nuôi sóc. Rồi công chúa Cundī, được năm trăm cỗ xe và năm trăm công chúa vây quanh, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, công chúa Cundī bạch Thế Tôn:
+#super[1] Một thời Thế Tôn trú ở Vương Xá (Rājagaha), tại Trúc Lâm (Veḷuvana), chỗ nuôi sóc. Rồi công chúa Chuẩn Đề (Cundī), được năm trăm cỗ xe và năm trăm công chúa vây quanh, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, công chúa Cundī bạch Thế Tôn:
 
-"Bạch Thế Tôn, anh chúng con tên Cunda, là vương tử, nói như vầy: 'Người nữ hay người nam nào quy y Phật, quy y Pháp, quy y Tăng, từ bỏ sát sinh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu là gốc phóng dật, người ấy sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú.' Bạch Thế Tôn, con xin hỏi Thế Tôn: 'Bạch Thế Tôn, tin tưởng nơi bậc Đạo sư như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú? Tin tưởng nơi pháp như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú? Tin tưởng nơi Tăng như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú? Viên mãn các giới như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú?'"
+"Bạch Thế Tôn, anh chúng con tên Thuần-đà (Cunda), là vương tử, nói như vầy: 'Người nữ hay người nam nào quy y Phật, quy y Pháp, quy y Tăng, từ bỏ sát sinh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu là gốc phóng dật, người ấy sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú.' Bạch Thế Tôn, con xin hỏi Thế Tôn: 'Bạch Thế Tôn, tin tưởng nơi bậc Đạo sư như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú? Tin tưởng nơi pháp như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú? Tin tưởng nơi Tăng như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú? Viên mãn các giới như thế nào thì sau khi thân hoại mạng chung sinh vào thiện thú, không sinh vào ác thú?'"
 
 "Này Cundī, phàm các chúng sinh không chân, hai chân, bốn chân hay nhiều chân, có sắc hay không sắc, có tưởng hay không tưởng, hay phi tưởng phi phi tưởng, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, được tuyên bố là tối thượng trong các chúng sinh ấy. Này Cundī, những ai tin tưởng nơi Phật, những người ấy tin tưởng nơi cái tối thượng. Mà tin tưởng nơi cái tối thượng thì có quả dị thục tối thượng.
 
@@ -317,7 +317,7 @@ Làm trời hay làm người, \
 
 === AN 5.33. U-ga-ha (Uggahasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Bhaddiya, trong rừng Jāti. Rồi Uggaha, cháu ông Meṇḍaka, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, Uggaha, cháu ông Meṇḍaka, bạch Thế Tôn: "Bạch Thế Tôn, xin Thế Tôn nhận lời con, ngày mai dùng cơm, Thế Tôn là người thứ tư." Thế Tôn im lặng nhận lời. Uggaha, cháu ông Meṇḍaka, biết Thế Tôn đã nhận, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, rồi ra đi.
+#super[1] Một thời Thế Tôn trú ở Ba-đi-da (Bhaddiya), trong rừng Xa-đi (Jāti). Rồi Uggaha, cháu ông Mên-đa-ca (Meṇḍaka), đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, Uggaha, cháu ông Meṇḍaka, bạch Thế Tôn: "Bạch Thế Tôn, xin Thế Tôn nhận lời con, ngày mai dùng cơm, Thế Tôn là người thứ tư." Thế Tôn im lặng nhận lời. Uggaha, cháu ông Meṇḍaka, biết Thế Tôn đã nhận, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, rồi ra đi.
 
 Rồi Thế Tôn, sau khi đêm đã qua, buổi sáng đắp y, cầm y bát, đi đến nhà Uggaha, cháu ông Meṇḍaka; đến rồi ngồi trên chỗ đã soạn. Uggaha, cháu ông Meṇḍaka, tự tay làm cho Thế Tôn thỏa mãn, mời mọc với đồ cứng đồ mềm hảo hạng. Rồi Uggaha, cháu ông Meṇḍaka, khi Thế Tôn đã dùng xong, tay đã rời bát, ngồi xuống một bên. Ngồi một bên, Uggaha, cháu ông Meṇḍaka, bạch Thế Tôn: "Bạch Thế Tôn, các cô gái này của con sẽ đi đến gia đình chồng. Bạch Thế Tôn, xin Thế Tôn giáo giới chúng, xin Thế Tôn dạy bảo chúng, điều gì sẽ đưa đến lợi ích, an lạc lâu dài cho chúng."
 
@@ -357,7 +357,7 @@ chỗ nàng được sinh tới."
 
 === AN 5.34. Tướng Quân Sĩ-ha (Sīhasenāpatisuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vesālī, tại Mahāvana, giảng đường Trùng Các. Rồi tướng quân Sīha đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, tướng quân Sīha bạch Thế Tôn: "Bạch Thế Tôn, Thế Tôn có thể chỉ rõ quả bố thí ngay trong hiện tại được không?"
+#super[1] Một thời Thế Tôn trú ở Tỳ-xá-ly (Vesālī), tại Đại Lâm (Mahāvana), giảng đường Trùng Các. Rồi tướng quân Sĩ-ha (Sīha) đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, tướng quân Sīha bạch Thế Tôn: "Bạch Thế Tôn, Thế Tôn có thể chỉ rõ quả bố thí ngay trong hiện tại được không?"
 
 "Được chứ, này Sīha," Thế Tôn nói. "Này Sīha, thí chủ, thí chủ bố thí, được nhiều người thương mến, ưa thích. Này Sīha, thí chủ, thí chủ bố thí được nhiều người thương mến, ưa thích — đây cũng là quả bố thí ngay trong hiện tại.
 
@@ -384,7 +384,7 @@ Họ an trú lâu dài ở Tam thập tam thiên, \
 cộng trú với chư Thiên, họ vui thú.
 
 Được mở đường, đã làm lành, từ đây chết đi, \
-tự phát sáng, đi dạo vườn Nandana; \
+tự phát sáng, đi dạo vườn Hoan Lạc Viên (Nandana); \
 Ở đó họ vui, họ thích, họ hoan hỷ, \
 thỏa mãn năm dục công đức.
 
@@ -501,7 +501,7 @@ người con ấy đáng khen."
 
 === AN 5.40. Con Nhà Đại Gia (Mahāsālaputtasuttaṃ)
 
-#super[1] "Này các thầy, nương núi chúa Himavanta, các cây sāla lớn tăng trưởng ở năm sự tăng trưởng. Thế nào là năm? Tăng trưởng cành, lá; tăng trưởng vỏ trong; tăng trưởng vỏ ngoài; tăng trưởng giác cây; tăng trưởng lõi cây. Này các thầy, nương núi chúa Himavanta, các cây sāla lớn tăng trưởng ở năm sự tăng trưởng ấy. Cũng vậy, này các thầy, nương thiện nam tử có tín, người trong nhà tăng trưởng ở năm sự tăng trưởng. Thế nào là năm? Tăng trưởng tín; tăng trưởng giới; tăng trưởng nghe pháp; tăng trưởng xả; tăng trưởng tuệ. Này các thầy, nương thiện nam tử có tín, người trong nhà tăng trưởng ở năm sự tăng trưởng ấy."
+#super[1] "Này các thầy, nương núi chúa Tuyết sơn (Himavanta), các cây sāla lớn tăng trưởng ở năm sự tăng trưởng. Thế nào là năm? Tăng trưởng cành, lá; tăng trưởng vỏ trong; tăng trưởng vỏ ngoài; tăng trưởng giác cây; tăng trưởng lõi cây. Này các thầy, nương núi chúa Himavanta, các cây sāla lớn tăng trưởng ở năm sự tăng trưởng ấy. Cũng vậy, này các thầy, nương thiện nam tử có tín, người trong nhà tăng trưởng ở năm sự tăng trưởng. Thế nào là năm? Tăng trưởng tín; tăng trưởng giới; tăng trưởng nghe pháp; tăng trưởng xả; tăng trưởng tuệ. Này các thầy, nương thiện nam tử có tín, người trong nhà tăng trưởng ở năm sự tăng trưởng ấy."
 
 "Như núi đá, \
 trong rừng lớn, rừng rậm; \
@@ -529,8 +529,8 @@ họ vui, còn ưa dục."
 
 #strong[Tổng thuyết kệ:]
 
-Sumanā, Cundī, Uggaha, \
-Sīha, lợi ích bố thí; \
+Tô-ma-na (Sumanā), Chuẩn Đề (Cundī), Uggaha, \
+Sĩ-ha (Sīha), lợi ích bố thí; \
 Đúng thời, thức ăn, tín, \
 Con, cây sāla — đủ mười.
 
@@ -538,7 +538,7 @@ Con, cây sāla — đủ mười.
 
 === AN 5.41. Dùng Tài Sản (Ādiyasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Rồi gia chủ Anāthapiṇḍika đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên:
+#super[1] Một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Rồi gia chủ Anāthapiṇḍika đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên:
 
 "Này gia chủ, có năm sự dùng tài sản. Thế nào là năm? Ở đây, này gia chủ, vị Thánh đệ tử, với tài sản đạt được nhờ tinh tấn đứng dậy, tích lũy bằng sức tay, đổ mồ hôi, đúng pháp, được đúng pháp, làm mình an lạc, thỏa thích, nuôi dưỡng lạc một cách đúng đắn; làm cha mẹ an lạc, thỏa thích, nuôi dưỡng lạc một cách đúng đắn; làm con cái, vợ, nô tỳ, người làm, người hầu an lạc, thỏa thích, nuôi dưỡng lạc một cách đúng đắn. Đây là sự dùng tài sản thứ nhất.
 
@@ -591,7 +591,7 @@ Phạm thiên cũng khen ngợi."
 
 === AN 5.43. Điều Mong Muốn (Iṭṭhasuttaṃ)
 
-#super[1] Rồi gia chủ Anāthapiṇḍika đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên:
+#super[1] Rồi gia chủ Cấp Cô Độc (Anāthapiṇḍika) đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên:
 
 "Này gia chủ, có năm pháp đáng muốn, đáng ưa, đáng thích, khó được ở đời. Thế nào là năm? Này gia chủ, thọ đáng muốn, đáng ưa, đáng thích, khó được ở đời; sắc đáng muốn, đáng ưa, đáng thích, khó được ở đời; lạc đáng muốn, đáng ưa, đáng thích, khó được ở đời; danh vọng đáng muốn, đáng ưa, đáng thích, khó được ở đời; thiên giới đáng muốn, đáng ưa, đáng thích, khó được ở đời. Này gia chủ, đó là năm pháp đáng muốn, đáng ưa, đáng thích, khó được ở đời.
 
@@ -624,7 +624,7 @@ Do chứng đạt lợi ích, bậc trí \
 
 === AN 5.44. Người Cho Điều Đáng Ưa (Manāpadāyīsuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vesālī, tại Mahāvana, giảng đường Trùng Các. Rồi Thế Tôn, buổi sáng đắp y, cầm y bát, đi đến nhà gia chủ Ugga ở Vesālī; đến rồi ngồi trên chỗ đã soạn. Gia chủ Ugga ở Vesālī đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, gia chủ Ugga ở Vesālī bạch Thế Tôn:
+#super[1] Một thời Thế Tôn trú ở Tỳ-xá-ly (Vesālī), tại Đại Lâm (Mahāvana), giảng đường Trùng Các. Rồi Thế Tôn, buổi sáng đắp y, cầm y bát, đi đến nhà gia chủ Ugga ở Vesālī; đến rồi ngồi trên chỗ đã soạn. Gia chủ Ugga ở Vesālī đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, gia chủ Ugga ở Vesālī bạch Thế Tôn:
 
 "Bạch Thế Tôn, con đã được nghe từ miệng Thế Tôn, đã lãnh hội từ miệng Thế Tôn: 'Người cho điều đáng ưa được điều đáng ưa.' Bạch Thế Tôn, đồ cứng hoa sāla của con là đáng ưa; xin Thế Tôn nhận cho con, vì lòng thương." Thế Tôn nhận, vì lòng thương.
 
@@ -634,7 +634,7 @@ Do chứng đạt lợi ích, bậc trí \
 
 "Bạch Thế Tôn, con đã được nghe từ miệng Thế Tôn, đã lãnh hội từ miệng Thế Tôn: 'Người cho điều đáng ưa được điều đáng ưa.' Bạch Thế Tôn, cơm gạo sāla đã nhặt hết hạt đen, nhiều canh, nhiều thức ăn của con là đáng ưa; xin Thế Tôn nhận cho con, vì lòng thương." Thế Tôn nhận, vì lòng thương.
 
-"Bạch Thế Tôn, con đã được nghe từ miệng Thế Tôn, đã lãnh hội từ miệng Thế Tôn: 'Người cho điều đáng ưa được điều đáng ưa.' Bạch Thế Tôn, các tấm vải Kāsi của con là đáng ưa; xin Thế Tôn nhận cho con, vì lòng thương." Thế Tôn nhận, vì lòng thương.
+"Bạch Thế Tôn, con đã được nghe từ miệng Thế Tôn, đã lãnh hội từ miệng Thế Tôn: 'Người cho điều đáng ưa được điều đáng ưa.' Bạch Thế Tôn, các tấm vải Ca-thi (Kāsi) của con là đáng ưa; xin Thế Tôn nhận cho con, vì lòng thương." Thế Tôn nhận, vì lòng thương.
 
 "Bạch Thế Tôn, con đã được nghe từ miệng Thế Tôn, đã lãnh hội từ miệng Thế Tôn: 'Người cho điều đáng ưa được điều đáng ưa.' Bạch Thế Tôn, chiếc giường của con, trải thảm lông dài, trải thảm len nhiều màu, trải da linh dương kadali hảo hạng, có lọng che phía trên, hai đầu có gối đỏ, là đáng ưa. Tuy nhiên, bạch Thế Tôn, chúng con cũng biết: 'Điều ấy không thích hợp với Thế Tôn.' Bạch Thế Tôn, tấm ván đàn hương này của con trị giá hơn mười vạn; xin Thế Tôn nhận cho con, vì lòng thương." Thế Tôn nhận, vì lòng thương.
 
@@ -650,7 +650,7 @@ biết các bậc A-la-hán như ruộng; \
 Bậc chân nhân bỏ điều khó bỏ, \
 người cho điều đáng ưa được điều đáng ưa."
 
-Rồi Thế Tôn, sau khi tùy hỷ với gia chủ Ugga ở Vesālī bằng bài tùy hỷ ấy, từ chỗ ngồi đứng dậy ra đi. Sau đó, gia chủ Ugga ở Vesālī mạng chung. Khi đã mạng chung, gia chủ Ugga ở Vesālī sinh vào một thân do ý tạo. Lúc bấy giờ Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Rồi thiên tử Ugga, khi đêm đã về khuya, dung sắc thù thắng, chiếu sáng toàn Jetavana, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, đứng một bên. Thế Tôn nói với thiên tử Ugga đang đứng một bên: "Này Ugga, có phải như ý ông muốn?" "Bạch Thế Tôn, đúng vậy, như ý con muốn." Rồi Thế Tôn nói với thiên tử Ugga bằng những bài kệ:
+Rồi Thế Tôn, sau khi tùy hỷ với gia chủ Ugga ở Vesālī bằng bài tùy hỷ ấy, từ chỗ ngồi đứng dậy ra đi. Sau đó, gia chủ Ugga ở Vesālī mạng chung. Khi đã mạng chung, gia chủ Ugga ở Vesālī sinh vào một thân do ý tạo. Lúc bấy giờ Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Rồi thiên tử Ugga, khi đêm đã về khuya, dung sắc thù thắng, chiếu sáng toàn Jetavana, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, đứng một bên. Thế Tôn nói với thiên tử Ugga đang đứng một bên: "Này Ugga, có phải như ý ông muốn?" "Bạch Thế Tôn, đúng vậy, như ý con muốn." Rồi Thế Tôn nói với thiên tử Ugga bằng những bài kệ:
 
 "Người cho điều đáng ưa được điều đáng ưa, \
 người cho cái tối thượng lại được cái tối thượng; \
@@ -754,7 +754,7 @@ nghĩ: 'Nay ta làm gì với nghiệp đã chắc?'
 
 === AN 5.49. Kiều-tát-la (Kosalasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Rồi vua Pasenadi nước Kosala đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Lúc bấy giờ hoàng hậu Mallikā đã mạng chung. Rồi một người đi đến vua Pasenadi nước Kosala; đến rồi thì thầm bên tai vua Pasenadi nước Kosala: "Tâu đại vương, hoàng hậu Mallikā đã mạng chung." Được nói vậy, vua Pasenadi nước Kosala ngồi đau khổ, buồn rầu, vai sụp, mặt cúi, trầm ngâm, không nói năng.
+#super[1] Một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Rồi vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Lúc bấy giờ hoàng hậu Ma-li-ca (Mallikā) đã mạng chung. Rồi một người đi đến vua Pasenadi nước Kosala; đến rồi thì thầm bên tai vua Pasenadi nước Kosala: "Tâu đại vương, hoàng hậu Mallikā đã mạng chung." Được nói vậy, vua Pasenadi nước Kosala ngồi đau khổ, buồn rầu, vai sụp, mặt cúi, trầm ngâm, không nói năng.
 
 Thế Tôn biết vua Pasenadi nước Kosala đang đau khổ, buồn rầu, vai sụp, mặt cúi, trầm ngâm, không nói năng, liền nói với vua Pasenadi nước Kosala:
 
@@ -792,7 +792,7 @@ nghĩ: 'Nay ta làm gì với nghiệp đã chắc?'
 
 === AN 5.50. Na-la-đà (Nāradasuttaṃ)
 
-#super[1] Một thời Tôn giả Nārada trú ở Pāṭaliputta, tại Kukkuṭārāma. Lúc bấy giờ hoàng hậu Bhaddā của vua Muṇḍa đã mạng chung, người vợ yêu quý, dễ mến. Vua, khi hoàng hậu Bhaddā yêu quý, dễ mến đã mạng chung, không tắm, không thoa dầu, không ăn cơm, không lo việc; ngày đêm mê mẩn nơi thân hoàng hậu Bhaddā. Rồi vua Muṇḍa gọi Piyaka, người giữ kho: "Này bạn Piyaka, hãy đặt thân hoàng hậu Bhaddā vào thùng sắt đựng dầu, úp thùng sắt khác lên, để chúng ta còn nhìn thân hoàng hậu Bhaddā được lâu hơn." "Tâu đại vương, xin vâng." Piyaka, người giữ kho, vâng lời vua Muṇḍa, đặt thân hoàng hậu Bhaddā vào thùng sắt đựng dầu, úp thùng sắt khác lên.
+#super[1] Một thời Tôn giả Na-la-đà (Nārada) trú ở Ba-tha-li-bu-đa (Pāṭaliputta), tại Kê Viên (Kukkuṭārāma). Lúc bấy giờ hoàng hậu Cát Tường (Bhaddā) của vua Mun-đa (Muṇḍa) đã mạng chung, người vợ yêu quý, dễ mến. Vua, khi hoàng hậu Bhaddā yêu quý, dễ mến đã mạng chung, không tắm, không thoa dầu, không ăn cơm, không lo việc; ngày đêm mê mẩn nơi thân hoàng hậu Bhaddā. Rồi vua Muṇḍa gọi Piyaka, người giữ kho: "Này bạn Piyaka, hãy đặt thân hoàng hậu Bhaddā vào thùng sắt đựng dầu, úp thùng sắt khác lên, để chúng ta còn nhìn thân hoàng hậu Bhaddā được lâu hơn." "Tâu đại vương, xin vâng." Piyaka, người giữ kho, vâng lời vua Muṇḍa, đặt thân hoàng hậu Bhaddā vào thùng sắt đựng dầu, úp thùng sắt khác lên.
 
 Rồi Piyaka, người giữ kho, nghĩ: "Hoàng hậu Bhaddā của vua Muṇḍa này đã mạng chung, người vợ yêu quý, dễ mến. Vua, khi hoàng hậu Bhaddā yêu quý, dễ mến đã mạng chung, không tắm, không thoa dầu, không ăn cơm, không lo việc; ngày đêm mê mẩn nơi thân hoàng hậu Bhaddā. Vua Muṇḍa nên thân cận Sa-môn hay Bà-la-môn nào, nghe pháp của vị ấy rồi có thể bỏ mũi tên sầu?" Rồi Piyaka, người giữ kho, nghĩ: "Tôn giả Nārada này trú ở Pāṭaliputta, tại Kukkuṭārāma. Về Tôn giả Nārada ấy, tiếng đồn tốt đẹp đã lan truyền: 'Bậc trí, thông suốt, có tuệ, đa văn, thuyết hay, biện tài lành, vừa là bậc trưởng lão vừa là A-la-hán.' Hay là vua Muṇḍa thân cận Tôn giả Nārada; có lẽ vua Muṇḍa nghe pháp của Tôn giả Nārada rồi bỏ được mũi tên sầu."
 
@@ -847,7 +847,7 @@ Rồi vua Muṇḍa gọi Piyaka, người giữ kho: "Này bạn Piyaka, hãy h
 Dùng tài sản, bậc chân nhân, điều mong muốn, \
 Người cho điều đáng ưa, dòng phước; \
 Thành tựu, tài bảo, việc không thể có, \
-Kosala, cùng Nārada.
+Câu-tát-la (Kosala), cùng Nārada.
 
 #strong[(Hết Năm Mươi Kinh Đầu.)]
 
@@ -857,7 +857,7 @@ Kosala, cùng Nārada.
 
 #strong[Năm Mươi Kinh Giữa]
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy:
+#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy:
 
 "Này các thầy, có năm pháp che chướng, triền cái, phủ lên tâm, làm yếu tuệ. Thế nào là năm? Này các thầy, tham dục là pháp che chướng, triền cái, phủ lên tâm, làm yếu tuệ. Này các thầy, sân là pháp che chướng, triền cái, phủ lên tâm, làm yếu tuệ. Này các thầy, hôn trầm thụy miên là pháp che chướng, triền cái, phủ lên tâm, làm yếu tuệ. Này các thầy, trạo cử hối quá là pháp che chướng, triền cái, phủ lên tâm, làm yếu tuệ. Này các thầy, nghi là pháp che chướng, triền cái, phủ lên tâm, làm yếu tuệ. Này các thầy, đó là năm pháp che chướng, triền cái, phủ lên tâm, làm yếu tuệ.
 
@@ -897,7 +897,7 @@ Lại nữa, này các thầy, chúng Tăng hòa hợp, vui vẻ, không tranh c
 
 === AN 5.55. Mẹ Và Con (Mātāputtasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Lúc bấy giờ, ở Sāvatthī, cả mẹ lẫn con cùng vào an cư — một Tỷ-kheo và một Tỷ-kheo-ni. Họ thường muốn thấy nhau. Mẹ thường muốn thấy con; con cũng thường muốn thấy mẹ. Do thường thấy nhau, sự thân cận sinh. Khi có sự thân cận, sự thân mật sinh. Khi có sự thân mật, sự xâm nhập sinh. Với tâm đã bị xâm nhập, họ không xả học giới, không tỏ bày sự yếu đuối, rồi hành pháp dâm dục.
+#super[1] Một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, ở Sāvatthī, cả mẹ lẫn con cùng vào an cư — một Tỷ-kheo và một Tỷ-kheo-ni. Họ thường muốn thấy nhau. Mẹ thường muốn thấy con; con cũng thường muốn thấy mẹ. Do thường thấy nhau, sự thân cận sinh. Khi có sự thân cận, sự thân mật sinh. Khi có sự thân mật, sự xâm nhập sinh. Với tâm đã bị xâm nhập, họ không xả học giới, không tỏ bày sự yếu đuối, rồi hành pháp dâm dục.
 
 Rồi nhiều Tỷ-kheo đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, ở đây, tại Sāvatthī, cả mẹ lẫn con cùng vào an cư — một Tỷ-kheo và một Tỷ-kheo-ni. Họ thường muốn thấy nhau. Mẹ thường muốn thấy con; con cũng thường muốn thấy mẹ. Do thường thấy nhau, sự thân cận sinh. Khi có sự thân cận, sự thân mật sinh. Khi có sự thân mật, sự xâm nhập sinh. Với tâm đã bị xâm nhập, họ không xả học giới, không tỏ bày sự yếu đuối, rồi hành pháp dâm dục."
 
@@ -1000,9 +1000,9 @@ lấy Phạm hạnh làm cứu cánh."
 
 === AN 5.58. Các Vương Tử Ly-trà-tỳ (Licchavikumārakasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vesālī, tại Mahāvana, giảng đường Trùng Các. Rồi Thế Tôn, buổi sáng đắp y, cầm y bát, vào Vesālī khất thực. Khất thực ở Vesālī xong, sau bữa ăn, trên đường khất thực trở về, Ngài đi vào Mahāvana, ngồi nghỉ ban ngày dưới một gốc cây. Lúc bấy giờ, nhiều vương tử Licchavi cầm cung đã lên dây, được đàn chó vây quanh, đang kinh hành, đang đi dạo trong Mahāvana, thấy Thế Tôn ngồi dưới một gốc cây; thấy vậy, họ đặt cung đã lên dây xuống, đuổi đàn chó sang một bên, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, im lặng, im lặng, chắp tay hầu Thế Tôn.
+#super[1] Một thời Thế Tôn trú ở Tỳ-xá-ly (Vesālī), tại Đại Lâm (Mahāvana), giảng đường Trùng Các. Rồi Thế Tôn, buổi sáng đắp y, cầm y bát, vào Vesālī khất thực. Khất thực ở Vesālī xong, sau bữa ăn, trên đường khất thực trở về, Ngài đi vào Mahāvana, ngồi nghỉ ban ngày dưới một gốc cây. Lúc bấy giờ, nhiều vương tử Ly- xa tử (Licchavi) cầm cung đã lên dây, được đàn chó vây quanh, đang kinh hành, đang đi dạo trong Mahāvana, thấy Thế Tôn ngồi dưới một gốc cây; thấy vậy, họ đặt cung đã lên dây xuống, đuổi đàn chó sang một bên, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, im lặng, im lặng, chắp tay hầu Thế Tôn.
 
-Lúc bấy giờ Licchavi Mahānāma đang kinh hành dưỡng chân trong Mahāvana, thấy các vương tử Licchavi ấy im lặng, im lặng, chắp tay hầu Thế Tôn; thấy vậy, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, Licchavi Mahānāma thốt lời cảm hứng: "Vajjī sẽ hưng thịnh, Vajjī sẽ hưng thịnh!"
+Lúc bấy giờ Licchavi Ma-ha-nam (Mahānāma) đang kinh hành dưỡng chân trong Mahāvana, thấy các vương tử Licchavi ấy im lặng, im lặng, chắp tay hầu Thế Tôn; thấy vậy, đi đến Thế Tôn; đến rồi đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, Licchavi Mahānāma thốt lời cảm hứng: "Bạt-kỳ (Vajjī) sẽ hưng thịnh, Vajjī sẽ hưng thịnh!"
 
 "Này Mahānāma, sao ông nói: 'Vajjī sẽ hưng thịnh, Vajjī sẽ hưng thịnh'?"
 
@@ -1056,7 +1056,7 @@ chết đi vui ở thiên giới."
 
 Che chướng, đống, các chi, \
 Thời, mẹ và con; \
-Hòa thượng, các việc, Licchavi, \
+Hòa thượng, các việc, Ly- xa tử (Licchavi), \
 Các vương tử, thêm hai kinh.
 
 == 7. Tưởng (Saññāvaggo)
@@ -1460,11 +1460,11 @@ Này các thầy, 'sư tử' đây là tên gọi của Như Lai, bậc A-la-há
 
 === AN 5.100. Trưởng Lão Ca-cu-đa (Kakudhatherasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Kosambī, tại Ghositārāma. Lúc bấy giờ, người Koliyaputta tên Kakudha, thị giả của Tôn giả Mahāmoggallāna, mới mệnh chung, sanh vào một thân do ý tạo. Thân thể vị ấy được như vầy: lớn bằng khoảng hai hay ba cánh đồng Magadha. Với thân thể ấy, vị ấy không hại mình, cũng không hại người khác. Rồi thiên tử Kakudha đi đến chỗ Tôn giả Mahāmoggallāna; sau khi đến, đảnh lễ Tôn giả Mahāmoggallāna rồi đứng một bên. Đứng một bên, thiên tử Kakudha bạch Tôn giả Mahāmoggallāna: "Bạch Tôn giả, Devadatta khởi lên ý muốn như vầy: 'Ta sẽ lãnh đạo chúng Tỷ-kheo.' Và vừa khởi tâm ấy, bạch Tôn giả, Devadatta liền thối thất thần thông ấy." Thiên tử Kakudha nói như vậy. Nói vậy xong, đảnh lễ Tôn giả Mahāmoggallāna, thân hữu nhiễu rồi biến mất tại chỗ.
+#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Kiều-thưởng-di (Kosambī), tại Ghô-si-đa-la-ma (Ghositārāma). Lúc bấy giờ, người Koliyaputta tên Ca-cu-đa (Kakudha), thị giả của Tôn giả Mục Kiền Liên (Mahāmoggallāna), mới mệnh chung, sanh vào một thân do ý tạo. Thân thể vị ấy được như vầy: lớn bằng khoảng hai hay ba cánh đồng Ma-kiệt-đà (Magadha). Với thân thể ấy, vị ấy không hại mình, cũng không hại người khác. Rồi thiên tử Kakudha đi đến chỗ Tôn giả Mahāmoggallāna; sau khi đến, đảnh lễ Tôn giả Mahāmoggallāna rồi đứng một bên. Đứng một bên, thiên tử Kakudha bạch Tôn giả Mahāmoggallāna: "Bạch Tôn giả, Đề-bà-đạt-đa (Devadatta) khởi lên ý muốn như vầy: 'Ta sẽ lãnh đạo chúng Tỷ-kheo.' Và vừa khởi tâm ấy, bạch Tôn giả, Devadatta liền thối thất thần thông ấy." Thiên tử Kakudha nói như vậy. Nói vậy xong, đảnh lễ Tôn giả Mahāmoggallāna, thân hữu nhiễu rồi biến mất tại chỗ.
 
 Rồi Tôn giả Mahāmoggallāna đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Mahāmoggallāna bạch Thế Tôn: "Bạch Thế Tôn, người Koliyaputta tên Kakudha, thị giả của con, mới mệnh chung, sanh vào một thân do ý tạo. Thân thể vị ấy được như vầy: lớn bằng khoảng hai hay ba cánh đồng Magadha. Với thân thể ấy, vị ấy không hại mình, cũng không hại người khác. Bạch Thế Tôn, rồi thiên tử Kakudha đi đến chỗ con; sau khi đến, đảnh lễ con rồi đứng một bên. Đứng một bên, bạch Thế Tôn, thiên tử Kakudha nói với con: 'Bạch Tôn giả, Devadatta khởi lên ý muốn như vầy: Ta sẽ lãnh đạo chúng Tỷ-kheo. Và vừa khởi tâm ấy, bạch Tôn giả, Devadatta liền thối thất thần thông ấy.' Bạch Thế Tôn, thiên tử Kakudha nói như vậy. Nói vậy xong, đảnh lễ con, thân hữu nhiễu rồi biến mất tại chỗ."
 
-"Này Moggallāna, thiên tử Kakudha có được ông biết bằng tâm biết tâm: 'Phàm thiên tử Kakudha nói gì, tất cả đều như vậy, không phải khác' không?" "Bạch Thế Tôn, con đã biết thiên tử Kakudha bằng tâm biết tâm: 'Phàm thiên tử Kakudha nói gì, tất cả đều như vậy, không phải khác.'" "Này Moggallāna, hãy giữ gìn lời ấy! Nay kẻ ngu kia sẽ tự lộ mình ra.
+"Này Mục-kiền-liên (Moggallāna), thiên tử Kakudha có được ông biết bằng tâm biết tâm: 'Phàm thiên tử Kakudha nói gì, tất cả đều như vậy, không phải khác' không?" "Bạch Thế Tôn, con đã biết thiên tử Kakudha bằng tâm biết tâm: 'Phàm thiên tử Kakudha nói gì, tất cả đều như vậy, không phải khác.'" "Này Moggallāna, hãy giữ gìn lời ấy! Nay kẻ ngu kia sẽ tự lộ mình ra.
 
 Này Moggallāna, có năm hạng đạo sư này hiện có ở đời. Thế nào là năm? Ở đây, này Moggallāna, có đạo sư giới không thanh tịnh, lại tự nhận: 'Giới của ta thanh tịnh'; 'Giới của ta thanh tịnh, trong sạch, không ô nhiễm.' Các đệ tử biết vị ấy như vầy: 'Đạo sư này giới không thanh tịnh, lại tự nhận: Giới của ta thanh tịnh; Giới của ta thanh tịnh, trong sạch, không ô nhiễm. Nếu chúng ta nói với cư sĩ, sẽ không vừa ý vị ấy. Điều gì không vừa ý vị ấy, làm sao chúng ta lại cư xử với vị ấy như vậy? Vị ấy được tôn kính với y, đồ ăn khất thực, sàng tọa, thuốc men trị bệnh; việc gì người ấy làm, chính người ấy sẽ bị biết bởi việc ấy.' Này Moggallāna, các đệ tử hộ trì đạo sư như vậy về giới; và đạo sư như vậy cũng mong các đệ tử hộ trì về giới.
 
@@ -1551,7 +1551,7 @@ Này các thầy, nếu nói đúng, ai nói: 'Sa-môn thanh nhã giữa các Sa
 
 === AN 5.106. A-nan (Ānandasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Kosambī, tại Ghositārāma. Rồi Tôn giả Ānanda đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, cho đến mức nào thì Tỷ-kheo sống trong Tăng chúng có thể sống an lạc?" "Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác; không nổi danh, và không dao động vì sự không nổi danh ấy — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác; không nổi danh, và không dao động vì sự không nổi danh ấy; đối với bốn thiền, thuộc tăng thượng tâm, hiện tại lạc trú, vị ấy chứng được không khó khăn, không mệt nhọc, không phí sức — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác; không nổi danh, và không dao động vì sự không nổi danh ấy; đối với bốn thiền, thuộc tăng thượng tâm, hiện tại lạc trú, vị ấy chứng được không khó khăn, không mệt nhọc, không phí sức; do đoạn tận các lậu hoặc, ngay trong đời này tự mình thắng tri, chứng ngộ, chứng đạt và an trú tâm giải thoát, tuệ giải thoát vô lậu — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc. Này Ānanda, Ta nói không có sự an trú nào khác cao hơn, thù thắng hơn sự an trú này."
+#super[1] Một thời Thế Tôn trú ở Kiều-thưởng-di (Kosambī), tại Ghô-si-đa-la-ma (Ghositārāma). Rồi Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, cho đến mức nào thì Tỷ-kheo sống trong Tăng chúng có thể sống an lạc?" "Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác; không nổi danh, và không dao động vì sự không nổi danh ấy — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác; không nổi danh, và không dao động vì sự không nổi danh ấy; đối với bốn thiền, thuộc tăng thượng tâm, hiện tại lạc trú, vị ấy chứng được không khó khăn, không mệt nhọc, không phí sức — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc." "Bạch Thế Tôn, còn có pháp môn nào khác để Tỷ-kheo sống trong Tăng chúng có thể sống an lạc không?" "Có chứ, này Ānanda! Này Ānanda, khi Tỷ-kheo tự mình thành tựu giới, không khích lệ người khác về tăng thượng giới; tự quán sát mình, không quán sát người khác; không nổi danh, và không dao động vì sự không nổi danh ấy; đối với bốn thiền, thuộc tăng thượng tâm, hiện tại lạc trú, vị ấy chứng được không khó khăn, không mệt nhọc, không phí sức; do đoạn tận các lậu hoặc, ngay trong đời này tự mình thắng tri, chứng ngộ, chứng đạt và an trú tâm giải thoát, tuệ giải thoát vô lậu — đến mức ấy, này Ānanda, Tỷ-kheo sống trong Tăng chúng có thể sống an lạc. Này Ānanda, Ta nói không có sự an trú nào khác cao hơn, thù thắng hơn sự an trú này."
 
 === AN 5.107. Giới (Sīlasuttaṃ)
 
@@ -1572,7 +1572,7 @@ Này các thầy, nếu nói đúng, ai nói: 'Sa-môn thanh nhã giữa các Sa
 #strong[(Hết phẩm An Trú.)]
 
 #strong[Tổng thuyết kệ:] Rụt rè, bị nghi, đạo tặc, thanh nhã, an trú là thứ năm; \
-Ānanda, giới, vô học, bốn phương cùng rừng.
+A-nan (Ānanda), giới, vô học, bốn phương cùng rừng.
 
 == 12. An-đa-ca-bin-đa (Andhakavindavaggo)
 
@@ -1590,7 +1590,7 @@ Này các thầy, nếu nói đúng, ai nói: 'Sa-môn thanh nhã giữa các Sa
 
 === AN 5.114. An-đa-ca-bin-đa (Andhakavindasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú giữa dân chúng Magadha, tại Andhakavinda. Rồi Tôn giả Ānanda đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Ānanda đang ngồi một bên: "Này Ānanda, những Tỷ-kheo mới, xuất gia chưa lâu, mới đến Pháp và Luật này — này Ānanda, các thầy cần khuyến khích, an trú, đặt vững các Tỷ-kheo ấy vào năm pháp. Năm pháp nào? 'Này các hiền giả, hãy đến, hãy có giới, sống chế ngự bằng sự chế ngự của Ba-la-đề-mộc-xoa, đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, thọ trì và học tập các học giới' — như vậy cần khuyến khích, an trú, đặt vững vào sự chế ngự của Ba-la-đề-mộc-xoa. 'Này các hiền giả, hãy đến, hãy sống hộ trì các căn, niệm được gìn giữ, niệm được tỉnh giác, tâm được hộ trì, thành tựu tâm được niệm hộ trì' — như vậy cần khuyến khích, an trú, đặt vững vào sự chế ngự các căn. 'Này các hiền giả, hãy đến, hãy ít nói, biết giới hạn trong lời nói' — như vậy cần khuyến khích, an trú, đặt vững vào sự giới hạn lời nói. 'Này các hiền giả, hãy đến, hãy là vị sống rừng, hành trì những chỗ ngồi nằm xa vắng, rừng núi hoang vu' — như vậy cần khuyến khích, an trú, đặt vững vào sự tách thân. 'Này các hiền giả, hãy đến, hãy có chánh kiến, thành tựu chánh kiến' — như vậy cần khuyến khích, an trú, đặt vững vào chánh kiến. Này Ānanda, những Tỷ-kheo mới, xuất gia chưa lâu, mới đến Pháp và Luật này — này Ānanda, các thầy cần khuyến khích, an trú, đặt vững các Tỷ-kheo ấy vào năm pháp này."
+#super[1] Một thời Thế Tôn trú giữa dân chúng Ma-kiệt-đà (Magadha), tại An-đa-ca-bin-đa (Andhakavinda). Rồi Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Ānanda đang ngồi một bên: "Này Ānanda, những Tỷ-kheo mới, xuất gia chưa lâu, mới đến Pháp và Luật này — này Ānanda, các thầy cần khuyến khích, an trú, đặt vững các Tỷ-kheo ấy vào năm pháp. Năm pháp nào? 'Này các hiền giả, hãy đến, hãy có giới, sống chế ngự bằng sự chế ngự của Ba-la-đề-mộc-xoa, đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, thọ trì và học tập các học giới' — như vậy cần khuyến khích, an trú, đặt vững vào sự chế ngự của Ba-la-đề-mộc-xoa. 'Này các hiền giả, hãy đến, hãy sống hộ trì các căn, niệm được gìn giữ, niệm được tỉnh giác, tâm được hộ trì, thành tựu tâm được niệm hộ trì' — như vậy cần khuyến khích, an trú, đặt vững vào sự chế ngự các căn. 'Này các hiền giả, hãy đến, hãy ít nói, biết giới hạn trong lời nói' — như vậy cần khuyến khích, an trú, đặt vững vào sự giới hạn lời nói. 'Này các hiền giả, hãy đến, hãy là vị sống rừng, hành trì những chỗ ngồi nằm xa vắng, rừng núi hoang vu' — như vậy cần khuyến khích, an trú, đặt vững vào sự tách thân. 'Này các hiền giả, hãy đến, hãy có chánh kiến, thành tựu chánh kiến' — như vậy cần khuyến khích, an trú, đặt vững vào chánh kiến. Này Ānanda, những Tỷ-kheo mới, xuất gia chưa lâu, mới đến Pháp và Luật này — này Ānanda, các thầy cần khuyến khích, an trú, đặt vững các Tỷ-kheo ấy vào năm pháp này."
 
 === AN 5.115. Tỷ-kheo-ni Xan Tham (Maccharinīsuttaṃ)
 
@@ -1625,7 +1625,7 @@ xan tham, khen chê, ganh tỵ, kiến, ngữ và tinh tấn.
 
 === AN 5.121. Bệnh (Gilānasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vesālī, tại Mahāvana, giảng đường Kūṭāgāra. Rồi Thế Tôn vào buổi chiều, từ độc cư đứng dậy, đi đến nhà bệnh. Thế Tôn thấy một Tỷ-kheo ốm yếu, bệnh; thấy vậy, ngồi xuống chỗ đã soạn. Ngồi xuống, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, Tỷ-kheo nào ốm yếu, bệnh, nếu năm pháp không rời bỏ vị ấy, điều này đáng chờ đợi nơi vị ấy: không bao lâu, do đoạn tận các lậu hoặc, ngay trong đời này tự mình thắng tri, chứng ngộ, chứng đạt và an trú tâm giải thoát, tuệ giải thoát vô lậu.
+#super[1] Một thời Thế Tôn trú ở Tỳ-xá-ly (Vesālī), tại Đại Lâm (Mahāvana), giảng đường Trùng Các (Kūṭāgāra). Rồi Thế Tôn vào buổi chiều, từ độc cư đứng dậy, đi đến nhà bệnh. Thế Tôn thấy một Tỷ-kheo ốm yếu, bệnh; thấy vậy, ngồi xuống chỗ đã soạn. Ngồi xuống, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, Tỷ-kheo nào ốm yếu, bệnh, nếu năm pháp không rời bỏ vị ấy, điều này đáng chờ đợi nơi vị ấy: không bao lâu, do đoạn tận các lậu hoặc, ngay trong đời này tự mình thắng tri, chứng ngộ, chứng đạt và an trú tâm giải thoát, tuệ giải thoát vô lậu.
 
 Thế nào là năm? Ở đây, này các thầy, Tỷ-kheo sống quán bất tịnh trên thân, có tưởng nhàm chán đối với các món ăn, có tưởng không ưa thích đối với tất cả thế gian, sống quán vô thường trên tất cả các hành, và tưởng về chết được khéo an trú nội tâm. Này các thầy, Tỷ-kheo nào ốm yếu, bệnh, nếu năm pháp này không rời bỏ vị ấy, điều này đáng chờ đợi nơi vị ấy: không bao lâu, do đoạn tận các lậu hoặc, ngay trong đời này tự mình thắng tri, chứng ngộ, chứng đạt và an trú tâm giải thoát, tuệ giải thoát vô lậu."
 
@@ -1686,7 +1686,7 @@ Cũng vậy, này các thầy, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, 
 
 #super[1] "Này các thầy, thái tử của vua Chuyển luân thành tựu năm yếu tố thì tiếp tục chuyển bánh xe do cha đã chuyển, đúng pháp; bánh xe ấy không thể bị bất cứ kẻ thù nào thuộc loài người đảo ngược. Thế nào là năm? Ở đây, này các thầy, thái tử của vua Chuyển luân biết nghĩa, biết pháp, biết mức, biết thời, biết hội chúng. Này các thầy, thành tựu năm yếu tố này, thái tử của vua Chuyển luân tiếp tục chuyển bánh xe do cha đã chuyển, đúng pháp; bánh xe ấy không thể bị bất cứ kẻ thù nào thuộc loài người đảo ngược.
 
-Cũng vậy, này các thầy, Sāriputta thành tựu năm pháp thì tiếp tục chuyển một cách chân chánh bánh xe Pháp vô thượng do Như Lai đã chuyển; bánh xe ấy không thể bị Sa-môn, Bà-la-môn, thiên, Ma, Phạm thiên hay bất cứ ai ở đời đảo ngược. Thế nào là năm? Ở đây, này các thầy, Sāriputta biết nghĩa, biết pháp, biết mức, biết thời, biết hội chúng. Này các thầy, thành tựu năm pháp này, Sāriputta tiếp tục chuyển một cách chân chánh bánh xe Pháp vô thượng do Như Lai đã chuyển; bánh xe ấy không thể bị Sa-môn, Bà-la-môn, thiên, Ma, Phạm thiên hay bất cứ ai ở đời đảo ngược."
+Cũng vậy, này các thầy, Xá-lợi-phất (Sāriputta) thành tựu năm pháp thì tiếp tục chuyển một cách chân chánh bánh xe Pháp vô thượng do Như Lai đã chuyển; bánh xe ấy không thể bị Sa-môn, Bà-la-môn, thiên, Ma, Phạm thiên hay bất cứ ai ở đời đảo ngược. Thế nào là năm? Ở đây, này các thầy, Sāriputta biết nghĩa, biết pháp, biết mức, biết thời, biết hội chúng. Này các thầy, thành tựu năm pháp này, Sāriputta tiếp tục chuyển một cách chân chánh bánh xe Pháp vô thượng do Như Lai đã chuyển; bánh xe ấy không thể bị Sa-môn, Bà-la-môn, thiên, Ma, Phạm thiên hay bất cứ ai ở đời đảo ngược."
 
 === AN 5.133. Pháp Vương (Dhammarājāsuttaṃ)
 
@@ -1841,11 +1841,11 @@ Này các thầy, bốn hạng người này, khi được người thứ năm k
 
 === AN 5.143. Sa-lan-đa-đa (Sārandadasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vesālī, tại Mahāvana, giảng đường Kūṭāgāra. Rồi Thế Tôn, vào buổi sáng, đắp y, cầm bát, vào Vesālī để khất thực. Lúc bấy giờ, khoảng năm trăm Licchavī đang ngồi họp tại đền Sārandada, câu chuyện phụ khởi lên như vầy: "Sự xuất hiện của năm thứ báu là khó được ở đời. Những gì là năm? Sự xuất hiện của voi báu là khó được ở đời; sự xuất hiện của ngựa báu là khó được ở đời; sự xuất hiện của châu báu là khó được ở đời; sự xuất hiện của nữ báu là khó được ở đời; sự xuất hiện của gia chủ báu là khó được ở đời. Sự xuất hiện của năm thứ báu này là khó được ở đời." Rồi các Licchavī ấy đặt một người trên đường: "Này bạn, khi nào ông thấy Thế Tôn, hãy báo cho chúng tôi." Người ấy từ xa đã thấy Thế Tôn đang đi đến; thấy vậy, liền đến chỗ các Licchavī, nói với họ: "Thưa quý vị, đây là Thế Tôn đang đi, bậc A-la-hán, Chánh Đẳng Giác; nay quý vị hãy biết thời." Rồi các Licchavī ấy đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi đứng một bên. Đứng một bên, các Licchavī bạch Thế Tôn: "Lành thay, bạch Thế Tôn, xin Thế Tôn hãy vì lòng từ mẫn mà đi đến đền Sārandada." Thế Tôn im lặng nhận lời. Rồi Thế Tôn đi đến đền Sārandada, ngồi trên chỗ ngồi đã soạn sẵn. Ngồi xuống, Thế Tôn nói với các Licchavī: "Này các Licchavī, nay các ông đang ngồi bàn chuyện gì? Câu chuyện phụ nào của các ông còn đang dở?" "Bạch Thế Tôn, ở đây, khi chúng con ngồi họp, câu chuyện phụ khởi lên như vầy: 'Sự xuất hiện của năm thứ báu là khó được ở đời. Những gì là năm? Sự xuất hiện của voi báu, ngựa báu, châu báu, nữ báu, gia chủ báu là khó được ở đời. Sự xuất hiện của năm thứ báu này là khó được ở đời.'" "Quả thật, này các Licchavī, đối với những người thiên về dục, câu chuyện phụ mới khởi lên chính về dục. Này các Licchavī, sự xuất hiện của năm thứ báu là khó được ở đời. Những gì là năm? Sự xuất hiện của Như Lai, bậc A-la-hán, Chánh Đẳng Giác là khó được ở đời; người thuyết Pháp và Luật do Như Lai tuyên thuyết là khó được ở đời; người hiểu Pháp và Luật do Như Lai tuyên thuyết, khi đã được thuyết, là khó được ở đời; người thực hành pháp tùy pháp, sau khi hiểu Pháp và Luật do Như Lai tuyên thuyết, là khó được ở đời; người biết ơn, nhớ ơn là khó được ở đời. Này các Licchavī, sự xuất hiện của năm thứ báu này là khó được ở đời."
+#super[1] Một thời Thế Tôn trú ở Tỳ-xá-ly (Vesālī), tại Đại Lâm (Mahāvana), giảng đường Trùng Các (Kūṭāgāra). Rồi Thế Tôn, vào buổi sáng, đắp y, cầm bát, vào Vesālī để khất thực. Lúc bấy giờ, khoảng năm trăm Ly- xa tử (Licchavī) đang ngồi họp tại đền Sa-lan-đa-đa (Sārandada), câu chuyện phụ khởi lên như vầy: "Sự xuất hiện của năm thứ báu là khó được ở đời. Những gì là năm? Sự xuất hiện của voi báu là khó được ở đời; sự xuất hiện của ngựa báu là khó được ở đời; sự xuất hiện của châu báu là khó được ở đời; sự xuất hiện của nữ báu là khó được ở đời; sự xuất hiện của gia chủ báu là khó được ở đời. Sự xuất hiện của năm thứ báu này là khó được ở đời." Rồi các Licchavī ấy đặt một người trên đường: "Này bạn, khi nào ông thấy Thế Tôn, hãy báo cho chúng tôi." Người ấy từ xa đã thấy Thế Tôn đang đi đến; thấy vậy, liền đến chỗ các Licchavī, nói với họ: "Thưa quý vị, đây là Thế Tôn đang đi, bậc A-la-hán, Chánh Đẳng Giác; nay quý vị hãy biết thời." Rồi các Licchavī ấy đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi đứng một bên. Đứng một bên, các Licchavī bạch Thế Tôn: "Lành thay, bạch Thế Tôn, xin Thế Tôn hãy vì lòng từ mẫn mà đi đến đền Sārandada." Thế Tôn im lặng nhận lời. Rồi Thế Tôn đi đến đền Sārandada, ngồi trên chỗ ngồi đã soạn sẵn. Ngồi xuống, Thế Tôn nói với các Licchavī: "Này các Licchavī, nay các ông đang ngồi bàn chuyện gì? Câu chuyện phụ nào của các ông còn đang dở?" "Bạch Thế Tôn, ở đây, khi chúng con ngồi họp, câu chuyện phụ khởi lên như vầy: 'Sự xuất hiện của năm thứ báu là khó được ở đời. Những gì là năm? Sự xuất hiện của voi báu, ngựa báu, châu báu, nữ báu, gia chủ báu là khó được ở đời. Sự xuất hiện của năm thứ báu này là khó được ở đời.'" "Quả thật, này các Licchavī, đối với những người thiên về dục, câu chuyện phụ mới khởi lên chính về dục. Này các Licchavī, sự xuất hiện của năm thứ báu là khó được ở đời. Những gì là năm? Sự xuất hiện của Như Lai, bậc A-la-hán, Chánh Đẳng Giác là khó được ở đời; người thuyết Pháp và Luật do Như Lai tuyên thuyết là khó được ở đời; người hiểu Pháp và Luật do Như Lai tuyên thuyết, khi đã được thuyết, là khó được ở đời; người thực hành pháp tùy pháp, sau khi hiểu Pháp và Luật do Như Lai tuyên thuyết, là khó được ở đời; người biết ơn, nhớ ơn là khó được ở đời. Này các Licchavī, sự xuất hiện của năm thứ báu này là khó được ở đời."
 
 === AN 5.144. Ti-can-đa-ki (Tikaṇḍakīsuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Sāketa, tại rừng Tikaṇḍakī. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Lành thay, này các thầy, Tỷ-kheo thỉnh thoảng hãy trú với tưởng đáng ghê tởm đối với cái không đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy trú với tưởng không đáng ghê tởm đối với cái đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy trú với tưởng đáng ghê tởm đối với cả cái không đáng ghê tởm lẫn cái đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy trú với tưởng không đáng ghê tởm đối với cả cái đáng ghê tởm lẫn cái không đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy từ bỏ cả hai — cái đáng ghê tởm và cái không đáng ghê tởm — rồi trú xả, chánh niệm tỉnh giác.
+#super[1] Một thời Thế Tôn trú ở Sa-kỳ (Sāketa), tại rừng Đi-can-đa-ci (Tikaṇḍakī). Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Lành thay, này các thầy, Tỷ-kheo thỉnh thoảng hãy trú với tưởng đáng ghê tởm đối với cái không đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy trú với tưởng không đáng ghê tởm đối với cái đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy trú với tưởng đáng ghê tởm đối với cả cái không đáng ghê tởm lẫn cái đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy trú với tưởng không đáng ghê tởm đối với cả cái đáng ghê tởm lẫn cái không đáng ghê tởm. Lành thay, Tỷ-kheo thỉnh thoảng hãy từ bỏ cả hai — cái đáng ghê tởm và cái không đáng ghê tởm — rồi trú xả, chánh niệm tỉnh giác.
 
 Này các thầy, Tỷ-kheo vì lợi ích gì mà trú với tưởng đáng ghê tởm đối với cái không đáng ghê tởm? 'Mong rằng nơi ta, tham đối với các pháp đáng tham đừng khởi lên' — vì lợi ích này, Tỷ-kheo trú với tưởng đáng ghê tởm đối với cái không đáng ghê tởm.
 
@@ -1907,7 +1907,7 @@ Này các thầy, có năm pháp đưa đến không thối đọa cho Tỷ-kheo
 
 #strong[Tổng thuyết kệ:]
 
-Cho rồi khinh, và nỗ lực, Sārandada, Tikaṇḍakī, địa ngục; \
+Cho rồi khinh, và nỗ lực, Sa-lan-đa-đa (Sārandada), Đi-can-đa-ci (Tikaṇḍakī), địa ngục; \
 Bạn, kẻ phi chân nhân cùng bậc chân nhân, hai kinh giải thoát tạm thời.
 
 #strong[(Hết năm mươi kinh cuối.)]
@@ -2022,7 +2022,7 @@ Này các thầy, Tỷ-kheo thành tựu năm pháp thì tự tin. Thế nào l�
 
 === AN 5.159. Ưu-đà-di (Udāyīsuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Kosambī, tại Ghositārāma. Lúc bấy giờ, Tôn giả Udāyī đang ngồi thuyết pháp, được một hội chúng cư sĩ đông đảo vây quanh. Tôn giả Ānanda thấy Tôn giả Udāyī đang ngồi thuyết pháp, được hội chúng cư sĩ đông đảo vây quanh. Thấy vậy, liền đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Ngồi một bên, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, Tôn giả Udāyī đang thuyết pháp, được một hội chúng cư sĩ đông đảo vây quanh." "Này Ānanda, thuyết pháp cho người khác không phải dễ. Này Ānanda, người thuyết pháp cho người khác cần an trú năm pháp trong nội tâm rồi mới nên thuyết pháp cho người khác. Thế nào là năm? 'Ta sẽ nói lời tuần tự' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời chỉ bày phương tiện' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời vì lòng thương xót' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời không vì lợi dưỡng' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời không làm tổn hại mình, không làm tổn hại người' — như vậy nên thuyết pháp cho người khác. Này Ānanda, thuyết pháp cho người khác không phải dễ. Người thuyết pháp cho người khác cần an trú năm pháp này trong nội tâm rồi mới nên thuyết pháp cho người khác."
+#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Kiều-thưởng-di (Kosambī), tại Ghô-si-đa-la-ma (Ghositārāma). Lúc bấy giờ, Tôn giả Ưu đà di (Udāyī) đang ngồi thuyết pháp, được một hội chúng cư sĩ đông đảo vây quanh. Tôn giả A-nan (Ānanda) thấy Tôn giả Udāyī đang ngồi thuyết pháp, được hội chúng cư sĩ đông đảo vây quanh. Thấy vậy, liền đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Ngồi một bên, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, Tôn giả Udāyī đang thuyết pháp, được một hội chúng cư sĩ đông đảo vây quanh." "Này Ānanda, thuyết pháp cho người khác không phải dễ. Này Ānanda, người thuyết pháp cho người khác cần an trú năm pháp trong nội tâm rồi mới nên thuyết pháp cho người khác. Thế nào là năm? 'Ta sẽ nói lời tuần tự' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời chỉ bày phương tiện' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời vì lòng thương xót' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời không vì lợi dưỡng' — như vậy nên thuyết pháp cho người khác; 'Ta sẽ nói lời không làm tổn hại mình, không làm tổn hại người' — như vậy nên thuyết pháp cho người khác. Này Ānanda, thuyết pháp cho người khác không phải dễ. Người thuyết pháp cho người khác cần an trú năm pháp này trong nội tâm rồi mới nên thuyết pháp cho người khác."
 
 === AN 5.160. Khó Xua Tan (Duppaṭivinodayasuttaṃ)
 
@@ -2033,7 +2033,7 @@ Này các thầy, Tỷ-kheo thành tựu năm pháp thì tự tin. Thế nào l�
 #strong[Tổng thuyết kệ:]
 
 Ba kinh nhập chánh tánh, ba kinh chánh pháp hủy hoại; \
-Lời khó nói, rụt rè, Udāyī, khó xua tan.
+Lời khó nói, rụt rè, Ưu đà di (Udāyī), khó xua tan.
 
 == 17. Sân Hận (Āghātavaggo)
 
@@ -2043,7 +2043,7 @@ Lời khó nói, rụt rè, Udāyī, khó xua tan.
 
 === AN 5.162. Dẹp Sân Hận (2) (Dutiyaāghātapaṭivinayasuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, có năm pháp dẹp sân hận, nhờ đó sân hận đã khởi nơi Tỷ-kheo cần được dẹp trừ hoàn toàn. Thế nào là năm? Ở đây, này hiền giả, có người thân hành không thanh tịnh, khẩu hành thanh tịnh; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người khẩu hành không thanh tịnh, thân hành thanh tịnh; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người thân hành không thanh tịnh, khẩu hành không thanh tịnh, nhưng thỉnh thoảng vẫn có được sự mở bày của tâm, sự tịnh tín của tâm; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người thân hành không thanh tịnh, khẩu hành không thanh tịnh, và không thỉnh thoảng có được sự mở bày của tâm, sự tịnh tín của tâm; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người thân hành thanh tịnh, khẩu hành thanh tịnh, và thỉnh thoảng có được sự mở bày của tâm, sự tịnh tín của tâm; đối với người như vậy, sân hận cũng cần được dẹp trừ.
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, có năm pháp dẹp sân hận, nhờ đó sân hận đã khởi nơi Tỷ-kheo cần được dẹp trừ hoàn toàn. Thế nào là năm? Ở đây, này hiền giả, có người thân hành không thanh tịnh, khẩu hành thanh tịnh; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người khẩu hành không thanh tịnh, thân hành thanh tịnh; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người thân hành không thanh tịnh, khẩu hành không thanh tịnh, nhưng thỉnh thoảng vẫn có được sự mở bày của tâm, sự tịnh tín của tâm; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người thân hành không thanh tịnh, khẩu hành không thanh tịnh, và không thỉnh thoảng có được sự mở bày của tâm, sự tịnh tín của tâm; đối với người như vậy, sân hận cũng cần được dẹp trừ. Lại có người thân hành thanh tịnh, khẩu hành thanh tịnh, và thỉnh thoảng có được sự mở bày của tâm, sự tịnh tín của tâm; đối với người như vậy, sân hận cũng cần được dẹp trừ.
 
 Này hiền giả, người thân hành không thanh tịnh, khẩu hành thanh tịnh, làm thế nào dẹp trừ sân hận đối với người ấy? Ví như Tỷ-kheo mặc y phấn tảo, thấy một mảnh vải vụn trên đường, lấy chân trái giữ lại, chân phải trải ra, lấy phần còn dùng được rồi đi. Cũng vậy, đối với người thân hành không thanh tịnh, khẩu hành thanh tịnh, sự không thanh tịnh về thân hành của người ấy, lúc ấy không nên tác ý; sự thanh tịnh về khẩu hành của người ấy, lúc ấy nên tác ý. Như vậy sân hận đối với người ấy được dẹp trừ.
 
@@ -2059,29 +2059,29 @@ Này hiền giả, người thân hành thanh tịnh, khẩu hành thanh tịnh,
 
 === AN 5.163. Đàm Luận (Sākacchasuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, Tỷ-kheo thành tựu năm pháp thì xứng đáng để các vị đồng Phạm hạnh đàm luận. Thế nào là năm? Ở đây, Tỷ-kheo tự mình thành tựu giới, và khi có câu hỏi về sự thành tựu giới đưa đến thì khéo trả lời; tự mình thành tựu định, và khi có câu hỏi về sự thành tựu định đưa đến thì khéo trả lời; tự mình thành tựu tuệ, và khi có câu hỏi về sự thành tựu tuệ đưa đến thì khéo trả lời; tự mình thành tựu giải thoát, và khi có câu hỏi về sự thành tựu giải thoát đưa đến thì khéo trả lời; tự mình thành tựu tri kiến giải thoát, và khi có câu hỏi về sự thành tựu tri kiến giải thoát đưa đến thì khéo trả lời. Thành tựu năm pháp này thì Tỷ-kheo xứng đáng để các vị đồng Phạm hạnh đàm luận."
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, Tỷ-kheo thành tựu năm pháp thì xứng đáng để các vị đồng Phạm hạnh đàm luận. Thế nào là năm? Ở đây, Tỷ-kheo tự mình thành tựu giới, và khi có câu hỏi về sự thành tựu giới đưa đến thì khéo trả lời; tự mình thành tựu định, và khi có câu hỏi về sự thành tựu định đưa đến thì khéo trả lời; tự mình thành tựu tuệ, và khi có câu hỏi về sự thành tựu tuệ đưa đến thì khéo trả lời; tự mình thành tựu giải thoát, và khi có câu hỏi về sự thành tựu giải thoát đưa đến thì khéo trả lời; tự mình thành tựu tri kiến giải thoát, và khi có câu hỏi về sự thành tựu tri kiến giải thoát đưa đến thì khéo trả lời. Thành tựu năm pháp này thì Tỷ-kheo xứng đáng để các vị đồng Phạm hạnh đàm luận."
 
 === AN 5.164. Cộng Trú (Sājīvasuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, Tỷ-kheo thành tựu năm pháp thì xứng đáng để các vị đồng Phạm hạnh cộng trú. Thế nào là năm? Ở đây, Tỷ-kheo tự mình thành tựu giới, và khi có câu hỏi về sự thành tựu giới đưa đến thì khéo trả lời; tự mình thành tựu định, và khi có câu hỏi về sự thành tựu định đưa đến thì khéo trả lời; tự mình thành tựu tuệ, và khi có câu hỏi về sự thành tựu tuệ đưa đến thì khéo trả lời; tự mình thành tựu giải thoát, và khi có câu hỏi về sự thành tựu giải thoát đưa đến thì khéo trả lời; tự mình thành tựu tri kiến giải thoát, và khi có câu hỏi về sự thành tựu tri kiến giải thoát đưa đến thì khéo trả lời. Thành tựu năm pháp này thì Tỷ-kheo xứng đáng để các vị đồng Phạm hạnh cộng trú."
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, Tỷ-kheo thành tựu năm pháp thì xứng đáng để các vị đồng Phạm hạnh cộng trú. Thế nào là năm? Ở đây, Tỷ-kheo tự mình thành tựu giới, và khi có câu hỏi về sự thành tựu giới đưa đến thì khéo trả lời; tự mình thành tựu định, và khi có câu hỏi về sự thành tựu định đưa đến thì khéo trả lời; tự mình thành tựu tuệ, và khi có câu hỏi về sự thành tựu tuệ đưa đến thì khéo trả lời; tự mình thành tựu giải thoát, và khi có câu hỏi về sự thành tựu giải thoát đưa đến thì khéo trả lời; tự mình thành tựu tri kiến giải thoát, và khi có câu hỏi về sự thành tựu tri kiến giải thoát đưa đến thì khéo trả lời. Thành tựu năm pháp này thì Tỷ-kheo xứng đáng để các vị đồng Phạm hạnh cộng trú."
 
 === AN 5.165. Hỏi Đáp (Pañhapucchāsuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, bất cứ ai hỏi người khác một câu hỏi, tất cả đều vì năm lý do, hoặc vì một trong những lý do ấy. Thế nào là năm? Vì ngu si, đần độn mà hỏi người khác; vì ác dục, bị dục sai sử mà hỏi người khác; vì khinh thường mà hỏi người khác; vì muốn biết mà hỏi người khác; hoặc với tâm như vầy mà hỏi người khác: 'Nếu được hỏi, vị ấy trả lời đúng đắn thì tốt; nếu được hỏi mà không trả lời đúng đắn, ta sẽ trả lời đúng đắn cho vị ấy.' Bất cứ ai hỏi người khác một câu hỏi, tất cả đều vì năm lý do này, hoặc vì một trong những lý do ấy. Còn ta, này hiền giả, với tâm như vầy mà hỏi người khác: 'Nếu được hỏi, vị ấy trả lời đúng đắn thì tốt; nếu được hỏi mà không trả lời đúng đắn, ta sẽ trả lời đúng đắn cho vị ấy.'"
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, bất cứ ai hỏi người khác một câu hỏi, tất cả đều vì năm lý do, hoặc vì một trong những lý do ấy. Thế nào là năm? Vì ngu si, đần độn mà hỏi người khác; vì ác dục, bị dục sai sử mà hỏi người khác; vì khinh thường mà hỏi người khác; vì muốn biết mà hỏi người khác; hoặc với tâm như vầy mà hỏi người khác: 'Nếu được hỏi, vị ấy trả lời đúng đắn thì tốt; nếu được hỏi mà không trả lời đúng đắn, ta sẽ trả lời đúng đắn cho vị ấy.' Bất cứ ai hỏi người khác một câu hỏi, tất cả đều vì năm lý do này, hoặc vì một trong những lý do ấy. Còn ta, này hiền giả, với tâm như vầy mà hỏi người khác: 'Nếu được hỏi, vị ấy trả lời đúng đắn thì tốt; nếu được hỏi mà không trả lời đúng đắn, ta sẽ trả lời đúng đắn cho vị ấy.'"
 
 === AN 5.166. Diệt (Nirodhasuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, ở đây Tỷ-kheo thành tựu giới, thành tựu định, thành tựu tuệ, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có. Nếu ngay trong hiện tại vị ấy chưa chứng được trí biết cứu cánh, thì vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có." Khi được nói vậy, Tôn giả Udāyī nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, không có sự kiện ấy, không có cơ hội ấy, rằng Tỷ-kheo vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, lại có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy không có." Lần thứ hai, Tôn giả Sāriputta cũng nói với các Tỷ-kheo như vậy. Lần thứ hai, Tôn giả Udāyī cũng bác lại như vậy. Lần thứ ba, Tôn giả Sāriputta cũng nói với các Tỷ-kheo như vậy. Lần thứ ba, Tôn giả Udāyī cũng bác lại như vậy. Rồi Tôn giả Sāriputta nghĩ: "Tôn giả Udāyī đã bác lại ta đến lần thứ ba, và không một Tỷ-kheo nào tùy hỷ với ta. Hay ta hãy đi đến chỗ Thế Tôn." Rồi Tôn giả Sāriputta đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Ngồi một bên, Tôn giả Sāriputta gọi các Tỷ-kheo: "Này hiền giả, ở đây Tỷ-kheo thành tựu giới, thành tựu định, thành tựu tuệ, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có. Nếu ngay trong hiện tại vị ấy chưa chứng được trí biết cứu cánh, thì vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có." Khi được nói vậy, Tôn giả Udāyī lại nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, không có sự kiện ấy, không có cơ hội ấy, rằng Tỷ-kheo vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, lại có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy không có." Lần thứ hai, Tôn giả Sāriputta cũng nói như vậy. Lần thứ hai, Tôn giả Udāyī cũng bác lại như vậy. Lần thứ ba, Tôn giả Sāriputta cũng nói như vậy. Lần thứ ba, Tôn giả Udāyī cũng bác lại như vậy. Rồi Tôn giả Sāriputta nghĩ: "Ngay trước mặt Thế Tôn, Tôn giả Udāyī cũng bác lại ta đến lần thứ ba, và không một Tỷ-kheo nào tùy hỷ với ta. Hay ta hãy im lặng." Rồi Tôn giả Sāriputta im lặng.
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này hiền giả, ở đây Tỷ-kheo thành tựu giới, thành tựu định, thành tựu tuệ, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có. Nếu ngay trong hiện tại vị ấy chưa chứng được trí biết cứu cánh, thì vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có." Khi được nói vậy, Tôn giả Ưu đà di (Udāyī) nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, không có sự kiện ấy, không có cơ hội ấy, rằng Tỷ-kheo vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, lại có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy không có." Lần thứ hai, Tôn giả Sāriputta cũng nói với các Tỷ-kheo như vậy. Lần thứ hai, Tôn giả Udāyī cũng bác lại như vậy. Lần thứ ba, Tôn giả Sāriputta cũng nói với các Tỷ-kheo như vậy. Lần thứ ba, Tôn giả Udāyī cũng bác lại như vậy. Rồi Tôn giả Sāriputta nghĩ: "Tôn giả Udāyī đã bác lại ta đến lần thứ ba, và không một Tỷ-kheo nào tùy hỷ với ta. Hay ta hãy đi đến chỗ Thế Tôn." Rồi Tôn giả Sāriputta đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Ngồi một bên, Tôn giả Sāriputta gọi các Tỷ-kheo: "Này hiền giả, ở đây Tỷ-kheo thành tựu giới, thành tựu định, thành tựu tuệ, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có. Nếu ngay trong hiện tại vị ấy chưa chứng được trí biết cứu cánh, thì vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có." Khi được nói vậy, Tôn giả Udāyī lại nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, không có sự kiện ấy, không có cơ hội ấy, rằng Tỷ-kheo vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, lại có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy không có." Lần thứ hai, Tôn giả Sāriputta cũng nói như vậy. Lần thứ hai, Tôn giả Udāyī cũng bác lại như vậy. Lần thứ ba, Tôn giả Sāriputta cũng nói như vậy. Lần thứ ba, Tôn giả Udāyī cũng bác lại như vậy. Rồi Tôn giả Sāriputta nghĩ: "Ngay trước mặt Thế Tôn, Tôn giả Udāyī cũng bác lại ta đến lần thứ ba, và không một Tỷ-kheo nào tùy hỷ với ta. Hay ta hãy im lặng." Rồi Tôn giả Sāriputta im lặng.
 
-Rồi Thế Tôn gọi Tôn giả Udāyī: "Này Udāyī, ông hiểu thân do ý tạo là thân nào?" "Bạch Thế Tôn, là những vị thiên vô sắc, do tưởng tạo." "Này Udāyī, kẻ ngu, không thông hiểu, nói năng gì chứ! Ông cũng tưởng mình nên nói hay sao!" Rồi Thế Tôn gọi Tôn giả Ānanda: "Này Ānanda, lẽ nào các thầy ngồi nhìn khi một vị Tỷ-kheo trưởng lão đang bị làm khó? Này Ānanda, lẽ nào không có lòng thương đối với vị Tỷ-kheo trưởng lão đang bị làm khó?" Rồi Thế Tôn gọi các Tỷ-kheo: "Này các thầy, ở đây Tỷ-kheo thành tựu giới, thành tựu định, thành tựu tuệ, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có. Nếu ngay trong hiện tại vị ấy chưa chứng được trí biết cứu cánh, thì vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có." Thế Tôn đã thuyết giảng như vậy. Nói xong, Thiện Thệ từ chỗ ngồi đứng dậy, đi vào tịnh xá.
+Rồi Thế Tôn gọi Tôn giả Udāyī: "Này Udāyī, ông hiểu thân do ý tạo là thân nào?" "Bạch Thế Tôn, là những vị thiên vô sắc, do tưởng tạo." "Này Udāyī, kẻ ngu, không thông hiểu, nói năng gì chứ! Ông cũng tưởng mình nên nói hay sao!" Rồi Thế Tôn gọi Tôn giả A-nan (Ānanda): "Này Ānanda, lẽ nào các thầy ngồi nhìn khi một vị Tỷ-kheo trưởng lão đang bị làm khó? Này Ānanda, lẽ nào không có lòng thương đối với vị Tỷ-kheo trưởng lão đang bị làm khó?" Rồi Thế Tôn gọi các Tỷ-kheo: "Này các thầy, ở đây Tỷ-kheo thành tựu giới, thành tựu định, thành tựu tuệ, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có. Nếu ngay trong hiện tại vị ấy chưa chứng được trí biết cứu cánh, thì vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sanh vào một thân do ý tạo, có thể nhập diệt thọ tưởng, cũng có thể xuất — sự kiện ấy có." Thế Tôn đã thuyết giảng như vậy. Nói xong, Thiện Thệ từ chỗ ngồi đứng dậy, đi vào tịnh xá.
 
-Rồi Tôn giả Ānanda, không bao lâu sau khi Thế Tôn đi, liền đến chỗ Tôn giả Upavāṇa, nói với Tôn giả Upavāṇa: "Này hiền giả Upavāṇa, ở đây các Tỷ-kheo trưởng lão khác làm khó. Chúng ta không thoát khỏi việc ấy. Này hiền giả Upavāṇa, không có gì lạ nếu chiều nay Thế Tôn xuất khỏi độc cư, nêu lên chính việc này, và Tôn giả Upavāṇa sẽ nghĩ ra điều cần đáp. Ngay bây giờ sự rụt rè đã đến với chúng ta."
+Rồi Tôn giả Ānanda, không bao lâu sau khi Thế Tôn đi, liền đến chỗ Tôn giả Ưu-ba-ma-na (Upavāṇa), nói với Tôn giả Upavāṇa: "Này hiền giả Upavāṇa, ở đây các Tỷ-kheo trưởng lão khác làm khó. Chúng ta không thoát khỏi việc ấy. Này hiền giả Upavāṇa, không có gì lạ nếu chiều nay Thế Tôn xuất khỏi độc cư, nêu lên chính việc này, và Tôn giả Upavāṇa sẽ nghĩ ra điều cần đáp. Ngay bây giờ sự rụt rè đã đến với chúng ta."
 
 Rồi chiều ấy, Thế Tôn xuất khỏi độc cư, đi đến hội trường, ngồi trên chỗ ngồi đã soạn sẵn. Ngồi xuống, Thế Tôn nói với Tôn giả Upavāṇa: "Này Upavāṇa, Tỷ-kheo trưởng lão thành tựu bao nhiêu pháp thì được các vị đồng Phạm hạnh thương mến, ưa thích, kính trọng, và đáng được thân cận?" "Bạch Thế Tôn, thành tựu năm pháp thì Tỷ-kheo trưởng lão được các vị đồng Phạm hạnh thương mến, ưa thích, kính trọng, và đáng được thân cận. Thế nào là năm? Ở đây, bạch Thế Tôn, Tỷ-kheo trưởng lão có giới, sống chế ngự với sự chế ngự của Ba-la-đề-mộc-xoa, đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới; nghe nhiều, ghi nhớ điều đã nghe, tích tụ điều đã nghe — những pháp ấy sơ thiện, trung thiện, hậu thiện, có nghĩa có văn, tuyên thuyết Phạm hạnh hoàn toàn viên mãn, thanh tịnh — những pháp như vậy vị ấy nghe nhiều, ghi nhớ, tụng đọc, ý tư duy, kiến giải khéo thấu suốt; lời nói tốt đẹp, nói năng tốt đẹp, thành tựu lời nói nhã nhặn, lưu loát, không nghẹn, khiến người hiểu được nghĩa; tùy ý chứng đạt, không khó khăn, không mệt nhọc bốn thiền thuộc tăng thượng tâm, đưa đến an trú lạc ngay trong hiện tại; do đoạn tận các lậu hoặc, ngay trong hiện tại tự mình thắng tri, chứng ngộ, thành tựu và an trú tâm giải thoát, tuệ giải thoát không còn lậu hoặc. Thành tựu năm pháp này thì Tỷ-kheo trưởng lão được các vị đồng Phạm hạnh thương mến, ưa thích, kính trọng, và đáng được thân cận." "Lành thay, lành thay, này Upavāṇa! Thành tựu năm pháp này thì Tỷ-kheo trưởng lão được các vị đồng Phạm hạnh thương mến, ưa thích, kính trọng, và đáng được thân cận. Này Upavāṇa, nếu năm pháp này không có nơi Tỷ-kheo trưởng lão, thì các vị đồng Phạm hạnh sẽ không kính trọng, không tôn kính, không quý trọng, không cúng dường vị ấy vì răng gãy, tóc bạc, da nhăn. Chính vì năm pháp này có nơi Tỷ-kheo trưởng lão, nên các vị đồng Phạm hạnh kính trọng, tôn kính, quý trọng, cúng dường vị ấy."
 
 === AN 5.167. Cử Tội (Codanāsuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này hiền giả, Tỷ-kheo muốn cử tội người khác cần an trú năm pháp trong nội tâm rồi mới nên cử tội người ấy. Thế nào là năm? 'Ta sẽ nói đúng thời, không nói phi thời; ta sẽ nói sự thật, không nói không thật; ta sẽ nói lời nhu hòa, không nói lời thô ác; ta sẽ nói lời liên hệ đến lợi ích, không nói lời không liên hệ đến lợi ích; ta sẽ nói với tâm từ, không nói với tâm sân ở bên trong.' Tỷ-kheo muốn cử tội người khác cần an trú năm pháp này trong nội tâm rồi mới nên cử tội người ấy.
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này hiền giả, Tỷ-kheo muốn cử tội người khác cần an trú năm pháp trong nội tâm rồi mới nên cử tội người ấy. Thế nào là năm? 'Ta sẽ nói đúng thời, không nói phi thời; ta sẽ nói sự thật, không nói không thật; ta sẽ nói lời nhu hòa, không nói lời thô ác; ta sẽ nói lời liên hệ đến lợi ích, không nói lời không liên hệ đến lợi ích; ta sẽ nói với tâm từ, không nói với tâm sân ở bên trong.' Tỷ-kheo muốn cử tội người khác cần an trú năm pháp này trong nội tâm rồi mới nên cử tội người ấy.
 
 Này hiền giả, ở đây ta thấy có người bị cử tội phi thời chứ không đúng thời thì nổi giận; bị cử tội không thật chứ không phải sự thật thì nổi giận; bị cử tội bằng lời thô ác chứ không phải lời nhu hòa thì nổi giận; bị cử tội bằng lời không liên hệ đến lợi ích chứ không phải lời liên hệ đến lợi ích thì nổi giận; bị cử tội với tâm sân ở bên trong chứ không phải với tâm từ thì nổi giận.
 
@@ -2107,17 +2107,17 @@ Còn những thiện nam tử vì lòng tin mà xuất gia — không xảo trá
 
 === AN 5.168. Giới (Sīlasuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này hiền giả, người phá giới, giới bị đổ vỡ, thì chánh định mất nhân duyên; không có chánh định, người thiếu chánh định thì như thật tri kiến mất nhân duyên; không có như thật tri kiến, người thiếu như thật tri kiến thì yếm ly ly tham mất nhân duyên; không có yếm ly ly tham, người thiếu yếm ly ly tham thì tri kiến giải thoát mất nhân duyên. Ví như cây mất cành lá. Vỏ ngoài của nó cũng không đi đến viên mãn, vỏ trong cũng không đi đến viên mãn, giác cũng không đi đến viên mãn, lõi cũng không đi đến viên mãn. Cũng vậy, người phá giới, giới bị đổ vỡ, thì chánh định mất nhân duyên; không có chánh định thì như thật tri kiến mất nhân duyên; không có như thật tri kiến thì yếm ly ly tham mất nhân duyên; không có yếm ly ly tham thì tri kiến giải thoát mất nhân duyên.
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này hiền giả, người phá giới, giới bị đổ vỡ, thì chánh định mất nhân duyên; không có chánh định, người thiếu chánh định thì như thật tri kiến mất nhân duyên; không có như thật tri kiến, người thiếu như thật tri kiến thì yếm ly ly tham mất nhân duyên; không có yếm ly ly tham, người thiếu yếm ly ly tham thì tri kiến giải thoát mất nhân duyên. Ví như cây mất cành lá. Vỏ ngoài của nó cũng không đi đến viên mãn, vỏ trong cũng không đi đến viên mãn, giác cũng không đi đến viên mãn, lõi cũng không đi đến viên mãn. Cũng vậy, người phá giới, giới bị đổ vỡ, thì chánh định mất nhân duyên; không có chánh định thì như thật tri kiến mất nhân duyên; không có như thật tri kiến thì yếm ly ly tham mất nhân duyên; không có yếm ly ly tham thì tri kiến giải thoát mất nhân duyên.
 
 Này hiền giả, người có giới, thành tựu giới, thì chánh định đầy đủ nhân duyên; có chánh định, người thành tựu chánh định thì như thật tri kiến đầy đủ nhân duyên; có như thật tri kiến, người thành tựu như thật tri kiến thì yếm ly ly tham đầy đủ nhân duyên; có yếm ly ly tham, người thành tựu yếm ly ly tham thì tri kiến giải thoát đầy đủ nhân duyên. Ví như cây đầy đủ cành lá. Vỏ ngoài của nó cũng đi đến viên mãn, vỏ trong cũng đi đến viên mãn, giác cũng đi đến viên mãn, lõi cũng đi đến viên mãn. Cũng vậy, người có giới, thành tựu giới, thì chánh định đầy đủ nhân duyên; có chánh định thì như thật tri kiến đầy đủ nhân duyên; có như thật tri kiến thì yếm ly ly tham đầy đủ nhân duyên; có yếm ly ly tham thì tri kiến giải thoát đầy đủ nhân duyên."
 
 === AN 5.169. Nhanh Hiểu (Khippanisantisuttaṃ)
 
-#super[1] Rồi Tôn giả Ānanda đi đến chỗ Tôn giả Sāriputta, cùng Tôn giả Sāriputta chào hỏi. Sau khi nói lời chào hỏi thân hữu, liền ngồi một bên. Ngồi một bên, Tôn giả Ānanda nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, cho đến mức nào thì Tỷ-kheo nhanh hiểu, khéo nắm giữ các thiện pháp, nắm được nhiều, và điều đã nắm thì không quên?" "Tôn giả Ānanda nghe nhiều. Xin Tôn giả Ānanda hãy nói." "Vậy này hiền giả Sāriputta, hãy nghe, khéo tác ý; tôi sẽ nói." "Thưa hiền giả, xin vâng." Tôn giả Sāriputta đáp lại Tôn giả Ānanda. Tôn giả Ānanda nói như vầy: "Này hiền giả Sāriputta, ở đây Tỷ-kheo khéo léo về nghĩa, khéo léo về pháp, khéo léo về văn, khéo léo về ngôn ngữ, khéo léo về trước sau. Cho đến mức ấy, này hiền giả Sāriputta, Tỷ-kheo nhanh hiểu các thiện pháp, khéo nắm giữ, nắm được nhiều, và điều đã nắm thì không quên." "Kỳ diệu thay, hiền giả! Hy hữu thay, hiền giả! Lời Tôn giả Ānanda nói khéo đến như vậy. Chúng tôi ghi nhận Tôn giả Ānanda thành tựu năm pháp này: Tôn giả Ānanda khéo léo về nghĩa, khéo léo về pháp, khéo léo về văn, khéo léo về ngôn ngữ, khéo léo về trước sau."
+#super[1] Rồi Tôn giả A-nan (Ānanda) đi đến chỗ Tôn giả Xá-lợi-phất (Sāriputta), cùng Tôn giả Sāriputta chào hỏi. Sau khi nói lời chào hỏi thân hữu, liền ngồi một bên. Ngồi một bên, Tôn giả Ānanda nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, cho đến mức nào thì Tỷ-kheo nhanh hiểu, khéo nắm giữ các thiện pháp, nắm được nhiều, và điều đã nắm thì không quên?" "Tôn giả Ānanda nghe nhiều. Xin Tôn giả Ānanda hãy nói." "Vậy này hiền giả Sāriputta, hãy nghe, khéo tác ý; tôi sẽ nói." "Thưa hiền giả, xin vâng." Tôn giả Sāriputta đáp lại Tôn giả Ānanda. Tôn giả Ānanda nói như vầy: "Này hiền giả Sāriputta, ở đây Tỷ-kheo khéo léo về nghĩa, khéo léo về pháp, khéo léo về văn, khéo léo về ngôn ngữ, khéo léo về trước sau. Cho đến mức ấy, này hiền giả Sāriputta, Tỷ-kheo nhanh hiểu các thiện pháp, khéo nắm giữ, nắm được nhiều, và điều đã nắm thì không quên." "Kỳ diệu thay, hiền giả! Hy hữu thay, hiền giả! Lời Tôn giả Ānanda nói khéo đến như vậy. Chúng tôi ghi nhận Tôn giả Ānanda thành tựu năm pháp này: Tôn giả Ānanda khéo léo về nghĩa, khéo léo về pháp, khéo léo về văn, khéo léo về ngôn ngữ, khéo léo về trước sau."
 
 === AN 5.170. Ba-đa-xi (Bhaddajisuttaṃ)
 
-#super[1] Một thời Tôn giả Ānanda trú ở Kosambī, tại Ghositārāma. Rồi Tôn giả Bhaddaji đi đến chỗ Tôn giả Ānanda, cùng Tôn giả Ānanda chào hỏi. Sau khi nói lời chào hỏi thân hữu, liền ngồi một bên. Tôn giả Ānanda nói với Tôn giả Bhaddaji đang ngồi một bên: "Này hiền giả Bhaddaji, cái gì là tối thượng trong các sự thấy? Cái gì là tối thượng trong các sự nghe? Cái gì là tối thượng trong các lạc? Cái gì là tối thượng trong các tưởng? Cái gì là tối thượng trong các hữu?" "Này hiền giả, có Phạm thiên Abhibhū, không bị ai thắng, thấy tất cả, tự tại. Ai thấy Phạm thiên ấy, đó là tối thượng trong các sự thấy. Có chư thiên tên Ābhassara, tràn đầy, thấm nhuần lạc. Thỉnh thoảng họ thốt lên cảm hứng ngữ: 'Ôi lạc thay, ôi lạc thay!' Ai nghe âm thanh ấy, đó là tối thượng trong các sự nghe. Có chư thiên tên Subhakiṇha. Họ thuần túy, thỏa mãn, cảm nhận lạc — đó là tối thượng trong các lạc. Có chư thiên đi đến Vô sở hữu xứ — đó là tối thượng trong các tưởng. Có chư thiên đi đến Phi tưởng phi phi tưởng xứ — đó là tối thượng trong các hữu." "Điều Tôn giả Bhaddaji nói, quả phù hợp với số đông người." "Tôn giả Ānanda nghe nhiều. Xin Tôn giả Ānanda hãy nói." "Vậy này hiền giả Bhaddaji, hãy nghe, khéo tác ý; tôi sẽ nói." "Thưa hiền giả, xin vâng." Tôn giả Bhaddaji đáp lại Tôn giả Ānanda. Tôn giả Ānanda nói như vầy: "Này hiền giả, thấy thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các sự thấy. Nghe thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các sự nghe. Lạc thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các lạc. Tưởng thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các tưởng. Hữu thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các hữu."
+#super[1] Một thời Tôn giả A-nan (Ānanda) trú ở Kiều-thưởng-di (Kosambī), tại Ghô-si-đa-la-ma (Ghositārāma). Rồi Tôn giả Bhaddaji đi đến chỗ Tôn giả Ānanda, cùng Tôn giả Ānanda chào hỏi. Sau khi nói lời chào hỏi thân hữu, liền ngồi một bên. Tôn giả Ānanda nói với Tôn giả Bhaddaji đang ngồi một bên: "Này hiền giả Bhaddaji, cái gì là tối thượng trong các sự thấy? Cái gì là tối thượng trong các sự nghe? Cái gì là tối thượng trong các lạc? Cái gì là tối thượng trong các tưởng? Cái gì là tối thượng trong các hữu?" "Này hiền giả, có Phạm thiên Thắng Giả (Abhibhū), không bị ai thắng, thấy tất cả, tự tại. Ai thấy Phạm thiên ấy, đó là tối thượng trong các sự thấy. Có chư thiên tên Quang Âm thiên (Ābhassara), tràn đầy, thấm nhuần lạc. Thỉnh thoảng họ thốt lên cảm hứng ngữ: 'Ôi lạc thay, ôi lạc thay!' Ai nghe âm thanh ấy, đó là tối thượng trong các sự nghe. Có chư thiên tên Biến Tịnh thiên (Subhakiṇha). Họ thuần túy, thỏa mãn, cảm nhận lạc — đó là tối thượng trong các lạc. Có chư thiên đi đến Vô sở hữu xứ — đó là tối thượng trong các tưởng. Có chư thiên đi đến Phi tưởng phi phi tưởng xứ — đó là tối thượng trong các hữu." "Điều Tôn giả Bhaddaji nói, quả phù hợp với số đông người." "Tôn giả Ānanda nghe nhiều. Xin Tôn giả Ānanda hãy nói." "Vậy này hiền giả Bhaddaji, hãy nghe, khéo tác ý; tôi sẽ nói." "Thưa hiền giả, xin vâng." Tôn giả Bhaddaji đáp lại Tôn giả Ānanda. Tôn giả Ānanda nói như vầy: "Này hiền giả, thấy thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các sự thấy. Nghe thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các sự nghe. Lạc thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các lạc. Tưởng thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các tưởng. Hữu thế nào mà ngay sau đó các lậu hoặc được đoạn tận, đó là tối thượng trong các hữu."
 
 #strong[(Hết phẩm Sân Hận.)]
 
@@ -2130,7 +2130,7 @@ Diệt, cử tội, giới, nhanh hiểu, Bhaddaji.
 
 === AN 5.171. Rụt Rè (Sārajjasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, cư sĩ thành tựu năm pháp thì rơi vào sự rụt rè. Thế nào là năm? Sát sanh, lấy của không cho, tà hạnh trong các dục, nói dối, uống rượu men rượu nấu đưa đến phóng dật. Thành tựu năm pháp này thì cư sĩ rơi vào sự rụt rè.
+#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn ông Cấp Cô Độc (Anāthapiṇḍika). Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, cư sĩ thành tựu năm pháp thì rơi vào sự rụt rè. Thế nào là năm? Sát sanh, lấy của không cho, tà hạnh trong các dục, nói dối, uống rượu men rượu nấu đưa đến phóng dật. Thành tựu năm pháp này thì cư sĩ rơi vào sự rụt rè.
 
 Này các thầy, cư sĩ thành tựu năm pháp thì tự tin. Thế nào là năm? Từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ uống rượu men rượu nấu đưa đến phóng dật. Thành tựu năm pháp này thì cư sĩ tự tin."
 
@@ -2148,7 +2148,7 @@ Này các thầy, cư sĩ thành tựu năm pháp thì như bị dẫn đi, đư
 
 === AN 5.174. Oán Thù (Verasuttaṃ)
 
-#super[1] Rồi gia chủ Anāthapiṇḍika đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên: "Này gia chủ, không đoạn trừ năm sự sợ hãi, oán thù thì được gọi là 'phá giới', và sanh vào địa ngục. Những gì là năm? Sát sanh, lấy của không cho, tà hạnh trong các dục, nói dối, uống rượu men rượu nấu đưa đến phóng dật — không đoạn trừ năm sự sợ hãi, oán thù này thì được gọi là 'phá giới', và sanh vào địa ngục.
+#super[1] Rồi gia chủ Cấp Cô Độc (Anāthapiṇḍika) đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên: "Này gia chủ, không đoạn trừ năm sự sợ hãi, oán thù thì được gọi là 'phá giới', và sanh vào địa ngục. Những gì là năm? Sát sanh, lấy của không cho, tà hạnh trong các dục, nói dối, uống rượu men rượu nấu đưa đến phóng dật — không đoạn trừ năm sự sợ hãi, oán thù này thì được gọi là 'phá giới', và sanh vào địa ngục.
 
 Này gia chủ, đoạn trừ năm sự sợ hãi, oán thù thì được gọi là 'có giới', và sanh vào thiện thú. Những gì là năm? Sát sanh, lấy của không cho, tà hạnh trong các dục, nói dối, uống rượu men rượu nấu đưa đến phóng dật — đoạn trừ năm sự sợ hãi, oán thù này thì được gọi là 'có giới', và sanh vào thiện thú.
 
@@ -2181,7 +2181,7 @@ Này các thầy, cư sĩ thành tựu năm pháp thì là châu báu của cư 
 
 === AN 5.176. Hỷ (Pītisuttaṃ)
 
-#super[1] Rồi gia chủ Anāthapiṇḍika, được khoảng năm trăm cư sĩ vây quanh, đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên: "Này gia chủ, các ông đã hầu hạ chúng Tỷ-kheo với y áo, đồ ăn khất thực, sàng tọa, thuốc men trị bệnh. Này gia chủ, chớ lấy chừng ấy làm đủ: 'Chúng ta đã hầu hạ chúng Tỷ-kheo với y áo, đồ ăn khất thực, sàng tọa, thuốc men trị bệnh.' Vì vậy, này gia chủ, các ông cần học tập như vầy: 'Làm sao thỉnh thoảng chúng ta chứng đạt và an trú hỷ do viễn ly?' Này gia chủ, các ông cần học tập như vậy." Khi được nói vậy, Tôn giả Sāriputta bạch Thế Tôn: "Kỳ diệu thay, bạch Thế Tôn! Hy hữu thay, bạch Thế Tôn! Thế Tôn đã khéo nói đến như vậy: 'Này gia chủ, các ông đã hầu hạ chúng Tỷ-kheo với y áo, đồ ăn khất thực, sàng tọa, thuốc men trị bệnh. Chớ lấy chừng ấy làm đủ. Vì vậy cần học tập: Làm sao thỉnh thoảng chúng ta chứng đạt và an trú hỷ do viễn ly?'
+#super[1] Rồi gia chủ Cấp Cô Độc (Anāthapiṇḍika), được khoảng năm trăm cư sĩ vây quanh, đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Thế Tôn nói với gia chủ Anāthapiṇḍika đang ngồi một bên: "Này gia chủ, các ông đã hầu hạ chúng Tỷ-kheo với y áo, đồ ăn khất thực, sàng tọa, thuốc men trị bệnh. Này gia chủ, chớ lấy chừng ấy làm đủ: 'Chúng ta đã hầu hạ chúng Tỷ-kheo với y áo, đồ ăn khất thực, sàng tọa, thuốc men trị bệnh.' Vì vậy, này gia chủ, các ông cần học tập như vầy: 'Làm sao thỉnh thoảng chúng ta chứng đạt và an trú hỷ do viễn ly?' Này gia chủ, các ông cần học tập như vậy." Khi được nói vậy, Tôn giả Xá-lợi-phất (Sāriputta) bạch Thế Tôn: "Kỳ diệu thay, bạch Thế Tôn! Hy hữu thay, bạch Thế Tôn! Thế Tôn đã khéo nói đến như vậy: 'Này gia chủ, các ông đã hầu hạ chúng Tỷ-kheo với y áo, đồ ăn khất thực, sàng tọa, thuốc men trị bệnh. Chớ lấy chừng ấy làm đủ. Vì vậy cần học tập: Làm sao thỉnh thoảng chúng ta chứng đạt và an trú hỷ do viễn ly?'
 
 Bạch Thế Tôn, khi Thánh đệ tử chứng đạt và an trú hỷ do viễn ly, năm trường hợp ấy lúc đó không có. Khổ ưu liên hệ đến dục, lúc đó không có. Lạc hỷ liên hệ đến dục, lúc đó không có. Khổ ưu liên hệ đến bất thiện, lúc đó không có. Lạc hỷ liên hệ đến bất thiện, lúc đó không có. Khổ ưu liên hệ đến thiện, lúc đó không có. Bạch Thế Tôn, khi Thánh đệ tử chứng đạt và an trú hỷ do viễn ly, năm trường hợp này lúc đó không có." "Lành thay, lành thay, này Sāriputta! Khi Thánh đệ tử chứng đạt và an trú hỷ do viễn ly, năm trường hợp ấy lúc đó không có. Khổ ưu liên hệ đến dục, lúc đó không có. Lạc hỷ liên hệ đến dục, lúc đó không có. Khổ ưu liên hệ đến bất thiện, lúc đó không có. Lạc hỷ liên hệ đến bất thiện, lúc đó không có. Khổ ưu liên hệ đến thiện, lúc đó không có. Này Sāriputta, khi Thánh đệ tử chứng đạt và an trú hỷ do viễn ly, năm trường hợp này lúc đó không có."
 
@@ -2203,7 +2203,7 @@ Bạch Thế Tôn, khi Thánh đệ tử chứng đạt và an trú hỷ do vi�
 
 === AN 5.179. Cư Sĩ (Gihisuttaṃ)
 
-#super[1] Rồi gia chủ Anāthapiṇḍika, được khoảng năm trăm cư sĩ vây quanh, đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Rồi Thế Tôn gọi Tôn giả Sāriputta: "Này Sāriputta, thầy biết cư sĩ nào mặc áo trắng, thân hành được phòng hộ trong năm học giới, tùy ý chứng đạt, không khó khăn, không mệt nhọc bốn sự an trú lạc thuộc tăng thượng tâm ngay trong hiện tại, thì nếu muốn, người ấy có thể tự mình ghi nhận về mình: 'Địa ngục đã đoạn tận nơi ta, thai sanh súc sanh đã đoạn tận, cõi ngạ quỷ đã đoạn tận, các đọa xứ, ác thú, đọa lạc đã đoạn tận; ta là bậc Dự lưu, không còn đọa lạc, quyết định, hướng đến Chánh giác.'
+#super[1] Rồi gia chủ Cấp Cô Độc (Anāthapiṇḍika), được khoảng năm trăm cư sĩ vây quanh, đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn, rồi ngồi một bên. Rồi Thế Tôn gọi Tôn giả Xá-lợi-phất (Sāriputta): "Này Sāriputta, thầy biết cư sĩ nào mặc áo trắng, thân hành được phòng hộ trong năm học giới, tùy ý chứng đạt, không khó khăn, không mệt nhọc bốn sự an trú lạc thuộc tăng thượng tâm ngay trong hiện tại, thì nếu muốn, người ấy có thể tự mình ghi nhận về mình: 'Địa ngục đã đoạn tận nơi ta, thai sanh súc sanh đã đoạn tận, cõi ngạ quỷ đã đoạn tận, các đọa xứ, ác thú, đọa lạc đã đoạn tận; ta là bậc Dự lưu, không còn đọa lạc, quyết định, hướng đến Chánh giác.'
 
 Thân hành được phòng hộ trong năm học giới nào? Ở đây, này Sāriputta, Thánh đệ tử từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ uống rượu men rượu nấu đưa đến phóng dật. Thân hành được phòng hộ trong năm học giới này.
 
@@ -2250,7 +2250,7 @@ Tuần tự các bậc trí chứng đạt Niết-bàn.
 
 === AN 5.180. Ca-vê-tây (Gavesīsuttaṃ)
 
-#super[1] Một thời Thế Tôn du hành trong xứ Kosala cùng với đại chúng Tỷ-kheo. Thế Tôn đang đi đường, thấy một khu rừng sāla lớn ở một chỗ; thấy vậy, Ngài rẽ khỏi đường, đi đến khu rừng sāla ấy, đi vào rừng, rồi ở một chỗ, Ngài lộ nụ cười. Tôn giả Ānanda nghĩ: "Do nhân gì, do duyên gì mà Thế Tôn lộ nụ cười? Các Như Lai không phải không có lý do mà lộ nụ cười." Rồi Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà Thế Tôn lộ nụ cười? Các Như Lai không phải không có lý do mà lộ nụ cười." "Này Ānanda, thuở xưa, tại chỗ này có một thành phố, phồn thịnh, giàu có, dân đông, người chen chúc. Này Ānanda, Thế Tôn Kassapa, bậc A-la-hán, Chánh Đẳng Giác, đã nương thành phố ấy mà trú. Này Ānanda, Thế Tôn Kassapa, bậc A-la-hán, Chánh Đẳng Giác, có một cư sĩ tên Gavesī, chưa viên mãn các giới. Cư sĩ Gavesī đã chỉ bày, khích lệ khoảng năm trăm cư sĩ, những người cũng chưa viên mãn các giới.
+#super[1] Một thời Thế Tôn du hành trong xứ Câu-tát-la (Kosala) cùng với đại chúng Tỷ-kheo. Thế Tôn đang đi đường, thấy một khu rừng sāla lớn ở một chỗ; thấy vậy, Ngài rẽ khỏi đường, đi đến khu rừng sāla ấy, đi vào rừng, rồi ở một chỗ, Ngài lộ nụ cười. Tôn giả A-nan (Ānanda) nghĩ: "Do nhân gì, do duyên gì mà Thế Tôn lộ nụ cười? Các Như Lai không phải không có lý do mà lộ nụ cười." Rồi Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà Thế Tôn lộ nụ cười? Các Như Lai không phải không có lý do mà lộ nụ cười." "Này Ānanda, thuở xưa, tại chỗ này có một thành phố, phồn thịnh, giàu có, dân đông, người chen chúc. Này Ānanda, Thế Tôn Ca-diếp (Kassapa), bậc A-la-hán, Chánh Đẳng Giác, đã nương thành phố ấy mà trú. Này Ānanda, Thế Tôn Kassapa, bậc A-la-hán, Chánh Đẳng Giác, có một cư sĩ tên Ca-vê-tây (Gavesī), chưa viên mãn các giới. Cư sĩ Gavesī đã chỉ bày, khích lệ khoảng năm trăm cư sĩ, những người cũng chưa viên mãn các giới.
 
 Rồi này Ānanda, cư sĩ Gavesī nghĩ: 'Ta là người nhiều lợi ích cho năm trăm cư sĩ này, là người đi đầu, là người khích lệ, mà ta chưa viên mãn các giới, năm trăm cư sĩ này cũng chưa viên mãn các giới. Như vậy là ngang nhau, không có gì hơn. Hay ta hãy làm điều hơn.' Rồi cư sĩ Gavesī đi đến năm trăm cư sĩ ấy, nói: 'Từ hôm nay, xin các hiền giả hãy ghi nhận ta là người viên mãn các giới.' Rồi năm trăm cư sĩ ấy nghĩ: 'Gia chủ Gavesī là người nhiều lợi ích cho chúng ta, là người đi đầu, là người khích lệ. Gia chủ Gavesī sẽ viên mãn các giới. Huống hồ chúng ta!' Rồi năm trăm cư sĩ ấy đi đến cư sĩ Gavesī, nói: 'Từ hôm nay, xin gia chủ Gavesī hãy ghi nhận cả năm trăm cư sĩ này cũng viên mãn các giới.'
 
@@ -2344,15 +2344,15 @@ Thuở xưa, này các thầy, các Bà-la-môn chiều tìm đồ ăn cho bữa
 
 === AN 5.192. Đô-na (Doṇabrāhmaṇasuttaṃ)
 
-#super[1] Rồi Bà-la-môn Doṇa đi đến chỗ Thế Tôn; sau khi đến, chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Doṇa bạch Thế Tôn:
+#super[1] Rồi Bà-la-môn Đô-na (Doṇa) đi đến chỗ Thế Tôn; sau khi đến, chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Doṇa bạch Thế Tôn:
 
-"Thưa Tôn giả Gotama, tôi được nghe: 'Sa-môn Gotama không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều.' Điều ấy đúng như vậy. Tôn giả Gotama quả không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều. Thưa Tôn giả Gotama, điều ấy thật không phải phép."
+"Thưa Tôn giả Cù-đàm (Gotama), tôi được nghe: 'Sa-môn Gotama không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều.' Điều ấy đúng như vậy. Tôn giả Gotama quả không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều. Thưa Tôn giả Gotama, điều ấy thật không phải phép."
 
 "Này Doṇa, ông cũng tự nhận mình là Bà-la-môn chứ?"
 
 "Thưa Tôn giả Gotama, nếu ai nói đúng sự thật thì phải nói: 'Vị Bà-la-môn thuần chủng cả hai bên — phía mẹ và phía cha — thai tạng thanh tịnh, cho đến bảy đời tổ phụ không bị chê bai về dòng dõi; là người tụng đọc, trì chú, thông suốt ba Vệ-đà cùng từ điển, nghi lễ, ngữ pháp phân tích, lấy sử truyền làm thứ năm; thông hiểu âm vận, ngữ pháp, không thiếu sót về thế gian luận và tướng đại nhân.' Thưa Tôn giả Gotama, nếu nói đúng sự thật thì phải nói như vậy về tôi. Vì tôi là Bà-la-môn thuần chủng cả hai bên — phía mẹ và phía cha — thai tạng thanh tịnh, cho đến bảy đời tổ phụ không bị chê bai về dòng dõi; là người tụng đọc, trì chú, thông suốt ba Vệ-đà cùng từ điển, nghi lễ, ngữ pháp phân tích, lấy sử truyền làm thứ năm; thông hiểu âm vận, ngữ pháp, không thiếu sót về thế gian luận và tướng đại nhân."
 
-"Này Doṇa, những vị ẩn sĩ thời xưa của các Bà-la-môn, những vị sáng tác chú thuật, truyền bá chú thuật — chính những bài chú cổ mà các Bà-la-môn ngày nay vẫn còn ca tụng, tuyên thuyết, lặp lại điều đã được nói, học lại điều đã được học, đọc lại điều đã được đọc — đó là Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamadaggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, Bhagu. Các vị ấy nêu ra năm hạng Bà-la-môn: hạng ngang hàng Phạm thiên, hạng ngang hàng chư thiên, hạng giữ ranh giới, hạng phá ranh giới, và hạng Chiên-đà-la Bà-la-môn là thứ năm. Này Doṇa, ông thuộc hạng nào trong năm hạng ấy?"
+"Này Doṇa, những vị ẩn sĩ thời xưa của các Bà-la-môn, những vị sáng tác chú thuật, truyền bá chú thuật — chính những bài chú cổ mà các Bà-la-môn ngày nay vẫn còn ca tụng, tuyên thuyết, lặp lại điều đã được nói, học lại điều đã được học, đọc lại điều đã được đọc — đó là Át-tha-ca (Aṭṭhaka), Bà-ma (Vāmaka), Bà-ma -đề-bà (Vāmadeva), Tì-bà-thẩm-sá (Vessāmitta), Yamadaggi, Ương-kỳ-la (Aṅgīrasa), Bạt-la-đà-phạn-xà (Bhāradvāja), Bà-tất-sá (Vāseṭṭha), Ca-diếp (Kassapa), Bà-cữu (Bhagu). Các vị ấy nêu ra năm hạng Bà-la-môn: hạng ngang hàng Phạm thiên, hạng ngang hàng chư thiên, hạng giữ ranh giới, hạng phá ranh giới, và hạng Chiên-đà-la Bà-la-môn là thứ năm. Này Doṇa, ông thuộc hạng nào trong năm hạng ấy?"
 
 "Thưa Tôn giả Gotama, chúng tôi không biết năm hạng Bà-la-môn ấy, chúng tôi chỉ biết mình là Bà-la-môn. Lành thay, mong Tôn giả Gotama thuyết Pháp cho tôi theo cách khiến tôi hiểu được năm hạng Bà-la-môn này."
 
@@ -2384,9 +2384,9 @@ Này Doṇa, những vị ẩn sĩ thời xưa của các Bà-la-môn, những v
 
 === AN 5.193. Sang-ga-la-ba (Saṅgāravasuttaṃ)
 
-#super[1] Rồi Bà-la-môn Saṅgārava đi đến chỗ Thế Tôn; sau khi đến, chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Saṅgārava bạch Thế Tôn:
+#super[1] Rồi Bà-la-môn Sang-ga-la-ba (Saṅgārava) đi đến chỗ Thế Tôn; sau khi đến, chào hỏi Thế Tôn. Sau khi trao đổi những lời chào hỏi thân thiện, vị ấy ngồi xuống một bên. Ngồi xuống một bên, Bà-la-môn Saṅgārava bạch Thế Tôn:
 
-"Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà có khi những chú thuật đã được học thuộc lâu ngày vẫn không hiện ra, huống gì những chú chưa học thuộc? Do nhân gì, do duyên gì mà có khi những chú thuật chưa được học thuộc lâu ngày vẫn hiện ra, huống gì những chú đã học thuộc?"
+"Thưa Tôn giả Cù-đàm (Gotama), do nhân gì, do duyên gì mà có khi những chú thuật đã được học thuộc lâu ngày vẫn không hiện ra, huống gì những chú chưa học thuộc? Do nhân gì, do duyên gì mà có khi những chú thuật chưa được học thuộc lâu ngày vẫn hiện ra, huống gì những chú đã học thuộc?"
 
 "Này Bà-la-môn, khi nào sống với tâm bị dục tham chiếm đoạt, bị dục tham chi phối, không như thật biết lối thoát khỏi dục tham đã khởi, thì lúc ấy không như thật biết, không như thật thấy lợi ích của mình, không như thật biết, không như thật thấy lợi ích của người, không như thật biết, không như thật thấy lợi ích của cả hai — những chú thuật đã được học thuộc lâu ngày vẫn không hiện ra, huống gì những chú chưa học thuộc. Ví như, này Bà-la-môn, một chậu nước bị pha với sơn, nghệ, chàm, hay phẩm đỏ. Người có mắt soi bóng mặt mình trong đó không như thật biết, không như thật thấy. Cũng vậy, khi tâm bị dục tham chiếm đoạt, bị dục tham chi phối, không như thật biết lối thoát khỏi dục tham đã khởi, thì không như thật biết, không như thật thấy lợi ích của mình, của người, của cả hai — những chú đã học thuộc lâu ngày vẫn không hiện ra, huống gì những chú chưa học thuộc.
 
@@ -2414,11 +2414,11 @@ Này Bà-la-môn, đó là nhân, đó là duyên khiến có khi những chú t
 
 === AN 5.194. Ca-la-na-ba-li (Kāraṇapālīsuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vesālī, tại Mahāvana, giảng đường Trùng Các. Lúc bấy giờ Bà-la-môn Kāraṇapālī đang lo việc cho các Licchavī. Bà-la-môn Kāraṇapālī thấy Bà-la-môn Piṅgiyānī từ xa đi đến; thấy vậy, liền nói với Bà-la-môn Piṅgiyānī:
+#super[1] Một thời Thế Tôn trú ở Tỳ-xá-ly (Vesālī), tại Đại Lâm (Mahāvana), giảng đường Trùng Các. Lúc bấy giờ Bà-la-môn Ca-la-na-ba-li (Kāraṇapālī) đang lo việc cho các Ly- xa tử (Licchavī). Bà-la-môn Kāraṇapālī thấy Bà-la-môn Bing-gi-da-ni (Piṅgiyānī) từ xa đi đến; thấy vậy, liền nói với Bà-la-môn Piṅgiyānī:
 
 "Này, Tôn giả Piṅgiyānī từ đâu đến giữa ban ngày như thế này?"
 
-"Thưa Tôn giả, tôi từ chỗ Sa-môn Gotama đến."
+"Thưa Tôn giả, tôi từ chỗ Sa-môn Cù-đàm (Gotama) đến."
 
 "Tôn giả nghĩ sao về sự thông tuệ của Sa-môn Gotama? Chắc là bậc trí?"
 
@@ -2450,9 +2450,9 @@ Khi được nói vậy, Bà-la-môn Kāraṇapālī từ chỗ ngồi đứng d
 
 === AN 5.195. Bing-gi-da-ni (Piṅgiyānīsuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vesālī, tại Mahāvana, giảng đường Trùng Các. Lúc bấy giờ khoảng năm trăm Licchavī đang hầu hạ Thế Tôn. Một số Licchavī xanh, màu xanh, y xanh, đồ trang sức xanh; một số vàng, màu vàng, y vàng, đồ trang sức vàng; một số đỏ, màu đỏ, y đỏ, đồ trang sức đỏ; một số trắng, màu trắng, y trắng, đồ trang sức trắng. Thế Tôn vẫn còn rực rỡ hơn họ về dung sắc lẫn danh vọng.
+#super[1] Một thời Thế Tôn trú ở Tỳ-xá-ly (Vesālī), tại Đại Lâm (Mahāvana), giảng đường Trùng Các. Lúc bấy giờ khoảng năm trăm Ly- xa tử (Licchavī) đang hầu hạ Thế Tôn. Một số Licchavī xanh, màu xanh, y xanh, đồ trang sức xanh; một số vàng, màu vàng, y vàng, đồ trang sức vàng; một số đỏ, màu đỏ, y đỏ, đồ trang sức đỏ; một số trắng, màu trắng, y trắng, đồ trang sức trắng. Thế Tôn vẫn còn rực rỡ hơn họ về dung sắc lẫn danh vọng.
 
-Rồi Bà-la-môn Piṅgiyānī từ chỗ ngồi đứng dậy, đắp thượng y vào một bên vai, chắp tay hướng về Thế Tôn, bạch Thế Tôn: "Bạch Thế Tôn, lời này hiện ra với con; bạch Thiện Thệ, lời này hiện ra với con."
+Rồi Bà-la-môn Bing-gi-da-ni (Piṅgiyānī) từ chỗ ngồi đứng dậy, đắp thượng y vào một bên vai, chắp tay hướng về Thế Tôn, bạch Thế Tôn: "Bạch Thế Tôn, lời này hiện ra với con; bạch Thiện Thệ, lời này hiện ra với con."
 
 "Này Piṅgiyānī, hãy để lời ấy hiện ra." Thế Tôn nói.
 
@@ -2460,7 +2460,7 @@ Rồi Bà-la-môn Piṅgiyānī trước mặt Thế Tôn tán thán bằng bài
 
 "Như sen đỏ kokanada thơm ngát, \
 nở buổi sáng, hương chưa tàn; \
-hãy nhìn Aṅgīrasa đang rực sáng, \
+hãy nhìn Ương-kỳ-la (Aṅgīrasa) đang rực sáng, \
 như mặt trời cháy rực giữa hư không."
 
 Rồi các Licchavī ấy lấy năm trăm thượng y phủ cho Bà-la-môn Piṅgiyānī. Bà-la-môn Piṅgiyānī lấy năm trăm thượng y ấy phủ cho Thế Tôn.
@@ -2471,7 +2471,7 @@ Rồi Thế Tôn nói với các Licchavī ấy: "Này các Licchavī, sự xu�
 
 #super[1] "Này các thầy, khi Như Lai, bậc A-la-hán, Chánh Đẳng Giác, chưa chứng Bồ-đề, còn là Bồ-tát chưa giác ngộ, năm đại mộng đã hiện ra. Những gì là năm?
 
-Này các thầy, khi Như Lai, bậc A-la-hán, Chánh Đẳng Giác, chưa chứng Bồ-đề, còn là Bồ-tát chưa giác ngộ, đại địa này là giường lớn, núi chúa Himavā là gối, tay trái đặt xuống biển phía đông, tay phải đặt xuống biển phía tây, hai chân đặt xuống biển phía nam. Đó là đại mộng thứ nhất hiện ra.
+Này các thầy, khi Như Lai, bậc A-la-hán, Chánh Đẳng Giác, chưa chứng Bồ-đề, còn là Bồ-tát chưa giác ngộ, đại địa này là giường lớn, núi chúa Hi-mã-lạp (Himavā) là gối, tay trái đặt xuống biển phía đông, tay phải đặt xuống biển phía tây, hai chân đặt xuống biển phía nam. Đó là đại mộng thứ nhất hiện ra.
 
 Lại nữa, một loài cỏ tên tiriyā từ rốn mọc lên, đụng đến hư không rồi đứng đó. Đó là đại mộng thứ hai hiện ra.
 
@@ -2499,7 +2499,7 @@ Này các thầy, khi Như Lai, bậc A-la-hán, Chánh Đẳng Giác, chưa ch�
 
 Lại nữa, phong đại phía trên hư không bị rối loạn. Do đó những đám mây đã khởi đều tan đi. Đây là chướng ngại thứ hai của mưa.
 
-Lại nữa, Rāhu, vua A-tu-la, lấy tay hứng nước rồi đổ xuống đại dương. Đây là chướng ngại thứ ba của mưa.
+Lại nữa, La-hầu (Rāhu), vua A-tu-la, lấy tay hứng nước rồi đổ xuống đại dương. Đây là chướng ngại thứ ba của mưa.
 
 Lại nữa, chư thiên mây mưa phóng dật. Đây là chướng ngại thứ tư của mưa.
 
@@ -2547,8 +2547,8 @@ Lại nữa, Tỷ-kheo tác ý hữu thân, tâm không nhảy vào hữu thân,
 
 #strong[Tổng thuyết kệ:]
 
-Soṇa, Doṇa, Saṅgārava, \
-Kāraṇapālī và Piṅgiyānī; \
+Tô-na (Soṇa), Đô-na (Doṇa), Sang-ga-la-ba (Saṅgārava), \
+Ca-la-na-ba-li (Kāraṇapālī) và Bing-gi-da-ni (Piṅgiyānī); \
 Các mộng, mưa, lời nói, \
 gia đình, cùng với xuất ly.
 
@@ -2560,7 +2560,7 @@ gia đình, cùng với xuất ly.
 
 #strong[Năm mươi kinh thứ năm]
 
-#super[1] Một thời Thế Tôn trú ở Kimilā, tại Veḷuvana. Rồi Tôn giả Kimila đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Kimila bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà khi Như Lai đã nhập Niết-bàn, Chánh pháp không được tồn tại lâu dài?"
+#super[1] Một thời Thế Tôn trú ở Ci-mi-la (Kimilā), tại Trúc Lâm (Veḷuvana). Rồi Tôn giả Kimila đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Kimila bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà khi Như Lai đã nhập Niết-bàn, Chánh pháp không được tồn tại lâu dài?"
 
 "Này Kimila, ở đây, khi Như Lai đã nhập Niết-bàn, các Tỷ-kheo, Tỷ-kheo-ni, nam cư sĩ, nữ cư sĩ sống không cung kính, không tùy thuận đối với bậc Đạo Sư; sống không cung kính, không tùy thuận đối với Pháp; sống không cung kính, không tùy thuận đối với Tăng; sống không cung kính, không tùy thuận đối với học giới; sống không cung kính, không tùy thuận đối với nhau. Này Kimila, đó là nhân, đó là duyên khiến khi Như Lai đã nhập Niết-bàn, Chánh pháp không được tồn tại lâu dài."
 
@@ -2719,7 +2719,7 @@ Này các thầy, có năm lợi ích này của sự tịnh tín. Những gì l
 
 === AN 5.220. Ma-đu-la (Madhurāsuttaṃ)
 
-#super[1] "Này các thầy, có năm tai hại này ở Madhurā. Những gì là năm? Đường sá gập ghềnh; nhiều bụi; chó dữ; dạ-xoa hung dữ; khó được đồ ăn khất thực — này các thầy, đó là năm tai hại ở Madhurā."
+#super[1] "Này các thầy, có năm tai hại này ở Ma-đu-la (Madhurā). Những gì là năm? Đường sá gập ghềnh; nhiều bụi; chó dữ; dạ-xoa hung dữ; khó được đồ ăn khất thực — này các thầy, đó là năm tai hại ở Madhurā."
 
 #strong[(Hết phẩm Mắng Nhiếc.)]
 
@@ -3077,15 +3077,15 @@ Này các thầy, nữ cư sĩ hội đủ năm pháp thì chẳng khác nào đ
 
 === AN 5.268. Tà mạng ngoại đạo (Ājīvakasuttaṃ)
 
-#super[1] "Này các thầy, người Ājīvaka hội đủ năm pháp thì chẳng khác nào bị quăng thẳng vào địa ngục. Những gì là năm? Sát sinh; lấy của không cho; không Phạm hạnh; nói dối; uống rượu men, rượu nấu, là chỗ phóng dật. Này các thầy, người Ājīvaka hội đủ năm pháp này thì chẳng khác nào bị quăng thẳng vào địa ngục."
+#super[1] "Này các thầy, người tà mạng ngoại đạo (Ājīvaka) hội đủ năm pháp thì chẳng khác nào bị quăng thẳng vào địa ngục. Những gì là năm? Sát sinh; lấy của không cho; không Phạm hạnh; nói dối; uống rượu men, rượu nấu, là chỗ phóng dật. Này các thầy, người Ājīvaka hội đủ năm pháp này thì chẳng khác nào bị quăng thẳng vào địa ngục."
 
 === AN 5.9–5.17 (nhóm kinh viết tắt trùng tụng)
 
-#super[1] Nhóm chín kinh: Nigaṇṭha, đệ tử đầu trọc, khổ hạnh bện tóc, du sĩ, Māgaṇḍika, người cầm ba gậy, Āruddhaka, Gotamaka, Devadhammika.
+#super[1] Nhóm chín kinh: Ni kiền tử (Nigaṇṭha), đệ tử đầu trọc, khổ hạnh bện tóc, du sĩ, Māgaṇḍika, người cầm ba gậy, Āruddhaka, Gô-đa-ma-ca (Gotamaka), Devadhammika.
 
 === AN 5.294–5.302 (nhóm kinh viết tắt trùng tụng)
 
-#super[1] "Này các thầy, Nigaṇṭha, đệ tử đầu trọc, khổ hạnh bện tóc, du sĩ, Māgaṇḍika, người cầm ba gậy, Āruddhaka, Gotamaka, Devadhammika hội đủ năm pháp thì chẳng khác nào bị quăng thẳng vào địa ngục. Những gì là năm? Sát sinh; lấy của không cho; không Phạm hạnh; nói dối; uống rượu men, rượu nấu, là chỗ phóng dật. Này các thầy, người Devadhammika hội đủ năm pháp này thì chẳng khác nào bị quăng thẳng vào địa ngục."
+#super[1] "Này các thầy, Ni kiền tử (Nigaṇṭha), đệ tử đầu trọc, khổ hạnh bện tóc, du sĩ, Māgaṇḍika, người cầm ba gậy, Āruddhaka, Gô-đa-ma-ca (Gotamaka), Devadhammika hội đủ năm pháp thì chẳng khác nào bị quăng thẳng vào địa ngục. Những gì là năm? Sát sinh; lấy của không cho; không Phạm hạnh; nói dối; uống rượu men, rượu nấu, là chỗ phóng dật. Này các thầy, người Devadhammika hội đủ năm pháp này thì chẳng khác nào bị quăng thẳng vào địa ngục."
 
 #strong[(Hết trùng tụng về học giới.)]
 
@@ -3134,11 +3134,11 @@ ly tham, diệt, xả, và từ bỏ — \
 
 Sức mạnh hữu học và sức mạnh, \
 năm chi, Sumana; \
-Muṇḍa, triền cái, tưởng, \
+Mun-đa (Muṇḍa), triền cái, tưởng, \
 chiến sĩ là thứ tám; \
-Trưởng lão, Kakudha, an trú, \
-Andhakavinda thứ mười hai; \
-Bệnh, vua, Tikaṇḍaki, \
+Trưởng lão, Ca-cu-đa (Kakudha), an trú, \
+An-đa-ca-bin-đa (Andhakavinda) thứ mười hai; \
+Bệnh, vua, Đi-can-đa-ci (Tikaṇḍaki), \
 Chánh pháp, hận, cư sĩ; \
 Rừng và Bà-la-môn, \
 Kimila, mắng nhiếc cũng vậy; \

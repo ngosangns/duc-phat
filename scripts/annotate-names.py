@@ -20,6 +20,7 @@ import sys
 import unicodedata
 
 DST = 'kinh/ban-dich-doc-lap-tu-pali-goc/**/*.typ'
+DST_PARTS = 'kinh/ban-dich-doc-lap-tu-pali-goc/**/.parts/*.part'
 MAP = 'scripts/name-map.tsv'
 EXTRA = 'scripts/name-map-extra.tsv'
 
@@ -123,7 +124,22 @@ ASCII_WHITELIST = {
     'vebhara', 'vepulla', 'arittha', 'uparittha', 'sudassana',
     'paramimmitavasavatti', 'aciravata', 'bhumija', 'nandiya', 'kimbila',
     'paricchattaka', 'pandukambala', 'subhuti', 'punna', 'sunaparanta',
-    'rajakarama',
+    'rajakarama', 'vana', 'aja', 'vedisa', 'buli', 'koliya', 'kampilla',
+    'soreyya', 'udumbara', 'nagaraka', 'kuraraghara', 'mahisavatthu',
+    'allakappa', 'gonaddha', 'giri', 'moriya',
+    # place names without diacritics
+    'andha', 'hatthi', 'himalaya', 'majjha', 'mohana', 'nicula',
+    'pavatta', 'papataka', 'sena', 'setabya', 'sippini', 'subhaga',
+    'sumitta', 'supassa', 'yona', 'beluva', 'ceta', 'vedeha', 'vassara',
+    'sumbha', 'amara', 'mekhala', 'kakkarapatta', 'indapattha',
+    'sattamba', 'jetuttara', 'maddakucchi', 'migapathaka',
+    'pubbavijjhana', 'kalandaka', 'kaddamadaha', 'bhagga', 'devavana',
+    'gotamaka', 'kakudha', 'khomadussa', 'sedaka', 'udena',
+    'uttarakuru', 'pubbavideha', 'andhakavinda', 'anoma', 'anotatta',
+    'aparanta', 'assattha', 'bahuputta', 'giribbaja', 'pippali',
+    'uruvelakappa', 'usabha', 'ambatittha', 'andhavana',
+    'subhagavana', 'khemiyambavana', 'ambara-ambaravati', 'dhammika',
+    'kapila',
 }
 # Map keys that are Vietnamese words / junk — never annotate.
 JUNK_KEYS = {
@@ -189,9 +205,11 @@ def lookup(word, name_map):
     lw = word.lower()
     for suf in SUFFIXES:
         if lw.endswith(suf) and len(word) - len(suf) >= 4:
-            sk = sd(word[:-len(suf)]).lower()
-            if sk in name_map and sk not in JUNK_KEYS:
-                return name_map[sk]
+            stem = word[:-len(suf)]
+            for cand in (stem, stem + 'a'):
+                sk = sd(cand).lower()
+                if sk in name_map and sk not in JUNK_KEYS:
+                    return name_map[sk]
     return None
 
 
@@ -208,7 +226,8 @@ def annotate_file(path, name_map):
     seen = set()
     out = []
     n_ann = 0
-    in_body = False
+    # .part files carry one section each and have no heading lines
+    in_body = path.endswith('.part')
     for ln in lines:
         hm = HEAD_RE.match(ln)
         if hm:
@@ -230,9 +249,16 @@ def annotate_file(path, name_map):
             w = m.group(0)
             for ps, pe in spans:
                 if ps <= s < pe:
+                    # name inside "(Pali)" ref — mark seen so re-runs stay
+                    # idempotent and later bare occurrences stay bare
+                    hit = gloss_for(w, name_map)
+                    if hit:
+                        seen.add(sd(hit[0]).lower())
                     return w
             # already glossed: "Name (gloss)" immediately after
             if ln[e:e + 2] == ' (':
+                hit = gloss_for(w, name_map)
+                seen.add(sd(hit[0]).lower() if hit else sd(w).lower())
                 return w
             hit = gloss_for(w, name_map)
             if not hit:
@@ -254,7 +280,9 @@ def main():
     name_map = load_map()
     print(f'{len(name_map)} names in map')
     total = 0
-    for f in sorted(glob.glob(DST, recursive=True)):
+    files = sorted(glob.glob(DST, recursive=True)) \
+        + sorted(glob.glob(DST_PARTS, recursive=True))
+    for f in files:
         new, n = annotate_file(f, name_map)
         total += n
         if apply and n:

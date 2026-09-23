@@ -13,8 +13,8 @@ _Trạng thái: đã dịch 80/80 đơn vị (1–80); đã trọn tập._
 
 === 1. Kinh Bồ-đề (Paṭhamabodhisuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Uruvelā, trên bờ sông
-Nerañjarā, dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Ưu lâu tần loa (Uruvelā), trên bờ sông
+Ni-liên-thiền (Nerañjarā), dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
 Thế Tôn ngồi kiết già suốt bảy ngày, thọ hưởng lạc giải thoát. Rồi sau khi
 bảy ngày ấy đã qua, Thế Tôn xuất khỏi định ấy, vào canh đầu đêm, khéo léo
 tác ý duyên khởi theo chiều thuận: "Khi cái này có, cái kia có; do cái này
@@ -35,8 +35,8 @@ vì vị ấy biết các pháp cùng với nhân của chúng."
 
 === 2. Kinh Bồ-đề (Dutiyabodhisuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Uruvelā, trên bờ sông
-Nerañjarā, dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Ưu lâu tần loa (Uruvelā), trên bờ sông
+Ni-liên-thiền (Nerañjarā), dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
 Thế Tôn ngồi kiết già suốt bảy ngày, thọ hưởng lạc giải thoát. Rồi sau khi
 bảy ngày ấy đã qua, Thế Tôn xuất khỏi định ấy, vào canh giữa đêm, khéo léo
 tác ý duyên khởi theo chiều nghịch: "Khi cái này không có, cái kia không
@@ -56,8 +56,8 @@ vì vị ấy đã biết sự diệt tận của các duyên."
 
 === 3. Kinh Bồ-đề (Tatiyabodhisuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Uruvelā, trên bờ sông
-Nerañjarā, dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Ưu lâu tần loa (Uruvelā), trên bờ sông
+Ni-liên-thiền (Nerañjarā), dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
 Thế Tôn ngồi kiết già suốt bảy ngày, thọ hưởng lạc giải thoát. Rồi sau khi
 bảy ngày ấy đã qua, Thế Tôn xuất khỏi định ấy, vào canh cuối đêm, khéo léo
 tác ý duyên khởi theo chiều thuận và chiều nghịch: "Khi cái này có, cái kia
@@ -85,13 +85,13 @@ như mặt trời chiếu sáng giữa hư không."
 
 === 4. Kinh Hum-hung-ca (Huṃhuṅkasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Uruvelā, trên bờ sông
-Nerañjarā, dưới cây Ajapālanigrodha, lúc mới chứng Chánh Đẳng Giác. Lúc bấy
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Ưu lâu tần loa (Uruvelā), trên bờ sông
+Ni-liên-thiền (Nerañjarā), dưới cây Ajapālanigrodha, lúc mới chứng Chánh Đẳng Giác. Lúc bấy
 giờ, Thế Tôn ngồi kiết già suốt bảy ngày, thọ hưởng lạc giải thoát. Rồi sau
 khi bảy ngày ấy đã qua, Thế Tôn xuất khỏi định ấy. Rồi một Bà-la-môn thuộc
 hạng hay hừ hừ đi đến chỗ Thế Tôn; đến rồi, hỏi thăm Thế Tôn. Sau khi nói
 những lời hỏi thăm thân mật, ông đứng sang một bên. Đứng sang một bên, vị
-Bà-la-môn ấy bạch Thế Tôn: "Thưa Tôn giả Gotama, thế nào thì người ta là
+Bà-la-môn ấy bạch Thế Tôn: "Thưa Tôn giả Cù-đàm (Gotama), thế nào thì người ta là
 Bà-la-môn, và những pháp nào làm nên Bà-la-môn?" Rồi Thế Tôn, sau khi hiểu
 rõ ý ấy, ngay lúc đó nói lên lời cảm hứng này: \
 "Vị Bà-la-môn đã gạt bỏ các pháp ác, \
@@ -104,11 +104,11 @@ với ai không còn sự tăng thịnh nào ở bất cứ đâu trên đời."
 
 === 5. Kinh Bà-la-môn (Brāhmaṇasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta, Tôn
-giả Mahāmoggallāna, Tôn giả Mahākassapa, Tôn giả Mahākaccāna, Tôn giả
-Mahākoṭṭhika, Tôn giả Mahākappina, Tôn giả Mahācunda, Tôn giả Anuruddha,
-Tôn giả Revata và Tôn giả Nanda đi đến chỗ Thế Tôn. Thế Tôn thấy các Tôn
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta), Tôn
+giả Mục Kiền Liên (Mahāmoggallāna), Tôn giả Ma-ha-ca-diếp (Mahākassapa), Tôn giả Đại Ca-chiên-diên (Mahākaccāna), Tôn giả
+Ma-ha-câu-hi-la (Mahākoṭṭhika), Tôn giả Kiếp-tân-na (Mahākappina), Tôn giả Đại-Thuần-đà (Mahācunda), Tôn giả A-na-luật-đà (Anuruddha),
+Tôn giả Ly-bà-đa (Revata) và Tôn giả Nanda đi đến chỗ Thế Tôn. Thế Tôn thấy các Tôn
 giả ấy từ xa đang đi tới; thấy vậy, Ngài gọi các Tỷ-kheo: "Này các thầy,
 các vị Bà-la-môn ấy đang đi tới; này các thầy, các vị Bà-la-môn ấy đang đi
 tới." Được nói vậy, một Tỷ-kheo thuộc dòng Bà-la-môn bạch Thế Tôn: "Bạch
@@ -124,9 +124,9 @@ chính họ là Bà-la-môn ở đời."
 
 === 6. Kinh Ma-ha-ca-diếp (Mahākassapasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, chỗ nuôi sóc Kalandaka. Lúc bấy giờ, Tôn giả Mahākassapa ngụ tại
-hang Pippaliguhā, đang bệnh, khổ sở, ốm nặng. Rồi một thời gian sau, Tôn
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), chỗ nuôi sóc Ca-lan-đa-ca (Kalandaka). Lúc bấy giờ, Tôn giả Ma-ha-ca-diếp (Mahākassapa) ngụ tại
+hang Bi-ba-li-gu-ha (Pippaliguhā), đang bệnh, khổ sở, ốm nặng. Rồi một thời gian sau, Tôn
 giả Mahākassapa khỏi bệnh ấy. Khi đã khỏi bệnh, Tôn giả Mahākassapa nghĩ:
 "Hay là ta vào Rājagaha để khất thực." Lúc bấy giờ, khoảng năm trăm chư
 thiên đang sốt sắng lo liệu để Tôn giả Mahākassapa nhận được đồ ăn khất
@@ -146,7 +146,7 @@ Ta gọi người ấy là Bà-la-môn."
 
 === 7. Kinh A-xa-ca-la-ba-ca (Ajakalāpakasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Pāvā, ở đền Ajakalāpaka,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Ba-vã (Pāvā), ở đền A-xa-ca-la-ba-ca (Ajakalāpaka),
 trong trú xứ của Dạ-xoa Ajakalāpaka. Lúc bấy giờ, Thế Tôn đang ngồi ngoài
 trời trong đêm tối mịt mùng; trời thì mưa từng hạt. Rồi Dạ-xoa Ajakalāpaka,
 muốn làm Thế Tôn sinh sợ hãi, khiếp đảm, lông tóc dựng ngược, đi đến chỗ
@@ -162,8 +162,8 @@ cả quỷ Pisāca lẫn sự rối loạn."
 
 === 8. Kinh San-ga-ma-xi (Saṅgāmajisuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Saṅgāmaji đã đến
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Saṅgāmaji đã đến
 Sāvatthi để yết kiến Thế Tôn. Người vợ cũ của Tôn giả Saṅgāmaji nghe tin:
 "Nghe nói Ngài Saṅgāmaji đã đến Sāvatthi." Nàng bồng đứa trẻ, đi đến
 Jetavana. Lúc bấy giờ, Tôn giả Saṅgāmaji đang ngồi nghỉ ban ngày dưới một
@@ -192,7 +192,7 @@ Ta gọi người ấy là Bà-la-môn."
 
 === 9. Kinh Bện Tóc (Jaṭilasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Gayā, trên đồi Gayāsīsa.
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Già-da (Gayā), trên đồi Ga-da-si-sa (Gayāsīsa).
 Lúc bấy giờ, nhiều vị Jaṭila, vào những đêm đông giá lạnh, trong khoảng
 tám ngày giữa mùa tuyết rơi, ở sông Gayā, lúc thì nổi lên, lúc thì lặn
 xuống, lúc thì nổi lên rồi lặn xuống, lúc thì té nước, lúc thì cúng lửa:
@@ -210,8 +210,8 @@ người ấy trong sạch, người ấy là Bà-la-môn."
 
 === 10. Kinh Bà-hi (Bāhiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Bāhiya Dārucīriya sống
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Bà-hi (Bāhiya) Đầu-mộc (Dārucīriya) sống
 tại Suppāraka, trên bờ biển, được cung kính, tôn trọng, kính nể, cúng
 dường, lễ bái, nhận được y phục, đồ ăn khất thực, chỗ ở, thuốc men trị
 bệnh. Rồi Bāhiya Dārucīriya, khi đã đi vào nơi vắng, độc cư, khởi lên tầm
@@ -236,7 +236,7 @@ Giác." "Này Bāhiya, Thế Tôn đã vào trong xóm để khất thực." R�
 Dārucīriya vội vã rời Jetavana, vào Sāvatthi, thấy Thế Tôn đang đi khất
 thực trong Sāvatthi — dung nghi thanh tịnh, đáng sanh tịnh tín, các căn an
 tịnh, tâm an tịnh, đã đạt đến sự điều phục và chỉ tịnh tối thượng, đã được
-điều phục, được hộ trì, các căn được chế ngự, như một vị Nāga. Thấy vậy,
+điều phục, được hộ trì, các căn được chế ngự, như một vị Na-già (Nāga). Thấy vậy,
 ông đi đến chỗ Thế Tôn; đến rồi, cúi đầu sát chân Thế Tôn, bạch Thế Tôn:
 "Bạch Thế Tôn, xin Thế Tôn thuyết pháp cho con; xin Thiện Thệ thuyết pháp,
 điều sẽ đưa đến lợi ích, an lạc cho con trong thời gian dài." Được nói vậy,
@@ -297,19 +297,19 @@ Lời cảm hứng này cũng được Thế Tôn nói; tôi đã nghe như vậ
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
 Ba kinh Bồ-đề và Huṃhuṅka, \
-Bà-la-môn cùng Kassapa; \
-Aja, Saṅgāma, các Jaṭila, \
+Bà-la-môn cùng Ca-diếp (Kassapa); \
+A-xa (Aja), Sang-ga-ma (Saṅgāma), các Jaṭila, \
 cùng Bāhiya — ấy là mười.
 
 == 2. Phẩm Mục Kiền Liên Đà (Mucalindavaggo)
 
 === 11. Kinh Mục Kiền Liên Đà (Mucalindasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Uruvelā, trên bờ sông
-Nerañjarā, dưới gốc cây Mucalinda, lúc mới chứng Chánh Đẳng Giác. Lúc bấy
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Ưu lâu tần loa (Uruvelā), trên bờ sông
+Ni-liên-thiền (Nerañjarā), dưới gốc cây Mucalinda, lúc mới chứng Chánh Đẳng Giác. Lúc bấy
 giờ, Thế Tôn ngồi kiết già suốt bảy ngày, thọ hưởng lạc giải thoát. Lúc bấy
 giờ, một cơn mưa trái mùa lớn nổi lên, suốt bảy ngày mưa dầm, gió lạnh, trời
-u ám. Rồi vua Nāga Mucalinda ra khỏi trú xứ của mình, quấn thân Thế Tôn bảy
+u ám. Rồi vua Na-già (Nāga) Mucalinda ra khỏi trú xứ của mình, quấn thân Thế Tôn bảy
 vòng bằng những vòng thân, rồi đứng đó, giương cái mào lớn lên trên đỉnh
 đầu: "Chớ để lạnh chạm Thế Tôn, chớ để nóng chạm Thế Tôn, chớ để sự xúc
 chạm của ruồi muỗi, gió, nắng, rắn rết chạm Thế Tôn." Rồi sau khi bảy ngày
@@ -331,13 +331,13 @@ sự điều phục ngã mạn 'tôi là' — \
 
 === 12. Kinh Vua (Rājasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều Tỷ-kheo, sau khi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều Tỷ-kheo, sau khi
 thọ thực, đi khất thực trở về, đang ngồi họp tại nhà hội, câu chuyện này
 khởi lên giữa họ: "Này chư Hiền, trong hai vị vua này, ai giàu hơn, có tài
 sản lớn hơn, có kho tàng lớn hơn, có lãnh thổ lớn hơn, có xe cộ lớn hơn, có
 quân lực lớn hơn, có thần lực lớn hơn, có uy lực lớn hơn — vua Seniya
-Bimbisāra nước Magadha, hay vua Pasenadi nước Kosala?" Đây là câu chuyện
+Tần-bà-sa (Bimbisāra) nước Ma-kiệt-đà (Magadha), hay vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala)?" Đây là câu chuyện
 giữa các Tỷ-kheo ấy còn đang dở. Rồi Thế Tôn, vào buổi chiều, xuất khỏi độc
 cư, đi đến nhà hội; đến rồi, ngồi trên chỗ ngồi đã soạn sẵn. Ngồi xuống,
 Thế Tôn gọi các Tỷ-kheo: "Này các thầy, các thầy đang ngồi họp với câu
@@ -362,8 +362,8 @@ không bằng một phần mười sáu."
 
 === 13. Kinh Gậy (Daṇḍasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều đứa trẻ, giữa
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều đứa trẻ, giữa
 Sāvatthi và Jetavana, đang đánh một con rắn bằng gậy. Rồi vào buổi sáng,
 Thế Tôn đắp y, cầm y bát, vào Sāvatthi để khất thực. Thế Tôn thấy nhiều đứa
 trẻ, giữa Sāvatthi và Jetavana, đang đánh một con rắn bằng gậy. Rồi Thế
@@ -381,8 +381,8 @@ sau khi chết được vui."
 
 === 14. Kinh Cung Kính (Sakkārasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Thế Tôn được cung kính,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Thế Tôn được cung kính,
 tôn trọng, kính nể, cúng dường, lễ bái, nhận được y phục, đồ ăn khất thực,
 chỗ ở, thuốc men trị bệnh. Chúng Tỷ-kheo cũng được cung kính, tôn trọng,
 kính nể, cúng dường, lễ bái, nhận được y phục, đồ ăn khất thực, chỗ ở,
@@ -414,8 +414,8 @@ không còn sở y, xúc lấy gì mà chạm được?"
 
 === 15. Kinh Cư Sĩ (Upāsakasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, một cư sĩ ở Icchānaṅgala
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, một cư sĩ ở Ic-ha-nang-ga-la (Icchānaṅgala)
 đã đến Sāvatthi vì một công việc nào đó. Rồi vị cư sĩ ấy, sau khi xong công
 việc ở Sāvatthi, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống
 một bên. Thế Tôn nói với vị cư sĩ đang ngồi một bên: "Này cư sĩ, đã lâu ông
@@ -432,8 +432,8 @@ người bị trói buộc giữa người."
 
 === 16. Kinh Người Mang Thai (Gabbhinīsuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, một du sĩ có người vợ
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, một du sĩ có người vợ
 trẻ, một thiếu nữ, đang mang thai, gần ngày sanh. Rồi vị du sĩ nữ ấy nói
 với vị du sĩ: "Này Bà-la-môn, ông hãy đi lấy dầu, thứ sẽ dùng khi tôi
 sanh." Được nói vậy, vị du sĩ nói với vị du sĩ nữ ấy: "Thưa nàng, tôi lấy
@@ -441,7 +441,7 @@ dầu từ đâu?" Lần thứ hai, vị du sĩ nữ ấy nói với vị du sĩ
 ông hãy đi lấy dầu, thứ sẽ dùng khi tôi sanh." Lần thứ hai, vị du sĩ nói
 với vị du sĩ nữ ấy: "Thưa nàng, tôi lấy dầu từ đâu?" Lần thứ ba, vị du sĩ nữ
 ấy nói với vị du sĩ: "Này Bà-la-môn, ông hãy đi lấy dầu, thứ sẽ dùng khi
-tôi sanh." Lúc bấy giờ, trong kho của vua Pasenadi nước Kosala, bơ lỏng hay
+tôi sanh." Lúc bấy giờ, trong kho của vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala), bơ lỏng hay
 dầu được cho Sa-môn hay Bà-la-môn uống bao nhiêu tùy thích, nhưng không
 được mang đi. Rồi vị du sĩ ấy nghĩ: "Trong kho của vua Pasenadi nước
 Kosala, bơ lỏng hay dầu được cho Sa-môn hay Bà-la-môn uống bao nhiêu tùy
@@ -463,8 +463,8 @@ người với tâm bị trói buộc giữa người."
 
 === 17. Kinh Con Một (Ekaputtakasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, người con một yêu quý,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, người con một yêu quý,
 dễ thương của một cư sĩ đã chết. Rồi nhiều cư sĩ, áo ướt, tóc ướt, giữa ban
 ngày đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên.
 Thế Tôn nói với các cư sĩ đang ngồi một bên: "Này các cư sĩ, sao các ông
@@ -485,8 +485,8 @@ mồi của Thần Chết, khó vượt qua."
 
 === 18. Kinh Su-ba-ba-sa (Suppavāsāsuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Kuṇḍikā, trong rừng
-Kuṇḍadhānavana. Lúc bấy giờ, Suppavāsā, con gái dân Koliya, mang thai bảy
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Cun-đi-ca (Kuṇḍikā), trong rừng
+Cun-đa-đa-na-ba-na (Kuṇḍadhānavana). Lúc bấy giờ, Su-ba-ba-sa (Suppavāsā), con gái dân Cô-li-da (Koliya), mang thai bảy
 năm. Suốt bảy ngày bị nghén khó, bà bị các cảm thọ khổ, dữ dội, thô ráp,
 chua xót chạm đến, chịu đựng với ba tầm tư: "Thật là Chánh Đẳng Giác, Thế
 Tôn ấy, vị thuyết pháp để đoạn trừ khổ như thế này; thật là khéo thực hành,
@@ -541,8 +541,8 @@ thai bảy năm. Suốt bảy ngày bị nghén khó, nay bà được an vui, k
 thọ trai trong bảy ngày. Bạch Thế Tôn, xin Thế Tôn nhận lời bảy bữa ăn của
 Suppavāsā, con gái dân Koliya, cùng với chúng Tỷ-kheo.'" Lúc bấy giờ, một
 cư sĩ khác đã thỉnh chúng Tỷ-kheo với Phật là thượng thủ thọ trai vào ngày
-mai. Cư sĩ ấy là người hộ trì Tôn giả Mahāmoggallāna. Rồi Thế Tôn gọi Tôn
-giả Mahāmoggallāna: "Này Moggallāna, hãy đến chỗ cư sĩ ấy; đến rồi, hãy nói
+mai. Cư sĩ ấy là người hộ trì Tôn giả Mục Kiền Liên (Mahāmoggallāna). Rồi Thế Tôn gọi Tôn
+giả Mahāmoggallāna: "Này Mục-kiền-liên (Moggallāna), hãy đến chỗ cư sĩ ấy; đến rồi, hãy nói
 với cư sĩ ấy như vầy: 'Này hiền giả, Suppavāsā, con gái dân Koliya, mang
 thai bảy năm. Suốt bảy ngày bị nghén khó, nay bà được an vui, không bệnh,
 đã sanh con không bệnh. Bà xin thỉnh chúng Tỷ-kheo với Phật là thượng thủ
@@ -566,7 +566,7 @@ Suppavāsā, con gái dân Koliya, cúng dường bảy bữa ăn, sau đó ông
 làm." Rồi Suppavāsā, con gái dân Koliya, suốt bảy ngày tự tay cúng dường,
 làm cho no đủ chúng Tỷ-kheo với Phật là thượng thủ bằng các món ăn cứng và
 mềm thượng hạng, và bà bảo đứa trẻ đảnh lễ Thế Tôn cùng toàn thể chúng
-Tỷ-kheo. Rồi Tôn giả Sāriputta nói với đứa trẻ ấy: "Này bé, con chịu đựng
+Tỷ-kheo. Rồi Tôn giả Xá-lợi-phất (Sāriputta) nói với đứa trẻ ấy: "Này bé, con chịu đựng
 được chứ, con sống được chứ, con không có gì khổ chứ?" "Bạch Tôn giả
 Sāriputta, làm sao con chịu đựng được, làm sao con sống được! Con đã sống
 bảy năm trong chum máu." Rồi Suppavāsā, con gái dân Koliya — "Con ta đang
@@ -585,9 +585,9 @@ chúng vượt qua kẻ phóng dật."
 
 === 19. Kinh Tỳ-xá-khư (Visākhāsuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong
-Pubbārāma, tại giảng đường của Migāramātā. Lúc bấy giờ, Visākhā, mẹ của
-Migāra, có một việc gì đó bị ràng buộc nơi vua Pasenadi xứ Kosala. Vua
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong
+Đông Viên (Pubbārāma), tại giảng đường của Lộc Mẫu (Migāramātā). Lúc bấy giờ, Tỳ-xá-khư (Visākhā), mẹ của
+Di-già-la (Migāra), có một việc gì đó bị ràng buộc nơi vua Ba-tư-nặc (Pasenadi) xứ Câu-tát-la (Kosala). Vua
 Pasenadi xứ Kosala không giải quyết việc ấy theo ý bà muốn. Rồi Visākhā,
 mẹ của Migāra, giữa ban ngày đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn
 và ngồi xuống một bên. Thế Tôn nói với Visākhā, mẹ của Migāra, đang ngồi
@@ -604,8 +604,8 @@ vì các kiết phược thật khó vượt qua."
 
 === 20. Kinh Ba-đi-da (Bhaddiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Anupiyā, trong
-Ambavana. Lúc bấy giờ, Tôn giả Bhaddiya, con của Kāḷīgodhā, dù đi vào
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại A-dật-di (Anupiyā), trong
+Ambavana. Lúc bấy giờ, Tôn giả Ba-đi-da (Bhaddiya), con của Ca-li-gô-đa (Kāḷīgodhā), dù đi vào
 rừng, dù ngồi dưới gốc cây, dù vào nhà trống, cũng thường nói lên lời cảm
 hứng: "Ôi hạnh phúc thay! Ôi hạnh phúc thay!" Nhiều Tỷ-kheo nghe Tôn giả
 Bhaddiya, con của Kāḷīgodhā, dù đi vào rừng, dù ngồi dưới gốc cây, dù vào
@@ -668,15 +668,15 @@ chư thiên cũng không sao thấy được."
 Mucalinda, vua, cùng với gậy, \
 cung kính và cư sĩ; \
 người mang thai, con một, \
-Suppavāsā và Visākhā; \
+Su-ba-ba-sa (Suppavāsā) và Tỳ-xá-khư (Visākhā); \
 Bhaddiya con của Kāḷīgodhā.
 
 == 3. Phẩm Nan-đa (Nandavaggo)
 
 === 21. Kinh Quả Nghiệp Sanh (Kammavipākajasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, có một Tỷ-kheo ngồi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, có một Tỷ-kheo ngồi
 không xa Thế Tôn, xếp chân kiết già, giữ thân thẳng, đang kham nhẫn cảm
 thọ khổ — thống thiết, gay gắt, chua chát — sanh từ quả dị thục của nghiệp
 xưa, chánh niệm, tỉnh giác, không bị hành hạ. Thế Tôn thấy Tỷ-kheo ấy ngồi
@@ -693,8 +693,8 @@ không còn việc gì phải nói với đời."
 
 === 22. Kinh Nan-đa (Nandasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Nanda, em trai
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Nanda, em trai
 của Thế Tôn, con của dì, nói với nhiều Tỷ-kheo như vầy: "Này chư hiền, tôi
 sống Phạm hạnh mà không hoan hỷ; tôi không thể duy trì Phạm hạnh; tôi sẽ
 từ bỏ học pháp và hoàn tục." Rồi một Tỷ-kheo đi đến chỗ Thế Tôn; đến rồi,
@@ -715,15 +715,15 @@ ngồi một bên: "Này Nanda, có phải thầy đã nói với nhiều Tỷ-k
 Phạm hạnh; tôi sẽ từ bỏ học pháp và hoàn tục'?" "Thật vậy, bạch Thế Tôn."
 "Này Nanda, vì sao thầy sống Phạm hạnh mà không hoan hỷ, không thể duy trì
 Phạm hạnh, sẽ từ bỏ học pháp và hoàn tục?" "Bạch Thế Tôn, khi con rời nhà,
-người thiếu nữ Sakya, vẻ đẹp của xứ sở, với tóc còn chải dở, ngoảnh lại
+người thiếu nữ Thích-ca (Sakya), vẻ đẹp của xứ sở, với tóc còn chải dở, ngoảnh lại
 nói với con: 'Thưa quý tử, hãy mau trở về.' Bạch Thế Tôn, chính vì nhớ đến
 người ấy, con sống Phạm hạnh mà không hoan hỷ, không thể duy trì Phạm
 hạnh, sẽ từ bỏ học pháp và hoàn tục."
 
 Rồi Thế Tôn nắm tay Tôn giả Nanda — ví như người lực sĩ duỗi cánh tay đang
 co, hoặc co cánh tay đang duỗi — cũng vậy, biến mất ở Jetavana, hiện ra
-giữa chư thiên Tāvatiṃsa. Lúc bấy giờ, có khoảng năm trăm thiên nữ chân bồ
-câu đến hầu Sakka, vua chư thiên. Rồi Thế Tôn bảo Tôn giả Nanda: "Này
+giữa chư thiên Tam thập tam thiên (Tāvatiṃsa). Lúc bấy giờ, có khoảng năm trăm thiên nữ chân bồ
+câu đến hầu Thích-ca (Sakka), vua chư thiên. Rồi Thế Tôn bảo Tôn giả Nanda: "Này
 Nanda, thầy có thấy năm trăm thiên nữ chân bồ câu này không?" "Thấy, bạch
 Thế Tôn." "Này Nanda, thầy nghĩ thế nào: ai xinh đẹp hơn, đáng nhìn hơn,
 dễ mến hơn — người thiếu nữ Sakya, vẻ đẹp của xứ sở, hay năm trăm thiên nữ
@@ -788,11 +788,11 @@ Tỷ-kheo ấy không dao động giữa lạc và khổ."
 
 === 23. Kinh Da-sô-xa (Yasojasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, khoảng năm trăm Tỷ-kheo
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, khoảng năm trăm Tỷ-kheo
 do Yasoja dẫn đầu đã đến Sāvatthi để yết kiến Thế Tôn. Các Tỷ-kheo khách
 ấy, trong khi chào hỏi các Tỷ-kheo thường trú, sắp đặt chỗ nằm ngồi, cất
-bát và y, đã ồn ào, nói lớn. Rồi Thế Tôn gọi Tôn giả Ānanda: "Này Ānanda,
+bát và y, đã ồn ào, nói lớn. Rồi Thế Tôn gọi Tôn giả A-nan (Ānanda): "Này Ānanda,
 những người nào đang ồn ào, nói lớn như vậy — tưởng như dân chài đang giành
 cá?" "Bạch Thế Tôn, khoảng năm trăm Tỷ-kheo do Yasoja dẫn đầu đã đến
 Sāvatthi để yết kiến Thế Tôn. Các Tỷ-kheo khách ấy, trong khi chào hỏi các
@@ -810,9 +810,9 @@ chào hỏi các Tỷ-kheo thường trú, sắp đặt chỗ nằm ngồi, cấ
 ào, nói lớn." "Này các thầy, hãy đi. Ta đuổi các thầy; các thầy không được
 ở gần Ta." "Xin vâng, bạch Thế Tôn." Các Tỷ-kheo ấy đáp lời Thế Tôn, từ chỗ
 ngồi đứng dậy, đảnh lễ Thế Tôn, đi nhiễu bên phải, thu dọn chỗ nằm ngồi,
-cầm bát và y, ra đi du hành về phía xứ Vajji.
+cầm bát và y, ra đi du hành về phía xứ Bạt-kỳ (Vajji).
 
-Trong khi tuần tự du hành ở xứ Vajji, họ đi đến sông Vaggumudā; đến rồi,
+Trong khi tuần tự du hành ở xứ Vajji, họ đi đến sông Ba-gu-mu-đa (Vaggumudā); đến rồi,
 làm am lá trên bờ sông Vaggumudā và vào mùa mưa. Rồi Tôn giả Yasoja, khi
 đã vào mùa mưa, bảo các Tỷ-kheo: "Này chư hiền, chúng ta đã bị Thế Tôn
 đuổi — Ngài vì muốn lợi ích, vì tìm hạnh phúc, vì lòng từ mẫn, do lòng từ
@@ -822,8 +822,8 @@ giả Yasoja. Rồi các Tỷ-kheo ấy sống viễn ly, không phóng dật, n
 quyết chí, và ngay trong mùa mưa ấy, tất cả đều chứng ngộ ba minh.
 
 Rồi Thế Tôn, sau khi ngụ tại Sāvatthi theo ý muốn, ra đi du hành về phía
-Vesālī. Trong khi tuần tự du hành, Ngài đến Vesālī. Tại đấy, Thế Tôn ngụ ở
-Vesālī, trong Mahāvana, tại Kūṭāgārasālā. Rồi Thế Tôn, sau khi lấy
+Tỳ-xá-ly (Vesālī). Trong khi tuần tự du hành, Ngài đến Vesālī. Tại đấy, Thế Tôn ngụ ở
+Vesālī, trong Đại Lâm (Mahāvana), tại Giảng đường Trùng Các (Kūṭāgārasālā). Rồi Thế Tôn, sau khi lấy
 tâm bao trùm tâm của các Tỷ-kheo ở bờ sông Vaggumudā mà tác ý, gọi Tôn giả
 Ānanda: "Này Ānanda, phương ấy đối với Ta như đã sanh ánh sáng; này
 Ānanda, phương ấy đối với Ta như đã sanh hào quang — phương mà các Tỷ-kheo
@@ -878,8 +878,8 @@ Tỷ-kheo ấy không rung trước lạc và khổ."
 
 === 24. Kinh Xá-lợi-phất (Sāriputtasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta ngồi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta) ngồi
 không xa Thế Tôn, xếp chân kiết già, giữ thân thẳng, an trú chánh niệm
 trước mặt. Thế Tôn thấy Tôn giả Sāriputta ngồi không xa, xếp chân kiết
 già, giữ thân thẳng, an trú chánh niệm trước mặt. Rồi Thế Tôn, sau khi
@@ -892,8 +892,8 @@ như núi, không dao động."
 
 === 25. Kinh Mục Kiền Liên (Mahāmoggallānasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Mahāmoggallāna
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Mục Kiền Liên (Mahāmoggallāna)
 ngồi không xa Thế Tôn, xếp chân kiết già, giữ thân thẳng, với niệm thân đã
 được an trú khéo léo nội tâm. Thế Tôn thấy Tôn giả Mahāmoggallāna ngồi
 không xa, xếp chân kiết già, giữ thân thẳng, với niệm thân đã được an trú
@@ -908,8 +908,8 @@ sẽ tự biết Niết-bàn của mình."
 
 === 26. Kinh Pi-lin-đa-vát-xa (Pilindavacchasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, tại Kalandakanivāpa. Lúc bấy giờ, Tôn giả Pilindavaccha gọi các
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), tại Ca-lan-đà (Kalandakanivāpa). Lúc bấy giờ, Tôn giả Pilindavaccha gọi các
 Tỷ-kheo bằng tiếng "hạ tiện". Rồi nhiều Tỷ-kheo đi đến chỗ Thế Tôn; đến
 rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi xuống một bên, các Tỷ-kheo
 ấy bạch Thế Tôn: "Bạch Thế Tôn, Tôn giả Pilindavaccha gọi các Tỷ-kheo bằng
@@ -942,9 +942,9 @@ người ấy là Bà-la-môn, là Sa-môn, là Tỷ-kheo."
 
 === 27. Kinh Đế Thích Tự Thuyết (Sakkudānasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, tại Kalandakanivāpa. Lúc bấy giờ, Tôn giả Mahākassapa ngụ tại
-hang Pipphali, ngồi bảy ngày trong một thế kiết già, đã nhập một định nào
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), tại Ca-lan-đà (Kalandakanivāpa). Lúc bấy giờ, Tôn giả Ma-ha-ca-diếp (Mahākassapa) ngụ tại
+hang Bip-ha-li (Pipphali), ngồi bảy ngày trong một thế kiết già, đã nhập một định nào
 đó. Rồi Tôn giả Mahākassapa, sau khi bảy ngày ấy đã qua, xuất khỏi định
 ấy. Khi đã xuất khỏi định, Tôn giả Mahākassapa nghĩ: "Hay là ta hãy vào
 Rājagaha để khất thực."
@@ -954,7 +954,7 @@ khất thực cho Tôn giả Mahākassapa. Tôn giả Mahākassapa từ chối k
 trăm chư thiên ấy, rồi vào buổi sáng đắp y, cầm bát, vào Rājagaha để khất
 thực.
 
-Lúc bấy giờ, Sakka, vua chư thiên, muốn cúng dường đồ ăn khất thực cho Tôn
+Lúc bấy giờ, Thích-ca (Sakka), vua chư thiên, muốn cúng dường đồ ăn khất thực cho Tôn
 giả Mahākassapa. Ông hóa hiện hình dáng thợ dệt, đang dệt khung cửi. Sujā,
 thiếu nữ A-tu-la, đang tra suốt chỉ. Rồi Tôn giả Mahākassapa, trong khi đi
 khất thực tuần tự từng nhà ở Rājagaha, đi đến nhà của Sakka, vua chư
@@ -966,7 +966,7 @@ cơm từ nồi đổ đầy bát, rồi dâng cho Tôn giả Mahākassapa. Đ�
 Rồi Tôn giả Mahākassapa nghĩ: "Chúng sanh này là ai mà có thần lực như
 vậy?" Rồi Tôn giả Mahākassapa nghĩ: "Đây chính là Sakka, vua chư thiên."
 Biết vậy, ông nói với Sakka, vua chư thiên: "Này Kosiya, ông đã làm việc
-này rồi; chớ làm như vậy nữa." "Bạch Tôn giả Kassapa, chúng tôi cũng cần
+này rồi; chớ làm như vậy nữa." "Bạch Tôn giả Ca-diếp (Kassapa), chúng tôi cũng cần
 phước; chúng tôi cũng phải làm phước."
 
 Rồi Sakka, vua chư thiên, đảnh lễ Tôn giả Mahākassapa, đi nhiễu bên phải,
@@ -990,9 +990,9 @@ vị đã tịnh chỉ, thường chánh niệm."
 
 === 28. Kinh Khất Thực (Piṇḍapātikasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều Tỷ-kheo, sau bữa
-ăn, từ khất thực trở về, ngồi họp tại nhà tròn Kareri, câu chuyện này khởi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều Tỷ-kheo, sau bữa
+ăn, từ khất thực trở về, ngồi họp tại nhà tròn Hoa Lâm (Kareri), câu chuyện này khởi
 lên giữa họ: "Này chư hiền, Tỷ-kheo sống bằng khất thực, khi đi khất thực,
 thỉnh thoảng được thấy sắc đẹp nơi mắt, thỉnh thoảng được nghe tiếng hay
 nơi tai, thỉnh thoảng được ngửi hương thơm nơi mũi, thỉnh thoảng được nếm
@@ -1033,8 +1033,8 @@ nếu vị ấy không nương danh tiếng."
 
 === 29. Kinh Nghề (Sippasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều Tỷ-kheo, sau bữa
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều Tỷ-kheo, sau bữa
 ăn, từ khất thực trở về, ngồi họp tại nhà tròn, câu chuyện này khởi lên
 giữa họ: "Này chư hiền, ai biết nghề? Ai đã học nghề gì? Nghề nào là tối
 thắng trong các nghề?" Ở đấy, một số nói: "Nghề voi là tối thắng trong các
@@ -1076,8 +1076,8 @@ bỏ mạn, sống một mình — ấy là Tỷ-kheo."
 
 === 30. Kinh Thế Gian (Lokasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Uruvelā, trên bờ sông
-Nerañjarā, dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Ưu lâu tần loa (Uruvelā), trên bờ sông
+Ni-liên-thiền (Nerañjarā), dưới gốc cây Bồ-đề, lúc mới chứng Chánh Đẳng Giác. Lúc bấy giờ,
 Thế Tôn ngồi kiết già suốt bảy ngày, thọ hưởng lạc giải thoát.
 Rồi Thế Tôn, sau khi bảy ngày ấy đã qua, xuất khỏi định ấy, dùng Phật nhãn
 quán sát thế gian. Thế Tôn, trong khi dùng Phật nhãn quán sát, thấy chúng
@@ -1119,24 +1119,24 @@ bậc như như đã vượt khỏi mọi hữu."
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
 Nghiệp, Nanda và Yasoja, \
-Sāriputta và Kolita; \
-Pilinda, Kassapa, khất thực, \
+Xá-lợi-phất (Sāriputta) và Kolita; \
+Pilinda, Ca-diếp (Kassapa), khất thực, \
 nghề cùng thế gian — ấy là mười.
 
 == 4. Phẩm Mê-ghi-da (Meghiyavaggo)
 
 === 31. Kinh Mê-ghi-da (Meghiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Cālikā, trên núi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xa-li-ca (Cālikā), trên núi
 Cālika. Lúc bấy giờ, Tôn giả Meghiya là thị giả của Thế Tôn. Rồi Tôn giả
 Meghiya đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên.
 Đứng qua một bên, Tôn giả Meghiya bạch Thế Tôn: "Bạch Thế Tôn, con muốn
-vào làng Jantugāma để khất thực." "Này Meghiya, thầy hãy làm những gì thầy
+vào làng Xà-đấu (Jantugāma) để khất thực." "Này Meghiya, thầy hãy làm những gì thầy
 nghĩ là đúng thời."
 
 Rồi Tôn giả Meghiya, vào buổi sáng đắp y, cầm bát, vào làng Jantugāma để
 khất thực. Khất thực ở làng Jantugāma xong, sau bữa ăn, từ khất thực trở
-về, ông đi đến bờ sông Kimikāḷā. Tôn giả Meghiya, trong khi đi qua lại dạo
+về, ông đi đến bờ sông Ci-mi-ca-la (Kimikāḷā). Tôn giả Meghiya, trong khi đi qua lại dạo
 chân trên bờ sông Kimikāḷā, thấy một khu rừng xoài xinh đẹp, khả ái, đáng
 ưa. Thấy vậy, ông nghĩ: "Khu rừng xoài này thật xinh đẹp, khả ái, đáng ưa.
 Đủ cho thiện nam tử muốn tinh cần, để tinh cần. Nếu Thế Tôn cho phép, ta
@@ -1192,7 +1192,7 @@ lành. Này Meghiya, khi tâm giải thoát chưa chín muồi, đây là pháp 
 đưa đến sự chín muồi.
 
 Lại nữa, này Meghiya, Tỷ-kheo có giới, sống thu thúc với sự thu thúc của
-Pātimokkha, đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ
+Ba-la-đề-mộc-xoa (Pātimokkha), đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ
 nhặt, thọ trì và học tập trong các học pháp. Này Meghiya, khi tâm giải
 thoát chưa chín muồi, đây là pháp thứ hai đưa đến sự chín muồi.
 
@@ -1260,8 +1260,8 @@ bậc Giác Ngộ đã bỏ hết, không dư tàn."
 
 === 32. Kinh Trạo Cử (Uddhatasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Kusinārā, trong
-Upavattana, rừng sāla của dân Malla. Lúc bấy giờ, nhiều Tỷ-kheo ngụ không
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Câu-thi-na (Kusinārā), trong
+Hồ-bạt-đan (Upavattana), rừng sāla của dân Mạt- la (Malla). Lúc bấy giờ, nhiều Tỷ-kheo ngụ không
 xa Thế Tôn, tại một am trong rừng, trạo cử, kiêu căng, dao động, lắm lời,
 nói lung tung, thất niệm, không tỉnh giác, không định tĩnh, tâm tán loạn,
 các căn buông lung. Thế Tôn thấy nhiều Tỷ-kheo ấy ngụ không xa, tại một am
@@ -1283,7 +1283,7 @@ bỏ hết mọi đường dữ."
 
 === 33. Kinh Người Chăn Bò (Gopālakasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn đang du hành giữa dân Kosala
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn đang du hành giữa dân Câu-tát-la (Kosala)
 cùng với đại chúng Tỷ-kheo. Rồi Thế Tôn rời đường, đi đến một gốc cây; đến
 rồi, ngồi trên chỗ đã soạn sẵn. Rồi một người chăn bò đi đến chỗ Thế Tôn;
 đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Thế Tôn dùng pháp thoại
@@ -1324,9 +1324,9 @@ tệ hại hơn thế."
 
 === 34. Kinh Dạ-xoa Đánh (Yakkhapahārasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, tại Kalandakanivāpa. Lúc bấy giờ, Tôn giả Sāriputta và Tôn giả
-Mahāmoggallāna ngụ tại Kapotakandarā. Lúc bấy giờ, Tôn giả Sāriputta, vào
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), tại Ca-lan-đà (Kalandakanivāpa). Lúc bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta) và Tôn giả
+Mục Kiền Liên (Mahāmoggallāna) ngụ tại Kapotakandarā. Lúc bấy giờ, Tôn giả Sāriputta, vào
 đêm trăng, tóc mới cạo, ngồi ngoài trời, đã nhập một định nào đó.
 
 Lúc bấy giờ, hai Dạ-xoa bạn đang đi từ phương Bắc về phương Nam vì một
@@ -1352,7 +1352,7 @@ Tôn giả Mahāmoggallāna, bằng thiên nhãn thanh tịnh siêu nhân, thấ
 ấy đánh vào đầu Trưởng lão Sāriputta. Thấy vậy, ông đi đến Tôn giả
 Sāriputta; đến rồi, nói với Tôn giả Sāriputta: "Này hiền giả, thầy có kham
 nhẫn được không? Thầy có chịu đựng được không? Thầy có đau đớn gì không?"
-"Này hiền giả Moggallāna, tôi kham nhẫn được; này hiền giả Moggallāna, tôi
+"Này hiền giả Mục-kiền-liên (Moggallāna), tôi kham nhẫn được; này hiền giả Moggallāna, tôi
 chịu đựng được; chỉ có đầu tôi hơi đau." "Thật kỳ diệu thay, này hiền giả
 Sāriputta! Thật hy hữu thay, này hiền giả Sāriputta! Tôn giả Sāriputta có
 đại thần lực, đại uy lực đến như vậy! Này hiền giả Sāriputta, ở đây một
@@ -1379,8 +1379,8 @@ khổ từ đâu đến được?"
 
 === 35. Kinh Na-già (Nāgasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Kosambī, trong
-Ghositārāma. Lúc bấy giờ, Thế Tôn sống chen chúc với Tỷ-kheo, Tỷ-kheo-ni,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Kiều-thưởng-di (Kosambī), trong
+Ghô-si-đa-la-ma (Ghositārāma). Lúc bấy giờ, Thế Tôn sống chen chúc với Tỷ-kheo, Tỷ-kheo-ni,
 nam cư sĩ, nữ cư sĩ, vua, đại thần của vua, ngoại đạo, đệ tử ngoại đạo.
 Chen chúc thì khổ, không được thoải mái. Rồi Thế Tôn nghĩ: "Nay Ta sống
 chen chúc với Tỷ-kheo, Tỷ-kheo-ni, nam cư sĩ, nữ cư sĩ, vua, đại thần của
@@ -1390,9 +1390,9 @@ Hay là Ta hãy sống một mình, viễn ly chúng."
 Rồi Thế Tôn, vào buổi sáng đắp y, cầm bát, vào Kosambī để khất thực. Khất
 thực ở Kosambī xong, sau bữa ăn, từ khất thực trở về, tự mình thu dọn chỗ
 nằm ngồi, cầm bát và y, không báo thị giả, không nhìn chúng Tỷ-kheo, một
-mình không bạn, ra đi du hành về phía Pālileyyaka. Trong khi tuần tự du
+mình không bạn, ra đi du hành về phía Ba-li-lê-da-ca (Pālileyyaka). Trong khi tuần tự du
 hành, Ngài đến Pālileyyaka. Tại đấy, Thế Tôn ngụ ở Pālileyyaka, trong
-Rakkhitavanasaṇḍa, dưới gốc cây Bhaddasāla.
+Lắc-khi-ta-ba-na-san-đa (Rakkhitavanasaṇḍa), dưới gốc cây Bhaddasāla.
 
 Cũng có một voi nāga sống chen chúc với voi đực, voi cái, voi con, voi nhỏ.
 Nó ăn cỏ đã bị cắn cụt ngọn, chúng ăn những cành nó đã bẻ gãy, nó uống
@@ -1434,9 +1434,9 @@ khi một mình, ý được vui."
 
 === 36. Kinh Pin-đô-la (Piṇḍolasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Piṇḍola
-Bhāradvāja ngồi không xa Thế Tôn, xếp chân kiết già, giữ thân thẳng, là vị
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Piṇḍola
+Bạt-la-đà-phạn-xà (Bhāradvāja) ngồi không xa Thế Tôn, xếp chân kiết già, giữ thân thẳng, là vị
 sống rừng, sống bằng khất thực, mặc y phấn tảo, chỉ giữ ba y, ít ham muốn,
 biết đủ, viễn ly, không tụ hội, tinh tấn đã phát khởi, chủ trương hạnh
 đầu-đà, chuyên tâm đối với thượng tâm. Thế Tôn thấy Tôn giả Piṇḍola
@@ -1446,7 +1446,7 @@ rừng, sống bằng khất thực, mặc y phấn tảo, chỉ giữ ba y, ít
 chuyên tâm đối với thượng tâm. Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc
 đó nói lên lời cảm hứng này: \
 "Không mắng nhiếc, không hại, \
-thu thúc trong Pātimokkha; \
+thu thúc trong Ba-la-đề-mộc-xoa (Pātimokkha); \
 biết vừa đủ trong đồ ăn, \
 chỗ nằm ngồi nơi vắng; \
 chuyên tâm đối với thượng tâm — \
@@ -1456,8 +1456,8 @@ chuyên tâm đối với thượng tâm — \
 
 === 37. Kinh Xá-lợi-phất (Sāriputtasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta ngồi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta) ngồi
 không xa Thế Tôn, xếp chân kiết già, giữ thân thẳng, ít ham muốn, biết đủ,
 viễn ly, không tụ hội, tinh tấn đã phát khởi, chuyên tâm đối với thượng
 tâm. Thế Tôn thấy Tôn giả Sāriputta ngồi không xa, xếp chân kiết già, giữ
@@ -1473,8 +1473,8 @@ vị đã tịnh chỉ, thường chánh niệm."
 
 === 38. Kinh Sun-đa-li (Sundarīsuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Thế Tôn được cung kính,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Thế Tôn được cung kính,
 tôn trọng, quý mến, cúng dường, lễ bái, nhận được y phục, đồ ăn khất thực,
 chỗ nằm ngồi, thuốc men và vật dụng trị bệnh. Chúng Tỷ-kheo cũng được cung
 kính, tôn trọng, quý mến, cúng dường, lễ bái, nhận được y phục, đồ ăn khất
@@ -1493,7 +1493,7 @@ ngoại đạo ấy, rồi thường xuyên đi đến Jetavana.
 
 Khi các du sĩ ngoại đạo biết: "Du sĩ nữ Sundarī đã được nhiều người thấy
 thường xuyên đi đến Jetavana", họ đoạt mạng nàng, bỏ ngay tại chỗ trong
-hố hào của Jetavana, rồi đi đến vua Pasenadi xứ Kosala; đến rồi, tâu vua
+hố hào của Jetavana, rồi đi đến vua Ba-tư-nặc (Pasenadi) xứ Câu-tát-la (Kosala); đến rồi, tâu vua
 Pasenadi xứ Kosala: "Tâu đại vương, du sĩ nữ Sundarī ấy; chúng tôi không
 thấy nàng nữa." "Các ngươi nghi ở đâu?" "Ở Jetavana, tâu đại vương." "Vậy
 hãy lục soát Jetavana."
@@ -1569,8 +1569,8 @@ Tỷ-kheo hãy kham nhẫn, tâm không sân."
 
 === 39. Kinh U-ba-sê-na (Upasenasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, tại Kalandakanivāpa. Rồi Tôn giả Upasena Vaṅgantaputta, khi đã
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), tại Ca-lan-đà (Kalandakanivāpa). Rồi Tôn giả Upasena Bang-gan-đa-bu-đa (Vaṅgantaputta), khi đã
 độc cư, tĩnh mặc, tâm tư này khởi lên: "Thật lợi ích thay cho ta, thật khéo
 được thay cho ta: bậc Đạo Sư của ta là Thế Tôn, A-la-hán, Chánh Đẳng Giác;
 ta đã xuất gia, từ bỏ gia đình, sống không gia đình, trong Pháp và Luật
@@ -1594,8 +1594,8 @@ không còn tái sanh cho vị ấy."
 
 === 40. Kinh Xá-lợi-phất An Tịnh (Sāriputtaupasamasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta ngồi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta) ngồi
 không xa Thế Tôn, kiết già, thân thẳng, quán chiếu sự an tịnh của mình.
 Thế Tôn thấy Tôn giả Sāriputta ngồi không xa, kiết già, thân thẳng, quán
 chiếu sự an tịnh của mình. Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó
@@ -1612,19 +1612,19 @@ vị ấy thoát khỏi trói buộc của Ác ma."
 #strong[Tổng thuyết:]
 
 Meghiya, Trạo cử, Người chăn bò, \
-Dạ-xoa, Nāga là thứ năm; \
+Dạ-xoa, Na-già (Nāga) là thứ năm; \
 Piṇḍola cùng Sāriputta, \
 Sundarī là thứ tám; \
-Upasena Vaṅgantaputta, \
+Upasena Bang-gan-đa-bu-đa (Vaṅgantaputta), \
 và Sāriputta — đủ mười kinh ấy.
 
 == Phẩm Tô-na (Soṇavaggo)
 
 === 41. Kinh Thân Hơn (Piyatarasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, vua Pasenadi nước
-Kosala cùng hoàng hậu Mallikā lên lầu cao. Vua Pasenadi nước Kosala nói
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, vua Ba-tư-nặc (Pasenadi) nước
+Câu-tát-la (Kosala) cùng hoàng hậu Ma-li-ca (Mallikā) lên lầu cao. Vua Pasenadi nước Kosala nói
 với hoàng hậu Mallikā: "Này Mallikā, có ai khác thân hơn tự ngã của bà
 không?" "Tâu đại vương, không có ai khác thân hơn tự ngã của thần. Còn
 đại vương thì sao, có ai khác thân hơn tự ngã của đại vương không?"
@@ -1648,13 +1648,13 @@ vậy kẻ yêu mình chớ hại người."
 
 === 42. Kinh Yểu Mệnh (Appāyukasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Rồi Tôn giả Ānanda, buổi chiều từ
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Rồi Tôn giả A-nan (Ānanda), buổi chiều từ
 chỗ độc cư đứng dậy, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và
 ngồi xuống một bên. Ngồi một bên, Tôn giả Ānanda bạch Thế Tôn: "Thật kỳ
 diệu thay, bạch Thế Tôn! Thật hy hữu thay, bạch Thế Tôn! Mẹ của Thế Tôn
 thật yểu mệnh. Thế Tôn sanh được bảy ngày thì mẹ của Thế Tôn mạng chung,
-tái sanh vào chúng Tusita." "Đúng vậy, này Ānanda. Này Ānanda, các vị
+tái sanh vào chúng Đâu-suất (Tusita)." "Đúng vậy, này Ānanda. Này Ānanda, các vị
 mẫu của Bồ-tát đều yểu mệnh. Bồ-tát sanh được bảy ngày thì các vị mẫu
 của Bồ-tát mạng chung, tái sanh vào chúng Tusita." Rồi Thế Tôn, sau khi
 hiểu rõ ý ấy, ngay lúc đó nói lên lời cảm hứng này: \
@@ -1667,8 +1667,8 @@ hãy tinh cần sống Phạm hạnh."
 
 === 43. Kinh Sup-ba-bu-đa Người Cùi (Suppabuddhakuṭṭhisuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, chỗ nuôi sóc. Lúc bấy giờ, tại Rājagaha có người cùi tên
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), chỗ nuôi sóc. Lúc bấy giờ, tại Rājagaha có người cùi tên
 Suppabuddha — nghèo nhất, khốn cùng nhất, thảm hại nhất trong loài người.
 Lúc ấy, Thế Tôn đang ngồi thuyết pháp, có đại chúng vây quanh. Người cùi
 Suppabuddha thấy đám đông tụ họp từ xa. Thấy vậy, ông nghĩ: "Chắc ở đây
@@ -1676,7 +1676,7 @@ Suppabuddha thấy đám đông tụ họp từ xa. Thấy vậy, ông nghĩ: "C
 đâu ta sẽ được chút thức ăn cứng hay thức ăn mềm." Rồi người cùi
 Suppabuddha đi đến chỗ đám đông ấy. Ông thấy Thế Tôn đang ngồi thuyết
 pháp, có đại chúng vây quanh. Thấy vậy, ông nghĩ: "Ở đây không chia thức
-ăn cứng hay thức ăn mềm. Sa-môn Gotama này đang thuyết pháp giữa hội
+ăn cứng hay thức ăn mềm. Sa-môn Cù-đàm (Gotama) này đang thuyết pháp giữa hội
 chúng. Hay ta cũng nghe pháp." Ông ngồi xuống một bên ngay tại chỗ ấy,
 nghĩ: "Ta cũng sẽ nghe pháp." Rồi Thế Tôn dùng tâm quán sát tâm của toàn
 thể hội chúng: "Ở đây, ai có thể hiểu được pháp?" Thế Tôn thấy người cùi
@@ -1725,7 +1725,7 @@ Pháp và Luật do Như Lai tuyên thuyết, thọ trì tín, thọ trì giới
 văn, thọ trì thí, thọ trì tuệ. Ông đến với Pháp và Luật do Như Lai tuyên
 thuyết, thọ trì tín, thọ trì giới, thọ trì văn, thọ trì thí, thọ trì tuệ,
 sau khi thân hoại mạng chung, được sanh thiện thú, cõi trời, cộng trú với
-chư thiên Tāvatiṃsa. Ở đấy ông vượt trội các vị trời khác về dung sắc và
+chư thiên Tam thập tam thiên (Tāvatiṃsa). Ở đấy ông vượt trội các vị trời khác về dung sắc và
 danh vọng." Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó nói lên lời cảm
 hứng này: \
 "Người có mắt, khi còn sức gắng, \
@@ -1737,8 +1737,8 @@ hãy tránh xa các điều ác."
 
 === 44. Kinh Trẻ Con (Kumārakasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều trẻ con đang
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều trẻ con đang
 hành hạ những con cá nhỏ, giữa Sāvatthi và Jetavana. Buổi sáng, Thế Tôn
 đắp y, cầm bát, vào Sāvatthi khất thực. Thế Tôn thấy nhiều trẻ con đang
 hành hạ những con cá nhỏ, giữa Sāvatthi và Jetavana. Thấy vậy, Ngài đi
@@ -1755,12 +1755,12 @@ dù chạy trốn, cũng không thoát khổ."
 
 === 45. Kinh Bố-tát (Uposathasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, ở Đông Viên,
-lầu của Migāramātā. Lúc bấy giờ, đúng ngày Bố-tát, Thế Tôn ngồi, có chúng
-Tỷ-kheo vây quanh. Rồi Tôn giả Ānanda, khi đêm đã về khuya, canh một đã qua,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), ở Đông Viên,
+lầu của Lộc Mẫu (Migāramātā). Lúc bấy giờ, đúng ngày Bố-tát, Thế Tôn ngồi, có chúng
+Tỷ-kheo vây quanh. Rồi Tôn giả A-nan (Ānanda), khi đêm đã về khuya, canh một đã qua,
 đứng dậy khỏi chỗ ngồi, đắp y vai trái, chắp tay hướng về Thế Tôn, bạch Thế
 Tôn: "Bạch Thế Tôn, đêm đã về khuya; canh một đã qua; chúng Tỷ-kheo ngồi đã
-lâu. Xin Thế Tôn đọc giới bổn Pātimokkha cho các Tỷ-kheo." Nghe nói vậy, Thế
+lâu. Xin Thế Tôn đọc giới bổn Ba-la-đề-mộc-xoa (Pātimokkha) cho các Tỷ-kheo." Nghe nói vậy, Thế
 Tôn im lặng. Lần thứ hai, khi đêm đã về khuya, canh giữa đã qua, Tôn giả
 Ānanda đứng dậy khỏi chỗ ngồi, đắp y vai trái, chắp tay hướng về Thế Tôn,
 bạch Thế Tôn: "Bạch Thế Tôn, đêm đã về khuya; canh giữa đã qua; chúng Tỷ-kheo
@@ -1770,7 +1770,7 @@ hừng đông đã lên, đêm đã rạng, Tôn giả Ānanda đứng dậy kh�
 vai trái, chắp tay hướng về Thế Tôn, bạch Thế Tôn: "Bạch Thế Tôn, đêm đã về
 khuya; canh cuối đã qua; hừng đông đã lên; đêm đã rạng; chúng Tỷ-kheo ngồi
 đã lâu. Xin Thế Tôn đọc giới bổn Pātimokkha cho các Tỷ-kheo." "Này Ānanda,
-hội chúng chưa thanh tịnh." Rồi Tôn giả Mahāmoggallāna nghĩ: "Thế Tôn nói
+hội chúng chưa thanh tịnh." Rồi Tôn giả Mục Kiền Liên (Mahāmoggallāna) nghĩ: "Thế Tôn nói
 'hội chúng chưa thanh tịnh' là nhằm người nào?" Tôn giả Mahāmoggallāna dùng
 tâm quán sát tâm của toàn thể chúng Tỷ-kheo. Tôn giả thấy người ấy — phá
 giới, theo pháp ác, bất tịnh, hành vi đáng ngờ, giấu giếm việc làm, không
@@ -1785,7 +1785,7 @@ lần thứ ba, người ấy vẫn im lặng. Rồi Tôn giả Mahāmoggallāna
 ấy, đưa ra ngoài cổng, gài then cửa, đi đến chỗ Thế Tôn; đến rồi, bạch Thế
 Tôn: "Bạch Thế Tôn, con đã đưa người ấy ra rồi. Hội chúng đã thanh tịnh. Xin
 Thế Tôn đọc giới bổn Pātimokkha cho các Tỷ-kheo." "Thật kỳ diệu thay, này
-Moggallāna! Thật hy hữu thay, này Moggallāna! Đến nỗi kẻ ngu si ấy còn chờ
+Mục-kiền-liên (Moggallāna)! Thật hy hữu thay, này Moggallāna! Đến nỗi kẻ ngu si ấy còn chờ
 đến lúc bị nắm tay mới chịu đi!" Rồi Thế Tôn bảo các Tỷ-kheo: "Này các thầy,
 từ nay Ta sẽ không làm lễ Bố-tát, sẽ không đọc giới bổn Pātimokkha. Từ nay
 chính các thầy hãy làm lễ Bố-tát, hãy đọc giới bổn Pātimokkha. Này các thầy,
@@ -1810,8 +1810,8 @@ trong đại dương, lập tức bị đẩy vào bờ, tống lên đất li�
 không sống chung với xác chết, xác chết nào cũng lập tức bị đẩy vào bờ, tống
 lên đất liền — đây là pháp kỳ diệu, hy hữu thứ ba.
 
-Lại nữa, này các thầy, các sông lớn nào — Gaṅgā, Yamunā, Aciravatī, Sarabhū,
-Mahī — khi đến đại dương thì bỏ tên họ cũ, chỉ còn được gọi là đại dương.
+Lại nữa, này các thầy, các sông lớn nào — Hằng (Gaṅgā), Diệm-mâu- na (Yamunā), A-trí-la-phạt-để (Aciravatī), Sa-la-bu (Sarabhū),
+Ma-hi (Mahī) — khi đến đại dương thì bỏ tên họ cũ, chỉ còn được gọi là đại dương.
 Chính vì các sông lớn ấy khi đến đại dương thì bỏ tên họ cũ, chỉ còn được gọi
 là đại dương — đây là pháp kỳ diệu, hy hữu thứ tư.
 
@@ -1829,7 +1829,7 @@ hồng ngọc, mã não. Chính vì đại dương có nhiều châu báu, nhi�
 như vậy — đây là pháp kỳ diệu, hy hữu thứ bảy.
 
 Lại nữa, này các thầy, đại dương là chỗ ở của những chúng sanh lớn. Những
-chúng sanh ấy là: timi, timiṅgala, timitimiṅgala, A-tu-la, Nāga, Càn-thát-bà.
+chúng sanh ấy là: timi, timiṅgala, timitimiṅgala, A-tu-la, Na-già (Nāga), Càn-thát-bà.
 Trong đại dương có những thân hình một trăm do-tuần, hai trăm do-tuần, ba trăm
 do-tuần, bốn trăm do-tuần, năm trăm do-tuần. Chính vì đại dương là chỗ ở của
 những chúng sanh lớn như vậy — đây là pháp kỳ diệu, hy hữu thứ tám, mà A-tu-la
@@ -1912,10 +1912,10 @@ như thế sẽ không bị mưa dột."
 
 === 46. Kinh Tô-na (Soṇasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Mahākaccāna ngụ
-trong xứ Avanti, tại Kuraraghara, trên núi Pavatta. Lúc ấy, cư sĩ Soṇa
-Kuṭikaṇṇa là thị giả của Tôn giả Mahākaccāna. Rồi cư sĩ Soṇa Kuṭikaṇṇa, khi
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Đại Ca-chiên-diên (Mahākaccāna) ngụ
+trong xứ Ương-đế-na (Avanti), tại Cu-la-la-gha-la (Kuraraghara), trên núi Ba-vát-ta (Pavatta). Lúc ấy, cư sĩ Tô-na (Soṇa)
+Ku-ti-canh-na (Kuṭikaṇṇa) là thị giả của Tôn giả Mahākaccāna. Rồi cư sĩ Soṇa Kuṭikaṇṇa, khi
 độc cư, tĩnh lặng, khởi lên tâm tư như vầy: "Theo như Tôn giả Mahākaccāna
 thuyết pháp, thật không dễ gì khi còn ở nhà mà sống Phạm hạnh hoàn toàn viên
 mãn, hoàn toàn thanh tịnh, bóng láng như vỏ ốc. Hay ta cạo bỏ râu tóc, đắp
@@ -1959,7 +1959,7 @@ bậc A-la-hán, Chánh Đẳng Giác.'" "Lành thay, lành thay, này Soṇa! N
 hãy đi yết kiến Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác. Này Soṇa, ông sẽ thấy
 Thế Tôn, vị khả ái, khiến sanh tịnh tín, các căn tịch tĩnh, tâm tịch tĩnh, đã
 đạt điều phục và chỉ tịnh tối thượng, đã được điều phục, đã được hộ trì, các
-căn chế ngự, bậc Nāga. Thấy rồi, hãy nhân danh ta cúi đầu đảnh lễ chân Thế
+căn chế ngự, bậc Na-già (Nāga). Thấy rồi, hãy nhân danh ta cúi đầu đảnh lễ chân Thế
 Tôn, hỏi thăm Thế Tôn ít bệnh, ít não, khinh an, có sức, sống an lạc: 'Bạch
 Thế Tôn, thầy tế độ của con, Tôn giả Mahākaccāna, cúi đầu đảnh lễ chân Thế
 Tôn, hỏi thăm Thế Tôn ít bệnh, ít não, khinh an, có sức, sống an lạc.'" "Xin
@@ -1974,7 +1974,7 @@ sức, sống an lạc." "Này Tỷ-kheo, có kham nhẫn được không? Có n
 không? Ông đến đường xa có ít mệt nhọc không? Có mệt vì khất thực không?"
 "Bạch Thế Tôn, con kham nhẫn được. Bạch Thế Tôn, con nuôi sống được. Bạch Thế
 Tôn, con đến đường xa ít mệt nhọc, không mệt vì khất thực." Rồi Thế Tôn bảo
-Tôn giả Ānanda: "Này Ānanda, hãy sửa soạn chỗ ở cho Tỷ-kheo khách này." Tôn
+Tôn giả A-nan (Ānanda): "Này Ānanda, hãy sửa soạn chỗ ở cho Tỷ-kheo khách này." Tôn
 giả Ānanda nghĩ: "Thế Tôn bảo ta sửa soạn chỗ ở cho Tỷ-kheo khách này, tức
 Thế Tôn muốn ở cùng một chỗ với Tỷ-kheo ấy; Thế Tôn muốn ở cùng một chỗ với
 Tôn giả Soṇa." Tôn giả Ānanda sửa soạn chỗ ở cho Tôn giả Soṇa ngay tại chỗ Thế
@@ -1982,7 +1982,7 @@ Tôn đang ở. Rồi Thế Tôn ngồi ngoài trời phần lớn đêm ấy, r
 thất. Tôn giả Soṇa cũng ngồi ngoài trời phần lớn đêm ấy, rửa chân rồi vào
 thất. Rồi Thế Tôn, về canh cuối đêm, thức dậy, bảo Tôn giả Soṇa: "Này Tỷ-kheo,
 hãy để pháp hiện ra cho ông nói." "Xin vâng, bạch Thế Tôn." Tôn giả Soṇa vâng
-lời Thế Tôn, tụng lên bằng giọng tất cả mười sáu kinh thuộc phẩm Aṭṭhaka.
+lời Thế Tôn, tụng lên bằng giọng tất cả mười sáu kinh thuộc phẩm Át-tha-ca (Aṭṭhaka).
 Rồi Thế Tôn, khi Tôn giả Soṇa tụng xong, tùy hỷ: "Lành thay, lành thay, này
 Tỷ-kheo! Này Tỷ-kheo, mười sáu kinh thuộc phẩm Aṭṭhaka đã được ông khéo nắm,
 khéo ghi nhớ, khéo thọ trì. Ông có giọng nói hay, lưu loát, trong trẻo, làm
@@ -2000,8 +2000,8 @@ người thanh tịnh không vui nơi ác."
 
 === 47. Kinh Khang-kha Lê-ba-đa (Kaṅkhārevatasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Kaṅkhārevata
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Kankhà Ly-bà-la (Kaṅkhārevata)
 ngồi không xa Thế Tôn, kiết già, thân thẳng, quán chiếu sự thanh tịnh
 do đã vượt qua nghi hoặc của mình. Thế Tôn thấy Tôn giả Kaṅkhārevata
 ngồi không xa, kiết già, thân thẳng, quán chiếu sự thanh tịnh do đã
@@ -2016,9 +2016,9 @@ tinh cần, đang sống Phạm hạnh."
 
 === 48. Kinh Phá Tăng (Saṅghabhedasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, chỗ nuôi sóc. Lúc bấy giờ, đúng ngày Bố-tát, buổi sáng Tôn
-giả Ānanda đắp y, cầm bát, vào Rājagaha khất thực. Devadatta thấy Tôn
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), chỗ nuôi sóc. Lúc bấy giờ, đúng ngày Bố-tát, buổi sáng Tôn
+giả A-nan (Ānanda) đắp y, cầm bát, vào Rājagaha khất thực. Đề-bà-đạt-đa (Devadatta) thấy Tôn
 giả Ānanda đang khất thực trong Rājagaha. Thấy vậy, ông đi đến chỗ Tôn
 giả Ānanda; đến rồi, nói với Tôn giả Ānanda: "Này hiền giả Ānanda, từ
 nay tôi sẽ làm lễ Bố-tát và các Tăng sự riêng ngoài Thế Tôn, riêng
@@ -2041,7 +2041,7 @@ lời cảm hứng này: \
 
 === 49. Kinh Sa-đa-da-ma-na (Sadhāyamānasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn đang du hành trong xứ Kosala
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn đang du hành trong xứ Câu-tát-la (Kosala)
 cùng đại chúng Tỷ-kheo. Lúc bấy giờ, nhiều thanh niên Bà-la-môn đi ngang
 qua, không xa Thế Tôn, với vẻ chế nhạo. Thế Tôn thấy nhiều thanh niên
 Bà-la-môn đi ngang qua, không xa Ngài, với vẻ chế nhạo. Rồi Thế Tôn, sau
@@ -2055,8 +2055,8 @@ chẳng biết mình bị dẫn đi bởi gì."
 
 === 50. Kinh Chu-lợi Bàn-đặc (Cūḷapanthakasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Cūḷapanthaka
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Chu-lợi Bàn-đặc (Cūḷapanthaka)
 ngồi không xa Thế Tôn, kiết già, thân thẳng, an trú niệm trước mặt. Thế
 Tôn thấy Tôn giả Cūḷapanthaka ngồi không xa, kiết già, thân thẳng, an trú
 niệm trước mặt. Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó nói lên
@@ -2076,23 +2076,23 @@ Tỷ-kheo an trú niệm ấy, \
 
 Thân hơn, Yểu mệnh, Người cùi, \
 Trẻ con, Bố-tát; \
-Soṇa cùng Revata, Phá tăng, \
+Tô-na (Soṇa) cùng Ly-bà-đa (Revata), Phá tăng, \
 Sadhāya với Panthaka — đủ mười kinh ấy.
 
 == 6. Phẩm Người Mù Bẩm Sinh (Jaccandhavaggo)
 
 === 51. Kinh Xả Tuổi Thọ Hành (Āyusaṅkhārossajjanasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vesālī, trong Đại Lâm,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Tỳ-xá-ly (Vesālī), trong Đại Lâm,
 tại giảng đường nóc nhọn. Buổi sáng, Thế Tôn đắp y, cầm bát, vào Vesālī khất
 thực. Khất thực trong Vesālī, sau bữa ăn, trên đường trở về, Thế Tôn bảo Tôn
-giả Ānanda: "Này Ānanda, hãy cầm tọa cụ. Chúng ta sẽ đến điện thờ Cāpāla để
+giả A-nan (Ānanda): "Này Ānanda, hãy cầm tọa cụ. Chúng ta sẽ đến điện thờ Xa-ba-la (Cāpāla) để
 nghỉ ban ngày." "Xin vâng, bạch Thế Tôn." Tôn giả Ānanda vâng lời Thế Tôn,
 cầm tọa cụ, đi theo sau Thế Tôn. Rồi Thế Tôn đi đến điện thờ Cāpāla; đến rồi,
 ngồi xuống chỗ đã soạn sẵn. Ngồi xuống, Thế Tôn bảo Tôn giả Ānanda: "Này
-Ānanda, Vesālī thật đáng yêu; điện thờ Udena đáng yêu; điện thờ Gotamaka đáng
-yêu; điện thờ Sattamba đáng yêu; điện thờ Bahuputta đáng yêu; điện thờ
-Sārandada đáng yêu; điện thờ Cāpāla đáng yêu. Này Ānanda, bất cứ ai đã tu tập,
+Ānanda, Vesālī thật đáng yêu; điện thờ U-đê-na (Udena) đáng yêu; điện thờ Gô-đa-ma-ca (Gotamaka) đáng
+yêu; điện thờ Sát-tam-ba (Sattamba) đáng yêu; điện thờ Ba-hu-bút-ta (Bahuputta) đáng yêu; điện thờ
+Sa-lan-đa-đa (Sārandada) đáng yêu; điện thờ Cāpāla đáng yêu. Này Ānanda, bất cứ ai đã tu tập,
 làm cho sung mãn, làm thành cỗ xe, thành nền tảng, kiên trì thực hành, tích
 lũy và khéo phát khởi bốn thần túc, nếu muốn, người ấy có thể sống đến một
 kiếp, hoặc phần còn lại của kiếp. Này Ānanda, Như Lai đã tu tập, làm cho sung
@@ -2191,9 +2191,9 @@ phá vỡ lớp giáp của hữu tự sanh."
 
 === 52. Kinh Bảy Ẩn Sĩ Bện Tóc (Sattajaṭilasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, ở Đông Viên,
-lầu của Migāramātā. Lúc bấy giờ, buổi chiều Thế Tôn từ chỗ độc cư đứng dậy,
-ngồi ngoài cổng. Rồi vua Pasenadi nước Kosala đi đến chỗ Thế Tôn; đến rồi,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), ở Đông Viên,
+lầu của Lộc Mẫu (Migāramātā). Lúc bấy giờ, buổi chiều Thế Tôn từ chỗ độc cư đứng dậy,
+ngồi ngoài cổng. Rồi vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) đi đến chỗ Thế Tôn; đến rồi,
 đảnh lễ Thế Tôn và ngồi xuống một bên. Lúc ấy, bảy ẩn sĩ bện tóc, bảy
 Ni-kiền-tử, bảy lõa thể, bảy người mặc một y, bảy du sĩ, lông nách móng tay
 mọc dài, mang đủ loại gánh, đi ngang qua, không xa Thế Tôn. Vua Pasenadi
@@ -2209,7 +2209,7 @@ tóc, bảy Ni-kiền-tử, bảy lõa thể, bảy người mặc một y, bả
 một bên, vua Pasenadi nước Kosala bạch Thế Tôn: "Bạch Thế Tôn, những vị ấy
 trong đời là A-la-hán, hoặc đã bước vào đạo A-la-hán." "Tâu đại vương, điều
 ấy thật khó biết đối với đại vương, một cư sĩ hưởng thụ các dục, nằm giường
-chật chội vì con cái, dùng hương chiên-đàn xứ Kāsi, đeo vòng hoa, hương liệu,
+chật chội vì con cái, dùng hương chiên-đàn xứ Ca-thi (Kāsi), đeo vòng hoa, hương liệu,
 phấn sáp, thọ nhận vàng bạc — rằng: đây là A-la-hán, đây là người đã bước
 vào đạo A-la-hán. Tâu đại vương, giới phải được biết bằng sự sống chung. Và
 điều ấy phải trải thời gian dài, không phải chốc lát; do người chú tâm, không
@@ -2246,8 +2246,8 @@ chớ buôn bán trái với Chánh pháp."
 
 === 53. Kinh Quán Chiếu (Paccavekkhaṇasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, Thế Tôn ngồi quán
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Thế Tôn ngồi quán
 chiếu nhiều pháp ác bất thiện nơi mình đã được đoạn trừ, và nhiều pháp
 thiện đã đi đến viên mãn do tu tập. Rồi Thế Tôn, sau khi biết rõ nhiều
 pháp ác bất thiện nơi mình đã được đoạn trừ, và nhiều pháp thiện đã đi
@@ -2261,8 +2261,8 @@ và nay cũng không tìm thấy."
 
 === 54. Kinh Các Ngoại Đạo (Paṭhamanānātitthiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều du sĩ Sa-môn,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều du sĩ Sa-môn,
 Bà-la-môn ngoại đạo đang trú tại Sāvatthi, với kiến giải khác nhau, chấp nhận
 khác nhau, sở thích khác nhau, nương tựa những chỗ nương của kiến giải khác
 nhau. Có những Sa-môn, Bà-la-môn chủ trương, có kiến như vầy: "Thế giới thường
@@ -2346,8 +2346,8 @@ là những người chỉ thấy một phần."
 
 === 55. Kinh Các Ngoại Đạo (Dutiyanānātitthiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều du sĩ Sa-môn,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều du sĩ Sa-môn,
 Bà-la-môn ngoại đạo đang trú tại Sāvatthi, với kiến giải khác nhau, chấp nhận
 khác nhau, sở thích khác nhau, nương tựa những chỗ nương của kiến giải khác
 nhau. Có những Sa-môn, Bà-la-môn chủ trương, có kiến như vầy: "Tự ngã và thế
@@ -2404,8 +2404,8 @@ chưa đạt đến chỗ lặn vào pháp ấy."
 
 === 56. Kinh Các Ngoại Đạo (Tatiyanānātitthiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Lúc bấy giờ, nhiều du sĩ Sa-môn,
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, nhiều du sĩ Sa-môn,
 Bà-la-môn ngoại đạo đang trú tại Sāvatthi, với kiến giải khác nhau, chấp nhận
 khác nhau, sở thích khác nhau, nương tựa những chỗ nương của kiến giải khác
 nhau. Có những Sa-môn, Bà-la-môn chủ trương, có kiến như vầy: "Tự ngã và thế
@@ -2469,8 +2469,8 @@ không vượt khỏi luân hồi."
 
 === 57. Kinh Tu-bồ-đề (Subhūtisuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Tôn giả Subhūti ngồi không
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Tôn giả Tu-bồ-đề (Subhūti) ngồi không
 xa Thế Tôn, kiết già, lưng thẳng, đang nhập định không tầm. Thế Tôn thấy
 Tôn giả Subhūti ngồi không xa, kiết già, lưng thẳng, đã nhập định không
 tầm. Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó nói lên lời cảm hứng
@@ -2484,8 +2484,8 @@ vượt khỏi sự dính mắc, có tưởng vô sắc, \
 
 === 58. Kinh Kỹ Nữ (Gaṇikāsuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, chỗ nuôi sóc Kalandaka. Bấy giờ, tại Rājagaha, hai phe nhóm say
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), chỗ nuôi sóc Ca-lan-đa-ca (Kalandaka). Bấy giờ, tại Rājagaha, hai phe nhóm say
 đắm, tâm bị trói buộc nơi một kỹ nữ; họ sinh sự, cãi cọ, tranh chấp, lấy
 tay đánh nhau, lấy đất đá đánh nhau, lấy gậy đánh nhau, lấy đao kiếm đánh
 nhau. Ở đó họ đi đến cái chết, hoặc khổ gần như chết. Rồi nhiều Tỷ-kheo
@@ -2511,8 +2511,8 @@ luân hồi không còn để chỉ ra."
 
 === 59. Kinh Chạy Vòng Vòng (Upātidhāvantisuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Thế Tôn ngồi ngoài trời
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Thế Tôn ngồi ngoài trời
 trong đêm tối mịt mùng, các ngọn đèn dầu đang cháy. Lúc ấy, nhiều con
 thiêu thân lao vào những ngọn đèn dầu ấy, gặp tai họa, gặp thảm họa, gặp
 tai họa và thảm họa. Thế Tôn thấy nhiều con thiêu thân lao vào những ngọn
@@ -2527,8 +2527,8 @@ một số người dính mắc nơi cái được thấy, được nghe, nơi '
 
 === 60. Kinh Sinh Khởi (Uppajjantisuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Rồi Tôn giả Ānanda đi đến chỗ Thế
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Rồi Tôn giả A-nan (Ānanda) đi đến chỗ Thế
 Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn
 giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, bao lâu các Như Lai, bậc A-la-hán,
 Chánh Đẳng Giác chưa xuất hiện ở đời, thì các du sĩ ngoại đạo được tôn
@@ -2564,7 +2564,7 @@ tà kiến không giải thoát khỏi khổ."
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
 Tuổi thọ, ẩn sĩ bện tóc, quán chiếu, \
-ba phái ngoại đạo, Subhūti; \
+ba phái ngoại đạo, Tu-bồ-đề (Subhūti); \
 Kỹ nữ, vượt quá là thứ chín, \
 và chúng sanh khởi là thứ mười.
 
@@ -2574,8 +2574,8 @@ và chúng sanh khởi là thứ mười.
 
 === 61. Kinh Ba-đi-da Lùn (Paṭhamalakuṇḍakabhaddiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Tôn giả Sāriputta bằng
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta) bằng
 nhiều cách, dùng pháp thoại khai thị, khích lệ, tán thán, làm hoan hỷ Tôn
 giả Lakuṇḍakabhaddiya. Rồi trong khi Tôn giả Lakuṇḍakabhaddiya được Tôn
 giả Sāriputta bằng nhiều cách, dùng pháp thoại khai thị, khích lệ, tán
@@ -2593,8 +2593,8 @@ dòng chưa từng vượt, để không còn tái sanh."
 
 === 62. Kinh Ba-đi-da Lùn (Dutiyalakuṇḍakabhaddiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Tôn giả Sāriputta, tưởng
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta), tưởng
 Tôn giả Lakuṇḍakabhaddiya còn là bậc hữu học, lại càng hơn nữa, bằng nhiều
 cách, dùng pháp thoại khai thị, khích lệ, tán thán, làm hoan hỷ vị ấy. Thế
 Tôn thấy Tôn giả Sāriputta, tưởng Tôn giả Lakuṇḍakabhaddiya còn là bậc hữu
@@ -2610,8 +2610,8 @@ vòng đã cắt, không còn chuyển, \
 
 === 63. Kinh Hữu Tình (Paṭhamasattasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, người dân Sāvatthi phần
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, người dân Sāvatthi phần
 nhiều quá mức dính mắc nơi các dục, say đắm, tham lam, bị cột trói, mê
 muội, chìm đắm, điên đảo vì các dục. Rồi nhiều Tỷ-kheo vào buổi sáng đắp
 y, cầm y bát, vào Sāvatthi để khất thực. Đi khất thực ở Sāvatthi xong,
@@ -2630,8 +2630,8 @@ không bao giờ vượt được dòng nước mênh mông, rộng lớn."
 
 === 64. Kinh Hữu Tình (Dutiyasattasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, người dân Sāvatthi phần
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, người dân Sāvatthi phần
 nhiều dính mắc nơi các dục, say đắm, tham lam, bị cột trói, mê muội, chìm
 đắm, bị làm cho mù, điên đảo vì các dục. Rồi Thế Tôn vào buổi sáng đắp y,
 cầm y bát, vào Sāvatthi để khất thực. Thế Tôn thấy những người dân Sāvatthi
@@ -2649,8 +2649,8 @@ như bê còn bú sữa chạy theo mẹ."
 
 === 65. Kinh Ba-đi-da Lùn Thứ Hai (Aparalakuṇḍakabhaddiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Tôn giả Lakuṇḍakabhaddiya
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Tôn giả Lakuṇḍakabhaddiya
 đi sau lưng nhiều Tỷ-kheo, đến chỗ Thế Tôn. Thế Tôn từ xa đã thấy Tôn giả
 Lakuṇḍakabhaddiya đi sau lưng nhiều Tỷ-kheo, dung sắc xấu, hình thù khó
 nhìn, thân hình lùn thấp, phần nhiều bị các Tỷ-kheo khinh thường. Thấy vậy,
@@ -2672,8 +2672,8 @@ dòng đã cắt, không còn trói buộc."
 
 === 66. Kinh Đoạn Tận Ái (Taṇhāsaṅkhayasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Tôn giả Aññāsikoṇḍañña ngồi
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Tôn giả Aññāsikoṇḍañña ngồi
 không xa Thế Tôn, kiết già, lưng thẳng, đang quán chiếu sự giải thoát do
 đoạn tận ái. Thế Tôn thấy Tôn giả Aññāsikoṇḍañña ngồi không xa, kiết già,
 lưng thẳng, đang quán chiếu sự giải thoát do đoạn tận ái. Rồi Thế Tôn, sau
@@ -2689,8 +2689,8 @@ Phạm thiên cũng tán thán."
 
 === 67. Kinh Đoạn Tận Hý Luận (Papañcakhayasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Thế Tôn ngồi quán chiếu sự
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Thế Tôn ngồi quán chiếu sự
 từ bỏ hý luận tưởng và hý luận hành của chính mình. Rồi Thế Tôn, sau khi
 hiểu rõ sự từ bỏ hý luận tưởng và hý luận hành của chính mình, ngay lúc
 đó nói lên lời cảm hứng này: \
@@ -2703,8 +2703,8 @@ cả thế gian cùng chư thiên không khinh thường."
 
 === 68. Kinh Ca-chiên-diên (Kaccānasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Tôn giả Mahākaccāna ngồi
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Tôn giả Đại Ca-chiên-diên (Mahākaccāna) ngồi
 không xa Thế Tôn, kiết già, lưng thẳng, với niệm thân được khéo an trú
 bên trong, trước mặt. Thế Tôn thấy Tôn giả Mahākaccāna ngồi không xa,
 kiết già, lưng thẳng, với niệm thân được khéo an trú bên trong, trước mặt.
@@ -2720,14 +2720,14 @@ an trú tuần tự ở đó, \
 
 === 69. Kinh Giếng (Udapānasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang du hành trong xứ Mallā
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang du hành trong xứ Mạt- la (Mallā)
 cùng với đại chúng Tỷ-kheo, đến ngôi làng Bà-la-môn của dân Mallā tên là
-Thūṇa. Các gia chủ Bà-la-môn ở Thūṇa nghe: "Sa-môn Gotama, con nhà Sakya,
+Thu-na (Thūṇa). Các gia chủ Bà-la-môn ở Thūṇa nghe: "Sa-môn Cù-đàm (Gotama), con nhà Thích-ca (Sakya),
 xuất gia từ dòng Sakya, đang du hành trong xứ Mallā cùng với đại chúng
 Tỷ-kheo, đã đến Thūṇa." Họ lấy cỏ và trấu lấp đầy giếng đến miệng: "Đừng
 để bọn Sa-môn trọc đầu uống nước." Rồi Thế Tôn bước xuống đường, đi đến
 gốc cây; đến rồi, ngồi xuống chỗ đã được trải sẵn. Ngồi xong, Thế Tôn gọi
-Tôn giả Ānanda: "Này Ānanda, hãy đem nước uống từ giếng ấy đến cho Ta."
+Tôn giả A-nan (Ānanda): "Này Ānanda, hãy đem nước uống từ giếng ấy đến cho Ta."
 Được nói vậy, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, giếng ấy vừa
 được các gia chủ Bà-la-môn ở Thūṇa lấy cỏ và trấu lấp đầy đến miệng:
 'Đừng để bọn Sa-môn trọc đầu uống nước.'" Lần thứ hai, lần thứ ba, Thế
@@ -2755,8 +2755,8 @@ còn đi tìm kiếm việc gì?"
 
 === 70. Kinh U-tê-na (Utenasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Kosambī, trong khu
-vườn Ghosita. Bấy giờ, khi vua Utena đi ra vườn, nội cung bị cháy, năm
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Kiều-thưởng-di (Kosambī), trong khu
+vườn Cù-sư-la (Ghosita). Bấy giờ, khi vua Utena đi ra vườn, nội cung bị cháy, năm
 trăm phụ nữ đã mệnh chung, đứng đầu là Sāmāvatī. Rồi nhiều Tỷ-kheo vào
 buổi sáng đắp y, cầm y bát, vào Kosambī để khất thực. Đi khất thực ở
 Kosambī xong, sau buổi ăn, khi đi khất thực trở về, họ đi đến chỗ Thế
@@ -2779,9 +2779,9 @@ với người thấy, không có gì cả."
 
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
-Hai kinh Bhaddiya, hai kinh Chúng Sanh, \
+Hai kinh Ba-đi-da (Bhaddiya), hai kinh Chúng Sanh, \
 Lakuṇḍaka, đoạn tận ái; \
-Đoạn tận hý luận và Kaccāna, \
+Đoạn tận hý luận và Ma- ha Ca-chiên-diên (Kaccāna), \
 giếng nước và Utena.
 
 #strong[(Hết Phẩm Nhỏ, thứ bảy.)]
@@ -2790,8 +2790,8 @@ giếng nước và Utena.
 
 === 71. Kinh Liên Hệ Đến Niết-bàn (Paṭhamanibbānapaṭisaṃyuttasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Thế Tôn dùng pháp thoại liên
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Thế Tôn dùng pháp thoại liên
 hệ đến Niết-bàn khai thị, khích lệ, tán thán, làm hoan hỷ các Tỷ-kheo. Các
 Tỷ-kheo ấy để hết tâm ý, tác ý, đem toàn tâm hướng đến, lắng tai nghe pháp.
 Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó nói lên lời cảm hứng này:
@@ -2807,8 +2807,8 @@ chuyển hành, không có sở duyên. Đây chính là sự chấm dứt khổ
 
 === 72. Kinh Liên Hệ Đến Niết-bàn (Dutiyanibbānapaṭisaṃyuttasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Thế Tôn dùng pháp thoại liên
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Thế Tôn dùng pháp thoại liên
 hệ đến Niết-bàn khai thị, khích lệ, tán thán, làm hoan hỷ các Tỷ-kheo. Các
 Tỷ-kheo ấy để hết tâm ý, tác ý, đem toàn tâm hướng đến, lắng tai nghe pháp.
 Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó nói lên lời cảm hứng này: \
@@ -2821,8 +2821,8 @@ với người thấy, không có gì cả."
 
 === 73. Kinh Liên Hệ Đến Niết-bàn (Tatiyanibbānapaṭisaṃyuttasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Thế Tôn dùng pháp thoại liên
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Thế Tôn dùng pháp thoại liên
 hệ đến Niết-bàn khai thị, khích lệ, tán thán, làm hoan hỷ các Tỷ-kheo. Các
 Tỷ-kheo ấy để hết tâm ý, tác ý, đem toàn tâm hướng đến, lắng tai nghe pháp.
 Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó nói lên lời cảm hứng này:
@@ -2836,8 +2836,8 @@ cái đã sanh, đã hiện hữu, đã tác thành, đã hữu vi được ch�
 
 === 74. Kinh Liên Hệ Đến Niết-bàn (Catutthanibbānapaṭisaṃyuttasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Bấy giờ, Thế Tôn dùng pháp thoại liên
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, Thế Tôn dùng pháp thoại liên
 hệ đến Niết-bàn khai thị, khích lệ, tán thán, làm hoan hỷ các Tỷ-kheo. Các
 Tỷ-kheo ấy để hết tâm ý, tác ý, đem toàn tâm hướng đến, lắng tai nghe pháp.
 Rồi Thế Tôn, sau khi hiểu rõ ý ấy, ngay lúc đó nói lên lời cảm hứng này:
@@ -2852,9 +2852,9 @@ dứt khổ."
 
 === 75. Kinh Thuần-đà (Cundasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang du hành trong xứ Mallā
-cùng với đại chúng Tỷ-kheo, đến Pāvā. Tại đó, Thế Tôn ngụ ở Pāvā, trong
-rừng xoài của Cunda, con người thợ rèn. Cunda, con người thợ rèn, nghe:
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang du hành trong xứ Mạt- la (Mallā)
+cùng với đại chúng Tỷ-kheo, đến Ba-vã (Pāvā). Tại đó, Thế Tôn ngụ ở Pāvā, trong
+rừng xoài của Thuần-đà (Cunda), con người thợ rèn. Cunda, con người thợ rèn, nghe:
 "Thế Tôn đang du hành trong xứ Mallā cùng với đại chúng Tỷ-kheo, đã đến
 Pāvā, đang ngụ ở Pāvā, trong rừng xoài của ta." Rồi Cunda, con người thợ
 rèn, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên.
@@ -2887,7 +2887,7 @@ thợ rèn, đang ngồi một bên, rồi từ chỗ ngồi đứng dậy ra đ
 Thế Tôn thọ thực nơi nhà Cunda, con người thợ rèn, một cơn bệnh nặng khởi
 lên. Bệnh lỵ ra máu, những cảm thọ dữ dội xảy ra, dẫn đến chết. Tại đó,
 Thế Tôn chánh niệm, tỉnh giác, chịu đựng, không bị bức bách. Rồi Thế Tôn
-gọi Tôn giả Ānanda: "Này Ānanda, chúng ta hãy đi đến Kusinārā." "Thưa vâng,
+gọi Tôn giả A-nan (Ānanda): "Này Ānanda, chúng ta hãy đi đến Câu-thi-na (Kusinārā)." "Thưa vâng,
 bạch Thế Tôn." Tôn giả Ānanda vâng lời Thế Tôn. \
 "Thọ thực nơi nhà Cunda, người thợ rèn — \
 tôi đã nghe như vậy; \
@@ -2905,7 +2905,7 @@ sẵn. Ngồi xong, Thế Tôn gọi Tôn giả Ānanda: "Này Ānanda, hãy đe
 đến cho Ta; này Ānanda, Ta khát, Ta sẽ uống." Được nói vậy, Tôn giả Ānanda
 bạch Thế Tôn: "Bạch Thế Tôn, vừa có khoảng năm trăm cỗ xe đi qua. Nước ấy
 bị bánh xe cắt, ít ỏi, bị khuấy, đục ngầu, đang chảy. Bạch Thế Tôn, sông
-Kukuṭṭhā không xa, nước trong, nước ngọt, nước mát, nước trắng, bến tốt,
+Cu-cu-tha (Kukuṭṭhā) không xa, nước trong, nước ngọt, nước mát, nước trắng, bến tốt,
 đáng ưa. Ở đó Thế Tôn sẽ uống nước và sẽ làm mát thân." Lần thứ hai, lần
 thứ ba, Thế Tôn cũng gọi Tôn giả Ānanda: "Này Ānanda, hãy đem nước uống
 đến cho Ta; này Ānanda, Ta khát, Ta sẽ uống." "Thưa vâng, bạch Thế Tôn."
@@ -2971,8 +2971,8 @@ do đoạn tận tham, sân, si, vị ấy tịch tịnh."
 
 === 76. Kinh Dân Ba-tha-li-ga-ma (Pāṭaligāmiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang du hành trong xứ Magadha
-cùng với đại chúng Tỷ-kheo, đến Pāṭaligāma. Các cư sĩ dân Pāṭaligāma nghe:
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang du hành trong xứ Ma-kiệt-đà (Magadha)
+cùng với đại chúng Tỷ-kheo, đến Ba-tha-li-ga-ma (Pāṭaligāma). Các cư sĩ dân Pāṭaligāma nghe:
 "Thế Tôn đang du hành trong xứ Magadha cùng với đại chúng Tỷ-kheo, đã đến
 Pāṭaligāma." Rồi các cư sĩ dân Pāṭaligāma đi đến chỗ Thế Tôn; đến rồi, đảnh
 lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, các cư sĩ dân Pāṭaligāma
@@ -3025,8 +3025,8 @@ cho họ ra về: "Này các gia chủ, đêm đã khuya rồi; nay các vị h�
 gì các vị nghĩ là phải thời." Rồi các cư sĩ dân Pāṭaligāma, hoan hỷ tín
 thọ lời Thế Tôn, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, đi nhiễu quanh về
 phía bên phải rồi ra đi. Rồi Thế Tôn, khi các cư sĩ dân Pāṭaligāma vừa đi
-chưa bao lâu, liền vào ngôi nhà trống. Bấy giờ, Sunidha và Vassakāra, đại
-thần xứ Magadha, đang xây thành tại Pāṭaligāma để ngăn dân Vajjī. Lúc ấy,
+chưa bao lâu, liền vào ngôi nhà trống. Bấy giờ, Sunidha và Vũ-xá (Vassakāra), đại
+thần xứ Magadha, đang xây thành tại Pāṭaligāma để ngăn dân Bạt-kỳ (Vajjī). Lúc ấy,
 nhiều chư thiên, hàng nghìn hàng nghìn, đang chiếm các khu đất tại
 Pāṭaligāma. Chỗ nào chư thiên có đại oai lực chiếm đất, thì tâm các vua
 và đại thần của vua có đại oai lực tại đó nghiêng về việc dựng nhà. Chỗ
@@ -3040,10 +3040,10 @@ của vua có đại oai lực tại đó nghiêng về việc dựng nhà. Ch�
 bậc trung chiếm đất, thì tâm các vua và đại thần của vua bậc trung tại đó
 nghiêng về việc dựng nhà. Chỗ nào chư thiên bậc thấp chiếm đất, thì tâm
 các vua và đại thần của vua bậc thấp tại đó nghiêng về việc dựng nhà. Rồi
-Thế Tôn, vào lúc rạng đông đêm ấy, thức dậy, gọi Tôn giả Ānanda: "Này
+Thế Tôn, vào lúc rạng đông đêm ấy, thức dậy, gọi Tôn giả A-nan (Ānanda): "Này
 Ānanda, những ai đang xây thành tại Pāṭaligāma?" "Bạch Thế Tôn, Sunidha và
 Vassakāra, đại thần xứ Magadha, đang xây thành tại Pāṭaligāma để ngăn dân
-Vajjī." "Này Ānanda, giống như đã cùng chư thiên Tāvatiṃsa bàn bạc; cũng
+Vajjī." "Này Ānanda, giống như đã cùng chư thiên Tam thập tam thiên (Tāvatiṃsa) bàn bạc; cũng
 vậy, này Ānanda, Sunidha và Vassakāra, đại thần xứ Magadha, đang xây thành
 tại Pāṭaligāma để ngăn dân Vajjī. Ở đây, này Ānanda, Ta đã thấy với thiên
 nhãn thanh tịnh, siêu nhân, nhiều chư thiên, hàng nghìn hàng nghìn, đang
@@ -3054,12 +3054,12 @@ việc dựng nhà. Chỗ nào chư thiên bậc trung chiếm đất, thì tâm
 thiên bậc thấp chiếm đất, thì tâm các vua và đại thần của vua bậc thấp tại
 đó nghiêng về việc dựng nhà. Này Ānanda, cho đến đâu là lãnh địa của bậc
 Thánh, cho đến đâu là đường buôn bán, đây sẽ là đô thành hàng đầu,
-Pāṭaliputta, nơi mở kiện hàng. Này Ānanda, Pāṭaliputta sẽ có ba tai nạn:
+Ba-tha-li-bu-đa (Pāṭaliputta), nơi mở kiện hàng. Này Ānanda, Pāṭaliputta sẽ có ba tai nạn:
 từ lửa, từ nước, hoặc từ sự chia rẽ nội bộ." Rồi Sunidha và Vassakāra, đại
 thần xứ Magadha, đi đến chỗ Thế Tôn; đến rồi, chào hỏi Thế Tôn. Sau khi
 trao đổi những lời chào hỏi thân thiện, đáng nhớ, họ đứng một bên. Đứng
 một bên, Sunidha và Vassakāra, đại thần xứ Magadha, bạch Thế Tôn: "Xin tôn
-giả Gotama nhận lời thọ trai hôm nay của chúng tôi cùng với chúng Tỷ-kheo."
+giả Cù-đàm (Gotama) nhận lời thọ trai hôm nay của chúng tôi cùng với chúng Tỷ-kheo."
 Thế Tôn nhận lời bằng sự im lặng.
 
 Rồi Sunidha và Vassakāra, đại thần xứ Magadha, biết Thế Tôn đã nhận lời,
@@ -3097,7 +3097,7 @@ những bài kệ ấy, từ chỗ ngồi đứng dậy ra đi.
 
 Bấy giờ, Sunidha và Vassakāra, đại thần xứ Magadha, đi theo sau lưng Thế
 Tôn: "Hôm nay Sa-môn Gotama ra cửa nào, cửa ấy sẽ mang tên 'cửa Gotama'.
-Ngài qua sông Gaṅgā ở bến nào, bến ấy sẽ mang tên 'bến Gotama'."
+Ngài qua sông Hằng (Gaṅgā) ở bến nào, bến ấy sẽ mang tên 'bến Gotama'."
 
 Rồi Thế Tôn ra cửa nào, cửa ấy mang tên 'cửa Gotama'. Rồi Thế Tôn đi đến
 sông Gaṅgā. Bấy giờ, sông Gaṅgā đầy nước, ngang bờ, quạ có thể uống. Một
@@ -3120,8 +3120,8 @@ các bậc trí đã sang rồi."
 
 === 77. Kinh Hai Đường (Dvidhāpathasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang đi đường trong xứ Kosala,
-Tôn giả Nāgasamāla làm thị giả đi sau. Tôn giả Nāgasamāla thấy chỗ đường
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn đang đi đường trong xứ Câu-tát-la (Kosala),
+Tôn giả Na-da-sa-ma-la (Nāgasamāla) làm thị giả đi sau. Tôn giả Nāgasamāla thấy chỗ đường
 chia hai giữa đường. Thấy vậy, vị ấy bạch Thế Tôn: "Bạch Thế Tôn, đây là
 đường; chúng ta hãy đi đường này." Được nói vậy, Thế Tôn bảo Tôn giả
 Nāgasamāla: "Này Nāgasamāla, đây là đường; chúng ta hãy đi đường này."
@@ -3147,9 +3147,9 @@ như chim koñca uống sữa, bỏ nước sông."
 
 === 78. Kinh Tỳ-xá-khư (Visākhāsuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong
-Pubbārāma, lâu đài của Migāramātā. Bấy giờ, cháu gái yêu quý, dễ thương
-của Visākhā Migāramātā đã mệnh chung. Rồi Visākhā Migāramātā, y phục ướt,
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong
+Đông Viên (Pubbārāma), lâu đài của Lộc Mẫu (Migāramātā). Bấy giờ, cháu gái yêu quý, dễ thương
+của Tỳ-xá-khư (Visākhā) Migāramātā đã mệnh chung. Rồi Visākhā Migāramātā, y phục ướt,
 tóc ướt, giữa ban ngày đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và
 ngồi xuống một bên. Visākhā Migāramātā đang ngồi một bên, Thế Tôn nói với
 bà: "Này Visākhā, bà từ đâu đến, y phục ướt, tóc ướt, đến đây giữa ban
@@ -3186,8 +3186,8 @@ chớ tạo điều yêu thương đâu đó ở đời."
 
 === 79. Kinh Đáp-ba (Paṭhamadabbasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Rājagaha, trong rừng
-Veḷuvana, chỗ nuôi sóc Kalandaka. Rồi Tôn giả Dabba Mallaputta đi đến chỗ
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong rừng
+Trúc Lâm (Veḷuvana), chỗ nuôi sóc Ca-lan-đa-ca (Kalandaka). Rồi Tôn giả Dabba Mallaputta đi đến chỗ
 Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn
 giả Dabba Mallaputta bạch Thế Tôn: "Bạch Thiện Thệ, nay đã đến lúc con
 nhập Niết-bàn." "Này Dabba, nay ông hãy làm những gì ông nghĩ là phải
@@ -3211,8 +3211,8 @@ thức đã lặn mất."
 
 === 80. Kinh Đáp-ba (Dutiyadabbasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng
-Jetavana, khu vườn của Anāthapiṇḍika. Tại đó, Thế Tôn gọi các Tỷ-kheo:
+#super[1] Tôi nghe như vầy. Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
+Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Tại đó, Thế Tôn gọi các Tỷ-kheo:
 "Này các Tỷ-kheo." "Bạch Thế Tôn." Các Tỷ-kheo ấy vâng lời Thế Tôn. Thế
 Tôn nói: "Này các thầy, thân của Dabba Mallaputta — sau khi bay lên hư
 không, ngồi kiết già giữa không trung trên bầu trời, nhập hỏa giới, xuất
@@ -3239,8 +3239,8 @@ các vị đã đạt lạc bất động."
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
 Bốn kinh Niết-bàn đã nói, \
-Cunda, dân Pāṭaligāma; \
-Hai đường, Visākhā, \
+Thuần-đà (Cunda), dân Ba-tha-li-ga-ma (Pāṭaligāma); \
+Hai đường, Tỳ-xá-khư (Visākhā), \
 cùng Dabba là mười kinh.
 
 #strong[Kệ tóm tắt các phẩm trong Udāna]
@@ -3250,7 +3250,7 @@ phẩm thứ hai là Mucalinda; \
 phẩm Nanda thù thắng là thứ ba, \
 phẩm Meghiya thù thắng là thứ tư.
 
-Phẩm thứ năm thù thắng ở đây là Soṇa, \
+Phẩm thứ năm thù thắng ở đây là Tô-na (Soṇa), \
 phẩm thứ sáu thù thắng là Người Mù Từ Thuở Bé; \
 phẩm thứ bảy thù thắng là Phẩm Nhỏ, \
 phẩm Dân Pāṭaligāma là phẩm thứ tám.

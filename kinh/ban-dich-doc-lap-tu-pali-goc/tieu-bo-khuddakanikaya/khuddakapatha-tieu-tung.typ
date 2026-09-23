@@ -71,7 +71,7 @@ _Trạng thái: đã dịch 9/9 đơn vị (1–9); đã trọn tập._
 
 == 5. Kinh Điềm Lành (Maṅgalasuttaṃ)
 
-#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Khi đêm đã về khuya, một chư thiên với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng qua một bên, chư thiên ấy nói lên bài kệ với Thế Tôn:
+#super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Khi đêm đã về khuya, một chư thiên với dung sắc thù thắng, chiếu sáng khắp cả rừng Jetavana, đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng qua một bên. Đứng qua một bên, chư thiên ấy nói lên bài kệ với Thế Tôn:
 
 #super[2] "Chư thiên và loài người rất nhiều \
 đã suy nghĩ về các điềm lành; \
@@ -173,7 +173,7 @@ vật bố thí cho họ có quả lớn. \
 do sự thật này, nguyện được an lành.
 
 #super[7] Những vị khéo gắn chặt với tâm kiên cố, \
-không còn dục vọng trong giáo pháp của Gotama; \
+không còn dục vọng trong giáo pháp của Cù-đàm (Gotama); \
 họ đã đạt đích, đã lặn vào bất tử, \
 hưởng sự tịch tịnh nhận được không công. \
 Đây cũng là châu báu thù thắng nơi Tăng; \
@@ -334,7 +334,7 @@ không phải tất cả, không phải mọi lúc, \
 
 #super[4] Kho có thể lệch khỏi chỗ, \
 hay người ấy quên mất dấu; \
-các Nāga có thể lấy đi, \
+các Na-già (Nāga) có thể lấy đi, \
 hay Dạ-xoa mang mất.
 
 #super[5] Những kẻ thừa kế không thương \

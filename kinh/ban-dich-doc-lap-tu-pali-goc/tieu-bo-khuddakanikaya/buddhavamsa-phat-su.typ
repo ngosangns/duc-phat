@@ -67,7 +67,7 @@ bậc Đạo sư thế gian hóa hiện đường kinh hành, \
 khéo hoàn thành, tạo thành bằng mọi châu báu.
 
 #super[12] Trong mười ngàn thế giới, \
-các núi Sineru tối thắng \
+các núi Tu-di (Sineru) tối thắng \
 Ngài cho hiện ra như những cột trụ nối tiếp \
 trên đường kinh hành bằng châu báu.
 
@@ -92,7 +92,7 @@ bậc Chánh Đẳng Giác đang chói sáng, \
 Đấng Chiến thắng kinh hành trên đường kinh hành.
 
 #super[17] Hoa Mandārava cõi trời, \
-hoa sen, hoa Pārichattaka; \
+hoa sen, hoa Trú độ thọ (Pārichattaka); \
 tất cả chư thiên đã tụ hội \
 rải xuống trên đường kinh hành.
 
@@ -109,7 +109,7 @@ tâm phấn chấn, ý vui, \
 nhìn bậc Đạo sư thế gian.
 
 #super[20] Chư thiên, Càn-thát-bà, loài người, La-sát, \
-Nāga, Kim xí điểu, cùng Khẩn-na-la, \
+Na-già (Nāga), Kim xí điểu, cùng Khẩn-na-la, \
 nhìn bậc thương xót, lợi lạc thế gian, \
 như vòng trăng vươn cao trên hư không.
 
@@ -222,9 +222,9 @@ những ai xứng đáng được lạy; \
 Ngài là tối thắng giữa tất cả, này Đại hùng, \
 không có ai giống Ngài."
 
-#super[43] Sāriputta, bậc đại tuệ, \
+#super[43] Xá-lợi-phất (Sāriputta), bậc đại tuệ, \
 thông thạo định và thiền, \
-đứng ngay trên núi Gijjhakūṭa, \
+đứng ngay trên núi Linh Thứu (Gijjhakūṭa), \
 nhìn thấy bậc Đạo sư thế gian.
 
 #super[44] Như cây sāla chúa đang nở rộ, \
@@ -300,27 +300,27 @@ khéo léo về định và thiền, \
 #super[58] Như mây đen sấm vang, \
 tươi đẹp như sen xanh, \
 về thần lực không ai sánh, \
-Moggallāna, bậc đại thần thông.
+Mục-kiền-liên (Moggallāna), bậc đại thần thông.
 
-#super[59] Trưởng lão Mahākassapa nữa, \
+#super[59] Trưởng lão Ma-ha-ca-diếp (Mahākassapa) nữa, \
 như vàng đã nung, \
 đứng đầu về hạnh đầu-đà, \
 được tán thán, được bậc Đạo sư khen ngợi.
 
 #super[60] Bậc đứng đầu về thiên nhãn, \
-Anuruddha, bậc có đại chúng; \
+A-na-luật-đà (Anuruddha), bậc có đại chúng; \
 bậc tôn quý trong thân tộc Thế Tôn, \
 đứng không xa.
 
 #super[61] Thông thạo tội và không tội, \
 cùng những tội còn chữa được, \
 đứng đầu về Luật, \
-Upāli được bậc Đạo sư khen ngợi.
+Ưu-ba-ly (Upāli) được bậc Đạo sư khen ngợi.
 
 #super[62] Thấu suốt nghĩa lý vi tế, tinh xảo, \
 bậc tối thắng giữa những người thuyết pháp, có đồ chúng; \
 ẩn sĩ, con của Mantānī, \
-nổi danh với tên Puṇṇa.
+nổi danh với tên Phú-lâu-na (Puṇṇa).
 
 #super[63] Biết tâm của những vị ấy, \
 bậc Mâu-ni khéo ví dụ, \
@@ -427,7 +427,7 @@ hãy hết lòng thực hành."
 
 #super[1] Cách đây bốn a-tăng-kỳ \
 và một trăm ngàn kiếp, \
-có một thành tên Amara, \
+có một thành tên A-ma-la (Amara), \
 đẹp đẽ, đáng yêu.
 
 #super[2] Không vắng mười thứ tiếng, \
@@ -444,7 +444,7 @@ muôn người tụ hội; \
 thịnh vượng như thành của chư thiên, \
 chỗ ở của những người làm phước.
 
-#super[4] Trong thành Amaravatī, \
+#super[4] Trong thành A-ma-la-ba-đi (Amaravatī), \
 có Bà-la-môn tên Sumedha, \
 tích trữ nhiều ức của cải, \
 giàu tiền của và lúa gạo.
@@ -562,10 +562,10 @@ vì sợ bị cắt đứt điều lành."
 #super[27] Nghĩ như vậy rồi, \
 ta bố thí trăm ức của cải \
 cho kẻ có chỗ nương và kẻ không chỗ nương, \
-rồi đi đến Himavanta.
+rồi đi đến Tuyết sơn (Himavanta).
 
 #super[28] Không xa Himavanta, \
-có núi tên Dhammika; \
+có núi tên Đam-mi-ca (Dhammika); \
 am của ta được làm khéo, \
 am lá được dựng đẹp.
 
@@ -596,7 +596,7 @@ ta chứng được sức mạnh thắng trí.
 
 #super[34] Khi ta đã thành tựu như vậy, \
 đã tự tại trong pháp hành, \
-Đấng Chiến thắng tên Dīpaṅkara, \
+Đấng Chiến thắng tên Nhiên Đăng (Dīpaṅkara), \
 bậc Đạo sư thế gian, ra đời.
 
 #super[35] Khi Ngài ra đời, đản sanh, \
@@ -674,7 +674,7 @@ cả hai đều tấu lên, \
 đi theo Như Lai.
 
 #super[49] Hoa Mandārava cõi trời, \
-hoa sen, hoa Pārichattaka, \
+hoa sen, hoa Trú độ thọ (Pārichattaka), \
 chư thiên ở hư không \
 rải xuống khắp các phương.
 
@@ -740,15 +740,15 @@ nói lời này:
 sau vô lượng kiếp, \
 sẽ thành Phật ở đời."
 
-#super[62] "Từ thành tên Kapila đáng yêu, \
+#super[62] "Từ thành tên Ca-bi-la (Kapila) đáng yêu, \
 Như Lai sẽ xuất gia; \
 tinh cần nỗ lực, \
 làm hạnh khó làm."
 
 #super[63] "Như Lai sẽ ngồi \
-dưới gốc cây Ajapāla; \
+dưới gốc cây A-xà-bạt-la (Ajapāla); \
 nhận sữa cháo ở đó, \
-rồi đi đến Nerañjarā."
+rồi đi đến Ni-liên-thiền (Nerañjarā)."
 
 #super[64] "Bên bờ Nerañjarā, \
 Đấng Chiến thắng ấy sẽ thọ sữa cháo; \
@@ -757,31 +757,31 @@ Ngài sẽ đi đến gốc Bồ-đề."
 
 #super[65] "Rồi bậc Vô thượng sẽ đi nhiễu \
 bồ-đề đạo tràng; \
-dưới gốc cây Assattha, \
+dưới gốc cây A-sát-tha (Assattha), \
 bậc Đại danh sẽ giác ngộ."
 
 #super[66] "Mẹ sanh ra vị này \
-sẽ tên là Māyā; \
-cha tên Suddhodana, \
-vị này sẽ là Gotama."
+sẽ tên là Ma-da (Māyā); \
+cha tên Tịnh Phạn (Suddhodana), \
+vị này sẽ là Cù-đàm (Gotama)."
 
 #super[67] "Không lậu hoặc, ly tham, \
 tâm tịnh, định tĩnh, \
 Kolita và Upatissa \
 sẽ là đệ tử hàng đầu; \
-thị giả tên Ānanda \
+thị giả tên A-nan (Ānanda) \
 sẽ hầu hạ Đấng Chiến thắng này."
 
-#super[68] "Khemā và Uppalavaṇṇā \
+#super[68] "An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) \
 sẽ là nữ đệ tử hàng đầu, \
 không lậu hoặc, ly tham, \
 tâm tịnh, định tĩnh; \
 cây Bồ-đề của Thế Tôn ấy \
 được gọi là Assattha."
 
-#super[69] "Citta và Hatthāḷavaka \
+#super[69] "Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) \
 sẽ là nam cư sĩ hầu cận hàng đầu; \
-Uttarā Nandamātā \
+Uất-đa-la (Uttarā) Nan-đa-mẫu (Nandamātā) \
 sẽ là nữ cư sĩ hầu cận hàng đầu."
 
 #super[70] Nghe lời ấy \
@@ -911,7 +911,7 @@ chắc chắn Ngài sẽ thành Phật."
 
 #super[95] "Chòm sao chói sáng, \
 các tú xứ trên vòm trời; \
-mặt trăng đứng với Visākhā, \
+mặt trăng đứng với Tỳ-xá-khư (Visākhā), \
 chắc chắn Ngài sẽ thành Phật."
 
 #super[96] "Những loài ở hang, ở khe, \
@@ -1183,7 +1183,7 @@ pháp thứ bảy này mà thọ trì; \
 lời không hai nghĩa ở đó, \
 Ngài sẽ chứng Chánh giác."
 
-#super[148] "Như ngôi sao Osadhī, \
+#super[148] "Như ngôi sao Ô-sa-đi (Osadhī), \
 cân bằng trong thế gian cùng chư thiên, \
 đúng thời, theo mùa hay theo mưa, \
 không lệch khỏi đường đi."
@@ -1367,7 +1367,7 @@ thanh tịnh, chói sáng, \
 cũng vậy, với tâm viên mãn, \
 hãy chói sáng trong mười ngàn thế giới."
 
-#super[185] "Như mặt trời thoát khỏi Rāhu, \
+#super[185] "Như mặt trời thoát khỏi La-hầu (Rāhu), \
 chói sáng hơn bằng hơi nóng; \
 cũng vậy, thoát khỏi thế gian, \
 Ngài hãy chói sáng bằng oai nghi."
@@ -1389,7 +1389,7 @@ lúc ấy đi vào rừng.
 #super[1] Lúc ấy, sau khi cúng dường vật thực \
 cho bậc Đạo Sư đời cùng chúng Tăng, \
 họ đi đến nương tựa \
-nơi bậc Thầy Dīpaṅkara.
+nơi bậc Thầy Nhiên Đăng (Dīpaṅkara).
 
 #super[2] Như Lai đặt một số người vào sự quy y; \
 một số vào năm giới; \
@@ -1435,11 +1435,11 @@ kỳ họp thứ nhất là \
 một trăm ngàn koṭi vị.
 
 #super[11] Lại nữa, khi bậc Chiến Thắng ẩn cư \
-tại núi Nāradakūṭa, \
+tại núi Na-la-đa-cu-tha (Nāradakūṭa), \
 một trăm koṭi vị đoạn tận lậu hoặc, hết cấu uế, \
 đã tụ họp.
 
-#super[12] Lúc Đại hùng, tại núi đá Sudassana, \
+#super[12] Lúc Đại hùng, tại núi đá Thiện Kiến (Sudassana), \
 Đại Mâu-ni làm lễ Tự tứ \
 với chín ngàn koṭi vị.
 
@@ -1486,24 +1486,24 @@ bậc Mâu-ni giác ngộ tâm ý; \
 Đại Mâu-ni Dīpaṅkara.
 
 #super[23] Đại hùng chuyển Pháp luân \
-tại Nandārāma, trong Sirīghara; \
+tại Nan-đa-la-ma (Nandārāma), trong Sirīghara; \
 ngồi dưới gốc Sirīsa, \
 ngài đè bẹp các ngoại đạo.
 
-#super[24] Sumaṅgala và Tissa là cặp đại đệ tử; \
-Sāgata là thị giả hầu cận \
+#super[24] Su-mang-ga-la (Sumaṅgala) và Đề-xá (Tissa) là cặp đại đệ tử; \
+Sa-già-đà (Sāgata) là thị giả hầu cận \
 của bậc Thầy Dīpaṅkara.
 
 #super[25] Nandā và Sunandā là cặp nữ đại đệ tử; \
-cây Bồ-đề của Thế Tôn ấy gọi là Pipphalī.
+cây Bồ-đề của Thế Tôn ấy gọi là Bip-ha-li (Pipphalī).
 
 #super[26] Tapussa và Bhallika là cận sự nam hàng đầu; \
-Sirimā và Koṇā là cận sự nữ hàng đầu \
+Thi-lợi-ma (Sirimā) và Koṇā là cận sự nữ hàng đầu \
 của bậc Thầy Dīpaṅkara.
 
 #super[27] Đại Mâu-ni Dīpaṅkara cao tám mươi khuỷu tay; \
 rạng rỡ như cây đèn, \
-như vua cây Sāla đang nở hoa.
+như vua cây Sa-la (Sāla) đang nở hoa.
 
 #super[28] Tuổi thọ của bậc Đại sĩ ấy là một trăm ngàn năm; \
 trụ thế chừng ấy, ngài độ được nhiều người.
@@ -1526,7 +1526,7 @@ cao ba mươi sáu do-tuần.
 
 == 4. Phật sử Kiều-trần-như (Koṇḍaññabuddhavaṃso)
 
-#super[1] Sau Dīpaṅkara, bậc Đạo Sư tên Koṇḍañña; \
+#super[1] Sau Nhiên Đăng (Dīpaṅkara), bậc Đạo Sư tên Câu- ly-nhã (Koṇḍañña); \
 hào quang vô tận, danh vọng vô lượng, \
 không thể lường, khó đến gần.
 
@@ -1578,25 +1578,25 @@ một vị Phật sẽ xuất hiện ở đời.
 #super[12] Sau khi tinh tấn nỗ lực, \
 làm hạnh khó làm, \
 bậc Chánh Đẳng Giác danh vọng lớn \
-sẽ giác ngộ dưới gốc cây Assattha.
+sẽ giác ngộ dưới gốc cây A-sát-tha (Assattha).
 
-#super[13] Thân mẫu của vị ấy tên Māyā, \
-cha tên Suddhodana, \
-vị ấy sẽ là Gotama.
+#super[13] Thân mẫu của vị ấy tên Ma-da (Māyā), \
+cha tên Tịnh Phạn (Suddhodana), \
+vị ấy sẽ là Cù-đàm (Gotama).
 
 #super[14] Kolita và Upatissa \
 sẽ là cặp đại đệ tử; \
-thị giả tên Ānanda \
+thị giả tên A-nan (Ānanda) \
 sẽ hầu cận bậc Chiến Thắng này.
 
-#super[15] Khemā và Uppalavaṇṇā \
+#super[15] An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) \
 sẽ là cặp nữ đại đệ tử; \
 cây Bồ-đề của Thế Tôn ấy \
 gọi là Assattha.
 
-#super[16] Citta và Hatthāḷavaka \
+#super[16] Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) \
 sẽ là cận sự nam hàng đầu; \
-Nandamātā và Uttarā \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) \
 sẽ là cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn \
 là một trăm năm."
@@ -1639,11 +1639,11 @@ ngồi, đứng, kinh hành; \
 ta sanh lên Phạm thiên giới.
 
 #super[25] Kinh đô tên Rammavatī, vua Sunanda, \
-thân mẫu tên Sujātā — \
+thân mẫu tên Tô-già-đà (Sujātā) — \
 của bậc Đại sĩ Koṇḍañña.
 
 #super[26] Ngài sống đời tại gia mười ngàn năm; \
-ba lầu đài tối thắng: Suci, Suruci và Subha.
+ba lầu đài tối thắng: Suci, Suruci và TU-BÀ (Subha).
 
 #super[27] Ba trăm ngàn nữ nhân trang điểm; \
 người vợ tên Rucidevī, con trai Vijitasena.
@@ -1657,15 +1657,15 @@ Koṇḍañña bậc tối thắng hai chân; \
 tại thành tối thắng của chư thiên.
 
 #super[30] Bhadda và Subhadda là cặp đại đệ tử; \
-Anuruddha là thị giả hầu cận \
+A-na-luật-đà (Anuruddha) là thị giả hầu cận \
 của bậc Đại sĩ Koṇḍañña.
 
-#super[31] Tissā và Upatissā là cặp nữ đại đệ tử; \
+#super[31] Đề-xá (Tissā) và Upatissā là cặp nữ đại đệ tử; \
 cây Bồ-đề của bậc Đại sĩ Koṇḍañña \
 là Sālakalyāṇika.
 
-#super[32] Soṇa và Upasoṇa là cận sự nam hàng đầu; \
-Nandā và Sirīmā là cận sự nữ hàng đầu.
+#super[32] Tô-na (Soṇa) và Upasoṇa là cận sự nam hàng đầu; \
+Nandā và Thi-lợi-ma (Sirīmā) là cận sự nữ hàng đầu.
 
 #super[33] Đại Mâu-ni cao tám mươi tám khuỷu tay; \
 rạng rỡ như vua sao, \
@@ -1690,14 +1690,14 @@ tất cả đều biến mất; \
 há chẳng phải mọi hành đều trống rỗng sao?
 
 #super[38] Đức Phật tối thắng Koṇḍañña \
-tịch diệt tại Candārāma; \
+tịch diệt tại Xan-đa-la-ma (Candārāma); \
 ngay tại đó ngôi tháp rực rỡ \
 cao bảy do-tuần.
 #strong[(Phật sử Koṇḍañña — thứ hai.)]
 
 == 5. Phật sử Mạnh-già-la (Maṅgalabuddhavaṃso)
 
-#super[1] Sau Koṇḍañña, bậc Đạo Sư tên Maṅgala; \
+#super[1] Sau Câu- ly-nhã (Koṇḍañña), bậc Đạo Sư tên Mạnh-già-la (Maṅgala); \
 diệt bóng tối ở đời, \
 ngài giương cao ngọn đuốc Pháp.
 
@@ -1754,11 +1754,11 @@ Maṅgala bậc tối thắng hai chân: \
 vị này sẽ thành Phật.
 
 #super[13] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
-mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc A-sát-tha (Assattha); \
+mẹ tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), Ngài sẽ là Cù-đàm (Gotama); \
+Kolita và Upatissa cặp đại đệ tử, A-nan (Ānanda) hầu cận bậc Chiến Thắng; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) cận sự nam hàng đầu, Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -1791,10 +1791,10 @@ thân mẫu tên Uttarā — \
 của bậc Đại sĩ Maṅgala.
 
 #super[19] Ngài sống đời tại gia chín ngàn năm; \
-ba lầu đài tối thắng: Yasavā, Sucimā và Sirīmā.
+ba lầu đài tối thắng: Yasavā, Sucimā và Thi-lợi-ma (Sirīmā).
 
 #super[20] Ba mươi ngàn nữ nhân trang điểm; \
-người vợ tên Yasavatī, con trai Sīvala.
+người vợ tên Xứng Giới (Yasavatī), con trai Sīvala.
 
 #super[21] Thấy bốn tướng, ngài xuất gia bằng xe ngựa; \
 bậc Chiến Thắng tinh tấn nỗ lực trọn tám tháng.
@@ -1802,16 +1802,16 @@ bậc Chiến Thắng tinh tấn nỗ lực trọn tám tháng.
 #super[22] Được Phạm thiên thỉnh cầu, \
 bậc Đạo Sư tên Maṅgala; \
 Đại hùng chuyển Pháp luân \
-tại rừng Sirī tối thắng.
+tại rừng Si-li (Sirī) tối thắng.
 
 #super[23] Sudeva và Dhammasena là cặp đại đệ tử; \
 Pālita là thị giả hầu cận \
 của bậc Đại sĩ Maṅgala.
 
-#super[24] Sīvalā và Asokā là cặp nữ đại đệ tử; \
-cây Bồ-đề của Thế Tôn ấy gọi là cây Nāga.
+#super[24] Sīvalā và A-dục (Asokā) là cặp nữ đại đệ tử; \
+cây Bồ-đề của Thế Tôn ấy gọi là cây Na-già (Nāga).
 
-#super[25] Nanda và Visākha là cận sự nam hàng đầu; \
+#super[25] Nanda và Tỳ-xá-khư (Visākha) là cận sự nam hàng đầu; \
 Anulā và Sutanā là cận sự nữ hàng đầu.
 
 #super[26] Đại Mâu-ni cao tám mươi tám ratana; \
@@ -1841,7 +1841,7 @@ cho đời cùng chư thiên, \
 cháy lên như khối lửa, \
 như mặt trời lặn.
 
-#super[32] Tại vườn tên Vassara, \
+#super[32] Tại vườn tên Ba-sa-la (Vassara), \
 đức Phật Maṅgala nhập Niết-bàn; \
 ngay tại đó tháp của bậc Chiến Thắng \
 cao ba mươi do-tuần.
@@ -1849,12 +1849,12 @@ cao ba mươi do-tuần.
 
 == 6. Phật sử Tô-ma-na (Sumanabuddhavaṃso)
 
-#super[1] Sau Maṅgala, bậc Đạo Sư tên Sumana; \
+#super[1] Sau Mạnh-già-la (Maṅgala), bậc Đạo Sư tên Sumana; \
 vô song giữa các pháp, \
 tối thắng giữa hết thảy chúng sanh.
 
 #super[2] Lúc ấy ngài đánh trống Bất tử \
-tại thành Mekhala; \
+tại thành Mê-kha-la (Mekhala); \
 giáo pháp chín chi của bậc Chiến Thắng, \
 cùng với pháp loa.
 
@@ -1911,7 +1911,7 @@ trên núi vàng thanh tịnh, \
 kỳ họp thứ hai là \
 chín mươi ngàn koṭi vị.
 
-#super[14] Khi Sakka, vua trời, \
+#super[14] Khi Thích-ca (Sakka), vua trời, \
 đi đến yết kiến đức Phật, \
 kỳ họp thứ ba là \
 tám mươi ngàn koṭi vị.
@@ -1935,11 +1935,11 @@ Sumana Đạo Sư đời: \
 vị này sẽ thành Phật.
 
 #super[19] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
-mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc A-sát-tha (Assattha); \
+mẹ tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), Ngài sẽ là Cù-đàm (Gotama); \
+Kolita và Upatissa cặp đại đệ tử, A-nan (Ānanda) hầu cận bậc Chiến Thắng; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) cận sự nam hàng đầu, Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -1953,12 +1953,12 @@ trong thời vị lai chúng ta sẽ được gặp Ngài."
 ta phát nguyện cao hơn \
 để viên mãn mười ba-la-mật.
 
-#super[21] Kinh đô tên Mekhala, vua Sudatta, \
-thân mẫu tên Sirimā — \
+#super[21] Kinh đô tên Mekhala, vua Tu-đạt-đa (Sudatta), \
+thân mẫu tên Thi-lợi-ma (Sirimā) — \
 của bậc Đại sĩ Sumana.
 
 #super[22] Ngài sống đời tại gia chín ngàn năm; \
-ba lầu đài tối thắng: Canda, Sucanda và Vaṭaṃsa.
+ba lầu đài tối thắng: Tàn bạo (Canda), Sucanda và Vaṭaṃsa.
 
 #super[23] Sáu triệu ba trăm ngàn nữ nhân trang điểm; \
 người vợ tên Vaṭaṃsikā, con trai Anūpama.
@@ -1972,15 +1972,15 @@ Sumana Đạo Sư đời; \
 tại thành Mekhala tối thắng.
 
 #super[26] Saraṇa và Bhāvitatta là cặp đại đệ tử; \
-Udena là thị giả hầu cận \
+U-đê-na (Udena) là thị giả hầu cận \
 của bậc Đại sĩ Sumana.
 
-#super[27] Soṇā và Upasoṇā là cặp nữ đại đệ tử; \
+#super[27] Tô-na (Soṇā) và Upasoṇā là cặp nữ đại đệ tử; \
 đức Phật danh vọng vô lượng ấy \
-giác ngộ dưới gốc cây Nāga.
+giác ngộ dưới gốc cây Na-già (Nāga).
 
-#super[28] Varuṇa và Saraṇa là cận sự nam hàng đầu; \
-Cālā và Upacālā là cận sự nữ hàng đầu.
+#super[28] Ba-lâu-na (Varuṇa) và Saraṇa là cận sự nam hàng đầu; \
+Xa-la (Cālā) và U-ba-xa-la (Upacālā) là cận sự nữ hàng đầu.
 
 #super[29] Đức Phật ấy, theo chiều cao, \
 vươn chín mươi khuỷu tay; \
@@ -2006,14 +2006,14 @@ tất cả đều biến mất; \
 há chẳng phải mọi hành đều trống rỗng sao?
 
 #super[34] Đức Phật Sumana, bậc mang danh vọng, \
-tịch diệt tại Aṅgārāma; \
+tịch diệt tại Ang-ga-la-ma (Aṅgārāma); \
 ngay tại đó tháp của bậc Chiến Thắng \
 cao bốn do-tuần.
 #strong[(Phật sử Sumana — thứ tư.)]
 
 == 7. Phật sử Lê-bát-đa (Revatabuddhavaṃso)
 
-#super[1] Sau Sumana, bậc Đạo Sư tên Revata; \
+#super[1] Sau Sumana, bậc Đạo Sư tên Ly-bà-đa (Revata); \
 vô song, không ai sánh, \
 bậc Chiến Thắng tối thắng không thể lường.
 
@@ -2071,11 +2071,11 @@ Revata Đạo Sư đời: \
 vị này sẽ thành Phật.
 
 #super[13] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
-mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc A-sát-tha (Assattha); \
+mẹ tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), Ngài sẽ là Cù-đàm (Gotama); \
+Kolita và Upatissa cặp đại đệ tử, A-nan (Ānanda) hầu cận bậc Chiến Thắng; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) cận sự nam hàng đầu, Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -2099,12 +2099,12 @@ thân mẫu tên Vipulā — \
 của bậc Đại sĩ Revata.
 
 #super[17] Ngài sống đời tại gia sáu ngàn năm; \
-Sudassana, Ratanagghi, và Āveḷa trang hoàng — \
+Thiện Kiến (Sudassana), Ratanagghi, và Āveḷa trang hoàng — \
 ba lầu đài tối thắng, \
 do nghiệp phước sanh ra.
 
 #super[18] Ba mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Sudassanā, con trai Varuṇa.
+người vợ tên Sudassanā, con trai Ba-lâu-na (Varuṇa).
 
 #super[19] Thấy bốn tướng, ngài xuất gia bằng cỗ xe; \
 bậc Chiến Thắng tinh tấn nỗ lực trọn bảy tháng.
@@ -2112,18 +2112,18 @@ bậc Chiến Thắng tinh tấn nỗ lực trọn bảy tháng.
 #super[20] Được Phạm thiên thỉnh cầu, \
 Revata Đạo Sư đời; \
 Đại hùng chuyển Pháp luân \
-tại Varuṇārāma, trong Sirīghara.
+tại Ba-lu-na-la-ma (Varuṇārāma), trong Sirīghara.
 
 #super[21] Varuṇa và Brahmadeva là cặp đại đệ tử; \
-Sambhava là thị giả hầu cận \
+Tam-bà-bà (Sambhava) là thị giả hầu cận \
 của bậc Đại sĩ Revata.
 
-#super[22] Bhaddā và Subhaddā là cặp nữ đại đệ tử; \
+#super[22] Cát Tường (Bhaddā) và Thiện Hiền phi (Subhaddā) là cặp nữ đại đệ tử; \
 đức Phật vô song ấy \
-giác ngộ dưới gốc cây Nāga.
+giác ngộ dưới gốc cây Na-già (Nāga).
 
 #super[23] Paduma và Kuñjara là cận sự nam hàng đầu; \
-Sirīmā và Yasavatī là cận sự nữ hàng đầu.
+Thi-lợi-ma (Sirīmā) và Xứng Giới (Yasavatī) là cận sự nữ hàng đầu.
 
 #super[24] Đức Phật ấy, theo chiều cao, \
 vươn tám mươi khuỷu tay; \
@@ -2156,7 +2156,7 @@ khắp các xứ.
 
 == 8. Phật sử Sô-bhi-đa (Sobhitabuddhavaṃso)
 
-#super[1] Sau Revata, bậc Đạo Sư tên Sobhita; \
+#super[1] Sau Ly-bà-đa (Revata), bậc Đạo Sư tên Sobhita; \
 định tĩnh, tâm tịch, \
 vô song, không người đối.
 
@@ -2165,7 +2165,7 @@ xoay chuyển tâm ý; \
 chứng giác ngộ trọn vẹn, \
 ngài chuyển Pháp luân.
 
-#super[3] Từ Avīci phía dưới \
+#super[3] Từ Vô gián hay A-tỳ (Avīci) phía dưới \
 đến đỉnh hữu phía trên, \
 trong khoảng ấy chỉ một hội chúng \
 khi thuyết Pháp.
@@ -2209,7 +2209,7 @@ giáng xuống, \
 lúc ấy kỳ họp thứ ba là \
 tám mươi koṭi vị.
 
-#super[12] Lúc ấy ta là Bà-la-môn tên Sujāta; \
+#super[12] Lúc ấy ta là Bà-la-môn tên Tô-già-đà (Sujāta); \
 ta làm no đủ đức Phật cùng các đệ tử \
 bằng cơm nước.
 
@@ -2219,11 +2219,11 @@ Sobhita Đạo Sư đời: \
 vị này sẽ thành Phật.
 
 #super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
-mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc A-sát-tha (Assattha); \
+mẹ tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), Ngài sẽ là Cù-đàm (Gotama); \
+Kolita và Upatissa cặp đại đệ tử, A-nan (Ānanda) hầu cận bậc Chiến Thắng; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) cận sự nam hàng đầu, Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -2237,7 +2237,7 @@ trong thời vị lai chúng ta sẽ được gặp Ngài."
 để đạt chính nghĩa ấy, \
 ta lập chí kiên cường.
 
-#super[16] Kinh đô tên Sudhamma, vua Sudhamma, \
+#super[16] Kinh đô tên Thiện Pháp (Sudhamma), vua Sudhamma, \
 thân mẫu tên Sudhammā — \
 của bậc Đại sĩ Sobhita.
 
@@ -2245,7 +2245,7 @@ của bậc Đại sĩ Sobhita.
 ba lầu đài tối thắng: Kumuda, Nāḷina và Paduma.
 
 #super[18] Ba mươi bảy ngàn nữ nhân trang điểm; \
-người vợ tên Maṇilā, con trai Sīha.
+người vợ tên Maṇilā, con trai Sĩ-ha (Sīha).
 
 #super[19] Thấy bốn tướng, ngài xuất gia bằng chính lầu đài; \
 bậc Tối thắng nhân hành tinh tấn bảy ngày.
@@ -2255,15 +2255,15 @@ Sobhita Đạo Sư đời; \
 Đại hùng chuyển Pháp luân \
 tại vườn Sudhamma tối thắng.
 
-#super[21] Asama và Sunetta là cặp đại đệ tử; \
-Anoma là thị giả hầu cận \
+#super[21] Asama và Su-nê-đa (Sunetta) là cặp đại đệ tử; \
+A-nô-ma (Anoma) là thị giả hầu cận \
 của bậc Đại sĩ Sobhita.
 
-#super[22] Nakulā và Sujātā là cặp nữ đại đệ tử; \
+#super[22] Na-cu-la (Nakulā) và Sujātā là cặp nữ đại đệ tử; \
 đức Phật ấy, đang giác ngộ, \
-giác ngộ dưới gốc cây Nāga.
+giác ngộ dưới gốc cây Na-già (Nāga).
 
-#super[23] Ramma và Sudatta là cận sự nam hàng đầu; \
+#super[23] Ramma và Tu-đạt-đa (Sudatta) là cận sự nam hàng đầu; \
 Nakulā và Cittā là cận sự nữ hàng đầu.
 
 #super[24] Đại Mâu-ni cao năm mươi tám ratana; \
@@ -2294,7 +2294,7 @@ tất cả đều biến mất; \
 há chẳng phải mọi hành đều trống rỗng sao?
 
 #super[30] Bậc Chánh Đẳng Giác tối thắng Sobhita \
-tịch diệt tại Sīhārāma; \
+tịch diệt tại Si-ha-la-ma (Sīhārāma); \
 xá-lợi được phân bố \
 khắp các xứ.
 #strong[(Phật sử Sobhita — thứ sáu.)]
@@ -2302,7 +2302,7 @@ khắp các xứ.
 == 9. Phật sử A-nô-ma-đát-tây (Anomadassībuddhavaṃso)
 
 #super[1] Sau Sobhita, bậc Chánh Đẳng Giác tối thắng hai chân; \
-Anomadassī danh vọng vô lượng, \
+A-nô-ma-đát-tây (Anomadassī) danh vọng vô lượng, \
 oai lực lớn, khó vượt.
 
 #super[2] Ngài cắt hết mọi trói buộc, \
@@ -2313,7 +2313,7 @@ con đường không còn trở lui.
 #super[3] Như biển không lay, \
 như núi khó đến gần, \
 như hư không vô tận, \
-như vua cây Sāla nở hoa.
+như vua cây Sa-la (Sāla) nở hoa.
 
 #super[4] Chỉ nhìn đức Phật ấy, \
 chúng sanh đã được vui; \
@@ -2369,11 +2369,11 @@ bằng cơm nước.
 vị này sẽ thành Phật.
 
 #super[15] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
-mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc A-sát-tha (Assattha); \
+mẹ tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), Ngài sẽ là Cù-đàm (Gotama); \
+Kolita và Upatissa cặp đại đệ tử, A-nan (Ānanda) hầu cận bậc Chiến Thắng; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) cận sự nam hàng đầu, Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -2392,10 +2392,10 @@ thân mẫu tên Yasodharā — \
 của bậc Thầy Anomadassī.
 
 #super[18] Ngài sống đời tại gia mười ngàn năm; \
-ba lầu đài tối thắng: Sirī, Upasirī và Vaḍḍha.
+ba lầu đài tối thắng: Si-li (Sirī), Upasirī và Bat-ha (Vaḍḍha).
 
 #super[19] Hai mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Sirimā, con trai Upavāṇa.
+người vợ tên Thi-lợi-ma (Sirimā), con trai Ưu-ba-ma-na (Upavāṇa).
 
 #super[20] Thấy bốn tướng, ngài xuất gia bằng kiệu; \
 bậc Chiến Thắng tinh tấn nỗ lực trọn mười tháng.
@@ -2403,17 +2403,17 @@ bậc Chiến Thắng tinh tấn nỗ lực trọn mười tháng.
 #super[21] Được Phạm thiên thỉnh cầu, \
 Đại Mâu-ni Anomadassī; \
 Đại hùng chuyển Pháp luân \
-tại vườn Sudassana.
+tại vườn Thiện Kiến (Sudassana).
 
-#super[22] Nisabha và Anoma là cặp đại đệ tử; \
-Varuṇa là thị giả hầu cận \
+#super[22] Nisabha và A-nô-ma (Anoma) là cặp đại đệ tử; \
+Ba-lâu-na (Varuṇa) là thị giả hầu cận \
 của bậc Thầy Anomadassī.
 
-#super[23] Sundarī và Sumanā là cặp nữ đại đệ tử; \
+#super[23] Sundarī và Tô-ma-na (Sumanā) là cặp nữ đại đệ tử; \
 cây Bồ-đề của Thế Tôn ấy gọi là Ajjuna.
 
-#super[24] Nandivaḍḍha và Sirivaḍḍha là cận sự nam hàng đầu; \
-Uppalā và Padumā là cận sự nữ hàng đầu.
+#super[24] Nandivaḍḍha và Si-li-bat-ha (Sirivaḍḍha) là cận sự nam hàng đầu; \
+Hoa sen xanh (Uppalā) và Padumā là cận sự nữ hàng đầu.
 
 #super[25] Đại Mâu-ni cao năm mươi tám ratana; \
 hào quang của ngài tuôn chảy, \
@@ -2433,14 +2433,14 @@ tất cả đều biến mất; \
 há chẳng phải mọi hành đều trống rỗng sao?
 
 #super[29] Bậc Chiến Thắng, bậc Thầy Anomadassī \
-tịch diệt tại Dhammārāma; \
+tịch diệt tại Đa-ma-la-ma (Dhammārāma); \
 ngay tại đó tháp của bậc Chiến Thắng \
 cao hai mươi lăm do-tuần.
 #strong[(Phật sử Anomadassī — thứ bảy.)]
 
 == 10. Phật sử Ba-đu-ma (Padumabuddhavaṃso)
 
-#super[1] Sau Anomadassī, bậc Chánh Đẳng Giác tối thắng hai chân; \
+#super[1] Sau A-nô-ma-đát-tây (Anomadassī), bậc Chánh Đẳng Giác tối thắng hai chân; \
 tên Paduma, \
 vô song, không người đối.
 
@@ -2503,11 +2503,11 @@ thọ ký giữa chúng ấy: \
 vị này sẽ thành Phật.
 
 #super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
-mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc A-sát-tha (Assattha); \
+mẹ tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), Ngài sẽ là Cù-đàm (Gotama); \
+Kolita và Upatissa cặp đại đệ tử, A-nan (Ānanda) hầu cận bậc Chiến Thắng; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) cận sự nam hàng đầu, Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -2537,17 +2537,17 @@ bậc Chiến Thắng tinh tấn nỗ lực trọn tám tháng.
 #super[20] Được Phạm thiên thỉnh cầu, \
 Paduma Đạo Sư đời; \
 Đại hùng chuyển Pháp luân \
-tại vườn Dhanañca tối thắng.
+tại vườn Đa-nanh-xa (Dhanañca) tối thắng.
 
-#super[21] Sāla và Upasāla là cặp đại đệ tử; \
-Varuṇa là thị giả hầu cận \
+#super[21] Sa-la (Sāla) và Upasāla là cặp đại đệ tử; \
+Ba-lâu-na (Varuṇa) là thị giả hầu cận \
 của bậc Đại sĩ Paduma.
 
-#super[22] Rādhā và Surādhā là cặp nữ đại đệ tử; \
-cây Bồ-đề của Thế Tôn ấy gọi là Mahāsoṇa.
+#super[22] La-đà (Rādhā) và Su-la-đa (Surādhā) là cặp nữ đại đệ tử; \
+cây Bồ-đề của Thế Tôn ấy gọi là Đại Tô-na (Mahāsoṇa).
 
 #super[23] Bhiyya và Asama là cận sự nam hàng đầu; \
-Rucī và Nandarāmā là cận sự nữ hàng đầu.
+Rucī và Nan-đa-la-ma (Nandarāmā) là cận sự nữ hàng đầu.
 
 #super[24] Đại Mâu-ni cao năm mươi tám ratana; \
 hào quang của ngài tuôn chảy, \
@@ -2572,7 +2572,7 @@ bỏ hết mọi hành, \
 ngài tịch diệt như lửa tắt.
 
 #super[29] Bậc Chiến Thắng tối thắng, bậc Thầy Paduma \
-tịch diệt tại Dhammārāma; \
+tịch diệt tại Đa-ma-la-ma (Dhammārāma); \
 xá-lợi được phân bố \
 khắp các xứ.
 #strong[(Phật sử Paduma — thứ tám.)]
@@ -2580,7 +2580,7 @@ khắp các xứ.
 == 11. Phật sử Na-la-đà (Nāradabuddhavaṃso)
 
 #super[1] Sau Paduma, bậc Chánh Đẳng Giác tối thắng hai chân; \
-tên Nārada, \
+tên Na-la-đà (Nārada), \
 vô song, không người đối.
 
 #super[2] Đức Phật ấy là con trưởng, con yêu \
@@ -2591,7 +2591,7 @@ ngài đi đến ngự uyển.
 #super[3] Ở đó có cây danh vọng lớn, \
 đẹp, cao, thanh tịnh; \
 đến đó, ngài ngồi xuống \
-dưới gốc Mahāsoṇa.
+dưới gốc Đại Tô-na (Mahāsoṇa).
 
 #super[4] Ở đó tuệ thù thắng sanh khởi, \
 vô tận, như kim cương; \
@@ -2609,7 +2609,7 @@ lần chứng ngộ thứ nhất là \
 một trăm ngàn koṭi.
 
 #super[7] Đại Mâu-ni đang điều phục \
-long vương Mahādoṇa, \
+long vương Đại Đô-na (Mahādoṇa), \
 bèn hiện thần thông, \
 cho đời cùng chư thiên thấy.
 
@@ -2652,11 +2652,11 @@ Nārada Đạo Sư đời: \
 vị này sẽ thành Phật.
 
 #super[16] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
-mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc A-sát-tha (Assattha); \
+mẹ tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), Ngài sẽ là Cù-đàm (Gotama); \
+Kolita và Upatissa cặp đại đệ tử, A-nan (Ānanda) hầu cận bậc Chiến Thắng; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) cận sự nam hàng đầu, Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -2671,7 +2671,7 @@ ta phát nguyện mãnh liệt \
 để viên mãn mười ba-la-mật.
 
 #super[18] Kinh đô tên Dhaññavatī, vua Sudeva, \
-thân mẫu tên Anomā — \
+thân mẫu tên A-nô-ma (Anomā) — \
 của bậc Đại sĩ Nārada.
 
 #super[19] Ngài sống đời tại gia chín ngàn năm; \
@@ -2686,13 +2686,13 @@ bậc Tối thắng nhân hành tinh tấn bảy ngày.
 #super[22] Được Phạm thiên thỉnh cầu, \
 Nārada Đạo Sư đời; \
 Đại hùng chuyển Pháp luân \
-tại vườn Dhanañca tối thắng.
+tại vườn Đa-nanh-xa (Dhanañca) tối thắng.
 
 #super[23] Bhaddasāla và Jitamitta là cặp đại đệ tử; \
-Vāseṭṭha là thị giả hầu cận \
+Bà-tất-sá (Vāseṭṭha) là thị giả hầu cận \
 của bậc Đại sĩ Nārada.
 
-#super[24] Uttarā và Phaggunī là cặp nữ đại đệ tử; \
+#super[24] Uttarā và Pha-gu-na (Phaggunī) là cặp nữ đại đệ tử; \
 cây Bồ-đề của Thế Tôn ấy gọi là Mahāsoṇa.
 
 #super[25] Uggarinda và Vasabha là cận sự nam hàng đầu; \
@@ -2730,14 +2730,14 @@ tất cả đều biến mất; \
 há chẳng phải mọi hành đều trống rỗng sao?
 
 #super[33] Nārada, Ngưu vương giữa các bậc Chiến Thắng, \
-tịch diệt tại thành Sudassana; \
+tịch diệt tại thành Thiện Kiến (Sudassana); \
 ngay tại đó ngôi tháp tối thắng \
 cao bốn do-tuần.
 #strong[(Phật sử Nārada — thứ chín.)]
 
 == 12. Phật sử Ba-đu-mút-ta-la (Padumuttarabuddhavaṃso)
 
-#super[1] Sau Nārada, bậc Chánh Đẳng Giác, \
+#super[1] Sau Na-la-đà (Nārada), bậc Chánh Đẳng Giác, \
 tối thắng trong loài hai chân; \
 bậc Chiến thắng tên Padumuttara, \
 không lay động, như đại dương.
@@ -2754,7 +2754,7 @@ có trăm ngàn câu-chi chứng ngộ Pháp.
 đang làm no thỏa các loài hữu tình, \
 có ba mươi bảy trăm ngàn chứng ngộ lần thứ hai.
 
-#super[5] Lúc bậc Đại Hùng đi đến Ānanda, \
+#super[5] Lúc bậc Đại Hùng đi đến A-nan (Ānanda), \
 đến chỗ cha, \
 Ngài đánh trống Bất tử.
 
@@ -2770,7 +2770,7 @@ bậc đưa tất cả hữu tình sang bờ; \
 kỳ hội thứ nhất gồm trăm ngàn câu-chi.
 
 #super[9] Khi đức Phật, bậc Vô đẳng đẳng, \
-trú ở núi Vebhāra, \
+trú ở núi Phụ Trọng (Vebhāra), \
 kỳ hội thứ hai gồm chín mươi ngàn câu-chi.
 
 #super[10] Khi Ngài lại ra đi du hành \
@@ -2786,15 +2786,15 @@ ngồi giữa chúng Tăng: \
 “Từ đây một trăm ngàn kiếp nữa, người này sẽ thành Phật.
 
 #super[13] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
 vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -2825,22 +2825,22 @@ Ngài đặt tất cả ngoại đạo đã đến vào năm giới.
 được điểm tô bằng các A-la-hán, \
 những vị đã tự tại, như như.
 
-#super[19] Thành tên Haṃsavatī, vua Sát-đế-lỵ tên Ānanda; \
-mẹ tên Sujātā, \
+#super[19] Thành tên Ham-sa-ba-đi (Haṃsavatī), vua Sát-đế-lỵ tên Ānanda; \
+mẹ tên Tô-già-đà (Sujātā), \
 của bậc Đạo Sư Padumuttara.
 
 #super[20] Ngài sống đời tại gia mười ngàn năm; \
 ba tòa cung điện tối thắng: Naravāhana, Yasa, Vasavattī.
 
 #super[21] Bốn mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Vasudattā, người con tên Uttama.
+người vợ tên Ba-su-đa-đa (Vasudattā), người con tên Uttama.
 
 #super[22] Thấy bốn tướng, Ngài xuất gia bằng cung điện; \
 bậc Tối thượng nhân thực hành tinh tấn trong bảy ngày.
 
 #super[23] Được Phạm thiên thỉnh cầu, \
 bậc Điều Ngự Padumuttara, bậc Đại Hùng, \
-đã chuyển Pháp luân tại vườn Mithilā tối thắng.
+đã chuyển Pháp luân tại vườn Di-tát-la (Mithilā) tối thắng.
 
 #super[24] Devala và Sujāta là hai thượng thủ đệ tử; \
 thị giả tên Sumana, \
@@ -2849,7 +2849,7 @@ của bậc Đại Ẩn Sĩ Padumuttara.
 #super[25] Amitā và Asamā là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Salala.
 
-#super[26] Vitiṇṇa và Tissa là hai cận sự nam đệ nhất; \
+#super[26] Vitiṇṇa và Đề-xá (Tissa) là hai cận sự nam đệ nhất; \
 Haṭṭhā và Vicittā là hai cận sự nữ đệ nhất.
 
 #super[27] Đại Mâu-ni cao năm mươi tám khuỷu tay; \
@@ -2883,7 +2883,7 @@ Ngài đã cởi nhiều người khỏi sự trói buộc.
 
 #super[3] Khi đức Phật đạt được \
 toàn bộ quả Bồ-đề tối thượng, \
-Ngài chuyển Pháp luân tại thành Sudassana.
+Ngài chuyển Pháp luân tại thành Thiện Kiến (Sudassana).
 
 #super[4] Nơi Ngài cũng có ba lần chứng ngộ khi thuyết pháp; \
 lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
@@ -2903,14 +2903,14 @@ tâm an tịnh, như như.
 lúc ấy các Tỷ-kheo lậu hoặc đã tận \
 hội họp đến một trăm câu-chi.
 
-#super[9] Sau đó nữa, tại Devakūṭa, \
+#super[9] Sau đó nữa, tại Đê-ba-cu-tha (Devakūṭa), \
 khi y kathina được trải cho các Tỷ-kheo, \
 kỳ hội thứ hai gồm chín mươi câu-chi.
 
 #super[10] Sau đó nữa, khi bậc Thập Lực đi du hành, \
 kỳ hội thứ ba gồm tám mươi câu-chi.
 
-#super[11] Lúc ấy ta là thanh niên Bà-la-môn tên Uttara; \
+#super[11] Lúc ấy ta là thanh niên Bà-la-môn tên Uất-đa-la (Uttara); \
 trong nhà ta tích trữ tài sản đến tám mươi câu-chi.
 
 #super[12] Dâng trọn tất cả cho vị Đạo sư thế gian cùng chúng Tăng, \
@@ -2922,15 +2922,15 @@ khi đang tùy hỷ: \
 “Trong ba mươi ngàn kiếp nữa, người này sẽ thành Phật.
 
 #super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uttarā sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -2953,15 +2953,15 @@ học thuộc tất cả, ta làm rạng giáo pháp của bậc Chiến thắng
 nơi chỗ ngồi, chỗ đứng và đường kinh hành; \
 đạt đến bờ kia của các thắng trí, ta đi đến Phạm thiên giới.
 
-#super[18] Thành tên Sudassana, vua Sát-đế-lỵ tên Sudatta; \
+#super[18] Thành tên Sudassana, vua Sát-đế-lỵ tên Tu-đạt-đa (Sudatta); \
 mẹ tên Sudattā, \
 của bậc Đại Ẩn Sĩ Sumedha.
 
 #super[19] Ngài sống đời tại gia chín ngàn năm; \
-ba tòa cung điện tối thắng: Sucanda, Kañcana, Sirivaḍḍha.
+ba tòa cung điện tối thắng: Sucanda, Kañcana, Si-li-bat-ha (Sirivaḍḍha).
 
 #super[20] Bốn mươi tám ngàn nữ nhân trang điểm; \
-người vợ tên Sumanā, người con tên Punabbasu.
+người vợ tên Tô-ma-na (Sumanā), người con tên Punabbasu.
 
 #super[21] Thấy bốn tướng, Ngài xuất gia bằng xe voi; \
 bậc Chiến thắng tinh tấn trọn nửa tháng.
@@ -2974,11 +2974,11 @@ bậc Đạo sư thế gian Sumedha, bậc Đại Hùng, \
 thị giả tên Sāgara, \
 của bậc Đại Ẩn Sĩ Sumedha.
 
-#super[24] Rāmā và Surāmā là hai thượng thủ nữ đệ tử; \
+#super[24] La-ma (Rāmā) và Surāmā là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Mahānīpa.
 
-#super[25] Uruvelā và Yasavā là hai cận sự nam đệ nhất; \
-Yasodharā và Sirimā là hai cận sự nữ đệ nhất.
+#super[25] Ưu lâu tần loa (Uruvelā) và Yasavā là hai cận sự nam đệ nhất; \
+Yasodharā và Thi-lợi-ma (Sirimā) là hai cận sự nữ đệ nhất.
 
 #super[26] Đại Mâu-ni cao tám mươi tám khuỷu tay; \
 chiếu sáng mọi phương, như mặt trăng giữa các vì sao.
@@ -2999,14 +2999,14 @@ những vị có tam minh, lục thông, đã đạt các lực, như như.
 đã tỏ ánh sáng trí tuệ, các bậc đại danh ấy đã tịch diệt.
 
 #super[31] Đức Phật Sumedha, bậc Chiến thắng thù thắng, \
-tịch diệt tại tịnh xá Medhā; \
+tịch diệt tại tịnh xá Mê-đa (Medhā); \
 xá-lợi được phân chia rộng khắp các vùng.
 
 #strong[(Phật sử của Thế Tôn Sumedha là thứ mười một.)]
 
 == 14. Phật sử Tô-già-đà (Sujātabuddhavaṃso)
 
-#super[1] Ngay trong kiếp maṇḍa ấy, bậc Đạo sư tên Sujāta; \
+#super[1] Ngay trong kiếp maṇḍa ấy, bậc Đạo sư tên Tô-già-đà (Sujāta); \
 cằm như sư tử, vai như bò mộng, \
 không thể lường, khó gần.
 
@@ -3016,7 +3016,7 @@ bậc Chánh Đẳng Giác luôn rực rỡ, cháy sáng bằng uy đức.
 
 #super[3] Đạt được Chánh Đẳng Giác, \
 toàn bộ quả Bồ-đề tối thượng, \
-Ngài chuyển Pháp luân tại thành Sumaṅgala.
+Ngài chuyển Pháp luân tại thành Su-mang-ga-la (Sumaṅgala).
 
 #super[4] Khi bậc Đạo sư thế gian Sujāta \
 thuyết pháp thù thắng, \
@@ -3067,15 +3067,15 @@ bậc chúa tể thế giới mười ngàn: \
 “Trong ba mươi ngàn kiếp nữa, người này sẽ thành Phật.
 
 #super[16] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -3099,11 +3099,11 @@ tu tập thiền Phạm trú; \
 đạt đến bờ kia của thắng trí, ta đi đến Phạm thiên giới.
 
 #super[20] Thành tên Sumaṅgala, vua Sát-đế-lỵ tên Uggata; \
-mẹ tên Pabhāvatī, \
+mẹ tên Quang Huy (Pabhāvatī), \
 của bậc Đại Ẩn Sĩ Sujāta.
 
 #super[21] Ngài sống đời tại gia chín ngàn năm; \
-ba tòa cung điện tối thắng: Sirī, Upasirī, Nanda.
+ba tòa cung điện tối thắng: Si-li (Sirī), Upasirī, Nanda.
 
 #super[22] Hai mươi ba ngàn nữ nhân trang điểm; \
 người vợ tên Sirinandā, người con tên Upasena.
@@ -3115,11 +3115,11 @@ bậc Chiến thắng tinh tấn trọn chín tháng.
 bậc Đạo sư thế gian Sujāta, bậc Đại Hùng, \
 đã chuyển Pháp luân tại vườn Sumaṅgala tối thắng.
 
-#super[25] Sudassana và Sudeva là hai thượng thủ đệ tử; \
-thị giả tên Nārada, \
+#super[25] Thiện Kiến (Sudassana) và Sudeva là hai thượng thủ đệ tử; \
+thị giả tên Na-la-đà (Nārada), \
 của bậc Đại Ẩn Sĩ Sujāta.
 
-#super[26] Nāgā và Nāgasamālā là hai thượng thủ nữ đệ tử; \
+#super[26] Na-già (Nāgā) và Na-da-sa-ma-la (Nāgasamālā) là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Mahāveḷu.
 
 #super[27] Cây ấy thân dày, không rỗng, có lá; \
@@ -3131,8 +3131,8 @@ như chiếc quạt công khéo đan, cây ấy rực rỡ như vậy.
 #super[29] Không có gai, cũng không có lỗ hổng lớn; \
 cành rộng, khít dày, bóng râm mát, đáng ưa.
 
-#super[30] Sudatta và Citta là hai cận sự nam đệ nhất; \
-Subhaddā và Padumā là hai cận sự nữ đệ nhất.
+#super[30] Tu-đạt-đa (Sudatta) và Citta là hai cận sự nam đệ nhất; \
+Thiện Hiền phi (Subhaddā) và Padumā là hai cận sự nữ đệ nhất.
 
 #super[31] Bậc Chiến thắng ấy cao năm mươi khuỷu tay; \
 đủ mọi vẻ đẹp thù thắng, đã đến với mọi công đức.
@@ -3153,16 +3153,16 @@ và những công đức không gì sánh ấy — \
 tất cả đều đã biến mất; các hành há chẳng phải trống rỗng sao?
 
 #super[36] Đức Phật Sujāta, bậc Chiến thắng thù thắng, \
-tịch diệt tại tịnh xá Silā; \
+tịch diệt tại tịnh xá Si-la (Silā); \
 ngay tại đó, tháp của Ngài cao ba gāvuta.
 
 #strong[(Phật sử của Thế Tôn Sujāta là thứ mười hai.)]
 
 == 15. Phật sử Hỉ Kiến (Piyadassībuddhavaṃso)
 
-#super[1] Sau Sujāta, bậc Tự Chủ, Đạo sư thế gian; \
+#super[1] Sau Tô-già-đà (Sujāta), bậc Tự Chủ, Đạo sư thế gian; \
 khó gần, Vô đẳng đẳng, \
-Piyadassī, bậc đại danh.
+Hỉ Kiến (Piyadassī), bậc đại danh.
 
 #super[2] Đức Phật ấy, bậc danh tiếng vô lượng, \
 chiếu sáng như mặt trời; \
@@ -3172,7 +3172,7 @@ diệt hết mọi bóng tối, Ngài chuyển Pháp luân.
 cũng có ba lần chứng ngộ; \
 lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 
-#super[4] Thiên vương Sudassana ưa thích tà kiến; \
+#super[4] Thiên vương Thiện Kiến (Sudassana) ưa thích tà kiến; \
 bậc Đạo Sư dẹp kiến ấy, thuyết pháp cho ông.
 
 #super[5] Nhân chúng hội họp không gì sánh, \
@@ -3189,7 +3189,7 @@ kỳ hội thứ nhất gồm trăm ngàn câu-chi.
 #super[8] Sau đó, kỳ hội thứ hai: chín mươi câu-chi ẩn sĩ hội họp một chỗ; \
 trong kỳ hội thứ ba, có tám mươi câu-chi.
 
-#super[9] Lúc ấy ta là Bà-la-môn tên Kassapa, \
+#super[9] Lúc ấy ta là Bà-la-môn tên Ca-diếp (Kassapa), \
 bậc tụng đọc, trì chú, \
 đã đến bờ kia của ba Vệ-đà.
 
@@ -3206,15 +3206,15 @@ ngồi giữa chúng Tăng: \
 “Một ngàn tám trăm kiếp nữa, người này sẽ thành Phật.
 
 #super[13] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -3229,12 +3229,12 @@ thì trong thời vị lai sẽ được diện kiến vị này.”
 ta quyết tâm thọ trì hạnh nguyện cao hơn, \
 để viên mãn mười ba-la-mật.
 
-#super[15] Thành tên Sudhañña, vua Sát-đế-lỵ tên Sudatta; \
-mẹ tên Candā, \
+#super[15] Thành tên Sudhañña, vua Sát-đế-lỵ tên Tu-đạt-đa (Sudatta); \
+mẹ tên Tàn bạo (Candā), \
 của bậc Đạo Sư Piyadassī.
 
 #super[16] Ngài sống đời tại gia chín ngàn năm; \
-ba tòa cung điện tối thắng: Sunimmala, Vimala, Giriguhā.
+ba tòa cung điện tối thắng: Sunimmala, Vimala, Gi-li-gu-ha (Giriguhā).
 
 #super[17] Ba mươi ba ngàn nữ nhân trang điểm; \
 người vợ tên Vimalā, người con tên Kañcanāveḷa.
@@ -3244,21 +3244,21 @@ bậc Tối thượng nhân thực hành tinh tấn trong sáu tháng.
 
 #super[19] Được Phạm thiên thỉnh cầu, \
 đại Mâu-ni Piyadassī, bậc Đại Hùng, \
-đã chuyển Pháp luân tại vườn Usabha đáng ưa.
+đã chuyển Pháp luân tại vườn U-sa-ba (Usabha) đáng ưa.
 
 #super[20] Pālita và Sabbadassī là hai thượng thủ đệ tử; \
 thị giả tên Sobhita, \
 của bậc Đạo Sư Piyadassī.
 
-#super[21] Sujātā và Dhammadinnā là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Kakudha.
+#super[21] Sujātā và Đa-ma-đi-na (Dhammadinnā) là hai thượng thủ nữ đệ tử; \
+cây Bồ-đề của Thế Tôn ấy được gọi là Ca-cu-đa (Kakudha).
 
 #super[22] Sandhaka và Dhammaka là hai cận sự nam đệ nhất; \
-Visākhā và Dhammadinnā là hai cận sự nữ đệ nhất.
+Tỳ-xá-khư (Visākhā) và Dhammadinnā là hai cận sự nữ đệ nhất.
 
 #super[23] Đức Phật ấy, bậc danh tiếng vô lượng, \
 đủ ba mươi hai tướng tốt; \
-cao tám mươi khuỷu tay, hiện ra như vua cây Sāla.
+cao tám mươi khuỷu tay, hiện ra như vua cây Sa-la (Sāla).
 
 #super[24] Lửa, trăng, mặt trời không có hào quang như thế; \
 như hào quang của bậc Đại Ẩn Sĩ không ai sánh ấy.
@@ -3278,7 +3278,7 @@ ngay tại đó, tháp của bậc Chiến thắng cao ba do-tuần.
 
 == 16. Phật sử A-tha-đát-ti (Atthadassībuddhavaṃso)
 
-#super[1] Ngay trong kiếp maṇḍa ấy, Atthadassī, bậc đại danh; \
+#super[1] Ngay trong kiếp maṇḍa ấy, A-tha-đát-ti (Atthadassī), bậc đại danh; \
 diệt trừ bóng tối lớn, \
 đạt được Chánh Đẳng Giác tối thượng.
 
@@ -3310,7 +3310,7 @@ của những đại ẩn sĩ thanh tịnh, \
 đã giải thoát không còn chấp thủ.
 
 #super[9] Lúc ấy ta là đạo sĩ bện tóc, khổ hạnh mãnh liệt, \
-tên Susīma, \
+tên Tu-si-ma (Susīma), \
 được tôn là bậc nhất trên đất.
 
 #super[10] Ta đem hoa trời mandārava, \
@@ -3322,15 +3322,15 @@ cúng dường bậc Chánh Đẳng Giác.
 “Một ngàn tám trăm kiếp nữa, người này sẽ thành Phật.
 
 #super[12] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -3346,34 +3346,34 @@ ta quyết tâm thọ trì hạnh nguyện cao hơn, \
 để viên mãn mười ba-la-mật.
 
 #super[14] Thành tên Sobhaṇa, vua Sát-đế-lỵ tên Sāgara; \
-mẹ tên Sudassanā, \
+mẹ tên Thiện Kiến (Sudassanā), \
 của bậc Đạo Sư Atthadassī.
 
 #super[15] Ngài sống đời tại gia mười ngàn năm; \
-ba tòa cung điện tối thắng: Amaragiri, Sugiri, Vāhana.
+ba tòa cung điện tối thắng: Amaragiri, Sugiri, Ba-ha-na (Vāhana).
 
 #super[16] Ba mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Visākhā, người con tên Sela.
+người vợ tên Tỳ-xá-khư (Visākhā), người con tên Sela.
 
 #super[17] Thấy bốn tướng, Ngài xuất gia bằng xe ngựa; \
 bậc Chiến thắng tinh tấn trọn tám tháng.
 
 #super[18] Được Phạm thiên thỉnh cầu, \
 Atthadassī, bậc đại danh, bậc Đại Hùng, \
-bậc Nhân Ngưu, đã chuyển Pháp luân tại vườn Anoma.
+bậc Nhân Ngưu, đã chuyển Pháp luân tại vườn A-nô-ma (Anoma).
 
 #super[19] Santa và Upasanta là hai thượng thủ đệ tử; \
-thị giả tên Abhaya, \
+thị giả tên Vô úy (Abhaya), \
 của bậc Đạo Sư Atthadassī.
 
-#super[20] Dhammā và Sudhammā là hai thượng thủ nữ đệ tử; \
+#super[20] Dhammā và Thiện Pháp (Sudhammā) là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Campaka.
 
 #super[21] Nakula và Nisabha là hai cận sự nam đệ nhất; \
 Makilā và Sunandā là hai cận sự nữ đệ nhất.
 
 #super[22] Đức Phật ấy, bậc Vô đẳng đẳng, cao tám mươi khuỷu tay; \
-rực rỡ như vua cây Sāla, như vua sao đã tròn đầy.
+rực rỡ như vua cây Sa-la (Sāla), như vua sao đã tròn đầy.
 
 #super[23] Hào quang tự nhiên của Ngài, nhiều trăm câu-chi, \
 luôn tỏa một do-tuần \
@@ -3395,7 +3395,7 @@ xá-lợi được phân chia rộng khắp các vùng.
 
 == 17. Phật sử Đa-ma-đa-si (Dhammadassībuddhavaṃso)
 
-#super[1] Ngay trong kiếp maṇḍa ấy, Dhammadassī, bậc đại danh; \
+#super[1] Ngay trong kiếp maṇḍa ấy, Đa-ma-đa-si (Dhammadassī), bậc đại danh; \
 diệt tan bóng tối vô minh, \
 chiếu sáng hơn cả thế gian cùng chư thiên.
 
@@ -3407,7 +3407,7 @@ lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 điều phục ẩn sĩ Sañjaya, \
 lần chứng ngộ thứ hai gồm chín mươi câu-chi.
 
-#super[4] Khi Sakka cùng quyến thuộc \
+#super[4] Khi Thích-ca (Sakka) cùng quyến thuộc \
 đi đến bậc Điều Ngự, \
 lần chứng ngộ thứ ba gồm tám mươi câu-chi.
 
@@ -3436,15 +3436,15 @@ ngồi giữa chúng chư thiên: \
 “Một ngàn tám trăm kiếp nữa, người này sẽ thành Phật.
 
 #super[11] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -3464,7 +3464,7 @@ mẹ tên Sunandā, \
 của bậc Đạo Sư Dhammadassī.
 
 #super[14] Ngài sống đời tại gia tám ngàn năm; \
-ba tòa cung điện tối thắng: Araja, Viraja, Sudassana.
+ba tòa cung điện tối thắng: Araja, Viraja, Thiện Kiến (Sudassana).
 
 #super[15] Bốn mươi ba ngàn nữ nhân trang điểm; \
 người vợ tên Vicikoḷi, người con tên Puññavaḍḍhana.
@@ -3474,10 +3474,10 @@ bậc Tối thượng nhân thực hành tinh tấn trong bảy ngày.
 
 #super[17] Được Phạm thiên thỉnh cầu, \
 Dhammadassī, bậc Nhân Ngưu, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Lộc Uyển (Migadāya).
 
 #super[18] Paduma và Phussadeva là hai thượng thủ đệ tử; \
-thị giả tên Sunetta, \
+thị giả tên Su-nê-đa (Sunetta), \
 của bậc Đạo Sư Dhammadassī.
 
 #super[19] Khemā và Saccanāmā là hai thượng thủ nữ đệ tử; \
@@ -3490,7 +3490,7 @@ Sāḷiyā và Kaḷiyā là hai cận sự nữ đệ nhất.
 chiếu sáng hơn bằng oai lực \
 trong giới tánh thế giới mười ngàn.
 
-#super[22] Như vua cây Sāla nở rộ, như tia chớp trên trời, \
+#super[22] Như vua cây Sa-la (Sāla) nở rộ, như tia chớp trên trời, \
 như mặt trời giữa trưa, \
 Ngài rực rỡ như vậy.
 
@@ -3509,7 +3509,7 @@ ngay tại đó, tháp quý của Ngài cao ba do-tuần.
 
 == 18. Phật sử Tất-đạt-đa (Siddhatthabuddhavaṃso)
 
-#super[1] Sau Dhammadassī, bậc Đạo sư tên Siddhattha; \
+#super[1] Sau Đa-ma-đa-si (Dhammadassī), bậc Đạo sư tên Siddhattha; \
 diệt hết mọi bóng tối, \
 như mặt trời vừa mọc.
 
@@ -3526,7 +3526,7 @@ Ngài đánh trống, \
 lần chứng ngộ thứ hai gồm chín mươi câu-chi.
 
 #super[5] Khi đức Phật thuyết pháp \
-tại Vebhāra, thành trì tối thắng, \
+tại Phụ Trọng (Vebhāra), thành trì tối thắng, \
 lần chứng ngộ thứ ba gồm chín mươi câu-chi.
 
 #super[6] Nơi bậc Tối thắng loài hai chân ấy cũng có ba kỳ đại hội, \
@@ -3537,11 +3537,11 @@ tâm an tịnh, như như.
 và tám mươi câu-chi nữa — \
 đó là ba kỳ hội của những vị thanh tịnh.
 
-#super[8] Lúc ấy ta là đạo sĩ khổ hạnh tên Maṅgala, \
+#super[8] Lúc ấy ta là đạo sĩ khổ hạnh tên Mạnh-già-la (Maṅgala), \
 oai lực mãnh liệt, khó chống, \
 định tĩnh với lực thắng trí.
 
-#super[9] Ta hái trái từ cây Jambu, dâng cho Siddhattha; \
+#super[9] Ta hái trái từ cây Diêm-phù (Jambu), dâng cho Siddhattha; \
 bậc Chánh Đẳng Giác nhận lấy, \
 nói lời này:
 
@@ -3550,15 +3550,15 @@ bện tóc, khổ hạnh mãnh liệt; \
 từ đây chín mươi bốn kiếp nữa, người này sẽ thành Phật.
 
 #super[11] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -3573,12 +3573,12 @@ thì trong thời vị lai sẽ được diện kiến vị này.”
 ta quyết tâm thọ trì hạnh nguyện cao hơn, \
 để viên mãn mười ba-la-mật.
 
-#super[13] Thành tên Vebhāra, vua Sát-đế-lỵ tên Udena; \
+#super[13] Thành tên Vebhāra, vua Sát-đế-lỵ tên U-đê-na (Udena); \
 mẹ tên Suphassā, \
 của bậc Đại Ẩn Sĩ Siddhattha.
 
 #super[14] Ngài sống đời tại gia mười ngàn năm; \
-ba tòa cung điện tối thắng: Kokā, Uppala, Kokanadā.
+ba tòa cung điện tối thắng: Kokā, Hoa sen xanh (Uppala), Kokanadā.
 
 #super[15] Bốn mươi tám ngàn nữ nhân trang điểm; \
 người vợ tên Somanassā, người con tên Anupama.
@@ -3588,16 +3588,16 @@ bậc Chiến thắng tinh tấn trọn mười tháng.
 
 #super[17] Được Phạm thiên thỉnh cầu, \
 bậc Đạo sư thế gian Siddhattha, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Lộc Uyển (Migadāya).
 
-#super[18] Sambala và Sumitta là hai thượng thủ đệ tử; \
-thị giả tên Revata, \
+#super[18] Sambala và Su-mít-ta (Sumitta) là hai thượng thủ đệ tử; \
+thị giả tên Ly-bà-đa (Revata), \
 của bậc Đại Ẩn Sĩ Siddhattha.
 
 #super[19] Sīvalā và Surāmā là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Kaṇikāra.
 
-#super[20] Suppiya và Samudda là hai cận sự nam đệ nhất; \
+#super[20] Su-bi-da (Suppiya) và Samudda là hai cận sự nam đệ nhất; \
 Rammā và Surammā là hai cận sự nữ đệ nhất.
 
 #super[21] Đức Phật ấy cao sáu mươi khuỷu tay, vươn lên giữa hư không; \
@@ -3612,7 +3612,7 @@ bậc Có Mắt trụ thế một trăm ngàn năm.
 Ngài tịch diệt cùng với các đệ tử.
 
 #super[24] Đức Phật Siddhattha, bậc Mâu-ni thù thắng, \
-tịch diệt tại tịnh xá Anoma; \
+tịch diệt tại tịnh xá A-nô-ma (Anoma); \
 ngay tại đó, tháp quý của Ngài cao bốn do-tuần.
 
 #strong[(Phật sử của Thế Tôn Siddhattha là thứ mười sáu.)]
@@ -3621,7 +3621,7 @@ ngay tại đó, tháp quý của Ngài cao bốn do-tuần.
 
 #super[1] Sau Siddhattha, bậc không ai sánh, không ai đối; \
 oai lực vô biên, danh tiếng vô lượng, \
-Tissa, bậc Đạo sư tối thắng thế gian.
+Đề-xá (Tissa), bậc Đạo sư tối thắng thế gian.
 
 #super[2] Diệt tan bóng tối vô minh, \
 chiếu sáng thế gian cùng chư thiên; \
@@ -3650,7 +3650,7 @@ kỳ hội thứ hai gồm chín mươi trăm ngàn.
 của những vị lậu hoặc đã tận, thanh tịnh, \
 đã nở hoa trong giải thoát.
 
-#super[9] Lúc ấy ta là vua Sát-đế-lỵ tên Sujāta; \
+#super[9] Lúc ấy ta là vua Sát-đế-lỵ tên Tô-già-đà (Sujāta); \
 bỏ đại tài sản, \
 ta xuất gia theo hạnh ẩn sĩ.
 
@@ -3671,15 +3671,15 @@ ngồi giữa nhân chúng: \
 “Từ đây chín mươi hai kiếp nữa, người này sẽ thành Phật.
 
 #super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -3699,30 +3699,30 @@ mẹ tên Padumā, \
 của bậc Đại Ẩn Sĩ Tissa.
 
 #super[17] Ngài sống đời tại gia bảy ngàn năm; \
-ba tòa cung điện tối thắng: Guhāsela, Nārisaya, Nisabha.
+ba tòa cung điện tối thắng: Gu-ha-sê-la (Guhāsela), Nārisaya, Nisabha.
 
 #super[18] Đúng ba mươi ngàn nữ nhân trang điểm; \
-người vợ tên Subhaddā, người con tên Ānanda.
+người vợ tên Thiện Hiền phi (Subhaddā), người con tên Ānanda.
 
 #super[19] Thấy bốn tướng, Ngài xuất gia bằng xe ngựa; \
 bậc Chiến thắng tinh tấn trọn tám tháng.
 
 #super[20] Được Phạm thiên thỉnh cầu, \
 Tissa, bậc Đạo sư tối thắng thế gian, bậc Đại Hùng, \
-đã chuyển Pháp luân tại Yasavatī tối thắng.
+đã chuyển Pháp luân tại Xứng Giới (Yasavatī) tối thắng.
 
 #super[21] Brahmadeva và Udaya là hai thượng thủ đệ tử; \
 thị giả tên Samaṅga, \
 của bậc Đại Ẩn Sĩ Tissa.
 
-#super[22] Phussā và Sudattā là hai thượng thủ nữ đệ tử; \
+#super[22] Phussā và Tu-đạt-đa (Sudattā) là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Asana.
 
-#super[23] Sambala và Sirimā là hai cận sự nam đệ nhất; \
+#super[23] Sambala và Thi-lợi-ma (Sirimā) là hai cận sự nam đệ nhất; \
 Kisāgotamī và Upasenā là hai cận sự nữ đệ nhất.
 
 #super[24] Đức Phật ấy cao sáu mươi khuỷu tay; \
-không gì sánh, không ai giống, hiện ra như núi Himavā.
+không gì sánh, không ai giống, hiện ra như núi Hi-mã-lạp (Himavā).
 
 #super[25] Thọ mạng của bậc oai lực không gì sánh ấy là vô thượng; \
 bậc Có Mắt trụ thế một trăm ngàn năm.
@@ -3778,15 +3778,15 @@ Phussa, bậc Đạo sư tối thắng thế gian: \
 “Từ đây chín mươi hai kiếp nữa, người này sẽ thành Phật.
 
 #super[10] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
-Mẹ người này tên Māyā, cha tên Suddhodana, \
-người này sẽ là Gotama. \
+dưới gốc cây A-sát-tha (Assattha) bậc đại danh sẽ thành Chánh Đẳng Giác. \
+Mẹ người này tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
-Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
@@ -3810,7 +3810,7 @@ tu tập thiền Phạm trú; \
 đạt đến bờ kia của các thắng trí, ta đi đến Phạm thiên giới.
 
 #super[14] Thành tên Kāsika, vua Sát-đế-lỵ tên Jayasena; \
-mẹ tên Sirimā, \
+mẹ tên Thi-lợi-ma (Sirimā), \
 của bậc Đại Ẩn Sĩ Phussa.
 
 #super[15] Ngài sống đời tại gia chín ngàn năm; \
@@ -3824,17 +3824,17 @@ bậc Tối thượng nhân thực hành tinh tấn trong sáu tháng.
 
 #super[18] Được Phạm thiên thỉnh cầu, \
 Phussa, bậc Đạo sư tối thắng thế gian, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Lộc Uyển (Migadāya).
 
 #super[19] Surakkhita và Dhammasena là hai thượng thủ đệ tử; \
 thị giả tên Sabhiya, \
 của bậc Đại Ẩn Sĩ Phussa.
 
-#super[20] Cālā và Upacālā là hai thượng thủ nữ đệ tử; \
+#super[20] Xa-la (Cālā) và U-ba-xa-la (Upacālā) là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Āmaṇḍa.
 
-#super[21] Dhanañcaya và Visākha là hai cận sự nam đệ nhất; \
-Padumā và Nāgā là hai cận sự nữ đệ nhất.
+#super[21] Dhanañcaya và Tỳ-xá-khư (Visākha) là hai cận sự nam đệ nhất; \
+Padumā và Na-già (Nāgā) là hai cận sự nữ đệ nhất.
 
 #super[22] Bậc Mâu-ni ấy cũng cao năm mươi tám khuỷu tay; \
 rực rỡ như trăm tia nắng, như vua sao đã tròn đầy.
@@ -3847,7 +3847,7 @@ bậc Đạo Sư ấy, danh tiếng không gì sánh, \
 tịch diệt cùng với các đệ tử.
 
 #super[25] Bậc Chiến thắng thù thắng Phussa, bậc Đạo Sư, \
-tịch diệt tại tịnh xá Sena; \
+tịch diệt tại tịnh xá Sê-na (Sena); \
 xá-lợi được phân chia rộng khắp các vùng.
 
 #strong[(Phật sử của Thế Tôn Phussa là thứ mười tám.)]
@@ -3855,12 +3855,12 @@ xá-lợi được phân chia rộng khắp các vùng.
 == 21. Phật sử Tỳ-bà-thi (Vipassībuddhavaṃso)
 
 #super[1] Sau Phussa, bậc Chánh Đẳng Giác, tối thắng trong loài hai chân; \
-tên Vipassī, bậc Có Mắt, \
+tên Tỳ-bà-thi (Vipassī), bậc Có Mắt, \
 đã ra đời ở đời.
 
 #super[2] Đập tan hết vô minh, \
 đạt được Chánh Đẳng Giác tối thượng; \
-Ngài lên đường đến thành Bandhumatī để chuyển Pháp luân.
+Ngài lên đường đến thành Bàn-đầu-bà-đề (Bandhumatī) để chuyển Pháp luân.
 
 #super[3] Chuyển Pháp luân xong, bậc Đạo sư giác ngộ cả hai chúng; \
 lần chứng ngộ thứ nhất không thể kể hết bằng số.
@@ -3887,7 +3887,7 @@ kỳ hội thứ hai gồm một trăm ngàn Tỷ-kheo.
 #super[9] Kỳ hội thứ ba gồm tám mươi ngàn Tỷ-kheo; \
 giữa chúng Tỷ-kheo ấy, bậc Chánh Đẳng Giác chiếu sáng hơn.
 
-#super[10] Lúc ấy ta là vua Nāga đại thần lực, \
+#super[10] Lúc ấy ta là vua Na-già (Nāga) đại thần lực, \
 tên Atula, \
 có phước, mang ánh sáng.
 
@@ -3903,36 +3903,36 @@ dâng tòa vàng khảm châu, ngọc, bảo vật, trang sức mọi đồ quý
 ngồi giữa chúng Tăng: \
 “Từ đây chín mươi một kiếp nữa, người này sẽ thành Phật.
 
-#super[14] Từ thành Kapilavatthu đáng ưa, Như Lai sẽ xuất gia; \
+#super[14] Từ thành Ca-tỳ-la-vệ (Kapilavatthu) đáng ưa, Như Lai sẽ xuất gia; \
 sau khi tinh tấn nỗ lực, \
 làm hạnh khó làm.
 
-#super[15] Như Lai sẽ ngồi dưới gốc cây Ajapāla; \
+#super[15] Như Lai sẽ ngồi dưới gốc cây A-xà-bạt-la (Ajapāla); \
 nhận cháo sữa tại đó, \
-rồi đi đến sông Nerañjarā.
+rồi đi đến sông Ni-liên-thiền (Nerañjarā).
 
 #super[16] Trên bờ Nerañjarā, bậc Chiến thắng ấy sẽ dùng cháo sữa; \
 theo con đường thù thắng đã dọn sẵn, \
 Ngài sẽ đi đến gốc cây Bồ-đề.
 
 #super[17] Rồi đi nhiễu quanh chỗ Bồ-đề, bậc Vô thượng; \
-dưới gốc cây Assattha, \
+dưới gốc cây A-sát-tha (Assattha), \
 bậc đại danh sẽ chứng Chánh Đẳng Giác.
 
-#super[18] Mẹ của người này tên Māyā, \
-cha tên Suddhodana, \
-người này sẽ là Gotama.
+#super[18] Mẹ của người này tên Ma-da (Māyā), \
+cha tên Tịnh Phạn (Suddhodana), \
+người này sẽ là Cù-đàm (Gotama).
 
 #super[19] Những vị vô lậu, ly tham, tâm tịnh, định tĩnh — \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
-vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này.
+vị thị giả tên A-nan (Ānanda) sẽ hầu hạ bậc Chiến thắng này.
 
-#super[20] Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử, \
+#super[20] An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là hai thượng thủ nữ đệ tử, \
 vô lậu, ly tham, tâm tịnh, định tĩnh; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha.
 
-#super[21] Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
-Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất; \
+#super[21] Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là hai cận sự nam đệ nhất; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là hai cận sự nữ đệ nhất; \
 thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.”
 
 #super[22] Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
@@ -3948,29 +3948,29 @@ thì trong thời vị lai sẽ được diện kiến vị này.”
 ta quyết tâm thọ trì hạnh nguyện cao hơn, \
 để viên mãn mười ba-la-mật.
 
-#super[24] Thành tên Bandhumatī, vua Sát-đế-lỵ tên Bandhumā; \
+#super[24] Thành tên Bandhumatī, vua Sát-đế-lỵ tên Bàn-đầu (Bandhumā); \
 mẹ tên Bandhumatī, \
 của bậc Đại Ẩn Sĩ Vipassī.
 
 #super[25] Ngài sống đời tại gia tám ngàn năm; \
-ba tòa cung điện tối thắng: Nanda, Sunanda, Sirimā.
+ba tòa cung điện tối thắng: Nanda, Sunanda, Thi-lợi-ma (Sirimā).
 
 #super[26] Bốn mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Sudassanā, người con tên Samavattakkhandha.
+người vợ tên Thiện Kiến (Sudassanā), người con tên Samavattakkhandha.
 
 #super[27] Thấy bốn tướng, Ngài xuất gia bằng xe ngựa; \
 bậc Chiến thắng tinh tấn trọn tám tháng.
 
 #super[28] Được Phạm thiên thỉnh cầu, \
 bậc Đạo sư thế gian Vipassī, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Lộc Uyển (Migadāya).
 
-#super[29] Khaṇḍa và Tissa là hai thượng thủ đệ tử; \
-thị giả tên Asoka, \
+#super[29] Kiển-trà (Khaṇḍa) và Đề-xá (Tissa) là hai thượng thủ đệ tử; \
+thị giả tên A-dục (Asoka), \
 của bậc Đại Ẩn Sĩ Vipassī.
 
-#super[30] Candā và Candamittā là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Pāṭalī.
+#super[30] Tàn bạo (Candā) và Candamittā là hai thượng thủ nữ đệ tử; \
+cây Bồ-đề của Thế Tôn ấy được gọi là Ba-ba-la (Pāṭalī).
 
 #super[31] Punabbasumitta và Nāga là hai cận sự nam đệ nhất; \
 Sirimā và Uttarā là hai cận sự nữ đệ nhất.
@@ -3995,16 +3995,16 @@ các tướng nở rộ — \
 tất cả đều đã biến mất; các hành há chẳng phải trống rỗng sao?
 
 #super[37] Đức Phật Vipassī, bậc Chiến thắng thù thắng, \
-tịch diệt tại tịnh xá Sumitta; \
+tịch diệt tại tịnh xá Su-mít-ta (Sumitta); \
 ngay tại đó, tháp quý của Ngài cao bảy do-tuần.
 
 #strong[(Phật sử của Thế Tôn Vipassī là thứ mười chín.)]
 
 == 22. Phật sử Thi-khí (Sikhībuddhavaṃso)
 
-#super[1] Sau bậc Vipassī, \
+#super[1] Sau bậc Tỳ-bà-thi (Vipassī), \
 Chánh Đẳng Giác tối thắng loài hai chân; \
-bậc Chiến Thắng hiệu Sikhī đã xuất hiện, \
+bậc Chiến Thắng hiệu Thi-khí (Sikhī) đã xuất hiện, \
 không ai sánh bằng, không có đối thủ.
 
 #super[2] Đã nghiền nát quân Ma, \
@@ -4062,20 +4062,20 @@ Sikhī, Đạo sư tối thượng của đời: \
 “Từ đây ba mươi mốt kiếp nữa, \
 vị này sẽ thành Phật.
 
-#super[13] “Từ thành Kapilavatthu xinh đẹp, Như Lai sẽ xuất gia, \
+#super[13] “Từ thành Ca-tỳ-la-vệ (Kapilavatthu) xinh đẹp, Như Lai sẽ xuất gia, \
 tinh cần, làm hạnh khó làm; \
-ngồi gốc cây Ajapāla, nhận cơm sữa, đến sông Nerañjarā; \
+ngồi gốc cây A-xà-bạt-la (Ajapāla), nhận cơm sữa, đến sông Ni-liên-thiền (Nerañjarā); \
 ăn xong, theo đường đã dọn, đi đến gốc Bồ-đề, \
 đi nhiễu chỗ giác ngộ vô thượng, \
-ngồi dưới cây Assattha mà chứng Chánh giác, bậc đại danh. \
-Mẹ Ngài tên Māyā, cha tên Suddhodana, \
-vị này sẽ là Gotama. \
+ngồi dưới cây A-sát-tha (Assattha) mà chứng Chánh giác, bậc đại danh. \
+Mẹ Ngài tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+vị này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa, không lậu hoặc, ly tham, tâm tịnh định, \
-sẽ là thượng thủ Thanh văn; Ānanda làm thị giả hầu bậc Chiến Thắng. \
-Khemā và Uppalavaṇṇā sẽ là thượng thủ nữ Thanh văn; \
+sẽ là thượng thủ Thanh văn; A-nan (Ānanda) làm thị giả hầu bậc Chiến Thắng. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là nam cư sĩ hộ trì hàng đầu; \
-Nandamātā và Uttarā sẽ là nữ cư sĩ hộ trì hàng đầu. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là nam cư sĩ hộ trì hàng đầu; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là nữ cư sĩ hộ trì hàng đầu. \
 Nghe lời ấy, người trời vui mừng: ‘Đây quả là mầm giống Phật.’ \
 Nếu lỡ giáo pháp của Chúa tể đời này, \
 thì thời vị lai chúng ta sẽ được gặp Ngài mặt đối mặt.”
@@ -4085,14 +4085,14 @@ ta càng thêm tịnh tín; \
 ta phát nguyện cao hơn nữa, \
 để viên mãn mười ba-la-mật.
 
-#super[15] Thành tên Aruṇavatī, \
-Sát-đế-lỵ tên Aruṇa; \
-mẹ sanh tên Pabhāvatī, \
+#super[15] Thành tên A-lu-na-ba-đi (Aruṇavatī), \
+Sát-đế-lỵ tên Minh Tướng (Aruṇa); \
+mẹ sanh tên Quang Huy (Pabhāvatī), \
 của bậc Đại sĩ Sikhī.
 
 #super[16] Ngài sống đời tại gia \
 bảy ngàn năm; \
-Sucandaka, Giri, Vasabha \
+Sucandaka, Gi-li (Giri), Vasabha \
 là ba cung điện tối thắng.
 
 #super[17] Hai mươi bốn ngàn \
@@ -4110,17 +4110,17 @@ Sikhī, Đạo sư tối thượng của đời; \
 bậc đại hùng, tối thắng loài người, \
 chuyển bánh xe tại vườn nai.
 
-#super[20] Abhibhū và Sambhava \
+#super[20] Thắng Giả (Abhibhū) và Tam-bà-bà (Sambhava) \
 là hai thượng thủ Thanh văn; \
-thị giả tên Khemaṅkara, \
+thị giả tên Nhẫn Hành (Khemaṅkara), \
 của bậc Đại sĩ Sikhī.
 
 #super[21] Sakhilā và Padumā \
 là hai thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy \
-được gọi là Puṇḍarīka.
+được gọi là Hoa sen (Puṇḍarīka).
 
-#super[22] Sirivaḍḍha và Nanda \
+#super[22] Si-li-bat-ha (Sirivaḍḍha) và Nanda \
 là hai nam cư sĩ hộ trì hàng đầu; \
 Cittā và Suguttā \
 là hai nữ cư sĩ hộ trì hàng đầu.
@@ -4151,7 +4151,7 @@ tất cả đều biến mất — \
 há chẳng phải mọi hành đều trống không?
 
 #super[28] Bậc ẩn sĩ quý Sikhī, bậc Giác Ngộ, \
-diệt độ tại khu vườn Assārāma; \
+diệt độ tại khu vườn A-sa-la-ma (Assārāma); \
 tháp quý của Ngài ngay tại đó, \
 cao ba do-tuần.
 
@@ -4161,7 +4161,7 @@ cao ba do-tuần.
 
 #super[1] Ngay trong maṇḍakappa ấy, \
 bậc không ai sánh bằng, không có đối thủ; \
-Đạo sư tên Vessabhū \
+Đạo sư tên Tỳ-xá- bà (Vessabhū) \
 đã xuất hiện ở đời.
 
 #super[2] Lửa tham quả thật đang cháy, \
@@ -4205,7 +4205,7 @@ những người con ruột của bậc Đại sĩ, \
 sợ hãi già và các nỗi sợ khác.
 
 #super[10] Lúc ấy ta là \
-Sát-đế-lỵ tên Sudassana; \
+Sát-đế-lỵ tên Thiện Kiến (Sudassana); \
 thỉnh bậc đại hùng, dâng lễ vật quý giá; \
 cúng dường bậc Chiến Thắng cùng chúng Tăng \
 bằng cơm, nước và y phục.
@@ -4235,20 +4235,20 @@ Chánh Đẳng Giác nói lời này: \
 “Từ đây ba mươi mốt kiếp nữa, \
 vị này sẽ thành Phật.
 
-#super[16] “Từ thành Kapilavatthu xinh đẹp, Như Lai sẽ xuất gia, \
+#super[16] “Từ thành Ca-tỳ-la-vệ (Kapilavatthu) xinh đẹp, Như Lai sẽ xuất gia, \
 tinh cần, làm hạnh khó làm; \
-ngồi gốc cây Ajapāla, nhận cơm sữa, đến sông Nerañjarā; \
+ngồi gốc cây A-xà-bạt-la (Ajapāla), nhận cơm sữa, đến sông Ni-liên-thiền (Nerañjarā); \
 ăn xong, theo đường đã dọn, đi đến gốc Bồ-đề, \
 đi nhiễu chỗ giác ngộ vô thượng, \
-ngồi dưới cây Assattha mà chứng Chánh giác, bậc đại danh. \
-Mẹ Ngài tên Māyā, cha tên Suddhodana, \
-vị này sẽ là Gotama. \
+ngồi dưới cây A-sát-tha (Assattha) mà chứng Chánh giác, bậc đại danh. \
+Mẹ Ngài tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+vị này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa, không lậu hoặc, ly tham, tâm tịnh định, \
-sẽ là thượng thủ Thanh văn; Ānanda làm thị giả hầu bậc Chiến Thắng. \
-Khemā và Uppalavaṇṇā sẽ là thượng thủ nữ Thanh văn; \
+sẽ là thượng thủ Thanh văn; A-nan (Ānanda) làm thị giả hầu bậc Chiến Thắng. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là nam cư sĩ hộ trì hàng đầu; \
-Nandamātā và Uttarā sẽ là nữ cư sĩ hộ trì hàng đầu. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là nam cư sĩ hộ trì hàng đầu; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là nữ cư sĩ hộ trì hàng đầu. \
 Nghe lời ấy, người trời vui mừng: ‘Đây quả là mầm giống Phật.’ \
 Nếu lỡ giáo pháp của Chúa tể đời này, \
 thì thời vị lai chúng ta sẽ được gặp Ngài mặt đối mặt.”
@@ -4258,9 +4258,9 @@ ta càng thêm tịnh tín; \
 ta phát nguyện cao hơn nữa, \
 để viên mãn mười ba-la-mật.
 
-#super[18] Thành tên Anoma, \
-Sát-đế-lỵ tên Suppatīta; \
-mẹ tên Yasavatī, \
+#super[18] Thành tên A-nô-ma (Anoma), \
+Sát-đế-lỵ tên Thiện Đăng (Suppatīta); \
+mẹ tên Xứng Giới (Yasavatī), \
 của bậc Đại sĩ Vessabhū.
 
 #super[19] Ngài sống đời tại gia \
@@ -4281,21 +4281,21 @@ hành hạnh tinh cần sáu tháng.
 #super[22] Được Phạm thiên thỉnh cầu, \
 Vessabhū, Đạo sư của đời; \
 bậc đại hùng, tối thắng loài người, \
-chuyển bánh xe tại Aruṇārāma.
+chuyển bánh xe tại A-lu-na-la-ma (Aruṇārāma).
 
-#super[23] Soṇa và Uttara \
+#super[23] Tô-na (Soṇa) và Uttara \
 là hai thượng thủ Thanh văn; \
 thị giả tên Upasanto, \
 của bậc Đại sĩ Vessabhū.
 
-#super[24] Rāmā và Samālā \
+#super[24] La-ma (Rāmā) và Samālā \
 là hai thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy \
-được gọi là Mahāsāla.
+được gọi là Đại Sa-la (Mahāsāla).
 
 #super[25] Sotthika và Rambha \
 là hai nam cư sĩ hộ trì hàng đầu; \
-Gotamī và Sirimā \
+Cù-đàm-di (Gotamī) và Thi-lợi-ma (Sirimā) \
 là hai nữ cư sĩ hộ trì hàng đầu.
 
 #super[26] Cao sáu mươi ratana, \
@@ -4319,7 +4319,7 @@ tất cả đều biến mất — \
 há chẳng phải mọi hành đều trống không?
 
 #super[30] Vessabhū, Chiến Thắng quý, bậc Đạo sư, \
-diệt độ tại khu vườn Khemārāma; \
+diệt độ tại khu vườn Khê-ma-la-ma (Khemārāma); \
 xá-lợi được phân bố rộng, \
 tại các nơi.
 
@@ -4327,9 +4327,9 @@ tại các nơi.
 
 == 24. Phật sử Câu-lâu-tôn (Kakusandhabuddhavaṃso)
 
-#super[1] Sau bậc Vessabhū, \
+#super[1] Sau bậc Tỳ-xá- bà (Vessabhū), \
 Chánh Đẳng Giác tối thắng loài hai chân; \
-bậc tên Kakusandha, \
+bậc tên Câu-lâu-tôn (Kakusandha), \
 không thể lường, khó tới gần.
 
 #super[2] Đã dứt bỏ mọi hữu, \
@@ -4363,7 +4363,7 @@ là bốn mươi ngàn vị; \
 do diệt hết đám lậu hoặc, kẻ thù.
 
 #super[8] Lúc ấy ta là \
-Sát-đế-lỵ tên Khema; \
+Sát-đế-lỵ tên An Hòa (Khema); \
 ta dâng lễ vật không ít \
 cho Như Lai và các con của bậc Chiến Thắng.
 
@@ -4377,20 +4377,20 @@ Kakusandha, bậc Điều ngự: \
 “Trong Hiền kiếp này, \
 vị này sẽ thành Phật.
 
-#super[11] “Từ thành Kapilavatthu xinh đẹp, Như Lai sẽ xuất gia, \
+#super[11] “Từ thành Ca-tỳ-la-vệ (Kapilavatthu) xinh đẹp, Như Lai sẽ xuất gia, \
 tinh cần, làm hạnh khó làm; \
-ngồi gốc cây Ajapāla, nhận cơm sữa, đến sông Nerañjarā; \
+ngồi gốc cây A-xà-bạt-la (Ajapāla), nhận cơm sữa, đến sông Ni-liên-thiền (Nerañjarā); \
 ăn xong, theo đường đã dọn, đi đến gốc Bồ-đề, \
 đi nhiễu chỗ giác ngộ vô thượng, \
-ngồi dưới cây Assattha mà chứng Chánh giác, bậc đại danh. \
-Mẹ Ngài tên Māyā, cha tên Suddhodana, \
-vị này sẽ là Gotama. \
+ngồi dưới cây A-sát-tha (Assattha) mà chứng Chánh giác, bậc đại danh. \
+Mẹ Ngài tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+vị này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa, không lậu hoặc, ly tham, tâm tịnh định, \
-sẽ là thượng thủ Thanh văn; Ānanda làm thị giả hầu bậc Chiến Thắng. \
-Khemā và Uppalavaṇṇā sẽ là thượng thủ nữ Thanh văn; \
+sẽ là thượng thủ Thanh văn; A-nan (Ānanda) làm thị giả hầu bậc Chiến Thắng. \
+Khemā và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là nam cư sĩ hộ trì hàng đầu; \
-Nandamātā và Uttarā sẽ là nữ cư sĩ hộ trì hàng đầu. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là nam cư sĩ hộ trì hàng đầu; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là nữ cư sĩ hộ trì hàng đầu. \
 Nghe lời ấy, người trời vui mừng: ‘Đây quả là mầm giống Phật.’ \
 Nếu lỡ giáo pháp của Chúa tể đời này, \
 thì thời vị lai chúng ta sẽ được gặp Ngài mặt đối mặt.”
@@ -4400,14 +4400,14 @@ ta càng thêm tịnh tín; \
 ta phát nguyện cao hơn nữa, \
 để viên mãn mười ba-la-mật.
 
-#super[13] Thành tên Khemāvatī, \
+#super[13] Thành tên An Hòa (Khemāvatī), \
 lúc ấy ta tên Khema; \
 tìm cầu Nhất thiết trí, \
 ta xuất gia bên Ngài.
 
-#super[14] Bà-la-môn Aggidatta \
+#super[14] Bà-la-môn Tự Đắc (Aggidatta) \
 là cha của bậc Giác Ngộ ấy; \
-mẹ sanh tên Visākhā, \
+mẹ sanh tên Tỳ-xá-khư (Visākhā), \
 của Đạo sư Kakusandha.
 
 #super[15] Đại tộc của Chánh Đẳng Giác \
@@ -4435,12 +4435,12 @@ Kakusandha, bậc Điều ngự; \
 bậc đại hùng, tối thắng loài người, \
 chuyển bánh xe tại vườn nai.
 
-#super[20] Vidhura và Sañjīva \
+#super[20] Vidhura và Tát-ni (Sañjīva) \
 là hai thượng thủ Thanh văn; \
 thị giả tên Buddhiya, \
 của Đạo sư Kakusandha.
 
-#super[21] Sāmā và Campā \
+#super[21] Sāmā và Chiêm-bà (Campā) \
 là hai thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy \
 được gọi là Sirīsa.
@@ -4471,7 +4471,7 @@ tất cả đều biến mất — \
 há chẳng phải mọi hành đều trống không?
 
 #super[27] Kakusandha, Chiến Thắng quý, \
-diệt độ tại khu vườn Khemārāma; \
+diệt độ tại khu vườn Khê-ma-la-ma (Khemārāma); \
 tháp quý của Ngài ngay tại đó, \
 vươn lên trời một gāvuta.
 
@@ -4479,9 +4479,9 @@ vươn lên trời một gāvuta.
 
 == 25. Phật sử Câu-na-hàm (Koṇāgamanabuddhavaṃso)
 
-#super[1] Sau bậc Kakusandha, \
+#super[1] Sau bậc Câu-lâu-tôn (Kakusandha), \
 Chánh Đẳng Giác tối thắng loài hai chân; \
-bậc Chiến Thắng tên Koṇāgamana, \
+bậc Chiến Thắng tên Câu-na-hàm (Koṇāgamana), \
 trưởng thượng của đời, nhân ngưu.
 
 #super[2] Đã viên mãn mười pháp, \
@@ -4502,7 +4502,7 @@ là lần chứng ngộ thứ hai.
 #super[5] Rồi làm phép biến hóa, \
 bậc Chiến Thắng đi đến thành chư thiên; \
 Chánh Đẳng Giác ngự tại đó, \
-trên đá Paṇḍukambala.
+trên đá Vô cấu bạch thạch (Paṇḍukambala).
 
 #super[6] Thuyết bảy bộ luận, \
 bậc ẩn sĩ an cư mùa mưa; \
@@ -4539,20 +4539,20 @@ ngồi giữa chúng Tăng: \
 “Trong Hiền kiếp này, \
 vị này sẽ thành Phật.
 
-#super[13] “Từ thành Kapilavatthu xinh đẹp, Như Lai sẽ xuất gia, \
+#super[13] “Từ thành Ca-tỳ-la-vệ (Kapilavatthu) xinh đẹp, Như Lai sẽ xuất gia, \
 tinh cần, làm hạnh khó làm; \
-ngồi gốc cây Ajapāla, nhận cơm sữa, đến sông Nerañjarā; \
+ngồi gốc cây A-xà-bạt-la (Ajapāla), nhận cơm sữa, đến sông Ni-liên-thiền (Nerañjarā); \
 ăn xong, theo đường đã dọn, đi đến gốc Bồ-đề, \
 đi nhiễu chỗ giác ngộ vô thượng, \
-ngồi dưới cây Assattha mà chứng Chánh giác, bậc đại danh. \
-Mẹ Ngài tên Māyā, cha tên Suddhodana, \
-vị này sẽ là Gotama. \
+ngồi dưới cây A-sát-tha (Assattha) mà chứng Chánh giác, bậc đại danh. \
+Mẹ Ngài tên Ma-da (Māyā), cha tên Tịnh Phạn (Suddhodana), \
+vị này sẽ là Cù-đàm (Gotama). \
 Kolita và Upatissa, không lậu hoặc, ly tham, tâm tịnh định, \
-sẽ là thượng thủ Thanh văn; Ānanda làm thị giả hầu bậc Chiến Thắng. \
-Khemā và Uppalavaṇṇā sẽ là thượng thủ nữ Thanh văn; \
+sẽ là thượng thủ Thanh văn; A-nan (Ānanda) làm thị giả hầu bậc Chiến Thắng. \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) sẽ là thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
-Citta và Hatthāḷavaka sẽ là nam cư sĩ hộ trì hàng đầu; \
-Nandamātā và Uttarā sẽ là nữ cư sĩ hộ trì hàng đầu. \
+Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) sẽ là nam cư sĩ hộ trì hàng đầu; \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) sẽ là nữ cư sĩ hộ trì hàng đầu. \
 Nghe lời ấy, người trời vui mừng: ‘Đây quả là mầm giống Phật.’ \
 Nếu lỡ giáo pháp của Chúa tể đời này, \
 thì thời vị lai chúng ta sẽ được gặp Ngài mặt đối mặt.”
@@ -4567,19 +4567,19 @@ dâng bố thí cho bậc tối thắng loài người; \
 ta bỏ đại vương vị, \
 xuất gia bên bậc Chiến Thắng.
 
-#super[16] Thành tên Sobhavatī, \
-Sát-đế-lỵ tên Sobha; \
+#super[16] Thành tên Thanh Tịnh (Sobhavatī), \
+Sát-đế-lỵ tên Thanh Tịnh (Sobha); \
 đại tộc của Chánh Đẳng Giác \
 cư trú tại thành ấy.
 
-#super[17] Bà-la-môn Yaññadatta \
+#super[17] Bà-la-môn Đạt Đức (Yaññadatta) \
 là cha của bậc Giác Ngộ ấy; \
 mẹ sanh tên Uttarā, \
 của Đạo sư Koṇāgamana.
 
 #super[18] Ngài sống đời tại gia \
 ba ngàn năm; \
-Tusita, Santusita, Santuṭṭha \
+Đâu-suất (Tusita), Santusita, Santuṭṭha \
 là ba cung điện tối thắng.
 
 #super[19] Không thiếu mười sáu ngàn \
@@ -4599,13 +4599,13 @@ chuyển bánh xe tại vườn nai.
 
 #super[22] Bhiyyasa và Uttara \
 là hai thượng thủ Thanh văn; \
-thị giả tên Sotthija, \
+thị giả tên An Hòa (Sotthija), \
 của Đạo sư Koṇāgamana.
 
 #super[23] Samuddā và Uttarā \
 là hai thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy \
-được gọi là Udumbara.
+được gọi là U-đum-ba-la (Udumbara).
 
 #super[24] Ugga và Somadeva \
 là hai nam cư sĩ hộ trì hàng đầu; \
@@ -4633,7 +4633,7 @@ tất cả đều biến mất — \
 há chẳng phải mọi hành đều trống không?
 
 #super[29] Chánh Đẳng Giác Koṇāgamana \
-diệt độ tại khu vườn Pabbatārāma; \
+diệt độ tại khu vườn Ba-bát-ta-la-ma (Pabbatārāma); \
 xá-lợi được phân bố rộng, \
 tại các nơi.
 
@@ -4641,9 +4641,9 @@ tại các nơi.
 
 == 26. Phật sử Ca-diếp (Kassapabuddhavaṃso)
 
-#super[1] Sau bậc Koṇāgamana, \
+#super[1] Sau bậc Câu-na-hàm (Koṇāgamana), \
 Chánh Đẳng Giác tối thắng loài hai chân; \
-bậc tên Kassapa theo họ, \
+bậc tên Ca-diếp (Kassapa) theo họ, \
 Pháp vương, bậc làm ánh sáng.
 
 #super[2] Của nhà đã buông hết, \
@@ -4668,7 +4668,7 @@ Ngài tuyên thuyết giới trí; \
 năm ngàn koṭi chúng sanh \
 là lần chứng ngộ thứ ba.
 
-#super[6] Tại Sudhammā, thành trời xinh đẹp, \
+#super[6] Tại Thiện Pháp (Sudhammā), thành trời xinh đẹp, \
 Ngài tuyên thuyết Pháp tại đó; \
 bậc Chiến Thắng độ giác \
 ba ngàn koṭi chư thiên.
@@ -4689,7 +4689,7 @@ những vị đã vượt khỏi hữu, \
 bậc như vậy, có tàm và giới.
 
 #super[10] Lúc ấy ta là thanh niên, \
-nổi danh Jotipāla; \
+nổi danh Hộ Minh đồng tử (Jotipāla); \
 người trì tụng, giữ chú, \
 đã đến bờ kia ba Vệ-đà.
 
@@ -4699,7 +4699,7 @@ giỏi xem đất trời, \
 học xong, không tỳ vết.
 
 #super[12] Người hộ trì Thế Tôn Kassapa \
-tên Ghaṭikāra; \
+tên Gha-thi-ca-la (Ghaṭikāra); \
 cung kính, biết vâng lời, \
 đã tịch tịnh ở quả thứ ba.
 
@@ -4723,15 +4723,15 @@ bậc Giác Ngộ ấy cũng thọ ký: \
 “Trong Hiền kiếp này, \
 vị này sẽ thành Phật.
 
-#super[17] “Từ thành Kapilavatthu xinh đẹp, \
+#super[17] “Từ thành Ca-tỳ-la-vệ (Kapilavatthu) xinh đẹp, \
 Như Lai sẽ xuất gia; \
 tinh cần, \
 làm hạnh khó làm.
 
-#super[18] “Ngồi gốc cây Ajapāla, \
+#super[18] “Ngồi gốc cây A-xà-bạt-la (Ajapāla), \
 Như Lai sẽ nhận cơm sữa tại đó, \
 rồi đi đến \
-sông Nerañjarā.
+sông Ni-liên-thiền (Nerañjarā).
 
 #super[19] “Trên bờ Nerañjarā, \
 Ngài thọ thực cơm sữa; \
@@ -4746,27 +4746,27 @@ ngồi kiết-già, \
 bậc đại danh sẽ giác ngộ.
 
 #super[21] “Mẹ sanh của vị này \
-sẽ tên Māyā; \
-cha tên Suddhodana, \
-vị này sẽ là Gotama.
+sẽ tên Ma-da (Māyā); \
+cha tên Tịnh Phạn (Suddhodana), \
+vị này sẽ là Cù-đàm (Gotama).
 
 #super[22] “Không lậu hoặc, ly tham, \
 tâm an tịnh, định tĩnh; \
 Kolita và Upatissa \
 sẽ là thượng thủ Thanh văn; \
-thị giả tên Ānanda \
+thị giả tên A-nan (Ānanda) \
 sẽ hầu bậc Chiến Thắng này.
 
-#super[23] “Khemā và Uppalavaṇṇā \
+#super[23] “An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) \
 sẽ là thượng thủ nữ Thanh văn; \
 không lậu hoặc, tâm an, \
 ly tham, định tĩnh; \
 cây Bồ-đề của Thế Tôn ấy \
-được gọi là Assattha.
+được gọi là A-sát-tha (Assattha).
 
-#super[24] “Citta và Hatthāḷavaka \
+#super[24] “Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) \
 sẽ là nam cư sĩ hộ trì hàng đầu; \
-Nandamātā và Uttarā \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) \
 sẽ là nữ cư sĩ hộ trì hàng đầu.”
 
 #super[25] Nghe lời ấy \
@@ -4804,14 +4804,14 @@ tránh xa hạnh không chân chánh; \
 hạnh khó làm ta đã làm, \
 chỉ vì cớ Bồ-đề.
 
-#super[32] Thành tên Bārāṇasī, \
-Sát-đế-lỵ tên Kikī; \
+#super[32] Thành tên Ba-la-nại (Bārāṇasī), \
+Sát-đế-lỵ tên Ci-ci (Kikī); \
 đại tộc của Chánh Đẳng Giác \
 cư trú tại thành ấy.
 
-#super[33] Bà-la-môn Brahmadatta \
+#super[33] Bà-la-môn Phạm Thi (Brahmadatta) \
 là cha của bậc Giác Ngộ ấy; \
-mẹ sanh tên Dhanavatī, \
+mẹ sanh tên Tài Chủ (Dhanavatī), \
 của bậc Đại sĩ Kassapa.
 
 #super[34] Ngài sống đời tại gia \
@@ -4834,19 +4834,19 @@ Kassapa, Đạo sư của đời; \
 bậc đại hùng, tối thắng loài người, \
 chuyển bánh xe tại vườn nai.
 
-#super[38] Tissa và Bhāradvāja \
+#super[38] Đề-xá (Tissa) và Bạt-la-đà-phạn-xà (Bhāradvāja) \
 là hai thượng thủ Thanh văn; \
 thị giả tên Sabbamitta, \
 của bậc Đại sĩ Kassapa.
 
-#super[39] Anuḷā và Uruvelā \
+#super[39] Anuḷā và Ưu lâu tần loa (Uruvelā) \
 là hai thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy \
-được gọi là Nigrodha.
+được gọi là Ni-câu-luật Thọ Viên (Nigrodha).
 
-#super[40] Sumaṅgala và Ghaṭikāra \
+#super[40] Su-mang-ga-la (Sumaṅgala) và Ghaṭikāra \
 là hai nam cư sĩ hộ trì hàng đầu; \
-Vicitasenā và Bhaddā \
+Vicitasenā và Cát Tường (Bhaddā) \
 là hai nữ cư sĩ hộ trì hàng đầu.
 
 #super[41] Bậc Giác Ngộ ấy, theo chiều cao, \
@@ -4900,7 +4900,7 @@ tất cả đều biến mất — \
 há chẳng phải mọi hành đều trống không?
 
 #super[51] Kassapa lớn, Chiến Thắng, Đạo sư, \
-diệt độ tại khu vườn Setabyārāma; \
+diệt độ tại khu vườn Sê-đap-da-la-ma (Setabyārāma); \
 tháp của bậc Chiến Thắng ngay tại đó, \
 vươn cao một do-tuần.
 
@@ -4909,7 +4909,7 @@ vươn cao một do-tuần.
 == 27. Phật sử Cù-đàm (Gotamabuddhavaṃso)
 
 #super[1] Nay ta là Chánh Đẳng Giác, \
-Gotama, người làm hưng thịnh dòng Sakya; \
+Cù-đàm (Gotama), người làm hưng thịnh dòng Thích-ca (Sakya); \
 đã tinh cần, \
 đạt Chánh giác tối thượng.
 
@@ -4968,8 +4968,8 @@ vui thích Pháp; \
 người có niệm sẽ giác ngộ, \
 dù đã vào dòng luân hồi.
 
-#super[13] Thành của ta là Kapilavatthu, \
-vua Suddhodana là cha; \
+#super[13] Thành của ta là Ca-tỳ-la-vệ (Kapilavatthu), \
+vua Tịnh Phạn (Suddhodana) là cha; \
 mẹ sanh ta \
 được gọi là Māyādevī.
 
@@ -4981,31 +4981,31 @@ là ba cung điện tối thắng.
 #super[15] Bốn mươi ngàn \
 người nữ trang điểm; \
 người vợ tên Bhaddakañcanā, \
-con trai tên Rāhula.
+con trai tên La-hầu-la (Rāhula).
 
 #super[16] Thấy bốn tướng, \
 ta xuất gia bằng ngựa; \
 ta hành hạnh tinh cần sáu năm, \
 làm hạnh khó làm.
 
-#super[17] Tại Isipatana, Bārāṇasī, \
+#super[17] Tại Trú xứ chư Tiên (Isipatana), Ba-la-nại (Bārāṇasī), \
 ta đã chuyển bánh xe; \
 ta là Chánh Đẳng Giác Gotama, \
 chỗ nương của hết thảy chúng sanh.
 
 #super[18] Kolita và Upatissa \
 là hai Tỷ-kheo thượng thủ Thanh văn; \
-thị giả tên Ānanda, \
+thị giả tên A-nan (Ānanda), \
 thường ở bên ta; \
-Khemā và Uppalavaṇṇā \
+An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) \
 là Tỷ-kheo-ni thượng thủ nữ Thanh văn.
 
-#super[19] Citta và Hatthāḷavaka \
+#super[19] Citta và Hat-ha-la-ba-ca (Hatthāḷavaka) \
 là nam cư sĩ hộ trì hàng đầu; \
-Nandamātā và Uttarā \
+Nan-đa-mẫu (Nandamātā) và Uất-đa-la (Uttarā) \
 là nữ cư sĩ hộ trì hàng đầu.
 
-#super[20] Tại gốc cây Assattha, \
+#super[20] Tại gốc cây A-sát-tha (Assattha), \
 ta đạt Chánh giác tối thượng; \
 hào quang một tầm luôn nơi ta, \
 thân vươn cao mười sáu hattha.
@@ -5040,11 +5040,11 @@ há chẳng phải mọi hành đều trống không?
 có bốn bậc Điều ngự: \
 Taṇhaṅkara, Medhaṅkara, \
 và cả Saraṇaṅkara; \
-cùng Chánh Đẳng Giác Dīpaṅkara, \
+cùng Chánh Đẳng Giác Nhiên Đăng (Dīpaṅkara), \
 những bậc Chiến Thắng ấy trong một kiếp.
 
 #super[2] Sau bậc Dīpaṅkara, \
-Đạo sư tên Koṇḍañña; \
+Đạo sư tên Câu- ly-nhã (Koṇḍañña); \
 một mình trong một kiếp, \
 Ngài độ thoát nhiều người.
 
@@ -5054,22 +5054,22 @@ các kiếp ở khoảng giữa \
 không thể đếm được.
 
 #super[4] Sau bậc Koṇḍañña, \
-Đạo sư tên Maṅgala; \
+Đạo sư tên Mạnh-già-la (Maṅgala); \
 các kiếp ở khoảng giữa các Ngài \
 cũng không thể đếm được.
 
 #super[5] Maṅgala, Sumana, \
-Revata, ẩn sĩ Sobhita; \
+Ly-bà-đa (Revata), ẩn sĩ Sobhita; \
 cũng là những vị Phật trong một kiếp, \
 bậc có mắt, làm ánh sáng.
 
 #super[6] Sau bậc Sobhita, \
-Anomadassī, bậc đại danh; \
+A-nô-ma-đát-tây (Anomadassī), bậc đại danh; \
 các kiếp ở khoảng giữa các Ngài \
 cũng không thể đếm được.
 
 #super[7] Anomadassī, Paduma, \
-và Đạo sư Nārada; \
+và Đạo sư Na-la-đà (Nārada); \
 cũng là những vị Phật trong một kiếp, \
 những ẩn sĩ phá bóng tối.
 
@@ -5090,13 +5090,13 @@ người thọ nhận các lễ vật.
 
 #super[11] Trong ba vạn kiếp, \
 có hai bậc Điều ngự; \
-Sumedha và Sujāta, \
+Sumedha và Tô-già-đà (Sujāta), \
 về phía này so với Padumuttara.
 
 #super[12] Trong một ngàn tám trăm kiếp, \
 có ba bậc Điều ngự; \
-Piyadassī, Atthadassī, \
-và Đạo sư Dhammadassī.
+Hỉ Kiến (Piyadassī), A-tha-đát-ti (Atthadassī), \
+và Đạo sư Đa-ma-đa-si (Dhammadassī).
 
 #super[13] Về phía này so với Sujāta, \
 những Chánh Đẳng Giác tối thắng loài hai chân; \
@@ -5110,23 +5110,23 @@ bậc nhổ mũi tên, không ai hơn.
 
 #super[15] Từ đây chín mươi hai kiếp, \
 có hai bậc Điều ngự; \
-Chánh Đẳng Giác Tissa và Phussa, \
+Chánh Đẳng Giác Đề-xá (Tissa) và Phussa, \
 không ai sánh bằng, không có đối thủ.
 
 #super[16] Từ đây chín mươi mốt kiếp, \
-Đạo sư tên Vipassī; \
+Đạo sư tên Tỳ-bà-thi (Vipassī); \
 bậc Giác Ngộ ấy cũng từ bi, \
 cởi chúng sanh khỏi trói buộc.
 
 #super[17] Từ đây ba mươi mốt kiếp, \
 có hai bậc Điều ngự; \
-Sikhī và Vessabhū, \
+Thi-khí (Sikhī) và Tỳ-xá- bà (Vessabhū), \
 không ai sánh bằng, không có đối thủ.
 
 #super[18] Trong Hiền kiếp này, \
 có ba bậc Điều ngự; \
-Kakusandha, Koṇāgamana, \
-và Đạo sư Kassapa.
+Câu-lâu-tôn (Kakusandha), Câu-na-hàm (Koṇāgamana), \
+và Đạo sư Ca-diếp (Kassapa).
 
 #super[19] Nay ta là Chánh Đẳng Giác, \
 Metteyya cũng sẽ có; \
@@ -5142,24 +5142,24 @@ rồi diệt độ cùng các đệ tử.
 
 == 29. Chuyện Phân Chia Xá-lợi (Dhātubhājanīyakathā)
 
-#super[1] Gotama lớn, Chiến Thắng quý, \
-diệt độ tại Kusināra; \
+#super[1] Cù-đàm (Gotama) lớn, Chiến Thắng quý, \
+diệt độ tại Câu-thi-na (Kusināra); \
 xá-lợi được phân bố rộng, \
 tại các nơi.
 
-#super[2] Một phần của Ajātasattu, \
-một phần tại thành Vesālī; \
-một phần tại Kapilavatthu, \
-một phần tại Allakappa.
+#super[2] Một phần của A-xà-thế (Ajātasattu), \
+một phần tại thành Tỳ-xá-ly (Vesālī); \
+một phần tại Ca-tỳ-la-vệ (Kapilavatthu), \
+một phần tại A-la-ca-ba (Allakappa).
 
-#super[3] Một phần tại Rāmagāma, \
-một phần tại Veṭhadīpa; \
-một phần của Malla Pāvā, \
+#super[3] Một phần tại La-ma-ga-ma (Rāmagāma), \
+một phần tại Bê-tha-đi-ba (Veṭhadīpa); \
+một phần của Mạt- la (Malla) Ba-vã (Pāvā), \
 một phần của người Kusināra.
 
-#super[4] Bà-la-môn tên Doṇa \
+#super[4] Bà-la-môn tên Đô-na (Doṇa) \
 cho dựng tháp cái bình; \
-dòng Moriya, tâm hoan hỷ, \
+dòng Mô-li-da (Moriya), tâm hoan hỷ, \
 cho dựng tháp tro than.
 
 #super[5] Tám tháp thân xá-lợi, \
@@ -5187,43 +5187,43 @@ phần vừa năm nāḷi; \
 phần nhỏ sáu nāḷi, \
 hết thảy xá-lợi ấy.
 
-#super[10] Uṇhīsa tại đảo Sīhaḷa, \
+#super[10] Uṇhīsa tại đảo Tích Lan (Sīhaḷa), \
 xương đòn trái tại Phạm thiên giới; \
 xương đòn phải cũng tại Sīhaḷa, \
 tất cả đều được an trí.
 
 #super[11] Một răng nanh tại thành Tam thập, \
-một răng tại thành Nāga; \
-một răng tại xứ Gandhāra, \
-một răng của vua Kaliṅga.
+một răng tại thành Na-già (Nāga); \
+một răng tại xứ Cần-đà-la (Gandhāra), \
+một răng của vua Ca-lăng-giới (Kaliṅga).
 
 #super[12] Bốn mươi cái răng đều, \
 tóc và lông khắp thân; \
 chư thiên mỗi vị lấy một, \
 từ thế giới này sang thế giới khác.
 
-#super[13] Tại Vajirā, bát của Thế Tôn, \
+#super[13] Tại Ba-xi-la (Vajirā), bát của Thế Tôn, \
 gậy và y; \
 y trong tại nhà một gia tộc, \
-tấm trải tại thành Kapila.
+tấm trải tại thành Ca-bi-la (Kapila).
 
-#super[14] Tại thành Pāṭaliputta, \
+#super[14] Tại thành Ba-tha-li-bu-đa (Pāṭaliputta), \
 dụng cụ và dây thắt lưng; \
-tại Campā tấm vải tắm, \
-lông bạch hào tại Kosala.
+tại Chiêm-bà (Campā) tấm vải tắm, \
+lông bạch hào tại Câu-tát-la (Kosala).
 
 #super[15] Y cà-sa tại Phạm thiên giới, \
 khăn vấn tại thành Tam thập; \
-tọa cụ tại Avanti, \
+tọa cụ tại Ương-đế-na (Avanti), \
 tấm trải tại nước ấy lúc bấy giờ.
 
-#super[16] Que lửa tại Mithilā, \
-đồ lọc nước tại Videha; \
+#super[16] Que lửa tại Di-tát-la (Mithilā), \
+đồ lọc nước tại Vi-đề-ha (Videha); \
 dao và hộp kim \
-lúc ấy tại thành Indapattha.
+lúc ấy tại thành In-đa-bát-tha (Indapattha).
 
 #super[17] Các tư cụ còn lại \
-tại xứ Aparanta; \
+tại xứ A-ba-lan-ta (Aparanta); \
 những vật bậc ẩn sĩ đã dùng, \
 người đời lúc ấy phụng thờ.
 
