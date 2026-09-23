@@ -14,7 +14,7 @@ nén lại thành một dải số (vd. "96–622") được dịch gọn thành
 duy nhất, giữ đủ ý nghĩa, không tách lẻ ra hàng trăm bản dịch gần như giống
 hệt nhau. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc.
 
-_Trạng thái: đã dịch 35/35 kinh/nhóm; đã trọn tập._
+_Trạng thái: đã dịch 35/35 kinh/nhóm; đã trọn tập; đã viết lại theo giọng nói._
 
 #outline(title: [Mục lục])
 

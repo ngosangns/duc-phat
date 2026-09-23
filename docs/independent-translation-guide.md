@@ -156,6 +156,11 @@ Mẫu đã viết lại, lấy làm chuẩn cho các lượt sau:
 - Luật, Pārājika 1, đoạn 1–16 (truyện Sudinna) và đoạn 21–32 (giải chữ
   điều học).
 
+**Trạng thái viết lại (23/09/2026): toàn bộ 35 tập của bản dịch độc lập
+đã được viết lại theo mục này — Vinaya (giọng luật), Khuddaka (giọng
+kệ/truyện), DN, MN, SN (giọng truyện) và AN. Dòng trạng thái đầu mỗi
+file ghi "đã viết lại theo giọng nói".**
+
 Một số chữ cũ lệch nghĩa, mẫu mới sửa luôn:
 
 - *subhanimitta* là tướng đẹp, không phải "tịnh tướng". Tịnh dễ nghe

@@ -5,35 +5,35 @@
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali (_Khuddakanikāyo Buddhavaṃsapāḷi_, xem thư mục "kinh/tam-tang-pali-goc" trong cùng thư viện), không đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) giữ theo gói nguồn đã chuẩn hoá: Pháp Cú dùng số kệ toàn cục 1–423; các tập khác đếm lại từ 1 trong từng kinh/chuyện/chương. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc. Các đoạn liệt kê dài lặp công thức được dịch đầy đủ nội dung nhưng trình bày gọn lại theo kiểu liệt kê.
 
-_Trạng thái: đã dịch 29/29 đơn vị (1–29); đã trọn tập._
+_Trạng thái: đã dịch 29/29 đơn vị (1–29); đã trọn tập; đã viết lại theo giọng nói._
 
 #outline(title: [Mục lục])
 
 == 1. Phần Ratanacaṅkamana (Ratanacaṅkamanakaṇḍaṃ)
 
-#super[1] Phạm thiên Sahampati, chúa tể thế gian, \
+#super[1] Phạm thiên Sahampati, chúa tể cõi đời, \
 chắp tay thỉnh cầu bậc Vô thượng: \
 "Ở đây có chúng sanh ít bụi nơi mắt, \
 xin Ngài thuyết Pháp, thương xót chúng sanh này."
 
-#super[2] Với bậc đầy đủ minh hạnh, bậc Như vậy, \
+#super[2] Với bậc đầy đủ minh hạnh, bậc Như Thị, \
 bậc mang ánh sáng, mang thân cuối cùng, \
 với Như Lai không ai sánh kịp, \
-lòng bi mẫn đối với mọi chúng sanh đã sanh khởi.
+lòng bi mẫn cho mọi chúng sanh đã khởi lên.
 
-#super[3] "Cùng chư thiên và loài người, họ không biết \
+#super[3] "Chư thiên cùng loài người không biết \
 Đức Phật này, bậc Tối thắng nhân, là như thế nào; \
 thần lực và tuệ lực là như thế nào, \
 Phật lực của bậc lợi lạc thế gian là như thế nào."
 
-#super[4] "Cùng chư thiên và loài người, họ không biết \
+#super[4] "Chư thiên cùng loài người không biết \
 Đức Phật này, bậc Tối thắng nhân, vốn là như vậy; \
 thần lực và tuệ lực vốn là như vậy, \
 Phật lực của bậc lợi lạc thế gian vốn là như vậy."
 
 #super[5] "Nào, Ta sẽ thị hiện \
 Phật lực vô thượng; \
-Ta sẽ hóa hiện đường kinh hành \
+Ta sẽ hóa hiện một đường kinh hành \
 trên hư không, trang sức châu báu."
 
 #super[6] Thần đất, Tứ Đại Thiên Vương, chư thiên Tam thập tam, \
@@ -42,12 +42,12 @@ Tha Hóa Tự Tại cùng chư thiên Phạm thân — \
 họ hoan hỷ, cất lên tiếng vang rộng lớn.
 
 #super[7] Đất đai cùng chư thiên được chiếu sáng, \
-các khoảng giữa thế giới vốn tối tăm, rộng lớn, cũng mở ra; \
+những khoảng giữa các thế giới vốn tối tăm, rộng lớn, cũng mở ra; \
 bóng tối dày đặc lúc ấy bị phá tan, \
 khi thấy phép lạ kỳ diệu ấy.
 
 #super[8] Giữa chư thiên, Càn-thát-bà, loài người và La-sát, \
-một hào quang lớn lao, rộng rãi sanh khởi; \
+một hào quang lớn lao, rộng rãi khởi lên; \
 ở đời này, đời kia, cả hai, \
 bên dưới, bên trên, và trải rộng ngang.
 
@@ -57,12 +57,12 @@ bậc đại oai lực, có trăm tướng phước, \
 đã thị hiện phép lạ kỳ diệu.
 
 #super[10] Được bậc thiên tối thắng thỉnh cầu, bậc Hữu nhãn, \
-bậc Tối thắng nhân lúc ấy xét rõ lợi ích; \
+bậc Tối thắng nhân lúc ấy xét thấy điều lợi ích; \
 bậc Đạo sư thế gian hóa hiện đường kinh hành, \
 khéo hoàn thành, tạo thành bằng mọi châu báu.
 
 #super[11] Thần thông, ký tâm và giáo giới — \
-Thế Tôn là bậc tự tại trong ba phép lạ; \
+Thế Tôn tự tại trong cả ba phép lạ; \
 bậc Đạo sư thế gian hóa hiện đường kinh hành, \
 khéo hoàn thành, tạo thành bằng mọi châu báu.
 
@@ -89,7 +89,7 @@ như mặt trời trăm tia vừa mọc.
 #super[16] Trên đường kinh hành ấy, bậc Kiên trì, \
 có ba mươi hai hảo tướng thù thắng, \
 bậc Chánh Đẳng Giác đang chói sáng, \
-Đấng Chiến thắng kinh hành trên đường kinh hành.
+Đấng Chiến thắng kinh hành trên đường ấy.
 
 #super[17] Hoa Mandārava cõi trời, \
 hoa sen, hoa Pārichattaka; \
@@ -134,12 +134,12 @@ vây quanh đảnh lễ, \
 vui mừng, phấn chấn, hoan hỷ."
 
 #super[25] "Chư thiên và thiên nữ, \
-tịnh tín, tâm vui, \
+lòng tin trong, tâm vui, \
 dùng hoa năm sắc \
 cúng dường bậc Nhân ngưu."
 
 #super[26] "Chúng chư thiên nhìn Ngài, \
-tịnh tín, tâm vui, \
+lòng tin trong, tâm vui, \
 dùng hoa năm sắc \
 cúng dường bậc Nhân ngưu."
 
@@ -178,7 +178,7 @@ chắc chắn chúng ta sẽ thành tựu mục đích, \
 thời khắc đã đến với chúng ta."
 
 #super[34] Nghe nói "Phật", \
-hỷ lạc liền sanh khởi nơi họ; \
+hỷ lạc liền khởi lên nơi họ; \
 họ đứng chắp tay, \
 nói lên: "Phật, Phật."
 
@@ -238,7 +238,7 @@ chiếu sáng bởi hào quang một sải, \
 ông thấy bậc Kiên trì, Đạo sư thế gian.
 
 #super[46] Năm trăm Tỷ-kheo \
-đã làm xong việc, bậc Như vậy, \
+đã làm xong việc, bậc Như Thị, \
 lậu hoặc đã tận, không còn cấu uế — \
 ông tập họp họ trong một sát-na.
 
@@ -614,13 +614,13 @@ rời am của mình, \
 phất áo vỏ cây, \
 đi trên hư không.
 
-#super[38] Thấy đại chúng dâng trào cảm xúc, \
+#super[38] Thấy đại chúng xúc động dâng trào, \
 vui mừng, phấn chấn, hoan hỷ, \
 ta từ trên trời xuống, \
 hỏi ngay những người ấy.
 
 #super[39] "Đại chúng vui mừng, phấn chấn, \
-hoan hỷ, dâng trào cảm xúc; \
+hoan hỷ, xúc động dâng trào; \
 đường cái, con đường lớn này \
 đang được dọn cho ai?"
 
@@ -632,7 +632,7 @@ bậc Đạo sư thế gian, đã xuất hiện; \
 đang được dọn cho Ngài."
 
 #super[41] Nghe lời "Phật", \
-hỷ lạc liền sanh khởi; \
+hỷ lạc liền khởi lên; \
 nói lên "Phật, Phật", \
 ta bày tỏ sự vui mừng.
 
@@ -654,7 +654,7 @@ ta dọn đường lúc bấy giờ.
 #super[45] Khoảng của ta chưa xong, \
 đại Mâu-ni Dīpaṅkara, \
 cùng bốn trăm ngàn vị \
-sáu thắng trí, bậc Như vậy, \
+sáu thắng trí, bậc Như Thị, \
 lậu hoặc đã tận, không cấu uế, \
 Đấng Chiến thắng đã bước lên đường cái.
 
@@ -908,438 +908,437 @@ chắc chắn Ngài sẽ thành Phật."
 lúc ấy từ đất vọt lên; \
 hôm nay nước cũng từ đất vọt lên, \
 chắc chắn Ngài sẽ thành Phật."
-
-#super[95] "Chòm sao chói sáng, \
-các tú xứ trên vòm trời; \
-mặt trăng đứng với Visākhā, \
+#super[95] "Chòm sao rực rỡ, \
+những tú xứ trên trời; \
+trăng hội cùng sao Visākhā, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[96] "Những loài ở hang, ở khe, \
-ra khỏi chỗ ở của mình; \
-hôm nay chúng cũng bỏ chỗ ở, \
+#super[96] "Muông thú trong hang, trong kẽ, \
+rời khỏi nơi mình ở; \
+hôm nay chúng cũng bỏ chỗ trú, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[97] "Chúng sanh không còn bất mãn, \
-lúc ấy đều thỏa mãn; \
-hôm nay tất cả cũng thỏa mãn, \
+#super[97] "Chúng sanh chẳng còn bất mãn, \
+lúc ấy ai cũng mãn nguyện; \
+hôm nay tất cả đều mãn nguyện, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[98] "Bệnh tật lúc ấy lắng xuống, \
-cơn đói cũng diệt; \
-hôm nay những tướng ấy hiện ra, \
+#super[98] "Bệnh tật lúc ấy lắng dịu, \
+cơn đói cũng tan biến; \
+hôm nay những tướng ấy lại hiện, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[99] "Tham lúc ấy mỏng đi, \
-sân và si diệt; \
-hôm nay tất cả cũng đã lìa, \
+#super[99] "Lòng tham lúc ấy mỏng dần, \
+sân cùng si cũng diệt; \
+hôm nay tất cả đều đã lìa, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[100] "Sợ hãi lúc ấy không có, \
-hôm nay điều ấy cũng hiện ra; \
+#super[100] "Nỗi sợ hãi lúc ấy không còn, \
+hôm nay điều ấy lại hiện; \
 nhờ tướng ấy chúng tôi biết, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[101] "Bụi không bay lên cao, \
-hôm nay điều ấy cũng hiện ra; \
+#super[101] "Bụi trần không bay lên cao, \
+hôm nay điều ấy lại hiện; \
 nhờ tướng ấy chúng tôi biết, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[102] "Mùi khó chịu đi mất, \
-hương trời thoảng đến; \
-hôm nay hương ấy cũng bay, \
+#super[102] "Mùi khó chịu tan biến mất, \
+hương trời thoang thoảng đưa; \
+hôm nay hương ấy cũng bay tới, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[103] "Tất cả chư thiên đều hiện, \
-trừ những vị vô sắc; \
+#super[103] "Chư thiên tất cả đều hiện thân, \
+trừ các vị cõi Vô sắc; \
 hôm nay tất cả cũng hiện ra, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[104] "Bao nhiêu địa ngục, \
-tất cả lúc ấy đều hiện; \
+#super[104] "Bấy nhiêu cảnh địa ngục, \
+lúc ấy đều hiện ra hết; \
 hôm nay tất cả cũng hiện ra, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[105] "Tường, cửa, núi đá \
-lúc ấy không còn là chướng ngại; \
-hôm nay chúng cũng thành hư không, \
+#super[105] "Tường thành, cửa ải, núi đá \
+lúc ấy chẳng còn ngăn che; \
+hôm nay chúng cũng hóa hư không, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[106] "Sự chết và sự tái sanh \
-không có trong khoảnh khắc ấy; \
-hôm nay những tướng ấy cũng hiện ra, \
+#super[106] "Sự chết cùng sự tái sanh \
+khoảnh khắc ấy đều không có; \
+hôm nay những tướng ấy lại hiện, \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[107] "Hãy nắm chắc tinh tấn, \
-chớ quay lại, hãy tiến tới; \
+#super[107] "Xin Ngài giữ vững tinh tấn, \
+chớ quay lui, cứ tiến tới; \
 chúng tôi cũng biết điều này: \
 chắc chắn Ngài sẽ thành Phật."
 
-#super[108] Nghe lời Đức Phật, \
-cả ta và mười ngàn thế giới, \
-vui mừng, phấn chấn, hoan hỷ, \
+#super[108] Nghe lời đức Phật ấy, \
+ta cùng mười ngàn thế giới \
+đều vui mừng, phấn khởi, hoan hỷ; \
 lúc ấy ta nghĩ như vầy.
 
 #super[109] "Lời chư Phật không hai nghĩa, \
-lời các Đấng Chiến thắng không rỗng; \
-nơi chư Phật không có điều hư dối, \
+lời các Đấng Chiến thắng không rỗng tuếch; \
+nơi chư Phật không hề hư dối, \
 chắc chắn ta sẽ thành Phật."
 
-#super[110] "Như cục đất ném lên trời \
-chắc chắn rơi xuống đất, \
-cũng vậy, lời của các bậc Phật tối thắng \
-là chắc chắn, thường còn; \
-nơi chư Phật không có điều hư dối, \
+#super[110] "Như nắm đất ném lên trời \
+chắc chắn sẽ rơi xuống đất, \
+lời các bậc Phật tối thắng cũng vậy — \
+chắc chắn, còn mãi; \
+nơi chư Phật không hề hư dối, \
 chắc chắn ta sẽ thành Phật."
 
 #super[111] "Như cái chết của mọi chúng sanh \
-là chắc chắn, thường còn, \
-cũng vậy, lời của các bậc Phật tối thắng \
-là chắc chắn, thường còn; \
-nơi chư Phật không có điều hư dối, \
+chắc chắn, không thể tránh, \
+lời các bậc Phật tối thắng cũng vậy — \
+chắc chắn, còn mãi; \
+nơi chư Phật không hề hư dối, \
 chắc chắn ta sẽ thành Phật."
 
-#super[112] "Như khi đêm tàn, \
-mặt trời mọc là chắc chắn, \
-cũng vậy, lời của các bậc Phật tối thắng \
-là chắc chắn, thường còn; \
-nơi chư Phật không có điều hư dối, \
+#super[112] "Như khi đêm đã tàn, \
+mặt trời chắc chắn sẽ mọc, \
+lời các bậc Phật tối thắng cũng vậy — \
+chắc chắn, còn mãi; \
+nơi chư Phật không hề hư dối, \
 chắc chắn ta sẽ thành Phật."
 
-#super[113] "Như sư tử rời khỏi chỗ nằm \
-rồi rống lên là chắc chắn, \
-cũng vậy, lời của các bậc Phật tối thắng \
-là chắc chắn, thường còn; \
-nơi chư Phật không có điều hư dối, \
+#super[113] "Như sư tử rời chỗ nằm \
+chắc chắn sẽ gầm lên, \
+lời các bậc Phật tối thắng cũng vậy — \
+chắc chắn, còn mãi; \
+nơi chư Phật không hề hư dối, \
 chắc chắn ta sẽ thành Phật."
 
-#super[114] "Như chúng sanh đã mang thai \
-chắc chắn sẽ đặt gánh nặng xuống, \
-cũng vậy, lời của các bậc Phật tối thắng \
-là chắc chắn, thường còn; \
-nơi chư Phật không có điều hư dối, \
+#super[114] "Như người mẹ đã mang thai \
+chắc chắn sẽ hạ gánh nặng xuống, \
+lời các bậc Phật tối thắng cũng vậy — \
+chắc chắn, còn mãi; \
+nơi chư Phật không hề hư dối, \
 chắc chắn ta sẽ thành Phật."
 
 #super[115] "Nào, ta hãy tìm các pháp \
-làm nên Phật, chỗ này chỗ kia; \
-trên, dưới, mười phương, \
-cho đến pháp giới."
+làm nên Phật, khắp mọi nơi; \
+trên, dưới, cùng mười phương, \
+cho tới tận pháp giới."
 
 #super[116] Đang tìm, lúc ấy ta thấy \
-bố thí ba-la-mật thứ nhất, \
+bố thí ba-la-mật là thứ nhất, \
 con đường lớn mà các bậc Đại ẩn sĩ \
-thuở xưa đã đi.
+xưa kia đã đi qua.
 
 #super[117] "Trước hết, hãy nắm chắc \
-pháp này mà thọ trì; \
-hãy đi đến bố thí ba-la-mật, \
+pháp này mà giữ gìn; \
+hãy thực hành bố thí ba-la-mật, \
 nếu muốn chứng Bồ-đề."
 
-#super[118] "Như một cái chum đầy, \
-lật úp cho ai đó, \
-đổ nước ra không dư, \
-không giữ lại gì ở đó."
+#super[118] "Như một cái chum đầy nước \
+bị lật úp cho người, \
+nước đổ ra không còn dư, \
+chẳng giữ lại giọt nào."
 
-#super[119] "Cũng vậy, thấy người xin, \
-thấp, cao hay vừa, \
-hãy cho hết không dư, \
-như chum bị lật úp."
+#super[119] "Cũng vậy, khi thấy kẻ hành khất, \
+dù thấp, cao hay tầm thường, \
+hãy cho hết, không giữ lại, \
+như cái chum bị lật úp."
 
-#super[120] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[120] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[121] Đang tìm, lúc ấy ta thấy \
-giới ba-la-mật thứ hai, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+giới ba-la-mật là thứ hai, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[122] "Thứ đến, hãy nắm chắc \
-pháp thứ hai này mà thọ trì; \
-hãy đi đến giới ba-la-mật, \
+#super[122] "Kế đến, hãy nắm chắc \
+pháp thứ hai này mà giữ gìn; \
+hãy thực hành giới ba-la-mật, \
 nếu muốn chứng Bồ-đề."
 
-#super[123] "Như con camari, \
-đuôi bị vướng vào đâu, \
-thà chết tại đó, \
-không làm hư hại cái đuôi."
+#super[123] "Như con camari kia, \
+đuôi vướng vào chỗ nào, \
+thà chết ngay tại đó \
+chứ không làm hư đuôi."
 
 #super[124] "Cũng vậy, hãy viên mãn giới \
-trên bốn địa; \
-hãy luôn gìn giữ giới, \
-như camari gìn giữ đuôi."
+trên cả bốn địa; \
+hãy luôn luôn giữ gìn giới, \
+như camari giữ đuôi mình."
 
-#super[125] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[125] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[126] Đang tìm, lúc ấy ta thấy \
-xuất ly ba-la-mật thứ ba, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+xuất ly ba-la-mật là thứ ba, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[127] "Thứ đến, hãy nắm chắc \
-pháp thứ ba này mà thọ trì; \
-hãy đi đến xuất ly ba-la-mật, \
+#super[127] "Kế đến, hãy nắm chắc \
+pháp thứ ba này mà giữ gìn; \
+hãy thực hành xuất ly ba-la-mật, \
 nếu muốn chứng Bồ-đề."
 
-#super[128] "Như người ở nhà giam, \
-sống lâu, chịu khổ, \
-không sanh lòng luyến ái tại đó, \
-chỉ tìm sự giải thoát."
+#super[128] "Như người ở trong ngục \
+lâu ngày chịu đau khổ, \
+chẳng sanh lòng luyến ái nơi ấy, \
+chỉ mong được giải thoát."
 
 #super[129] "Cũng vậy, hãy nhìn mọi hữu \
-như nhà giam; \
-hãy hướng về xuất ly, \
-để giải thoát khỏi hữu."
+như một nhà giam; \
+hãy hướng tâm về xuất ly, \
+để thoát khỏi mọi hữu."
 
-#super[130] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[130] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[131] Đang tìm, lúc ấy ta thấy \
-tuệ ba-la-mật thứ tư, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+tuệ ba-la-mật là thứ tư, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[132] "Thứ đến, hãy nắm chắc \
-pháp thứ tư này mà thọ trì; \
-hãy đi đến tuệ ba-la-mật, \
+#super[132] "Kế đến, hãy nắm chắc \
+pháp thứ tư này mà giữ gìn; \
+hãy thực hành tuệ ba-la-mật, \
 nếu muốn chứng Bồ-đề."
 
-#super[133] "Như Tỷ-kheo khất thực, \
-không tránh các nhà thấp, cao, vừa, \
-nhờ vậy được nuôi thân."
+#super[133] "Như vị Tỷ-kheo đi khất thực, \
+không bỏ nhà nào, dù thấp, cao hay vừa, \
+nhờ vậy mà nuôi được thân."
 
 #super[134] "Cũng vậy, hãy luôn hỏi han \
-những người trí; \
-đi đến tuệ ba-la-mật, \
+những bậc có trí; \
+thực hành tuệ ba-la-mật, \
 Ngài sẽ chứng Chánh giác."
 
-#super[135] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[135] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[136] Đang tìm, lúc ấy ta thấy \
-tinh tấn ba-la-mật thứ năm, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+tinh tấn ba-la-mật là thứ năm, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[137] "Thứ đến, hãy nắm chắc \
-pháp thứ năm này mà thọ trì; \
-hãy đi đến tinh tấn ba-la-mật, \
+#super[137] "Kế đến, hãy nắm chắc \
+pháp thứ năm này mà giữ gìn; \
+hãy thực hành tinh tấn ba-la-mật, \
 nếu muốn chứng Bồ-đề."
 
-#super[138] "Như sư tử, vua loài thú, \
-tại chỗ ngồi và đường kinh hành, \
-tinh tấn không chùng, \
-tâm luôn được nâng lên."
+#super[138] "Như sư tử, chúa loài thú, \
+dù nằm, ngồi hay đi lại, \
+tinh tấn không hề chùng xuống, \
+tâm luôn được nâng cao."
 
 #super[139] "Cũng vậy, trong mọi hữu, \
-hãy nắm chắc tinh tấn vững vàng; \
-đi đến tinh tấn ba-la-mật, \
+hãy giữ vững tinh tấn; \
+thực hành tinh tấn ba-la-mật, \
 Ngài sẽ chứng Chánh giác."
 
-#super[140] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[140] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[141] Đang tìm, lúc ấy ta thấy \
-nhẫn ba-la-mật thứ sáu, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+nhẫn ba-la-mật là thứ sáu, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[142] "Thứ đến, hãy nắm chắc \
-pháp thứ sáu này mà thọ trì; \
-tâm không hai nghĩa ở đó, \
+#super[142] "Kế đến, hãy nắm chắc \
+pháp thứ sáu này mà giữ gìn; \
+tâm chớ hai nghĩa nơi đó, \
 Ngài sẽ chứng Chánh giác."
 
-#super[143] "Như đất, \
-sạch hay không sạch, \
-chịu đựng tất cả những gì đặt xuống, \
-không khởi sân đối với chúng."
+#super[143] "Như mặt đất kia, \
+dù sạch hay không sạch, \
+đều chịu đựng mọi thứ đặt xuống, \
+không nổi sân với chúng."
 
-#super[144] "Cũng vậy, hãy nhẫn được \
-sự tôn kính và khinh thường của tất cả; \
-đi đến nhẫn ba-la-mật, \
+#super[144] "Cũng vậy, hãy nhẫn chịu được \
+sự tôn kính lẫn khinh miệt của mọi người; \
+thực hành nhẫn ba-la-mật, \
 Ngài sẽ chứng Chánh giác."
 
-#super[145] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[145] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[146] Đang tìm, lúc ấy ta thấy \
-chân thật ba-la-mật thứ bảy, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+chân thật ba-la-mật là thứ bảy, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[147] "Thứ đến, hãy nắm chắc \
-pháp thứ bảy này mà thọ trì; \
-lời không hai nghĩa ở đó, \
+#super[147] "Kế đến, hãy nắm chắc \
+pháp thứ bảy này mà giữ gìn; \
+lời chớ hai nghĩa nơi đó, \
 Ngài sẽ chứng Chánh giác."
 
 #super[148] "Như ngôi sao Osadhī, \
-cân bằng trong thế gian cùng chư thiên, \
-đúng thời, theo mùa hay theo mưa, \
+giữa thế gian cùng chư thiên, \
+đúng thời, theo mùa, theo mưa, \
 không lệch khỏi đường đi."
 
 #super[149] "Cũng vậy, đối với các sự thật, \
 chớ lệch khỏi đường đi; \
-đi đến chân thật ba-la-mật, \
+thực hành chân thật ba-la-mật, \
 Ngài sẽ chứng Chánh giác."
 
-#super[150] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[150] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[151] Đang tìm, lúc ấy ta thấy \
-quyết định ba-la-mật thứ tám, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+quyết định ba-la-mật là thứ tám, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[152] "Thứ đến, hãy nắm chắc \
-pháp thứ tám này mà thọ trì; \
-hãy bất động ở đó, \
+#super[152] "Kế đến, hãy nắm chắc \
+pháp thứ tám này mà giữ gìn; \
+hãy bất động nơi đó, \
 Ngài sẽ chứng Chánh giác."
 
-#super[153] "Như núi đá, \
-bất động, khéo an trụ, \
-không lay vì gió mạnh, \
-đứng yên tại chỗ của mình."
+#super[153] "Như ngọn núi đá, \
+bất động, an trụ vững vàng, \
+gió mạnh không lay chuyển, \
+đứng yên nơi chỗ của mình."
 
 #super[154] "Cũng vậy, trong sự quyết định, \
-hãy luôn bất động; \
-đi đến quyết định ba-la-mật, \
+hãy luôn luôn bất động; \
+thực hành quyết định ba-la-mật, \
 Ngài sẽ chứng Chánh giác."
 
-#super[155] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[155] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[156] Đang tìm, lúc ấy ta thấy \
-từ ba-la-mật thứ chín, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+từ ba-la-mật là thứ chín, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[157] "Thứ đến, hãy nắm chắc \
-pháp thứ chín này mà thọ trì; \
-hãy vô song về từ, \
+#super[157] "Kế đến, hãy nắm chắc \
+pháp thứ chín này mà giữ gìn; \
+hãy vô song về lòng từ, \
 nếu muốn chứng Bồ-đề."
 
-#super[158] "Như nước, \
-với người lành hay người ác, \
-lan tỏa đều bằng sự mát, \
-cuốn đi bụi bẩn."
+#super[158] "Như nước kia, \
+với người lành hay kẻ ác, \
+đều lan tỏa sự mát mẻ, \
+cuốn trôi bụi bẩn đi."
 
-#super[159] "Cũng vậy, với kẻ lợi và kẻ hại, \
-hãy tu từ cho đều; \
-đi đến từ ba-la-mật, \
+#super[159] "Cũng vậy, với kẻ lợi mình hay hại mình, \
+hãy tu từ cho đều nhau; \
+thực hành từ ba-la-mật, \
 Ngài sẽ chứng Chánh giác."
 
-#super[160] "Không phải chỉ bấy nhiêu ấy \
-là các pháp thành Phật; \
-ta sẽ còn tìm những pháp khác \
+#super[160] "Không phải chỉ bấy nhiêu đó \
+đã đủ làm pháp thành Phật; \
+ta sẽ tìm thêm những pháp khác \
 đưa đến chín muồi Bồ-đề."
 
 #super[161] Đang tìm, lúc ấy ta thấy \
-xả ba-la-mật thứ mười, \
-điều các bậc Đại ẩn sĩ thuở xưa \
+xả ba-la-mật là thứ mười, \
+điều các bậc Đại ẩn sĩ xưa \
 đã hành, đã thường hành.
 
-#super[162] "Thứ đến, hãy nắm chắc \
-pháp thứ mười này mà thọ trì; \
+#super[162] "Kế đến, hãy nắm chắc \
+pháp thứ mười này mà giữ gìn; \
 hãy như cán cân, vững vàng, \
 Ngài sẽ chứng Chánh giác."
 
-#super[163] "Như đất, \
+#super[163] "Như mặt đất kia, \
 vật sạch hay không sạch đặt xuống, \
-nhìn cả hai với xả, \
+nhìn cả hai bằng tâm xả, \
 không sân, không thiên vị."
 
-#super[164] "Cũng vậy, trong lạc và khổ, \
+#super[164] "Cũng vậy, giữa lạc và khổ, \
 hãy luôn như cán cân; \
-đi đến xả ba-la-mật, \
+thực hành xả ba-la-mật, \
 Ngài sẽ chứng Chánh giác."
 
-#super[165] "Chỉ bấy nhiêu ấy ở đời \
+#super[165] "Chỉ bấy nhiêu đó ở đời \
 là các pháp đưa đến chín muồi Bồ-đề; \
-ngoài đó không còn gì khác, \
-hãy đứng vững chắc ở đó."
+ngoài ra không còn gì khác, \
+hãy đứng vững nơi đó."
 
-#super[166] Khi ta quán các pháp này, \
-tánh, vị và tướng của chúng, \
+#super[166] Khi ta quán xét các pháp này, \
+tánh, vị cùng tướng của chúng, \
 do oai lực của Pháp, mặt đất \
 mười ngàn thế giới rung chuyển.
 
-#super[167] Đất chuyển, đất rống, \
-như máy ép mía bị siết; \
+#super[167] Đất chuyển, đất rống lên, \
+như máy ép mía bị siết chặt; \
 như bánh xe nơi máy ép dầu, \
 đất đai rung chuyển như vậy.
 
-#super[168] Hội chúng đang hầu Phật, \
+#super[168] Hội chúng đang hầu đức Phật, \
 bao nhiêu người có mặt, \
-rung chuyển tại chỗ, \
-ngất đi, nằm trên đất.
+đều rung chuyển tại chỗ, \
+ngất xỉu, nằm trên đất.
 
 #super[169] Hàng ngàn ghè nước, \
 nhiều trăm chum lớn, \
 bị nghiền nát, đập vỡ tại đó, \
-va vào nhau.
+va đập vào nhau.
 
-#super[170] Hoảng hốt, run, sợ, \
+#super[170] Hoảng hốt, run rẩy, sợ hãi, \
 bối rối, tâm điên đảo, \
 đại chúng tụ lại, \
-đi đến Dīpaṅkara.
+đi đến chỗ Dīpaṅkara.
 
 #super[171] "Điều gì sẽ xảy đến cho thế gian, \
-lành hay dữ? \
-Cả thế gian đang bị nạn, \
-xin bậc Hữu nhãn hãy dẹp tan."
+lành hay dữ đây? \
+Cả thế gian đang gặp nạn, \
+xin bậc Hữu nhãn dẹp tan đi."
 
 #super[172] Đại Mâu-ni Dīpaṅkara \
 lúc ấy trấn an họ: \
 "Hãy yên lòng, chớ sợ \
 trận đất động này."
 
-#super[173] "Vị mà hôm nay ta đã thọ ký \
+#super[173] "Vị mà hôm nay Ta đã thọ ký \
 sẽ thành Phật ở đời; \
-vị ấy đang quán pháp \
-mà các Đấng Chiến thắng thuở xưa đã hành."
+vị ấy đang quán xét pháp \
+mà các Đấng Chiến thắng xưa đã hành."
 
-#super[174] "Khi vị ấy quán pháp, \
-địa vị Phật không dư sót, \
+#super[174] "Khi vị ấy quán xét pháp, \
+địa vị Phật không sót lại, \
 vì vậy đất này rung chuyển, \
 mười ngàn thế giới cùng chư thiên."
 
-#super[175] Nghe lời Đức Phật, \
+#super[175] Nghe lời đức Phật, \
 tâm họ liền lắng xuống; \
 tất cả đi đến ta, \
-lại đảnh lễ nữa.
+lại đảnh lễ thêm lần nữa.
 
 #super[176] Thọ trì công đức Phật, \
 làm cho tâm vững chắc, \
 đảnh lễ Dīpaṅkara, \
 ta đứng dậy khỏi chỗ ngồi lúc ấy.
 
-#super[177] Hoa trời và hoa người, \
+#super[177] Hoa trời cùng hoa người, \
 chư thiên và loài người cả hai, \
-rải hoa lên người \
+rải hoa lên người ta \
 đang đứng dậy khỏi chỗ ngồi.
 
 #super[178] Cả hai, chư thiên và loài người, \
-chúc lành cho ta: \
+chúc lành cho ta rằng: \
 "Lời nguyện lớn lao của Ngài, \
 xin được như ý."
 
-#super[179] "Mọi tai ương hãy tránh xa, \
-sầu và bệnh hãy diệt; \
+#super[179] "Mọi tai ương xin tránh xa, \
+sầu và bệnh xin tiêu diệt; \
 chớ có chướng ngại nào đến với Ngài, \
 xin mau chứng Bồ-đề tối thượng."
 
@@ -1350,32 +1349,32 @@ Ngài sẽ nở hoa bằng Phật trí."
 #super[181] "Như mọi bậc Chánh Đẳng Giác \
 đã viên mãn mười ba-la-mật, \
 cũng vậy, này Đại hùng, \
-hãy viên mãn mười ba-la-mật."
+xin Ngài viên mãn mười ba-la-mật."
 
 #super[182] "Như mọi bậc Chánh Đẳng Giác \
 giác ngộ tại bồ-đề đạo tràng, \
 cũng vậy, này Đại hùng, \
-hãy giác ngộ Bồ-đề của Đấng Chiến thắng."
+xin Ngài giác ngộ Bồ-đề của Đấng Chiến thắng."
 
 #super[183] "Như mọi bậc Chánh Đẳng Giác \
 đã chuyển bánh xe Pháp, \
 cũng vậy, này Đại hùng, \
-hãy chuyển bánh xe Pháp."
+xin Ngài chuyển bánh xe Pháp."
 
-#super[184] "Như mặt trăng ngày rằm \
+#super[184] "Như trăng ngày rằm \
 thanh tịnh, chói sáng, \
 cũng vậy, với tâm viên mãn, \
-hãy chói sáng trong mười ngàn thế giới."
+xin Ngài chói sáng trong mười ngàn thế giới."
 
-#super[185] "Như mặt trời thoát khỏi Rāhu, \
+#super[185] "Như mặt trời thoát khỏi Rāhu \
 chói sáng hơn bằng hơi nóng; \
 cũng vậy, thoát khỏi thế gian, \
-Ngài hãy chói sáng bằng oai nghi."
+xin Ngài chói sáng bằng oai nghi."
 
 #super[186] "Như mọi dòng sông \
-đều chảy vào đại dương, \
+đều chảy về đại dương, \
 cũng vậy, các thế gian cùng chư thiên \
-hãy tụ về bên Ngài."
+xin tụ về bên Ngài."
 
 #super[187] Được họ ca ngợi, tán thán, \
 vị ấy thọ trì mười pháp; \
@@ -1406,19 +1405,19 @@ ban cho một số người ba minh, \
 và sáu thắng trí.
 
 #super[5] Bằng phương tiện ấy, Đại Mâu-ni \
-giáo hoá quần chúng; \
+giáo hóa quần chúng; \
 nhờ vậy giáo pháp của bậc Hộ trì đời \
-được lan rộng.
+được lan rộng khắp.
 
 #super[6] Vị có quai hàm lớn, vai như bò mộng, \
-tên Dīpaṅkara, \
-đưa nhiều người sang bờ kia, \
-giải thoát họ khỏi đọa xứ.
+tên là Dīpaṅkara, \
+đưa nhiều người qua bờ bên kia, \
+giải thoát họ khỏi cảnh đọa.
 
 #super[7] Thấy người đáng được giác ngộ, \
-dù xa đến trăm ngàn do-tuần, \
+dù xa tới trăm ngàn do-tuần, \
 Đại Mâu-ni trong khoảnh khắc đi đến \
-và làm cho người ấy giác ngộ.
+và khiến người ấy giác ngộ.
 
 #super[8] Ở lần chứng ngộ thứ nhất, đức Phật \
 làm giác ngộ một trăm koṭi; \
@@ -1437,7 +1436,7 @@ một trăm ngàn koṭi vị.
 #super[11] Lại nữa, khi bậc Chiến Thắng ẩn cư \
 tại núi Nāradakūṭa, \
 một trăm koṭi vị đoạn tận lậu hoặc, hết cấu uế, \
-đã tụ họp.
+đã tụ họp lại.
 
 #super[12] Lúc Đại hùng, tại núi đá Sudassana, \
 Đại Mâu-ni làm lễ Tự tứ \
@@ -1454,7 +1453,7 @@ hưng thịnh, phồn vinh, \
 được khéo thanh tịnh.
 
 #super[15] Bốn trăm ngàn vị có sáu thắng trí, \
-thần lực lớn, \
+thần lực lớn lao, \
 luôn luôn vây quanh Dīpaṅkara, \
 bậc Thế Gian Giải.
 
@@ -1708,8 +1707,8 @@ chiếu sáng mười ngàn thế giới.
 
 #super[3] Đức Phật ấy cũng tuyên thuyết \
 bốn Thánh đế tối thắng; \
-uống vị của các đế ấy, \
-họ xua đi bóng tối lớn.
+nếm vị của các đế ấy, \
+họ xua tan bóng tối lớn.
 
 #super[4] Chứng Bồ-đề vô song xong, \
 ở lần thuyết Pháp thứ nhất, \
@@ -1810,75 +1809,75 @@ của bậc Đại sĩ Maṅgala.
 
 #super[24] Sīvalā và Asokā là cặp nữ đại đệ tử; \
 cây Bồ-đề của Thế Tôn ấy gọi là cây Nāga.
+#super[25] Nanda và Visākha, hai cận sự nam hàng đầu; \
+Anulā và Sutanā, hai cận sự nữ hàng đầu.
 
-#super[25] Nanda và Visākha là cận sự nam hàng đầu; \
-Anulā và Sutanā là cận sự nữ hàng đầu.
+#super[26] Đại Mâu-ni thân cao tám mươi tám ratana; \
+từ thân ấy hào quang tuôn ra \
+hàng trăm ngàn tia.
 
-#super[26] Đại Mâu-ni cao tám mươi tám ratana; \
-từ đó hào quang tuôn chảy \
-hàng nhiều trăm ngàn.
+#super[27] Tuổi thọ thời ấy là chín mươi ngàn năm; \
+trụ thế chừng ấy lâu, ngài độ được vô số người.
 
-#super[27] Tuổi thọ lúc ấy là chín mươi ngàn năm; \
-trụ thế chừng ấy, ngài độ được nhiều người.
-
-#super[28] Như sóng trên biển \
-không sao đếm được, \
-đệ tử của ngài cũng vậy, \
-không sao đếm được.
+#super[28] Như sóng cuộn trên biển lớn \
+không thể nào đếm xuể, \
+đệ tử của ngài cũng thế, \
+không thể nào đếm hết.
 
 #super[29] Bao lâu bậc Chánh Đẳng Giác Maṅgala, \
-Đạo Sư đời, còn trụ thế, \
-trong giáo pháp của ngài lúc ấy \
-không có ai chết với phiền não.
+Đạo Sư của đời, còn trụ thế, \
+trong giáo pháp ngài thời ấy \
+không một ai chết mà còn phiền não.
 
-#super[30] Giương ngọn đuốc Pháp, \
-độ được đại chúng, \
-cháy lên như sao chổi, \
-bậc danh vọng lớn tịch diệt.
+#super[30] Giương cao ngọn đuốc Pháp, \
+độ thoát cả đại chúng, \
+ngài cháy sáng như sao chổi, \
+rồi bậc danh vọng lớn tịch diệt.
 
-#super[31] Chỉ rõ tự tánh của các hành \
+#super[31] Đã chỉ rõ tự tánh các hành \
 cho đời cùng chư thiên, \
-cháy lên như khối lửa, \
-như mặt trời lặn.
+ngài cháy lên như khối lửa, \
+rồi lặn như mặt trời.
 
 #super[32] Tại vườn tên Vassara, \
 đức Phật Maṅgala nhập Niết-bàn; \
-ngay tại đó tháp của bậc Chiến Thắng \
+ngay tại đó, tháp của bậc Chiến Thắng \
 cao ba mươi do-tuần.
 #strong[(Phật sử Maṅgala — thứ ba.)]
 
 == 6. Phật sử Sumana (Sumanabuddhavaṃso)
 
-#super[1] Sau Maṅgala, bậc Đạo Sư tên Sumana; \
+#super[1] Sau Maṅgala, có bậc Đạo Sư tên Sumana; \
 vô song giữa các pháp, \
 tối thắng giữa hết thảy chúng sanh.
 
-#super[2] Lúc ấy ngài đánh trống Bất tử \
+#super[2] Lúc ấy ngài đánh vang trống Bất tử \
 tại thành Mekhala; \
-giáo pháp chín chi của bậc Chiến Thắng, \
-cùng với pháp loa.
+giáo pháp chín chi của bậc Chiến Thắng \
+vang lên cùng khắp như tiếng loa.
 
-#super[3] Chiến thắng phiền não, \
+#super[3] Chiến thắng mọi phiền não, \
 chứng quả Chánh đẳng giác tối thắng, \
 bậc Thầy dựng lên một thành: \
 thành Chánh pháp tối thắng.
 
-#super[4] Không đứt đoạn, không cong, \
-thẳng, rộng mênh mông, \
-ngài dựng đại lộ tối thắng: \
+#super[4] Không đứt đoạn, không cong quanh, \
+thẳng tắp, rộng mênh mông, \
+ngài dựng nên đại lộ tối thắng: \
 các niệm xứ.
 
 #super[5] Bốn quả Sa-môn, bốn vô ngại giải, \
 sáu thắng trí, tám đẳng chí — \
-ngài bày ra trên đại lộ ấy.
+ngài bày ra hết thảy \
+trên đại lộ ấy.
 
 #super[6] Những ai không phóng dật, không khô cằn, \
-đầy đủ tàm và tinh tấn, \
-đều thọ trì những đức thù thắng ấy \
-tuỳ theo ý muốn.
+đầy đủ tàm quý và tinh tấn, \
+đều thọ trì được những đức thù thắng ấy \
+tuỳ theo ý mình mong muốn.
 
 #super[7] Bằng phương tiện ấy, \
-nâng đỡ đại chúng, \
+nâng đỡ cả đại chúng, \
 bậc Thầy lần đầu làm giác ngộ \
 một trăm ngàn koṭi.
 
@@ -1889,7 +1888,7 @@ một ngàn koṭi chứng ngộ \
 
 #super[9] Khi chư thiên và loài người, \
 hoà hợp, đồng một tâm, \
-hỏi về đoạn diệt, \
+hỏi về sự đoạn diệt, \
 và cả mối nghi trong lòng.
 
 #super[10] Lúc ấy, ở lần thuyết Pháp \
@@ -1918,16 +1917,16 @@ tám mươi ngàn koṭi vị.
 
 #super[15] Lúc ấy ta là long vương thần lực lớn, \
 tên Atula, \
-tích tụ nhiều thiện pháp.
+đã tích tụ nhiều thiện pháp.
 
 #super[16] Ta rời long cung cùng quyến thuộc, \
 với thiên nhạc của rồng, \
-hầu cận bậc Chiến Thắng cùng chúng Tăng.
+đến hầu cận bậc Chiến Thắng cùng chúng Tăng.
 
 #super[17] Ta làm no đủ một trăm ngàn koṭi vị \
 bằng cơm nước; \
 cúng từng cặp y, \
-ta quy y Ngài.
+rồi ta quy y Ngài.
 
 #super[18] Đức Phật ấy cũng thọ ký cho ta, \
 Sumana Đạo Sư đời: \
@@ -1950,7 +1949,7 @@ cũng vậy, nếu tất cả chúng ta lỡ mất bậc Chiến Thắng này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài."
 
 #super[20] Nghe lời Ngài, ta càng tịnh tín hơn; \
-ta phát nguyện cao hơn \
+ta phát nguyện cao hơn nữa \
 để viên mãn mười ba-la-mật.
 
 #super[21] Kinh đô tên Mekhala, vua Sudatta, \
@@ -1982,18 +1981,18 @@ giác ngộ dưới gốc cây Nāga.
 #super[28] Varuṇa và Saraṇa là cận sự nam hàng đầu; \
 Cālā và Upacālā là cận sự nữ hàng đầu.
 
-#super[29] Đức Phật ấy, theo chiều cao, \
-vươn chín mươi khuỷu tay; \
-rực như khối vàng, \
+#super[29] Đức Phật ấy, tính theo chiều cao, \
+vươn lên chín mươi khuỷu tay; \
+rực rỡ như khối vàng, \
 chiếu sáng mười ngàn thế giới.
 
-#super[30] Tuổi thọ lúc ấy là chín mươi ngàn năm; \
-trụ thế chừng ấy, ngài độ được nhiều người.
+#super[30] Tuổi thọ thời ấy là chín mươi ngàn năm; \
+trụ thế chừng ấy lâu, ngài độ được vô số người.
 
 #super[31] Độ những ai đáng được độ, \
 giác ngộ những ai đáng được giác ngộ, \
 bậc Chánh Đẳng Giác nhập Niết-bàn, \
-như vua sao lặn.
+như vua các sao lặn xuống.
 
 #super[32] Những Tỷ-kheo đoạn tận lậu hoặc ấy, \
 và đức Phật vô song ấy, \
@@ -2007,14 +2006,14 @@ há chẳng phải mọi hành đều trống rỗng sao?
 
 #super[34] Đức Phật Sumana, bậc mang danh vọng, \
 tịch diệt tại Aṅgārāma; \
-ngay tại đó tháp của bậc Chiến Thắng \
+ngay tại đó, tháp của bậc Chiến Thắng \
 cao bốn do-tuần.
 #strong[(Phật sử Sumana — thứ tư.)]
 
 == 7. Phật sử Revata (Revatabuddhavaṃso)
 
-#super[1] Sau Sumana, bậc Đạo Sư tên Revata; \
-vô song, không ai sánh, \
+#super[1] Sau Sumana, có bậc Đạo Sư tên Revata; \
+vô song, không ai sánh kịp, \
 bậc Chiến Thắng tối thắng không thể lường.
 
 #super[2] Ngài cũng tuyên thuyết Pháp, \
@@ -2063,7 +2062,7 @@ ta quy y Ngài.
 #super[11] Tán thán giới, định, \
 và đức tuệ vô thượng của Ngài \
 theo sức mình, \
-ta dâng thượng y.
+ta dâng lên thượng y.
 
 #super[12] Đức Phật ấy cũng thọ ký cho ta, \
 Revata Đạo Sư đời: \
@@ -2086,10 +2085,10 @@ cũng vậy, nếu tất cả chúng ta lỡ mất bậc Chiến Thắng này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài."
 
 #super[14] Nghe lời Ngài, ta càng tịnh tín hơn; \
-ta phát nguyện cao hơn \
+ta phát nguyện cao hơn nữa \
 để viên mãn mười ba-la-mật.
 
-#super[15] Lúc ấy, nhớ Phật pháp ấy, \
+#super[15] Lúc ấy, nhớ lại Phật pháp ấy, \
 ta hun đúc thêm: \
 ta sẽ mang lại pháp ấy, \
 pháp ta hằng mong cầu.
@@ -2113,75 +2112,83 @@ bậc Chiến Thắng tinh tấn nỗ lực trọn bảy tháng.
 Revata Đạo Sư đời; \
 Đại hùng chuyển Pháp luân \
 tại Varuṇārāma, trong Sirīghara.
-
-#super[21] Varuṇa và Brahmadeva là cặp đại đệ tử; \
+#super[21] Varuṇa cùng Brahmadeva \
+là đôi đại đệ tử; \
 Sambhava là thị giả hầu cận \
 của bậc Đại sĩ Revata.
 
-#super[22] Bhaddā và Subhaddā là cặp nữ đại đệ tử; \
+#super[22] Bhaddā cùng Subhaddā \
+là đôi nữ đại đệ tử; \
 đức Phật vô song ấy \
 giác ngộ dưới gốc cây Nāga.
 
-#super[23] Paduma và Kuñjara là cận sự nam hàng đầu; \
-Sirīmā và Yasavatī là cận sự nữ hàng đầu.
+#super[23] Paduma cùng Kuñjara \
+là cận sự nam hàng đầu; \
+Sirīmā cùng Yasavatī \
+là cận sự nữ hàng đầu.
 
-#super[24] Đức Phật ấy, theo chiều cao, \
-vươn tám mươi khuỷu tay; \
-chiếu sáng mọi phương, \
-như trụ Inda dựng lên.
+#super[24] Thân đức Phật ấy \
+cao tới tám mươi khuỷu tay; \
+ngài chiếu sáng khắp phương, \
+như trụ Inda vừa dựng lên.
 
-#super[25] Trên thân ngài sanh ra \
-vòng hào quang vô thượng; \
-ngày hay đêm, \
-chiếu khắp một do-tuần.
+#super[25] Từ thân ngài phát ra \
+vầng hào quang vô thượng; \
+dù ngày hay đêm, \
+soi khắp một do-tuần.
 
-#super[26] Tuổi thọ lúc ấy là sáu mươi ngàn năm; \
-trụ thế chừng ấy, ngài độ được nhiều người.
+#super[26] Tuổi thọ bấy giờ \
+là sáu mươi ngàn năm; \
+trụ thế chừng ấy lâu, \
+ngài độ thoát nhiều người.
 
-#super[27] Hiện Phật lực, \
-tuyên Bất tử ở đời, \
-ngài nhập Niết-bàn không chấp thủ, \
-như lửa tắt khi hết nhiên liệu.
+#super[27] Sau khi tỏ Phật lực, \
+tuyên bày Bất tử giữa đời, \
+ngài nhập Niết-bàn, không chấp thủ, \
+như lửa tắt khi hết củi.
 
-#super[28] Thân ấy như màu châu báu, \
-Pháp ấy không ai sánh — \
-tất cả đều biến mất; \
-há chẳng phải mọi hành đều trống rỗng sao?
+#super[28] Thân ấy đẹp như ngọc quý, \
+Pháp ấy không gì sánh — \
+tất cả đều đã tan biến; \
+chẳng phải mọi hành đều trống rỗng sao?
 
-#super[29] Đức Phật Revata, bậc mang danh vọng, \
+#super[29] Đức Phật Revata, \
+bậc mang đại danh vọng, \
 tịch diệt tại đại thành; \
-xá-lợi được phân bố \
-khắp các xứ.
+xá-lợi được phân chia \
+khắp mọi xứ.
 #strong[(Phật sử Revata — thứ năm.)]
 
 == 8. Phật sử Sobhita (Sobhitabuddhavaṃso)
 
-#super[1] Sau Revata, bậc Đạo Sư tên Sobhita; \
-định tĩnh, tâm tịch, \
-vô song, không người đối.
+#super[1] Sau Revata, \
+bậc Đạo Sư tên Sobhita; \
+định tĩnh, tâm an tịch, \
+vô song, không ai sánh đôi.
 
-#super[2] Bậc Chiến Thắng ấy, ngay tại nhà mình, \
-xoay chuyển tâm ý; \
-chứng giác ngộ trọn vẹn, \
+#super[2] Bậc Chiến Thắng ấy, \
+ngay tại nhà mình, \
+đã xoay chuyển tâm ý; \
+chứng giác ngộ viên mãn, \
 ngài chuyển Pháp luân.
 
-#super[3] Từ Avīci phía dưới \
-đến đỉnh hữu phía trên, \
+#super[3] Từ Avīci bên dưới \
+cho đến đỉnh hữu bên trên, \
 trong khoảng ấy chỉ một hội chúng \
-khi thuyết Pháp.
+khi ngài thuyết Pháp.
 
-#super[4] Với hội chúng ấy, bậc Chánh Đẳng Giác \
-chuyển Pháp luân; \
+#super[4] Giữa hội chúng ấy, \
+bậc Chánh Đẳng Giác chuyển Pháp luân; \
 lần chứng ngộ thứ nhất \
-không sao nói hết bằng số.
+không thể đếm bằng số.
 
-#super[5] Rồi khi thuyết tiếp, \
-tại hội chư thiên, \
+#super[5] Rồi khi thuyết tiếp \
+giữa hội chư thiên, \
 lần chứng ngộ thứ hai là \
 chín mươi ngàn koṭi.
 
 #super[6] Lại nữa, vương tử \
-Sát-đế-lỵ tên Jayasena \
+dòng Sát-đế-lỵ tên Jayasena \
 trồng một khu vườn, \
 rồi dâng lên đức Phật.
 
@@ -2190,13 +2197,15 @@ bậc Hữu nhãn thuyết Pháp; \
 lúc ấy lần chứng ngộ thứ ba là \
 một ngàn koṭi.
 
-#super[8] Bậc Đại sĩ Sobhita có ba kỳ đại hội \
-của những vị đoạn tận lậu hoặc, hết cấu uế, \
-tâm tịch tĩnh, bậc Như vậy.
+#super[8] Bậc Đại sĩ Sobhita \
+có ba kỳ đại hội \
+của những vị đoạn tận lậu hoặc, \
+sạch cấu uế, tâm tịch tĩnh, \
+bậc Như vậy.
 
 #super[9] Vua tên Uggata \
 cúng dường bậc Tối thắng nhân; \
-tại buổi cúng ấy tụ họp \
+trong buổi cúng ấy tụ họp \
 một trăm koṭi A-la-hán.
 
 #super[10] Lại nữa, dân thành \
@@ -2204,26 +2213,27 @@ cúng dường bậc Tối thắng nhân; \
 lúc ấy kỳ họp thứ hai là \
 chín mươi koṭi vị.
 
-#super[11] Khi bậc Chiến Thắng, ở thiên giới xong, \
-giáng xuống, \
+#super[11] Khi bậc Chiến Thắng, \
+ở thiên giới xong, giáng xuống, \
 lúc ấy kỳ họp thứ ba là \
 tám mươi koṭi vị.
 
-#super[12] Lúc ấy ta là Bà-la-môn tên Sujāta; \
-ta làm no đủ đức Phật cùng các đệ tử \
-bằng cơm nước.
+#super[12] Lúc ấy ta là Bà-la-môn \
+tên Sujāta; \
+ta làm no đủ đức Phật \
+cùng các đệ tử bằng cơm nước.
 
 #super[13] Đức Phật ấy cũng thọ ký cho ta, \
-Sobhita Đạo Sư đời: \
+Sobhita, Đạo Sư của đời: \
 "Sau vô lượng kiếp, \
 vị này sẽ thành Phật.
 
 #super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
 bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
 mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+Kolita và Upatissa là cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
+Khemā và Uppalavaṇṇā là cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hatthāḷavaka là cận sự nam hàng đầu, Nandamātā và Uttarā là cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -2233,95 +2243,111 @@ Như người qua sông lỡ bến, nắm bến phía dưới mà vượt đại
 cũng vậy, nếu tất cả chúng ta lỡ mất bậc Chiến Thắng này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài."
 
-#super[15] Nghe lời Ngài, ta mừng rỡ, tâm rúng động; \
-để đạt chính nghĩa ấy, \
+#super[15] Nghe lời Ngài, \
+ta mừng rỡ, tâm rúng động; \
+để đạt được chính nghĩa ấy, \
 ta lập chí kiên cường.
 
-#super[16] Kinh đô tên Sudhamma, vua Sudhamma, \
+#super[16] Kinh đô tên Sudhamma, \
+vua tên Sudhamma, \
 thân mẫu tên Sudhammā — \
 của bậc Đại sĩ Sobhita.
 
-#super[17] Ngài sống đời tại gia chín ngàn năm; \
-ba lầu đài tối thắng: Kumuda, Nāḷina và Paduma.
+#super[17] Ngài sống đời tại gia \
+chín ngàn năm; \
+ba lầu đài tối thắng là \
+Kumuda, Nāḷina và Paduma.
 
-#super[18] Ba mươi bảy ngàn nữ nhân trang điểm; \
-người vợ tên Maṇilā, con trai Sīha.
+#super[18] Ba mươi bảy ngàn nữ nhân \
+trang điểm hầu hạ; \
+người vợ tên Maṇilā, \
+con trai tên Sīha.
 
-#super[19] Thấy bốn tướng, ngài xuất gia bằng chính lầu đài; \
-bậc Tối thắng nhân hành tinh tấn bảy ngày.
+#super[19] Thấy bốn tướng, \
+ngài xuất gia bằng chính lầu đài; \
+bậc Tối thắng nhân \
+hành tinh tấn bảy ngày.
 
 #super[20] Được Phạm thiên thỉnh cầu, \
-Sobhita Đạo Sư đời; \
-Đại hùng chuyển Pháp luân \
+Sobhita, Đạo Sư của đời, \
+bậc Đại hùng chuyển Pháp luân \
 tại vườn Sudhamma tối thắng.
 
-#super[21] Asama và Sunetta là cặp đại đệ tử; \
+#super[21] Asama cùng Sunetta \
+là đôi đại đệ tử; \
 Anoma là thị giả hầu cận \
 của bậc Đại sĩ Sobhita.
 
-#super[22] Nakulā và Sujātā là cặp nữ đại đệ tử; \
-đức Phật ấy, đang giác ngộ, \
-giác ngộ dưới gốc cây Nāga.
+#super[22] Nakulā cùng Sujātā \
+là đôi nữ đại đệ tử; \
+đức Phật ấy giác ngộ \
+dưới gốc cây Nāga.
 
-#super[23] Ramma và Sudatta là cận sự nam hàng đầu; \
-Nakulā và Cittā là cận sự nữ hàng đầu.
+#super[23] Ramma cùng Sudatta \
+là cận sự nam hàng đầu; \
+Nakulā cùng Cittā \
+là cận sự nữ hàng đầu.
 
-#super[24] Đại Mâu-ni cao năm mươi tám ratana; \
-chiếu sáng mọi phương, \
-như trăm tia nắng mọc lên.
+#super[24] Đại Mâu-ni cao \
+năm mươi tám ratana; \
+ngài chiếu sáng khắp phương, \
+như trăm tia nắng vừa mọc.
 
-#super[25] Như rừng hoa nở rộ, \
-thoảng đủ các hương, \
+#super[25] Như rừng hoa nở rộ \
+thoang thoảng đủ hương, \
 lời dạy của ngài cũng vậy, \
-thoảng hương giới.
+thoang thoảng hương giới.
 
-#super[26] Như biển cả, \
-nhìn không chán, \
+#super[26] Như biển cả \
+nhìn mãi không chán, \
 lời dạy của ngài cũng vậy, \
-nghe không chán.
+nghe mãi không chán.
 
-#super[27] Tuổi thọ lúc ấy là chín mươi ngàn năm; \
-trụ thế chừng ấy, ngài độ được nhiều người.
+#super[27] Tuổi thọ bấy giờ \
+là chín mươi ngàn năm; \
+trụ thế chừng ấy lâu, \
+ngài độ thoát nhiều người.
 
 #super[28] Ban giáo giới, ban huấn thị \
 cho những người còn lại, \
-nóng lên như lửa tế, \
+rực sáng như lửa tế, \
 ngài tịch diệt cùng các đệ tử.
 
 #super[29] Đức Phật vô song ấy, \
 các đệ tử đã đạt lực ấy — \
-tất cả đều biến mất; \
-há chẳng phải mọi hành đều trống rỗng sao?
+tất cả đều đã tan biến; \
+chẳng phải mọi hành đều trống rỗng sao?
 
-#super[30] Bậc Chánh Đẳng Giác tối thắng Sobhita \
-tịch diệt tại Sīhārāma; \
-xá-lợi được phân bố \
-khắp các xứ.
+#super[30] Bậc Chánh Đẳng Giác tối thắng \
+Sobhita tịch diệt tại Sīhārāma; \
+xá-lợi được phân chia \
+khắp mọi xứ.
 #strong[(Phật sử Sobhita — thứ sáu.)]
 
 == 9. Phật sử Anomadassī (Anomadassībuddhavaṃso)
 
-#super[1] Sau Sobhita, bậc Chánh Đẳng Giác tối thắng hai chân; \
+#super[1] Sau Sobhita, \
+bậc Chánh Đẳng Giác, tối thắng hai chân, \
 Anomadassī danh vọng vô lượng, \
-oai lực lớn, khó vượt.
+oai lực lớn, khó ai vượt.
 
-#super[2] Ngài cắt hết mọi trói buộc, \
-phá tan ba hữu, \
-thuyết cho trời người \
+#super[2] Ngài cắt đứt mọi trói buộc, \
+phá tan cả ba hữu, \
+thuyết cho trời và người \
 con đường không còn trở lui.
 
-#super[3] Như biển không lay, \
+#super[3] Như biển không lay động, \
 như núi khó đến gần, \
 như hư không vô tận, \
 như vua cây Sāla nở hoa.
 
-#super[4] Chỉ nhìn đức Phật ấy, \
+#super[4] Chỉ cần nhìn đức Phật ấy, \
 chúng sanh đã được vui; \
 nghe tiếng ngài nói, \
-họ đạt Bất tử.
+họ đạt đến Bất tử.
 
 #super[5] Lần chứng ngộ Pháp của ngài \
-lúc ấy hưng thịnh, phồn vinh; \
+bấy giờ hưng thịnh, phồn vinh; \
 một trăm koṭi chứng ngộ \
 ở lần thuyết Pháp thứ nhất.
 
@@ -2330,50 +2356,52 @@ khi mưa Pháp đang rơi, \
 tám mươi koṭi chứng ngộ \
 ở lần thuyết Pháp thứ hai.
 
-#super[7] Kế đó, khi mưa Pháp, \
+#super[7] Kế đó, khi mưa Pháp \
 làm no đủ chúng sanh, \
 lần chứng ngộ thứ ba là \
 bảy mươi bảy koṭi.
 
-#super[8] Bậc Đại sĩ ấy cũng có ba kỳ đại hội \
+#super[8] Bậc Đại sĩ ấy cũng có \
+ba kỳ đại hội \
 của những vị đã đạt lực thắng trí, \
 nở hoa trong giải thoát.
 
 #super[9] Lúc ấy có kỳ họp \
 tám trăm ngàn vị \
-đã đoạn kiêu mạn, si, \
+đã đoạn kiêu mạn và si, \
 tâm tịch tĩnh, bậc Như vậy.
 
 #super[10] Kỳ họp thứ hai là \
 bảy trăm ngàn vị \
-không cấu, hết bụi, \
+không cấu uế, sạch bụi trần, \
 đã an tịnh, bậc Như vậy.
 
 #super[11] Kỳ họp thứ ba là \
 sáu trăm ngàn vị \
 đã đạt lực thắng trí, \
-đã tịch diệt, bậc khổ hạnh.
+đã tịch diệt, những bậc khổ hạnh.
 
-#super[12] Lúc ấy ta là Dạ-xoa thần lực lớn, \
+#super[12] Lúc ấy ta là Dạ-xoa \
+thần lực lớn, \
 chúa tể cai quản \
 nhiều koṭi Dạ-xoa.
 
 #super[13] Lúc ấy ta cũng đi đến \
 bậc Đại sĩ, đức Phật tối thắng, \
-làm no đủ bậc Đạo Sư đời cùng chúng Tăng \
-bằng cơm nước.
+làm no đủ bậc Đạo Sư của đời \
+cùng chúng Tăng bằng cơm nước.
 
 #super[14] Ngài lúc ấy cũng thọ ký cho ta, \
-ẩn sĩ mắt thanh tịnh: \
+bậc có mắt thanh tịnh: \
 "Sau vô lượng kiếp, \
 vị này sẽ thành Phật.
 
 #super[15] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
 bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
 mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+Kolita và Upatissa là cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
+Khemā và Uppalavaṇṇā là cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hatthāḷavaka là cận sự nam hàng đầu, Nandamātā và Uttarā là cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
 Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
@@ -2383,159 +2411,171 @@ Như người qua sông lỡ bến, nắm bến phía dưới mà vượt đại
 cũng vậy, nếu tất cả chúng ta lỡ mất bậc Chiến Thắng này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài."
 
-#super[16] Nghe lời Ngài, ta mừng rỡ, tâm rúng động; \
-ta phát nguyện cao hơn \
+#super[16] Nghe lời Ngài, \
+ta mừng rỡ, tâm rúng động; \
+ta phát nguyện cao hơn nữa \
 để viên mãn mười ba-la-mật.
 
-#super[17] Kinh đô tên Candavatī, vua Yasavā, \
+#super[17] Kinh đô tên Candavatī, \
+vua tên Yasavā, \
 thân mẫu tên Yasodharā — \
 của bậc Thầy Anomadassī.
 
-#super[18] Ngài sống đời tại gia mười ngàn năm; \
-ba lầu đài tối thắng: Sirī, Upasirī và Vaḍḍha.
+#super[18] Ngài sống đời tại gia \
+mười ngàn năm; \
+ba lầu đài tối thắng là \
+Sirī, Upasirī và Vaḍḍha.
 
-#super[19] Hai mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Sirimā, con trai Upavāṇa.
+#super[19] Hai mươi ba ngàn nữ nhân \
+trang điểm hầu hạ; \
+người vợ tên Sirimā, \
+con trai tên Upavāṇa.
 
-#super[20] Thấy bốn tướng, ngài xuất gia bằng kiệu; \
-bậc Chiến Thắng tinh tấn nỗ lực trọn mười tháng.
+#super[20] Thấy bốn tướng, \
+ngài xuất gia bằng kiệu; \
+bậc Chiến Thắng tinh tấn nỗ lực \
+trọn mười tháng.
 
 #super[21] Được Phạm thiên thỉnh cầu, \
-Đại Mâu-ni Anomadassī; \
-Đại hùng chuyển Pháp luân \
+Đại Mâu-ni Anomadassī, \
+bậc Đại hùng chuyển Pháp luân \
 tại vườn Sudassana.
 
-#super[22] Nisabha và Anoma là cặp đại đệ tử; \
+#super[22] Nisabha cùng Anoma \
+là đôi đại đệ tử; \
 Varuṇa là thị giả hầu cận \
 của bậc Thầy Anomadassī.
 
-#super[23] Sundarī và Sumanā là cặp nữ đại đệ tử; \
-cây Bồ-đề của Thế Tôn ấy gọi là Ajjuna.
+#super[23] Sundarī cùng Sumanā \
+là đôi nữ đại đệ tử; \
+cây Bồ-đề của Thế Tôn ấy \
+gọi là Ajjuna.
 
-#super[24] Nandivaḍḍha và Sirivaḍḍha là cận sự nam hàng đầu; \
-Uppalā và Padumā là cận sự nữ hàng đầu.
+#super[24] Nandivaḍḍha cùng Sirivaḍḍha \
+là cận sự nam hàng đầu; \
+Uppalā cùng Padumā \
+là cận sự nữ hàng đầu.
+#super[25] Đức Đại Mâu-ni cao năm mươi tám ratana; \
+hào quang ngài tuôn tràn khắp nơi, \
+tựa trăm tia nắng cùng vươn lên.
 
-#super[25] Đại Mâu-ni cao năm mươi tám ratana; \
-hào quang của ngài tuôn chảy, \
-như trăm tia nắng mọc lên.
+#super[26] Tuổi thọ thời ấy dài một trăm ngàn năm; \
+trụ thế bấy lâu, ngài độ thoát vô số người.
 
-#super[26] Tuổi thọ lúc ấy là một trăm ngàn năm; \
-trụ thế chừng ấy, ngài độ được nhiều người.
+#super[27] Lời dạy rực nở \
+cùng các bậc A-la-hán Như vậy, \
+xa lìa tham dục, sạch hết cấu uế, \
+giáo pháp bậc Chiến Thắng sáng ngời.
 
-#super[27] Lời dạy nở rộ \
-với các bậc A-la-hán Như vậy, \
-ly tham, hết cấu uế, \
-giáo pháp của bậc Chiến Thắng rạng rỡ.
-
-#super[28] Bậc Thầy danh vọng vô lượng ấy, \
-những đôi bạn vô song ấy — \
-tất cả đều biến mất; \
-há chẳng phải mọi hành đều trống rỗng sao?
+#super[28] Bậc Thầy danh tiếng vô lượng ấy, \
+cùng những đôi bạn không ai sánh ấy — \
+tất cả đều đã tan biến; \
+chẳng phải mọi hành đều trống không hay sao?
 
 #super[29] Bậc Chiến Thắng, bậc Thầy Anomadassī \
-tịch diệt tại Dhammārāma; \
-ngay tại đó tháp của bậc Chiến Thắng \
-cao hai mươi lăm do-tuần.
+nhập tịch diệt tại Dhammārāma; \
+ngay nơi ấy, tháp của bậc Chiến Thắng \
+cao lên hai mươi lăm do-tuần.
 #strong[(Phật sử Anomadassī — thứ bảy.)]
 
 == 10. Phật sử Paduma (Padumabuddhavaṃso)
 
-#super[1] Sau Anomadassī, bậc Chánh Đẳng Giác tối thắng hai chân; \
-tên Paduma, \
-vô song, không người đối.
+#super[1] Sau Anomadassī, bậc Chánh Đẳng Giác, tối thắng bậc hai chân; \
+tên là Paduma, \
+vô song, không ai đối địch.
 
-#super[2] Giới của ngài cũng vô song, \
+#super[2] Giới của ngài cũng không ai sánh, \
 định cũng vô tận, \
-tuệ thù thắng không đếm được, \
-giải thoát cũng không gì sánh.
+tuệ thù thắng không thể đếm, \
+giải thoát cũng không gì bì kịp.
 
 #super[3] Khi bậc oai lực vô song ấy \
-chuyển Pháp luân, \
+chuyển bánh xe Pháp, \
 có ba lần chứng ngộ, \
-xua đi bóng tối lớn.
+xua tan bóng tối lớn.
 
-#super[4] Ở lần chứng ngộ thứ nhất, đức Phật \
-làm giác ngộ một trăm koṭi; \
-ở lần chứng ngộ thứ hai, bậc Trí \
-làm giác ngộ chín mươi koṭi.
+#super[4] Trong lần chứng ngộ thứ nhất, đức Phật \
+khiến một trăm koṭi giác ngộ; \
+trong lần chứng ngộ thứ hai, bậc Trí \
+khiến chín mươi koṭi giác ngộ.
 
-#super[5] Khi đức Phật Paduma giáo hoá \
-chính con mình, \
-lúc ấy lần chứng ngộ thứ ba là \
-tám mươi koṭi.
+#super[5] Khi đức Phật Paduma giáo hóa \
+chính con trai mình, \
+lúc ấy lần chứng ngộ thứ ba \
+là tám mươi koṭi.
 
 #super[6] Bậc Đại sĩ Paduma có ba kỳ đại hội; \
-kỳ họp thứ nhất là \
+kỳ họp thứ nhất gồm \
 một trăm ngàn koṭi vị.
 
-#super[7] Vào lúc trải kathina, \
-khi y kathina đã có, \
+#super[7] Vào mùa trải kathina, \
+khi y kathina đã được làm xong, \
 các Tỷ-kheo may y \
-cho vị Pháp tướng.
+dâng lên bậc Pháp tướng.
 
 #super[8] Lúc ấy những Tỷ-kheo thanh tịnh ấy, \
-sáu thắng trí, thần lực lớn, \
-ba trăm ngàn vị vô địch \
-đã tụ họp.
+đầy đủ sáu thắng trí, thần lực lớn, \
+ba trăm ngàn vị không ai địch nổi \
+đã cùng tụ họp.
 
 #super[9] Lại nữa, bậc Nhân Ngưu ấy \
-đến ở trong rừng; \
+đến an trú trong rừng; \
 lúc ấy có kỳ họp \
 hai trăm ngàn vị.
 
-#super[10] Lúc ấy ta là sư tử, chúa muông thú; \
+#super[10] Lúc ấy ta là sư tử, chúa tể muông thú; \
 thấy bậc Chiến Thắng trong rừng \
-đang hun đúc độc cư.
+đang hun đúc trong cảnh độc cư.
 
-#super[11] Đảnh lễ sát chân bằng đầu, \
+#super[11] Ta đảnh lễ sát chân Ngài bằng đầu, \
 đi nhiễu quanh Ngài, \
-gầm ba tiếng, \
-ta hầu cận bậc Chiến Thắng bảy ngày.
+gầm lên ba tiếng, \
+rồi hầu cận bậc Chiến Thắng suốt bảy ngày.
 
 #super[12] Sau bảy ngày, Như Lai xuất \
 khỏi đẳng chí thù thắng; \
-suy nghĩ trong tâm, \
-ngài triệu một koṭi Tỷ-kheo.
+suy xét trong tâm, \
+ngài triệu tập một koṭi Tỷ-kheo.
 
-#super[13] Lúc ấy Đại hùng ấy \
-thọ ký giữa chúng ấy: \
-"Sau vô lượng kiếp, \
+#super[13] Lúc ấy bậc Đại hùng ấy \
+thọ ký giữa chúng ấy rằng: \
+"Sau vô lượng kiếp nữa, \
 vị này sẽ thành Phật.
 
-#super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
+#super[14] Sau khi tinh tấn nỗ lực, làm những hạnh khó làm, \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc cây Assattha; \
 mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+Kolita và Upatissa là cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
+Khemā và Uppalavaṇṇā là cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hatthāḷavaka là cận sự nam hàng đầu, Nandamātā và Uttarā là cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
-Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
+Tiếng reo hò vang dậy, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
 "Nếu chúng ta lỡ mất giáo pháp của bậc Đạo Sư đời này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài. \
-Như người qua sông lỡ bến, nắm bến phía dưới mà vượt đại hà — \
+Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vượt qua đại hà — \
 cũng vậy, nếu tất cả chúng ta lỡ mất bậc Chiến Thắng này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài."
 
-#super[15] Nghe lời Ngài, ta càng tịnh tín hơn; \
-ta phát nguyện cao hơn \
+#super[15] Nghe lời Ngài, tâm ta càng thêm tịnh tín; \
+ta phát nguyện cao hơn nữa \
 để viên mãn mười ba-la-mật.
 
-#super[16] Kinh đô tên Campaka, vua Asama, \
+#super[16] Kinh đô tên Campaka, vua tên Asama, \
 thân mẫu tên Asamā — \
 của bậc Đại sĩ Paduma.
 
 #super[17] Ngài sống đời tại gia mười ngàn năm; \
-ba lầu đài tối thắng: Nandā, Vasu và Yasuttarā.
+ba lầu đài tối thắng là Nandā, Vasu và Yasuttarā.
 
 #super[18] Ba mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Uttarā, con trai Ramma.
+người vợ tên Uttarā, con trai tên Ramma.
 
 #super[19] Thấy bốn tướng, ngài xuất gia bằng cỗ xe; \
 bậc Chiến Thắng tinh tấn nỗ lực trọn tám tháng.
 
 #super[20] Được Phạm thiên thỉnh cầu, \
-Paduma Đạo Sư đời; \
+Paduma, bậc Đạo Sư của đời; \
 Đại hùng chuyển Pháp luân \
 tại vườn Dhanañca tối thắng.
 
@@ -2549,82 +2589,82 @@ cây Bồ-đề của Thế Tôn ấy gọi là Mahāsoṇa.
 #super[23] Bhiyya và Asama là cận sự nam hàng đầu; \
 Rucī và Nandarāmā là cận sự nữ hàng đầu.
 
-#super[24] Đại Mâu-ni cao năm mươi tám ratana; \
-hào quang của ngài tuôn chảy, \
+#super[24] Đức Đại Mâu-ni cao năm mươi tám ratana; \
+hào quang ngài tuôn tràn, \
 vô song khắp mọi phương.
 
 #super[25] Ánh trăng, ánh nắng, \
-ánh châu, lửa, ngọc — \
-tất cả đều bị át, \
+ánh châu ngọc, ánh lửa — \
+tất cả đều bị lu mờ, \
 khi gặp hào quang tối thắng của bậc Chiến Thắng.
 
-#super[26] Tuổi thọ lúc ấy là một trăm ngàn năm; \
-trụ thế chừng ấy, ngài độ được nhiều người.
+#super[26] Tuổi thọ thời ấy là một trăm ngàn năm; \
+trụ thế bấy lâu, ngài độ thoát vô số người.
 
-#super[27] Làm giác ngộ không sót \
-những chúng sanh tâm đã chín, \
+#super[27] Khiến giác ngộ không sót \
+những chúng sanh tâm đã chín muồi, \
 dạy bảo những người còn lại, \
 ngài tịch diệt cùng các đệ tử.
 
-#super[28] Như rắn lột da cũ, \
-như cây rụng lá già, \
-bỏ hết mọi hành, \
-ngài tịch diệt như lửa tắt.
+#super[28] Như rắn lột bỏ da cũ, \
+như cây rụng hết lá già, \
+từ bỏ mọi hành, \
+ngài tịch diệt như ngọn lửa tắt.
 
 #super[29] Bậc Chiến Thắng tối thắng, bậc Thầy Paduma \
-tịch diệt tại Dhammārāma; \
-xá-lợi được phân bố \
+nhập tịch diệt tại Dhammārāma; \
+xá-lợi được phân phát \
 khắp các xứ.
 #strong[(Phật sử Paduma — thứ tám.)]
 
 == 11. Phật sử Nārada (Nāradabuddhavaṃso)
 
-#super[1] Sau Paduma, bậc Chánh Đẳng Giác tối thắng hai chân; \
-tên Nārada, \
-vô song, không người đối.
+#super[1] Sau Paduma, bậc Chánh Đẳng Giác, tối thắng bậc hai chân; \
+tên là Nārada, \
+vô song, không ai đối địch.
 
 #super[2] Đức Phật ấy là con trưởng, con yêu \
-của một Chuyển luân vương; \
-đeo vòng hoa, đồ trang sức, \
+của một vị Chuyển luân vương; \
+đeo vòng hoa, trang sức đầy mình, \
 ngài đi đến ngự uyển.
 
 #super[3] Ở đó có cây danh vọng lớn, \
-đẹp, cao, thanh tịnh; \
-đến đó, ngài ngồi xuống \
-dưới gốc Mahāsoṇa.
+đẹp đẽ, cao vút, thanh tịnh; \
+đến nơi, ngài ngồi xuống \
+dưới gốc cây Mahāsoṇa.
 
-#super[4] Ở đó tuệ thù thắng sanh khởi, \
-vô tận, như kim cương; \
+#super[4] Ở đó tuệ thù thắng khởi lên, \
+vô tận, cứng như kim cương; \
 bằng tuệ ấy ngài quán các hành — \
-cái ngửa và cái úp.
+cả cái ngửa lẫn cái úp.
 
-#super[5] Ở đó ngài xua đi hết \
-mọi phiền não không dư; \
-chứng giác ngộ trọn vẹn, \
-và mười bốn Phật trí.
+#super[5] Ở đó ngài xua đi hết, không còn dư, \
+mọi phiền não; \
+chứng đắc giác ngộ trọn vẹn, \
+cùng mười bốn Phật trí.
 
 #super[6] Chứng Chánh đẳng giác xong, \
-ngài chuyển Pháp luân; \
-lần chứng ngộ thứ nhất là \
+ngài chuyển bánh xe Pháp; \
+lần chứng ngộ thứ nhất gồm \
 một trăm ngàn koṭi.
 
-#super[7] Đại Mâu-ni đang điều phục \
+#super[7] Khi Đại Mâu-ni đang điều phục \
 long vương Mahādoṇa, \
-bèn hiện thần thông, \
-cho đời cùng chư thiên thấy.
+ngài bèn hiện thần thông, \
+cho loài người cùng chư thiên thấy.
 
 #super[8] Lúc ấy, khi thuyết Pháp ấy \
 cho chư thiên và loài người, \
 chín mươi ngàn koṭi \
-vượt hết mọi nghi.
+vượt qua hết mọi nghi.
 
-#super[9] Lúc Đại hùng giáo hoá \
-chính con mình, \
+#super[9] Lúc Đại hùng giáo hóa \
+chính con trai mình, \
 lần chứng ngộ thứ ba là \
 tám mươi ngàn koṭi.
 
 #super[10] Bậc Đại sĩ Nārada có ba kỳ đại hội; \
-kỳ họp thứ nhất là \
+kỳ họp thứ nhất gồm \
 một trăm ngàn koṭi vị.
 
 #super[11] Khi đức Phật tuyên thuyết \
@@ -2638,53 +2678,53 @@ lúc ấy tám triệu \
 con của bậc Chiến Thắng đã tụ họp.
 
 #super[13] Lúc ấy ta là đạo sĩ bện tóc, khổ hạnh cao, \
-đi trên hư không, \
+đi được trên hư không, \
 thông suốt năm thắng trí.
 
 #super[14] Lúc ấy ta làm no đủ \
-bậc Vô song cùng chúng Tăng, cùng tuỳ tùng, \
+bậc Vô song cùng chúng Tăng và tuỳ tùng, \
 bằng cơm nước, \
-rồi cúng dường bằng gỗ đàn hương.
+rồi cúng dường thêm gỗ đàn hương.
 
 #super[15] Ngài lúc ấy cũng thọ ký cho ta, \
-Nārada Đạo Sư đời: \
-"Sau vô lượng kiếp, \
+Nārada, bậc Đạo Sư của đời: \
+"Sau vô lượng kiếp nữa, \
 vị này sẽ thành Phật.
 
-#super[16] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc Assattha; \
+#super[16] Sau khi tinh tấn nỗ lực, làm những hạnh khó làm, \
+bậc Chánh Đẳng Giác danh vọng lớn sẽ giác ngộ dưới gốc cây Assattha; \
 mẹ tên Māyā, cha tên Suddhodana, Ngài sẽ là Gotama; \
-Kolita và Upatissa cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
-Khemā và Uppalavaṇṇā cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
-Citta và Hatthāḷavaka cận sự nam hàng đầu, Nandamātā và Uttarā cận sự nữ hàng đầu; \
+Kolita và Upatissa là cặp đại đệ tử, Ānanda hầu cận bậc Chiến Thắng; \
+Khemā và Uppalavaṇṇā là cặp nữ đại đệ tử, cây Bồ-đề gọi là Assattha; \
+Citta và Hatthāḷavaka là cận sự nam hàng đầu, Nandamātā và Uttarā là cận sự nữ hàng đầu; \
 tuổi thọ của Gotama danh vọng lớn là một trăm năm." \
 Nghe lời ấy, người và trời vui mừng: đây chính là hạt giống Phật. \
-Tiếng reo hò vang lên, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
+Tiếng reo hò vang dậy, họ vỗ tay cười vui, mười ngàn chư thiên chắp tay đảnh lễ: \
 "Nếu chúng ta lỡ mất giáo pháp của bậc Đạo Sư đời này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài. \
-Như người qua sông lỡ bến, nắm bến phía dưới mà vượt đại hà — \
+Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vượt qua đại hà — \
 cũng vậy, nếu tất cả chúng ta lỡ mất bậc Chiến Thắng này, \
 trong thời vị lai chúng ta sẽ được gặp Ngài."
 
-#super[17] Nghe lời Ngài, ta càng làm tâm vui hơn; \
+#super[17] Nghe lời Ngài, tâm ta càng thêm hoan hỷ; \
 ta phát nguyện mãnh liệt \
 để viên mãn mười ba-la-mật.
 
-#super[18] Kinh đô tên Dhaññavatī, vua Sudeva, \
+#super[18] Kinh đô tên Dhaññavatī, vua tên Sudeva, \
 thân mẫu tên Anomā — \
 của bậc Đại sĩ Nārada.
 
 #super[19] Ngài sống đời tại gia chín ngàn năm; \
-ba lầu đài tối thắng: Jita, Vijita và Abhirāma.
+ba lầu đài tối thắng là Jita, Vijita và Abhirāma.
 
 #super[20] Bốn mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Vijitasenā, con trai Nanduttara.
+người vợ tên Vijitasenā, con trai tên Nanduttara.
 
 #super[21] Thấy bốn tướng, ngài xuất gia đi bộ; \
-bậc Tối thắng nhân hành tinh tấn bảy ngày.
+bậc Tối thắng nhân hành tinh tấn suốt bảy ngày.
 
 #super[22] Được Phạm thiên thỉnh cầu, \
-Nārada Đạo Sư đời; \
+Nārada, bậc Đạo Sư của đời; \
 Đại hùng chuyển Pháp luân \
 tại vườn Dhanañca tối thắng.
 
@@ -2698,95 +2738,94 @@ cây Bồ-đề của Thế Tôn ấy gọi là Mahāsoṇa.
 #super[25] Uggarinda và Vasabha là cận sự nam hàng đầu; \
 Indāvarī và Vaṇḍī là cận sự nữ hàng đầu.
 
-#super[26] Đại Mâu-ni cao tám mươi tám ratana; \
-rực như khối vàng, \
+#super[26] Đức Đại Mâu-ni cao tám mươi tám ratana; \
+rực rỡ như khối vàng, \
 chiếu sáng mười ngàn thế giới.
 
-#super[27] Hào quang một sải từ thân ngài \
-tuôn ra khắp phương; \
+#super[27] Hào quang rộng một sải từ thân ngài \
+tuôn ra khắp các phương; \
 ngày đêm không gián đoạn, \
-luôn luôn chiếu một do-tuần.
+luôn chiếu sáng một do-tuần.
 
 #super[28] Lúc ấy không ai trong vòng một do-tuần \
-thắp đuốc, thắp đèn — \
-vì đã bị hào quang Phật phủ.
+phải thắp đuốc, thắp đèn — \
+vì đã bị hào quang Phật bao phủ.
 
-#super[29] Tuổi thọ lúc ấy là chín mươi ngàn năm; \
-trụ thế chừng ấy, ngài độ được nhiều người.
+#super[29] Tuổi thọ thời ấy là chín mươi ngàn năm; \
+trụ thế bấy lâu, ngài độ thoát vô số người.
 
 #super[30] Như hư không rạng rỡ, \
 được trang điểm bởi các vì sao, \
 giáo pháp của ngài cũng vậy, \
-rạng rỡ với các A-la-hán.
+rạng ngời với các bậc A-la-hán.
+#super[31] Để đưa những người còn lại đã vào đạo \
+vượt qua dòng luân hồi, \
+bậc Nhân Ngưu dựng lên nhịp cầu Pháp vững chắc, \
+rồi Ngài tịch diệt.
 
-#super[31] Để vượt dòng luân hồi, \
-cho những người còn lại đã vào đạo, \
-bậc Nhân Ngưu dựng nhịp cầu Pháp vững, \
-rồi tịch diệt.
-
-#super[32] Đức Phật vô song ấy, \
-những vị đoạn tận lậu hoặc oai lực vô lượng ấy — \
-tất cả đều biến mất; \
+#super[32] Đức Phật không ai sánh bằng ấy, \
+các bậc đã đoạn tận lậu hoặc, oai lực vô lượng ấy — \
+tất cả đều đã biến mất; \
 há chẳng phải mọi hành đều trống rỗng sao?
 
 #super[33] Nārada, Ngưu vương giữa các bậc Chiến Thắng, \
-tịch diệt tại thành Sudassana; \
-ngay tại đó ngôi tháp tối thắng \
-cao bốn do-tuần.
+đã tịch diệt tại thành Sudassana; \
+ngay tại nơi ấy, ngôi tháp tối thắng \
+cao lên bốn do-tuần.
 #strong[(Phật sử Nārada — thứ chín.)]
 
 == 12. Phật sử Padumuttara (Padumuttarabuddhavaṃso)
 
-#super[1] Sau Nārada, bậc Chánh Đẳng Giác, \
-tối thắng trong loài hai chân; \
+#super[1] Sau Nārada là bậc Chánh Đẳng Giác, \
+tối thắng giữa loài hai chân; \
 bậc Chiến thắng tên Padumuttara, \
-không lay động, như đại dương.
+không lay động, như biển cả.
 
-#super[2] Kiếp Ngài ra đời là kiếp maṇḍa; \
+#super[2] Kiếp mà Ngài ra đời là kiếp maṇḍa; \
 chúng sanh đầy dẫy thiện pháp \
-đã sanh ra trong kiếp ấy.
+đã được sanh ra trong kiếp ấy.
 
 #super[3] Nơi Thế Tôn Padumuttara, \
-lần thuyết pháp thứ nhất, \
+trong lần thuyết pháp thứ nhất, \
 có trăm ngàn câu-chi chứng ngộ Pháp.
 
-#super[4] Sau đó nữa, khi Ngài đang mưa pháp, \
+#super[4] Rồi sau đó, khi Ngài đang tưới mưa pháp, \
 đang làm no thỏa các loài hữu tình, \
 có ba mươi bảy trăm ngàn chứng ngộ lần thứ hai.
 
-#super[5] Lúc bậc Đại Hùng đi đến Ānanda, \
-đến chỗ cha, \
-Ngài đánh trống Bất tử.
+#super[5] Khi bậc Đại Hùng đi đến Ānanda, \
+đến chỗ cha Ngài, \
+Ngài đã đánh trống Bất tử.
 
-#super[6] Khi trống Bất tử đã nổi, \
-mưa Pháp đang rơi, \
+#super[6] Khi trống Bất tử đã vang, \
+mưa Pháp đang rơi xuống, \
 có năm mươi trăm ngàn chứng ngộ lần thứ ba.
 
 #super[7] Bậc giáo giới, bậc khai thị, \
-bậc đưa tất cả hữu tình sang bờ; \
-đức Phật khéo thuyết giảng, đã độ nhiều người.
+bậc đưa tất cả hữu tình qua bờ bên kia; \
+đức Phật khéo thuyết giảng, đã độ cho nhiều người.
 
 #super[8] Bậc Đạo Sư Padumuttara có ba kỳ đại hội; \
 kỳ hội thứ nhất gồm trăm ngàn câu-chi.
 
 #super[9] Khi đức Phật, bậc Vô đẳng đẳng, \
-trú ở núi Vebhāra, \
+trú tại núi Vebhāra, \
 kỳ hội thứ hai gồm chín mươi ngàn câu-chi.
 
 #super[10] Khi Ngài lại ra đi du hành \
-từ các làng, ấp, xứ; \
+qua các làng, các ấp, các xứ; \
 kỳ hội thứ ba gồm tám mươi ngàn câu-chi.
 
 #super[11] Lúc ấy ta là vị cai trị xứ tên Jaṭila; \
 ta đã cúng dường cơm và y \
 cho chúng Tăng do bậc Chánh Đẳng Giác dẫn đầu.
 
-#super[12] Đức Phật ấy cũng thọ ký cho ta, \
-ngồi giữa chúng Tăng: \
-“Từ đây một trăm ngàn kiếp nữa, người này sẽ thành Phật.
+#super[12] Đức Phật ấy cũng đã thọ ký cho ta, \
+khi ngồi giữa chúng Tăng: \
+“Kể từ đây một trăm ngàn kiếp nữa, người này sẽ thành Phật.
 
 #super[13] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
+dưới gốc cây Assattha, bậc đại danh ấy sẽ thành Chánh Đẳng Giác. \
 Mẹ người này tên Māyā, cha tên Suddhodana, \
 người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
@@ -2795,55 +2834,55 @@ Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
 Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
-Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
+Thọ mạng của Gotama, bậc có danh tiếng, là một trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
 Họ reo hò, vỗ tay, cười lên, chắp tay đảnh lễ. \
-“Nếu chúng ta lỡ giáo pháp của vị Đạo sư thế gian này, \
-thì trong thời vị lai sẽ được diện kiến vị này. \
-Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sang được đại hà; \
+“Nếu chúng ta lỡ mất giáo pháp của vị Đạo sư thế gian này, \
+thì trong thời vị lai, chúng ta sẽ được diện kiến vị này. \
+Như người qua sông lỡ bến, nắm lấy bến ở phía dưới mà vẫn sang được đại hà; \
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
-thì trong thời vị lai sẽ được diện kiến vị này.”
+thì trong thời vị lai, chúng ta sẽ được diện kiến vị này.”
 
 #super[14] Nghe lời Ngài, ta quyết tâm thọ trì hạnh nguyện cao hơn; \
-ta làm cho nghị lực vững chắc, mãnh liệt, \
+ta làm cho nghị lực mình vững chắc, mãnh liệt, \
 để viên mãn mười ba-la-mật.
 
-#super[15] Lúc ấy tất cả ngoại đạo bị đánh bại, \
+#super[15] Lúc ấy tất cả ngoại đạo đều bị đánh bại, \
 thất vọng, buồn rầu; \
-không ai hầu hạ họ nữa, họ bị trục xuất khỏi xứ.
+không còn ai hầu hạ họ nữa, họ bị trục xuất khỏi xứ.
 
-#super[16] Tất cả họp lại, đi đến chỗ đức Phật: \
+#super[16] Tất cả họp nhau lại, đi đến chỗ đức Phật: \
 “Ngài là chỗ nương, bậc Đại Hùng, \
-xin hãy làm chỗ quy y, bậc Có Mắt.”
+xin Ngài hãy làm chỗ quy y, bậc Có Mắt.”
 
 #super[17] Bậc có lòng thương, bậc từ bi, \
 mong lợi ích cho mọi hữu tình; \
-Ngài đặt tất cả ngoại đạo đã đến vào năm giới.
+Ngài đã đặt tất cả ngoại đạo đã đến vào năm giới.
 
 #super[18] Như vậy xứ ấy được thanh bình, trống không ngoại đạo; \
-được điểm tô bằng các A-la-hán, \
-những vị đã tự tại, như như.
+được điểm tô bằng các vị A-la-hán, \
+những bậc đã tự tại, như như.
 
 #super[19] Thành tên Haṃsavatī, vua Sát-đế-lỵ tên Ānanda; \
 mẹ tên Sujātā, \
 của bậc Đạo Sư Padumuttara.
 
 #super[20] Ngài sống đời tại gia mười ngàn năm; \
-ba tòa cung điện tối thắng: Naravāhana, Yasa, Vasavattī.
+ba tòa cung điện tối thắng là Naravāhana, Yasa, Vasavattī.
 
 #super[21] Bốn mươi ba ngàn nữ nhân trang điểm; \
 người vợ tên Vasudattā, người con tên Uttama.
 
 #super[22] Thấy bốn tướng, Ngài xuất gia bằng cung điện; \
-bậc Tối thượng nhân thực hành tinh tấn trong bảy ngày.
+bậc Tối thượng nhân đã thực hành tinh tấn trong bảy ngày.
 
 #super[23] Được Phạm thiên thỉnh cầu, \
 bậc Điều Ngự Padumuttara, bậc Đại Hùng, \
 đã chuyển Pháp luân tại vườn Mithilā tối thắng.
 
 #super[24] Devala và Sujāta là hai thượng thủ đệ tử; \
-thị giả tên Sumana, \
+vị thị giả tên Sumana, \
 của bậc Đại Ẩn Sĩ Padumuttara.
 
 #super[25] Amitā và Asamā là hai thượng thủ nữ đệ tử; \
@@ -2853,46 +2892,46 @@ cây Bồ-đề của Thế Tôn ấy được gọi là Salala.
 Haṭṭhā và Vicittā là hai cận sự nữ đệ nhất.
 
 #super[27] Đại Mâu-ni cao năm mươi tám khuỷu tay; \
-rực như trụ vàng tế lễ, đủ ba mươi hai tướng tốt.
+rực rỡ như trụ vàng tế lễ, đủ ba mươi hai tướng tốt.
 
 #super[28] Tường vách, cửa then, vách ngăn, cây cối, núi đá — \
-không gì che chắn Ngài, \
+không gì che chắn được Ngài, \
 trong vòng mười hai do-tuần xung quanh.
 
 #super[29] Thọ mạng lúc ấy là một trăm ngàn năm; \
-trụ thế chừng ấy, Ngài đã độ nhiều người.
+trụ thế chừng ấy, Ngài đã độ cho nhiều người.
 
 #super[30] Đã đưa nhiều người sang bờ, đã cắt hết mọi nghi hoặc; \
 cháy sáng như khối lửa, Ngài tịch diệt cùng với các đệ tử.
 
 #super[31] Đức Phật Padumuttara, bậc Chiến thắng, \
-tịch diệt tại tịnh xá Nanda; \
-ngay tại đó, tháp quý của Ngài cao mười hai do-tuần.
+đã tịch diệt tại tịnh xá Nanda; \
+ngay tại nơi ấy, tháp quý của Ngài cao mười hai do-tuần.
 
 #strong[(Phật sử của Thế Tôn Padumuttara là thứ mười.)]
 
 == 13. Phật sử Sumedha (Sumedhabuddhavaṃso)
 
-#super[1] Sau Padumuttara, bậc Đạo sư tên Sumedha; \
+#super[1] Sau Padumuttara là bậc Đạo sư tên Sumedha; \
 khó gần, oai lực mãnh liệt, \
 bậc Mâu-ni tối thắng cả thế gian.
 
 #super[2] Mắt trong, dung nhan đẹp, cao lớn, ngay thẳng, oai hùng; \
 mong lợi ích cho mọi chúng sanh, \
-Ngài đã cởi nhiều người khỏi sự trói buộc.
+Ngài đã cởi mở cho nhiều người khỏi trói buộc.
 
-#super[3] Khi đức Phật đạt được \
+#super[3] Khi đức Phật đã đạt được \
 toàn bộ quả Bồ-đề tối thượng, \
 Ngài chuyển Pháp luân tại thành Sudassana.
 
 #super[4] Nơi Ngài cũng có ba lần chứng ngộ khi thuyết pháp; \
 lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 
-#super[5] Sau đó nữa, bậc Chiến thắng điều phục Dạ-xoa Kumbhakaṇṇa; \
+#super[5] Rồi sau đó, bậc Chiến thắng điều phục Dạ-xoa Kumbhakaṇṇa; \
 lần chứng ngộ thứ hai gồm chín mươi ngàn câu-chi.
 
-#super[6] Sau đó nữa, bậc danh tiếng vô lượng \
-tuyên thuyết bốn Thánh đế; \
+#super[6] Rồi sau đó, bậc danh tiếng vô lượng \
+đã tuyên thuyết bốn Thánh đế; \
 lần chứng ngộ thứ ba gồm tám mươi ngàn câu-chi.
 
 #super[7] Bậc Đại Ẩn Sĩ Sumedha có ba kỳ đại hội, \
@@ -2903,26 +2942,26 @@ tâm an tịnh, như như.
 lúc ấy các Tỷ-kheo lậu hoặc đã tận \
 hội họp đến một trăm câu-chi.
 
-#super[9] Sau đó nữa, tại Devakūṭa, \
+#super[9] Rồi sau đó, tại Devakūṭa, \
 khi y kathina được trải cho các Tỷ-kheo, \
 kỳ hội thứ hai gồm chín mươi câu-chi.
 
-#super[10] Sau đó nữa, khi bậc Thập Lực đi du hành, \
+#super[10] Rồi sau đó, khi bậc Thập Lực đi du hành, \
 kỳ hội thứ ba gồm tám mươi câu-chi.
 
 #super[11] Lúc ấy ta là thanh niên Bà-la-môn tên Uttara; \
 trong nhà ta tích trữ tài sản đến tám mươi câu-chi.
 
 #super[12] Dâng trọn tất cả cho vị Đạo sư thế gian cùng chúng Tăng, \
-ta đi đến quy y Ngài, \
+ta đã đi đến quy y Ngài, \
 và vui thích xuất gia.
 
-#super[13] Đức Phật ấy cũng thọ ký cho ta, \
+#super[13] Đức Phật ấy cũng đã thọ ký cho ta, \
 khi đang tùy hỷ: \
 “Trong ba mươi ngàn kiếp nữa, người này sẽ thành Phật.
 
 #super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
+dưới gốc cây Assattha, bậc đại danh ấy sẽ thành Chánh Đẳng Giác. \
 Mẹ người này tên Māyā, cha tên Suddhodana, \
 người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
@@ -2931,15 +2970,15 @@ Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
 Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
-Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
+Thọ mạng của Gotama, bậc có danh tiếng, là một trăm năm.” \
 Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
 Họ reo hò, vỗ tay, cười lên, chắp tay đảnh lễ. \
-“Nếu chúng ta lỡ giáo pháp của vị Đạo sư thế gian này, \
-thì trong thời vị lai sẽ được diện kiến vị này. \
-Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sang được đại hà; \
+“Nếu chúng ta lỡ mất giáo pháp của vị Đạo sư thế gian này, \
+thì trong thời vị lai, chúng ta sẽ được diện kiến vị này. \
+Như người qua sông lỡ bến, nắm lấy bến ở phía dưới mà vẫn sang được đại hà; \
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
-thì trong thời vị lai sẽ được diện kiến vị này.”
+thì trong thời vị lai, chúng ta sẽ được diện kiến vị này.”
 
 #super[15] Nghe lời Ngài, ta càng tịnh tín trong tâm; \
 ta quyết tâm thọ trì hạnh nguyện cao hơn, \
@@ -2947,31 +2986,31 @@ ta quyết tâm thọ trì hạnh nguyện cao hơn, \
 
 #super[16] Kinh tạng, Luật tạng, \
 cả giáo pháp chín chi của bậc Đạo Sư — \
-học thuộc tất cả, ta làm rạng giáo pháp của bậc Chiến thắng.
+học thuộc tất cả, ta đã làm rạng giáo pháp của bậc Chiến thắng.
 
-#super[17] Sống không phóng dật ở đó, \
+#super[17] Sống không phóng dật ở nơi ấy, \
 nơi chỗ ngồi, chỗ đứng và đường kinh hành; \
-đạt đến bờ kia của các thắng trí, ta đi đến Phạm thiên giới.
+đạt đến bờ bên kia của các thắng trí, ta đi đến Phạm thiên giới.
 
 #super[18] Thành tên Sudassana, vua Sát-đế-lỵ tên Sudatta; \
 mẹ tên Sudattā, \
 của bậc Đại Ẩn Sĩ Sumedha.
 
 #super[19] Ngài sống đời tại gia chín ngàn năm; \
-ba tòa cung điện tối thắng: Sucanda, Kañcana, Sirivaḍḍha.
+ba tòa cung điện tối thắng là Sucanda, Kañcana, Sirivaḍḍha.
 
 #super[20] Bốn mươi tám ngàn nữ nhân trang điểm; \
 người vợ tên Sumanā, người con tên Punabbasu.
 
 #super[21] Thấy bốn tướng, Ngài xuất gia bằng xe voi; \
-bậc Chiến thắng tinh tấn trọn nửa tháng.
+bậc Chiến thắng đã tinh tấn trọn nửa tháng.
 
 #super[22] Được Phạm thiên thỉnh cầu, \
 bậc Đạo sư thế gian Sumedha, bậc Đại Hùng, \
 đã chuyển Pháp luân tại vườn Sudassana tối thắng.
 
 #super[23] Saraṇa và Sabbakāma là hai thượng thủ đệ tử; \
-thị giả tên Sāgara, \
+vị thị giả tên Sāgara, \
 của bậc Đại Ẩn Sĩ Sumedha.
 
 #super[24] Rāmā và Surāmā là hai thượng thủ nữ đệ tử; \
@@ -2985,10 +3024,10 @@ chiếu sáng mọi phương, như mặt trăng giữa các vì sao.
 
 #super[27] Như viên ngọc của Chuyển luân vương \
 chiếu sáng một do-tuần, \
-cũng vậy hào quang của Ngài tỏa khắp một do-tuần xung quanh.
+cũng vậy, hào quang của Ngài tỏa khắp một do-tuần xung quanh.
 
 #super[28] Thọ mạng lúc ấy là chín mươi ngàn năm; \
-trụ thế chừng ấy, Ngài đã độ nhiều người.
+trụ thế chừng ấy, Ngài đã độ cho nhiều người.
 
 #super[29] Chốn ấy lúc ấy đông đảo \
 các bậc A-la-hán hiền thiện, \
@@ -2996,17 +3035,17 @@ những vị có tam minh, lục thông, đã đạt các lực, như như.
 
 #super[30] Tất cả các vị ấy danh tiếng vô lượng, \
 đã giải thoát, không còn chấp thủ; \
-đã tỏ ánh sáng trí tuệ, các bậc đại danh ấy đã tịch diệt.
+đã tỏa ánh sáng trí tuệ, các bậc đại danh ấy đã tịch diệt.
 
 #super[31] Đức Phật Sumedha, bậc Chiến thắng thù thắng, \
-tịch diệt tại tịnh xá Medhā; \
-xá-lợi được phân chia rộng khắp các vùng.
+đã tịch diệt tại tịnh xá Medhā; \
+xá-lợi của Ngài được phân chia rộng khắp các vùng.
 
 #strong[(Phật sử của Thế Tôn Sumedha là thứ mười một.)]
 
 == 14. Phật sử Sujāta (Sujātabuddhavaṃso)
 
-#super[1] Ngay trong kiếp maṇḍa ấy, bậc Đạo sư tên Sujāta; \
+#super[1] Ngay trong kiếp maṇḍa ấy là bậc Đạo sư tên Sujāta; \
 cằm như sư tử, vai như bò mộng, \
 không thể lường, khó gần.
 
@@ -3014,70 +3053,69 @@ không thể lường, khó gần.
 như trăm tia nắng oai hùng; \
 bậc Chánh Đẳng Giác luôn rực rỡ, cháy sáng bằng uy đức.
 
-#super[3] Đạt được Chánh Đẳng Giác, \
+#super[3] Khi đã đạt được Chánh Đẳng Giác, \
 toàn bộ quả Bồ-đề tối thượng, \
 Ngài chuyển Pháp luân tại thành Sumaṅgala.
 
 #super[4] Khi bậc Đạo sư thế gian Sujāta \
 thuyết pháp thù thắng, \
-tám mươi câu-chi chứng ngộ trong lần thuyết pháp thứ nhất.
-
+tám mươi câu-chi đã chứng ngộ trong lần thuyết pháp thứ nhất.
 #super[5] Khi Sujāta, bậc danh tiếng vô lượng, \
-đi đến cõi trời để an cư mùa mưa, \
-có ba mươi bảy trăm ngàn chứng ngộ lần thứ hai.
+lên cõi trời an cư mùa mưa, \
+ba mươi bảy trăm ngàn vị chứng ngộ lần thứ hai.
 
 #super[6] Khi Sujāta, bậc Vô đẳng đẳng, \
-đi đến chỗ cha, \
-có sáu mươi trăm ngàn chứng ngộ lần thứ ba.
+đến thăm nơi cha ở, \
+sáu mươi trăm ngàn vị chứng ngộ lần thứ ba.
 
 #super[7] Bậc Đại Ẩn Sĩ Sujāta có ba kỳ đại hội, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
+toàn những vị đã tận lậu hoặc, thanh tịnh, \
 tâm an tịnh, như như.
 
 #super[8] Những vị đã đạt lực thắng trí, \
-không còn thọ sanh trong hữu và phi hữu; \
+không còn thọ sanh trong hữu và phi hữu — \
 sáu mươi trăm ngàn vị hội họp lần thứ nhất.
 
-#super[9] Sau đó nữa, trong kỳ hội, \
-khi bậc Chiến thắng giáng trần từ cõi trời; \
-kỳ hội thứ hai gồm năm mươi trăm ngàn.
+#super[9] Rồi trong một kỳ hội khác, \
+khi bậc Chiến thắng từ cõi trời giáng trần, \
+kỳ hội thứ hai gồm năm mươi trăm ngàn vị.
 
-#super[10] Vị thượng thủ đệ tử của Ngài, \
-đi đến bậc Nhân Ngưu, \
+#super[10] Vị thượng thủ đệ tử của Ngài \
+đến gặp bậc Nhân Ngưu, \
 cùng bốn trăm ngàn vị đến chỗ bậc Chánh Đẳng Giác.
 
 #super[11] Lúc ấy ta là chúa tể bốn châu, \
 đi được trên hư không, \
-là Chuyển luân vương đại lực.
+là Chuyển luân vương oai lực lớn.
 
 #super[12] Thấy điều hy hữu ở đời, điều chưa từng có, khiến rởn ốc, \
-ta đi đến đảnh lễ \
+ta đến đảnh lễ \
 Sujāta, bậc Đạo sư thế gian.
 
-#super[13] Dâng đại vương quốc bốn châu \
-cùng bảy báu tối thắng cho đức Phật, \
-ta xuất gia bên Ngài.
+#super[13] Ta dâng đại vương quốc bốn châu \
+cùng bảy món báu tối thắng cho đức Phật, \
+rồi xuất gia bên Ngài.
 
-#super[14] Các người coi sóc tinh xá ở các vùng quê, \
+#super[14] Những người coi sóc tinh xá ở các vùng quê \
 thay phiên lo liệu, \
 mang vật dụng và chỗ nằm ngồi đến cho chúng Tỷ-kheo.
 
 #super[15] Đức Phật ấy cũng thọ ký cho ta, \
-bậc chúa tể thế giới mười ngàn: \
-“Trong ba mươi ngàn kiếp nữa, người này sẽ thành Phật.
+bậc chúa tể cõi mười ngàn thế giới: \
+“Ba mươi ngàn kiếp nữa, người này sẽ thành Phật.
 
-#super[16] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
+#super[16] Sau khi tinh tấn nỗ lực, làm những hạnh khó làm, \
+dưới gốc cây Assattha, bậc đại danh ấy sẽ thành Chánh Đẳng Giác. \
 Mẹ người này tên Māyā, cha tên Suddhodana, \
 người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
 vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
 Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
+cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
 Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
-Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
-Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
+Thọ mạng của Gotama, bậc có danh tiếng, là một trăm năm.” \
+Nghe lời bậc Đại Ẩn Sĩ không ai sánh, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
 Họ reo hò, vỗ tay, cười lên, chắp tay đảnh lễ. \
 “Nếu chúng ta lỡ giáo pháp của vị Đạo sư thế gian này, \
@@ -3086,33 +3124,33 @@ Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sa
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
 
-#super[17] Nghe lời Ngài, ta càng sanh tâm hoan hỷ; \
-ta quyết tâm thọ trì hạnh nguyện mãnh liệt, \
+#super[17] Nghe lời Ngài, ta càng hoan hỷ; \
+ta quyết tâm giữ hạnh nguyện mãnh liệt, \
 để viên mãn mười ba-la-mật.
 
 #super[18] Kinh tạng, Luật tạng, \
 cả giáo pháp chín chi của bậc Đạo Sư — \
-học thuộc tất cả, ta làm rạng giáo pháp của bậc Chiến thắng.
+ta học thuộc tất cả, làm rạng giáo pháp của bậc Chiến thắng.
 
-#super[19] Sống không phóng dật ở đó, \
+#super[19] Sống không phóng dật nơi ấy, \
 tu tập thiền Phạm trú; \
-đạt đến bờ kia của thắng trí, ta đi đến Phạm thiên giới.
+đạt đến bờ kia của thắng trí, ta sanh lên Phạm thiên giới.
 
 #super[20] Thành tên Sumaṅgala, vua Sát-đế-lỵ tên Uggata; \
 mẹ tên Pabhāvatī, \
 của bậc Đại Ẩn Sĩ Sujāta.
 
 #super[21] Ngài sống đời tại gia chín ngàn năm; \
-ba tòa cung điện tối thắng: Sirī, Upasirī, Nanda.
+có ba tòa cung điện tối thắng: Sirī, Upasirī, Nanda.
 
 #super[22] Hai mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Sirinandā, người con tên Upasena.
+vợ tên Sirinandā, con tên Upasena.
 
 #super[23] Thấy bốn tướng, Ngài xuất gia bằng xe ngựa; \
 bậc Chiến thắng tinh tấn trọn chín tháng.
 
 #super[24] Được Phạm thiên thỉnh cầu, \
-bậc Đạo sư thế gian Sujāta, bậc Đại Hùng, \
+Sujāta, bậc Đạo sư thế gian, bậc Đại Hùng, \
 đã chuyển Pháp luân tại vườn Sumaṅgala tối thắng.
 
 #super[25] Sudassana và Sudeva là hai thượng thủ đệ tử; \
@@ -3120,7 +3158,7 @@ thị giả tên Nārada, \
 của bậc Đại Ẩn Sĩ Sujāta.
 
 #super[26] Nāgā và Nāgasamālā là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Mahāveḷu.
+cây Bồ-đề của Thế Tôn ấy gọi là Mahāveḷu.
 
 #super[27] Cây ấy thân dày, không rỗng, có lá; \
 thẳng, đốt cao, đẹp mắt, đáng ưa.
@@ -3128,18 +3166,18 @@ thẳng, đốt cao, đẹp mắt, đáng ưa.
 #super[28] Một thân mọc lên, rồi từ đó các cành tỏa ra; \
 như chiếc quạt công khéo đan, cây ấy rực rỡ như vậy.
 
-#super[29] Không có gai, cũng không có lỗ hổng lớn; \
+#super[29] Không gai, cũng không lỗ hổng lớn; \
 cành rộng, khít dày, bóng râm mát, đáng ưa.
 
 #super[30] Sudatta và Citta là hai cận sự nam đệ nhất; \
 Subhaddā và Padumā là hai cận sự nữ đệ nhất.
 
 #super[31] Bậc Chiến thắng ấy cao năm mươi khuỷu tay; \
-đủ mọi vẻ đẹp thù thắng, đã đến với mọi công đức.
+đủ mọi vẻ đẹp thù thắng, đã đạt mọi công đức.
 
 #super[32] Hào quang của Ngài không ai sánh, \
 tuôn chảy khắp xung quanh; \
-không lường được, không so được, không có thí dụ nào kịp.
+không lường được, không so được, không thí dụ nào kịp.
 
 #super[33] Thọ mạng lúc ấy là chín mươi ngàn năm; \
 trụ thế chừng ấy, Ngài đã độ nhiều người.
@@ -3160,9 +3198,9 @@ ngay tại đó, tháp của Ngài cao ba gāvuta.
 
 == 15. Phật sử Piyadassī (Piyadassībuddhavaṃso)
 
-#super[1] Sau Sujāta, bậc Tự Chủ, Đạo sư thế gian; \
+#super[1] Sau Sujāta, bậc Tự Chủ, Đạo sư thế gian, \
 khó gần, Vô đẳng đẳng, \
-Piyadassī, bậc đại danh.
+là Piyadassī, bậc đại danh.
 
 #super[2] Đức Phật ấy, bậc danh tiếng vô lượng, \
 chiếu sáng như mặt trời; \
@@ -3176,7 +3214,7 @@ lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 bậc Đạo Sư dẹp kiến ấy, thuyết pháp cho ông.
 
 #super[5] Nhân chúng hội họp không gì sánh, \
-một đại hội lúc ấy; \
+thành một đại hội lúc ấy; \
 lần chứng ngộ thứ hai gồm chín mươi ngàn câu-chi.
 
 #super[6] Khi bậc Điều Ngự Nhân điều phục \
@@ -3199,24 +3237,24 @@ ta cho xây một tăng xá.
 
 #super[11] Dâng tịnh xá ấy xong, \
 hoan hỷ, tâm kinh cảm, \
-ta thọ trì vững chắc quy y và năm giới.
+ta giữ vững quy y và năm giới.
 
 #super[12] Đức Phật ấy cũng thọ ký cho ta, \
 ngồi giữa chúng Tăng: \
 “Một ngàn tám trăm kiếp nữa, người này sẽ thành Phật.
 
-#super[13] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
+#super[13] Sau khi tinh tấn nỗ lực, làm những hạnh khó làm, \
+dưới gốc cây Assattha, bậc đại danh ấy sẽ thành Chánh Đẳng Giác. \
 Mẹ người này tên Māyā, cha tên Suddhodana, \
 người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
 vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
 Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
+cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
 Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
-Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
-Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
+Thọ mạng của Gotama, bậc có danh tiếng, là một trăm năm.” \
+Nghe lời bậc Đại Ẩn Sĩ không ai sánh, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
 Họ reo hò, vỗ tay, cười lên, chắp tay đảnh lễ. \
 “Nếu chúng ta lỡ giáo pháp của vị Đạo sư thế gian này, \
@@ -3225,8 +3263,8 @@ Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sa
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
 
-#super[14] Nghe lời Ngài, ta càng tịnh tín trong tâm; \
-ta quyết tâm thọ trì hạnh nguyện cao hơn, \
+#super[14] Nghe lời Ngài, tâm ta càng tịnh tín; \
+ta quyết tâm giữ hạnh nguyện cao hơn, \
 để viên mãn mười ba-la-mật.
 
 #super[15] Thành tên Sudhañña, vua Sát-đế-lỵ tên Sudatta; \
@@ -3234,13 +3272,13 @@ mẹ tên Candā, \
 của bậc Đạo Sư Piyadassī.
 
 #super[16] Ngài sống đời tại gia chín ngàn năm; \
-ba tòa cung điện tối thắng: Sunimmala, Vimala, Giriguhā.
+có ba tòa cung điện tối thắng: Sunimmala, Vimala, Giriguhā.
 
 #super[17] Ba mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Vimalā, người con tên Kañcanāveḷa.
+vợ tên Vimalā, con tên Kañcanāveḷa.
 
 #super[18] Thấy bốn tướng, Ngài xuất gia bằng xe ngựa; \
-bậc Tối thượng nhân thực hành tinh tấn trong sáu tháng.
+bậc Tối thượng nhân tinh tấn trong sáu tháng.
 
 #super[19] Được Phạm thiên thỉnh cầu, \
 đại Mâu-ni Piyadassī, bậc Đại Hùng, \
@@ -3251,7 +3289,7 @@ thị giả tên Sobhita, \
 của bậc Đạo Sư Piyadassī.
 
 #super[21] Sujātā và Dhammadinnā là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Kakudha.
+cây Bồ-đề của Thế Tôn ấy gọi là Kakudha.
 
 #super[22] Sandhaka và Dhammaka là hai cận sự nam đệ nhất; \
 Visākhā và Dhammadinnā là hai cận sự nữ đệ nhất.
@@ -3260,7 +3298,7 @@ Visākhā và Dhammadinnā là hai cận sự nữ đệ nhất.
 đủ ba mươi hai tướng tốt; \
 cao tám mươi khuỷu tay, hiện ra như vua cây Sāla.
 
-#super[24] Lửa, trăng, mặt trời không có hào quang như thế; \
+#super[24] Lửa, trăng, mặt trời không có hào quang như thế, \
 như hào quang của bậc Đại Ẩn Sĩ không ai sánh ấy.
 
 #super[25] Thọ mạng của vị Thiên chủ ấy cũng chừng ấy; \
@@ -3278,7 +3316,7 @@ ngay tại đó, tháp của bậc Chiến thắng cao ba do-tuần.
 
 == 16. Phật sử Atthadassī (Atthadassībuddhavaṃso)
 
-#super[1] Ngay trong kiếp maṇḍa ấy, Atthadassī, bậc đại danh; \
+#super[1] Ngay trong kiếp maṇḍa ấy, Atthadassī, bậc đại danh, \
 diệt trừ bóng tối lớn, \
 đạt được Chánh Đẳng Giác tối thượng.
 
@@ -3299,15 +3337,15 @@ thuyết pháp tại chỗ cha, \
 lần chứng ngộ thứ ba gồm trăm ngàn câu-chi.
 
 #super[6] Bậc Đại Ẩn Sĩ ấy cũng có ba kỳ đại hội, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
+toàn những vị đã tận lậu hoặc, thanh tịnh, \
 tâm an tịnh, như như.
 
 #super[7] Kỳ hội thứ nhất gồm chín mươi tám ngàn; \
 kỳ hội thứ hai gồm tám mươi tám ngàn.
 
 #super[8] Kỳ hội thứ ba gồm bảy mươi bảy trăm ngàn, \
-của những đại ẩn sĩ thanh tịnh, \
-đã giải thoát không còn chấp thủ.
+toàn những đại ẩn sĩ thanh tịnh, \
+đã giải thoát, không còn chấp thủ.
 
 #super[9] Lúc ấy ta là đạo sĩ bện tóc, khổ hạnh mãnh liệt, \
 tên Susīma, \
@@ -3321,18 +3359,18 @@ cúng dường bậc Chánh Đẳng Giác.
 đại Mâu-ni Atthadassī: \
 “Một ngàn tám trăm kiếp nữa, người này sẽ thành Phật.
 
-#super[12] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
+#super[12] Sau khi tinh tấn nỗ lực, làm những hạnh khó làm, \
+dưới gốc cây Assattha, bậc đại danh ấy sẽ thành Chánh Đẳng Giác. \
 Mẹ người này tên Māyā, cha tên Suddhodana, \
 người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
 vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
 Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
+cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
 Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
-Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
-Nghe lời bậc Đại Ẩn Sĩ không ai sánh ấy, \
+Thọ mạng của Gotama, bậc có danh tiếng, là một trăm năm.” \
+Nghe lời bậc Đại Ẩn Sĩ không ai sánh, \
 chư thiên và loài người vui mừng: “Đây chính là hạt giống Phật.” \
 Họ reo hò, vỗ tay, cười lên, chắp tay đảnh lễ. \
 “Nếu chúng ta lỡ giáo pháp của vị Đạo sư thế gian này, \
@@ -3340,67 +3378,66 @@ thì trong thời vị lai sẽ được diện kiến vị này. \
 Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sang được đại hà; \
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
+#super[13] Nghe lời Ngài, ta vui mừng, tâm cảm động, \
+quyết trì hạnh nguyện cao hơn nữa, \
+cho viên mãn mười ba-la-mật.
 
-#super[13] Nghe lời Ngài, hoan hỷ, tâm kinh cảm, \
-ta quyết tâm thọ trì hạnh nguyện cao hơn, \
-để viên mãn mười ba-la-mật.
-
-#super[14] Thành tên Sobhaṇa, vua Sát-đế-lỵ tên Sāgara; \
-mẹ tên Sudassanā, \
+#super[14] Thành ấy tên Sobhaṇa, vua Sát-đế-lỵ tên Sāgara; \
+mẹ Ngài tên Sudassanā — \
 của bậc Đạo Sư Atthadassī.
 
 #super[15] Ngài sống đời tại gia mười ngàn năm; \
-ba tòa cung điện tối thắng: Amaragiri, Sugiri, Vāhana.
+ba tòa cung điện tối thắng là Amaragiri, Sugiri và Vāhana.
 
-#super[16] Ba mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Visākhā, người con tên Sela.
+#super[16] Ba mươi ba ngàn nữ nhân trang điểm hầu cận; \
+vợ Ngài tên Visākhā, con tên Sela.
 
 #super[17] Thấy bốn tướng, Ngài xuất gia bằng xe ngựa; \
 bậc Chiến thắng tinh tấn trọn tám tháng.
 
 #super[18] Được Phạm thiên thỉnh cầu, \
-Atthadassī, bậc đại danh, bậc Đại Hùng, \
-bậc Nhân Ngưu, đã chuyển Pháp luân tại vườn Anoma.
+Atthadassī — bậc đại danh, bậc Đại Hùng, \
+bậc Nhân Ngưu — đã chuyển Pháp luân tại vườn Anoma.
 
 #super[19] Santa và Upasanta là hai thượng thủ đệ tử; \
 thị giả tên Abhaya, \
 của bậc Đạo Sư Atthadassī.
 
 #super[20] Dhammā và Sudhammā là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Campaka.
+cây Bồ-đề của Thế Tôn ấy gọi là Campaka.
 
 #super[21] Nakula và Nisabha là hai cận sự nam đệ nhất; \
 Makilā và Sunandā là hai cận sự nữ đệ nhất.
 
 #super[22] Đức Phật ấy, bậc Vô đẳng đẳng, cao tám mươi khuỷu tay; \
-rực rỡ như vua cây Sāla, như vua sao đã tròn đầy.
+rực rỡ như vua cây Sāla, như vua sao tròn đầy.
 
-#super[23] Hào quang tự nhiên của Ngài, nhiều trăm câu-chi, \
-luôn tỏa một do-tuần \
-phía trên, phía dưới và mười phương.
+#super[23] Hào quang tự nhiên của Ngài trải dài hàng trăm câu-chi, \
+luôn tỏa một do-tuần — \
+phía trên, phía dưới và khắp mười phương.
 
 #super[24] Đức Phật ấy, bậc Nhân Ngưu, \
 bậc Mâu-ni tối thắng mọi chúng sanh; \
 bậc Có Mắt trụ thế một trăm ngàn năm.
 
-#super[25] Đã tỏ hào quang không gì sánh, \
+#super[25] Đã tỏa hào quang không gì sánh, \
 đã chiếu sáng thế gian cùng chư thiên; \
-Ngài cũng đi đến vô thường, như lửa tắt khi hết nhiên liệu.
+rồi Ngài cũng đi đến vô thường, như lửa tắt khi hết nhiên liệu.
 
 #super[26] Bậc Chiến thắng thù thắng Atthadassī \
 tịch diệt tại tịnh xá Anoma; \
-xá-lợi được phân chia rộng khắp các vùng.
+xá-lợi Ngài được phân chia rộng khắp các vùng.
 
 #strong[(Phật sử của Thế Tôn Atthadassī là thứ mười bốn.)]
 
 == 17. Phật sử Dhammadassī (Dhammadassībuddhavaṃso)
 
-#super[1] Ngay trong kiếp maṇḍa ấy, Dhammadassī, bậc đại danh; \
+#super[1] Ngay trong kiếp maṇḍa ấy, Dhammadassī, bậc đại danh, \
 diệt tan bóng tối vô minh, \
 chiếu sáng hơn cả thế gian cùng chư thiên.
 
 #super[2] Nơi bậc oai lực không gì sánh ấy, \
-khi chuyển Pháp luân, \
+khi Ngài chuyển Pháp luân, \
 lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 
 #super[3] Khi đức Phật Dhammadassī \
@@ -3412,7 +3449,7 @@ lần chứng ngộ thứ hai gồm chín mươi câu-chi.
 lần chứng ngộ thứ ba gồm tám mươi câu-chi.
 
 #super[5] Vị Thiên chủ ấy cũng có ba kỳ đại hội, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
+của những vị đã tận lậu hoặc, thanh tịnh, \
 tâm an tịnh, như như.
 
 #super[6] Khi đức Phật Dhammadassī \
@@ -3442,7 +3479,7 @@ người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
 vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
 Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
+cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
 Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
@@ -3456,50 +3493,50 @@ cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
 
 #super[12] Nghe lời Ngài, ta càng tịnh tín trong tâm; \
-ta quyết tâm thọ trì hạnh nguyện cao hơn, \
-để viên mãn mười ba-la-mật.
+quyết trì hạnh nguyện cao hơn nữa, \
+cho viên mãn mười ba-la-mật.
 
-#super[13] Thành tên Saraṇa, vua Sát-đế-lỵ tên Saraṇa; \
-mẹ tên Sunandā, \
+#super[13] Thành ấy tên Saraṇa, vua Sát-đế-lỵ tên Saraṇa; \
+mẹ Ngài tên Sunandā — \
 của bậc Đạo Sư Dhammadassī.
 
 #super[14] Ngài sống đời tại gia tám ngàn năm; \
-ba tòa cung điện tối thắng: Araja, Viraja, Sudassana.
+ba tòa cung điện tối thắng là Araja, Viraja và Sudassana.
 
-#super[15] Bốn mươi ba ngàn nữ nhân trang điểm; \
-người vợ tên Vicikoḷi, người con tên Puññavaḍḍhana.
+#super[15] Bốn mươi ba ngàn nữ nhân trang điểm hầu cận; \
+vợ Ngài tên Vicikoḷi, con tên Puññavaḍḍhana.
 
 #super[16] Thấy bốn tướng, Ngài xuất gia bằng cung điện; \
-bậc Tối thượng nhân thực hành tinh tấn trong bảy ngày.
+bậc Tối thượng nhân tinh tấn trong bảy ngày.
 
 #super[17] Được Phạm thiên thỉnh cầu, \
-Dhammadassī, bậc Nhân Ngưu, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+Dhammadassī — bậc Nhân Ngưu, bậc Đại Hùng, \
+bậc Tối thắng nhân — đã chuyển Pháp luân tại vườn Migadāya.
 
 #super[18] Paduma và Phussadeva là hai thượng thủ đệ tử; \
 thị giả tên Sunetta, \
 của bậc Đạo Sư Dhammadassī.
 
 #super[19] Khemā và Saccanāmā là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Bimbijāla.
+cây Bồ-đề của Thế Tôn ấy gọi là Bimbijāla.
 
 #super[20] Subhadda và Kaṭissaha là hai cận sự nam đệ nhất; \
 Sāḷiyā và Kaḷiyā là hai cận sự nữ đệ nhất.
 
 #super[21] Đức Phật ấy, bậc Vô đẳng đẳng, cao tám mươi khuỷu tay; \
-chiếu sáng hơn bằng oai lực \
-trong giới tánh thế giới mười ngàn.
+nhờ oai lực, Ngài chiếu sáng \
+khắp giới thế giới mười ngàn.
 
 #super[22] Như vua cây Sāla nở rộ, như tia chớp trên trời, \
-như mặt trời giữa trưa, \
+như mặt trời giữa trưa — \
 Ngài rực rỡ như vậy.
 
 #super[23] Thọ mạng của bậc oai lực không gì sánh ấy cũng tương đương; \
 bậc Có Mắt trụ thế một trăm ngàn năm.
 
-#super[24] Đã tỏ hào quang, đã làm giáo pháp thanh tịnh; \
+#super[24] Đã tỏa hào quang, đã làm giáo pháp thanh tịnh; \
 Ngài biến mất như mặt trăng trên trời, \
-tịch diệt cùng với các đệ tử.
+tịch diệt cùng các đệ tử.
 
 #super[25] Bậc Đại Hùng Dhammadassī \
 tịch diệt tại tịnh xá Sāla; \
@@ -3509,20 +3546,20 @@ ngay tại đó, tháp quý của Ngài cao ba do-tuần.
 
 == 18. Phật sử Siddhattha (Siddhatthabuddhavaṃso)
 
-#super[1] Sau Dhammadassī, bậc Đạo sư tên Siddhattha; \
-diệt hết mọi bóng tối, \
+#super[1] Sau Dhammadassī là bậc Đạo sư tên Siddhattha; \
+Ngài diệt hết mọi bóng tối, \
 như mặt trời vừa mọc.
 
 #super[2] Ngài cũng đạt Chánh Đẳng Giác, \
 đưa thế gian cùng chư thiên sang bờ; \
-mưa bằng mây Pháp, làm tắt lửa nơi thế gian cùng chư thiên.
+mưa bằng mây Pháp, dập tắt lửa nơi thế gian cùng chư thiên.
 
 #super[3] Nơi bậc oai lực không gì sánh ấy \
 cũng có ba lần chứng ngộ; \
 lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 
-#super[4] Sau đó nữa, khi tại Bhīmaratha \
-Ngài đánh trống, \
+#super[4] Sau đó nữa, khi Ngài đánh trống \
+tại Bhīmaratha, \
 lần chứng ngộ thứ hai gồm chín mươi câu-chi.
 
 #super[5] Khi đức Phật thuyết pháp \
@@ -3530,7 +3567,7 @@ tại Vebhāra, thành trì tối thắng, \
 lần chứng ngộ thứ ba gồm chín mươi câu-chi.
 
 #super[6] Nơi bậc Tối thắng loài hai chân ấy cũng có ba kỳ đại hội, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
+của những vị đã tận lậu hoặc, thanh tịnh, \
 tâm an tịnh, như như.
 
 #super[7] Một trăm câu-chi, chín mươi, \
@@ -3556,7 +3593,7 @@ người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
 vị thị giả tên Ānanda sẽ hầu hạ bậc Chiến thắng này. \
 Khemā và Uppalavaṇṇā sẽ là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Assattha. \
+cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là hai cận sự nam đệ nhất; \
 Nandamātā và Uttarā sẽ là hai cận sự nữ đệ nhất. \
 Thọ mạng của Gotama, bậc có danh tiếng, là trăm năm.” \
@@ -3570,32 +3607,32 @@ cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
 
 #super[12] Nghe lời Ngài, ta càng tịnh tín trong tâm; \
-ta quyết tâm thọ trì hạnh nguyện cao hơn, \
-để viên mãn mười ba-la-mật.
+quyết trì hạnh nguyện cao hơn nữa, \
+cho viên mãn mười ba-la-mật.
 
-#super[13] Thành tên Vebhāra, vua Sát-đế-lỵ tên Udena; \
-mẹ tên Suphassā, \
+#super[13] Thành ấy tên Vebhāra, vua Sát-đế-lỵ tên Udena; \
+mẹ Ngài tên Suphassā — \
 của bậc Đại Ẩn Sĩ Siddhattha.
 
 #super[14] Ngài sống đời tại gia mười ngàn năm; \
-ba tòa cung điện tối thắng: Kokā, Uppala, Kokanadā.
+ba tòa cung điện tối thắng là Kokā, Uppala và Kokanadā.
 
-#super[15] Bốn mươi tám ngàn nữ nhân trang điểm; \
-người vợ tên Somanassā, người con tên Anupama.
+#super[15] Bốn mươi tám ngàn nữ nhân trang điểm hầu cận; \
+vợ Ngài tên Somanassā, con tên Anupama.
 
 #super[16] Thấy bốn tướng, Ngài xuất gia bằng kiệu; \
 bậc Chiến thắng tinh tấn trọn mười tháng.
 
 #super[17] Được Phạm thiên thỉnh cầu, \
-bậc Đạo sư thế gian Siddhattha, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+bậc Đạo sư thế gian Siddhattha — bậc Đại Hùng, \
+bậc Tối thắng nhân — đã chuyển Pháp luân tại vườn Migadāya.
 
 #super[18] Sambala và Sumitta là hai thượng thủ đệ tử; \
 thị giả tên Revata, \
 của bậc Đại Ẩn Sĩ Siddhattha.
 
 #super[19] Sīvalā và Surāmā là hai thượng thủ nữ đệ tử; \
-cây Bồ-đề của Thế Tôn ấy được gọi là Kaṇikāra.
+cây Bồ-đề của Thế Tôn ấy gọi là Kaṇikāra.
 
 #super[20] Suppiya và Samudda là hai cận sự nam đệ nhất; \
 Rammā và Surammā là hai cận sự nữ đệ nhất.
@@ -3607,71 +3644,70 @@ rực như trụ vàng tế lễ, chiếu sáng thế giới mười ngàn.
 không gì sánh, không ai đối; \
 bậc Có Mắt trụ thế một trăm ngàn năm.
 
-#super[23] Đã tỏ hào quang rộng lớn, đã làm các đệ tử nở hoa; \
+#super[23] Đã tỏa hào quang rộng lớn, đã làm các đệ tử nở hoa; \
 đã hiện các định chứng, \
-Ngài tịch diệt cùng với các đệ tử.
-
+Ngài tịch diệt cùng các đệ tử.
 #super[24] Đức Phật Siddhattha, bậc Mâu-ni thù thắng, \
-tịch diệt tại tịnh xá Anoma; \
+đã tịch diệt tại tịnh xá Anoma; \
 ngay tại đó, tháp quý của Ngài cao bốn do-tuần.
 
 #strong[(Phật sử của Thế Tôn Siddhattha là thứ mười sáu.)]
 
 == 19. Phật sử Tissa (Tissabuddhavaṃso)
 
-#super[1] Sau Siddhattha, bậc không ai sánh, không ai đối; \
+#super[1] Sau đức Siddhattha, bậc không ai sánh, không ai địch nổi, \
 oai lực vô biên, danh tiếng vô lượng, \
-Tissa, bậc Đạo sư tối thắng thế gian.
+Tissa ra đời, Đạo sư tối thắng của thế gian.
 
-#super[2] Diệt tan bóng tối vô minh, \
-chiếu sáng thế gian cùng chư thiên; \
-bậc Đại Hùng có lòng thương, bậc Có Mắt, đã ra đời ở đời.
+#super[2] Ngài xóa tan bóng tối vô minh, \
+soi sáng thế gian cùng cả chư thiên; \
+bậc Đại Hùng đầy lòng thương, bậc Có Mắt, đã xuất hiện ở đời.
 
-#super[3] Thần thông của Ngài không gì sánh, \
-giới và định cũng không gì sánh; \
-đạt đến bờ kia mọi pháp, Ngài chuyển Pháp luân.
+#super[3] Thần thông của Ngài không gì sánh được, \
+giới và định cũng không gì sánh được; \
+đã đến bờ bên kia của mọi pháp, Ngài chuyển bánh xe Pháp.
 
-#super[4] Đức Phật ấy, trong thế giới mười ngàn, \
-làm vang lời trong sạch; \
+#super[4] Đức Phật ấy, trong cõi mười ngàn thế giới, \
+làm vang lên lời trong sạch; \
 một trăm câu-chi chứng ngộ trong lần thuyết pháp thứ nhất.
 
-#super[5] Lần thứ hai gồm chín mươi câu-chi, \
-lần thứ ba gồm sáu mươi câu-chi; \
-lúc ấy Ngài cởi chúng sanh, người và trời, khỏi sự trói buộc.
+#super[5] Lần thứ hai có chín mươi câu-chi, \
+lần thứ ba có sáu mươi câu-chi; \
+lúc ấy Ngài gỡ người và trời ra khỏi mọi trói buộc.
 
-#super[6] Nơi Tissa, bậc Đạo sư tối thắng thế gian, có ba kỳ đại hội, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
-tâm an tịnh, như như.
+#super[6] Nơi Tissa, Đạo sư tối thắng của thế gian, có ba kỳ đại hội, \
+toàn những vị đã tận lậu hoặc, thanh tịnh, \
+tâm an tịnh, như nhau.
 
-#super[7] Kỳ hội thứ nhất gồm một trăm ngàn vị lậu hoặc đã tận; \
+#super[7] Kỳ hội thứ nhất gồm một trăm ngàn vị tận lậu hoặc; \
 kỳ hội thứ hai gồm chín mươi trăm ngàn.
 
 #super[8] Kỳ hội thứ ba gồm tám mươi trăm ngàn, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
-đã nở hoa trong giải thoát.
+toàn những vị tận lậu hoặc, thanh tịnh, \
+đã nở hoa nơi giải thoát.
 
 #super[9] Lúc ấy ta là vua Sát-đế-lỵ tên Sujāta; \
-bỏ đại tài sản, \
+bỏ lại gia tài lớn, \
 ta xuất gia theo hạnh ẩn sĩ.
 
 #super[10] Khi ta đã xuất gia, \
 bậc Đạo sư thế gian ra đời; \
-nghe tiếng “Phật”, hỷ lạc sanh nơi ta.
+nghe tiếng “Phật”, hỷ lạc dâng lên trong ta.
 
-#super[11] Hoa trời mandārava, hoa sen và hoa pārichattaka — \
-ta nâng bằng cả hai tay, \
-rung rinh mà đi đến.
+#super[11] Hoa trời mandārava, hoa sen, hoa pārichattaka — \
+ta nâng lên bằng cả hai tay, \
+rung rinh mà bước đến.
 
-#super[12] Tissa, bậc Đạo sư tối thắng thế gian, \
+#super[12] Tissa, Đạo sư tối thắng của thế gian, \
 được bốn giai cấp vây quanh; \
-ta cầm hoa ấy, đội lên đỉnh đầu bậc Chiến thắng.
+ta cầm đóa hoa ấy, đội lên đỉnh đầu bậc Chiến thắng.
 
 #super[13] Đức Phật ấy cũng thọ ký cho ta, \
 ngồi giữa nhân chúng: \
 “Từ đây chín mươi hai kiếp nữa, người này sẽ thành Phật.
 
 #super[14] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
+dưới gốc cây Assattha, bậc đại danh sẽ thành Chánh Đẳng Giác. \
 Mẹ người này tên Māyā, cha tên Suddhodana, \
 người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
@@ -3690,13 +3726,13 @@ Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sa
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
 
-#super[15] Nghe lời Ngài, ta càng tịnh tín trong tâm; \
-ta quyết tâm thọ trì hạnh nguyện cao hơn, \
+#super[15] Nghe lời Ngài, tâm ta càng thêm tịnh tín; \
+ta quyết trì hạnh nguyện cao hơn nữa, \
 để viên mãn mười ba-la-mật.
 
 #super[16] Thành tên Khemaka, vua Sát-đế-lỵ tên Janasandha; \
-mẹ tên Padumā, \
-của bậc Đại Ẩn Sĩ Tissa.
+mẹ tên Padumā — \
+đó là của bậc Đại Ẩn Sĩ Tissa.
 
 #super[17] Ngài sống đời tại gia bảy ngàn năm; \
 ba tòa cung điện tối thắng: Guhāsela, Nārisaya, Nisabha.
@@ -3708,12 +3744,12 @@ người vợ tên Subhaddā, người con tên Ānanda.
 bậc Chiến thắng tinh tấn trọn tám tháng.
 
 #super[20] Được Phạm thiên thỉnh cầu, \
-Tissa, bậc Đạo sư tối thắng thế gian, bậc Đại Hùng, \
-đã chuyển Pháp luân tại Yasavatī tối thắng.
+Tissa, Đạo sư tối thắng của thế gian, bậc Đại Hùng, \
+đã chuyển bánh xe Pháp tại Yasavatī tối thắng.
 
 #super[21] Brahmadeva và Udaya là hai thượng thủ đệ tử; \
-thị giả tên Samaṅga, \
-của bậc Đại Ẩn Sĩ Tissa.
+thị giả tên Samaṅga — \
+đó là của bậc Đại Ẩn Sĩ Tissa.
 
 #super[22] Phussā và Sudattā là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Asana.
@@ -3727,13 +3763,13 @@ không gì sánh, không ai giống, hiện ra như núi Himavā.
 #super[25] Thọ mạng của bậc oai lực không gì sánh ấy là vô thượng; \
 bậc Có Mắt trụ thế một trăm ngàn năm.
 
-#super[26] Đã thọ hưởng danh tiếng lớn, \
+#super[26] Đã hưởng danh tiếng lớn, \
 tối thượng, thù thắng, bậc nhất; \
-cháy sáng như khối lửa, Ngài tịch diệt cùng với các đệ tử.
+cháy sáng như khối lửa, Ngài tịch diệt cùng các đệ tử.
 
-#super[27] Như mây bị gió tan, như sương bị nắng, \
-như bóng tối bị đèn, \
-Ngài tịch diệt cùng với các đệ tử.
+#super[27] Như mây bị gió tan, như sương bị nắng tan, \
+như bóng tối bị đèn xóa, \
+Ngài tịch diệt cùng các đệ tử.
 
 #super[28] Đức Phật Tissa, bậc Chiến thắng thù thắng, \
 tịch diệt tại tịnh xá Nanda; \
@@ -3745,13 +3781,13 @@ ngay tại đó, tháp của bậc Chiến thắng cao ba do-tuần.
 
 #super[1] Ngay trong kiếp maṇḍa ấy, có bậc Đạo Sư vô thượng; \
 không gì sánh, Vô đẳng đẳng, \
-Phussa, bậc Đạo sư tối thắng thế gian.
+Phussa, Đạo sư tối thắng của thế gian.
 
 #super[2] Ngài cũng diệt hết mọi bóng tối, \
 gỡ tan mối rối lớn; \
-làm no thỏa thế gian cùng chư thiên, mưa bằng nước Bất tử.
+làm no thỏa thế gian cùng chư thiên, mưa xuống nước Bất tử.
 
-#super[3] Khi Phussa chuyển Pháp luân, \
+#super[3] Khi Phussa chuyển bánh xe Pháp, \
 vào lúc sao Phussa cát tường, \
 lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 
@@ -3759,26 +3795,26 @@ lần chứng ngộ thứ nhất gồm trăm ngàn câu-chi.
 lần chứng ngộ thứ ba gồm tám mươi trăm ngàn.
 
 #super[5] Bậc Đại Ẩn Sĩ Phussa cũng có ba kỳ đại hội, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
-tâm an tịnh, như như.
+toàn những vị tận lậu hoặc, thanh tịnh, \
+tâm an tịnh, như nhau.
 
 #super[6] Kỳ hội thứ nhất gồm sáu mươi trăm ngàn; \
 kỳ hội thứ hai gồm năm mươi trăm ngàn.
 
 #super[7] Kỳ hội thứ ba gồm bốn mươi trăm ngàn, \
-của những vị đã giải thoát không còn chấp thủ, \
+toàn những vị đã giải thoát, không còn chấp thủ, \
 đã cắt đứt sự nối sanh.
 
 #super[8] Lúc ấy ta là vua Sát-đế-lỵ tên Vijitāvī; \
-bỏ đại vương quốc, \
+bỏ lại đại vương quốc, \
 ta xuất gia bên Ngài.
 
 #super[9] Đức Phật ấy cũng thọ ký cho ta, \
-Phussa, bậc Đạo sư tối thắng thế gian: \
+Phussa, Đạo sư tối thắng của thế gian: \
 “Từ đây chín mươi hai kiếp nữa, người này sẽ thành Phật.
 
 #super[10] Sau khi tinh tấn nỗ lực, làm hạnh khó làm, \
-dưới gốc cây Assattha bậc đại danh sẽ thành Chánh Đẳng Giác. \
+dưới gốc cây Assattha, bậc đại danh sẽ thành Chánh Đẳng Giác. \
 Mẹ người này tên Māyā, cha tên Suddhodana, \
 người này sẽ là Gotama. \
 Kolita và Upatissa sẽ là hai thượng thủ đệ tử; \
@@ -3797,8 +3833,8 @@ Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sa
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
 
-#super[11] Nghe lời Ngài, ta càng tịnh tín trong tâm; \
-ta quyết tâm thọ trì hạnh nguyện cao hơn, \
+#super[11] Nghe lời Ngài, tâm ta càng thêm tịnh tín; \
+ta quyết trì hạnh nguyện cao hơn nữa, \
 để viên mãn mười ba-la-mật.
 
 #super[12] Kinh tạng, Luật tạng, \
@@ -3810,8 +3846,8 @@ tu tập thiền Phạm trú; \
 đạt đến bờ kia của các thắng trí, ta đi đến Phạm thiên giới.
 
 #super[14] Thành tên Kāsika, vua Sát-đế-lỵ tên Jayasena; \
-mẹ tên Sirimā, \
-của bậc Đại Ẩn Sĩ Phussa.
+mẹ tên Sirimā — \
+đó là của bậc Đại Ẩn Sĩ Phussa.
 
 #super[15] Ngài sống đời tại gia chín ngàn năm; \
 ba tòa cung điện tối thắng: Garuḷapakkha, Haṃsa, Suvaṇṇabhāra.
@@ -3823,12 +3859,12 @@ người vợ tên Kisāgotamī, người con tên Anūpama.
 bậc Tối thượng nhân thực hành tinh tấn trong sáu tháng.
 
 #super[18] Được Phạm thiên thỉnh cầu, \
-Phussa, bậc Đạo sư tối thắng thế gian, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+Phussa, Đạo sư tối thắng của thế gian, bậc Đại Hùng, \
+bậc Tối thắng nhân, đã chuyển bánh xe Pháp tại vườn Migadāya.
 
 #super[19] Surakkhita và Dhammasena là hai thượng thủ đệ tử; \
-thị giả tên Sabhiya, \
-của bậc Đại Ẩn Sĩ Phussa.
+thị giả tên Sabhiya — \
+đó là của bậc Đại Ẩn Sĩ Phussa.
 
 #super[20] Cālā và Upacālā là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Āmaṇḍa.
@@ -3844,7 +3880,7 @@ trụ thế chừng ấy, Ngài đã độ nhiều người.
 
 #super[24] Đã giáo giới nhiều chúng sanh, đã đưa nhiều người sang bờ; \
 bậc Đạo Sư ấy, danh tiếng không gì sánh, \
-tịch diệt cùng với các đệ tử.
+tịch diệt cùng các đệ tử.
 
 #super[25] Bậc Chiến thắng thù thắng Phussa, bậc Đạo Sư, \
 tịch diệt tại tịnh xá Sena; \
@@ -3854,15 +3890,15 @@ xá-lợi được phân chia rộng khắp các vùng.
 
 == 21. Phật sử Vipassī (Vipassībuddhavaṃso)
 
-#super[1] Sau Phussa, bậc Chánh Đẳng Giác, tối thắng trong loài hai chân; \
+#super[1] Sau đức Phussa, bậc Chánh Đẳng Giác, tối thắng trong loài hai chân; \
 tên Vipassī, bậc Có Mắt, \
-đã ra đời ở đời.
+đã xuất hiện ở đời.
 
 #super[2] Đập tan hết vô minh, \
 đạt được Chánh Đẳng Giác tối thượng; \
-Ngài lên đường đến thành Bandhumatī để chuyển Pháp luân.
+Ngài lên đường đến thành Bandhumatī để chuyển bánh xe Pháp.
 
-#super[3] Chuyển Pháp luân xong, bậc Đạo sư giác ngộ cả hai chúng; \
+#super[3] Chuyển bánh xe Pháp xong, bậc Đạo sư giác ngộ cả hai chúng; \
 lần chứng ngộ thứ nhất không thể kể hết bằng số.
 
 #super[4] Sau đó nữa, bậc danh tiếng vô lượng \
@@ -3878,8 +3914,8 @@ những vị ngồi gần cũng đạt pháp thù thắng — \
 đó là lần chứng ngộ thứ ba.
 
 #super[7] Bậc Đại Ẩn Sĩ Vipassī có ba kỳ đại hội, \
-của những vị lậu hoặc đã tận, thanh tịnh, \
-tâm an tịnh, như như.
+toàn những vị tận lậu hoặc, thanh tịnh, \
+tâm an tịnh, như nhau.
 
 #super[8] Kỳ hội thứ nhất gồm sáu mươi tám trăm ngàn; \
 kỳ hội thứ hai gồm một trăm ngàn Tỷ-kheo.
@@ -3944,13 +3980,13 @@ Như người qua sông lỡ bến, nắm lấy bến phía dưới mà vẫn sa
 cũng vậy, nếu chúng ta bỏ qua bậc Chiến thắng này, \
 thì trong thời vị lai sẽ được diện kiến vị này.”
 
-#super[23] Nghe lời Ngài, ta càng tịnh tín trong tâm; \
-ta quyết tâm thọ trì hạnh nguyện cao hơn, \
+#super[23] Nghe lời Ngài, tâm ta càng thêm tịnh tín; \
+ta quyết trì hạnh nguyện cao hơn nữa, \
 để viên mãn mười ba-la-mật.
 
 #super[24] Thành tên Bandhumatī, vua Sát-đế-lỵ tên Bandhumā; \
-mẹ tên Bandhumatī, \
-của bậc Đại Ẩn Sĩ Vipassī.
+mẹ tên Bandhumatī — \
+đó là của bậc Đại Ẩn Sĩ Vipassī.
 
 #super[25] Ngài sống đời tại gia tám ngàn năm; \
 ba tòa cung điện tối thắng: Nanda, Sunanda, Sirimā.
@@ -3963,11 +3999,11 @@ bậc Chiến thắng tinh tấn trọn tám tháng.
 
 #super[28] Được Phạm thiên thỉnh cầu, \
 bậc Đạo sư thế gian Vipassī, bậc Đại Hùng, \
-bậc Tối thắng nhân, đã chuyển Pháp luân tại vườn Migadāya.
+bậc Tối thắng nhân, đã chuyển bánh xe Pháp tại vườn Migadāya.
 
 #super[29] Khaṇḍa và Tissa là hai thượng thủ đệ tử; \
-thị giả tên Asoka, \
-của bậc Đại Ẩn Sĩ Vipassī.
+thị giả tên Asoka — \
+đó là của bậc Đại Ẩn Sĩ Vipassī.
 
 #super[30] Candā và Candamittā là hai thượng thủ nữ đệ tử; \
 cây Bồ-đề của Thế Tôn ấy được gọi là Pāṭalī.
@@ -3975,20 +4011,20 @@ cây Bồ-đề của Thế Tôn ấy được gọi là Pāṭalī.
 #super[31] Punabbasumitta và Nāga là hai cận sự nam đệ nhất; \
 Sirimā và Uttarā là hai cận sự nữ đệ nhất.
 
-#super[32] Vipassī, bậc Đạo sư thế gian, cao tám mươi khuỷu tay; \
+#super[32] Vipassī, Đạo sư thế gian, cao tám mươi khuỷu tay; \
 hào quang của Ngài tuôn chảy \
 khắp bảy do-tuần xung quanh.
 
 #super[33] Thọ mạng của đức Phật lúc ấy là tám mươi ngàn năm; \
 trụ thế chừng ấy, Ngài đã độ nhiều người.
 
-#super[34] Ngài cởi nhiều chư thiên và loài người khỏi sự trói buộc; \
+#super[34] Ngài cởi nhiều chư thiên và loài người khỏi trói buộc; \
 chỉ đường và phi đạo \
 cho những kẻ phàm phu còn lại.
 
 #super[35] Đã tỏ ánh sáng, đã thuyết con đường Bất tử; \
 cháy sáng như khối lửa, \
-Ngài tịch diệt cùng với các đệ tử.
+Ngài tịch diệt cùng các đệ tử.
 
 #super[36] Thần thông thù thắng, phước thù thắng, \
 các tướng nở rộ — \
@@ -4009,11 +4045,11 @@ không ai sánh bằng, không có đối thủ.
 
 #super[2] Đã nghiền nát quân Ma, \
 Ngài đạt Chánh giác tối thượng; \
-rồi chuyển Pháp luân, \
+rồi chuyển bánh xe Pháp, \
 vì thương xót chúng sanh.
 
 #super[3] Khi bậc Chiến Thắng xuất chúng Sikhī \
-đang chuyển Pháp luân, \
+đang chuyển bánh xe Pháp, \
 trăm ngàn koṭi chúng sanh \
 là lần chứng ngộ thứ nhất.
 
@@ -4087,8 +4123,8 @@ ta phát nguyện cao hơn nữa, \
 
 #super[15] Thành tên Aruṇavatī, \
 Sát-đế-lỵ tên Aruṇa; \
-mẹ sanh tên Pabhāvatī, \
-của bậc Đại sĩ Sikhī.
+mẹ sanh tên Pabhāvatī — \
+đó là của bậc Đại sĩ Sikhī.
 
 #super[16] Ngài sống đời tại gia \
 bảy ngàn năm; \
@@ -4112,8 +4148,8 @@ chuyển bánh xe tại vườn nai.
 
 #super[20] Abhibhū và Sambhava \
 là hai thượng thủ Thanh văn; \
-thị giả tên Khemaṅkara, \
-của bậc Đại sĩ Sikhī.
+thị giả tên Khemaṅkara — \
+đó là của bậc Đại sĩ Sikhī.
 
 #super[21] Sakhilā và Padumā \
 là hai thượng thủ nữ Thanh văn; \
@@ -4170,7 +4206,7 @@ như voi đứt dây trói, \
 Ngài đạt Chánh giác tối thượng.
 
 #super[3] Khi Vessabhū, Đạo sư của đời, \
-đang chuyển Pháp luân, \
+đang chuyển bánh xe Pháp, \
 tám mươi ngàn koṭi chúng sanh \
 là lần chứng ngộ thứ nhất.
 
@@ -4260,8 +4296,8 @@ ta phát nguyện cao hơn nữa, \
 
 #super[18] Thành tên Anoma, \
 Sát-đế-lỵ tên Suppatīta; \
-mẹ tên Yasavatī, \
-của bậc Đại sĩ Vessabhū.
+mẹ tên Yasavatī — \
+đó là của bậc Đại sĩ Vessabhū.
 
 #super[19] Ngài sống đời tại gia \
 sáu ngàn năm; \
@@ -4285,8 +4321,8 @@ chuyển bánh xe tại Aruṇārāma.
 
 #super[23] Soṇa và Uttara \
 là hai thượng thủ Thanh văn; \
-thị giả tên Upasanto, \
-của bậc Đại sĩ Vessabhū.
+thị giả tên Upasanto — \
+đó là của bậc Đại sĩ Vessabhū.
 
 #super[24] Rāmā và Samālā \
 là hai thượng thủ nữ Thanh văn; \
@@ -4338,7 +4374,7 @@ như sư tử phá chuồng, \
 Ngài đạt Chánh giác tối thượng.
 
 #super[3] Khi Kakusandha, Đạo sư của đời, \
-đang chuyển Pháp luân, \
+đang chuyển bánh xe Pháp, \
 bốn mươi ngàn koṭi chúng sanh \
 chứng ngộ Pháp.
 
@@ -4407,8 +4443,8 @@ ta xuất gia bên Ngài.
 
 #super[14] Bà-la-môn Aggidatta \
 là cha của bậc Giác Ngộ ấy; \
-mẹ sanh tên Visākhā, \
-của Đạo sư Kakusandha.
+mẹ sanh tên Visākhā — \
+đó là của Đạo sư Kakusandha.
 
 #super[15] Đại tộc của Chánh Đẳng Giác \
 cư trú tại thành Khema ấy; \
@@ -4437,8 +4473,8 @@ chuyển bánh xe tại vườn nai.
 
 #super[20] Vidhura và Sañjīva \
 là hai thượng thủ Thanh văn; \
-thị giả tên Buddhiya, \
-của Đạo sư Kakusandha.
+thị giả tên Buddhiya — \
+đó là của Đạo sư Kakusandha.
 
 #super[21] Sāmā và Campā \
 là hai thượng thủ nữ Thanh văn; \
@@ -4490,7 +4526,7 @@ rửa sạch mọi cáu bẩn, \
 đạt Chánh giác tối thượng.
 
 #super[3] Khi Koṇāgamana, bậc Đạo sư, \
-đang chuyển Pháp luân, \
+đang chuyển bánh xe Pháp, \
 ba mươi ngàn koṭi chúng sanh \
 là lần chứng ngộ thứ nhất.
 
@@ -4513,63 +4549,62 @@ là lần chứng ngộ thứ ba.
 một kỳ tập họp: \
 các vị lậu hoặc đã tận, thanh tịnh, \
 tâm an tịnh, bậc như vậy.
+#super[8] Cuộc tụ hội bấy giờ \
+gồm ba mươi ngàn Tỷ-kheo; \
+những vị đã qua các dòng lũ, \
+đã đánh nát thần chết.
 
-#super[8] Kỳ tập họp lúc ấy \
-là ba mươi ngàn Tỷ-kheo; \
-những vị đã vượt các dòng lũ, \
-đã phá tan sự chết.
+#super[9] Bấy giờ ta là \
+vị Sát-đế-lỵ tên Pabbata; \
+đầy đủ bạn bè, đại thần, \
+binh xe nhiều vô số.
 
-#super[9] Lúc ấy ta là \
-Sát-đế-lỵ tên Pabbata; \
-đủ bạn bè và đại thần, \
-binh xe vô số.
-
-#super[10] Đi gặp Chánh Đẳng Giác, \
+#super[10] Ta đến gặp bậc Chánh Đẳng Giác, \
 nghe Pháp vô thượng; \
 thỉnh Ngài cùng chúng Tăng, \
-dâng bố thí tùy ý muốn.
+dâng cúng bố thí theo ý nguyện.
 
 #super[11] Vải paṭṭuṇṇa và vải Trung Hoa, \
-lụa và len; \
-cùng dép vàng, \
-ta dâng cho đệ tử bậc Đạo sư.
+lụa cùng len; \
+cả những đôi dép vàng, \
+ta dâng lên đệ tử của bậc Đạo sư.
 
 #super[12] Bậc Giác Ngộ ấy cũng thọ ký cho ta, \
-ngồi giữa chúng Tăng: \
+khi ngồi giữa chúng Tăng: \
 “Trong Hiền kiếp này, \
 vị này sẽ thành Phật.
 
 #super[13] “Từ thành Kapilavatthu xinh đẹp, Như Lai sẽ xuất gia, \
-tinh cần, làm hạnh khó làm; \
-ngồi gốc cây Ajapāla, nhận cơm sữa, đến sông Nerañjarā; \
-ăn xong, theo đường đã dọn, đi đến gốc Bồ-đề, \
-đi nhiễu chỗ giác ngộ vô thượng, \
+tinh cần, làm những hạnh khó làm; \
+ngồi dưới gốc cây Ajapāla, nhận cơm sữa, rồi đến sông Nerañjarā; \
+ăn xong, theo con đường đã dọn sẵn, đi tới gốc Bồ-đề, \
+nhiễu quanh nơi giác ngộ vô thượng, \
 ngồi dưới cây Assattha mà chứng Chánh giác, bậc đại danh. \
 Mẹ Ngài tên Māyā, cha tên Suddhodana, \
 vị này sẽ là Gotama. \
-Kolita và Upatissa, không lậu hoặc, ly tham, tâm tịnh định, \
+Kolita và Upatissa, hết lậu hoặc, ly tham, tâm tịnh định, \
 sẽ là thượng thủ Thanh văn; Ānanda làm thị giả hầu bậc Chiến Thắng. \
 Khemā và Uppalavaṇṇā sẽ là thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy gọi là Assattha. \
 Citta và Hatthāḷavaka sẽ là nam cư sĩ hộ trì hàng đầu; \
 Nandamātā và Uttarā sẽ là nữ cư sĩ hộ trì hàng đầu. \
-Nghe lời ấy, người trời vui mừng: ‘Đây quả là mầm giống Phật.’ \
+Nghe lời ấy, người và trời vui mừng: ‘Đây quả là mầm giống Phật.’ \
 Nếu lỡ giáo pháp của Chúa tể đời này, \
-thì thời vị lai chúng ta sẽ được gặp Ngài mặt đối mặt.”
+thì thời vị lai chúng ta sẽ gặp Ngài mặt đối mặt.”
 
 #super[14] Nghe lời Ngài, \
-ta càng thêm tịnh tín; \
+tâm ta càng thêm tịnh tín; \
 ta phát nguyện cao hơn nữa, \
 để viên mãn mười ba-la-mật.
 
-#super[15] Tìm cầu Nhất thiết trí, \
-dâng bố thí cho bậc tối thắng loài người; \
-ta bỏ đại vương vị, \
+#super[15] Mong cầu Nhất thiết trí, \
+ta dâng bố thí lên bậc tối thắng loài người; \
+từ bỏ ngôi đại vương, \
 xuất gia bên bậc Chiến Thắng.
 
-#super[16] Thành tên Sobhavatī, \
-Sát-đế-lỵ tên Sobha; \
-đại tộc của Chánh Đẳng Giác \
+#super[16] Thành ấy tên Sobhavatī, \
+vị Sát-đế-lỵ tên Sobha; \
+đại tộc của bậc Chánh Đẳng Giác \
 cư trú tại thành ấy.
 
 #super[17] Bà-la-môn Yaññadatta \
@@ -4578,7 +4613,7 @@ mẹ sanh tên Uttarā, \
 của Đạo sư Koṇāgamana.
 
 #super[18] Ngài sống đời tại gia \
-ba ngàn năm; \
+trong ba ngàn năm; \
 Tusita, Santusita, Santuṭṭha \
 là ba cung điện tối thắng.
 
@@ -4612,19 +4647,19 @@ là hai nam cư sĩ hộ trì hàng đầu; \
 Sīvalā và Sāmā \
 là hai nữ cư sĩ hộ trì hàng đầu.
 
-#super[25] Bậc Giác Ngộ ấy, theo chiều cao, \
+#super[25] Bậc Giác Ngộ ấy, xét theo chiều cao, \
 vươn lên ba mươi hattha; \
-như vàng từ miệng lò, \
-Ngài được trang hoàng bằng hào quang.
+như vàng ra từ miệng lò, \
+Ngài trang hoàng bằng hào quang.
 
 #super[26] Thọ mạng của bậc Giác Ngộ \
-lúc ấy là ba mươi ngàn năm; \
+bấy giờ là ba mươi ngàn năm; \
 trụ thế chừng ấy, \
 Ngài độ thoát nhiều người.
 
 #super[27] Đã dựng tháp Pháp, \
 trang hoàng bằng vải Pháp; \
-làm đóa hoa Pháp, \
+làm nên đóa hoa Pháp, \
 Ngài diệt độ cùng các đệ tử.
 
 #super[28] Dân chúng của Ngài thật rực rỡ, \
@@ -4635,18 +4670,18 @@ há chẳng phải mọi hành đều trống không?
 #super[29] Chánh Đẳng Giác Koṇāgamana \
 diệt độ tại khu vườn Pabbatārāma; \
 xá-lợi được phân bố rộng, \
-tại các nơi.
+khắp các nơi.
 
 #strong[(Phật sử của Thế Tôn Koṇāgamana là thứ hai mươi ba.)]
 
 == 26. Phật sử Kassapa (Kassapabuddhavaṃso)
 
 #super[1] Sau bậc Koṇāgamana, \
-Chánh Đẳng Giác tối thắng loài hai chân; \
-bậc tên Kassapa theo họ, \
-Pháp vương, bậc làm ánh sáng.
+bậc Chánh Đẳng Giác tối thắng loài hai chân; \
+vị mang họ Kassapa, \
+Pháp vương, bậc làm nên ánh sáng.
 
-#super[2] Của nhà đã buông hết, \
+#super[2] Khi còn ở nhà đã buông hết, \
 cơm nước thức ăn thật nhiều; \
 dâng bố thí cho người xin, \
 làm đầy tâm nguyện; \
@@ -4813,81 +4848,80 @@ cư trú tại thành ấy.
 là cha của bậc Giác Ngộ ấy; \
 mẹ sanh tên Dhanavatī, \
 của bậc Đại sĩ Kassapa.
-
-#super[34] Ngài sống đời tại gia \
-hai ngàn năm; \
+#super[34] Đời tại gia của Ngài \
+kéo dài hai ngàn năm; \
 Haṃsa, Yasa, Sirinanda \
 là ba cung điện tối thắng.
 
 #super[35] Bốn mươi tám ngàn \
-người nữ trang điểm; \
-người vợ ấy tên Sunandā, \
+thị nữ trang điểm; \
+vợ Ngài tên Sunandā, \
 con trai tên Vijitasena.
 
-#super[36] Thấy bốn tướng, \
+#super[36] Thấy đủ bốn tướng, \
 Ngài xuất gia bằng cung điện; \
-bậc tối thắng trượng phu \
-hành hạnh tinh cần bảy ngày.
+bậc trượng phu tối thắng \
+tinh cần suốt bảy ngày.
 
 #super[37] Được Phạm thiên thỉnh cầu, \
-Kassapa, Đạo sư của đời; \
+Kassapa, Đạo sư của đời, \
 bậc đại hùng, tối thắng loài người, \
-chuyển bánh xe tại vườn nai.
+chuyển bánh xe nơi vườn nai.
 
 #super[38] Tissa và Bhāradvāja \
 là hai thượng thủ Thanh văn; \
 thị giả tên Sabbamitta, \
-của bậc Đại sĩ Kassapa.
+hầu cận bậc Đại sĩ Kassapa.
 
 #super[39] Anuḷā và Uruvelā \
 là hai thượng thủ nữ Thanh văn; \
 cây Bồ-đề của Thế Tôn ấy \
-được gọi là Nigrodha.
+mang tên Nigrodha.
 
 #super[40] Sumaṅgala và Ghaṭikāra \
 là hai nam cư sĩ hộ trì hàng đầu; \
 Vicitasenā và Bhaddā \
 là hai nữ cư sĩ hộ trì hàng đầu.
 
-#super[41] Bậc Giác Ngộ ấy, theo chiều cao, \
-vươn lên hai mươi ratana; \
+#super[41] Thân bậc Giác Ngộ ấy \
+vươn cao hai mươi ratana; \
 như tia chớp giữa trời, \
-như trăng đầy giữa các sao.
+như trăng rằm giữa chòm sao.
 
-#super[42] Thọ mạng của bậc Đại sĩ ấy \
+#super[42] Thọ mạng bậc Đại sĩ ấy \
 là hai mươi ngàn năm; \
 trụ thế chừng ấy, \
-Ngài độ thoát nhiều người.
+Ngài độ thoát biết bao người.
 
-#super[43] Đã đào ao Pháp, \
-cho giới làm hương thoa; \
-mặc áo Pháp, \
+#super[43] Ngài đào ao Pháp, \
+lấy giới làm hương thoa; \
+mặc lên áo Pháp, \
 phân phát vòng hoa Pháp.
 
-#super[44] Đặt gương Pháp trong sạch \
-giữa đại chúng; \
+#super[44] Ngài đặt tấm gương Pháp trong sạch \
+ngay giữa đại chúng; \
 ai mong Niết-bàn, \
 hãy nhìn đồ trang sức của ta.
 
-#super[45] Cho áo giáp giới, \
+#super[45] Ngài trao áo giáp giới, \
 trang bị giáp thiền; \
-khoác da Pháp, \
+khoác lên da Pháp, \
 ban dây thắng tối thượng.
 
-#super[46] Cho khiên niệm, \
-giáo trí sắc bén; \
-ban gươm Pháp quý, \
-chày giới nghiền nát sự xen tạp.
+#super[46] Ngài trao khiên niệm, \
+cây giáo trí sắc bén; \
+ban thanh gươm Pháp quý, \
+chày giới nghiền nát mọi xen tạp.
 
-#super[47] Cho đồ trang sức ba minh, \
+#super[47] Ngài trao đồ trang sức ba minh, \
 hoa tai bốn quả; \
 ban châu ngọc sáu thắng trí, \
 đồ cài hoa Pháp.
 
-#super[48] Cho lọng trắng Chánh pháp, \
+#super[48] Ngài dựng lọng trắng Chánh pháp \
 ngăn che điều ác; \
 tạo đóa hoa vô úy, \
-Ngài diệt độ cùng các đệ tử.
+rồi diệt độ cùng các đệ tử.
 
 #super[49] Đây chính là Chánh Đẳng Giác, \
 không thể lường, khó tới gần; \
@@ -4909,9 +4943,9 @@ vươn cao một do-tuần.
 == 27. Phật sử Gotama (Gotamabuddhavaṃso)
 
 #super[1] Nay ta là Chánh Đẳng Giác, \
-Gotama, người làm hưng thịnh dòng Sakya; \
-đã tinh cần, \
-đạt Chánh giác tối thượng.
+Gotama, người làm rạng rỡ dòng Sakya; \
+nhờ tinh cần, \
+ta đạt Chánh giác tối thượng.
 
 #super[2] Được Phạm thiên thỉnh cầu, \
 ta chuyển Pháp luân; \
@@ -4934,11 +4968,11 @@ kỳ tập họp Tỷ-kheo \
 là một ngàn hai trăm năm mươi vị.
 
 #super[6] Chói sáng, thanh tịnh, \
-đi giữa chúng Tỷ-kheo; \
+ta đi giữa chúng Tỷ-kheo; \
 ta cho tất cả điều mong cầu, \
 như ngọc ban mọi ước muốn.
 
-#super[7] Với những người mong quả, \
+#super[7] Với những ai mong quả, \
 muốn bỏ dục hữu, \
 ta tuyên bố bốn đế, \
 vì thương xót chúng sanh.
@@ -4955,7 +4989,7 @@ giáo pháp của ta, ẩn sĩ Sakya, \
 
 #super[10] Không lậu hoặc, ly tham, \
 tâm an tịnh, định tĩnh; \
-hết thảy hàng trăm Tỷ-kheo \
+hàng trăm Tỷ-kheo ấy \
 thường vây quanh ta.
 
 #super[11] Những ai nay đang \
@@ -4980,7 +5014,7 @@ là ba cung điện tối thắng.
 
 #super[15] Bốn mươi ngàn \
 người nữ trang điểm; \
-người vợ tên Bhaddakañcanā, \
+vợ ta tên Bhaddakañcanā, \
 con trai tên Rāhula.
 
 #super[16] Thấy bốn tướng, \
@@ -5015,7 +5049,7 @@ vỏn vẹn một trăm năm; \
 trụ thế chừng ấy, \
 ta độ thoát nhiều người.
 
-#super[22] Đã dựng đuốc Pháp, \
+#super[22] Ta đã dựng đuốc Pháp, \
 để giác ngộ người đời sau; \
 chẳng bao lâu nữa, ta cũng sẽ \
 cùng chúng đệ tử, \
@@ -5117,11 +5151,10 @@ không ai sánh bằng, không có đối thủ.
 Đạo sư tên Vipassī; \
 bậc Giác Ngộ ấy cũng từ bi, \
 cởi chúng sanh khỏi trói buộc.
-
-#super[17] Từ đây ba mươi mốt kiếp, \
+#super[17] Cách đây ba mươi mốt kiếp, \
 có hai bậc Điều ngự; \
-Sikhī và Vessabhū, \
-không ai sánh bằng, không có đối thủ.
+là Sikhī và Vessabhū, \
+không ai sánh bằng, không đối thủ.
 
 #super[18] Trong Hiền kiếp này, \
 có ba bậc Điều ngự; \
@@ -5129,23 +5162,23 @@ Kakusandha, Koṇāgamana, \
 và Đạo sư Kassapa.
 
 #super[19] Nay ta là Chánh Đẳng Giác, \
-Metteyya cũng sẽ có; \
+Metteyya mai sau cũng sẽ có; \
 năm vị Phật này của ta, \
 bậc trí, thương xót thế gian.
 
 #super[20] Những Pháp vương ấy, \
 và vô số koṭi vị khác; \
-đã chỉ con đường ấy, \
+đã chỉ bày con đường ấy, \
 rồi diệt độ cùng các đệ tử.
 
 #strong[(Hết Phần Buddhapakiṇṇaka.)]
 
 == 29. Chuyện Dhātubhājanīya (Dhātubhājanīyakathā)
 
-#super[1] Gotama lớn, Chiến Thắng quý, \
-diệt độ tại Kusināra; \
-xá-lợi được phân bố rộng, \
-tại các nơi.
+#super[1] Đức Gotama cao quý, bậc Chiến Thắng, \
+đã diệt độ tại Kusināra; \
+xá-lợi được phân chia rộng, \
+khắp các nơi.
 
 #super[2] Một phần của Ajātasattu, \
 một phần tại thành Vesālī; \
@@ -5169,13 +5202,13 @@ tháp tro than là thứ mười, \
 
 #super[6] Uṇhīsa, bốn răng nanh, \
 và hai xương đòn; \
-bảy phần này nguyên vẹn, \
-các xá-lợi còn lại đều vỡ.
+bảy phần này còn nguyên vẹn, \
+các xá-lợi khác đều vỡ.
 
 #super[7] Phần lớn bằng hạt đậu xanh, \
 phần vừa bằng gạo bể; \
 phần nhỏ bằng hạt cải, \
-xá-lợi đủ màu.
+xá-lợi đủ màu sắc.
 
 #super[8] Phần lớn màu vàng, \
 phần vừa màu ngọc trai; \
@@ -5227,7 +5260,7 @@ tại xứ Aparanta; \
 những vật bậc ẩn sĩ đã dùng, \
 người đời lúc ấy phụng thờ.
 
-#super[18] Xá-lợi được phân bố rộng, \
+#super[18] Xá-lợi được phân chia rộng, \
 của bậc Đại sĩ Gotama; \
 vì thương xót chúng sanh, \
 đó là chuyện xưa lúc ấy.

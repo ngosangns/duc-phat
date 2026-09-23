@@ -5,7 +5,7 @@
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali (Pārājikapāḷi, xem thư mục "kinh/tam-tang-pali-goc" trong cùng thư viện), không đối chiếu hay dựa theo bản dịch phổ biến đã có sẵn trong thư viện này. Số đoạn (#super[N]) đếm lại từ 1 trong từng điều học / kathā / khandhaka-đơn vị, khớp gói nguồn đã chuẩn hoá. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc. Các đoạn liệt kê dài lặp công thức (peyyāla, padabhājanīya, anāpatti) được dịch đầy đủ hạng mục nhưng trình bày gọn.
 
-_Trạng thái: đã dịch 50/50 đơn vị; đã trọn tập._
+_Trạng thái: đã dịch 50/50 đơn vị; đã trọn tập; đã viết lại theo giọng nói._
 
 #outline(title: [Mục lục])
 

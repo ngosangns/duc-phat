@@ -5,7 +5,7 @@
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali (_Khuddakanikāyo Itivuttakapāḷi_, xem thư mục "kinh/tam-tang-pali-goc" trong cùng thư viện), không đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) giữ theo gói nguồn đã chuẩn hoá: Pháp Cú dùng số kệ toàn cục 1–423; các tập khác đếm lại từ 1 trong từng kinh/chuyện/chương. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc. Các đoạn liệt kê dài lặp công thức được dịch đầy đủ nội dung nhưng trình bày gọn lại theo kiểu liệt kê.
 
-_Trạng thái: đã dịch 111/111 đơn vị (1–111); đã trọn tập._
+_Trạng thái: đã dịch 111/111 đơn vị (1–111); đã trọn tập; đã viết lại theo giọng nói._
 
 #outline(title: [Mục lục])
 
@@ -15,175 +15,175 @@ _Trạng thái: đã dịch 111/111 đơn vị (1–111); đã trọn tập._
 
 ==== 1. Kinh Tham (Lobhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy đoạn trừ một pháp; Ta bảo chứng cho các
-thầy về quả Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ tham,
-một pháp; Ta bảo chứng cho các thầy về quả Bất lai." Thế Tôn đã nói ý ấy.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy đoạn trừ một pháp, Ta bảo chứng cho các thầy quả
+Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ tham — một
+pháp ấy — Ta bảo chứng cho các thầy quả Bất lai." Thế Tôn đã nói ý ấy.
 Ở đây, điều ấy được nói như vầy: \
-"Do tham ấy, những kẻ bị tham chi phối, \
-chúng sanh đi đến đọa xứ; \
-Tham ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+"Chúng sanh bị tham chi phối, \
+vì tham ấy mà đi vào đọa xứ; \
+biết rõ tham ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 ==== 2. Kinh Sân (Dosasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy đoạn trừ một pháp; Ta bảo chứng cho các
-thầy về quả Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ sân,
-một pháp; Ta bảo chứng cho các thầy về quả Bất lai." Thế Tôn đã nói ý ấy.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy đoạn trừ một pháp, Ta bảo chứng cho các thầy quả
+Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ sân — một
+pháp ấy — Ta bảo chứng cho các thầy quả Bất lai." Thế Tôn đã nói ý ấy.
 Ở đây, điều ấy được nói như vầy: \
-"Do sân ấy, những kẻ bị sân chi phối, \
-chúng sanh đi đến đọa xứ; \
-Sân ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+"Chúng sanh bị sân chi phối, \
+vì sân ấy mà đi vào đọa xứ; \
+biết rõ sân ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ hai.)]
 
 ==== 3. Kinh Si (Mohasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy đoạn trừ một pháp; Ta bảo chứng cho các
-thầy về quả Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ si,
-một pháp; Ta bảo chứng cho các thầy về quả Bất lai." Thế Tôn đã nói ý ấy.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy đoạn trừ một pháp, Ta bảo chứng cho các thầy quả
+Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ si — một
+pháp ấy — Ta bảo chứng cho các thầy quả Bất lai." Thế Tôn đã nói ý ấy.
 Ở đây, điều ấy được nói như vầy: \
-"Do si ấy, những kẻ bị si chi phối, \
-chúng sanh đi đến đọa xứ; \
-Si ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+"Chúng sanh bị si chi phối, \
+vì si ấy mà đi vào đọa xứ; \
+biết rõ si ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ ba.)]
 
 ==== 4. Kinh Phẫn Nộ (Kodhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy đoạn trừ một pháp; Ta bảo chứng cho các
-thầy về quả Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ phẫn
-nộ, một pháp; Ta bảo chứng cho các thầy về quả Bất lai." Thế Tôn đã nói
-ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Do phẫn nộ ấy, những kẻ bị phẫn nộ chi phối, \
-chúng sanh đi đến đọa xứ; \
-Phẫn nộ ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy đoạn trừ một pháp, Ta bảo chứng cho các thầy quả
+Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ phẫn nộ — một
+pháp ấy — Ta bảo chứng cho các thầy quả Bất lai." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
+"Chúng sanh bị phẫn nộ chi phối, \
+vì phẫn nộ ấy mà đi vào đọa xứ; \
+biết rõ phẫn nộ ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tư.)]
 
 ==== 5. Kinh Bội Bạc (Makkhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy đoạn trừ một pháp; Ta bảo chứng cho các
-thầy về quả Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ bội
-bạc, một pháp; Ta bảo chứng cho các thầy về quả Bất lai." Thế Tôn đã nói
-ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Do bội bạc ấy, những kẻ bội bạc, \
-chúng sanh đi đến đọa xứ; \
-Bội bạc ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy đoạn trừ một pháp, Ta bảo chứng cho các thầy quả
+Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ bội bạc — một
+pháp ấy — Ta bảo chứng cho các thầy quả Bất lai." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
+"Chúng sanh là những kẻ bội bạc, \
+vì bội bạc mà đi vào đọa xứ; \
+biết rõ bội bạc đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ năm.)]
 
 ==== 6. Kinh Mạn (Mānasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy đoạn trừ một pháp; Ta bảo chứng cho các
-thầy về quả Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ mạn,
-một pháp; Ta bảo chứng cho các thầy về quả Bất lai." Thế Tôn đã nói ý ấy.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy đoạn trừ một pháp, Ta bảo chứng cho các thầy quả
+Bất lai. Một pháp ấy là gì? Này các thầy, hãy đoạn trừ mạn — một
+pháp ấy — Ta bảo chứng cho các thầy quả Bất lai." Thế Tôn đã nói ý ấy.
 Ở đây, điều ấy được nói như vầy: \
-"Do mạn ấy, những kẻ kiêu mạn, \
-chúng sanh đi đến đọa xứ; \
-Mạn ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+"Chúng sanh là những kẻ kiêu mạn, \
+vì mạn ấy mà đi vào đọa xứ; \
+biết rõ mạn ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 ==== 7. Kinh Liễu Tri Tất Cả (Sabbapariññāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với tất cả, không thắng tri, không liễu
-tri, không làm tâm ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến
-sự đoạn tận khổ. Còn đối với tất cả, này các thầy, thắng tri, liễu tri,
-làm tâm ly nhiễm ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ."
-Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Ai biết tất cả từ mọi phía, \
-không tham đắm nơi các sự thuộc tất cả; \
-Vị ấy thật sự là người liễu tri tất cả, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, không thắng tri, không liễu tri tất cả, không làm tâm
+ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự đoạn tận
+khổ. Còn này các thầy, thắng tri, liễu tri tất cả, làm tâm ly nhiễm
+ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn đã nói
+ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Ai thấy tất cả từ mọi phía, \
+không tham đắm nơi mọi sự; \
+vị ấy thật sự liễu tri tất cả, \
 đã vượt qua mọi khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
 ==== 8. Kinh Liễu Tri Mạn (Mānapariññāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với mạn, không thắng tri, không liễu
-tri, không làm tâm ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến
-sự đoạn tận khổ. Còn đối với mạn, này các thầy, thắng tri, liễu tri, làm
-tâm ly nhiễm ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế
-Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, không thắng tri, không liễu tri mạn, không làm tâm ly
+nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự đoạn tận khổ.
+Còn này các thầy, thắng tri, liễu tri mạn, làm tâm ly nhiễm ở đó,
+đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
 "Chúng sanh này bị mạn chi phối, \
-bị thắt buộc bởi mạn, ưa thích hữu; \
-Không liễu tri mạn, \
+bị mạn trói buộc, ưa thích hữu; \
+không liễu tri được mạn, \
 họ đi đến tái sanh. \
-Còn những ai đã đoạn trừ mạn, \
+Còn ai đã đoạn trừ mạn, \
 giải thoát nơi sự diệt tận mạn; \
-Họ đã thắng sự thắt buộc của mạn, \
+họ thắng được sự trói buộc của mạn, \
 đã vượt qua mọi khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tám.)]
 
 ==== 9. Kinh Liễu Tri Tham (Lobhapariññāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với tham, không thắng tri, không liễu
-tri, không làm tâm ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến
-sự đoạn tận khổ. Còn đối với tham, này các thầy, thắng tri, liễu tri, làm
-tâm ly nhiễm ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế
-Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Do tham ấy, những kẻ bị tham chi phối, \
-chúng sanh đi đến đọa xứ; \
-Tham ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, không thắng tri, không liễu tri tham, không làm tâm ly
+nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự đoạn tận khổ.
+Còn này các thầy, thắng tri, liễu tri tham, làm tâm ly nhiễm ở đó,
+đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
+"Chúng sanh bị tham chi phối, \
+vì tham ấy mà đi vào đọa xứ; \
+biết rõ tham ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ chín.)]
 
 ==== 10. Kinh Liễu Tri Sân (Dosapariññāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với sân, không thắng tri, không liễu
-tri, không làm tâm ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến
-sự đoạn tận khổ. Còn đối với sân, này các thầy, thắng tri, liễu tri, làm
-tâm ly nhiễm ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế
-Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Do sân ấy, những kẻ bị sân chi phối, \
-chúng sanh đi đến đọa xứ; \
-Sân ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, không thắng tri, không liễu tri sân, không làm tâm ly
+nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự đoạn tận khổ.
+Còn này các thầy, thắng tri, liễu tri sân, làm tâm ly nhiễm ở đó,
+đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
+"Chúng sanh bị sân chi phối, \
+vì sân ấy mà đi vào đọa xứ; \
+biết rõ sân ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười.)]
 
@@ -193,202 +193,202 @@ những vị quán chiếu đoạn trừ; \
 
 Tham, sân, rồi si, \
 phẫn nộ, bội bạc, mạn, tất cả; \
-Từ mạn, lại hai tham sân, \
-đã được nêu — gọi là phẩm thứ nhất.
+từ mạn, lại hai tham sân, \
+được nêu ra — gọi là phẩm thứ nhất.
 
 === 2. Phẩm Thứ Hai (Dutiyavaggo)
 
 ==== 11. Kinh Liễu Tri Si (Mohapariññāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với si, không thắng tri, không liễu tri,
-không làm tâm ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự
-đoạn tận khổ. Còn đối với si, này các thầy, thắng tri, liễu tri, làm tâm
-ly nhiễm ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn
-đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Do si ấy, những kẻ bị si chi phối, \
-chúng sanh đi đến đọa xứ; \
-Si ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, không thắng tri, không liễu tri si, không làm tâm ly
+nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự đoạn tận khổ.
+Còn này các thầy, thắng tri, liễu tri si, làm tâm ly nhiễm ở đó,
+đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
+"Chúng sanh bị si chi phối, \
+vì si ấy mà đi vào đọa xứ; \
+biết rõ si ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 ==== 12. Kinh Liễu Tri Phẫn Nộ (Kodhapariññāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với phẫn nộ, không thắng tri, không liễu
-tri, không làm tâm ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến
-sự đoạn tận khổ. Còn đối với phẫn nộ, này các thầy, thắng tri, liễu tri,
-làm tâm ly nhiễm ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ."
-Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Do phẫn nộ ấy, những kẻ bị phẫn nộ chi phối, \
-chúng sanh đi đến đọa xứ; \
-Phẫn nộ ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, không thắng tri, không liễu tri phẫn nộ, không làm tâm
+ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự đoạn tận
+khổ. Còn này các thầy, thắng tri, liễu tri phẫn nộ, làm tâm ly nhiễm
+ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn đã nói
+ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Chúng sanh bị phẫn nộ chi phối, \
+vì phẫn nộ ấy mà đi vào đọa xứ; \
+biết rõ phẫn nộ ấy đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ hai.)]
 
 ==== 13. Kinh Liễu Tri Bội Bạc (Makkhapariññāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với bội bạc, không thắng tri, không liễu
-tri, không làm tâm ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến
-sự đoạn tận khổ. Còn đối với bội bạc, này các thầy, thắng tri, liễu tri,
-làm tâm ly nhiễm ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ."
-Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Do bội bạc ấy, những kẻ bội bạc, \
-chúng sanh đi đến đọa xứ; \
-Bội bạc ấy, sau khi biết đúng như thật, \
-những vị quán chiếu đoạn trừ; \
-Đã đoạn trừ, họ không còn trở lại \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, không thắng tri, không liễu tri bội bạc, không làm tâm
+ly nhiễm ở đó, không đoạn trừ — thì không thể đạt đến sự đoạn tận
+khổ. Còn này các thầy, thắng tri, liễu tri bội bạc, làm tâm ly nhiễm
+ở đó, đoạn trừ — thì có thể đạt đến sự đoạn tận khổ." Thế Tôn đã nói
+ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Chúng sanh là những kẻ bội bạc, \
+vì bội bạc mà đi vào đọa xứ; \
+biết rõ bội bạc đúng như thật, \
+người quán chiếu liền đoạn trừ; \
+đã đoạn trừ rồi, họ không trở lại \
 đời này nữa, bất cứ lúc nào." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ ba.)]
 
 ==== 14. Kinh Che Lấp Vô Minh (Avijjānīvaraṇasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Ta không thấy một triền cái nào khác, do
-triền cái ấy chúng sanh bị che lấp mà phải lưu chuyển, luân hồi lâu dài,
-như là triền cái vô minh. Này các thầy, chính vì bị triền cái vô minh che
-lấp mà chúng sanh lưu chuyển, luân hồi lâu dài." Thế Tôn đã nói ý ấy. Ở
-đây, điều ấy được nói như vầy: \
-"Không có một pháp nào khác, \
-do pháp ấy chúng sanh bị che lấp như vậy; \
-mà luân hồi ngày đêm, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta không thấy một triền cái nào khác mà do nó chúng
+sanh bị che lấp, phải lưu chuyển, luân hồi lâu dài, như triền cái vô
+minh. Này các thầy, chính vì bị triền cái vô minh che lấp mà chúng
+sanh lưu chuyển, luân hồi lâu dài." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
+"Không có pháp nào khác \
+che lấp chúng sanh như vậy, \
+khiến họ luân hồi ngày đêm, \
 như bị si che phủ. \
-Còn những ai đã đoạn trừ si, \
+Còn ai đã đoạn trừ si, \
 đã phá tan khối bóng tối; \
-Họ không còn luân hồi nữa, \
-vì nhân của họ không còn tồn tại." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+họ không còn luân hồi nữa, \
+vì nhân của họ không còn." \
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tư.)]
 
 ==== 15. Kinh Kiết Sử Ái (Taṇhāsaṃyojanasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Ta không thấy một kiết sử nào khác, do kiết
-sử ấy chúng sanh bị ràng buộc mà phải lưu chuyển, luân hồi lâu dài, như
-là kiết sử ái. Này các thầy, chính vì bị kiết sử ái ràng buộc mà chúng
-sanh lưu chuyển, luân hồi lâu dài." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
-được nói như vầy: \
-"Người lấy ái làm bạn, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta không thấy một kiết sử nào khác mà do nó chúng sanh
+bị ràng buộc, phải lưu chuyển, luân hồi lâu dài, như kiết sử ái. Này
+các thầy, chính vì bị kiết sử ái ràng buộc mà chúng sanh lưu chuyển,
+luân hồi lâu dài." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
+"Người lấy ái làm bạn \
 luân hồi một thời gian dài; \
-Từ hữu này sang hữu khác, \
+từ hữu này sang hữu khác, \
 không vượt khỏi luân hồi. \
-Biết được tai hại ấy, \
+Biết được tai hại ấy — \
 ái là nguồn sanh khổ; \
 Tỷ-kheo không ái, không chấp thủ, \
 có niệm, hãy sống đời xuất gia." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ năm.)]
 
 ==== 16. Kinh sekha (Paṭhamasekhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với Tỷ-kheo hữu học, chưa đạt được mục
-đích tâm, đang sống với nguyện vọng đạt đến vô thượng an ổn khỏi các
-ách — xét về chi phần nội tại, Ta không thấy một chi phần nào khác có
-lợi ích nhiều như vậy, đó là như lý tác ý. Này các thầy, Tỷ-kheo như lý
-tác ý thì đoạn trừ bất thiện, tu tập thiện." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, đối với Tỷ-kheo hữu học, chưa đạt được mục đích tâm,
+đang sống với nguyện vọng đạt đến vô thượng an ổn khỏi các ách — xét
+về chi phần nội tại, Ta không thấy chi phần nào khác lợi ích nhiều
+như vậy, đó là như lý tác ý. Này các thầy, Tỷ-kheo như lý tác ý thì
+đoạn trừ bất thiện, tu tập thiện." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
 "Như lý tác ý là pháp \
 của Tỷ-kheo hữu học; \
-Không có pháp nào khác lợi ích nhiều như vậy, \
+không pháp nào khác lợi ích nhiều như vậy \
 để đạt mục đích tối thượng; \
-Tỷ-kheo tinh cần như lý, \
+Tỷ-kheo tinh cần như lý \
 đạt đến sự đoạn tận khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 ==== 17. Kinh sekha (Dutiyasekhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với Tỷ-kheo hữu học, chưa đạt được mục
-đích tâm, đang sống với nguyện vọng đạt đến vô thượng an ổn khỏi các
-ách — xét về chi phần bên ngoài, Ta không thấy một chi phần nào khác có
-lợi ích nhiều như vậy, đó là thiện hữu. Này các thầy, Tỷ-kheo là thiện
-hữu thì đoạn trừ bất thiện, tu tập thiện." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, đối với Tỷ-kheo hữu học, chưa đạt được mục đích tâm,
+đang sống với nguyện vọng đạt đến vô thượng an ổn khỏi các ách — xét
+về chi phần bên ngoài, Ta không thấy chi phần nào khác lợi ích nhiều
+như vậy, đó là thiện hữu. Này các thầy, Tỷ-kheo là thiện hữu thì đoạn
+trừ bất thiện, tu tập thiện." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
+được nói như vầy: \
 "Tỷ-kheo nào là thiện hữu, \
 biết thuận theo, có cung kính; \
-Làm theo lời bạn, có tỉnh giác, có niệm; \
-Tuần tự đạt đến \
+làm theo lời bạn, tỉnh giác, có niệm; \
+tuần tự đạt đến \
 sự đoạn tận mọi kiết sử." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
 ==== 18. Kinh Phá Tăng (Saṅghabhedasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, một pháp sanh khởi ở đời thì sanh khởi vì
-bất lợi cho nhiều người, vì không an lạc cho nhiều người, vì không lợi
-ích, không lợi, vì khổ cho nhiều người, cho chư thiên và loài người. Một
-pháp ấy là gì? Phá Tăng. Này các thầy, khi Tăng bị phá, thì có cãi cọ
-nhau, có mắng nhiếc nhau, có tẩy chay nhau, có từ bỏ nhau. Ở đó, những
-người chưa tịnh tín thì không tịnh tín, và một số người đã tịnh tín thì
-đổi khác." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Kẻ phá Tăng phải đọa xứ, phải vào địa ngục, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, một pháp sanh khởi ở đời thì sanh khởi vì bất lợi cho
+nhiều người, vì không an lạc cho nhiều người, vì không lợi ích, không
+lợi, vì khổ cho nhiều người, cho chư thiên và loài người. Một pháp ấy
+là gì? Phá Tăng. Này các thầy, khi Tăng bị phá thì có cãi cọ nhau, có
+mắng nhiếc nhau, có tẩy chay nhau, có từ bỏ nhau. Ở đó, người chưa
+tịnh tín thì không tịnh tín, và một số người đã tịnh tín thì đổi
+khác." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Kẻ phá Tăng đọa xứ, vào địa ngục, \
 trụ một kiếp; \
-Ưa phe phái, trụ phi pháp, \
+ưa phe phái, trụ phi pháp, \
 phá hoại an ổn khỏi các ách; \
-Phá vỡ Tăng hòa hợp, \
+phá vỡ Tăng hòa hợp, \
 nấu trong địa ngục một kiếp." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tám.)]
 
 ==== 19. Kinh Hòa Hợp Tăng (Saṅghasāmaggīsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, một pháp sanh khởi ở đời thì sanh khởi vì
-lợi ích cho nhiều người, vì an lạc cho nhiều người, vì lợi ích, vì lợi,
-vì lạc cho nhiều người, cho chư thiên và loài người. Một pháp ấy là gì?
-Hòa hợp Tăng. Này các thầy, khi Tăng hòa hợp, thì không có cãi cọ nhau,
-không có mắng nhiếc nhau, không có tẩy chay nhau, không có từ bỏ nhau. Ở
-đó, những người chưa tịnh tín thì tịnh tín, và những người đã tịnh tín
-thì tăng trưởng." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, một pháp sanh khởi ở đời thì sanh khởi vì lợi ích cho
+nhiều người, vì an lạc cho nhiều người, vì lợi ích, vì lợi, vì lạc
+cho nhiều người, cho chư thiên và loài người. Một pháp ấy là gì? Hòa
+hợp Tăng. Này các thầy, khi Tăng hòa hợp thì không cãi cọ nhau, không
+mắng nhiếc nhau, không tẩy chay nhau, không từ bỏ nhau. Ở đó, người
+chưa tịnh tín thì tịnh tín, và người đã tịnh tín thì tăng trưởng."
+Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Hòa hợp của Tăng là lạc, \
-sự ủng hộ những người hòa hợp cũng vậy; \
-Ưa hòa hợp, trụ pháp, \
+ủng hộ người hòa hợp cũng vậy; \
+ưa hòa hợp, trụ pháp, \
 không phá hoại an ổn khỏi các ách; \
-Làm Tăng hòa hợp, \
+làm Tăng hòa hợp, \
 vui trên cõi trời một kiếp." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ chín.)]
 
 ==== 20. Kinh Tâm Độc Ác (Paduṭṭhacittasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Ở đây, này các thầy, Ta biết rõ một người có tâm độc ác,
-dùng tâm bao trùm tâm người ấy như vầy: 'Nếu người này chết vào lúc này,
-thì như bị mang đi bỏ xuống, người ấy sẽ rơi vào địa ngục.' Vì sao vậy?
-Vì tâm người ấy độc ác. Này các thầy, do nhân tâm độc ác, một số chúng
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Ở đây, này các thầy, Ta biết rõ một người có tâm độc ác, dùng tâm
+bao trùm tâm người ấy như vầy: 'Nếu người này chết ngay lúc này, thì
+như bị mang đi bỏ xuống, người ấy sẽ rơi vào địa ngục.' Vì sao? Vì
+tâm người ấy độc ác. Này các thầy, do nhân tâm độc ác, một số chúng
 sanh khi thân hoại mạng chung sanh vào đọa xứ, ác thú, đọa lạc, địa
 ngục." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Biết rõ một người ở đây có tâm độc ác; \
+"Biết rõ một người ở đây có tâm độc ác, \
 Đức Phật đã tuyên bố ý ấy \
 trước chúng Tỷ-kheo. \
-Nếu người ấy chết vào lúc này, \
+Nếu người ấy chết ngay lúc này, \
 sẽ sanh vào địa ngục, \
 vì tâm người ấy đã bị làm độc. \
 Như mang đi rồi ném xuống, \
 kẻ như vậy cũng thế; \
-Do nhân tâm độc ác, \
+do nhân tâm độc ác, \
 chúng sanh đi đến đọa xứ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười.)]
 
@@ -398,201 +398,203 @@ chúng sanh đi đến đọa xứ." \
 
 Si, phẫn nộ, rồi bội bạc, \
 minh, ái, và hai hữu học; \
-Phá, hòa hợp, người, \
+phá, hòa hợp, người, \
 gọi là phẩm thứ hai.
 
 === 3. Phẩm Thứ Ba (Tatiyavaggo)
 
 ==== 21. Kinh Tâm Tịnh Tín (Pasannacittasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Ở đây, này các thầy, Ta biết rõ một người có tâm tịnh tín,
-dùng tâm bao trùm tâm người ấy như vầy: 'Nếu người này chết vào lúc này,
-thì như bị mang đi bỏ xuống, người ấy sẽ sanh lên cõi trời.' Vì sao vậy?
-Vì tâm người ấy tịnh tín. Này các thầy, do nhân tâm tịnh tín, một số
-chúng sanh khi thân hoại mạng chung sanh vào thiện thú, cõi trời." Thế
-Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Biết rõ một người ở đây có tâm tịnh tín; \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Ở đây, này các thầy, Ta biết rõ một người có tâm tịnh tín, dùng tâm
+bao trùm tâm người ấy như vầy: 'Nếu người này chết ngay lúc này, thì
+như bị mang đi bỏ xuống, người ấy sẽ sanh lên cõi trời.' Vì sao? Vì
+tâm người ấy tịnh tín. Này các thầy, do nhân tâm tịnh tín, một số
+chúng sanh khi thân hoại mạng chung sanh vào thiện thú, cõi trời."
+Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Biết rõ một người ở đây có tâm tịnh tín, \
 Đức Phật đã tuyên bố ý ấy \
 trước chúng Tỷ-kheo. \
-Nếu người ấy chết vào lúc này, \
+Nếu người ấy chết ngay lúc này, \
 sẽ sanh vào thiện thú, \
-vì tâm người ấy đã được tịnh tín. \
+vì tâm người ấy đã tịnh tín. \
 Như mang đi rồi ném xuống, \
 kẻ như vậy cũng thế; \
-Do nhân tâm tịnh tín, \
+do nhân tâm tịnh tín, \
 chúng sanh đi đến thiện thú." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 ==== 22. Kinh Từ Tâm (Mettasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, các thầy chớ sợ các phước. Này các thầy,
-phước là tên gọi của lạc, của điều đáng muốn, đáng ưa, đáng mến, đáng
-thích. Này các thầy, Ta thắng tri rằng, các phước đã làm từ lâu, Ta đã
-thọ nhận quả báo đáng muốn, đáng ưa, đáng mến, đáng thích. Tu tập tâm từ
-bảy năm, suốt bảy kiếp thành-hoại Ta không trở lại đời này. Này các thầy,
-khi kiếp đang hoại, Ta sanh lên cõi Ābhassara; khi kiếp đang thành, Ta
-sanh vào Phạm cung trống không. Ở đó, này các thầy, Ta là Phạm thiên, Đại
-Phạm thiên, bậc chiến thắng, không bị ai chiến thắng, thấy rõ tất cả, nắm
-quyền tự tại. Ba mươi sáu lần, này các thầy, Ta đã là Sakka, Đế Thích của
-chư thiên; hàng trăm lần, Ta đã là Chuyển luân vương, đúng pháp, Pháp
-vương, chinh phục bốn phương, đạt sự an ổn của quốc độ, đầy đủ bảy báu.
-Huống gì là ngôi vua một vùng! Này các thầy, Ta khởi lên ý nghĩ: 'Đây là
-quả của nghiệp nào, là dị thục của nghiệp nào, khiến nay Ta có thần lực
-lớn như vậy, có oai lực lớn như vậy?' Này các thầy, Ta khởi lên ý nghĩ:
-'Đây là quả của ba nghiệp, là dị thục của ba nghiệp, khiến nay Ta có thần
-lực lớn như vậy, có oai lực lớn như vậy — đó là bố thí, nhiếp phục, và
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, các thầy chớ sợ các phước. Này các thầy, phước là tên
+gọi của lạc, của điều đáng muốn, đáng ưa, đáng mến, đáng thích. Này
+các thầy, Ta thắng tri rằng các phước đã làm từ lâu, Ta đã thọ nhận
+quả báo đáng muốn, đáng ưa, đáng mến, đáng thích. Tu tập tâm từ bảy
+năm, suốt bảy kiếp thành-hoại Ta không trở lại đời này. Này các
+thầy, khi kiếp đang hoại, Ta sanh lên cõi Ābhassara; khi kiếp đang
+thành, Ta sanh vào Phạm cung trống không. Ở đó, này các thầy, Ta là
+Phạm thiên, Đại Phạm thiên, bậc chiến thắng, không bị ai chiến
+thắng, thấy rõ tất cả, nắm quyền tự tại. Ba mươi sáu lần, này các
+thầy, Ta đã là Sakka, Đế Thích của chư thiên; hàng trăm lần, Ta đã
+là Chuyển luân vương, đúng pháp, Pháp vương, chinh phục bốn phương,
+đạt sự an ổn của quốc độ, đầy đủ bảy báu — huống gì là ngôi vua một
+vùng! Này các thầy, Ta khởi lên ý nghĩ: 'Đây là quả của nghiệp nào,
+là dị thục của nghiệp nào, khiến nay Ta có thần lực lớn như vậy, có
+oai lực lớn như vậy?' Này các thầy, Ta khởi lên ý nghĩ: 'Đây là quả
+của ba nghiệp, là dị thục của ba nghiệp, khiến nay Ta có thần lực
+lớn như vậy, có oai lực lớn như vậy — đó là bố thí, nhiếp phục, và
 tự chế.'" Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Người ấy hãy học tập chính phước, \
-đưa đến lạc, có lợi ích lâu dài; \
-Hãy bố thí, sống ngay thẳng, \
+đưa đến lạc, lợi ích lâu dài; \
+hãy bố thí, sống ngay thẳng, \
 và tu tập tâm từ. \
 Tu tập các pháp ấy, \
 ba nguồn sanh lạc; \
-Bậc trí sanh vào thế giới \
+bậc trí sanh vào thế giới \
 an lạc, không não hại." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ hai.)]
 
 ==== 23. Kinh Hai Lợi Ích (Ubhayatthasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, một pháp được tu tập, được làm sung mãn thì
-nắm giữ cả hai lợi ích — lợi ích ngay trong đời này và lợi ích đời sau.
-Một pháp ấy là gì? Không phóng dật đối với các thiện pháp. Này các thầy,
-pháp này được tu tập, được làm sung mãn thì nắm giữ cả hai lợi ích — lợi
-ích ngay trong đời này và lợi ích đời sau." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, một pháp được tu tập, được làm sung mãn thì nắm giữ
+cả hai lợi ích — lợi ích ngay trong đời này và lợi ích đời sau. Một
+pháp ấy là gì? Không phóng dật đối với các thiện pháp. Này các thầy,
+pháp này được tu tập, được làm sung mãn thì nắm giữ cả hai lợi ích —
+lợi ích ngay trong đời này và lợi ích đời sau." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
 "Bậc trí ca ngợi không phóng dật \
 trong các việc làm phước; \
-Người không phóng dật, bậc trí, \
+người không phóng dật, bậc trí, \
 nắm được cả hai lợi ích. \
-Lợi ích ngay trong đời này, \
+Lợi ích ngay trong đời này \
 và lợi ích đời sau; \
-Do chứng đạt lợi ích, bậc vững chãi \
+do chứng đạt lợi ích, bậc vững chãi \
 được gọi là bậc trí." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ ba.)]
 
 ==== 24. Kinh Đống Xương (Aṭṭhipuñjasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, với một người lưu chuyển, luân hồi suốt một
-kiếp, sẽ có một chuỗi xương, một đống xương, một khối xương lớn như núi
-Vepulla này — nếu có người gom lại, và phần đã gom không bị hủy hoại."
-Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, với một người lưu chuyển, luân hồi suốt một kiếp, sẽ
+có một chuỗi xương, một đống xương, một khối xương lớn như núi
+Vepulla này — nếu có người gom lại, và phần đã gom không bị hủy
+hoại." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Chỉ trong một kiếp, \
 đống xương của một người \
-có thể lớn như núi, \
+có thể lớn như núi — \
 Đại Sĩ đã nói vậy. \
-Núi ấy được chỉ ra, \
+Núi ấy được chỉ ra: \
 núi Vepulla lớn, \
 phía bắc Gijjhakūṭa, \
 tại Giribbaja của dân Magadha. \
-Khi nào thấy các Thánh đế bằng chánh tuệ: \
+Khi nào thấy các Thánh đế bằng chánh tuệ — \
 khổ, nguồn sanh khổ, \
 sự vượt khỏi khổ, \
-và Thánh đạo Tám ngành, \
-đưa đến sự lắng dịu khổ. \
-Người ấy, lưu chuyển tối đa bảy lần, \
+và Thánh đạo Tám ngành \
+đưa đến sự lắng dịu khổ — \
+người ấy lưu chuyển tối đa bảy lần, \
 trở thành người chấm dứt khổ, \
 do đoạn tận mọi kiết sử." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tư.)]
 
 ==== 25. Kinh Vọng Ngữ (Musāvādasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, với người đã vượt qua một pháp, Ta không nói
-người ấy còn có việc ác nào mà không làm được. Một pháp ấy là gì? Đó là,
-này các thầy, cố ý nói dối." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
-như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, với người đã vượt qua một pháp, Ta không nói người ấy
+còn có việc ác nào mà không làm được. Một pháp ấy là gì? Đó là, này
+các thầy, cố ý nói dối." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được
+nói như vầy: \
 "Với kẻ đã vượt qua một pháp, \
 kẻ nói dối; \
-Kẻ đã vứt bỏ đời sau, \
+kẻ đã vứt bỏ đời sau, \
 không có việc ác nào mà không làm." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ năm.)]
 
 ==== 26. Kinh Bố Thí (Dānasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, nếu chúng sanh biết quả của sự bố thí, chia
-sẻ như Ta biết, họ sẽ không ăn mà không cho, và cấu uế keo kiệt sẽ không
-chiếm lấy tâm họ. Dù chỉ là miếng cuối cùng, nắm cơm cuối cùng, họ cũng
-không ăn mà không chia sẻ — nếu có người nhận. Nhưng này các thầy, vì
-chúng sanh không biết quả của sự bố thí, chia sẻ như Ta biết, nên họ ăn
-mà không cho, và cấu uế keo kiệt chiếm lấy tâm họ." Thế Tôn đã nói ý ấy.
-Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, nếu chúng sanh biết quả của sự bố thí, chia sẻ như Ta
+biết, họ sẽ không ăn mà không cho, và cấu uế keo kiệt sẽ không chiếm
+lấy tâm họ. Dù chỉ là miếng cuối cùng, nắm cơm cuối cùng, họ cũng
+không ăn mà không chia sẻ — nếu có người nhận. Nhưng này các thầy,
+vì chúng sanh không biết quả của sự bố thí, chia sẻ như Ta biết, nên
+họ ăn mà không cho, và cấu uế keo kiệt chiếm lấy tâm họ." Thế Tôn đã
+nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Nếu chúng sanh biết, \
-như Đại Sĩ đã nói; \
-Quả của sự chia sẻ, \
-có quả lớn như thế nào. \
+như Đại Sĩ đã nói, \
+quả của sự chia sẻ \
+có quả lớn thế nào. \
 Sau khi trừ cấu uế keo kiệt, \
-với tâm trong sạch; \
-Họ sẽ bố thí đúng thời cho các bậc Thánh, \
+với tâm trong sạch, \
+họ sẽ bố thí đúng thời cho các bậc Thánh, \
 chỗ bố thí có quả lớn. \
 Cho nhiều người thức ăn, \
-cúng dường cho những vị xứng đáng nhận; \
-Từ bỏ thân người ở đây, \
+cúng dường những vị xứng đáng nhận; \
+từ bỏ thân người ở đây, \
 thí chủ đi đến cõi trời. \
 Họ sanh lên trời, \
 vui hưởng các dục ở đó; \
-Những người không keo kiệt \
+những người không keo kiệt \
 thọ hưởng quả của sự chia sẻ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 ==== 27. Kinh Tu Tập Từ (Mettābhāvanāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, phàm có những việc làm phước liên hệ đến tái
-sanh nào, tất cả những việc ấy không bằng một phần mười sáu của tâm giải
-thoát từ. Tâm giải thoát từ chiếm ưu thế hơn chúng, chiếu sáng, rực rỡ
-và chói lọi. Này các thầy, ví như phàm có ánh sáng của các vì sao nào,
-tất cả ánh sáng ấy không bằng một phần mười sáu của ánh trăng; ánh trăng
-chiếm ưu thế hơn chúng, chiếu sáng, rực rỡ và chói lọi. Cũng vậy, này các
-thầy, phàm có những việc làm phước liên hệ đến tái sanh nào, tất cả những
-việc ấy không bằng một phần mười sáu của tâm giải thoát từ; tâm giải
-thoát từ chiếm ưu thế hơn chúng, chiếu sáng, rực rỡ và chói lọi. Này các
-thầy, ví như vào tháng cuối mùa mưa, mùa thu, bầu trời trong, không mây,
-mặt trời lên cao giữa không trung, xua tan mọi bóng tối trên không, chiếu
-sáng, rực rỡ và chói lọi. Cũng vậy, này các thầy, phàm có những việc làm
-phước liên hệ đến tái sanh nào, tất cả những việc ấy không bằng một phần
-mười sáu của tâm giải thoát từ; tâm giải thoát từ chiếm ưu thế hơn chúng,
-chiếu sáng, rực rỡ và chói lọi. Này các thầy, ví như sao mai lúc rạng
-đông chiếu sáng, rực rỡ và chói lọi. Cũng vậy, này các thầy, phàm có
-những việc làm phước liên hệ đến tái sanh nào, tất cả những việc ấy không
-bằng một phần mười sáu của tâm giải thoát từ; tâm giải thoát từ chiếm ưu
-thế hơn chúng, chiếu sáng, rực rỡ và chói lọi." Thế Tôn đã nói ý ấy. Ở
-đây, điều ấy được nói như vầy: \
-"Ai tu tập từ vô lượng, có niệm; \
-Các kiết sử trở nên mỏng, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, phàm có những việc làm phước liên hệ đến tái sanh nào,
+tất cả những việc ấy không bằng một phần mười sáu của tâm giải thoát
+từ. Tâm giải thoát từ chiếm ưu thế hơn chúng, chiếu sáng, rực rỡ và
+chói lọi. Này các thầy, ví như phàm có ánh sáng của các vì sao nào,
+tất cả ánh sáng ấy không bằng một phần mười sáu của ánh trăng; ánh
+trăng chiếm ưu thế hơn chúng, chiếu sáng, rực rỡ và chói lọi. Cũng
+vậy, này các thầy, phàm có những việc làm phước liên hệ đến tái sanh
+nào, tất cả những việc ấy không bằng một phần mười sáu của tâm giải
+thoát từ; tâm giải thoát từ chiếm ưu thế hơn chúng, chiếu sáng, rực
+rỡ và chói lọi. Này các thầy, ví như vào tháng cuối mùa mưa, mùa
+thu, bầu trời trong, không mây, mặt trời lên cao giữa không trung,
+xua tan mọi bóng tối trên không, chiếu sáng, rực rỡ và chói lọi. Cũng
+vậy, này các thầy, phàm có những việc làm phước liên hệ đến tái sanh
+nào, tất cả những việc ấy không bằng một phần mười sáu của tâm giải
+thoát từ; tâm giải thoát từ chiếm ưu thế hơn chúng, chiếu sáng, rực
+rỡ và chói lọi. Này các thầy, ví như sao mai lúc rạng đông chiếu
+sáng, rực rỡ và chói lọi. Cũng vậy, này các thầy, phàm có những việc
+làm phước liên hệ đến tái sanh nào, tất cả những việc ấy không bằng
+một phần mười sáu của tâm giải thoát từ; tâm giải thoát từ chiếm ưu
+thế hơn chúng, chiếu sáng, rực rỡ và chói lọi." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
+"Ai tu tập từ vô lượng, có niệm, \
+các kiết sử trở nên mỏng \
 khi thấy sự đoạn tận chấp thủ. \
 Dù chỉ với một chúng sanh, không tâm độc ác, \
 rải từ — do đó trở thành thiện; \
-Với tất cả chúng sanh, tâm thương xót, \
+với tất cả chúng sanh, tâm thương xót, \
 bậc Thánh làm nên phước lớn. \
-Những vị vua ẩn sĩ, chinh phục đất đầy chúng sanh, \
+Những vị vua ẩn sĩ chinh phục đất đầy chúng sanh, \
 đi quanh tế lễ: \
 tế ngựa Assamedha, tế người Purisamedha, \
 Sammāpāsa, Vājapeyya, Niraggaḷa. \
 So với tâm từ đã khéo tu tập, \
-họ không bằng một phần mười sáu; \
+họ không bằng một phần mười sáu, \
 như tất cả các vì sao so với ánh trăng. \
 Ai không giết, không bảo giết, \
 không chinh phục, không khiến người chinh phục; \
-Người có phần từ đối với mọi loài, \
+người có phần từ đối với mọi loài, \
 không có thù hận với ai." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
@@ -602,12 +604,12 @@ không có thù hận với ai." \
 
 Tâm, từ, hai lợi ích, \
 đống, núi Vepulla; \
-Cố ý nói dối, bố thí, \
+cố ý nói dối, bố thí, \
 và tu tập từ.
 
 Bảy kinh này, \
 cộng hai mươi kinh trước; \
-Các kinh về một pháp, \
+các kinh về một pháp, \
 gồm hai mươi bảy.
 
 #strong[(Hết Chương Một Pháp.)]
@@ -616,219 +618,218 @@ gồm hai mươi bảy.
 
 === 28. Kinh Trú Khổ (Dukkhavihārasuttaṃ)
 
-#super[1] Hai pháp, không lược bỏ. Điều này được Thế Tôn thuyết, được bậc
-A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, Tỷ-kheo thành tựu
-hai pháp thì ngay trong đời này sống khổ, có tổn hại, có ưu não, có nhiệt
-não; khi thân hoại mạng chung, đọa xứ là điều phải chờ đợi. Hai pháp ấy
-là gì? Không hộ trì các căn, và không biết tiết độ trong ăn uống. Này
-các thầy, Tỷ-kheo thành tựu hai pháp này thì ngay trong đời này sống khổ,
-có tổn hại, có ưu não, có nhiệt não; khi thân hoại mạng chung, đọa xứ là
-điều phải chờ đợi." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
-vầy: \
+#super[1] Hai pháp, không lược bỏ. Điều này Thế Tôn đã nói, bậc A-la-hán
+đã nói; tôi nghe như vậy. "Này các thầy, Tỷ-kheo thành tựu hai pháp
+thì ngay trong đời này sống khổ, có tổn hại, có ưu não, có nhiệt não;
+khi thân hoại mạng chung, đọa xứ là điều phải chờ đợi. Hai pháp ấy là
+gì? Không hộ trì các căn, và không biết tiết độ trong ăn uống. Này
+các thầy, Tỷ-kheo thành tựu hai pháp này thì ngay trong đời này sống
+khổ, có tổn hại, có ưu não, có nhiệt não; khi thân hoại mạng chung,
+đọa xứ là điều phải chờ đợi." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
+được nói như vầy: \
 "Mắt, tai, mũi, \
-lưỡi, thân, và ý; \
-Những cửa ấy của Tỷ-kheo ở đây \
+lưỡi, thân, và ý — \
+những cửa ấy của Tỷ-kheo ở đây \
 không được hộ trì. \
 Không biết tiết độ trong ăn uống, \
 không chế ngự các căn; \
-Người ấy đạt khổ thân, khổ tâm — \
+người ấy đạt khổ thân, khổ tâm — \
 đạt khổ. \
 Với thân đang cháy, \
 với tâm đang cháy; \
-Ngày hay đêm, \
+ngày hay đêm, \
 kẻ như vậy sống khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 === 29. Kinh Trú Lạc (Sukhavihārasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Tỷ-kheo thành tựu hai pháp thì ngay trong
-đời này sống lạc, không tổn hại, không ưu não, không nhiệt não; khi thân
-hoại mạng chung, thiện thú là điều phải chờ đợi. Hai pháp ấy là gì? Hộ
-trì các căn, và biết tiết độ trong ăn uống. Này các thầy, Tỷ-kheo thành
-tựu hai pháp này thì ngay trong đời này sống lạc, không tổn hại, không
-ưu não, không nhiệt não; khi thân hoại mạng chung, thiện thú là điều phải
-chờ đợi." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Tỷ-kheo thành tựu hai pháp thì ngay trong đời này sống
+lạc, không tổn hại, không ưu não, không nhiệt não; khi thân hoại mạng
+chung, thiện thú là điều phải chờ đợi. Hai pháp ấy là gì? Hộ trì các
+căn, và biết tiết độ trong ăn uống. Này các thầy, Tỷ-kheo thành tựu
+hai pháp này thì ngay trong đời này sống lạc, không tổn hại, không
+ưu não, không nhiệt não; khi thân hoại mạng chung, thiện thú là điều
+phải chờ đợi." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Mắt, tai, mũi, \
-lưỡi, thân, và ý; \
-Những cửa ấy của Tỷ-kheo ở đây \
+lưỡi, thân, và ý — \
+những cửa ấy của Tỷ-kheo ở đây \
 được hộ trì khéo. \
 Biết tiết độ trong ăn uống, \
 chế ngự các căn; \
-Người ấy đạt lạc thân, lạc tâm — \
+người ấy đạt lạc thân, lạc tâm — \
 đạt lạc. \
 Với thân không cháy, \
 với tâm không cháy; \
-Ngày hay đêm, \
+ngày hay đêm, \
 kẻ như vậy sống lạc." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ hai.)]
 
 === 30. Kinh Đáng Ăn Năn (Tapanīyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có hai pháp đáng ăn năn. Hai pháp ấy là gì?
-Ở đây, này các thầy, có người không làm việc lành, không làm việc thiện,
-không làm chỗ nương cho người sợ hãi, đã làm việc ác, đã làm việc tàn
-bạo, đã làm việc tội lỗi. Người ấy ăn năn: 'Ta đã không làm việc lành',
-và cũng ăn năn: 'Ta đã làm việc ác'. Này các thầy, đó là hai pháp đáng
-ăn năn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Đã làm thân ác hạnh, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có hai pháp đáng ăn năn. Hai pháp ấy là gì? Ở đây, này
+các thầy, có người không làm việc lành, không làm việc thiện, không
+làm chỗ nương cho người sợ hãi, đã làm việc ác, đã làm việc tàn bạo,
+đã làm việc tội lỗi. Người ấy ăn năn: 'Ta đã không làm việc lành',
+và cũng ăn năn: 'Ta đã làm việc ác'. Này các thầy, đó là hai pháp
+đáng ăn năn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Đã làm thân ác hạnh \
 và các khẩu ác hạnh; \
-Đã làm ý ác hạnh, \
+đã làm ý ác hạnh \
 và những gì khác liên hệ đến sân. \
 Không làm nghiệp thiện, \
 đã làm nhiều bất thiện; \
-Khi thân hoại, kẻ vô trí \
+khi thân hoại, kẻ vô trí \
 sanh vào địa ngục." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ ba.)]
 
 === 31. Kinh Không Đáng Ăn Năn (Atapanīyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có hai pháp không đáng ăn năn. Hai pháp ấy
-là gì? Ở đây, này các thầy, có người đã làm việc lành, đã làm việc thiện,
-đã làm chỗ nương cho người sợ hãi, không làm việc ác, không làm việc tàn
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có hai pháp không đáng ăn năn. Hai pháp ấy là gì? Ở
+đây, này các thầy, có người đã làm việc lành, đã làm việc thiện, đã
+làm chỗ nương cho người sợ hãi, không làm việc ác, không làm việc tàn
 bạo, không làm việc tội lỗi. Người ấy không ăn năn: 'Ta đã làm việc
-lành', và cũng không ăn năn: 'Ta đã không làm việc ác'. Này các thầy, đó
-là hai pháp không đáng ăn năn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được
-nói như vầy: \
-"Đã bỏ thân ác hạnh, \
+lành', và cũng không ăn năn: 'Ta đã không làm việc ác'. Này các thầy,
+đó là hai pháp không đáng ăn năn." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
+"Đã bỏ thân ác hạnh \
 và các khẩu ác hạnh; \
-Đã bỏ ý ác hạnh, \
+đã bỏ ý ác hạnh \
 và những gì khác liên hệ đến sân. \
 Không làm nghiệp bất thiện, \
 đã làm nhiều thiện; \
-Khi thân hoại, người có trí \
+khi thân hoại, người có trí \
 sanh lên cõi trời." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tư.)]
 
 === 32. Kinh sīla (Paṭhamasīlasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, người thành tựu hai pháp thì như bị mang đi
-bỏ xuống, rơi vào địa ngục. Hai pháp ấy là gì? Giới ác và kiến ác. Này
-các thầy, người thành tựu hai pháp này thì như bị mang đi bỏ xuống, rơi
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, người thành tựu hai pháp thì như bị mang đi bỏ xuống,
+rơi vào địa ngục. Hai pháp ấy là gì? Giới ác và kiến ác. Này các
+thầy, người thành tựu hai pháp này thì như bị mang đi bỏ xuống, rơi
 vào địa ngục." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Với giới ác, \
-và với kiến ác; \
-Người thành tựu hai pháp ấy, \
+"Với giới ác \
+và với kiến ác, \
+người thành tựu hai pháp ấy, \
 khi thân hoại, kẻ vô trí \
 sanh vào địa ngục." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ năm.)]
 
 === 33. Kinh sīla (Dutiyasīlasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, người thành tựu hai pháp thì như bị mang đi
-bỏ xuống, sanh lên cõi trời. Hai pháp ấy là gì? Giới lành và kiến lành.
-Này các thầy, người thành tựu hai pháp này thì như bị mang đi bỏ xuống,
-sanh lên cõi trời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
-vầy: \
-"Với giới lành, \
-và với kiến lành; \
-Người thành tựu hai pháp ấy, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, người thành tựu hai pháp thì như bị mang đi bỏ xuống,
+sanh lên cõi trời. Hai pháp ấy là gì? Giới lành và kiến lành. Này các
+thầy, người thành tựu hai pháp này thì như bị mang đi bỏ xuống, sanh
+lên cõi trời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Với giới lành \
+và với kiến lành, \
+người thành tựu hai pháp ấy, \
 khi thân hoại, người có trí \
 sanh lên cõi trời." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 === 34. Kinh Nhiệt Tâm (Ātāpīsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Tỷ-kheo không nhiệt tâm, không sợ tội, không
-thể đạt chánh giác, không thể đạt Niết-bàn, không thể chứng đắc vô thượng
-an ổn khỏi các ách. Còn Tỷ-kheo nhiệt tâm, sợ tội, thì có thể đạt chánh
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Tỷ-kheo không nhiệt tâm, không sợ tội, không thể đạt
+chánh giác, không thể đạt Niết-bàn, không thể chứng đắc vô thượng an
+ổn khỏi các ách. Còn Tỷ-kheo nhiệt tâm, sợ tội, thì có thể đạt chánh
 giác, có thể đạt Niết-bàn, có thể chứng đắc vô thượng an ổn khỏi các
 ách." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Không nhiệt tâm, không sợ tội, \
 biếng nhác, tinh tấn hạ liệt; \
-Nhiều hôn trầm thụy miên, \
+nhiều hôn trầm thụy miên, \
 không hổ thẹn, không tôn trọng; \
 Tỷ-kheo như vậy không thể \
 chạm đến chánh giác tối thượng. \
 Còn ai có niệm, thông tuệ, thiền tư, \
 nhiệt tâm, sợ tội, không phóng dật; \
-Cắt đứt kiết sử sanh già, \
+cắt đứt kiết sử sanh già, \
 ngay ở đây chạm đến chánh giác vô thượng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
 === 35. Kinh nakuhana (Paṭhamanakuhanasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Phạm hạnh này không được sống vì mục đích
-lừa dối người, không vì mục đích nịnh hót người, không vì mục đích lợi
-lộc, cung kính, danh tiếng, không vì 'mong người ta biết ta như vậy'. Mà
-này các thầy, Phạm hạnh này được sống vì mục đích phòng hộ và vì mục đích
-đoạn trừ." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Phạm hạnh này không được sống vì mục đích lừa dối
+người, không vì mục đích nịnh hót người, không vì mục đích lợi lộc,
+cung kính, danh tiếng, không vì 'mong người ta biết ta như vậy'. Mà
+này các thầy, Phạm hạnh này được sống vì mục đích phòng hộ và vì mục
+đích đoạn trừ." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Vì mục đích phòng hộ, vì mục đích đoạn trừ, \
-Phạm hạnh không do nghe truyền; \
+Phạm hạnh không do nghe truyền, \
 Thế Tôn đã thuyết, \
 đưa đến nhập Niết-bàn. \
-Đây là con đường được các bậc đại nhân, \
+Đây là con đường các bậc đại nhân, \
 các Đại Sĩ đi theo; \
-Những ai thực hành con đường ấy, \
-như Phật đã thuyết; \
-Sẽ chấm dứt khổ, \
+những ai thực hành con đường ấy \
+như Phật đã thuyết \
+sẽ chấm dứt khổ, \
 những người làm theo lời dạy của Đạo Sư." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tám.)]
 
 === 36. Kinh nakuhana (Dutiyanakuhanasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Phạm hạnh này không được sống vì mục đích
-lừa dối người, không vì mục đích nịnh hót người, không vì mục đích lợi
-lộc, cung kính, danh tiếng, không vì 'mong người ta biết ta như vậy'. Mà
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Phạm hạnh này không được sống vì mục đích lừa dối
+người, không vì mục đích nịnh hót người, không vì mục đích lợi lộc,
+cung kính, danh tiếng, không vì 'mong người ta biết ta như vậy'. Mà
 này các thầy, Phạm hạnh này được sống vì mục đích thắng tri và vì mục
 đích liễu tri." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Vì mục đích thắng tri, vì mục đích liễu tri, \
-Phạm hạnh không do nghe truyền; \
+Phạm hạnh không do nghe truyền, \
 Thế Tôn đã thuyết, \
 đưa đến nhập Niết-bàn. \
-Đây là con đường được các bậc đại nhân, \
+Đây là con đường các bậc đại nhân, \
 các Đại Sĩ đi theo; \
-Những ai thực hành con đường ấy, \
-như Phật đã thuyết; \
-Sẽ chấm dứt khổ, \
+những ai thực hành con đường ấy \
+như Phật đã thuyết \
+sẽ chấm dứt khổ, \
 những người làm theo lời dạy của Đạo Sư." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ chín.)]
 
 === 37. Kinh Hỷ (Somanassasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Tỷ-kheo thành tựu hai pháp thì ngay trong
-đời này sống nhiều lạc và hỷ, và nguồn tinh cần của vị ấy đã được khởi
-sự để đoạn tận các lậu hoặc. Hai pháp ấy là gì? Sự kích khởi tâm cấp
-thiết đối với những sự việc đáng kích khởi, và sự tinh cần như lý của
-người đã được kích khởi. Này các thầy, Tỷ-kheo thành tựu hai pháp này thì
-ngay trong đời này sống nhiều lạc và hỷ, và nguồn tinh cần của vị ấy đã
-được khởi sự để đoạn tận các lậu hoặc." Thế Tôn đã nói ý ấy. Ở đây, điều
-ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Tỷ-kheo thành tựu hai pháp thì ngay trong đời này sống
+nhiều lạc và hỷ, và nguồn tinh cần của vị ấy đã được khởi sự để đoạn
+tận các lậu hoặc. Hai pháp ấy là gì? Sự kích khởi tâm cấp thiết đối
+với những sự việc đáng kích khởi, và sự tinh cần như lý của người đã
+được kích khởi. Này các thầy, Tỷ-kheo thành tựu hai pháp này thì ngay
+trong đời này sống nhiều lạc và hỷ, và nguồn tinh cần của vị ấy đã
+được khởi sự để đoạn tận các lậu hoặc." Thế Tôn đã nói ý ấy. Ở đây,
+điều ấy được nói như vầy: \
 "Đối với những sự việc đáng kích khởi, \
 bậc trí hãy kích khởi tâm; \
 Tỷ-kheo nhiệt tâm, thông tuệ, \
 quán sát bằng tuệ. \
 Sống như vậy, nhiệt tâm, \
 hạnh an tịnh, không dao động; \
-Chuyên tâm chỉ tịnh, \
+chuyên tâm chỉ tịnh, \
 đạt đến sự đoạn tận khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười.)]
 
@@ -838,62 +839,74 @@ Chuyên tâm chỉ tịnh, \
 
 Hai Tỷ-kheo, đáng ăn năn, \
 không đáng ăn năn với các lợi ích đời sau; \
-Nhiệt tâm, hai không lừa dối, \
+nhiệt tâm, hai không lừa dối, \
 với hỷ — ấy là mười.
 
 === 38. Kinh Tầm (Vitakkasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đối với Như Lai, bậc A-la-hán, Chánh Đẳng
-Giác, hai tầm thường xuyên khởi lên — tầm an ổn và tầm viễn ly. Này các
-thầy, Như Lai ưa không não hại, thích không não hại. Với Như Lai ưa không
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, đối với Như Lai, bậc A-la-hán, Chánh Đẳng Giác, hai
+tầm thường xuyên khởi lên — tầm an ổn và tầm viễn ly. Này các thầy,
+Như Lai ưa không não hại, thích không não hại. Với Như Lai ưa không
 não hại, thích không não hại, tầm này thường xuyên khởi lên: 'Với oai
-nghi này, Ta không hại gì, loài run sợ hay loài đứng yên.' Này các thầy,
-Như Lai ưa viễn ly, thích viễn ly. Với Như Lai ưa viễn ly, thích viễn ly,
-tầm này thường xuyên khởi lên: 'Điều bất thiện đã được đoạn trừ.' Vì vậy,
-này các thầy, các thầy cũng hãy sống ưa không não hại, thích không não
-hại. Khi các thầy sống ưa không não hại, thích không não hại, tầm này sẽ
-thường xuyên khởi lên: 'Với oai nghi này, chúng ta không hại gì, loài run
-sợ hay loài đứng yên.' Này các thầy, hãy sống ưa viễn ly, thích viễn ly.
-Khi các thầy sống ưa viễn ly, thích viễn ly, tầm này sẽ thường xuyên khởi
-lên: 'Điều gì là bất thiện? Điều gì chưa được đoạn trừ? Chúng ta đoạn trừ
-điều gì?'" Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+nghi này, Ta không hại gì, loài run sợ hay loài đứng yên.' Này các
+thầy, Như Lai ưa viễn ly, thích viễn ly. Với Như Lai ưa viễn ly,
+thích viễn ly, tầm này thường xuyên khởi lên: 'Điều bất thiện đã
+được đoạn trừ.' Vì vậy, này các thầy, các thầy cũng hãy sống ưa
+không não hại, thích không não hại. Khi các thầy sống ưa không não
+hại, thích không não hại, tầm này sẽ thường xuyên khởi lên: 'Với oai
+nghi này, chúng ta không hại gì, loài run sợ hay loài đứng yên.' Này
+các thầy, hãy sống ưa viễn ly, thích viễn ly. Khi các thầy sống ưa
+viễn ly, thích viễn ly, tầm này sẽ thường xuyên khởi lên: 'Điều gì
+là bất thiện? Điều gì chưa được đoạn trừ? Chúng ta đoạn trừ điều
+gì?'" Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Đối với Như Lai, Đức Phật, bậc gánh nổi điều khó gánh, \
 hai tầm khởi lên nơi Ngài; \
-Tầm an ổn được nêu lên trước, \
+tầm an ổn được nêu lên trước, \
 rồi viễn ly được chỉ ra thứ hai. \
 Bậc xua tan bóng tối, đã đến bờ kia, Đại Sĩ, \
 đã đạt đích, tự tại, không lậu hoặc; \
-Đã nhả độc, giải thoát nơi sự diệt tận ái, \
+đã nhả độc, giải thoát nơi sự diệt tận ái, \
 bậc Mâu-ni mang thân cuối cùng; \
 Ta gọi là người đã bỏ Ma, đã vượt qua già. \
 Như người đứng trên đỉnh núi đá, \
 nhìn chúng sanh khắp xung quanh; \
-Cũng vậy, bậc Thiện tuệ, mắt thấy khắp, \
+cũng vậy, bậc Thiện tuệ, mắt thấy khắp, \
 lên lâu đài làm bằng Pháp; \
-Không sầu, nhìn chúng sanh đã rơi vào sầu, \
+không sầu, nhìn chúng sanh đã rơi vào sầu, \
 bị sanh già chi phối." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 === 39. Kinh Thuyết Pháp (Desanāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, có hai cách thuyết pháp theo thứ tự. Những gì là hai? 'Hãy thấy điều ác là ác' — đây là cách thuyết pháp thứ nhất. 'Thấy điều ác là ác rồi, hãy nhàm chán ở đó, hãy ly tham, hãy giải thoát' — đây là cách thuyết pháp thứ hai. Này các thầy, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, có hai cách thuyết pháp theo thứ tự như vậy." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, có hai cách
+thuyết pháp theo thứ tự. Những gì là hai? 'Hãy thấy điều ác là ác' —
+đây là cách thuyết pháp thứ nhất. 'Thấy điều ác là ác rồi, hãy nhàm
+chán ở đó, hãy ly tham, hãy giải thoát' — đây là cách thuyết pháp
+thứ hai. Này các thầy, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, có
+hai cách thuyết pháp theo thứ tự như vậy." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
 "Hãy nhìn lời thuyết theo thứ tự \
 của Như Lai, bậc Giác Ngộ, \
 bậc thương tưởng tất cả chúng sanh; \
 hai pháp đã được tuyên thuyết. \
-Hãy thấy điều ác này, \
+Hãy thấy điều ác này \
 và hãy ly tham ở đó; \
 từ đó, với tâm đã ly tham, \
 các thầy sẽ làm chấm dứt khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 40. Kinh Minh (Vijjāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, vô minh đi trước cho sự thành tựu các pháp bất thiện, theo sau là vô tàm, vô quý. Còn minh, này các thầy, đi trước cho sự thành tựu các pháp thiện, theo sau là tàm quý." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Phàm có đường dữ nào, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, vô minh đi trước cho sự thành tựu các pháp bất thiện,
+theo sau là vô tàm, vô quý. Còn minh, này các thầy, đi trước cho sự
+thành tựu các pháp thiện, theo sau là tàm quý." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
+"Phàm có đường dữ nào \
 ở đời này và đời sau, \
 tất cả đều lấy vô minh làm gốc, \
 do chồng chất dục vọng và tham. \
@@ -905,28 +918,43 @@ Vì vậy, Tỷ-kheo hãy ly tham \
 đối với dục vọng, tham và vô minh; \
 khởi lên minh, hãy từ bỏ \
 tất cả các đường dữ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 41. Kinh Thiếu Tuệ (Paññāparihīnasuttaṃ)
-
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, những chúng sanh nào thiếu Thánh tuệ thì bị tổn thất nặng. Họ sống khổ ngay trong hiện tại, với tổn hại, với ưu não, với nhiệt não; sau khi thân hoại mạng chung, đường dữ là điều phải chờ đợi. Này các thầy, những chúng sanh nào không thiếu Thánh tuệ thì không bị tổn thất. Họ sống an lạc ngay trong hiện tại, không tổn hại, không ưu não, không nhiệt não; sau khi thân hoại mạng chung, đường lành là điều phải chờ đợi." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, chúng sanh nào thiếu Thánh tuệ thì tổn thất nặng. Họ
+sống khổ ngay trong hiện tại, có tổn hại, có ưu não, có nhiệt não; thân
+hoại mạng chung rồi, đường dữ đang chờ họ. Này các thầy, chúng sanh nào
+không thiếu Thánh tuệ thì không tổn thất. Họ sống an lạc ngay trong
+hiện tại, không tổn hại, không ưu não, không nhiệt não; thân hoại mạng
+chung rồi, đường lành đang chờ họ." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
+được nói như vầy: \
 "Hãy nhìn thế giới cùng chư thiên, \
-do sự thiếu tuệ, \
+vì thiếu tuệ \
 bám chặt vào danh sắc, \
 mà cho rằng: 'Đây là sự thật.' \
 Tuệ mới là tối thắng ở đời, \
-tuệ dẫn đến sự xuyên thấu; \
-nhờ tuệ ấy, người ta như thật biết rõ \
+tuệ đưa đến xuyên thấu; \
+nhờ tuệ ấy người ta như thật biết rõ \
 sự đoạn tận sanh và hữu. \
 Chư thiên và loài người \
-ao ước những bậc Chánh Giác, có niệm, \
-những vị tuệ hoan hỷ, \
+mong ước các bậc Chánh Giác, có niệm, \
+các vị hoan hỷ trong tuệ, \
 mang thân xác cuối cùng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 42. Kinh Pháp Trắng (Sukkadhammasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có hai pháp trắng này hộ trì thế gian. Những gì là hai? Tàm và quý. Này các thầy, nếu hai pháp trắng này không hộ trì thế gian, thì ở đây người ta sẽ không nhận ra: 'Đây là mẹ', hay 'Đây là dì', hay 'Đây là mợ', hay 'Đây là vợ thầy', hay 'Đây là vợ các bậc tôn trưởng'. Thế gian sẽ rơi vào hỗn loạn như dê, cừu, gà, heo, chó và chó rừng. Nhưng này các thầy, vì hai pháp trắng này hộ trì thế gian, nên người ta nhận ra: 'Đây là mẹ', hay 'Đây là dì', hay 'Đây là mợ', hay 'Đây là vợ thầy', hay 'Đây là vợ các bậc tôn trưởng'." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có hai pháp trắng này hộ trì thế gian. Hai pháp nào? Tàm
+và quý. Này các thầy, nếu hai pháp trắng này không hộ trì thế gian, thì
+ở đây người ta sẽ không còn nhận ra: 'Đây là mẹ', hay 'Đây là dì', hay
+'Đây là mợ', hay 'Đây là vợ thầy', hay 'Đây là vợ các bậc tôn trưởng'.
+Thế gian sẽ rơi vào hỗn loạn như dê, cừu, gà, heo, chó và chó rừng.
+Nhưng này các thầy, vì hai pháp trắng này hộ trì thế gian, nên người ta
+nhận ra: 'Đây là mẹ', hay 'Đây là dì', hay 'Đây là mợ', hay 'Đây là vợ
+thầy', hay 'Đây là vợ các bậc tôn trưởng'." Thế Tôn đã nói ý ấy. Ở đây,
+điều ấy được nói như vầy: \
 "Những ai không có tàm quý \
 vào bất cứ lúc nào, \
 họ đã rời gốc trắng, \
@@ -935,11 +963,18 @@ Những ai tàm quý \
 luôn được khéo an trú, \
 họ tăng trưởng Phạm hạnh, \
 tịch tịnh, đoạn tận tái sanh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 43. Kinh Không Sanh (Ajātasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có cái không sanh, không hiện thành, không làm ra, không tạo tác. Này các thầy, nếu không có cái không sanh, không hiện thành, không làm ra, không tạo tác ấy, thì ở đây không thể chỉ ra sự xuất ly cho cái đã sanh, đã hiện thành, đã làm ra, đã tạo tác. Nhưng này các thầy, vì có cái không sanh, không hiện thành, không làm ra, không tạo tác, nên sự xuất ly cho cái đã sanh, đã hiện thành, đã làm ra, đã tạo tác được chỉ ra." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có cái không sanh, không hiện thành, không làm ra, không
+tạo tác. Này các thầy, nếu không có cái không sanh, không hiện thành,
+không làm ra, không tạo tác ấy, thì ở đây không thể chỉ ra sự xuất ly
+cho cái đã sanh, đã hiện thành, đã làm ra, đã tạo tác. Nhưng này các
+thầy, vì có cái không sanh, không hiện thành, không làm ra, không tạo
+tác, nên sự xuất ly cho cái đã sanh, đã hiện thành, đã làm ra, đã tạo
+tác được chỉ ra." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Cái đã sanh, đã hiện thành, đã khởi lên, \
 đã làm ra, hữu vi, không bền; \
 nối kết già chết, \
@@ -952,15 +987,30 @@ Cái không sanh, không khởi lên, \
 không sầu, không bụi, là đạo lộ; \
 sự diệt các pháp khổ, \
 sự an chỉ các hành — ấy là an lạc." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 44. Kinh Giới Tánh Niết-bàn (Nibbānadhātusuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có hai Niết-bàn giới này. Những gì là hai? Niết-bàn giới hữu dư y, và Niết-bàn giới vô dư y.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có hai Niết-bàn giới này. Hai giới nào? Niết-bàn giới
+hữu dư y, và Niết-bàn giới vô dư y.
 
-Này các thầy, thế nào là Niết-bàn giới hữu dư y? Ở đây, này các thầy, Tỷ-kheo là A-la-hán, đã đoạn tận các lậu hoặc, đã sống xong, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích của mình, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh trí. Năm căn của vị ấy vẫn còn. Vì chúng chưa bị hủy hoại, vị ấy cảm nhận khả ái và không khả ái, cảm thọ lạc và khổ. Vị ấy đã đoạn tận tham, đoạn tận sân, đoạn tận si — này các thầy, đây gọi là Niết-bàn giới hữu dư y.
+Này các thầy, thế nào là Niết-bàn giới hữu dư y? Ở đây, này các thầy,
+Tỷ-kheo là A-la-hán, đã đoạn tận các lậu hoặc, đã sống xong, đã làm
+những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích của
+mình, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh trí. Năm căn của
+vị ấy vẫn còn. Vì chúng chưa bị hủy hoại, vị ấy cảm nhận khả ái và
+không khả ái, cảm thọ lạc và khổ. Vị ấy đã đoạn tận tham, đoạn tận sân,
+đoạn tận si — này các thầy, đây gọi là Niết-bàn giới hữu dư y.
 
-Này các thầy, thế nào là Niết-bàn giới vô dư y? Ở đây, này các thầy, Tỷ-kheo là A-la-hán, đã đoạn tận các lậu hoặc, đã sống xong, đã làm những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích của mình, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh trí. Này các thầy, ngay ở đây, tất cả những gì được cảm thọ, không còn được ưa thích, sẽ trở nên mát lạnh. Này các thầy, đây gọi là Niết-bàn giới vô dư y. Này các thầy, đó là hai Niết-bàn giới." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, thế nào là Niết-bàn giới vô dư y? Ở đây, này các thầy,
+Tỷ-kheo là A-la-hán, đã đoạn tận các lậu hoặc, đã sống xong, đã làm
+những việc cần làm, đã đặt gánh nặng xuống, đã đạt được mục đích của
+mình, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh trí. Này các
+thầy, ngay ở đây, tất cả những gì được cảm thọ, không còn được ưa
+thích, sẽ trở nên mát lạnh. Này các thầy, đây gọi là Niết-bàn giới vô
+dư y. Này các thầy, đó là hai Niết-bàn giới." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
 "Hai giới này được bậc Hữu nhãn tuyên thuyết, \
 Niết-bàn giới, bởi bậc Như Thị không nương tựa; \
 một giới thuộc về hiện tại, \
@@ -971,11 +1021,18 @@ Những ai đã biết rõ đạo lộ vô vi ấy, \
 tâm giải thoát, đoạn tận dẫn hữu; \
 họ chứng đạt tinh túy của Pháp, ưa thích sự đoạn tận; \
 những bậc Như Thị ấy đã từ bỏ tất cả các hữu." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 45. Kinh Ẩn Cư (Paṭisallānasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, hãy sống ưa thích ẩn cư, vui thích ẩn cư, chuyên chú nội tâm chỉ tịnh, không bỏ thiền, đầy đủ quán, làm tăng trưởng các ngôi nhà trống. Này các thầy, với những vị sống ưa thích ẩn cư, vui thích ẩn cư, chuyên chú nội tâm chỉ tịnh, không bỏ thiền, đầy đủ quán, làm tăng trưởng các ngôi nhà trống, một trong hai quả là điều phải chờ đợi: thắng trí ngay trong hiện tại, hoặc nếu còn dư y thì quả Bất lai." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy sống ưa thích ẩn cư, vui thích ẩn cư, chuyên chú nội
+tâm chỉ tịnh, không bỏ thiền, đầy đủ quán, làm tăng trưởng các ngôi nhà
+trống. Này các thầy, với những vị sống ưa thích ẩn cư, vui thích ẩn cư,
+chuyên chú nội tâm chỉ tịnh, không bỏ thiền, đầy đủ quán, làm tăng
+trưởng các ngôi nhà trống, một trong hai quả là điều phải chờ đợi:
+thắng trí ngay trong hiện tại, hoặc nếu còn dư y thì quả Bất lai." Thế
+Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Những vị tâm tịch tịnh, thông tuệ, \
 có niệm, tu thiền; \
 khéo quán pháp, \
@@ -984,11 +1041,18 @@ không mong cầu các dục. \
 thấy sợ hãi trong phóng dật; \
 không thể bị thoái thất, \
 đang ở ngay gần Niết-bàn." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 46. Kinh Lợi Ích Học Giới (Sikkhānisaṃsasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, hãy sống lấy học giới làm lợi ích, lấy tuệ làm tối thượng, lấy giải thoát làm tinh túy, lấy niệm làm chủ đạo. Này các thầy, với những vị sống lấy học giới làm lợi ích, lấy tuệ làm tối thượng, lấy giải thoát làm tinh túy, lấy niệm làm chủ đạo, một trong hai quả là điều phải chờ đợi: thắng trí ngay trong hiện tại, hoặc nếu còn dư y thì quả Bất lai." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy sống lấy học giới làm lợi ích, lấy tuệ làm tối
+thượng, lấy giải thoát làm tinh túy, lấy niệm làm chủ đạo. Này các
+thầy, với những vị sống lấy học giới làm lợi ích, lấy tuệ làm tối
+thượng, lấy giải thoát làm tinh túy, lấy niệm làm chủ đạo, một trong
+hai quả là điều phải chờ đợi: thắng trí ngay trong hiện tại, hoặc nếu
+còn dư y thì quả Bất lai." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
+như vầy: \
 "Vị học giới viên mãn, pháp không bị bỏ rơi, \
 tuệ tối thượng, thấy đích đoạn tận sanh; \
 bậc ẩn sĩ ấy mang thân cuối cùng, \
@@ -997,11 +1061,18 @@ Vì vậy, luôn ưa thiền, định tĩnh, \
 nhiệt tâm, thấy đích đoạn tận sanh; \
 này các Tỷ-kheo, hãy thắng Ma cùng quân ma, \
 hãy trở thành người đã vượt sang bờ kia của sanh tử." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 47. Kinh Tỉnh Thức (Jāgariyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, Tỷ-kheo hãy sống tỉnh thức, có niệm, tỉnh giác, định tĩnh, hoan hỷ, trong sáng, và kịp thời quán các pháp thiện ở đó. Này các thầy, với Tỷ-kheo sống tỉnh thức, có niệm, tỉnh giác, định tĩnh, hoan hỷ, trong sáng, kịp thời quán các pháp thiện ở đó, một trong hai quả là điều phải chờ đợi: thắng trí ngay trong hiện tại, hoặc nếu còn dư y thì quả Bất lai." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Tỷ-kheo hãy sống tỉnh thức, có niệm, tỉnh giác, định
+tĩnh, hoan hỷ, trong sáng, và kịp thời quán các pháp thiện ở đó. Này
+các thầy, với Tỷ-kheo sống tỉnh thức, có niệm, tỉnh giác, định tĩnh,
+hoan hỷ, trong sáng, kịp thời quán các pháp thiện ở đó, một trong hai
+quả là điều phải chờ đợi: thắng trí ngay trong hiện tại, hoặc nếu còn
+dư y thì quả Bất lai." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
 "Hỡi những người đang thức, hãy nghe điều này; \
 những ai đang ngủ, hãy thức dậy; \
 thức thì hơn ngủ, \
@@ -1014,11 +1085,18 @@ Vì vậy hãy thân cận sự tỉnh thức, \
 Tỷ-kheo nhiệt tâm, thông tuệ, chứng thiền; \
 cắt đứt kiết sử của sanh già, \
 ngay ở đây chạm đến giác ngộ vô thượng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 48. Kinh Đọa Xứ (Āpāyikasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có hai hạng người này thuộc về đọa xứ, thuộc về địa ngục, nếu không từ bỏ điều ấy. Những gì là hai? Người không Phạm hạnh mà xưng là Phạm hạnh; và người vu khống, không có căn cứ, bằng tội không Phạm hạnh, đối với người đang hành Phạm hạnh viên mãn, thanh tịnh. Này các thầy, đó là hai hạng người thuộc về đọa xứ, thuộc về địa ngục, nếu không từ bỏ điều ấy." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có hai hạng người này thuộc về đọa xứ, thuộc về địa
+ngục, nếu không từ bỏ điều ấy. Hai hạng nào? Người không Phạm hạnh mà
+xưng là Phạm hạnh; và người vu khống, không có căn cứ, bằng tội không
+Phạm hạnh, đối với người đang hành Phạm hạnh viên mãn, thanh tịnh. Này
+các thầy, đó là hai hạng người thuộc về đọa xứ, thuộc về địa ngục, nếu
+không từ bỏ điều ấy." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
 "Người nói điều không thật đi đến địa ngục, \
 cũng như người làm rồi nói 'Tôi không làm'; \
 cả hai, sau khi chết, trở nên ngang nhau, \
@@ -1031,14 +1109,30 @@ Thà nuốt hòn sắt, \
 nóng đỏ như ngọn lửa; \
 còn hơn kẻ phá giới, không tự chế, \
 ăn đồ khất thực của quốc độ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 49. Kinh Tà Kiến (Diṭṭhigatasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, bị hai tà kiến chiếm ngự, một số chư thiên và loài người bị tụt lại, một số chạy quá trớn; còn những vị có mắt thì thấy.
-Này các thầy, thế nào là một số bị tụt lại? Này các thầy, chư thiên và loài người ưa hữu, thích hữu, vui thích hữu; khi pháp được thuyết để diệt hữu, tâm họ không nhảy tới, không tịnh tín, không an trú, không quyết định. Như vậy, này các thầy, một số bị tụt lại.
-Này các thầy, thế nào là một số chạy quá trớn? Có một số người, chính vì hữu mà khổ sở, xấu hổ, ghê tởm, nên vui thích phi hữu: 'Thưa ngài, khi thân hoại mạng chung, tự ngã này bị đoạn diệt, bị hủy hoại, không còn sau khi chết; cái ấy là tịch tịnh, cái ấy là vi diệu, cái ấy là như thật.' Như vậy, này các thầy, một số chạy quá trớn.
-Này các thầy, thế nào là những vị có mắt thì thấy? Ở đây, Tỷ-kheo thấy cái đã hiện hữu đúng là cái đã hiện hữu; thấy cái đã hiện hữu đúng là cái đã hiện hữu rồi, vị ấy thực hành để nhàm chán, ly tham, diệt tận đối với cái đã hiện hữu. Như vậy, này các thầy, những vị có mắt thì thấy." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, bị hai tà kiến chiếm ngự, một số chư thiên và loài người
+bị tụt lại, một số chạy quá trớn; còn những vị có mắt thì thấy.
+
+Này các thầy, thế nào là một số bị tụt lại? Này các thầy, chư thiên và
+loài người ưa hữu, thích hữu, vui thích hữu; khi pháp được thuyết để
+diệt hữu, tâm họ không nhảy tới, không tịnh tín, không an trú, không
+quyết định. Như vậy, này các thầy, một số bị tụt lại.
+
+Này các thầy, thế nào là một số chạy quá trớn? Có một số người, chính
+vì hữu mà khổ sở, xấu hổ, ghê tởm, nên vui thích phi hữu: 'Thưa ngài,
+khi thân hoại mạng chung, tự ngã này bị đoạn diệt, bị hủy hoại, không
+còn sau khi chết; cái ấy là tịch tịnh, cái ấy là vi diệu, cái ấy là như
+thật.' Như vậy, này các thầy, một số chạy quá trớn.
+
+Này các thầy, thế nào là những vị có mắt thì thấy? Ở đây, Tỷ-kheo thấy
+cái đã hiện hữu đúng là cái đã hiện hữu; thấy cái đã hiện hữu đúng là
+cái đã hiện hữu rồi, vị ấy thực hành để nhàm chán, ly tham, diệt tận
+đối với cái đã hiện hữu. Như vậy, này các thầy, những vị có mắt thì
+thấy." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Những ai thấy cái đã hiện hữu đúng là cái đã hiện hữu, \
 và sự vượt qua cái đã hiện hữu; \
 họ giải thoát trong cái như thật, \
@@ -1047,7 +1141,7 @@ Vị ấy thật sự liễu tri cái đã hiện hữu, \
 ly ái đối với hữu và phi hữu; \
 do sự không còn của cái đã hiện hữu, \
 Tỷ-kheo không đi đến tái sanh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Hết Phẩm Thứ Hai.)]
 
@@ -1071,16 +1165,22 @@ hai mươi hai đã được tuyên thuyết.
 
 === 50. Kinh Gốc (Mūlasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba bất thiện căn này. Những gì là ba? Tham là bất thiện căn, sân là bất thiện căn, si là bất thiện căn — này các thầy, đó là ba bất thiện căn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba bất thiện căn này. Ba căn nào? Tham là bất thiện
+căn, sân là bất thiện căn, si là bất thiện căn — này các thầy, đó là ba
+bất thiện căn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Tham, sân và si \
 hại người có tâm ác; \
 chúng sanh ra từ chính mình, \
 như trái chín hại cây lõi vỏ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 51. Kinh Giới (Dhātusuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba giới này. Những gì là ba? Sắc giới, vô sắc giới, diệt giới — này các thầy, đó là ba giới." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba giới này. Ba giới nào? Sắc giới, vô sắc giới, diệt
+giới — này các thầy, đó là ba giới." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
 "Liễu tri sắc giới, \
 không an trú nơi các vô sắc; \
 những ai giải thoát trong diệt, \
@@ -1090,11 +1190,14 @@ không còn y; \
 chứng ngộ sự từ bỏ các y, không còn lậu hoặc; \
 bậc Chánh Đẳng Giác thuyết \
 đạo lộ không sầu, không bụi." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 52. Kinh vedanā (Paṭhamavedanāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba thọ này. Những gì là ba? Lạc thọ, khổ thọ, bất khổ bất lạc thọ — này các thầy, đó là ba thọ." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba thọ này. Ba thọ nào? Lạc thọ, khổ thọ, bất khổ bất
+lạc thọ — này các thầy, đó là ba thọ." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
 "Định tĩnh, tỉnh giác, \
 có niệm, đệ tử của Phật; \
 biết rõ các thọ, \
@@ -1103,11 +1206,18 @@ Cũng biết chỗ chúng diệt, \
 và đạo dẫn đến sự đoạn tận; \
 do đoạn tận các thọ, Tỷ-kheo \
 không còn đói khát, đã hoàn toàn tịch diệt." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 53. Kinh vedanā (Dutiyavedanāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba thọ này. Những gì là ba? Lạc thọ, khổ thọ, bất khổ bất lạc thọ. Này các thầy, lạc thọ cần được nhìn là khổ; khổ thọ cần được nhìn là mũi tên; bất khổ bất lạc thọ cần được nhìn là vô thường. Này các thầy, khi nào Tỷ-kheo đã nhìn lạc thọ là khổ, khổ thọ là mũi tên, bất khổ bất lạc thọ là vô thường, vị ấy được gọi là 'Tỷ-kheo Thánh, thấy đúng, đã cắt đứt ái, đã tháo kiết sử, do chánh ngộ mạn, đã làm chấm dứt khổ'." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba thọ này. Ba thọ nào? Lạc thọ, khổ thọ, bất khổ bất
+lạc thọ. Này các thầy, lạc thọ cần được nhìn là khổ; khổ thọ cần được
+nhìn là mũi tên; bất khổ bất lạc thọ cần được nhìn là vô thường. Này
+các thầy, khi nào Tỷ-kheo đã nhìn lạc thọ là khổ, khổ thọ là mũi tên,
+bất khổ bất lạc thọ là vô thường, vị ấy được gọi là 'Tỷ-kheo Thánh,
+thấy đúng, đã cắt đứt ái, đã tháo kiết sử, do chánh ngộ mạn, đã làm
+chấm dứt khổ'." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Ai đã thấy lạc là khổ, \
 đã thấy khổ là mũi tên; \
 đã thấy bất khổ bất lạc, vốn tịch tịnh, \
@@ -1116,11 +1226,14 @@ Vị ấy thật sự là Tỷ-kheo thấy đúng, \
 vì giải thoát ở đó; \
 đã viên mãn thắng trí, tịch tịnh, \
 thật sự là ẩn sĩ đã vượt các phối hợp." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 54. Kinh esanā (Paṭhamaesanāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba tầm cầu này. Những gì là ba? Tầm cầu dục, tầm cầu hữu, tầm cầu Phạm hạnh — này các thầy, đó là ba tầm cầu." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba tầm cầu này. Ba tầm nào? Tầm cầu dục, tầm cầu hữu,
+tầm cầu Phạm hạnh — này các thầy, đó là ba tầm cầu." Thế Tôn đã nói ý
+ấy. Ở đây, điều ấy được nói như vầy: \
 "Định tĩnh, tỉnh giác, \
 có niệm, đệ tử của Phật; \
 biết rõ các tầm cầu, \
@@ -1129,11 +1242,14 @@ Cũng biết chỗ chúng diệt, \
 và đạo dẫn đến sự đoạn tận; \
 do đoạn tận các tầm cầu, Tỷ-kheo \
 không còn đói khát, đã hoàn toàn tịch diệt." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 55. Kinh esanā (Dutiyaesanāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba tầm cầu này. Những gì là ba? Tầm cầu dục, tầm cầu hữu, tầm cầu Phạm hạnh — này các thầy, đó là ba tầm cầu." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba tầm cầu này. Ba tầm nào? Tầm cầu dục, tầm cầu hữu,
+tầm cầu Phạm hạnh — này các thầy, đó là ba tầm cầu." Thế Tôn đã nói ý
+ấy. Ở đây, điều ấy được nói như vầy: \
 "Tầm cầu dục, tầm cầu hữu, \
 cùng với tầm cầu Phạm hạnh; \
 chấp chặt 'đây là sự thật', \
@@ -1144,11 +1260,14 @@ các tầm cầu đã được từ bỏ, \
 các trú xứ tà kiến đã bị nhổ sạch; \
 do đoạn tận các tầm cầu, Tỷ-kheo \
 không còn mong cầu, không còn nghi hoặc." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 56. Kinh āsava (Paṭhamaāsavasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba lậu hoặc này. Những gì là ba? Dục lậu, hữu lậu, vô minh lậu — này các thầy, đó là ba lậu hoặc." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba lậu hoặc này. Ba lậu nào? Dục lậu, hữu lậu, vô
+minh lậu — này các thầy, đó là ba lậu hoặc." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
 "Định tĩnh, tỉnh giác, \
 có niệm, đệ tử của Phật; \
 biết rõ các lậu hoặc, \
@@ -1157,22 +1276,28 @@ Cũng biết chỗ chúng diệt, \
 và đạo dẫn đến sự đoạn tận; \
 do đoạn tận các lậu hoặc, Tỷ-kheo \
 không còn đói khát, đã hoàn toàn tịch diệt." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 57. Kinh āsava (Dutiyaāsavasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba lậu hoặc này. Những gì là ba? Dục lậu, hữu lậu, vô minh lậu — này các thầy, đó là ba lậu hoặc." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba lậu hoặc này. Ba lậu nào? Dục lậu, hữu lậu, vô
+minh lậu — này các thầy, đó là ba lậu hoặc." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
 "Vị nào dục lậu đã đoạn, \
 vô minh đã được ly, \
 hữu lậu đã hoàn toàn đoạn tận, \
 hoàn toàn giải thoát, không còn y; \
 mang thân cuối cùng, \
 đã thắng Ma cùng quân ma." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 58. Kinh Ái (Taṇhāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba ái này. Những gì là ba? Dục ái, hữu ái, phi hữu ái — này các thầy, đó là ba ái." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba ái này. Ba ái nào? Dục ái, hữu ái, phi hữu ái —
+này các thầy, đó là ba ái." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được
+nói như vầy: \
 "Bị trói bởi ái phối, \
 tâm say đắm hữu này hữu kia; \
 họ bị Ma trói buộc, \
@@ -1183,16 +1308,22 @@ Còn những ai đã từ bỏ ái, \
 ly ái đối với hữu này hữu kia; \
 họ thật sự đã sang bờ kia ở đời, \
 những vị đã đạt sự đoạn tận các lậu hoặc." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 59. Kinh Cảnh Giới Ác Ma (Māradheyyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, Tỷ-kheo đầy đủ ba pháp thì vượt qua cảnh giới Ma, chói sáng như mặt trời. Những gì là ba? Ở đây, này các thầy, Tỷ-kheo đầy đủ giới uẩn vô học, đầy đủ định uẩn vô học, đầy đủ tuệ uẩn vô học — này các thầy, Tỷ-kheo đầy đủ ba pháp ấy thì vượt qua cảnh giới Ma, chói sáng như mặt trời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Tỷ-kheo đầy đủ ba pháp thì vượt qua cảnh giới Ma, chói
+sáng như mặt trời. Ba pháp nào? Ở đây, này các thầy, Tỷ-kheo đầy đủ
+giới uẩn vô học, đầy đủ định uẩn vô học, đầy đủ tuệ uẩn vô học — này
+các thầy, Tỷ-kheo đầy đủ ba pháp ấy thì vượt qua cảnh giới Ma, chói
+sáng như mặt trời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
 "Giới, định và tuệ, \
 với ai những pháp ấy được khéo tu tập; \
 vượt qua cảnh giới Ma, \
 chói sáng như mặt trời." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Hết Phẩm Thứ Nhất.)]
 
@@ -1205,7 +1336,10 @@ gọi là phẩm thứ nhất, tối thắng.
 
 === 60. Kinh Phước Sự (Puññakiriyavatthusuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba phước sự này. Những gì là ba? Phước sự do bố thí, phước sự do giới, phước sự do tu tập — này các thầy, đó là ba phước sự." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba phước sự này. Ba pháp nào? Phước sự do bố thí,
+phước sự do giới, phước sự do tu tập — này các thầy, đó là ba phước
+sự." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Người ấy hãy học chính phước đức, \
 tối thắng, đưa đến lạc; \
 hãy tu bố thí, chánh hạnh, \
@@ -1214,11 +1348,14 @@ Tu tập các pháp ấy, \
 ba pháp sanh ra lạc; \
 bậc trí sanh vào \
 thế giới an lạc, không sân hại." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 61. Kinh Mắt (Cakkhusuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba mắt này. Những gì là ba? Nhục nhãn, thiên nhãn, tuệ nhãn — này các thầy, đó là ba mắt." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba mắt này. Ba mắt nào? Nhục nhãn, thiên nhãn, tuệ
+nhãn — này các thầy, đó là ba mắt." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
+được nói như vầy: \
 "Nhục nhãn, thiên nhãn, \
 tuệ nhãn vô thượng; \
 ba mắt ấy, \
@@ -1229,11 +1366,14 @@ từ đó trí khởi lên — \
 tuệ nhãn vô thượng; \
 do chứng được mắt ấy, \
 người ta được giải thoát khỏi mọi khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 62. Kinh Căn (Indriyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba căn này. Những gì là ba? Căn 'Tôi sẽ biết điều chưa biết', căn thắng trí, căn của bậc đã thắng trí — này các thầy, đó là ba căn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba căn này. Ba căn nào? Căn 'Tôi sẽ biết điều chưa
+biết', căn thắng trí, căn của bậc đã thắng trí — này các thầy, đó là ba
+căn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Với vị hữu học đang học, \
 đi theo con đường ngay; \
 trí thứ nhất về sự đoạn tận, \
@@ -1246,11 +1386,14 @@ Vị ấy thật sự đầy đủ các căn, \
 tịch tịnh, ưa thích đạo lộ tịch tịnh; \
 mang thân cuối cùng, \
 đã thắng Ma cùng quân ma." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 63. Kinh Thời Phần (Addhāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba thời phần này. Những gì là ba? Thời phần quá khứ, thời phần vị lai, thời phần hiện tại — này các thầy, đó là ba thời phần." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba thời phần này. Ba thời nào? Thời phần quá khứ,
+thời phần vị lai, thời phần hiện tại — này các thầy, đó là ba thời
+phần." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Chúng sanh tưởng đến những gì có thể được nói tên, \
 an trú trong những gì có thể được nói tên; \
 không liễu tri những gì có thể được nói tên, \
@@ -1263,11 +1406,14 @@ Vị ấy thật sự thành tựu những gì có thể được nói tên, \
 tịch tịnh, ưa thích đạo lộ tịch tịnh; \
 sống bằng sự quán sát, an trú pháp, \
 bậc đã đến chỗ hiểu biết không đi đến sự tính đếm." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 64. Kinh Ác Hạnh (Duccaritasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba ác hạnh này. Những gì là ba? Thân ác hạnh, khẩu ác hạnh, ý ác hạnh — này các thầy, đó là ba ác hạnh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba ác hạnh này. Ba hạnh nào? Thân ác hạnh, khẩu ác
+hạnh, ý ác hạnh — này các thầy, đó là ba ác hạnh." Thế Tôn đã nói ý ấy.
+Ở đây, điều ấy được nói như vầy: \
 "Làm thân ác hạnh, \
 và các khẩu ác hạnh; \
 làm ý ác hạnh, \
@@ -1276,11 +1422,14 @@ Không làm nghiệp thiện, \
 làm nhiều nghiệp bất thiện; \
 sau khi thân hoại, kẻ kém tuệ \
 sanh vào địa ngục." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 65. Kinh Thiện Hạnh (Sucaritasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba thiện hạnh này. Những gì là ba? Thân thiện hạnh, khẩu thiện hạnh, ý thiện hạnh — này các thầy, đó là ba thiện hạnh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba thiện hạnh này. Ba hạnh nào? Thân thiện hạnh, khẩu
+thiện hạnh, ý thiện hạnh — này các thầy, đó là ba thiện hạnh." Thế Tôn
+đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Bỏ thân ác hạnh, \
 và các khẩu ác hạnh; \
 bỏ ý ác hạnh, \
@@ -1289,40 +1438,60 @@ Không làm nghiệp bất thiện, \
 làm nhiều nghiệp thiện; \
 sau khi thân hoại, người có tuệ \
 sanh vào thiên giới." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 66. Kinh Thanh Tịnh (Soceyyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba sự thanh tịnh này. Những gì là ba? Thân thanh tịnh, khẩu thanh tịnh, ý thanh tịnh — này các thầy, đó là ba sự thanh tịnh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba sự thanh tịnh này. Ba sự nào? Thân thanh tịnh,
+khẩu thanh tịnh, ý thanh tịnh — này các thầy, đó là ba sự thanh tịnh."
+Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Thanh tịnh thân, thanh tịnh khẩu, \
 thanh tịnh ý, không còn lậu hoặc; \
 bậc thanh tịnh, đầy đủ sự thanh tịnh, \
 được gọi là người đã từ bỏ tất cả." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 67. Kinh Hạnh Ẩn Sĩ (Moneyyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba hạnh ẩn sĩ này. Những gì là ba? Thân hạnh ẩn sĩ, khẩu hạnh ẩn sĩ, ý hạnh ẩn sĩ — này các thầy, đó là ba hạnh ẩn sĩ." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba hạnh ẩn sĩ này. Ba hạnh nào? Thân hạnh ẩn sĩ, khẩu
+hạnh ẩn sĩ, ý hạnh ẩn sĩ — này các thầy, đó là ba hạnh ẩn sĩ." Thế Tôn
+đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Ẩn sĩ về thân, ẩn sĩ về khẩu, \
 ẩn sĩ về ý, không còn lậu hoặc; \
 bậc ẩn sĩ đầy đủ hạnh ẩn sĩ, \
 được gọi là người đã rửa sạch điều ác." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 68. Kinh rāga (Paṭhamarāgasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, với ai tham chưa được từ bỏ, sân chưa được từ bỏ, si chưa được từ bỏ — này các thầy, vị ấy được gọi là 'bị Ma trói, bị tròng lưới Ma, bị Ác ma muốn làm gì thì làm'. Này các thầy, với ai tham đã được từ bỏ, sân đã được từ bỏ, si đã được từ bỏ — này các thầy, vị ấy được gọi là 'không bị Ma trói, đã cởi lưới Ma, không bị Ác ma muốn làm gì thì làm'." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, với ai tham chưa được từ bỏ, sân chưa được từ bỏ, si
+chưa được từ bỏ — này các thầy, vị ấy được gọi là 'bị Ma trói, bị tròng
+lưới Ma, bị Ác ma muốn làm gì thì làm'. Này các thầy, với ai tham đã
+được từ bỏ, sân đã được từ bỏ, si đã được từ bỏ — này các thầy, vị ấy
+được gọi là 'không bị Ma trói, đã cởi lưới Ma, không bị Ác ma muốn làm
+gì thì làm'." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Với ai tham, sân \
 và vô minh đã được ly; \
 vị ấy, một bậc đã tu tập tự thân, \
 đã trở thành Phạm, là Như Lai; \
 bậc Giác Ngộ, đã vượt hận thù và sợ hãi, \
 được gọi là người đã từ bỏ tất cả." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 === 69. Kinh rāga (Dutiyarāgasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, với Tỷ-kheo hay Tỷ-kheo-ni nào tham chưa được từ bỏ, sân chưa được từ bỏ, si chưa được từ bỏ — này các thầy, vị ấy được gọi là chưa vượt biển có sóng, có ba đào, có xoáy nước, có cá sấu, có quỷ rakkhasa. Này các thầy, với Tỷ-kheo hay Tỷ-kheo-ni nào tham đã được từ bỏ, sân đã được từ bỏ, si đã được từ bỏ — này các thầy, vị ấy được gọi là đã vượt biển có sóng, có ba đào, có xoáy nước, có cá sấu, có quỷ rakkhasa, đã sang, đã đến bờ kia, đứng trên đất liền, là Bà-la-môn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, với Tỷ-kheo hay Tỷ-kheo-ni nào tham chưa được từ bỏ,
+sân chưa được từ bỏ, si chưa được từ bỏ — này các thầy, vị ấy được gọi
+là chưa vượt biển có sóng, có ba đào, có xoáy nước, có cá sấu, có quỷ
+rakkhasa. Này các thầy, với Tỷ-kheo hay Tỷ-kheo-ni nào tham đã được từ
+bỏ, sân đã được từ bỏ, si đã được từ bỏ — này các thầy, vị ấy được gọi
+là đã vượt biển có sóng, có ba đào, có xoáy nước, có cá sấu, có quỷ
+rakkhasa, đã sang, đã đến bờ kia, đứng trên đất liền, là Bà-la-môn."
+Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Với ai tham, sân \
 và vô minh đã được ly; \
 vị ấy đã vượt biển này \
@@ -1332,7 +1501,7 @@ có hiểm họa sóng, khó vượt. \
 đã từ bỏ khổ để không còn tái sanh; \
 vị ấy đã lặn mất, không còn đi đến sự đo lường; \
 Ta nói: vị ấy đã làm mê muội vua Chết." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Hết Phẩm Thứ Hai.)]
 
@@ -1347,9 +1516,24 @@ lại gọi là phẩm thứ hai, tối thắng.
 
 ==== 70. Kinh Tà Kiến (Micchādiṭṭhikasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân ác hạnh, đầy đủ khẩu ác hạnh, đầy đủ ý ác hạnh, hủy báng các bậc Thánh, có tà kiến, nhận lấy nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sanh vào đọa xứ, đường dữ, đọa lạc, địa ngục.
-Này các thầy, Ta không nói điều ấy vì đã nghe từ Sa-môn hay Bà-la-môn nào khác. Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân ác hạnh, đầy đủ khẩu ác hạnh, đầy đủ ý ác hạnh, hủy báng các bậc Thánh, có tà kiến, nhận lấy nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sanh vào đọa xứ, đường dữ, đọa lạc, địa ngục. Hơn nữa, này các thầy, chính điều Ta tự biết, tự thấy, tự hiểu, Ta mới nói.
-Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân ác hạnh, đầy đủ khẩu ác hạnh, đầy đủ ý ác hạnh, hủy báng các bậc Thánh, có tà kiến, nhận lấy nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sanh vào đọa xứ, đường dữ, đọa lạc, địa ngục." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân ác hạnh, đầy đủ
+khẩu ác hạnh, đầy đủ ý ác hạnh, hủy báng các bậc Thánh, có tà kiến,
+nhận lấy nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sanh vào
+đọa xứ, đường dữ, đọa lạc, địa ngục.
+
+Này các thầy, Ta không nói điều ấy vì đã nghe từ Sa-môn hay Bà-la-môn
+nào khác. Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân ác
+hạnh, đầy đủ khẩu ác hạnh, đầy đủ ý ác hạnh, hủy báng các bậc Thánh,
+có tà kiến, nhận lấy nghiệp theo tà kiến. Sau khi thân hoại mạng chung,
+họ sanh vào đọa xứ, đường dữ, đọa lạc, địa ngục. Hơn nữa, này các thầy,
+chính điều Ta tự biết, tự thấy, tự hiểu, Ta mới nói.
+
+Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân ác hạnh, đầy đủ
+khẩu ác hạnh, đầy đủ ý ác hạnh, hủy báng các bậc Thánh, có tà kiến,
+nhận lấy nghiệp theo tà kiến. Sau khi thân hoại mạng chung, họ sanh vào
+đọa xứ, đường dữ, đọa lạc, địa ngục." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
 "Hướng tâm tà, \
 nói lời tà; \
 làm các nghiệp tà \
@@ -1358,13 +1542,28 @@ bằng thân, con người ở đây. \
 trong đời sống ngắn ngủi này; \
 sau khi thân hoại, kẻ kém tuệ \
 sanh vào địa ngục." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 ==== 71. Kinh Chánh Kiến (Sammādiṭṭhikasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân thiện hạnh, đầy đủ khẩu thiện hạnh, đầy đủ ý thiện hạnh, không hủy báng các bậc Thánh, có chánh kiến, nhận lấy nghiệp theo chánh kiến. Sau khi thân hoại mạng chung, họ sanh vào thiện thú, thiên giới.
-Này các thầy, Ta không nói điều ấy vì đã nghe từ Sa-môn hay Bà-la-môn nào khác. Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân thiện hạnh, đầy đủ khẩu thiện hạnh, đầy đủ ý thiện hạnh, không hủy báng các bậc Thánh, có chánh kiến, nhận lấy nghiệp theo chánh kiến. Sau khi thân hoại mạng chung, họ sanh vào thiện thú, thiên giới. Hơn nữa, này các thầy, chính điều Ta tự biết, tự thấy, tự hiểu, Ta mới nói.
-Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân thiện hạnh, đầy đủ khẩu thiện hạnh, đầy đủ ý thiện hạnh, không hủy báng các bậc Thánh, có chánh kiến, nhận lấy nghiệp theo chánh kiến. Sau khi thân hoại mạng chung, họ sanh vào thiện thú, thiên giới." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân thiện hạnh, đầy
+đủ khẩu thiện hạnh, đầy đủ ý thiện hạnh, không hủy báng các bậc Thánh,
+có chánh kiến, nhận lấy nghiệp theo chánh kiến. Sau khi thân hoại mạng
+chung, họ sanh vào thiện thú, thiên giới.
+
+Này các thầy, Ta không nói điều ấy vì đã nghe từ Sa-môn hay Bà-la-môn
+nào khác. Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân thiện
+hạnh, đầy đủ khẩu thiện hạnh, đầy đủ ý thiện hạnh, không hủy báng các
+bậc Thánh, có chánh kiến, nhận lấy nghiệp theo chánh kiến. Sau khi thân
+hoại mạng chung, họ sanh vào thiện thú, thiên giới. Hơn nữa, này các
+thầy, chính điều Ta tự biết, tự thấy, tự hiểu, Ta mới nói.
+
+Này các thầy, Ta đã thấy những chúng sanh đầy đủ thân thiện hạnh, đầy
+đủ khẩu thiện hạnh, đầy đủ ý thiện hạnh, không hủy báng các bậc Thánh,
+có chánh kiến, nhận lấy nghiệp theo chánh kiến. Sau khi thân hoại mạng
+chung, họ sanh vào thiện thú, thiên giới." Thế Tôn đã nói ý ấy. Ở đây,
+điều ấy được nói như vầy: \
 "Hướng tâm chánh, \
 nói lời chánh; \
 làm các nghiệp chánh \
@@ -1373,11 +1572,16 @@ Nghe nhiều, làm phước, \
 trong đời sống ngắn ngủi này; \
 sau khi thân hoại, người có tuệ \
 sanh vào thiên giới." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 ==== 72. Kinh Xuất Ly (Nissaraṇiyasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba giới xuất ly này. Những gì là ba? Sự xuất ly khỏi các dục, đó là xuất ly; sự xuất ly khỏi các sắc, đó là vô sắc; còn phàm cái gì đã hiện hữu, hữu vi, duyên sanh, thì diệt là sự xuất ly khỏi cái ấy — này các thầy, đó là ba giới xuất ly." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba giới xuất ly này. Ba giới nào? Sự xuất ly khỏi các
+dục, đó là xuất ly; sự xuất ly khỏi các sắc, đó là vô sắc; còn phàm cái
+gì đã hiện hữu, hữu vi, duyên sanh, thì diệt là sự xuất ly khỏi cái ấy
+— này các thầy, đó là ba giới xuất ly." Thế Tôn đã nói ý ấy. Ở đây,
+điều ấy được nói như vầy: \
 "Biết sự xuất ly khỏi dục, \
 và sự vượt qua các sắc; \
 luôn nhiệt tâm, chạm đến \
@@ -1386,11 +1590,13 @@ Vị ấy thật sự là Tỷ-kheo thấy đúng, \
 vì giải thoát ở đó; \
 đã viên mãn thắng trí, tịch tịnh, \
 thật sự là ẩn sĩ đã vượt các phối hợp." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 ==== 73. Kinh Tịch Tịnh Hơn (Santatarasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, các vô sắc tịch tịnh hơn các sắc; diệt tịch tịnh hơn các vô sắc." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, các vô sắc tịch tịnh hơn các sắc; diệt tịch tịnh hơn các
+vô sắc." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Những chúng sanh đi đến sắc, \
 và những vị an trú vô sắc; \
 không biết rõ diệt, \
@@ -1404,17 +1610,45 @@ không còn y; \
 chứng ngộ sự từ bỏ các y, không còn lậu hoặc; \
 bậc Chánh Đẳng Giác thuyết \
 đạo lộ không sầu, không bụi." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 ==== 74. Kinh Con (Puttasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã nghe như vậy. "Này các thầy, có ba hạng con này đang hiện hữu ở đời. Những gì là ba? Con hơn cha mẹ, con bằng cha mẹ, con kém cha mẹ.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba hạng con này đang hiện hữu ở đời. Ba hạng nào? Con
+hơn cha mẹ, con bằng cha mẹ, con kém cha mẹ.
 
-Này các thầy, thế nào là con hơn cha mẹ? Ở đây, này các thầy, cha mẹ của người con chưa quy y Phật, chưa quy y Pháp, chưa quy y Tăng. Cha mẹ chưa từ bỏ sát sanh, chưa từ bỏ lấy của không cho, chưa từ bỏ tà hạnh trong các dục, chưa từ bỏ nói dối, chưa từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ phá giới, ác pháp. Còn người con của họ đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Người con từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Người con có giới, thiện pháp. Như vậy, này các thầy, là con hơn cha mẹ.
+Này các thầy, thế nào là con hơn cha mẹ? Ở đây, này các thầy, cha mẹ
+của người con chưa quy y Phật, chưa quy y Pháp, chưa quy y Tăng. Cha mẹ
+chưa từ bỏ sát sanh, chưa từ bỏ lấy của không cho, chưa từ bỏ tà hạnh
+trong các dục, chưa từ bỏ nói dối, chưa từ bỏ rượu men rượu nấu đưa đến
+phóng dật. Cha mẹ phá giới, ác pháp. Còn người con của họ đã quy y
+Phật, đã quy y Pháp, đã quy y Tăng. Người con từ bỏ sát sanh, từ bỏ lấy
+của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu
+men rượu nấu đưa đến phóng dật. Người con có giới, thiện pháp. Như vậy,
+này các thầy, là con hơn cha mẹ.
 
-Này các thầy, thế nào là con bằng cha mẹ? Ở đây, này các thầy, cha mẹ của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Cha mẹ từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ có giới, thiện pháp. Người con của họ cũng đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Người con cũng từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Người con cũng có giới, thiện pháp. Như vậy, này các thầy, là con bằng cha mẹ.
+Này các thầy, thế nào là con bằng cha mẹ? Ở đây, này các thầy, cha mẹ
+của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Cha mẹ từ bỏ
+sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ
+nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ có giới,
+thiện pháp. Người con của họ cũng đã quy y Phật, đã quy y Pháp, đã quy
+y Tăng. Người con cũng từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ
+tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến
+phóng dật. Người con cũng có giới, thiện pháp. Như vậy, này các thầy,
+là con bằng cha mẹ.
 
-Này các thầy, thế nào là con kém cha mẹ? Ở đây, này các thầy, cha mẹ của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Cha mẹ từ bỏ sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ có giới, thiện pháp. Còn người con của họ chưa quy y Phật, chưa quy y Pháp, chưa quy y Tăng. Người con chưa từ bỏ sát sanh, chưa từ bỏ lấy của không cho, chưa từ bỏ tà hạnh trong các dục, chưa từ bỏ nói dối, chưa từ bỏ rượu men rượu nấu đưa đến phóng dật. Người con phá giới, ác pháp. Như vậy, này các thầy, là con kém cha mẹ. Này các thầy, đó là ba hạng con đang hiện hữu ở đời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, thế nào là con kém cha mẹ? Ở đây, này các thầy, cha mẹ
+của người con đã quy y Phật, đã quy y Pháp, đã quy y Tăng. Cha mẹ từ bỏ
+sát sanh, từ bỏ lấy của không cho, từ bỏ tà hạnh trong các dục, từ bỏ
+nói dối, từ bỏ rượu men rượu nấu đưa đến phóng dật. Cha mẹ có giới,
+thiện pháp. Còn người con của họ chưa quy y Phật, chưa quy y Pháp, chưa
+quy y Tăng. Người con chưa từ bỏ sát sanh, chưa từ bỏ lấy của không
+cho, chưa từ bỏ tà hạnh trong các dục, chưa từ bỏ nói dối, chưa từ bỏ
+rượu men rượu nấu đưa đến phóng dật. Người con phá giới, ác pháp. Như
+vậy, này các thầy, là con kém cha mẹ. Này các thầy, đó là ba hạng con
+đang hiện hữu ở đời." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
 "Bậc trí muốn có con hơn mình, con bằng mình; \
 không muốn con kém mình, \
 kẻ làm hôi hám gia tộc. \
@@ -1424,14 +1658,14 @@ là những vị ưu-bà-tắc; \
 rộng lượng, không keo kiệt; \
 như mặt trăng thoát khỏi đám mây, \
 họ chói sáng trong các hội chúng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 ==== 75. Kinh Không Mưa (Avuṭṭhikasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba hạng người hiện có, hiện tìm thấy ở
-đời. Ba hạng nào? Hạng như mây không mưa, hạng mưa từng vùng, và hạng
-mưa khắp mọi nơi.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba hạng người hiện có, hiện tìm thấy ở đời. Ba hạng
+nào? Hạng như mây không mưa, hạng mưa từng vùng, và hạng mưa khắp mọi
+nơi.
 
 Này các thầy, thế nào là hạng người như mây không mưa? Ở đây, này các
 thầy, có người không bố thí cho bất cứ ai — Sa-môn, Bà-la-môn, người
@@ -1473,19 +1707,19 @@ thâu góp đúng pháp tài sản \
 do siêng năng mà được, \
 làm no đủ bằng cơm ăn thức uống \
 những người đi xin đến đúng cách." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 ==== 76. Kinh Cầu Lạc (Sukhapatthanāsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, bậc trí nên hộ trì giới, mong cầu ba sự
-an lạc này. Ba sự nào? 'Mong ta được khen ngợi' — bậc trí nên hộ trì
-giới. 'Mong tài sản sanh khởi cho ta' — bậc trí nên hộ trì giới. 'Khi
-thân hoại mạng chung, mong ta sanh vào thiện thú, cõi trời' — bậc trí
-nên hộ trì giới. Này các thầy, bậc trí nên hộ trì giới, mong cầu ba sự
-an lạc này." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, bậc trí nên hộ trì giới, mong cầu ba sự an lạc này. Ba
+sự nào? 'Mong ta được khen ngợi' — bậc trí nên hộ trì giới. 'Mong tài
+sản sanh khởi cho ta' — bậc trí nên hộ trì giới. 'Khi thân hoại mạng
+chung, mong ta sanh vào thiện thú, cõi trời' — bậc trí nên hộ trì giới.
+Này các thầy, bậc trí nên hộ trì giới, mong cầu ba sự an lạc này." Thế
+Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Bậc có trí nên hộ trì giới, \
 mong cầu ba sự an lạc: \
 được khen, được của, \
@@ -1515,34 +1749,33 @@ bậc trí chớ thân cận kẻ bất thiện, \
 hãy thân cận bậc thiện: \
 kẻ bất thiện đưa xuống địa ngục, \
 bậc thiện đưa đến thiện thú." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
 ==== 77. Kinh Dễ Vỡ (Bhidurasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, thân này dễ vỡ, thức có tánh ly tham, mọi
-sanh y đều vô thường, khổ, có tánh biến hoại." Thế Tôn đã nói ý ấy. Ở
-đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, thân này dễ vỡ, thức có tánh ly tham, mọi sanh y đều vô
+thường, khổ, có tánh biến hoại." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
+được nói như vầy: \
 "Biết thân dễ vỡ, \
 thức có tánh ly tham, \
 thấy sự sợ hãi nơi các sanh y, \
 đã vượt khỏi sanh tử; \
 chứng được tịch tịnh tối thượng, \
 bậc đã tu tập tâm chờ đợi thời." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tám.)]
 
 ==== 78. Kinh Giới Hòa Hợp (Dhātusosaṃsandanasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, chúng sanh hòa hợp, tương ưng với chúng
-sanh theo giới tánh. Chúng sanh có khuynh hướng hạ liệt hòa hợp, tương
-ưng với chúng sanh có khuynh hướng hạ liệt; chúng sanh có khuynh hướng
-hiền thiện hòa hợp, tương ưng với chúng sanh có khuynh hướng hiền
-thiện.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, chúng sanh hòa hợp, tương ưng với chúng sanh theo giới
+tánh. Chúng sanh có khuynh hướng hạ liệt hòa hợp, tương ưng với chúng
+sanh có khuynh hướng hạ liệt; chúng sanh có khuynh hướng hiền thiện hòa
+hợp, tương ưng với chúng sanh có khuynh hướng hiền thiện.
 
 Này các thầy, trong thời quá khứ, chúng sanh cũng hòa hợp, tương ưng
 với chúng sanh theo giới tánh. Chúng sanh có khuynh hướng hạ liệt hòa
@@ -1574,28 +1807,28 @@ Hãy ở cùng các bậc Thánh sống ẩn dật, \
 những vị đã dốc lòng, tu thiền, \
 thường phát khởi tinh tấn, \
 các bậc trí." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ chín.)]
 
 ==== 79. Kinh Thoái Thất (Parihānasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba pháp đưa đến thoái thất cho Tỷ-kheo
-hữu học. Ba pháp nào? Ở đây, này các thầy, Tỷ-kheo hữu học ưa thích
-công việc, vui thú công việc, chuyên tâm ưa thích công việc; ưa thích
-nói chuyện, vui thú nói chuyện, chuyên tâm ưa thích nói chuyện; ưa
-thích ngủ nghỉ, vui thú ngủ nghỉ, chuyên tâm ưa thích ngủ nghỉ. Này
-các thầy, đó là ba pháp đưa đến thoái thất cho Tỷ-kheo hữu học.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba pháp đưa đến thoái thất cho Tỷ-kheo hữu học. Ba
+pháp nào? Ở đây, này các thầy, Tỷ-kheo hữu học ưa thích công việc, vui
+thú công việc, chuyên tâm ưa thích công việc; ưa thích nói chuyện, vui
+thú nói chuyện, chuyên tâm ưa thích nói chuyện; ưa thích ngủ nghỉ, vui
+thú ngủ nghỉ, chuyên tâm ưa thích ngủ nghỉ. Này các thầy, đó là ba pháp
+đưa đến thoái thất cho Tỷ-kheo hữu học.
 
 Này các thầy, có ba pháp đưa đến không thoái thất cho Tỷ-kheo hữu học.
 Ba pháp nào? Ở đây, này các thầy, Tỷ-kheo hữu học không ưa thích công
 việc, không vui thú công việc, không chuyên tâm ưa thích công việc;
 không ưa thích nói chuyện, không vui thú nói chuyện, không chuyên tâm
 ưa thích nói chuyện; không ưa thích ngủ nghỉ, không vui thú ngủ nghỉ,
-không chuyên tâm ưa thích ngủ nghỉ. Này các thầy, đó là ba pháp đưa
-đến không thoái thất cho Tỷ-kheo hữu học." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
+không chuyên tâm ưa thích ngủ nghỉ. Này các thầy, đó là ba pháp đưa đến
+không thoái thất cho Tỷ-kheo hữu học." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
 "Ưa công việc, ưa nói chuyện, \
 ưa ngủ nghỉ, lại trạo cử: \
 Tỷ-kheo như vậy không thể \
@@ -1604,7 +1837,7 @@ Vì vậy, ít việc, ít ngủ, \
 không trạo cử: \
 Tỷ-kheo như vậy có thể \
 chạm đến Chánh giác tối thượng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười.)]
 
@@ -1621,12 +1854,12 @@ cùng thoái thất — ấy là mười.
 
 ==== 80. Kinh Tầm (Vitakkasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba tầm bất thiện. Ba tầm nào? Tầm câu
-hữu với sự không muốn bị khinh thường, tầm câu hữu với lợi dưỡng, cung
-kính và danh tiếng, tầm câu hữu với lòng thương xót người khác. Này
-các thầy, đó là ba tầm bất thiện." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
-được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba tầm bất thiện. Ba tầm nào? Tầm câu hữu với sự
+không muốn bị khinh thường, tầm câu hữu với lợi dưỡng, cung kính và
+danh tiếng, tầm câu hữu với lòng thương xót người khác. Này các thầy,
+đó là ba tầm bất thiện." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
+như vầy: \
 "Câu hữu với sự không muốn bị khinh thường, \
 trọng lợi dưỡng và cung kính, \
 vui cùng bạn bè — \
@@ -1635,36 +1868,36 @@ Còn ai đã bỏ con cái, gia súc, \
 và các hội họp cưới xin: \
 Tỷ-kheo như vậy có thể \
 chạm đến Chánh giác tối thượng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 ==== 81. Kinh Cung Kính (Sakkārasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Ta đã thấy các chúng sanh bị cung kính
-chế ngự, tâm bị chiếm đoạt, khi thân hoại mạng chung sanh vào đọa xứ,
-ác thú, đọa lạc, địa ngục.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta đã thấy các chúng sanh bị cung kính chế ngự, tâm bị
+chiếm đoạt, khi thân hoại mạng chung sanh vào đọa xứ, ác thú, đọa lạc,
+địa ngục.
 
-Này các thầy, Ta đã thấy các chúng sanh bị không cung kính chế ngự,
-tâm bị chiếm đoạt, khi thân hoại mạng chung sanh vào đọa xứ, ác thú,
-đọa lạc, địa ngục.
+Này các thầy, Ta đã thấy các chúng sanh bị không cung kính chế ngự, tâm
+bị chiếm đoạt, khi thân hoại mạng chung sanh vào đọa xứ, ác thú, đọa
+lạc, địa ngục.
 
 Này các thầy, Ta đã thấy các chúng sanh bị cả cung kính lẫn không cung
 kính chế ngự, tâm bị chiếm đoạt, khi thân hoại mạng chung sanh vào đọa
 xứ, ác thú, đọa lạc, địa ngục.
 
 Này các thầy, điều ấy Ta không nói vì nghe từ một Sa-môn hay Bà-la-môn
-nào khác; này các thầy, chính điều Ta tự biết, tự thấy, tự hiểu rõ,
-Ta mới nói.
+nào khác; này các thầy, chính điều Ta tự biết, tự thấy, tự hiểu rõ, Ta
+mới nói.
 
 Này các thầy, Ta đã thấy các chúng sanh bị cung kính chế ngự, tâm bị
 chiếm đoạt, khi thân hoại mạng chung sanh vào đọa xứ, ác thú, đọa lạc,
 địa ngục.
 
-Này các thầy, Ta đã thấy các chúng sanh bị không cung kính chế ngự,
-tâm bị chiếm đoạt, khi thân hoại mạng chung sanh vào đọa xứ, ác thú,
-đọa lạc, địa ngục.
+Này các thầy, Ta đã thấy các chúng sanh bị không cung kính chế ngự, tâm
+bị chiếm đoạt, khi thân hoại mạng chung sanh vào đọa xứ, ác thú, đọa
+lạc, địa ngục.
 
 Này các thầy, Ta đã thấy các chúng sanh bị cả cung kính lẫn không cung
 kính chế ngự, tâm bị chiếm đoạt, khi thân hoại mạng chung sanh vào đọa
@@ -1678,15 +1911,15 @@ Vị ấy thiền, thường xuyên, \
 quán sát tế nhị các kiến, \
 ưa thích sự đoạn tận thủ — \
 người ấy được gọi là bậc chân nhân." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ hai.)]
 
 ==== 82. Kinh Tiếng Trời (Devasaddasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba tiếng trời vang lên giữa chư thiên,
-tùy thời này đến thời kia. Ba tiếng nào?
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba tiếng trời vang lên giữa chư thiên, tùy thời này
+đến thời kia. Ba tiếng nào?
 
 Này các thầy, khi nào Thánh đệ tử nghĩ đến việc cạo bỏ râu tóc, đắp áo
 cà-sa, từ bỏ gia đình, xuất gia sống không gia đình, khi ấy tiếng trời
@@ -1695,20 +1928,19 @@ vang lên giữa chư thiên: 'Vị Thánh đệ tử này đang nghĩ đến vi
 chư thiên, tùy thời này đến thời kia.
 
 Lại nữa, này các thầy, khi nào Thánh đệ tử sống chuyên tâm tu tập bảy
-nhóm pháp trợ đạo, khi ấy tiếng trời vang lên giữa chư thiên: 'Vị
-Thánh đệ tử này đang chiến đấu với Ác ma.' Này các thầy, đây là tiếng
-trời thứ hai vang lên giữa chư thiên, tùy thời này đến thời kia.
+nhóm pháp trợ đạo, khi ấy tiếng trời vang lên giữa chư thiên: 'Vị Thánh
+đệ tử này đang chiến đấu với Ác ma.' Này các thầy, đây là tiếng trời
+thứ hai vang lên giữa chư thiên, tùy thời này đến thời kia.
 
 Lại nữa, này các thầy, khi nào Thánh đệ tử do đoạn tận các lậu hoặc,
 ngay trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú
 tâm giải thoát, tuệ giải thoát không lậu hoặc, khi ấy tiếng trời vang
 lên giữa chư thiên: 'Vị Thánh đệ tử này đã thắng trận, đã chinh phục
-ngọn đầu của trận ấy mà an trú.' Này các thầy, đây là tiếng trời thứ
-ba vang lên giữa chư thiên, tùy thời này đến thời kia.
+ngọn đầu của trận ấy mà an trú.' Này các thầy, đây là tiếng trời thứ ba
+vang lên giữa chư thiên, tùy thời này đến thời kia.
 
-Này các thầy, đó là ba tiếng trời vang lên giữa chư thiên, tùy thời
-này đến thời kia." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
-vầy: \
+Này các thầy, đó là ba tiếng trời vang lên giữa chư thiên, tùy thời này
+đến thời kia." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Thấy đệ tử bậc Chánh Đẳng Giác \
 đã thắng trận, \
 chư thiên cũng đảnh lễ \
@@ -1721,36 +1953,36 @@ Chư thiên đảnh lễ như vậy \
 bậc đã đạt được tâm nguyện; \
 vì họ không thấy nơi vị ấy \
 con đường đưa vào quyền lực của thần chết." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ ba.)]
 
 ==== 83. Kinh Năm Điềm Trước (Pañcapubbanimittasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, khi một vị trời sắp rơi khỏi chúng trời,
-năm điềm trước hiện ra: vòng hoa héo úa, y phục dính bẩn, mồ hôi tiết
-ra từ nách, dung sắc xấu đi trên thân, và vị trời ấy không còn vui
-thích chỗ ngồi của mình giữa chư thiên.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, khi một vị trời sắp rơi khỏi chúng trời, năm điềm trước
+hiện ra: vòng hoa héo úa, y phục dính bẩn, mồ hôi tiết ra từ nách, dung
+sắc xấu đi trên thân, và vị trời ấy không còn vui thích chỗ ngồi của
+mình giữa chư thiên.
 
 Này các thầy, chư thiên biết 'thiên tử này sắp rơi', liền chúc phúc
 bằng ba lời: 'Này hiền giả, từ đây hãy đi đến thiện thú; đã đi đến
 thiện thú, hãy được lợi ích khéo đạt; đã được lợi ích khéo đạt, hãy
 được an trú vững vàng.'
 
-Khi được nói vậy, một Tỷ-kheo bạch Thế Tôn: "Bạch Thế Tôn, điều được
+Khi được nói vậy, một Tỷ-kheo bạch Thế Tôn: 'Bạch Thế Tôn, điều được
 gọi là đi đến thiện thú của chư thiên là gì? Điều được gọi là lợi ích
-khéo đạt của chư thiên là gì? Điều được gọi là an trú vững vàng của
-chư thiên là gì?"
+khéo đạt của chư thiên là gì? Điều được gọi là an trú vững vàng của chư
+thiên là gì?'
 
-"Này Tỷ-kheo, thân người được gọi là đi đến thiện thú của chư thiên.
+'Này Tỷ-kheo, thân người được gọi là đi đến thiện thú của chư thiên.
 Khi đã làm người, vị ấy được lòng tin đối với Pháp và Luật do Như Lai
 tuyên thuyết — này Tỷ-kheo, đây được gọi là lợi ích khéo đạt của chư
 thiên. Lòng tin ấy của vị ấy được an trú, đâm rễ, vững lập, kiên cố,
-không thể bị lay chuyển bởi Sa-môn hay Bà-la-môn, bởi chư thiên, Ác
-ma, Phạm thiên, hay bởi bất cứ ai ở đời — này Tỷ-kheo, đây được gọi là
-an trú vững vàng của chư thiên." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
-được nói như vầy: \
+không thể bị lay chuyển bởi Sa-môn hay Bà-la-môn, bởi chư thiên, Ác ma,
+Phạm thiên, hay bởi bất cứ ai ở đời — này Tỷ-kheo, đây được gọi là an
+trú vững vàng của chư thiên.'" Thế Tôn đã nói ý ấy. Ở đây, điều ấy được
+nói như vầy: \
 "Khi vị trời rơi khỏi chúng trời \
 vì thọ mạng đã hết, \
 ba tiếng vang lên \
@@ -1779,49 +2011,48 @@ Với lòng thương xót ấy, \
 khi chư thiên biết vị trời sắp rơi, \
 họ chúc phúc: \
 'Hãy đến, này vị trời, hãy đến nữa.'" \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tư.)]
 
 ==== 84. Kinh Lợi Ích Nhiều Người (Bahujanahitasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Có ba hạng người khi xuất hiện ở đời, xuất hiện vì lợi
-ích nhiều người, vì an lạc nhiều người, vì lòng thương xót thế gian,
-vì nghĩa lợi, vì lợi ích, vì an lạc cho chư thiên và loài người. Ba
-hạng nào?
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Có ba hạng người khi xuất hiện ở đời, xuất hiện vì lợi ích nhiều
+người, vì an lạc nhiều người, vì lòng thương xót thế gian, vì nghĩa
+lợi, vì lợi ích, vì an lạc cho chư thiên và loài người. Ba hạng nào?
 
 Ở đây, này các thầy, Như Lai xuất hiện ở đời, bậc A-la-hán, Chánh Đẳng
 Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự
 Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Ngài thuyết pháp sơ thiện,
-trung thiện, hậu thiện, có nghĩa, có văn, tuyên bố Phạm hạnh hoàn
-toàn viên mãn, thanh tịnh. Này các thầy, đây là hạng người thứ nhất
-khi xuất hiện ở đời, xuất hiện vì lợi ích nhiều người, vì an lạc nhiều
-người, vì lòng thương xót thế gian, vì nghĩa lợi, vì lợi ích, vì an
-lạc cho chư thiên và loài người.
+trung thiện, hậu thiện, có nghĩa, có văn, tuyên bố Phạm hạnh hoàn toàn
+viên mãn, thanh tịnh. Này các thầy, đây là hạng người thứ nhất khi xuất
+hiện ở đời, xuất hiện vì lợi ích nhiều người, vì an lạc nhiều người, vì
+lòng thương xót thế gian, vì nghĩa lợi, vì lợi ích, vì an lạc cho chư
+thiên và loài người.
 
 Lại nữa, này các thầy, đệ tử của chính bậc Đạo Sư ấy là A-la-hán, đã
 đoạn tận lậu hoặc, đã sống xong Phạm hạnh, đã làm những việc cần làm,
-đã đặt gánh nặng xuống, đã đạt được mục đích của mình, đã đoạn tận
-kiết sử hữu, đã giải thoát nhờ chánh trí. Vị ấy thuyết pháp sơ thiện,
-trung thiện, hậu thiện, có nghĩa, có văn, tuyên bố Phạm hạnh hoàn toàn
-viên mãn, thanh tịnh. Này các thầy, đây là hạng người thứ hai khi xuất
-hiện ở đời, xuất hiện vì lợi ích nhiều người, vì an lạc nhiều người,
-vì lòng thương xót thế gian, vì nghĩa lợi, vì lợi ích, vì an lạc cho
-chư thiên và loài người.
+đã đặt gánh nặng xuống, đã đạt được mục đích của mình, đã đoạn tận kiết
+sử hữu, đã giải thoát nhờ chánh trí. Vị ấy thuyết pháp sơ thiện, trung
+thiện, hậu thiện, có nghĩa, có văn, tuyên bố Phạm hạnh hoàn toàn viên
+mãn, thanh tịnh. Này các thầy, đây là hạng người thứ hai khi xuất hiện
+ở đời, xuất hiện vì lợi ích nhiều người, vì an lạc nhiều người, vì lòng
+thương xót thế gian, vì nghĩa lợi, vì lợi ích, vì an lạc cho chư thiên
+và loài người.
 
 Lại nữa, này các thầy, đệ tử của chính bậc Đạo Sư ấy là bậc hữu học,
 đang đi trên đạo lộ, đa văn, thành tựu giới hạnh. Vị ấy cũng thuyết
 pháp sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, tuyên bố Phạm
 hạnh hoàn toàn viên mãn, thanh tịnh. Này các thầy, đây là hạng người
-thứ ba khi xuất hiện ở đời, xuất hiện vì lợi ích nhiều người, vì an
-lạc nhiều người, vì lòng thương xót thế gian, vì nghĩa lợi, vì lợi
-ích, vì an lạc cho chư thiên và loài người.
+thứ ba khi xuất hiện ở đời, xuất hiện vì lợi ích nhiều người, vì an lạc
+nhiều người, vì lòng thương xót thế gian, vì nghĩa lợi, vì lợi ích, vì
+an lạc cho chư thiên và loài người.
 
-Này các thầy, đó là ba hạng người khi xuất hiện ở đời, xuất hiện vì
-lợi ích nhiều người, vì an lạc nhiều người, vì lòng thương xót thế
-gian, vì nghĩa lợi, vì lợi ích, vì an lạc cho chư thiên và loài
-người." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, đó là ba hạng người khi xuất hiện ở đời, xuất hiện vì lợi
+ích nhiều người, vì an lạc nhiều người, vì lòng thương xót thế gian, vì
+nghĩa lợi, vì lợi ích, vì an lạc cho chư thiên và loài người." Thế Tôn
+đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Bậc Đạo Sư là vị thứ nhất ở đời, đại ẩn sĩ; \
 theo Ngài, đệ tử đã tu tập tâm; \
 rồi đến bậc hữu học đang đi trên đạo lộ, \
@@ -1834,158 +2065,138 @@ Những ai theo con đường khéo thuyết \
 của bậc Đạo Sư vô thượng, \
 ngay ở đây làm cho khổ tận, \
 những vị không phóng dật trong giáo pháp Thiện Thệ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
-
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 #strong[(Kinh thứ năm.)]
 
 ==== 85. Kinh Tùy Quán Bất Tịnh (Asubhānupassīsuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy sống tùy quán bất tịnh nơi thân; niệm
-hơi thở của các thầy hãy được khéo an trú nội tâm, trước mặt; hãy sống
-tùy quán vô thường nơi tất cả các hành.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy sống tùy quán bất tịnh nơi thân; niệm hơi thở của
+các thầy hãy khéo an trú nội tâm, ngay trước mặt; hãy sống tùy quán vô
+thường nơi tất cả các hành.
 
 Này các thầy, khi sống tùy quán bất tịnh nơi thân, tùy miên tham đối
-với giới tịnh sẽ được đoạn tận. Khi niệm hơi thở được khéo an trú nội
-tâm, trước mặt, những chỗ nương của tầm hướng ra ngoài, thuộc về phía
-khổ não, sẽ không còn. Khi sống tùy quán vô thường nơi tất cả các
-hành, vô minh được đoạn tận, minh sanh khởi." Thế Tôn đã nói ý ấy. Ở
-đây, điều ấy được nói như vầy: \
+với giới tịnh được đoạn tận. Khi niệm hơi thở khéo an trú nội tâm, ngay
+trước mặt, những chỗ nương của tầm hướng ra ngoài, thuộc về phía khổ
+não, không còn nữa. Khi sống tùy quán vô thường nơi tất cả các hành, vô
+minh được đoạn tận, minh sanh khởi." Thế Tôn đã nói ý ấy. Ở đây, điều
+ấy được nói như vầy: \
 "Tùy quán bất tịnh nơi thân, \
-niệm hơi thở có mặt, \
-thấy sự chỉ tức tất cả hành, \
+có niệm nơi hơi thở, \
+thấy sự lắng dịu của mọi hành, \
 nhiệt tâm luôn luôn. \
 Tỷ-kheo ấy thấy chân chánh, \
-từ đó được giải thoát tại đấy; \
+từ đó được giải thoát ngay tại đấy; \
 đã viên mãn thắng trí, tịch tĩnh, \
 ấy là ẩn sĩ đã vượt khỏi ách." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 ==== 86. Kinh Hành Pháp Tùy Pháp (Dhammānudhammapaṭipannasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Với Tỷ-kheo hành pháp tùy pháp, đây là pháp tùy thuận
-để trả lời: khi nói 'tôi hành pháp tùy pháp', vị ấy chỉ nói pháp, không
-nói phi pháp; khi tầm, chỉ tầm pháp, không tầm phi pháp; hoặc dẹp cả
-hai, sống xả, niệm, tỉnh giác." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
-được nói như vầy: \
-"Ưa pháp, vui pháp, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Với Tỷ-kheo hành pháp tùy pháp, đây là pháp tùy thuận để trả lời: khi
+nói 'tôi hành pháp tùy pháp', vị ấy chỉ nói pháp, không nói phi pháp;
+khi tầm, chỉ tầm pháp, không tầm phi pháp; hoặc dẹp cả hai, sống xả, có
+niệm, tỉnh giác." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
+"Vui pháp, thích pháp, \
 suy nghĩ theo pháp, \
 Tỷ-kheo tùy niệm pháp \
-không thoái thất Chánh pháp. \
+không thoái lui khỏi Chánh pháp. \
 Đi hay đứng, \
 ngồi hay nằm, \
-nhiếp tâm nội tại, \
+nhiếp tâm vào trong, \
 vị ấy chứng được tịch tịnh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
 ==== 87. Kinh Gây Bóng Tối (Andhakaraṇasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba tầm bất thiện, gây bóng tối, không
-làm sanh mắt, gây vô trí, chướng ngại tuệ, thuộc về phía khổ não, không
-đưa đến Niết-bàn. Ba tầm nào? Này các thầy, dục tầm gây bóng tối, không
-làm sanh mắt, gây vô trí, chướng ngại tuệ, thuộc về phía khổ não, không
-đưa đến Niết-bàn. Này các thầy, sân tầm gây bóng tối, không làm sanh
-mắt, gây vô trí, chướng ngại tuệ, thuộc về phía khổ não, không đưa đến
-Niết-bàn. Này các thầy, hại tầm gây bóng tối, không làm sanh mắt, gây
-vô trí, chướng ngại tuệ, thuộc về phía khổ não, không đưa đến Niết-bàn.
-Này các thầy, đó là ba tầm bất thiện, gây bóng tối, không làm sanh mắt,
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba tầm bất thiện gây bóng tối, không làm sanh mắt,
 gây vô trí, chướng ngại tuệ, thuộc về phía khổ não, không đưa đến
-Niết-bàn.
+Niết-bàn. Ba tầm nào? Dục tầm, sân tầm và hại tầm — này các thầy, đó
+là ba tầm bất thiện gây bóng tối, không làm sanh mắt, gây vô trí,
+chướng ngại tuệ, thuộc về phía khổ não, không đưa đến Niết-bàn.
 
-Này các thầy, có ba tầm thiện, không gây bóng tối, làm sanh mắt, làm
+Này các thầy, có ba tầm thiện không gây bóng tối, làm sanh mắt, làm
 sanh trí, tăng trưởng tuệ, không thuộc về phía khổ não, đưa đến
-Niết-bàn. Ba tầm nào? Này các thầy, xuất ly tầm không gây bóng tối, làm
-sanh mắt, làm sanh trí, tăng trưởng tuệ, không thuộc về phía khổ não,
-đưa đến Niết-bàn. Này các thầy, vô sân tầm không gây bóng tối, làm sanh
-mắt, làm sanh trí, tăng trưởng tuệ, không thuộc về phía khổ não, đưa
-đến Niết-bàn. Này các thầy, vô hại tầm không gây bóng tối, làm sanh
-mắt, làm sanh trí, tăng trưởng tuệ, không thuộc về phía khổ não, đưa
-đến Niết-bàn. Này các thầy, đó là ba tầm thiện, không gây bóng tối, làm
-sanh mắt, làm sanh trí, tăng trưởng tuệ, không thuộc về phía khổ não,
-đưa đến Niết-bàn." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
-vầy: \
+Niết-bàn. Ba tầm nào? Xuất ly tầm, vô sân tầm và vô hại tầm — này các
+thầy, đó là ba tầm thiện không gây bóng tối, làm sanh mắt, làm sanh
+trí, tăng trưởng tuệ, không thuộc về phía khổ não, đưa đến Niết-bàn."
+Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Hãy tầm ba tầm thiện, \
-hãy dẹp ba tầm bất thiện. \
-Vị ấy dập tắt các tầm đã được suy xét, \
-như mưa dập bụi đã bị quét. \
-Với tâm đã chỉ tức các tầm, \
+hãy gạt bỏ ba tầm bất thiện. \
+Vị ấy dập tắt các tầm đã chạy rong, \
+như mưa dập đám bụi bị cuốn lên. \
+Với tâm đã lắng dịu các tầm, \
 ngay ở đây vị ấy chứng được tịch tịnh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tám.)]
 
 ==== 88. Kinh Cáu Bẩn Bên Trong (Antarāmalasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba cáu bẩn bên trong, kẻ thù bên trong,
-địch thủ bên trong, kẻ giết bên trong, đối nghịch bên trong. Ba pháp
-nào? Này các thầy, tham là cáu bẩn bên trong, kẻ thù bên trong, địch
-thủ bên trong, kẻ giết bên trong, đối nghịch bên trong. Này các thầy,
-sân là cáu bẩn bên trong, kẻ thù bên trong, địch thủ bên trong, kẻ giết
-bên trong, đối nghịch bên trong. Này các thầy, si là cáu bẩn bên trong,
-kẻ thù bên trong, địch thủ bên trong, kẻ giết bên trong, đối nghịch bên
-trong. Này các thầy, đó là ba cáu bẩn bên trong, kẻ thù bên trong, địch
-thủ bên trong, kẻ giết bên trong, đối nghịch bên trong." Thế Tôn đã nói
-ý ấy. Ở đây, điều ấy được nói như vầy: \
-"Tham sanh phi nghĩa, \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba cáu bẩn bên trong, kẻ thù bên trong, địch thủ bên
+trong, kẻ giết bên trong, đối nghịch bên trong. Ba pháp nào? Tham, sân
+và si — này các thầy, đó là ba cáu bẩn bên trong, kẻ thù bên trong,
+địch thủ bên trong, kẻ giết bên trong, đối nghịch bên trong." Thế Tôn
+đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+"Tham sanh ra điều bất lợi, \
 tham làm tâm rối loạn; \
-sợ hãi sanh từ bên trong, \
+nỗi sợ sanh từ bên trong, \
 người đời không hiểu rõ. \
-Kẻ tham không biết nghĩa, \
+Kẻ tham không biết nghĩa lý, \
 kẻ tham không thấy pháp; \
 khi tham chế ngự người, \
 bóng tối mù mịt hiện ra. \
-Ai đoạn tham rồi, \
-không tham đối với những gì đáng tham, \
-tham được đoạn nơi vị ấy, \
+Còn ai đoạn tham rồi, \
+không tham nơi những gì đáng tham, \
+tham rơi khỏi vị ấy, \
 như giọt nước trên lá sen. \
-Sân sanh phi nghĩa, \
+Sân sanh ra điều bất lợi, \
 sân làm tâm rối loạn; \
-sợ hãi sanh từ bên trong, \
+nỗi sợ sanh từ bên trong, \
 người đời không hiểu rõ. \
-Kẻ sân không biết nghĩa, \
+Kẻ sân không biết nghĩa lý, \
 kẻ sân không thấy pháp; \
 khi sân chế ngự người, \
 bóng tối mù mịt hiện ra. \
-Ai đoạn sân rồi, \
-không sân đối với những gì đáng sân, \
-sân được đoạn nơi vị ấy, \
+Còn ai đoạn sân rồi, \
+không sân nơi những gì đáng sân, \
+sân rơi khỏi vị ấy, \
 như trái thốt nốt rời cuống. \
-Si sanh phi nghĩa, \
+Si sanh ra điều bất lợi, \
 si làm tâm rối loạn; \
-sợ hãi sanh từ bên trong, \
+nỗi sợ sanh từ bên trong, \
 người đời không hiểu rõ. \
-Kẻ si không biết nghĩa, \
+Kẻ si không biết nghĩa lý, \
 kẻ si không thấy pháp; \
 khi si chế ngự người, \
 bóng tối mù mịt hiện ra. \
-Ai đoạn si rồi, \
-không si đối với những gì đáng si, \
+Còn ai đoạn si rồi, \
+không si nơi những gì đáng si, \
 vị ấy diệt hết si, \
 như mặt trời mọc diệt bóng tối." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ chín.)]
 
 ==== 89. Kinh Devadatta (Devadattasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, bị ba phi chánh pháp chế ngự, tâm bị chiếm
-đoạt, Devadatta phải đọa xứ, phải địa ngục, phải ở đó một kiếp, không
-thể chữa. Ba pháp nào? Này các thầy, bị ác dục chế ngự, tâm bị chiếm
-đoạt, Devadatta phải đọa xứ, phải địa ngục, phải ở đó một kiếp, không
-thể chữa. Này các thầy, bị ác hữu chế ngự, tâm bị chiếm đoạt, Devadatta
-phải đọa xứ, phải địa ngục, phải ở đó một kiếp, không thể chữa. Lại nữa,
-khi còn việc cao hơn phải làm, vị ấy dừng giữa đường với sự chứng đắc
-thấp kém. Này các thầy, bị ba phi chánh pháp ấy chế ngự, tâm bị chiếm
-đoạt, Devadatta phải đọa xứ, phải địa ngục, phải ở đó một kiếp, không
-thể chữa." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, bị ba phi chánh pháp chế ngự, tâm bị chiếm đoạt,
+Devadatta phải đọa xứ, phải địa ngục, phải ở đó trọn một kiếp, không
+thể cứu chữa. Ba pháp nào? Bị ác dục chế ngự; bị ác hữu chế ngự; và
+khi còn việc cao hơn phải làm, vị ấy lại dừng giữa đường với một chứng
+đắc thấp kém — tâm bị chiếm đoạt. Này các thầy, bị ba phi chánh pháp
+ấy chế ngự, tâm bị chiếm đoạt, Devadatta phải đọa xứ, phải địa ngục,
+phải ở đó trọn một kiếp, không thể cứu chữa." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
 "Chớ để ai ở đời \
 sanh ra với ác dục. \
 Hãy biết bằng chính điều này \
@@ -2000,8 +2211,8 @@ rơi vào địa ngục Avīci \
 bốn cửa, đáng sợ. \
 Ai hại người không sân, \
 người không làm ác, \
-chính ác ấy chạm đến \
-kẻ tâm độc, không kính. \
+chính điều ác ấy chạm đến \
+kẻ tâm độc, không kính trọng. \
 Ai nghĩ lấy bình độc \
 làm ô nhiễm biển cả, \
 không thể làm ô nhiễm được, \
@@ -2010,11 +2221,11 @@ Cũng vậy, ai dùng lời \
 não hại Như Lai, \
 bậc đã đi đúng đường, tâm tịch tĩnh — \
 lời ấy không bám được nơi Ngài. \
-Hãy kết bạn như thế, \
+Hãy kết bạn với người như thế, \
 bậc trí hãy thân cận vị ấy: \
 Tỷ-kheo theo con đường của vị ấy \
 sẽ đạt đến sự đoạn tận khổ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười.)]
 
@@ -2031,39 +2242,39 @@ cùng Devadatta — ấy là mười.
 
 ==== 90. Kinh Tịnh Tín Tối Thượng (Aggappasādasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba tịnh tín tối thượng. Ba pháp nào?
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba tịnh tín tối thượng. Ba pháp nào?
 
 Này các thầy, trong tất cả chúng sanh — không chân hay hai chân, bốn
 chân hay nhiều chân, có sắc hay không sắc, có tưởng hay không tưởng,
 hay phi tưởng phi phi tưởng — Như Lai được tuyên bố là tối thượng, bậc
-A-la-hán, Chánh Đẳng Giác. Này các thầy, những ai tịnh tín đối với Phật,
-họ tịnh tín đối với bậc tối thượng. Mà những ai tịnh tín đối với bậc tối
-thượng, quả dị thục cũng là tối thượng.
+A-la-hán, Chánh Đẳng Giác. Này các thầy, những ai tịnh tín nơi Phật là
+tịnh tín nơi bậc tối thượng. Mà những ai tịnh tín nơi bậc tối thượng,
+quả dị thục cũng là tối thượng.
 
 Này các thầy, trong tất cả các pháp — hữu vi hay vô vi — ly tham được
-tuyên bố là tối thượng, tức là sự dẹp say mê, sự nhiếp phục khát ái, sự
-nhổ tận chỗ nương, sự cắt đứt luân hồi, sự đoạn tận ái, ly tham, diệt,
-Niết-bàn. Này các thầy, những ai tịnh tín đối với pháp ly tham, họ tịnh
-tín đối với bậc tối thượng. Mà những ai tịnh tín đối với bậc tối thượng,
-quả dị thục cũng là tối thượng.
+tuyên bố là tối thượng, tức là dẹp say mê, nhiếp phục khát ái, nhổ tận
+chỗ nương, cắt đứt luân hồi, đoạn tận ái, ly tham, diệt, Niết-bàn. Này
+các thầy, những ai tịnh tín nơi pháp ly tham là tịnh tín nơi bậc tối
+thượng. Mà những ai tịnh tín nơi bậc tối thượng, quả dị thục cũng là
+tối thượng.
 
 Này các thầy, trong tất cả các chúng hay các hội, chúng đệ tử của Như
 Lai được tuyên bố là tối thượng, tức là bốn đôi, tám vị: đây là chúng
 đệ tử của Thế Tôn, đáng cúng dường, đáng tiếp đãi, đáng bố thí, đáng
-chắp tay, là ruộng phước vô thượng của thế gian. Này các thầy, những ai
-tịnh tín đối với Tăng, họ tịnh tín đối với bậc tối thượng. Mà những ai
-tịnh tín đối với bậc tối thượng, quả dị thục cũng là tối thượng.
+chắp tay, là ruộng phước vô thượng của thế gian. Này các thầy, những
+ai tịnh tín nơi Tăng là tịnh tín nơi bậc tối thượng. Mà những ai tịnh
+tín nơi bậc tối thượng, quả dị thục cũng là tối thượng.
 
-Này các thầy, đó là ba tịnh tín tối thượng." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
-"Những ai tịnh tín từ bậc tối thượng, \
+Này các thầy, đó là ba tịnh tín tối thượng." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
+"Những ai tịnh tín nơi bậc tối thượng, \
 biết pháp tối thượng; \
-tịnh tín Phật tối thượng, \
+tịnh tín nơi Phật tối thượng, \
 đáng cúng dường, vô thượng. \
-Tịnh tín pháp tối thượng, \
+Tịnh tín nơi pháp tối thượng, \
 ly tham, tịch tịnh, an lạc; \
-tịnh tín Tăng tối thượng, \
+tịnh tín nơi Tăng tối thượng, \
 ruộng phước vô thượng. \
 Bố thí nơi chỗ tối thượng, \
 phước tối thượng tăng trưởng: \
@@ -2073,30 +2284,30 @@ Bậc trí bố thí cho bậc tối thượng, \
 an trú nơi pháp tối thượng, \
 làm trời hay làm người, \
 đạt tối thượng, được hoan hỷ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 ==== 91. Kinh Sinh Kế (Jīvikasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, đây là cùng tận của các sinh kế, tức là
-khất thực. Này các thầy, đây là lời nguyền rủa ở đời: 'Ngươi đi khất
-thực, tay cầm bát.' Thế nhưng, này các thầy, các thiện nam tử đi đến
-điều ấy vì nghĩa lợi, nương nghĩa lợi; không bị vua dẫn đến, không bị
-giặc dẫn đến, không vì nợ nần, không vì sợ hãi, không vì mất nghề nuôi
-thân. Mà vì: 'Ta bị chìm trong sanh, già, chết, sầu, bi, khổ, ưu, não;
-bị chìm trong khổ, bị khổ chi phối. Mong rằng sự chấm dứt toàn bộ khối
-khổ này được tỏ rõ.'
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, đây là cùng tận của các sinh kế, tức là khất thực. Này
+các thầy, đây là lời nguyền rủa ở đời: 'Ngươi đi khất thực, tay cầm
+bát.' Thế nhưng, này các thầy, các thiện nam tử đi đến điều ấy vì
+nghĩa lợi, nương nghĩa lợi; không bị vua dẫn đến, không bị giặc dẫn
+đến, không vì nợ nần, không vì sợ hãi, không vì mất nghề nuôi thân. Mà
+vì: 'Ta bị chìm trong sanh, già, chết, sầu, bi, khổ, ưu, não; bị chìm
+trong khổ, bị khổ chi phối. Mong rằng sự chấm dứt toàn bộ khối khổ
+này được tỏ rõ.'
 
 Này các thầy, thiện nam tử xuất gia như vậy, thế mà lại tham lam, dục
-tham mạnh đối với các dục, tâm sân hận, ý nghĩ độc ác, thất niệm, không
-tỉnh giác, không định, tâm tán loạn, các căn buông lung. Này các thầy,
-như que củi từ xác chết, hai đầu đều cháy, giữa dính phân, không dùng
-làm củi được ở làng, cũng không dùng được ở rừng. Này các thầy, Ta nói
-hạng người này cũng như vậy: mất lợi dưỡng của cư sĩ, lại không viên
-mãn mục đích của Sa-môn hạnh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được
-nói như vầy: \
+tham mạnh đối với các dục, tâm sân hận, ý nghĩ độc ác, thất niệm,
+không tỉnh giác, không định, tâm tán loạn, các căn buông lung. Này các
+thầy, ví như que củi từ xác chết, hai đầu đều cháy, giữa dính phân,
+không dùng làm củi được ở làng, cũng không dùng được ở rừng. Này các
+thầy, Ta nói hạng người này cũng như vậy: mất lợi dưỡng của cư sĩ, lại
+không viên mãn mục đích của Sa-môn hạnh." Thế Tôn đã nói ý ấy. Ở đây,
+điều ấy được nói như vầy: \
 "Mất lợi dưỡng của cư sĩ, \
 lại không may với mục đích Sa-môn; \
 hủy hoại, tan rã, \
@@ -2109,50 +2320,50 @@ Thà nuốt hòn sắt, \
 nóng như ngọn lửa, \
 còn hơn kẻ phá giới, không chế ngự, \
 ăn đồ khất thực của quốc độ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ hai.)]
 
 ==== 92. Kinh Vạt Y (Saṅghāṭikaṇṇasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, dù Tỷ-kheo nắm vạt y tăng-già-lê, bước theo
-sau lưng Ta, chân đặt theo chân Ta, nếu vị ấy tham lam, dục tham mạnh
-đối với các dục, tâm sân hận, ý nghĩ độc ác, thất niệm, không tỉnh giác,
-không định, tâm tán loạn, các căn buông lung — thì vị ấy vẫn cách xa
-Ta, và Ta cách xa vị ấy. Vì sao? Này các thầy, vì Tỷ-kheo ấy không thấy
-Pháp. Không thấy Pháp thì không thấy Ta.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, dù Tỷ-kheo nắm vạt y tăng-già-lê, bước theo sau lưng
+Ta, chân đặt theo chân Ta, nếu vị ấy tham lam, dục tham mạnh đối với
+các dục, tâm sân hận, ý nghĩ độc ác, thất niệm, không tỉnh giác, không
+định, tâm tán loạn, các căn buông lung — thì vị ấy vẫn cách xa Ta, và
+Ta cách xa vị ấy. Vì sao? Này các thầy, vì Tỷ-kheo ấy không thấy Pháp.
+Không thấy Pháp thì không thấy Ta.
 
-Này các thầy, dù Tỷ-kheo ấy trú cách xa cả trăm do-tuần, nếu vị ấy không
-tham lam, dục tham không mạnh đối với các dục, tâm không sân hận, ý nghĩ
-không độc ác, niệm an trú, tỉnh giác, định, tâm nhất cảnh, các căn được
-nhiếp hộ — thì vị ấy vẫn ở gần Ta, và Ta ở gần vị ấy. Vì sao? Này các
-thầy, vì Tỷ-kheo ấy thấy Pháp. Thấy Pháp thì thấy Ta." Thế Tôn đã nói ý
-ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, dù Tỷ-kheo ấy trú cách xa cả trăm do-tuần, nếu vị ấy
+không tham lam, dục tham không mạnh đối với các dục, tâm không sân
+hận, ý nghĩ không độc ác, niệm an trú, tỉnh giác, định, tâm nhất
+cảnh, các căn được nhiếp hộ — thì vị ấy vẫn ở gần Ta, và Ta ở gần vị
+ấy. Vì sao? Này các thầy, vì Tỷ-kheo ấy thấy Pháp. Thấy Pháp thì thấy
+Ta." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Dù bước theo sau, \
 nếu nhiều dục, khổ não, \
-theo dao động, theo bậc không dao động, \
-chưa tịch tĩnh, theo bậc tịch tĩnh, \
-tham lam, theo bậc hết tham — \
+dao động theo bậc không dao động, \
+chưa tịch tĩnh theo bậc tịch tĩnh, \
+tham lam theo bậc hết tham — \
 hãy nhìn, cách xa biết bao. \
 Còn ai thắng trí pháp, \
 liễu tri pháp, bậc trí, \
 như hồ nước không gió, \
-không dao động, được chỉ tức. \
-Không dao động, theo bậc không dao động, \
-tịch tĩnh, theo bậc tịch tĩnh, \
-không tham, theo bậc hết tham — \
+không dao động, được lắng dịu. \
+Không dao động theo bậc không dao động, \
+tịch tĩnh theo bậc tịch tĩnh, \
+không tham theo bậc hết tham — \
 hãy nhìn, gần biết bao." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ ba.)]
 
 ==== 93. Kinh Lửa (Aggisuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba lửa. Ba lửa nào? Lửa tham, lửa sân,
-lửa si. Này các thầy, đó là ba lửa." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
-được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba lửa. Ba lửa nào? Lửa tham, lửa sân và lửa si. Này
+các thầy, đó là ba lửa." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
+như vầy: \
 "Lửa tham thiêu đốt loài người \
 đam mê, mê muội trong các dục; \
 lửa sân thiêu kẻ sân hận, \
@@ -2181,35 +2392,35 @@ Bậc thấy Thánh, đạt minh, \
 bậc trí nhờ chánh trí, \
 thắng tri sự đoạn tận sanh, \
 không còn đi đến tái sanh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tư.)]
 
 ==== 94. Kinh Quán Sát (Upaparikkhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Tỷ-kheo hãy quán sát như thế này, thế nọ,
-sao cho khi quán sát, thức của vị ấy không tán loạn, không phân tán ra
-ngoài, không an trú bên trong, và do không chấp thủ nên không áy náy.
-Này các thầy, khi thức không tán loạn, không phân tán ra ngoài, không
-an trú bên trong, do không chấp thủ nên không áy náy, thì không có sự
-sanh khởi của tập khởi khổ sanh, già, chết trong tương lai." Thế Tôn đã
-nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Tỷ-kheo hãy quán sát như thế này, như thế nọ, sao cho
+khi quán sát, thức của vị ấy không tán loạn, không phân tán ra ngoài,
+không an trú bên trong, và do không chấp thủ nên không áy náy. Này các
+thầy, khi thức không tán loạn, không phân tán ra ngoài, không an trú
+bên trong, do không chấp thủ nên không áy náy, thì không có sự sanh
+khởi của tập khởi khổ sanh, già, chết trong tương lai." Thế Tôn đã nói
+ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Tỷ-kheo đã đoạn sự dính mắc với chúng sanh, \
 đã cắt đứt dòng dẫn, \
 luân hồi sanh đã diệt tận, \
 vị ấy không còn tái sanh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ năm.)]
 
 ==== 95. Kinh Sanh Thú Dục (Kāmūpapattisuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có ba sanh thú dục. Ba sanh thú nào? Dục
-hiện tiền, chư thiên Nimmānarati, chư thiên Paranimmitavasavatti. Này
-các thầy, đó là ba sanh thú dục." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
-được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có ba sanh thú dục. Ba sanh thú nào? Dục hiện tiền, chư
+thiên Nimmānarati và chư thiên Paranimmitavasavatti. Này các thầy, đó
+là ba sanh thú dục." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
 "Dục hiện tiền, \
 và chư thiên Vasavatti, \
 chư thiên Nimmānarati, \
@@ -2228,19 +2439,19 @@ Bậc thấy Thánh, đạt minh, \
 bậc trí nhờ chánh trí, \
 thắng tri sự đoạn tận sanh, \
 không còn đi đến tái sanh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 ==== 96. Kinh Ách Dục (Kāmayogasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, ai còn bị trói bởi ách dục, còn bị trói bởi
-ách hữu, là người còn trở lại, còn đến trạng thái này. Này các thầy, ai
-đã ly ách dục, còn bị trói bởi ách hữu, là bậc Bất lai, không còn đến
-trạng thái này. Này các thầy, ai đã ly ách dục, đã ly ách hữu, là bậc
-A-la-hán, đã đoạn tận lậu hoặc." Thế Tôn đã nói ý ấy. Ở đây, điều ấy
-được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, ai còn bị trói bởi ách dục, còn bị trói bởi ách hữu, là
+người còn trở lại, còn đến trạng thái này. Này các thầy, ai đã ly ách
+dục, còn bị trói bởi ách hữu, là bậc Bất lai, không còn đến trạng thái
+này. Này các thầy, ai đã ly ách dục, đã ly ách hữu, là bậc A-la-hán,
+đã đoạn tận lậu hoặc." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
+như vầy: \
 "Bị trói bởi ách dục, \
 và bởi ách hữu, cả hai, \
 chúng sanh đi trong luân hồi, \
@@ -2253,16 +2464,15 @@ Còn những vị đã cắt nghi, \
 đã đoạn mạn, không còn tái sanh, \
 họ đã đến bờ bên kia ở đời, \
 những vị đã đạt sự đoạn tận lậu hoặc." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
 #strong[Kinh Thiện Giới]
 
-#super[2] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Tỷ-kheo thiện giới, thiện pháp, thiện tuệ,
-trong Pháp và Luật này được gọi là 'bậc hoàn toàn, đã sống xong, bậc
-thượng nhân'.
+#super[2] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Tỷ-kheo thiện giới, thiện pháp, thiện tuệ, trong Pháp và
+Luật này được gọi là 'bậc hoàn toàn, đã sống xong, bậc thượng nhân'.
 
 Này các thầy, thế nào là Tỷ-kheo thiện giới? Ở đây, này các thầy,
 Tỷ-kheo có giới, sống chế ngự với sự chế ngự của giới bổn Pātimokkha,
@@ -2270,18 +2480,18 @@ thành tựu oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ 
 thọ trì và học tập trong các học giới. Như vậy, này các thầy, Tỷ-kheo
 là thiện giới. Ấy là thiện giới.
 
-Còn thiện pháp là thế nào? Ở đây, này các thầy, Tỷ-kheo sống chuyên tâm
-tu tập bảy nhóm pháp trợ đạo. Như vậy, này các thầy, Tỷ-kheo là thiện
-pháp. Ấy là thiện giới, thiện pháp.
+Còn thiện pháp là thế nào? Ở đây, này các thầy, Tỷ-kheo sống chuyên
+tâm tu tập bảy nhóm pháp trợ đạo. Như vậy, này các thầy, Tỷ-kheo là
+thiện pháp. Ấy là thiện giới, thiện pháp.
 
 Còn thiện tuệ là thế nào? Ở đây, này các thầy, Tỷ-kheo do đoạn tận các
 lậu hoặc, ngay trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu
 và an trú tâm giải thoát, tuệ giải thoát không lậu hoặc. Như vậy, này
 các thầy, Tỷ-kheo là thiện tuệ.
 
-Như vậy, thiện giới, thiện pháp, thiện tuệ, trong Pháp và Luật này được
-gọi là 'bậc hoàn toàn, đã sống xong, bậc thượng nhân'." Thế Tôn đã nói
-ý ấy. Ở đây, điều ấy được nói như vầy: \
+Như vậy, thiện giới, thiện pháp, thiện tuệ, trong Pháp và Luật này
+được gọi là 'bậc hoàn toàn, đã sống xong, bậc thượng nhân'." Thế Tôn
+đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Ai thân, miệng, ý \
 không có ác hạnh, \
 Tỷ-kheo có hổ thẹn ấy \
@@ -2298,15 +2508,15 @@ Thành tựu các pháp ấy, \
 không khổ, đã cắt nghi, \
 không dính mắc với tất cả thế gian — \
 được gọi là bậc đã bỏ tất cả." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tám.)]
 
 ==== 97. Kinh Bố Thí (Dānasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có hai sự bố thí: tài thí và pháp thí. Này
-các thầy, đây là tối thắng trong hai sự bố thí ấy, tức là pháp thí.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có hai sự bố thí: tài thí và pháp thí. Này các thầy,
+đây là tối thắng trong hai sự bố thí ấy, tức là pháp thí.
 
 Này các thầy, có hai sự san sẻ: san sẻ tài vật và san sẻ pháp. Này các
 thầy, đây là tối thắng trong hai sự san sẻ ấy, tức là san sẻ pháp.
@@ -2323,51 +2533,53 @@ Những ai nói và nghe, cả hai, \
 tâm tịnh tín trong giáo pháp Thiện Thệ, \
 nghĩa lợi tối thượng của họ được thanh tịnh, \
 những vị không phóng dật trong giáo pháp Thiện Thệ." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ chín.)]
 
 ==== 98. Kinh Tam Minh (Tevijjasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Ta tuyên bố Bà-la-môn tam minh theo pháp,
-không phải chỉ bằng lời nói suông.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta tuyên bố Bà-la-môn tam minh theo pháp, không phải
+chỉ bằng lời nói suông.
 
-Này các thầy, thế nào là Ta tuyên bố Bà-la-môn tam minh theo pháp, không
-phải chỉ bằng lời nói suông? Ở đây, này các thầy, Tỷ-kheo nhớ lại nhiều
-đời sống quá khứ, như một đời, hai đời, ba đời, bốn đời, năm đời, mười
-đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm
-đời, một ngàn đời, một trăm ngàn đời, nhiều kiếp thành, nhiều kiếp hoại,
-nhiều kiếp thành hoại: 'Tại chỗ kia ta đã là người như vậy tên, như vậy
-họ, như vậy giai cấp, ăn uống như vậy, thọ khổ lạc như vậy, tuổi thọ như
-vậy. Từ chỗ ấy chết đi, ta sanh ra tại chỗ kia. Tại chỗ kia ta đã là
-người như vậy tên, như vậy họ, như vậy giai cấp, ăn uống như vậy, thọ
-khổ lạc như vậy, tuổi thọ như vậy. Từ chỗ ấy chết đi, ta sanh ra ở đây.'
-Như vậy vị ấy nhớ lại nhiều đời sống quá khứ cùng với các đặc tướng, các
-nét đại cương. Đây là minh thứ nhất vị ấy đã chứng được; vô minh bị
-diệt, minh sanh khởi; bóng tối bị diệt, ánh sáng sanh khởi — như đối với
-vị sống không phóng dật, nhiệt tâm, dốc lòng.
+Này các thầy, thế nào là Ta tuyên bố Bà-la-môn tam minh theo pháp,
+không phải chỉ bằng lời nói suông? Ở đây, này các thầy, Tỷ-kheo nhớ
+lại nhiều đời sống quá khứ, như một đời, hai đời, ba đời, bốn đời, năm
+đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời,
+một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều kiếp thành, nhiều
+kiếp hoại, nhiều kiếp thành hoại: 'Tại chỗ kia ta đã là người như vậy
+tên, như vậy họ, như vậy giai cấp, ăn uống như vậy, thọ khổ lạc như
+vậy, tuổi thọ như vậy. Từ chỗ ấy chết đi, ta sanh ra tại chỗ kia. Tại
+chỗ kia ta đã là người như vậy tên, như vậy họ, như vậy giai cấp, ăn
+uống như vậy, thọ khổ lạc như vậy, tuổi thọ như vậy. Từ chỗ ấy chết
+đi, ta sanh ra ở đây.' Như vậy vị ấy nhớ lại nhiều đời sống quá khứ
+cùng với các đặc tướng, các nét đại cương. Đây là minh thứ nhất vị ấy
+đã chứng được; vô minh bị diệt, minh sanh khởi; bóng tối bị diệt, ánh
+sáng sanh khởi — như đối với vị sống không phóng dật, nhiệt tâm, dốc
+lòng.
 
 Lại nữa, này các thầy, Tỷ-kheo với thiên nhãn thanh tịnh, siêu nhân,
-thấy chúng sanh chết đi, sanh ra, hạ liệt, cao quý, đẹp, xấu, thiện thú,
-ác thú, tuệ tri chúng sanh đi theo nghiệp: 'Những chúng sanh này thành
-tựu thân ác hạnh, khẩu ác hạnh, ý ác hạnh, phỉ báng các bậc Thánh, theo
-tà kiến, thọ trì nghiệp tà kiến; khi thân hoại mạng chung họ sanh vào
-đọa xứ, ác thú, đọa lạc, địa ngục. Còn những chúng sanh này thành tựu
-thân thiện hạnh, khẩu thiện hạnh, ý thiện hạnh, không phỉ báng các bậc
-Thánh, theo chánh kiến, thọ trì nghiệp chánh kiến; khi thân hoại mạng
-chung họ sanh vào thiện thú, cõi trời.' Như vậy, với thiên nhãn thanh
-tịnh, siêu nhân, vị ấy thấy chúng sanh chết đi, sanh ra, hạ liệt, cao
-quý, đẹp, xấu, thiện thú, ác thú, tuệ tri chúng sanh đi theo nghiệp. Đây
-là minh thứ hai vị ấy đã chứng được; vô minh bị diệt, minh sanh khởi;
-bóng tối bị diệt, ánh sáng sanh khởi — như đối với vị sống không phóng
-dật, nhiệt tâm, dốc lòng.
+thấy chúng sanh chết đi, sanh ra, hạ liệt, cao quý, đẹp, xấu, thiện
+thú, ác thú, tuệ tri chúng sanh đi theo nghiệp: 'Những chúng sanh này
+thành tựu thân ác hạnh, khẩu ác hạnh, ý ác hạnh, phỉ báng các bậc
+Thánh, theo tà kiến, thọ trì nghiệp tà kiến; khi thân hoại mạng chung
+họ sanh vào đọa xứ, ác thú, đọa lạc, địa ngục. Còn những chúng sanh
+này thành tựu thân thiện hạnh, khẩu thiện hạnh, ý thiện hạnh, không
+phỉ báng các bậc Thánh, theo chánh kiến, thọ trì nghiệp chánh kiến;
+khi thân hoại mạng chung họ sanh vào thiện thú, cõi trời.' Như vậy,
+với thiên nhãn thanh tịnh, siêu nhân, vị ấy thấy chúng sanh chết đi,
+sanh ra, hạ liệt, cao quý, đẹp, xấu, thiện thú, ác thú, tuệ tri chúng
+sanh đi theo nghiệp. Đây là minh thứ hai vị ấy đã chứng được; vô minh
+bị diệt, minh sanh khởi; bóng tối bị diệt, ánh sáng sanh khởi — như
+đối với vị sống không phóng dật, nhiệt tâm, dốc lòng.
 
-Lại nữa, này các thầy, Tỷ-kheo do đoạn tận các lậu hoặc, ngay trong hiện
-tại tự mình thắng trí, chứng ngộ, thành tựu và an trú tâm giải thoát,
-tuệ giải thoát không lậu hoặc. Đây là minh thứ ba vị ấy đã chứng được;
-vô minh bị diệt, minh sanh khởi; bóng tối bị diệt, ánh sáng sanh khởi —
-như đối với vị sống không phóng dật, nhiệt tâm, dốc lòng.
+Lại nữa, này các thầy, Tỷ-kheo do đoạn tận các lậu hoặc, ngay trong
+hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú tâm giải
+thoát, tuệ giải thoát không lậu hoặc. Đây là minh thứ ba vị ấy đã
+chứng được; vô minh bị diệt, minh sanh khởi; bóng tối bị diệt, ánh
+sáng sanh khởi — như đối với vị sống không phóng dật, nhiệt tâm, dốc
+lòng.
 
 Như vậy, này các thầy, Ta tuyên bố Bà-la-môn tam minh theo pháp, không
 phải chỉ bằng lời nói suông." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được
@@ -2380,7 +2592,7 @@ Với ba minh ấy, \
 Bà-la-môn là bậc tam minh. \
 Ta gọi vị ấy là tam minh, \
 không phải chỉ bằng lời nói suông." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười.)]
 
@@ -2399,11 +2611,11 @@ bố thí, với pháp — ấy là mười.
 
 === 99. Kinh Tế Pháp Bà-la-môn (Brāhmaṇadhammayāgasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Ta là Bà-la-môn, đáng được thỉnh cầu, luôn
-tay trong sạch, mang thân cuối cùng, lương y vô thượng, phẫu thuật sư.
-Các thầy là con ruột của Ta, sanh từ miệng, sanh từ pháp, do pháp tạo
-thành, thừa tự pháp, không thừa tự tài vật.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta là Bà-la-môn, đáng được thỉnh cầu, luôn tay trong
+sạch, mang thân cuối cùng, lương y vô thượng, phẫu thuật sư. Các thầy
+là con ruột của Ta, sanh từ miệng, sanh từ pháp, do pháp tạo thành,
+thừa tự pháp, không thừa tự tài vật.
 
 Này các thầy, có hai sự bố thí: tài thí và pháp thí. Này các thầy, đây
 là tối thắng trong hai sự bố thí ấy, tức là pháp thí.
@@ -2415,31 +2627,31 @@ Này các thầy, có hai sự nhiếp thọ: nhiếp thọ bằng tài vật v�
 bằng pháp. Này các thầy, đây là tối thắng trong hai sự nhiếp thọ ấy,
 tức là nhiếp thọ bằng pháp.
 
-Này các thầy, có hai sự tế: tế tài và tế pháp. Này các thầy, đây là tối
-thắng trong hai sự tế ấy, tức là tế pháp." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
+Này các thầy, có hai sự tế: tế tài và tế pháp. Này các thầy, đây là
+tối thắng trong hai sự tế ấy, tức là tế pháp." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
 "Ai đã tế pháp tế, không keo kiệt, \
 Như Lai, thương xót mọi loài: \
 chúng sanh đảnh lễ bậc như thế, \
 tối thắng giữa chư thiên và loài người, \
 đã đến bờ bên kia của hữu." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ nhất.)]
 
 === 100. Kinh Dễ Được (Sulabhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có bốn pháp này ít ỏi, dễ được, và chúng
-không có tội. Bốn pháp nào? Này các thầy, trong các y, y phấn tảo là ít
-ỏi, dễ được, và không có tội. Này các thầy, trong các thức ăn, nắm cơm
-khất thực là ít ỏi, dễ được, và không có tội. Này các thầy, trong các
-sàng tọa, gốc cây là ít ỏi, dễ được, và không có tội. Này các thầy,
-trong các thuốc men, nước tiểu lên men là ít ỏi, dễ được, và không có
-tội. Này các thầy, đó là bốn pháp ít ỏi, dễ được, và chúng không có tội.
-Này các thầy, khi Tỷ-kheo biết đủ với cái ít ỏi, dễ được, không có tội,
-Ta nói đây là một chi phần của Sa-môn hạnh." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có bốn pháp này ít ỏi, dễ được, và chúng không có tội.
+Bốn pháp nào? Này các thầy, trong các y, y phấn tảo là ít ỏi, dễ
+được, và không có tội. Này các thầy, trong các thức ăn, nắm cơm khất
+thực là ít ỏi, dễ được, và không có tội. Này các thầy, trong các sàng
+tọa, gốc cây là ít ỏi, dễ được, và không có tội. Này các thầy, trong
+các thuốc men, nước tiểu lên men là ít ỏi, dễ được, và không có tội.
+Này các thầy, đó là bốn pháp ít ỏi, dễ được, và chúng không có tội.
+Này các thầy, khi Tỷ-kheo biết đủ với cái ít ỏi, dễ được, không có
+tội, Ta nói đây là một chi phần của Sa-môn hạnh." Thế Tôn đã nói ý
+ấy. Ở đây, điều ấy được nói như vầy: \
 "Biết đủ với cái không tội, \
 ít ỏi, dễ được, \
 không vì sàng tọa, \
@@ -2450,22 +2662,22 @@ Những pháp đã được tuyên thuyết \
 thuận với Sa-môn hạnh, \
 được nắm giữ bởi Tỷ-kheo \
 biết đủ, không phóng dật." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ hai.)]
 
 === 101. Kinh Đoạn Lậu (Āsavakkhayasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, Ta nói sự đoạn tận các lậu hoặc cho người
-biết, người thấy, không phải cho người không biết, không thấy. Này các
-thầy, biết gì, thấy gì thì các lậu hoặc được đoạn tận? Này các thầy,
-biết, thấy 'đây là khổ' thì các lậu hoặc được đoạn tận. Này các thầy,
-biết, thấy 'đây là khổ tập' thì các lậu hoặc được đoạn tận. Này các
-thầy, biết, thấy 'đây là khổ diệt' thì các lậu hoặc được đoạn tận. Này
-các thầy, biết, thấy 'đây là con đường đưa đến khổ diệt' thì các lậu
-hoặc được đoạn tận. Này các thầy, biết như vậy, thấy như vậy thì các lậu
-hoặc được đoạn tận." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, Ta nói sự đoạn tận các lậu hoặc cho người biết, người
+thấy, không phải cho người không biết, không thấy. Này các thầy, biết
+gì, thấy gì thì các lậu hoặc được đoạn tận? Này các thầy, biết, thấy
+'đây là khổ' thì các lậu hoặc được đoạn tận. Này các thầy, biết, thấy
+'đây là khổ tập' thì các lậu hoặc được đoạn tận. Này các thầy, biết,
+thấy 'đây là khổ diệt' thì các lậu hoặc được đoạn tận. Này các thầy,
+biết, thấy 'đây là con đường đưa đến khổ diệt' thì các lậu hoặc được
+đoạn tận. Này các thầy, biết như vậy, thấy như vậy thì các lậu hoặc
+được đoạn tận." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
 vầy: \
 "Với vị hữu học đang học, \
 đi theo đường ngay, \
@@ -2479,30 +2691,30 @@ Nhưng Niết-bàn, sự thoát khỏi mọi hệ phược, \
 không thể chứng được \
 bởi kẻ biếng nhác, \
 kẻ ngu không tuệ tri." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ ba.)]
 
 === 102. Kinh Sa-môn Bà-la-môn (Samaṇabrāhmaṇasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có những Sa-môn hay Bà-la-môn không như
-thật tuệ tri 'đây là khổ', không như thật tuệ tri 'đây là khổ tập',
-không như thật tuệ tri 'đây là khổ diệt', không như thật tuệ tri 'đây là
-con đường đưa đến khổ diệt'. Này các thầy, Ta không thừa nhận những
-Sa-môn hay Bà-la-môn ấy là Sa-môn giữa các Sa-môn, không thừa nhận là
-Bà-la-môn giữa các Bà-la-môn. Các tôn giả ấy cũng không ngay trong hiện
-tại tự mình thắng trí, chứng ngộ, thành tựu và an trú mục đích của
-Sa-môn hạnh hay mục đích của Bà-la-môn hạnh.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có những Sa-môn hay Bà-la-môn không như thật tuệ tri
+'đây là khổ', không như thật tuệ tri 'đây là khổ tập', không như thật
+tuệ tri 'đây là khổ diệt', không như thật tuệ tri 'đây là con đường
+đưa đến khổ diệt'. Này các thầy, Ta không thừa nhận những Sa-môn hay
+Bà-la-môn ấy là Sa-môn giữa các Sa-môn, không thừa nhận là Bà-la-môn
+giữa các Bà-la-môn. Các tôn giả ấy cũng không ngay trong hiện tại tự
+mình thắng trí, chứng ngộ, thành tựu và an trú mục đích của Sa-môn
+hạnh hay mục đích của Bà-la-môn hạnh.
 
 Này các thầy, còn những Sa-môn hay Bà-la-môn nào như thật tuệ tri 'đây
-là khổ', như thật tuệ tri 'đây là khổ tập', như thật tuệ tri 'đây là khổ
-diệt', như thật tuệ tri 'đây là con đường đưa đến khổ diệt' — này các
-thầy, Ta thừa nhận những Sa-môn hay Bà-la-môn ấy là Sa-môn giữa các
-Sa-môn, thừa nhận là Bà-la-môn giữa các Bà-la-môn. Các tôn giả ấy ngay
-trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú mục
-đích của Sa-môn hạnh và mục đích của Bà-la-môn hạnh." Thế Tôn đã nói ý
-ấy. Ở đây, điều ấy được nói như vầy: \
+là khổ', như thật tuệ tri 'đây là khổ tập', như thật tuệ tri 'đây là
+khổ diệt', như thật tuệ tri 'đây là con đường đưa đến khổ diệt' — này
+các thầy, Ta thừa nhận những Sa-môn hay Bà-la-môn ấy là Sa-môn giữa
+các Sa-môn, thừa nhận là Bà-la-môn giữa các Bà-la-môn. Các tôn giả ấy
+ngay trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú
+mục đích của Sa-môn hạnh và mục đích của Bà-la-môn hạnh." Thế Tôn đã
+nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Những ai không tuệ tri khổ, \
 cũng không tuệ tri nguồn sanh khổ, \
 và chỗ khổ hoàn toàn \
@@ -2523,35 +2735,35 @@ họ thành tựu tâm giải thoát, \
 cũng thành tựu tuệ giải thoát; \
 họ có thể làm cho chấm dứt, \
 họ không còn đi đến sanh già." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tư.)]
 
 === 103. Kinh Thành Tựu Giới (Sīlasampannasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, những Tỷ-kheo thành tựu giới, thành tựu
-định, thành tựu tuệ, thành tựu giải thoát, thành tựu giải thoát tri
-kiến, là những vị giáo giới, chỉ bày, làm cho thấy, khuyến khích, khích
-lệ, làm cho hoan hỷ, đủ sức tuyên thuyết Chánh pháp. Này các thầy, Ta
-nói sự thấy các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự nghe các Tỷ-kheo
-ấy là nhiều lợi ích. Ta nói sự đi đến các Tỷ-kheo ấy là nhiều lợi ích.
-Ta nói sự thân cận hầu hạ các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự
-tùy niệm các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự xuất gia theo các
-Tỷ-kheo ấy là nhiều lợi ích. Vì sao? Này các thầy, khi thân cận, gần
-gũi, hầu hạ những Tỷ-kheo như vậy, uẩn giới dù chưa viên mãn cũng đi đến
-viên mãn nhờ tu tập. Uẩn định dù chưa viên mãn cũng đi đến viên mãn nhờ
-tu tập. Uẩn tuệ dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập. Uẩn
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, những Tỷ-kheo thành tựu giới, thành tựu định, thành tựu
+tuệ, thành tựu giải thoát, thành tựu giải thoát tri kiến, là những vị
+giáo giới, chỉ bày, làm cho thấy, khuyến khích, khích lệ, làm cho hoan
+hỷ, đủ sức tuyên thuyết Chánh pháp. Này các thầy, Ta nói sự thấy các
+Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự nghe các Tỷ-kheo ấy là nhiều
+lợi ích. Ta nói sự đi đến các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự
+thân cận hầu hạ các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự tùy niệm
+các Tỷ-kheo ấy là nhiều lợi ích. Ta nói sự xuất gia theo các Tỷ-kheo
+ấy là nhiều lợi ích. Vì sao? Này các thầy, khi thân cận, gần gũi, hầu
+hạ những Tỷ-kheo như vậy, uẩn giới dù chưa viên mãn cũng đi đến viên
+mãn nhờ tu tập. Uẩn định dù chưa viên mãn cũng đi đến viên mãn nhờ tu
+tập. Uẩn tuệ dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập. Uẩn
 giải thoát dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập. Uẩn giải
 thoát tri kiến dù chưa viên mãn cũng đi đến viên mãn nhờ tu tập.
 
 Này các thầy, những Tỷ-kheo như vậy được gọi là bậc Đạo Sư, cũng được
-gọi là người dẫn đoàn, cũng được gọi là bậc đã bỏ trận, cũng được gọi là
-bậc xua bóng tối, cũng được gọi là bậc làm ra ánh sáng, cũng được gọi là
-bậc làm ra hào quang, cũng được gọi là bậc làm ra ánh lửa, cũng được gọi
-là người cầm đuốc, cũng được gọi là bậc làm sáng tỏ, cũng được gọi là
-bậc Thánh, cũng được gọi là bậc có mắt." Thế Tôn đã nói ý ấy. Ở đây,
-điều ấy được nói như vầy: \
+gọi là người dẫn đoàn, cũng được gọi là bậc đã bỏ trận, cũng được gọi
+là bậc xua bóng tối, cũng được gọi là bậc làm ra ánh sáng, cũng được
+gọi là bậc làm ra hào quang, cũng được gọi là bậc làm ra ánh lửa, cũng
+được gọi là người cầm đuốc, cũng được gọi là bậc làm sáng tỏ, cũng
+được gọi là bậc Thánh, cũng được gọi là bậc có mắt." Thế Tôn đã nói ý
+ấy. Ở đây, điều ấy được nói như vầy: \
 "Đây là chỗ sanh hoan hỷ \
 cho những người hiểu biết: \
 tức là các bậc đã tu tập tâm, \
@@ -2564,20 +2776,20 @@ Nghe giáo pháp của các vị ấy, \
 bậc trí nhờ chánh trí, \
 thắng tri sự đoạn tận sanh, \
 không còn đi đến tái sanh." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ năm.)]
 
 === 104. Kinh Sanh Ái (Taṇhuppādasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, có bốn sự sanh ái, chỗ ái của Tỷ-kheo khi
-sanh thì sanh. Bốn sự nào? Này các thầy, ái của Tỷ-kheo khi sanh thì
-sanh vì y; này các thầy, ái của Tỷ-kheo khi sanh thì sanh vì đồ ăn khất
-thực; này các thầy, ái của Tỷ-kheo khi sanh thì sanh vì sàng tọa; này
-các thầy, ái của Tỷ-kheo khi sanh thì sanh vì sự trở thành thế này thế
-nọ. Này các thầy, đó là bốn sự sanh ái, chỗ ái của Tỷ-kheo khi sanh thì
-sanh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, có bốn sự sanh ái, chỗ ái của Tỷ-kheo khi sanh thì
+sanh. Bốn sự nào? Này các thầy, ái của Tỷ-kheo khi sanh thì sanh vì
+y; này các thầy, ái của Tỷ-kheo khi sanh thì sanh vì đồ ăn khất thực;
+này các thầy, ái của Tỷ-kheo khi sanh thì sanh vì sàng tọa; này các
+thầy, ái của Tỷ-kheo khi sanh thì sanh vì sự trở thành thế này thế
+nọ. Này các thầy, đó là bốn sự sanh ái, chỗ ái của Tỷ-kheo khi sanh
+thì sanh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Người lấy ái làm bạn, \
 luân hồi dài lâu, \
 không vượt khỏi luân hồi \
@@ -2586,28 +2798,28 @@ Biết họa ấy, \
 ái là nguồn sanh khổ, \
 Tỷ-kheo hết ái, không chấp thủ, \
 có niệm, hãy đi khất thực." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ sáu.)]
 
 === 105. Kinh Cùng Phạm Thiên (Sabrahmakasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, những gia đình nào, đối với con cái, cha mẹ
-được tôn kính trong nhà, những gia đình ấy có Phạm thiên. Này các thầy,
-những gia đình nào, đối với con cái, cha mẹ được tôn kính trong nhà,
-những gia đình ấy có thiên thần thuở trước. Này các thầy, những gia đình
-nào, đối với con cái, cha mẹ được tôn kính trong nhà, những gia đình ấy
-có bậc thầy thuở trước. Này các thầy, những gia đình nào, đối với con
-cái, cha mẹ được tôn kính trong nhà, những gia đình ấy có bậc đáng cúng
-dường.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, những gia đình nào, đối với con cái, cha mẹ được tôn
+kính trong nhà, những gia đình ấy có Phạm thiên. Này các thầy, những
+gia đình nào, đối với con cái, cha mẹ được tôn kính trong nhà, những
+gia đình ấy có thiên thần thuở trước. Này các thầy, những gia đình
+nào, đối với con cái, cha mẹ được tôn kính trong nhà, những gia đình
+ấy có bậc thầy thuở trước. Này các thầy, những gia đình nào, đối với
+con cái, cha mẹ được tôn kính trong nhà, những gia đình ấy có bậc đáng
+cúng dường.
 
-Này các thầy, 'Phạm thiên' là tên gọi của cha mẹ. Này các thầy, 'thiên
-thần thuở trước' là tên gọi của cha mẹ. Này các thầy, 'bậc thầy thuở
-trước' là tên gọi của cha mẹ. Này các thầy, 'bậc đáng cúng dường' là tên
-gọi của cha mẹ. Vì sao? Này các thầy, cha mẹ có nhiều công đức đối với
-con cái: nuôi nấng, dưỡng dục, chỉ bày thế gian này." Thế Tôn đã nói ý
-ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, 'Phạm thiên' là tên gọi của cha mẹ. Này các thầy,
+'thiên thần thuở trước' là tên gọi của cha mẹ. Này các thầy, 'bậc thầy
+thuở trước' là tên gọi của cha mẹ. Này các thầy, 'bậc đáng cúng dường'
+là tên gọi của cha mẹ. Vì sao? Này các thầy, cha mẹ có nhiều công đức
+đối với con cái: nuôi nấng, dưỡng dục, chỉ bày thế gian này." Thế Tôn
+đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Cha mẹ được gọi là Phạm thiên, \
 là bậc thầy thuở trước, \
 đáng cúng dường đối với con cái, \
@@ -2622,21 +2834,22 @@ Nhờ sự hầu hạ ấy đối với cha mẹ, \
 các bậc trí \
 ngay ở đây được khen ngợi, \
 sau khi chết vui thú cõi trời." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ bảy.)]
 
 === 106. Kinh Nhiều Công Đức (Bahukārasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, các Bà-la-môn và gia chủ có nhiều công đức
-đối với các thầy, những vị đã hầu hạ các thầy với y, đồ ăn khất thực,
-sàng tọa, thuốc men trị bệnh. Này các thầy, các thầy cũng có nhiều công
-đức đối với các Bà-la-môn và gia chủ, khi các thầy thuyết pháp cho họ,
-sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, tuyên bố Phạm hạnh
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, các Bà-la-môn và gia chủ có nhiều công đức đối với các
+thầy, những vị đã hầu hạ các thầy với y, đồ ăn khất thực, sàng tọa,
+thuốc men trị bệnh. Này các thầy, các thầy cũng có nhiều công đức đối
+với các Bà-la-môn và gia chủ, khi các thầy thuyết pháp cho họ, sơ
+thiện, trung thiện, hậu thiện, có nghĩa, có văn, tuyên bố Phạm hạnh
 hoàn toàn viên mãn, thanh tịnh. Này các thầy, như vậy Phạm hạnh được
-sống nương tựa lẫn nhau, để vượt qua dòng nước lũ, để chấm dứt khổ một
-cách chân chánh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+sống nương tựa lẫn nhau, để vượt qua dòng nước lũ, để chấm dứt khổ
+một cách chân chánh." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
+như vầy: \
 "Người có nhà và người không nhà, \
 cả hai nương tựa lẫn nhau, \
 làm viên mãn Chánh pháp, \
@@ -2652,24 +2865,25 @@ Tu tập pháp ở đây, \
 con đường đưa đến thiện thú, \
 họ vui thích ở cõi trời, \
 hoan hỷ, còn ưa dục." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ tám.)]
 
 === 107. Kinh Lừa Dối (Kuhasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, những Tỷ-kheo nào lừa dối, cứng cỏi, nịnh
-hót, khoe khoang, kiêu căng, không định — này các thầy, những Tỷ-kheo
-ấy không phải là người của Ta. Này các thầy, những Tỷ-kheo ấy đã rời
-khỏi Pháp và Luật này; họ không đi đến tăng trưởng, lớn mạnh, viên mãn
-trong Pháp và Luật này.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, những Tỷ-kheo nào lừa dối, cứng cỏi, nịnh hót, khoe
+khoang, kiêu căng, không định — này các thầy, những Tỷ-kheo ấy không
+phải là người của Ta. Này các thầy, những Tỷ-kheo ấy đã rời khỏi Pháp
+và Luật này; họ không đi đến tăng trưởng, lớn mạnh, viên mãn trong
+Pháp và Luật này.
 
-Này các thầy, còn những Tỷ-kheo nào không lừa dối, không nịnh hót, vững
-chãi, không cứng cỏi, khéo định — này các thầy, những Tỷ-kheo ấy mới là
-người của Ta. Này các thầy, những Tỷ-kheo ấy không rời khỏi Pháp và Luật
-này; họ đi đến tăng trưởng, lớn mạnh, viên mãn trong Pháp và Luật này."
-Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, còn những Tỷ-kheo nào không lừa dối, không nịnh hót,
+vững chãi, không cứng cỏi, khéo định — này các thầy, những Tỷ-kheo ấy
+mới là người của Ta. Này các thầy, những Tỷ-kheo ấy không rời khỏi
+Pháp và Luật này; họ đi đến tăng trưởng, lớn mạnh, viên mãn trong
+Pháp và Luật này." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như
+vầy: \
 "Lừa dối, cứng cỏi, nịnh hót, khoe khoang, \
 kiêu căng, không định — \
 họ không lớn mạnh trong pháp \
@@ -2678,92 +2892,93 @@ Không lừa dối, không nịnh hót, vững chãi, \
 không cứng cỏi, khéo định — \
 họ lớn mạnh trong pháp \
 do bậc Chánh Đẳng Giác thuyết." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ chín.)]
 
 === 108. Kinh Dòng Sông (Nadīsotasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, ví như một người bị dòng sông cuốn đi, dòng
-sông có sắc đáng yêu, đáng thích. Một người có mắt đứng trên bờ, thấy
-vậy nói: 'Này ông, dù ông đang bị dòng sông cuốn đi, dòng sông có sắc
-đáng yêu, đáng thích, nhưng phía dưới có hồ nước có sóng, có xoáy, có
-cá sấu, có thủy quái. Này ông, khi ông đến hồ ấy, ông sẽ gặp chết, hoặc
-khổ gần như chết.' Này các thầy, người ấy nghe lời người kia, liền dùng
-tay chân cố gắng ngược dòng.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, ví như một người bị dòng sông cuốn đi, dòng sông có sắc
+đáng yêu, đáng thích. Một người có mắt đứng trên bờ, thấy vậy nói:
+'Này ông, dù ông đang bị dòng sông cuốn đi, dòng sông có sắc đáng yêu,
+đáng thích, nhưng phía dưới có hồ nước có sóng, có xoáy, có cá sấu, có
+thủy quái. Này ông, khi ông đến hồ ấy, ông sẽ gặp chết, hoặc khổ gần
+như chết.' Này các thầy, người ấy nghe lời người kia, liền dùng tay
+chân cố gắng ngược dòng.
 
-Này các thầy, Ta nêu ví dụ này để làm rõ ý nghĩa. Ở đây ý nghĩa là thế
-này. Này các thầy, 'dòng sông' là tên gọi của ái. Này các thầy, 'sắc
-đáng yêu, đáng thích' là tên gọi của sáu nội xứ. Này các thầy, 'hồ nước
-phía dưới' là tên gọi của năm hạ phần kiết sử. Này các thầy, 'sợ sóng'
-là tên gọi của phẫn nộ và ưu não. Này các thầy, 'xoáy nước' là tên gọi
-của năm dục công đức. Này các thầy, 'cá sấu thủy quái' là tên gọi của nữ
-nhân. Này các thầy, 'ngược dòng' là tên gọi của xuất ly. Này các thầy,
-'sự cố gắng bằng tay chân' là tên gọi của sự phát khởi tinh tấn. Này các
-thầy, 'người có mắt đứng trên bờ' là tên gọi của Như Lai, bậc A-la-hán,
-Chánh Đẳng Giác." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, Ta nêu ví dụ này để làm rõ ý nghĩa. Ở đây ý nghĩa là
+thế này. Này các thầy, 'dòng sông' là tên gọi của ái. Này các thầy,
+'sắc đáng yêu, đáng thích' là tên gọi của sáu nội xứ. Này các thầy,
+'hồ nước phía dưới' là tên gọi của năm hạ phần kiết sử. Này các thầy,
+'sợ sóng' là tên gọi của phẫn nộ và ưu não. Này các thầy, 'xoáy nước'
+là tên gọi của năm dục công đức. Này các thầy, 'cá sấu thủy quái' là
+tên gọi của nữ nhân. Này các thầy, 'ngược dòng' là tên gọi của xuất
+ly. Này các thầy, 'sự cố gắng bằng tay chân' là tên gọi của sự phát
+khởi tinh tấn. Này các thầy, 'người có mắt đứng trên bờ' là tên gọi
+của Như Lai, bậc A-la-hán, Chánh Đẳng Giác." Thế Tôn đã nói ý ấy. Ở
+đây, điều ấy được nói như vầy: \
 "Dù khổ, hãy bỏ các dục, \
 mong cầu an ổn khỏi ách trong tương lai. \
 Chánh trí, tâm khéo giải thoát, \
 chạm giải thoát chỗ này chỗ kia. \
 Vị ấy đạt minh, đã sống xong Phạm hạnh, \
 được gọi là đã đến tận thế gian, đã đến bờ bên kia." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười.)]
 
 === 109. Kinh Đi (Carasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, dù khi Tỷ-kheo đang đi, nếu dục tầm, sân
-tầm, hay hại tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận,
-không xua đuổi, không chấm dứt, không làm cho không còn — này các thầy,
-Tỷ-kheo đang đi mà như vậy được gọi là không nhiệt tâm, không biết hổ
-thẹn, thường xuyên, liên tục biếng nhác, tinh tấn kém.
-
-Này các thầy, dù khi Tỷ-kheo đang đứng, nếu dục tầm, sân tầm, hay hại
-tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận, không xua đuổi,
-không chấm dứt, không làm cho không còn — này các thầy, Tỷ-kheo đang
-đứng mà như vậy được gọi là không nhiệt tâm, không biết hổ thẹn, thường
-xuyên, liên tục biếng nhác, tinh tấn kém.
-
-Này các thầy, dù khi Tỷ-kheo đang ngồi, nếu dục tầm, sân tầm, hay hại
-tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận, không xua đuổi,
-không chấm dứt, không làm cho không còn — này các thầy, Tỷ-kheo đang
-ngồi mà như vậy được gọi là không nhiệt tâm, không biết hổ thẹn, thường
-xuyên, liên tục biếng nhác, tinh tấn kém.
-
-Này các thầy, dù khi Tỷ-kheo đang nằm mà thức, nếu dục tầm, sân tầm, hay
-hại tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận, không xua
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, dù khi Tỷ-kheo đang đi, nếu dục tầm, sân tầm, hay hại
+tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận, không xua
 đuổi, không chấm dứt, không làm cho không còn — này các thầy, Tỷ-kheo
-đang nằm mà thức như vậy được gọi là không nhiệt tâm, không biết hổ
-thẹn, thường xuyên, liên tục biếng nhác, tinh tấn kém.
+đang đi mà như vậy được gọi là không nhiệt tâm, không biết hổ thẹn,
+thường xuyên, liên tục biếng nhác, tinh tấn kém.
 
-Này các thầy, dù khi Tỷ-kheo đang đi, nếu dục tầm, sân tầm, hay hại tầm
-sanh khởi, mà Tỷ-kheo ấy không chịu đựng, đoạn tận, xua đuổi, chấm dứt,
-làm cho không còn — này các thầy, Tỷ-kheo đang đi mà như vậy được gọi là
-nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục tinh tấn đã phát khởi,
-dốc lòng.
+Này các thầy, dù khi Tỷ-kheo đang đứng, nếu dục tầm, sân tầm, hay hại
+tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận, không xua
+đuổi, không chấm dứt, không làm cho không còn — này các thầy, Tỷ-kheo
+đang đứng mà như vậy được gọi là không nhiệt tâm, không biết hổ thẹn,
+thường xuyên, liên tục biếng nhác, tinh tấn kém.
+
+Này các thầy, dù khi Tỷ-kheo đang ngồi, nếu dục tầm, sân tầm, hay hại
+tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận, không xua
+đuổi, không chấm dứt, không làm cho không còn — này các thầy, Tỷ-kheo
+đang ngồi mà như vậy được gọi là không nhiệt tâm, không biết hổ thẹn,
+thường xuyên, liên tục biếng nhác, tinh tấn kém.
+
+Này các thầy, dù khi Tỷ-kheo đang nằm mà thức, nếu dục tầm, sân tầm,
+hay hại tầm sanh khởi, mà Tỷ-kheo ấy chịu đựng, không đoạn tận, không
+xua đuổi, không chấm dứt, không làm cho không còn — này các thầy,
+Tỷ-kheo đang nằm mà thức như vậy được gọi là không nhiệt tâm, không
+biết hổ thẹn, thường xuyên, liên tục biếng nhác, tinh tấn kém.
+
+Này các thầy, dù khi Tỷ-kheo đang đi, nếu dục tầm, sân tầm, hay hại
+tầm sanh khởi, mà Tỷ-kheo ấy không chịu đựng, đoạn tận, xua đuổi, chấm
+dứt, làm cho không còn — này các thầy, Tỷ-kheo đang đi mà như vậy
+được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục tinh tấn
+đã phát khởi, dốc lòng.
 
 Này các thầy, dù khi Tỷ-kheo đang đứng, nếu dục tầm, sân tầm, hay hại
 tầm sanh khởi, mà Tỷ-kheo ấy không chịu đựng, đoạn tận, xua đuổi, chấm
-dứt, làm cho không còn — này các thầy, Tỷ-kheo đang đứng mà như vậy được
-gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục tinh tấn đã phát
-khởi, dốc lòng.
+dứt, làm cho không còn — này các thầy, Tỷ-kheo đang đứng mà như vậy
+được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục tinh tấn
+đã phát khởi, dốc lòng.
 
 Này các thầy, dù khi Tỷ-kheo đang ngồi, nếu dục tầm, sân tầm, hay hại
 tầm sanh khởi, mà Tỷ-kheo ấy không chịu đựng, đoạn tận, xua đuổi, chấm
-dứt, làm cho không còn — này các thầy, Tỷ-kheo đang ngồi mà như vậy được
-gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục tinh tấn đã phát
-khởi, dốc lòng.
+dứt, làm cho không còn — này các thầy, Tỷ-kheo đang ngồi mà như vậy
+được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục tinh tấn
+đã phát khởi, dốc lòng.
 
-Này các thầy, dù khi Tỷ-kheo đang nằm mà thức, nếu dục tầm, sân tầm, hay
-hại tầm sanh khởi, mà Tỷ-kheo ấy không chịu đựng, đoạn tận, xua đuổi,
-chấm dứt, làm cho không còn — này các thầy, Tỷ-kheo đang nằm mà thức như
-vậy được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục tinh tấn
-đã phát khởi, dốc lòng." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
-như vầy: \
+Này các thầy, dù khi Tỷ-kheo đang nằm mà thức, nếu dục tầm, sân tầm,
+hay hại tầm sanh khởi, mà Tỷ-kheo ấy không chịu đựng, đoạn tận, xua
+đuổi, chấm dứt, làm cho không còn — này các thầy, Tỷ-kheo đang nằm mà
+thức như vậy được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên
+tục tinh tấn đã phát khởi, dốc lòng." Thế Tôn đã nói ý ấy. Ở đây,
+điều ấy được nói như vầy: \
 "Đi hay đứng, \
 ngồi hay nằm, \
 ai tầm những tầm ác \
@@ -2778,78 +2993,77 @@ ngồi hay nằm, \
 ưa thích sự chỉ tức tầm — \
 Tỷ-kheo như vậy có thể \
 chạm đến Chánh giác tối thượng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
-
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 #strong[(Kinh thứ mười một.)]
 
 === 110. Kinh Đầy Đủ Giới (Sampannasīlasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, hãy sống đầy đủ giới, đầy đủ giới bổn
-Pātimokkha; hãy sống chế ngự với sự chế ngự của giới bổn Pātimokkha,
-thành tựu oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt; hãy
-thọ trì và học tập trong các học giới.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, hãy sống đầy đủ giới, đầy đủ giới bổn Pātimokkha. Hãy
+sống chế ngự với sự chế ngự của giới bổn Pātimokkha, thành tựu oai nghi
+chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt. Hãy thọ trì và học tập
+trong các học giới.
 
 Này các thầy, khi các thầy sống đầy đủ giới, đầy đủ giới bổn Pātimokkha,
 sống chế ngự với sự chế ngự của giới bổn Pātimokkha, thành tựu oai nghi
 chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, thọ trì và học tập
 trong các học giới — còn gì nữa phải làm thêm?
 
-Này các thầy, dù khi Tỷ-kheo đang đi, nếu tham đã diệt, sân đã diệt, hôn
-trầm thụy miên đã diệt, trạo hối đã diệt, nghi đã đoạn, tinh tấn đã được
-phát khởi không thối thất, niệm đã an trú không thất niệm, thân đã khinh
-an không dao động, tâm đã định, nhất tâm — này các thầy, Tỷ-kheo đang đi
+Này các thầy, dù đang đi, nếu Tỷ-kheo đã diệt tham, đã diệt sân, đã diệt
+hôn trầm thụy miên, đã diệt trạo hối, đã đoạn nghi, tinh tấn đã phát
+khởi không thối thất, niệm đã an trú không thất niệm, thân đã khinh an
+không dao động, tâm đã định, nhất tâm — này các thầy, Tỷ-kheo đang đi
 mà như vậy được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên tục
 tinh tấn đã phát khởi, dốc lòng.
 
-Này các thầy, dù khi Tỷ-kheo đang đứng, nếu tham đã diệt, sân đã diệt,
-hôn trầm thụy miên đã diệt, trạo hối đã diệt, nghi đã đoạn, tinh tấn đã
-được phát khởi không thối thất, niệm đã an trú không thất niệm, thân đã
-khinh an không dao động, tâm đã định, nhất tâm — này các thầy, Tỷ-kheo
-đang đứng mà như vậy được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên,
-liên tục tinh tấn đã phát khởi, dốc lòng.
+Này các thầy, dù đang đứng, nếu Tỷ-kheo đã diệt tham, đã diệt sân, đã
+diệt hôn trầm thụy miên, đã diệt trạo hối, đã đoạn nghi, tinh tấn đã
+phát khởi không thối thất, niệm đã an trú không thất niệm, thân đã khinh
+an không dao động, tâm đã định, nhất tâm — này các thầy, Tỷ-kheo đang
+đứng mà như vậy được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên
+tục tinh tấn đã phát khởi, dốc lòng.
 
-Này các thầy, dù khi Tỷ-kheo đang ngồi, nếu tham đã diệt, sân đã diệt,
-hôn trầm thụy miên đã diệt, trạo hối đã diệt, nghi đã đoạn, tinh tấn đã
-được phát khởi không thối thất, niệm đã an trú không thất niệm, thân đã
-khinh an không dao động, tâm đã định, nhất tâm — này các thầy, Tỷ-kheo
-đang ngồi mà như vậy được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên,
-liên tục tinh tấn đã phát khởi, dốc lòng.
+Này các thầy, dù đang ngồi, nếu Tỷ-kheo đã diệt tham, đã diệt sân, đã
+diệt hôn trầm thụy miên, đã diệt trạo hối, đã đoạn nghi, tinh tấn đã
+phát khởi không thối thất, niệm đã an trú không thất niệm, thân đã khinh
+an không dao động, tâm đã định, nhất tâm — này các thầy, Tỷ-kheo đang
+ngồi mà như vậy được gọi là nhiệt tâm, biết hổ thẹn, thường xuyên, liên
+tục tinh tấn đã phát khởi, dốc lòng.
 
-Này các thầy, dù khi Tỷ-kheo đang nằm mà thức, nếu tham đã diệt, sân đã
-diệt, hôn trầm thụy miên đã diệt, trạo hối đã diệt, nghi đã đoạn, tinh
-tấn đã được phát khởi không thối thất, niệm đã an trú không thất niệm,
-thân đã khinh an không dao động, tâm đã định, nhất tâm — này các thầy,
+Này các thầy, dù đang nằm mà thức, nếu Tỷ-kheo đã diệt tham, đã diệt
+sân, đã diệt hôn trầm thụy miên, đã diệt trạo hối, đã đoạn nghi, tinh
+tấn đã phát khởi không thối thất, niệm đã an trú không thất niệm, thân
+đã khinh an không dao động, tâm đã định, nhất tâm — này các thầy,
 Tỷ-kheo đang nằm mà thức như vậy được gọi là nhiệt tâm, biết hổ thẹn,
 thường xuyên, liên tục tinh tấn đã phát khởi, dốc lòng." Thế Tôn đã nói
 ý ấy. Ở đây, điều ấy được nói như vầy: \
 "Hãy đi có chế ngự, đứng có chế ngự, \
 ngồi có chế ngự, nằm có chế ngự; \
-Tỷ-kheo hãy co có chế ngự, \
-hãy duỗi có chế ngự. \
+Tỷ-kheo hãy co lại có chế ngự, \
+hãy duỗi ra có chế ngự. \
 Trên, ngang, phía sau, \
-cho đến đâu là đường đi của thế gian, \
+xa đến đâu là đường đi của thế gian, \
 hãy quán sát các pháp, \
-sanh diệt của các uẩn. \
+sự sanh diệt của các uẩn. \
 Sống nhiệt tâm như vậy, \
 hạnh tịch tĩnh, không trạo cử, \
-đúng pháp chỉ tức tâm, \
+hành trì đúng pháp chỉ tức tâm, \
 luôn học, luôn có niệm — \
 Tỷ-kheo như thế ấy \
 được gọi là thường xuyên dốc lòng." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười hai.)]
 
 === 111. Kinh Thế Gian (Lokasuttaṃ)
 
-#super[1] Điều này được Thế Tôn thuyết, được bậc A-la-hán thuyết; tôi đã
-nghe như vậy. "Này các thầy, thế gian đã được Như Lai giác ngộ; Như Lai
-đã ly khỏi thế gian. Này các thầy, thế gian tập đã được Như Lai giác
-ngộ; thế gian tập đã được Như Lai đoạn tận. Này các thầy, thế gian diệt
-đã được Như Lai giác ngộ; thế gian diệt đã được Như Lai chứng ngộ. Này
-các thầy, con đường đưa đến thế gian diệt đã được Như Lai giác ngộ; con
-đường đưa đến thế gian diệt đã được Như Lai tu tập.
+#super[1] Điều này Thế Tôn đã nói, bậc A-la-hán đã nói; tôi nghe như vậy.
+"Này các thầy, thế gian đã được Như Lai giác ngộ; Như Lai đã ly khỏi
+thế gian. Này các thầy, thế gian tập đã được Như Lai giác ngộ; thế gian
+tập đã được Như Lai đoạn tận. Này các thầy, thế gian diệt đã được Như
+Lai giác ngộ; thế gian diệt đã được Như Lai chứng ngộ. Này các thầy,
+con đường đưa đến thế gian diệt đã được Như Lai giác ngộ; con đường đưa
+đến thế gian diệt đã được Như Lai tu tập.
 
 Này các thầy, những gì trong thế gian cùng với chư thiên, Ác ma, Phạm
 thiên, cùng với loài người có Sa-môn, Bà-la-môn, chư thiên và loài
@@ -2862,24 +3076,24 @@ Như Lai nhập Niết-bàn với Niết-bàn giới không dư y — những g�
 khoảng ấy Ngài nói, tuyên thuyết, chỉ bày, tất cả đều như thật, không
 khác; nên được gọi là Như Lai.
 
-Này các thầy, Như Lai nói như thế nào thì làm như thế ấy, làm như thế
-nào thì nói như thế ấy. Nói như làm, làm như nói; nên được gọi là Như
-Lai.
+Này các thầy, Như Lai nói sao thì làm vậy, làm sao thì nói vậy. Nói
+như làm, làm như nói; nên được gọi là Như Lai.
 
-Này các thầy, trong thế gian cùng với chư thiên, Ác ma, Phạm thiên, cùng
-với loài người có Sa-môn, Bà-la-môn, chư thiên và loài người, Như Lai là
-bậc chế ngự, không bị chế ngự, thấy tất cả, nắm quyền tự tại; nên được
-gọi là Như Lai." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói như vầy: \
+Này các thầy, trong thế gian cùng với chư thiên, Ác ma, Phạm thiên,
+cùng với loài người có Sa-môn, Bà-la-môn, chư thiên và loài người, Như
+Lai là bậc chế ngự, không bị chế ngự, thấy tất cả, nắm quyền tự tại;
+nên được gọi là Như Lai." Thế Tôn đã nói ý ấy. Ở đây, điều ấy được nói
+như vầy: \
 "Thắng tri toàn thế gian, \
 như thật đối với toàn thế gian, \
 ly khỏi toàn thế gian, \
 không dính mắc toàn thế gian. \
 Thật vậy, bậc trí chế ngự tất cả, \
 thoát khỏi mọi hệ phược; \
-tịch tịnh tối thượng đã chạm đến vị ấy, \
+vị ấy đã chạm đến tịch tịnh tối thượng, \
 Niết-bàn không còn sợ hãi từ đâu. \
 Đây là bậc đã đoạn tận lậu hoặc, bậc Giác, \
-không khổ, đã cắt nghi, \
+không còn khổ, đã cắt nghi, \
 đã đạt sự đoạn tận mọi nghiệp, \
 giải thoát nơi sự đoạn tận sanh y. \
 Đây là Thế Tôn, bậc Giác, \
@@ -2898,7 +3112,7 @@ Họ đảnh lễ như vậy \
 bậc vĩ đại, đã hết sợ hãi; \
 trong thế gian cùng với chư thiên, \
 không có ai sánh được với Ngài." \
-Ý này cũng được Thế Tôn thuyết; tôi đã nghe như vậy.
+Ý này Thế Tôn cũng đã nói; tôi nghe như vậy.
 
 #strong[(Kinh thứ mười ba.)]
 
