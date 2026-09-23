@@ -1,9 +1,9 @@
 ---
 name: phien-am-pali
-description: Phiên âm, tra cứu và trình bày tên riêng cùng thuật ngữ Pali trong các bản dịch Việt của repo (kinh/ban-dich-doc-lap-tu-pali-goc). Dùng khi gặp tên người/địa danh/loài chúng sinh Pali chưa có tên Việt, khi cần chú thích "Việt (Pali)" cho lần xuất hiện đầu tiên, khi đặt tên kinh hoặc nhân vật, khi soát tính nhất quán của tên riêng, khi đổi tựa đề kinh/mục lục còn để Pali thô sang tiếng Việt (retitle-titles.py), hoặc khi cập nhật scripts/name-map*.tsv và các file *-titles.tsv. Không tự phiên âm khi đã có dạng chứng thực trong name-map.
+description: Phiên âm, tra cứu và trình bày tên riêng cùng thuật ngữ Pali trong các bản dịch Việt của repo (kinh/ban-dich-doc-lap-tu-pali-goc). Dùng khi gặp tên người/địa danh/loài chúng sinh Pali chưa có tên Việt, khi cần chú thích "Việt (Pali)" cho lần xuất hiện đầu tiên, khi đặt tên kinh hoặc nhân vật, khi soát tính nhất quán của tên riêng, khi đổi tựa đề kinh/mục lục còn để Pali thô sang tiếng Việt (retitle-titles.py), khi phiên âm hàng loạt địa danh/tên riêng còn thiếu trong kinh (annotate-names.py), hoặc khi cập nhật scripts/name-map*.tsv và các file *-titles.tsv. Không tự phiên âm khi đã có dạng chứng thực trong name-map.
 metadata:
   language: vi
-  version: "1.1.0"
+  version: "1.2.0"
 ---
 
 # Phiên âm Pali → tiếng Việt
@@ -84,6 +84,20 @@ Skill này phục vụ hai bài toán khác nhau, dễ lẫn quy tắc:
 - **Nhiều dạng chứng thực.** Cùng một tên có thể có vài phiên âm lưu hành
   (Vesālī: Tỳ-xá-ly / Vi-sa-lê). Map đã chốt một dạng — dùng dạng trong map,
   không thay bằng dạng gặp ở nguồn khác.
+- **Map xong mà vẫn trần → whitelist.** Tên ASCII không dấu chỉ được chú
+  thích khi có trong `ASCII_WHITELIST` — địa danh nổi tiếng hay viết trần
+  (Devavana, Bhagga, Subhagavana, Uttarakuru). Đã map mà text vẫn trần
+  thì nghĩ đến whitelist, không phải map.
+- **Annotate phải idempotent.** `--apply` chạy lần hai phải ra 0; nếu
+  sinh thêm thì `seen` chưa mark tên đã gloss — vá script, đừng apply
+  chồng lên (lỗi đã từng sinh 6.600 annotation thừa).
+- **Cùng địa danh, nhiều chính tả.** `Jāti`/`Jātiya`, `Vedisa`/`Vediyaka`,
+  `Setabya`/`Setabyā`, `Sappinī`/`Sippini`… phải map từng biến thể, gloss
+  nhất quán — thiếu một biến thể là địa danh vẫn trần.
+- **Tên đa nghĩa → phiên âm.** Token vừa là địa danh vừa là người/cây
+  (Kakudha, Sena, Udena, Dhammika, Kapila, Hatthi) dùng chung phiên âm —
+  đừng tách key. Chỉ thận trọng token là từ thường (Jāti, Paṭibhāna,
+  Vana): đếm lần viết hoa trong corpus trước khi thêm.
 - **Số thứ tự Pali cuối kinh** (`Paṭhamaṃ`, `Dutiyaṃ`…) không phải tên — bỏ,
   không dịch, không chú thích.
 - **Map có nhiễu.** `name-map.tsv` trích tự động nên chứa khoá là từ Việt
@@ -104,13 +118,16 @@ Skill này phục vụ hai bài toán khác nhau, dễ lẫn quy tắc:
 
 | Script / file | Việc |
 |---|---|
-| `scripts/annotate-names.py [--apply]` | Chú thích `Việt (Pali)` cho lần xuất hiện đầu mỗi đơn vị, khô phục hậu kiểm. Dry-run mặc định. |
+| `scripts/annotate-names.py [--apply]` | Chú thích `Việt (Pali)` cho lần xuất hiện đầu mỗi đơn vị, cả `.typ` lẫn `.parts/` nguồn; idempotent — chạy lại ra 0. Dry-run mặc định. |
 | `scripts/retitle-titles.py [--apply]` | Việt hoá tựa đề trong `*-titles.tsv` + vá heading `.typ` + đảo link `muc-luc.typ` thành `Việt (Pali)`. Dry-run mặc định; chạy lại sau mỗi lần assemble. |
 | `scripts/gen-name-translit.py` | Sinh đề xuất GEN cho tên có ≥10 lần xuất hiện chưa có gloss, nối vào `name-map-extra.tsv`. |
 | `scripts/extract-name-map.py` | Dựng lại `name-map.tsv` từ bản Việt sưu tầm + báo coverage. |
 | `scripts/missing-names.txt` | Tên còn thiếu gloss, xếp theo tần suất — điểm bắt đầu khi bổ sung map. |
 
 Chi tiết pipeline: [tra-cuu-va-cong-cu](references/tra-cuu-va-cong-cu.md).
+Pipeline riêng cho **địa danh hàng loạt** (phát hiện bằng marker + hậu tố,
+bảng chứng thực đã dùng, hai cửa chặn map/whitelist, luật idempotent):
+[dia-danh](references/dia-danh.md).
 
 ## Khi phiên âm từ đầu
 
