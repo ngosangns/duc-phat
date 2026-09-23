@@ -38,7 +38,10 @@ const VN_AN: Record<string, number> = {
 };
 
 const ROMAN: Record<string, number> = {
-  i: 1, ii: 2, iii: 3, iv: 4, v: 5, vi: 6, vii: 7, viii: 8, ix: 9, x: 10, xi: 11, xii: 12,
+  i: 1, ii: 2, iii: 3, iv: 4, v: 5, vi: 6, vii: 7, viii: 8, ix: 9, x: 10,
+  xi: 11, xii: 12, xiii: 13, xiv: 14, xv: 15, xvi: 16, xvii: 17, xviii: 18,
+  xix: 19, xx: 20, xxi: 21, xxii: 22, xxiii: 23, xxiv: 24, xxv: 25, xxvi: 26,
+  xxvii: 27, xxviii: 28, xxix: 29, xxx: 30,
 };
 
 const VIN: Record<string, string> = {
@@ -47,6 +50,29 @@ const VIN: Record<string, string> = {
   mahavagga: "mahavagga",
   culavagga: "culavagga",
   cullavagga: "culavagga",
+};
+
+/** vn SN "Phần ..." groups that stand in for saṃyuttas not numbered in the source. */
+const VN_SN_PHAN: Record<string, number> = {
+  "phan-mot-noi-gioi-nam-kinh": 14,
+  "phan-hai-ngoai-gioi-nam-kinh": 14,
+  "phan-mot-nam-muoi-kinh-thu-nhat": 35,
+  "phan-hai-nam-muoi-kinh-thu-hai": 35,
+  "phan-ba-nam-muoi-kinh-thu-ba": 35,
+  "phan-bon-nam-muoi-kinh-thu-tu": 35,
+  "phan-mot-pham-co-ke": 36,
+  "phan-hai-pham-song-mot-minh": 36,
+  "phan-ba-pham-mot-tram-le-tam-phap-mon": 36,
+  "phan-mot-pham-trung-luoc": 37,
+  "phan-hai-pham-trung-luoc-anuruddha-ii-ph": 37,
+  "phan-ba-pham-cac-suc-manh": 37,
+  "phan-mot-pham-mot": 43,
+  "phan-hai-pham-hai": 43,
+};
+
+/** vn KN "Chương ..." titles count in Vietnamese words, not digits. */
+const VN_NUM: Record<string, number> = {
+  mot: 1, hai: 2, ba: 3, bon: 4, nam: 5, sau: 6, bay: 7, tam: 8, chin: 9, muoi: 10,
 };
 
 /** Canon order of the books inside each nikāya. Folder names sort alphabetically, which is not this order. */
@@ -111,7 +137,7 @@ function parens(title: string): string[] {
   const out: string[] = [];
   for (const m of title.matchAll(/\(([^)]+)\)/g)) {
     const f = fold(m[1]);
-    if (f.length >= 5) out.push(f);
+    if (f.length >= 3) out.push(f);
   }
   return out;
 }
@@ -133,11 +159,15 @@ export function isFrontMatter(node: CatNode): boolean {
 
 function put(index: Index, key: string, ed: Edition, route: string) {
   const row = index.bridge.get(key) ?? {};
-  if (row[ed]) return;
-  row[ed] = route;
-  index.bridge.set(key, row);
+  if (!row[ed]) {
+    row[ed] = route;
+    index.bridge.set(key, row);
+  }
+  // Record the key on the route even when a same-edition sibling already
+  // claimed the slot: keysOf describes which keys this leaf was filed under,
+  // which is what parallelEdition needs to reach chapter-level fallbacks.
   const keys = index.keysOf.get(route) ?? [];
-  keys.push(key);
+  if (!keys.includes(key)) keys.push(key);
   index.keysOf.set(route, keys);
 }
 
@@ -189,7 +219,7 @@ export function buildBridges(cat: Catalog): Bridge {
   return buildIndex(cat).bridge;
 }
 
-function buildIndex(cat: Catalog): Index {
+export function buildIndex(cat: Catalog): Index {
   const hit = cache.get(cat);
   if (hit) return hit;
   const index: Index = { bridge: new Map(), keysOf: new Map(), covered: new Map() };
@@ -204,10 +234,156 @@ function buildIndex(cat: Catalog): Index {
       const nik = vol.id;
       const ls = leaves(vol).filter((n) => !isFrontMatter(n));
       if (ed === "vn" && nik === "sn") {
+        const pos: Record<number, number> = {};
+        const phanOrd: Record<number, number> = {};
         for (const ch of vol.children ?? []) {
-          if (!/^\d+$/.test(ch.id)) continue;
-          const sam = Number(ch.id);
-          leaves(ch).forEach((n, i) => put(index, `sn/${sam}.${i + 1}`, ed, n.route));
+          let sam = /^\d+$/.test(ch.id) ? Number(ch.id) : VN_SN_PHAN[ch.id];
+          if (!sam) continue;
+          if (VN_SN_PHAN[ch.id] != null) phanOrd[sam] = (phanOrd[sam] ?? 0) + 1;
+          for (const n of leaves(ch)) {
+            if (isFrontMatter(n)) continue;
+            put(index, `sn-sam/${sam}`, ed, n.route);
+            if (sam === 14) {
+              pos[sam] = (pos[sam] ?? 0) + 1;
+              put(index, `sn/${sam}.${pos[sam]}`, ed, n.route);
+            } else if (sam === 35) {
+              pos[sam] = (pos[sam] ?? 0) + 1;
+              put(index, `sn-pham/${sam}/${pos[sam]}`, ed, n.route);
+            } else if (VN_SN_PHAN[ch.id] != null) {
+              // "Phần" groups of SN 36/37/43 hold sub-chapters; the group
+              // itself corresponds to one canon vagga.
+              put(index, `sn-pham/${sam}/${phanOrd[sam]}`, ed, n.route);
+            }
+          }
+          if (/^\d+$/.test(ch.id)) {
+            leaves(ch).forEach((n, i) => {
+              if (!isFrontMatter(n)) put(index, `sn/${sam}.${i + 1}`, ed, n.route);
+            });
+          }
+        }
+      }
+      if (nik === "sn" && ed === "new") {
+        // Canon saṃyutta → vagga position so collected editions that keep
+        // chapter-level pages (vn "Phần ..." groups) still resolve.
+        for (const bookNode of vol.children ?? []) {
+          for (const samNode of bookNode.children ?? []) {
+            const m = samNode.id.match(/(\d+)/);
+            if (!m) continue;
+            const sam = Number(m[1]);
+            if (samNode.path) put(index, `sn-sam/${sam}`, ed, samNode.route);
+            let ord = 0;
+            for (const ch of samNode.children ?? []) {
+              if (isFrontMatter(ch)) continue;
+              ord += 1;
+              for (const leaf of leaves(ch)) {
+                put(index, `sn-pham/${sam}/${ord}`, ed, leaf.route);
+                put(index, `sn-sam/${sam}`, ed, leaf.route);
+              }
+            }
+          }
+        }
+      }
+      if (nik === "sn" && ed === "pali") {
+        // A pali leaf whose own name doesn't match can still land on the
+        // canon page for its vagga (e.g. Navātasuttaṃ → Catutthagamanavaggo).
+        for (const bookNode of vol.children ?? []) {
+          for (const grp of bookNode.children ?? []) {
+            const stem = bareTitle(grp.title ?? "");
+            if (stem.length < 4) continue;
+            for (const leaf of leaves(grp)) {
+              if (isFrontMatter(leaf)) continue;
+              put(index, `sn-name/${bookNode.id}/${stem}`, ed, leaf.route);
+            }
+          }
+        }
+      }
+      if (nik === "kn") {
+        if (ed === "vn") {
+          // Collected volumes: Khp roman numerals, Dhp "Phẩm", Ud "Chương N",
+          // Iti "Chương N - N Pháp", Snip "Chương N - Phẩm X".
+          for (const n of ls) {
+            const t = n.title;
+            const rm = t.match(/^([ivxlcdm]+)[.\s)]/i);
+            if (rm) {
+              const roman = ROMAN[rm[1].toLowerCase()];
+              if (roman) {
+                if (/phẩm/i.test(t)) put(index, `kn-vagga/dhammapada/${roman}`, ed, n.route);
+                else put(index, `kn/khuddakapatha/${roman}`, ed, n.route);
+                continue;
+              }
+            }
+            const cm = t.match(/^chương\s+(\S+)/i);
+            if (cm) {
+              const w = fold(cm[1]);
+              const num2 = VN_NUM[w];
+              if (!num2) continue;
+              if (/phẩm/i.test(t)) put(index, `kn-vagga/suttanipata/${num2}`, ed, n.route);
+              else if (/pháp/i.test(t)) put(index, `kn-nipata/itivuttaka/${num2}`, ed, n.route);
+              else put(index, `kn-vagga/udana/${num2}`, ed, n.route);
+            }
+          }
+        } else {
+          for (const bookNode of vol.children ?? []) {
+            const book = bookNode.id;
+            if (!(CANON_GROUPS.kn ?? []).includes(book)) continue;
+            let ord = 0;
+            for (const ch of bookNode.children ?? []) {
+              if (isFrontMatter(ch)) continue;
+              ord += 1;
+              const key =
+                book === "itivuttaka"
+                  ? `kn-nipata/${book}/${ord}`
+                  : `kn-vagga/${book}/${ord}`;
+              for (const leaf of leaves(ch)) put(index, key, ed, leaf.route);
+            }
+          }
+        }
+      }
+      if (nik === "vinaya") {
+        if (ed === "vn") {
+          // Collected volumes: tap-NN-...-<book>; "N. CHƯƠNG ..." leaves map
+          // to khandhaka ordinals, everything else lands on the book's first page.
+          for (const ch of vol.children ?? []) {
+            const fam = Object.entries(VIN).find(([token]) => ch.id.includes(token))?.[1];
+            if (!fam) continue;
+            for (const n of leaves(ch)) {
+              if (isFrontMatter(n)) continue;
+              const rm = n.title.match(/^([ivxlcdm]+)[.\s]/i);
+              const roman = rm ? ROMAN[rm[1].toLowerCase()] : undefined;
+              if (roman) put(index, `vin-kh/${fam}/${roman}`, ed, n.route);
+              put(index, `vin-kh/${fam}/0`, ed, n.route);
+            }
+          }
+        } else {
+          for (const bookNode of vol.children ?? []) {
+            const fam = VIN[bookNode.id];
+            if (!fam) continue;
+            let ord = 0;
+            let khOrd = 0;
+            let prevGid = 0;
+            for (const ch of bookNode.children ?? []) {
+              if (isFrontMatter(ch)) continue;
+              ord += 1;
+              if (ed === "pali") {
+                // Pali children are section groups: a "kkhandhaka" title opens
+                // a khandhaka, a gap in numeric ids marks an absorbed heading,
+                // and pacittiya vagga groups restart numbering per division.
+                const gid = Number(ch.id.match(/^\d+/)?.[0] ?? 0);
+                if (/kkhandhak/i.test(ch.title)) khOrd += 1;
+                else if (fam === "pacittiya" && gid && gid <= prevGid) khOrd += 1;
+                else if (khOrd === 0) khOrd = 1;
+                else if (gid > prevGid + 1) khOrd += gid - prevGid - 1;
+                if (gid) prevGid = gid;
+              }
+              const kh = ed === "new" ? lead(ch) ?? ord : ed === "pali" ? khOrd : undefined;
+              for (const leaf of leaves(ch)) {
+                if (kh != null) put(index, `vin-kh/${fam}/${kh}`, ed, leaf.route);
+                // Book-level fallback: resolves to the edition's first page of
+                // the book when no finer mapping exists.
+                put(index, `vin-kh/${fam}/0`, ed, leaf.route);
+              }
+            }
+          }
         }
       }
       if (ed === "vn" && nik === "an") {
@@ -221,6 +397,15 @@ function buildIndex(cat: Catalog): Index {
             const roman = ROMAN[ph.id.toLowerCase()];
             if (roman) put(index, `an-vagga/${nip}/${roman}`, ed, first.route);
           });
+          // vn AN7 merges the Āhuneyya peyyāla (canon vagga 10) into vagga IX
+          // "Các Kinh Không Nhiếp" — expose that page under vagga 10 too.
+          if (nip === 7 && ch.children?.[8]) {
+            const first = leaves(ch.children[8])[0];
+            if (first) {
+              put(index, "an-vagga/7/10", ed, first.route);
+              cover(index, "an-vagga/7/10", first.route);
+            }
+          }
         }
       }
       for (const n of ls) {
@@ -245,13 +430,14 @@ function buildIndex(cat: Catalog): Index {
           if (m) put(index, `sn/${Number(m[1])}.${Number(m[2])}`, ed, n.route);
           const names = parens(n.title);
           const bare = bareTitle(n.title);
-          for (const p of names.concat(bare && bare.length >= 5 ? [bare] : [])) {
+          for (const p of names.concat(bare && bare.length >= 3 ? [bare] : [])) {
             put(index, `sn-name/${book}/${p}`, ed, n.route);
             put(index, `sn-name/*/${p}`, ed, n.route);
           }
         } else if (nik === "an" && ed === "new") {
           const m = n.title.match(/AN\s*(\d+)\.(\d+)/i);
-          if (m) {
+          const isRange = /AN\s*\d+\.\d+\s*[–-]/.test(n.title);
+          if (m && !isRange) {
             const nip = Number(m[1]);
             const sutta = Number(m[2]);
             put(index, `an/${nip}.${sutta}`, ed, n.route);
@@ -265,23 +451,66 @@ function buildIndex(cat: Catalog): Index {
               cover(index, gkey, n.route);
               put(index, gkey, "new", n.route);
             }
+          } else if (m) {
+            const vag = parts(n)[3];
+            if (/^\d+$/.test(vag)) {
+              const gkey = `an-vagga/${Number(m[1])}/${Number(vag)}`;
+              cover(index, gkey, n.route);
+              put(index, gkey, "new", n.route);
+            }
+          } else {
+            // Vagga-level leaf ("3. Kẻ Ngu (Bālavaggo)") — collected editions
+            // and pali keep one page per vagga.
+            const vag = parts(n)[3];
+            const nip = AN_NIP[book];
+            if (nip && /^\d+$/.test(vag)) {
+              const gkey = `an-vagga/${nip}/${Number(vag)}`;
+              cover(index, gkey, n.route);
+              put(index, gkey, "new", n.route);
+            }
           }
           for (const p of parens(n.title)) put(index, `an-name/${book}/${p}`, ed, n.route);
         } else if (nik === "an" && ed === "pali") {
           const list = anPali.get(book) ?? [];
           list.push(n);
           anPali.set(book, list);
-        } else if (nik === "kn" && book && (num || bareTitle(n.title).length >= 5)) {
+          // Pali leaves sit inside vagga groups; the group ordinal matches the
+          // canon vagga position. Slugged ids ("1-pathamavaggo") are sub-vagga
+          // pages — only pure numeric groups carry the canon ordinal.
+          const nip = AN_NIP[book];
+          const vag = parts(n)[3];
+          if (nip && vag && /^\d+$/.test(vag)) {
+            put(index, `an-vagga/${nip}/${Number(vag)}`, "pali", n.route);
+          }
+          // AN1 vaggas 15–16 (Aṭṭhānapāḷi, Ekadhammapāḷi) are folded into the
+          // Etadagga peyyāla block in `new` — their pages belong under
+          // canon vagga 14.
+          if (book === "ekakanipata" && (/^1[56]$/.test(vag ?? "") || n.id === "4-catutthavaggo")) {
+            put(index, "an-vagga/1/14", "pali", n.route);
+          }
+          const bare = bareTitle(n.title);
+          for (const p of parens(n.title).concat(bare.length >= 3 ? [bare] : [])) {
+            put(index, `an-name/${book}/${p}`, ed, n.route);
+          }
+        } else if (nik === "kn" && book && (num || bareTitle(n.title).length >= 3)) {
           if (num) put(index, `kn/${book}/${num}`, ed, n.route);
           const names = parens(n.title);
           const bare = bareTitle(n.title);
-          for (const p of names.concat(bare.length >= 5 ? [bare] : [])) {
+          for (const p of names.concat(bare.length >= 3 ? [bare] : [])) {
             put(index, `kn-name/${book}/${p}`, ed, n.route);
           }
-        } else if (nik === "vinaya" && num) {
-          const blob = n.route;
-          const fam = Object.entries(VIN).find(([token]) => blob.includes(token))?.[1];
-          if (fam) put(index, `vin/${fam}/${num}`, ed, n.route);
+        } else if (nik === "vinaya") {
+          const fam = Object.entries(VIN).find(([token]) => n.route.includes(token))?.[1];
+          if (fam) {
+            // Only plain-numbered titles carry a cross-edition section number;
+            // "Mv 54." counts differently than the pali source's "54.", and
+            // pali leaf numbers are local section ordinals that would collide.
+            if (ed !== "pali" && num && /^\s*\d/.test(n.title)) put(index, `vin/${fam}/${num}`, ed, n.route);
+            const bare = bareTitle(n.title);
+            for (const p of parens(n.title).concat(bare.length >= 3 ? [bare] : [])) {
+              put(index, `vin-name/${fam}/${p}`, ed, n.route);
+            }
+          }
         }
       }
     }
@@ -313,16 +542,21 @@ function lookupKeys(node: CatNode, nik: string): string[] {
   if (nik === "mn" && num) keys.push(`mn/${num}`);
   if (nik === "sn") {
     const m = node.title.match(/(\d+)\.(\d+)/);
-    if (m) keys.push(`sn/${Number(m[1])}.${Number(m[2])}`);
+    if (m) {
+      keys.push(`sn/${Number(m[1])}.${Number(m[2])}`);
+      keys.push(`sn-sam/${Number(m[1])}`);
+    }
     const bare = bareTitle(node.title);
-    for (const p of parens(node.title).concat(bare && bare.length >= 5 ? [bare] : [])) {
+    for (const p of parens(node.title).concat(bare && bare.length >= 3 ? [bare] : [])) {
       keys.push(`sn-name/${book}/${p}`, `sn-name/*/${p}`);
     }
   }
   if (nik === "an") {
     const m = node.title.match(/AN\s*(\d+)\.(\d+)/i);
     if (m) {
-      keys.push(`an/${Number(m[1])}.${Number(m[2])}`);
+      if (!/AN\s*\d+\.\d+\s*[–-]/.test(node.title)) {
+        keys.push(`an/${Number(m[1])}.${Number(m[2])}`);
+      }
       const vag = s[3];
       if (vag && /^\d+$/.test(vag)) keys.push(`an-vagga/${Number(m[1])}/${Number(vag)}`);
     }
@@ -331,13 +565,21 @@ function lookupKeys(node: CatNode, nik: string): string[] {
   if (nik === "kn" && book) {
     if (num) keys.push(`kn/${book}/${num}`);
     const bare = bareTitle(node.title);
-    for (const p of parens(node.title).concat(bare.length >= 5 ? [bare] : [])) {
+    for (const p of parens(node.title).concat(bare.length >= 3 ? [bare] : [])) {
       keys.push(`kn-name/${book}/${p}`);
     }
   }
-  if (nik === "vinaya" && num) {
+  if (nik === "vinaya") {
     const fam = Object.entries(VIN).find(([token]) => node.route.includes(token))?.[1];
-    if (fam) keys.push(`vin/${fam}/${num}`);
+    if (fam) {
+      if (num && /^\s*\d/.test(node.title) && !node.route.startsWith("pali/"))
+        keys.push(`vin/${fam}/${num}`);
+      const bare = bareTitle(node.title);
+      for (const p of parens(node.title).concat(bare && bare.length >= 3 ? [bare] : [])) {
+        keys.push(`vin-name/${fam}/${p}`);
+      }
+      keys.push(`vin-kh/${fam}/0`);
+    }
   }
   return keys;
 }
@@ -349,9 +591,22 @@ export function parallelEdition(
   nikaya: string,
   target: Edition,
 ): string | null {
-  const bridge = buildBridges(cat);
-  for (const key of lookupKeys(node, nikaya)) {
-    const hit = bridge.get(key)?.[target];
+  const index = buildIndex(cat);
+  // Keys this route actually owns in the bridge carry the right offsets for
+  // editions that number locally (pali DN/MN vagga numbering, aligned pali AN).
+  const owned = (index.keysOf.get(node.route) ?? [])
+    .slice()
+    .sort((a, b) => keyRank(a) - keyRank(b));
+  const keys = owned.length
+    ? owned.concat(
+        // Drop inferred book-level numbers: editions that number locally
+        // (pali DN/MN) already recorded the correct numeric key at index
+        // time, so the inferred one would point at the wrong text.
+        lookupKeys(node, nikaya).filter((k) => keyRank(k) >= 2 && !owned.includes(k)),
+      )
+    : lookupKeys(node, nikaya);
+  for (const key of keys) {
+    const hit = index.bridge.get(key)?.[target];
     if (hit && hit !== node.route) return hit;
   }
   return null;
@@ -361,7 +616,16 @@ function keyRank(key: string): number {
   if (/^(dn|mn)\/\d+$/.test(key)) return 0;
   if (/^(sn|an)\/\d+\.\d+$/.test(key)) return 0;
   if (key.startsWith("kn/") || key.startsWith("vin/")) return 1;
-  if (key.startsWith("an-vagga/")) return 2;
+  if (key.startsWith("vin-kh/") && key.endsWith("/0")) return 6;
+  if (
+    key.startsWith("an-vagga/") ||
+    key.startsWith("sn-pham/") ||
+    key.startsWith("kn-vagga/") ||
+    key.startsWith("kn-nipata/") ||
+    key.startsWith("vin-kh/")
+  )
+    return 2;
+  if (key.startsWith("sn-sam/")) return 3;
   return 5;
 }
 
@@ -370,16 +634,20 @@ export function canonRoutesFor(cat: Catalog, route: string): string[] {
   const index = buildIndex(cat);
   const keys = [...(index.keysOf.get(route) ?? [])].sort((a, b) => keyRank(a) - keyRank(b));
   const specific = keys.filter((key) => keyRank(key) === 0);
-  const chosen = specific.length ? specific : keys;
   const out: string[] = [];
-  for (const key of chosen) {
-    const members = !specific.length ? index.covered.get(key) : undefined;
-    if (members?.length) {
-      for (const member of members) if (!out.includes(member)) out.push(member);
-      continue;
+  // Specific keys first; fall back to group-level keys when the edition splits
+  // a section differently and no exact canon slot exists.
+  for (const chosen of specific.length ? [specific, keys] : [keys]) {
+    for (const key of chosen) {
+      const members = keyRank(key) > 0 ? index.covered.get(key) : undefined;
+      if (members?.length) {
+        for (const member of members) if (!out.includes(member)) out.push(member);
+        continue;
+      }
+      const canon = index.bridge.get(key)?.new;
+      if (canon && !out.includes(canon)) out.push(canon);
     }
-    const canon = index.bridge.get(key)?.new;
-    if (canon && !out.includes(canon)) out.push(canon);
+    if (out.length) break;
   }
   if (!out.length && route.startsWith("new/")) out.push(route);
   return out;

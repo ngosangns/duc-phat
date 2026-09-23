@@ -350,7 +350,7 @@ Câu-lâu-tôn (Kakusandha), Câu-na-hàm (Koṇāgamana), Ca-diếp (Kassapa); 
 
 === Phẩm 2 (nguồn ghi 2). Thức Ăn (Āhāravaggo)
 
-==== Kinh 12.1. Thức Ăn (Āhārasuttaṃ)
+==== Kinh 12.11. Thức Ăn (Āhārasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Xá-vệ (Sāvatthī), trong
 vườn Kỳ Viên (Jetavana), tại tinh xá của ông Cấp Cô Độc (Anāthapiṇḍika)… Rồi
@@ -382,7 +382,7 @@ thức… Như vậy là sự tập khởi của toàn bộ khối khổ này. N
 đoạn diệt hoàn toàn vô minh mà có hành diệt; do hành diệt mà thức diệt… Như
 vậy là sự đoạn diệt của toàn bộ khối khổ này."
 
-==== Kinh 12.2. Pha-gu-na (Moḷiyaphaggunasuttaṃ)
+==== Kinh 12.12. Pha-gu-na (Moḷiyaphaggunasuttaṃ)
 
 #super[1] Tại Xá-vệ… "Này các Tỷ-kheo, có bốn loại thức ăn để các loài hữu
 tình đã sanh được tồn tại, và để giúp đỡ những loài đang tìm cách sanh khởi.
@@ -430,7 +430,7 @@ do thủ diệt mà hữu diệt; do hữu diệt mà sanh diệt; do sanh diệ
 sầu, bi, khổ, ưu, não đều diệt. Như vậy là sự đoạn diệt của toàn bộ khối khổ
 này."
 
-==== Kinh 12.3. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
+==== Kinh 12.13. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
 
 #super[1] Tại Xá-vệ… "Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào không
 biết già chết, không biết sự tập khởi của già chết, không biết sự đoạn diệt
@@ -454,7 +454,7 @@ là Sa-môn trong hàng Sa-môn, được xem là Bà-la-môn trong hàng Bà-la
 các Tôn giả ấy tự mình chứng tri, chứng ngộ, an trú ngay trong đời này mục
 đích của Sa-môn hạnh và mục đích của Phạm hạnh."
 
-==== Kinh 12.4. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 12.14. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] Tại Xá-vệ… "Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn nào không
 biết các pháp này, không biết sự tập khởi của các pháp này, không biết sự đoạn
@@ -491,7 +491,7 @@ họ biết, đó là sự đoạn diệt của những pháp họ biết, đó 
 Bà-la-môn; và các Tôn giả ấy tự mình chứng tri, chứng ngộ, an trú ngay trong
 đời này mục đích của Sa-môn hạnh và mục đích của Phạm hạnh."
 
-==== Kinh 12.5. Ca-xa-na-gô-đa (Kaccānagottasuttaṃ)
+==== Kinh 12.15. Ca-xa-na-gô-đa (Kaccānagottasuttaṃ)
 
 #super[1] Tại Xá-vệ. Rồi Tôn giả Ca-xa-na-gô-đa (Kaccānagotta) đến chỗ Thế Tôn, đảnh lễ Thế Tôn
 rồi ngồi xuống một bên. Ngồi một bên, Tôn giả Kaccānagotta bạch Thế Tôn: "Bạch
@@ -517,7 +517,7 @@ sự tập khởi của toàn bộ khối khổ này. Do ly tham, đoạn diệt
 mà có hành diệt; do hành diệt mà thức diệt… Như vậy là sự đoạn diệt của toàn
 bộ khối khổ này.'"
 
-==== Kinh 12.6. Thuyết Pháp (Dhammakathikasuttaṃ)
+==== Kinh 12.16. Thuyết Pháp (Dhammakathikasuttaṃ)
 
 #super[1] Tại Xá-vệ… Rồi một Tỷ-kheo nọ đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi
 ngồi xuống một bên. Ngồi một bên, Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn,
@@ -540,7 +540,7 @@ hành để nhàm chán, ly tham, đoạn diệt đối với vô minh, thì đ�
 tham, đoạn diệt đối với vô minh mà được giải thoát, không còn chấp thủ, thì đủ
 để gọi là 'Tỷ-kheo đạt Niết-bàn ngay trong đời này'."
 
-==== Kinh 12.7. Lõa Thể (Acelakassapasuttaṃ)
+==== Kinh 12.17. Lõa Thể (Acelakassapasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Vương Xá (Rājagaha),
 trong vườn Trúc Lâm (Veḷuvana), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa). Rồi
@@ -616,7 +616,7 @@ mình chứng tri, chứng ngộ và an trú mục đích tối thượng của 
 nhà. Vị ấy biết rõ: "Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại đời này nữa." Và Tôn giả Kassapa trở thành một vị A-la-hán.
 
-==== Kinh 12.8. Đim-ba-lu-ca (Timbarukasuttaṃ)
+==== Kinh 12.18. Đim-ba-lu-ca (Timbarukasuttaṃ)
 
 #super[1] Tại Xá-vệ. Rồi du sĩ Timbaruka đến chỗ Thế Tôn, chào hỏi thăm hỏi,
 rồi ngồi xuống một bên. Ngồi một bên, du sĩ Timbaruka bạch Thế Tôn: "Thưa Tôn
@@ -657,7 +657,7 @@ Nghe vậy, du sĩ Timbaruka bạch Thế Tôn: "Thưa Tôn giả Gotama, thật
 thay… Con xin quy y Tôn giả Gotama, quy y Pháp và Tăng đoàn Tỷ-kheo. Xin Tôn
 giả Gotama nhận con làm Cư sĩ, từ nay cho đến trọn đời con xin quy y."
 
-==== Kinh 12.9. Kẻ Ngu Và Người Trí (Bālapaṇḍitasuttaṃ)
+==== Kinh 12.19. Kẻ Ngu Và Người Trí (Bālapaṇḍitasuttaṃ)
 
 #super[1] Tại Xá-vệ… "Này các Tỷ-kheo, với kẻ ngu bị vô minh che khuất, bị ái
 trói buộc, thì thân này được sanh khởi như vậy. Như vậy, chính thân này và
@@ -694,7 +694,7 @@ sầu, bi, khổ, ưu, não. Ta nói vị ấy thoát khỏi khổ. Này các T�
 khác biệt, đó là sự sai biệt, đó là sự phân biệt giữa người trí và kẻ ngu, tức
 là sự sống Phạm hạnh."
 
-==== Kinh 12.10. Duyên (Paccayasuttaṃ)
+==== Kinh 12.20. Duyên (Paccayasuttaṃ)
 
 #super[1] Tại Xá-vệ… "Này các Tỷ-kheo, Ta sẽ thuyết cho các thầy về duyên khởi
 và các pháp do duyên sanh. Hãy nghe và khéo tác ý, Ta sẽ nói." "Thưa vâng, bạch
@@ -755,7 +755,7 @@ kinh thứ mười là Duyên.
 
 === Phẩm 3 (nguồn ghi 3). Mười Lực (Dasabalavaggo)
 
-==== Kinh 12.1. Mười Lực Thứ Nhất (Dasabalasuttaṃ)
+==== Kinh 12.21. Mười Lực Thứ Nhất (Dasabalasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, Như Lai thành tựu mười lực,
 đầy đủ bốn vô sở úy, tự nhận vị trí ngưu vương, rống tiếng rống sư tử
@@ -771,7 +771,7 @@ thức… Như vậy, toàn bộ khổ uẩn này tập khởi. Nhưng do sự l
 diệt hoàn toàn không còn dư tàn của vô minh nên các hành diệt; do các
 hành diệt nên thức diệt… Như vậy, toàn bộ khổ uẩn này diệt tận."
 
-==== Kinh 12.2. Mười Lực Thứ Hai (Dutiyadasabalasuttaṃ)
+==== Kinh 12.22. Mười Lực Thứ Hai (Dutiyadasabalasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, Như Lai thành tựu mười lực,
 đầy đủ bốn vô sở úy, tự nhận vị trí ngưu vương, rống tiếng rống sư tử
@@ -811,7 +811,7 @@ tựu bằng sự không phóng dật; người quán xét lợi ích của ngư
 đủ để thành tựu bằng sự không phóng dật; người quán xét lợi ích của cả
 hai cũng đủ để thành tựu bằng sự không phóng dật."
 
-==== Kinh 12.3. Nền Tảng (Upanisasuttaṃ)
+==== Kinh 12.23. Nền Tảng (Upanisasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, Ta nói rằng các lậu được
 đoạn tận đối với người biết và thấy, không phải đối với người không
@@ -861,7 +861,7 @@ biển cả.
 Cũng vậy, này các Tỷ-kheo, vô minh là duyên của các hành; các hành là
 duyên của thức… cho đến giải thoát là duyên của trí đoạn tận."
 
-==== Kinh 12.4. Ngoại Đạo (Aññatitthiyasuttaṃ)
+==== Kinh 12.24. Ngoại Đạo (Aññatitthiyasuttaṃ)
 
 #super[1] Trú tại Vương Xá (Rājagaha), trong rừng Trúc (Veḷuvana). Rồi Tôn giả
 Xá-lợi-phất (Sāriputta) vào buổi sáng đắp y, mang bát, vào Rājagaha khất thực. Rồi Tôn
@@ -987,7 +987,7 @@ diệt nên sanh diệt; do sanh diệt nên già, chết, sầu, bi, khổ, ưu
 đều diệt. Như vậy, toàn bộ khổ uẩn này diệt tận.' Được hỏi vậy, bạch
 Thế Tôn, con trả lời như vậy."
 
-==== Kinh 12.5. Phù-di (Bhūmijasuttaṃ)
+==== Kinh 12.25. Phù-di (Bhūmijasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī). Rồi Tôn giả Phù-di (Bhūmija) vào buổi chiều, từ chỗ
 độc cư đứng dậy, đi đến Tôn giả Xá-lợi-phất (Sāriputta); đến nơi, chào hỏi thân thiện
@@ -1063,7 +1063,7 @@ là duyên cho nội lạc khổ sanh khởi; đồng ruộng ấy không còn�
 ấy không còn…; xứ ấy không còn…; cơ sở ấy không còn — cơ sở ấy là duyên
 cho nội lạc khổ sanh khởi."
 
-==== Kinh 12.6. U-ba-va-na (Upavāṇasuttaṃ)
+==== Kinh 12.26. U-ba-va-na (Upavāṇasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī). Rồi Tôn giả Ưu-ba-ma-na (Upavāṇa) đi đến Thế Tôn; đến
 nơi, đảnh lễ Thế Tôn, ngồi xuống một bên. Ngồi một bên, Tôn giả Upavāṇa
@@ -1091,7 +1091,7 @@ ra… cho đến những Sa-môn, Bà-la-môn tuyên bố rằng khổ không do
 tạo, không do người khác tạo, mà ngẫu nhiên sanh khởi — họ có thể cảm
 thọ mà không có xúc, điều ấy không thể xảy ra."
 
-==== Kinh 12.7. Duyên (Paccayasuttaṃ)
+==== Kinh 12.27. Duyên (Paccayasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, duyên vô minh nên có các
 hành; duyên các hành nên có thức… Như vậy, toàn bộ khổ uẩn này tập
@@ -1122,7 +1122,7 @@ pháp này, thấy chánh pháp này, đầy đủ trí của bậc hữu học,
 của bậc hữu học, đã nhập vào dòng pháp, bậc Thánh có tuệ thấu triệt,
 đứng kề cửa bất tử."
 
-==== Kinh 12.8. Tỷ-kheo (Bhikkhusuttaṃ)
+==== Kinh 12.28. Tỷ-kheo (Bhikkhusuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Ở đây, này các Tỷ-kheo, vị Tỷ-kheo biết già
 chết, biết già chết tập khởi, biết già chết diệt, biết con đường đưa
@@ -1157,7 +1157,7 @@ này, thấy chánh pháp này, đầy đủ trí của bậc hữu học, đầ
 bậc hữu học, đã nhập vào dòng pháp, bậc Thánh có tuệ thấu triệt, đứng
 kề cửa bất tử."
 
-==== Kinh 12.9. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
+==== Kinh 12.29. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn
 nào không biết rõ già chết, không biết rõ già chết tập khởi, không biết
@@ -1177,7 +1177,7 @@ Bà-la-môn ấy đúng là Sa-môn trong hàng Sa-môn, đúng là Bà-la-môn 
 hàng Bà-la-môn; và các vị ấy tự mình chứng tri, chứng đạt và an trú
 ngay trong đời này mục đích của Sa-môn hạnh và Phạm hạnh."
 
-==== Kinh 12.10. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 12.30. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, những Sa-môn hay Bà-la-môn
 nào không biết rõ già chết, không biết rõ già chết tập khởi, không biết
@@ -1204,7 +1204,7 @@ Hai kinh Mười Lực, một kinh Nền Tảng, Ngoại Đạo rồi Phù-di (B
 
 === Phẩm 4 (nguồn ghi 4). Ca-la-la (Kaḷārakhattiyavaggo)
 
-==== Kinh 12.1. Thực (Bhūtasuttaṃ)
+==== Kinh 12.31. Thực (Bhūtasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī). Rồi Thế Tôn gọi Tôn giả
 Xá-lợi-phất (Sāriputta): "Này Sāriputta, trong Ba-la-diên (Pārāyana), ở câu hỏi của Ajita có nói: \
@@ -1271,7 +1271,7 @@ hữu học đông đảo ở đời, xin Ngài dạy cho con cách hành xử c
 họ, khi được hỏi, bạch Ngài' — lời vắn tắt ấy, này Sāriputta, phải hiểu theo
 nghĩa rộng như vậy."
 
-==== Kinh 12.2. Ca-la-la (Kaḷārasuttaṃ)
+==== Kinh 12.32. Ca-la-la (Kaḷārasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī). Rồi Tỷ-kheo Kaḷārakhattiya đi đến Tôn giả
 Xá-lợi-phất (Sāriputta); sau khi đến, thân thiện chào hỏi Tôn giả Sāriputta. Sau khi trao
@@ -1369,7 +1369,7 @@ một đêm…; suốt một ngày một đêm…; hai ngày đêm…; ba, bốn
 đêm — Sāriputta cũng có thể trả lời Ta về ý nghĩa này với những từ ngữ, cách
 diễn đạt khác nhau."
 
-==== Kinh 12.3. Căn Cứ Của Trí Thứ Nhất (Ñāṇavatthusuttaṃ)
+==== Kinh 12.33. Căn Cứ Của Trí Thứ Nhất (Ñāṇavatthusuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, Ta sẽ giảng cho các thầy bốn
 mươi bốn căn cứ của trí. Hãy lắng nghe, khéo tác ý; Ta sẽ nói." — "Bạch Thế
@@ -1431,7 +1431,7 @@ thì vị ấy được gọi là vị Thánh đệ tử thành tựu chánh ki�
 đầy đủ minh của bậc hữu học, đã nhập vào dòng pháp, là bậc Thánh với tuệ thấu
 triệt, đứng chạm đến cửa bất tử."
 
-==== Kinh 12.4. Căn Cứ Của Trí Thứ Hai (Dutiyañāṇavatthusuttaṃ)
+==== Kinh 12.34. Căn Cứ Của Trí Thứ Hai (Dutiyañāṇavatthusuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, Ta sẽ giảng cho các thầy bảy
 mươi bảy căn cứ của trí. Hãy lắng nghe, khéo tác ý; Ta sẽ nói." — "Bạch Thế
@@ -1453,7 +1453,7 @@ không có'; trí rằng 'trong tương lai, do vô minh làm duyên nên có c�
 ấy cũng là pháp hoại diệt, pháp tiêu vong, pháp ly tham, pháp đoạn diệt. Đó
 gọi là bảy mươi bảy căn cứ của trí."
 
-==== Kinh 12.5. Vô Minh Duyên Thứ Nhất (Avijjāpaccayasuttaṃ)
+==== Kinh 12.35. Vô Minh Duyên Thứ Nhất (Avijjāpaccayasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Do vô minh làm duyên nên có các hành, này các
 Tỷ-kheo; do hành làm duyên nên có thức… như vậy là sự tập khởi của toàn bộ
@@ -1514,7 +1514,7 @@ thân xác khác' — tất cả những điều ấy đều bị đoạn trừ,
 cây thốt nốt bị chặt ngang, không còn hiện hữu, không thể sinh khởi trong
 tương lai."
 
-==== Kinh 12.6. Vô Minh Duyên Thứ Hai (Dutiyaavijjāpaccayasuttaṃ)
+==== Kinh 12.36. Vô Minh Duyên Thứ Hai (Dutiyaavijjāpaccayasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Do vô minh làm duyên nên có các hành, này các
 Tỷ-kheo; do hành làm duyên nên có thức… như vậy là sự tập khởi của toàn bộ
@@ -1549,7 +1549,7 @@ là của người khác', 'mạng sống là thân xác này', 'mạng sống k
 khác' — tất cả những điều ấy đều bị đoạn trừ, bị chặt tận gốc, như cây thốt
 nốt bị chặt ngang, không còn hiện hữu, không thể sinh khởi trong tương lai."
 
-==== Kinh 12.7. Na-đum-ha (Natumhasuttaṃ)
+==== Kinh 12.37. Na-đum-ha (Natumhasuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, thân này không phải của các
 thầy, cũng không phải của người khác. Này các Tỷ-kheo, đây là nghiệp cũ, được
@@ -1563,7 +1563,7 @@ Nhưng do sự ly tham, đoạn diệt hoàn toàn, không còn dư tàn của v
 sự đoạn diệt của các hành; do hành đoạn diệt nên thức đoạn diệt… như vậy là sự
 đoạn diệt của toàn bộ khổ uẩn này.
 
-==== Kinh 12.8. Tư Niệm Thứ Nhất (Cetanāsuttaṃ)
+==== Kinh 12.38. Tư Niệm Thứ Nhất (Cetanāsuttaṃ)
 
 #super[1] Nhân duyên ở Xá-vệ (Sāvatthī). "Này các Tỷ-kheo, cái gì vị ấy tư niệm, cái
 gì vị ấy mong ước, cái gì vị ấy thiên về, đó là chỗ nương cho sự an trú của
@@ -1582,7 +1582,7 @@ tăng trưởng, thì không có sự tái sanh vào đời sau. Khi không có 
 vào đời sau, thì trong tương lai sanh, già chết, sầu, bi, khổ, ưu, não đoạn
 diệt. Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.9. Tư Niệm Thứ Hai (Dutiyacetanāsuttaṃ)
+==== Kinh 12.39. Tư Niệm Thứ Hai (Dutiyacetanāsuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, cái gì vị ấy tư niệm, cái gì vị
 ấy mong ước, cái gì vị ấy thiên về, đó là chỗ nương cho sự an trú của thức.
@@ -1600,7 +1600,7 @@ không có chỗ nương thì thức không an trú. Khi thức ấy không an t
 trưởng, thì không có sự nhập vào của danh sắc. Do danh sắc đoạn diệt nên lục
 nhập đoạn diệt… như vậy là sự đoạn diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.10. Tư Niệm Thứ Ba (Tatiyacetanāsuttaṃ)
+==== Kinh 12.40. Tư Niệm Thứ Ba (Tatiyacetanāsuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, cái gì vị ấy tư niệm, cái gì vị
 ấy mong ước, cái gì vị ấy thiên về, đó là chỗ nương cho sự an trú của thức.
@@ -1631,7 +1631,7 @@ Vô Minh Duyên hai kinh, Na-đum-ha (Natumhā), Tư Niệm ba.
 
 === Phẩm 5 (nguồn ghi 5). Gia Chủ (Gahapativaggo)
 
-==== Kinh 12.1. Năm Sợ Hãi Và Hận Thù Thứ Nhất (Pañcaverabhayasuttaṃ)
+==== Kinh 12.41. Năm Sợ Hãi Và Hận Thù Thứ Nhất (Pañcaverabhayasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī). Rồi gia chủ Anāthapiṇḍika (Cấp Cô
 Độc) đi đến chỗ Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên.
@@ -1679,7 +1679,7 @@ trí tuệ, thì vị ấy nếu muốn có thể tự mình tuyên bố: 'Ta đ
 loài bàng sanh, tận cõi ngạ quỷ, tận các cõi ác, đường dữ, đọa xứ; ta là bậc
 Dự lưu, không còn bị đọa lạc, quyết định, hướng đến giác ngộ.'"
 
-==== Kinh 12.2. Năm Sợ Hãi Và Hận Thù Thứ Hai (Dutiyapañcaverabhayasuttaṃ)
+==== Kinh 12.42. Năm Sợ Hãi Và Hận Thù Thứ Hai (Dutiyapañcaverabhayasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, khi vị Thánh đệ
 tử đã làm lắng dịu năm sự sợ hãi và hận thù, thành tựu bốn chi phần Dự lưu, và
@@ -1704,7 +1704,7 @@ bị đọa lạc, quyết định, hướng đến giác ngộ.'"
 
 #emph[(Kinh thứ hai.)]
 
-==== Kinh 12.3. Khổ (Dukkhasuttaṃ)
+==== Kinh 12.43. Khổ (Dukkhasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, Ta sẽ giảng sự
 tập khởi và sự đoạn diệt của khổ. Hãy lắng nghe và khéo tác ý, Ta sẽ nói."
@@ -1729,7 +1729,7 @@ do hữu diệt nên sanh diệt; do sanh diệt nên già chết, sầu, bi, kh
 đoạn diệt. Như vậy là sự đoạn diệt của toàn bộ khối khổ này. Đó là sự đoạn
 diệt của khổ."
 
-==== Kinh 12.4. Thế Gian (Lokasuttaṃ)
+==== Kinh 12.44. Thế Gian (Lokasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, Ta sẽ giảng sự
 tập khởi và sự đoạn diệt của thế gian. Hãy lắng nghe và khéo tác ý, Ta sẽ
@@ -1753,7 +1753,7 @@ xúc. Do duyên xúc có thọ; do duyên thọ có ái. Do sự ly tham, đoạ
 toàn chính ái ấy, nên thủ diệt; do thủ diệt nên hữu diệt… như vậy là sự đoạn
 diệt của toàn bộ khối khổ này. Đó là sự đoạn diệt của thế gian."
 
-==== Kinh 12.5. Thân Tộc (Ñātikasuttaṃ)
+==== Kinh 12.45. Thân Tộc (Ñātikasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Nha-đi-ca (Ñātika), trong nhà ngói
 (giñjakāvasatha). Rồi Thế Tôn, khi ở một mình, trong lúc độc cư, đã nói lên
@@ -1778,7 +1778,7 @@ này Tỷ-kheo, hãy thọ trì pháp thoại này; này Tỷ-kheo, hãy ghi nh�
 này. Này Tỷ-kheo, pháp thoại này có lợi ích, là căn bản của đời sống phạm
 hạnh."
 
-==== Kinh 12.6. Một Bà-la-môn (Aññatarabrāhmaṇasuttaṃ)
+==== Kinh 12.46. Một Bà-la-môn (Aññatarabrāhmaṇasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī). Rồi một Bà-la-môn đi đến chỗ Thế
 Tôn; sau khi đến, vị ấy chào hỏi thân thiện với Thế Tôn. Sau khi trao đổi
@@ -1796,7 +1796,7 @@ bộ khối khổ này.'" Khi nghe vậy, Bà-la-môn ấy nói với Thế Tôn
 thay, thưa Tôn giả Gotama! Thật vi diệu thay, thưa Tôn giả Gotama!… Xin Tôn
 giả Gotama nhận con làm Cư sĩ, từ nay cho đến mạng chung, con xin quy ngưỡng."
 
-==== Kinh 12.7. Sanh Lậu (Jāṇussoṇisuttaṃ)
+==== Kinh 12.47. Sanh Lậu (Jāṇussoṇisuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī). Rồi Bà-la-môn Sanh Lậu (Jāṇussoṇi) đi đến chỗ
 Thế Tôn; sau khi đến, vị ấy chào hỏi thân thiện với Thế Tôn… Ngồi một bên,
@@ -1812,7 +1812,7 @@ như vậy là sự đoạn diệt của toàn bộ khối khổ này.'" Khi ngh
 Jāṇussoṇi nói với Thế Tôn: "Thật vi diệu thay, thưa Tôn giả Gotama!… Xin Tôn
 giả Gotama nhận con làm Cư sĩ, từ nay cho đến mạng chung, con xin quy ngưỡng."
 
-==== Kinh 12.8. Nhà Thế Gian Luận (Lokāyatikasuttaṃ)
+==== Kinh 12.48. Nhà Thế Gian Luận (Lokāyatikasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī). Rồi Bà-la-môn chuyên về thế gian
 luận đi đến chỗ Thế Tôn… Ngồi một bên, Bà-la-môn ấy nói với Thế Tôn: "Thưa
@@ -1831,7 +1831,7 @@ không còn dư tàn, nên hành diệt; do hành diệt nên thức diệt… n
 Tôn: "Thật vi diệu thay, thưa Tôn giả Gotama!… từ nay cho đến mạng chung, con
 xin quy ngưỡng."
 
-==== Kinh 12.9. Thánh Đệ Tử Thứ Nhất (Ariyasāvakasuttaṃ)
+==== Kinh 12.49. Thánh Đệ Tử Thứ Nhất (Ariyasāvakasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, vị Thánh đệ tử đã
 nghe nhiều không có nghĩ như vầy: 'Khi cái gì có mặt thì hành, thức, danh sắc,
@@ -1858,7 +1858,7 @@ Thánh đệ tử như vậy biết rõ sự tập khởi và sự đoạn diệ
 thật, thì này các Tỷ-kheo, vị ấy được gọi là Thánh đệ tử thành tựu chánh kiến…
 cho đến… đã chạm đến cửa bất tử và đứng lại đó.'"
 
-==== Kinh 12.10. Thánh Đệ Tử Thứ Hai (Dutiyaariyasāvakasuttaṃ)
+==== Kinh 12.50. Thánh Đệ Tử Thứ Hai (Dutiyaariyasāvakasuttaṃ)
 
 #super[1] Thế Tôn ngự tại Xá-vệ (Sāvatthī)… "Này các Tỷ-kheo, vị Thánh đệ tử đã
 nghe nhiều không có nghĩ như vầy: 'Khi cái gì có mặt thì hành, thức, danh sắc,
@@ -1901,7 +1901,7 @@ Do đó phẩm này được gọi tên như vậy.
 
 === Phẩm 6 (nguồn ghi 6). Khổ (Dukkhavaggo)
 
-==== Kinh 12.1. Thẩm Sát (Parivīmaṃsanasuttaṃ)
+==== Kinh 12.51. Thẩm Sát (Parivīmaṃsanasuttaṃ)
 
 #super[1] Như vầy tôi nghe. Một thời Thế Tôn trú tại Xá-vệ, ở rừng Kỳ-đà,
 vườn Cấp Cô Độc. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các Tỷ-kheo."
@@ -1996,7 +1996,7 @@ không phải vậy." "Lành thay, lành thay, này các Tỷ-kheo, đúng như 
 không thể khác. Này các Tỷ-kheo, hãy tin Ta điều ấy, hãy thắng giải, hãy
 hết nghi ngờ, hết do dự về điều này. Đây chính là sự chấm dứt của khổ."
 
-==== Kinh 12.2. Chấp Thủ (Upādānasuttaṃ)
+==== Kinh 12.52. Chấp Thủ (Upādānasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các Tỷ-kheo, khi sống quán thấy vị ngọt nơi
 các pháp đáng chấp thủ, thì ái tăng trưởng. Do duyên ái nên có thủ; do
@@ -2021,7 +2021,7 @@ Cũng vậy, này các Tỷ-kheo, khi sống quán thấy sự tai hại nơi c�
 đáng chấp thủ, thì ái diệt, do ái diệt nên thủ diệt… Như vậy là sự đoạn
 diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.3. Trói Buộc Thứ Nhất (Saṃyojanasuttaṃ)
+==== Kinh 12.53. Trói Buộc Thứ Nhất (Saṃyojanasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các Tỷ-kheo, khi sống quán thấy vị ngọt nơi
 các pháp đáng trói buộc, thì ái tăng trưởng. Do duyên ái nên có thủ; do
@@ -2046,7 +2046,7 @@ Tỷ-kheo, khi sống quán thấy sự tai hại nơi các pháp đáng trói b
 ái diệt, do ái diệt nên thủ diệt… Như vậy là sự đoạn diệt của toàn bộ khổ
 uẩn này."
 
-==== Kinh 12.4. Trói Buộc Thứ Hai (Dutiyasaṃyojanasuttaṃ)
+==== Kinh 12.54. Trói Buộc Thứ Hai (Dutiyasaṃyojanasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Ví như, này các Tỷ-kheo, một ngọn đèn dầu cháy
 nhờ dầu và nhờ bấc. Ở đó, có người thỉnh thoảng rót thêm dầu và thay bấc.
@@ -2061,7 +2061,7 @@ thêm vào, không còn thức ăn nên sẽ tắt. Cũng vậy, này các Tỷ-
 sống quán thấy sự tai hại nơi các pháp đáng trói buộc, thì ái diệt. Do ái
 diệt nên thủ diệt… Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.5. Cây Lớn Thứ Nhất (Mahārukkhasuttaṃ)
+==== Kinh 12.55. Cây Lớn Thứ Nhất (Mahārukkhasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các Tỷ-kheo, khi sống quán thấy vị ngọt nơi
 các pháp đáng chấp thủ, thì ái tăng trưởng. Do duyên ái nên có thủ; do
@@ -2087,7 +2087,7 @@ trong tương lai. Cũng vậy, này các Tỷ-kheo, khi sống quán thấy s�
 nơi các pháp đáng chấp thủ, thì ái diệt. Do ái diệt nên thủ diệt; do thủ
 diệt nên hữu diệt… Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.6. Cây Lớn Thứ Hai (Dutiyamahārukkhasuttaṃ)
+==== Kinh 12.56. Cây Lớn Thứ Hai (Dutiyamahārukkhasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Ví như, này các Tỷ-kheo, một cây lớn: những rễ
 của nó đâm xuống dưới và những rễ tỏa ngang, tất cả đều đưa dưỡng chất lên
@@ -2104,7 +2104,7 @@ Cũng vậy, này các Tỷ-kheo, khi sống quán thấy sự tai hại nơi c�
 đáng chấp thủ, thì ái diệt. Do ái diệt nên thủ diệt… Như vậy là sự đoạn
 diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.7. Cây Non (Taruṇarukkhasuttaṃ)
+==== Kinh 12.57. Cây Non (Taruṇarukkhasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các Tỷ-kheo, khi sống quán thấy vị ngọt nơi
 các pháp đáng trói buộc, thì ái tăng trưởng. Do duyên ái nên có thủ… Như
@@ -2124,7 +2124,7 @@ khả năng sanh khởi trong tương lai. Cũng vậy, này các Tỷ-kheo, khi
 quán thấy sự tai hại nơi các pháp đáng trói buộc, thì ái diệt. Do ái diệt
 nên thủ diệt… Như vậy là sự đoạn diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.8. Danh Sắc (Nāmarūpasuttaṃ)
+==== Kinh 12.58. Danh Sắc (Nāmarūpasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các Tỷ-kheo, khi sống quán thấy vị ngọt nơi
 các pháp đáng trói buộc, thì danh sắc thâm nhập. Do duyên danh sắc nên có
@@ -2142,7 +2142,7 @@ Tỷ-kheo, khi sống quán thấy sự tai hại nơi các pháp đáng trói b
 danh sắc không thâm nhập. Do danh sắc diệt nên lục nhập diệt… Như vậy là
 sự đoạn diệt của toàn bộ khổ uẩn này."
 
-==== Kinh 12.9. Thức (Viññāṇasuttaṃ)
+==== Kinh 12.59. Thức (Viññāṇasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các Tỷ-kheo, khi sống quán thấy vị ngọt nơi
 các pháp đáng trói buộc, thì thức thâm nhập. Do duyên thức nên có danh
@@ -2158,7 +2158,7 @@ khi sống quán thấy sự tai hại nơi các pháp đáng trói buộc, thì
 thâm nhập. Do thức diệt nên danh sắc diệt… Như vậy là sự đoạn diệt của
 toàn bộ khổ uẩn này."
 
-==== Kinh 12.10. Nhân Duyên (Nidānasuttaṃ)
+==== Kinh 12.60. Nhân Duyên (Nidānasuttaṃ)
 
 #super[1] Một thời Thế Tôn trú giữa dòng họ Câu-lâu (Kuru), tại Kiềm-ma-sắt-đàm (Kammāsadhamma), một
 thị trấn của dòng họ Kuru. Rồi Tôn giả A-nan (Ānanda) đến chỗ Thế Tôn; đến rồi
@@ -2209,7 +2209,7 @@ và Nhân Duyên — ấy là mười kinh.
 
 === Phẩm 7 (nguồn ghi 7). Đại (Mahāvaggo)
 
-==== Kinh 12.1. Vô Văn Thứ Nhất (Assutavāsuttaṃ)
+==== Kinh 12.61. Vô Văn Thứ Nhất (Assutavāsuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Xá-vệ (Sāvatthī),
 trong vườn Kỳ Viên (Jetavana), tại tinh xá của ông Cấp Cô Độc
@@ -2260,7 +2260,7 @@ giải thoát; khi được giải thoát, khởi lên trí rằng đã được
 Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại trạng thái này nữa.'
 
-==== Kinh 12.2. Vô Văn Thứ Hai (Dutiyaassutavāsuttaṃ)
+==== Kinh 12.62. Vô Văn Thứ Hai (Dutiyaassutavāsuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī) …
 
@@ -2322,7 +2322,7 @@ giải thoát; khi được giải thoát, khởi lên trí rằng đã được
 Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại trạng thái này nữa.'
 
-==== Kinh 12.3. Thịt Con (Puttamaṃsūpamasuttaṃ)
+==== Kinh 12.63. Thịt Con (Puttamaṃsūpamasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī) …
 
@@ -2409,7 +2409,7 @@ Này các thầy, khi thức thực được biết rõ, danh sắc được bi�
 danh sắc được biết rõ, Ta nói vị Thánh đệ tử không còn gì phải làm thêm
 nữa."
 
-==== Kinh 12.4. Có Tham (Atthirāgasuttaṃ)
+==== Kinh 12.64. Có Tham (Atthirāgasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī) …
 
@@ -2476,7 +2476,7 @@ trưởng, ở đó không có sự nhập vào của danh sắc. Ở đâu khô
 vào của danh sắc … như vậy, Ta nói đó là không sầu, không ưu, không
 não."
 
-==== Kinh 12.5. Thành (Nagarasuttaṃ)
+==== Kinh 12.65. Thành (Nagarasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī) …
 
@@ -2585,7 +2585,7 @@ hạnh ấy nay đã thịnh vượng, sung túc, lan rộng, đông người bi
 phổ biến rộng khắp, được khéo tuyên thuyết giữa chư thiên và loài
 người."
 
-==== Kinh 12.6. Quán Sát (Sammasasuttaṃ)
+==== Kinh 12.66. Quán Sát (Sammasasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thuở nọ, Thế Tôn trú ở xứ Câu-lâu (Kuru), tại
 Kiềm-ma-sắt-đàm (Kammāsadhamma), một thị trấn của dân Kuru. Tại đó, Thế Tôn gọi các Tỷ-kheo:
@@ -2724,7 +2724,7 @@ nguy hiểm — những vị ấy đoạn trừ ái. Ai đoạn trừ ái thì �
 ai đoạn trừ chấp thủ thì đoạn trừ khổ; ai đoạn trừ khổ thì thoát khỏi sanh,
 già, chết, sầu, bi, khổ, ưu, não — Ta nói rằng những vị ấy thoát khỏi khổ."
 
-==== Kinh 12.7. Bó Lau (Naḷakalāpīsuttaṃ)
+==== Kinh 12.67. Bó Lau (Naḷakalāpīsuttaṃ)
 
 #super[1] Một thuở nọ, Tôn giả Xá-lợi-phất (Sāriputta) và Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) trú tại
 Ba-la-nại (Bārāṇasī), ở Trú xứ chư Tiên (Isipatana), trong vườn Lộc Uyển (Migadāya). Rồi vào buổi chiều,
@@ -2801,7 +2801,7 @@ không còn chấp thủ thì đủ để gọi là vị đạt Niết-bàn ngay
 nhập, với danh sắc, với thức, với hành và với vô minh, mỗi pháp đều có đủ ba
 căn cứ như trên — thành ba mươi sáu căn cứ."
 
-==== Kinh 12.8. Kiều-thưởng-di (Kosambisuttaṃ)
+==== Kinh 12.68. Kiều-thưởng-di (Kosambisuttaṃ)
 
 #super[1] Một thuở nọ, Tôn giả Musila, Tôn giả Ba-vi-tha (Paviṭṭha), Tôn giả Na-la-đà (Nārada) và
 Tôn giả A-nan (Ānanda) trú tại Kiều-thưởng-di (Kosambī), trong vườn Cù-sư-la (Ghosita). Rồi Tôn giả Paviṭṭha
@@ -2911,7 +2911,7 @@ khi nói như vậy, Hiền giả nói gì về Tôn giả Nārada?" — "Thưa 
 khi nói như vậy, tôi không nói gì về Tôn giả Nārada ngoài điều lành và điều
 thiện."
 
-==== Kinh 12.9. Tuôn Về (Upayantisuttaṃ)
+==== Kinh 12.69. Tuôn Về (Upayantisuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thuở nọ, Thế Tôn trú tại Xá-vệ (Sāvatthī), trong rừng
 Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Tại đó, Thế Tôn dạy các Tỷ-kheo:
@@ -2936,7 +2936,7 @@ xuống; xúc rút xuống khiến thọ rút xuống; thọ rút xuống khiế
 rút xuống khiến thủ rút xuống; thủ rút xuống khiến hữu rút xuống; hữu rút
 xuống khiến sanh rút xuống; sanh rút xuống khiến già chết rút xuống."
 
-==== Kinh 12.10. Tu-si-ma (Susimasuttaṃ)
+==== Kinh 12.70. Tu-si-ma (Susimasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thuở nọ, Thế Tôn trú tại Vương Xá (Rājagaha), trong
 rừng Trúc Lâm (Veḷuvana), tại Ca-lan-đà (Kalandakanivāpa). Lúc bấy giờ, Thế Tôn được kính trọng, tôn
@@ -3190,7 +3190,7 @@ Kiều-thưởng-di (Kosambī), Tuôn Về, và thứ mười là Susima.
 
 === Phẩm 8 (nguồn ghi 8). Sa-môn Bà-la-môn (Samaṇabrāhmaṇavaggo)
 
-==== Kinh 12.1. Già Chết (Jarāmaraṇasuttaṃ)
+==== Kinh 12.71. Già Chết (Jarāmaraṇasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Xá-vệ (Sāvatthī), trong
 vườn Kỳ Viên (Jetavana), tại tinh xá của ông Cấp Cô Độc (Anāthapiṇḍika). Ở
@@ -3207,7 +3207,7 @@ là Bà-la-môn giữa các Bà-la-môn; và những Tôn giả ấy, ngay trong
 tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục
 đích của Phạm hạnh." (Một kinh,)
 
-#strong[Nhóm kinh 12.2–11 — Mười Kinh Về Sanh (Jātisuttādidasakaṃ)]
+#strong[Nhóm kinh 12.72–81 — Mười Kinh Về Sanh (Jātisuttādidasakaṃ)]
 
 #super[1] Ngự tại Xá-vệ … không tuệ tri sanh …
 
@@ -3250,7 +3250,7 @@ thứ tám là Samaṇabrāhmaṇa.
 
 #super[11] Phần trùng tụng xen kẽ.
 
-==== Kinh 12.1. Bậc Đạo Sư (Satthusuttaṃ)
+==== Kinh 12.82. Bậc Đạo Sư (Satthusuttaṃ)
 
 #super[1] Ngự tại Xá-vệ … "Này các thầy, người không biết, không thấy già
 chết như thật, muốn có trí tuệ như thật về già chết, phải tìm cầu bậc Đạo
@@ -3264,7 +3264,7 @@ cầu bậc Đạo Sư." (Một kinh,)
 
 #strong[Với tất cả, văn trùng tụng phải được khai triển như vậy.]
 
-#strong[Nhóm kinh 12.2–11 — Mười Kinh Về Bậc Đạo Sư (Dutiyasatthusuttādidasakaṃ)]
+#strong[Nhóm kinh 12.83–92 — Mười Kinh Về Bậc Đạo Sư (Dutiyasatthusuttādidasakaṃ)]
 
 #super[1] Này các thầy, người không biết, không thấy sanh như thật …
 
@@ -3296,7 +3296,7 @@ như thật về con đường đưa đến sự đoạn diệt của các hành
 
 (Với tất cả, phải làm theo bốn sự thật.)
 
-#strong[Nhóm kinh 12.2–12 — Mười Một Kinh Về Học Giới (Sikkhāsuttādipeyyālaekādasakaṃ)]
+#strong[Nhóm kinh 12.93–103 — Mười Một Kinh Về Học Giới (Sikkhāsuttādipeyyālaekādasakaṃ)]
 
 #super[1] "Này các thầy, người không biết, không thấy già chết như thật,
 muốn có trí tuệ như thật về già chết, phải học tập. (Văn trùng tụng. Phải
@@ -3734,7 +3734,7 @@ hai kinh nữa về xúc, \
 
 === Phẩm 2 (nguồn ghi 2). Thứ Hai (Dutiyavaggo)
 
-==== Kinh 14.1. Bảy Giới (Sattadhātusuttaṃ)
+==== Kinh 14.11. Bảy Giới (Sattadhātusuttaṃ)
 
 #super[1] Trú tại Xá-vệ (Sāvatthī)… "Này các thầy, có bảy giới. Thế nào là
 bảy? Giới ánh sáng, giới tốt đẹp, giới Không vô biên xứ, giới Thức vô biên
@@ -3757,7 +3757,7 @@ những giới này đạt được bằng tưởng đẳng chí. Giới Phi tư
 đạt được bằng hữu dư hành đẳng chí. Giới Diệt thọ tưởng đạt được bằng diệt
 đẳng chí."
 
-==== Kinh 14.2. Có Nhân Duyên (Sanidānasuttaṃ)
+==== Kinh 14.12. Có Nhân Duyên (Sanidānasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, dục tầm sanh khởi là có nhân duyên,
 không phải không nhân duyên; sân tầm sanh khởi là có nhân duyên, không phải
@@ -3826,7 +3826,7 @@ còn tồn tại một tưởng đã sanh khởi và trở nên nguy hại, thì
 tại, vị ấy sống trong an lạc, không bực bội, không ưu não, không hực cháy;
 sau khi thân hoại mạng chung, chờ đợi vị ấy là cõi lành."
 
-==== Kinh 14.3. Nhà Gạch (Giñjakāvasathasuttaṃ)
+==== Kinh 14.13. Nhà Gạch (Giñjakāvasathasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Nha-đi-ca (Ñātika), trong nhà gạch (Giñjakāvasatha).
 Ở đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch Thế
@@ -3855,7 +3855,7 @@ thù thắng, con người thù thắng, lời nói thù thắng; vị ấy tuy�
 chỉ bày, thiết lập, mở ra, phân tích, làm sáng tỏ điều thù thắng. Ta nói
 rằng sự sanh khởi của vị ấy là thù thắng."
 
-==== Kinh 14.4. Chí Hướng Hạ Liệt (Hīnādhimuttikasuttaṃ)
+==== Kinh 14.14. Chí Hướng Hạ Liệt (Hīnādhimuttikasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ chí hướng hạ liệt thì gặp gỡ và hòa hợp với những
@@ -3877,7 +3877,7 @@ hợp với nhau. Những kẻ chí hướng hạ liệt thì gặp gỡ và hò
 chí hướng hạ liệt; những kẻ chí hướng tốt đẹp thì gặp gỡ và hòa hợp với
 những kẻ chí hướng tốt đẹp."
 
-==== Kinh 14.5. Đi Kinh Hành (Caṅkamasuttaṃ)
+==== Kinh 14.15. Đi Kinh Hành (Caṅkamasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trên núi Linh Thứu
 (Gijjhakūṭa). Lúc bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta) cùng nhiều Tỷ-kheo đang kinh
@@ -3925,7 +3925,7 @@ hợp với nhau. Những kẻ chí hướng hạ liệt thì gặp gỡ và hò
 chí hướng hạ liệt; những kẻ chí hướng tốt đẹp thì gặp gỡ và hòa hợp với
 những kẻ chí hướng tốt đẹp."
 
-==== Kinh 14.6. Có Kệ (Sagāthāsuttaṃ)
+==== Kinh 14.16. Có Kệ (Sagāthāsuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ chí hướng hạ liệt thì gặp gỡ và hòa hợp với những
@@ -3983,7 +3983,7 @@ Hãy sống chung với bậc Thánh xa lìa, \
 Với những vị đã dốc lòng, thiền định, \
 Với những bậc trí luôn luôn tinh cần."
 
-==== Kinh 14.7. Bất Tín (Assaddhasaṃsandanasuttaṃ)
+==== Kinh 14.17. Bất Tín (Assaddhasaṃsandanasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ không có lòng tin thì gặp gỡ và hòa hợp với những
@@ -4037,7 +4037,7 @@ tại, này các thầy, chúng sanh cùng giới gặp gỡ nhau, hòa hợp v�
 kẻ có lòng tin thì gặp gỡ và hòa hợp với những kẻ có lòng tin; những kẻ có
 trí tuệ thì gặp gỡ và hòa hợp với những kẻ có trí tuệ."
 
-==== Kinh 14.8. Gốc Bất Tín (Assaddhamūlakasuttaṃ)
+==== Kinh 14.18. Gốc Bất Tín (Assaddhamūlakasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ không có lòng tin thì gặp gỡ và hòa hợp với những
@@ -4091,7 +4091,7 @@ những kẻ có lòng tin; những kẻ niệm được an trú thì gặp gỡ
 những kẻ niệm được an trú; những kẻ có trí tuệ thì gặp gỡ và hòa hợp với
 những kẻ có trí tuệ… Thứ tám. (5)"
 
-==== Kinh 14.9. Gốc Không Hổ Thẹn (Ahirikamūlakasuttaṃ)
+==== Kinh 14.19. Gốc Không Hổ Thẹn (Ahirikamūlakasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới… Những kẻ không
 biết hổ thẹn thì gặp gỡ và hòa hợp với những kẻ không biết hổ thẹn; những kẻ
@@ -4122,7 +4122,7 @@ kẻ biết hổ thẹn thì gặp gỡ và hòa hợp với những kẻ biết
 niệm được an trú thì gặp gỡ và hòa hợp với những kẻ niệm được an trú; những
 kẻ có trí tuệ thì gặp gỡ và hòa hợp với những kẻ có trí tuệ… Thứ chín. (4)"
 
-==== Kinh 14.10. Gốc Không Sợ Tội Lỗi (Anottappamūlakasuttaṃ)
+==== Kinh 14.20. Gốc Không Sợ Tội Lỗi (Anottappamūlakasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ không biết sợ tội lỗi thì gặp gỡ và hòa hợp với
@@ -4148,7 +4148,7 @@ những kẻ niệm được an trú thì gặp gỡ và hòa hợp với nhữn
 trú; những kẻ có trí tuệ thì gặp gỡ và hòa hợp với những kẻ có trí tuệ… Thứ
 mười. (3)"
 
-==== Kinh 14.11. Gốc Ít Nghe (Appassutamūlakasuttaṃ)
+==== Kinh 14.21. Gốc Ít Nghe (Appassutamūlakasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ ít nghe thì gặp gỡ và hòa hợp với những kẻ ít
@@ -4165,7 +4165,7 @@ và hòa hợp với những kẻ nghe nhiều; những kẻ niệm được an 
 hòa hợp với những kẻ niệm được an trú; những kẻ có trí tuệ thì gặp gỡ và hòa
 hợp với những kẻ có trí tuệ… Thứ mười một. (2)"
 
-==== Kinh 14.12. Gốc Biếng Nhác (Kusītamūlakasuttaṃ)
+==== Kinh 14.22. Gốc Biếng Nhác (Kusītamūlakasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ biếng nhác thì gặp gỡ và hòa hợp với những kẻ
@@ -4192,7 +4192,7 @@ Hai mươi hai kinh đã được nói — \
 
 === Phẩm 3 (nguồn ghi 3). Nghiệp Đạo (Kammapathavaggo)
 
-==== Kinh 14.1. Không Định Tĩnh (Asamāhitasuttaṃ)
+==== Kinh 14.23. Không Định Tĩnh (Asamāhitasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ không có lòng tin thì gặp gỡ và hòa hợp với những
@@ -4207,7 +4207,7 @@ hợp với những kẻ biết sợ tội lỗi; những kẻ định tĩnh th�
 với những kẻ định tĩnh; những kẻ có trí tuệ thì gặp gỡ và hòa hợp với những
 kẻ có trí tuệ."
 
-==== Kinh 14.2. Phá Giới (Dussīlasuttaṃ)
+==== Kinh 14.24. Phá Giới (Dussīlasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ không có lòng tin thì gặp gỡ và hòa hợp với những
@@ -4222,7 +4222,7 @@ biết sợ tội lỗi; những kẻ có giới hạnh thì gặp gỡ và hòa
 giới hạnh; những kẻ có trí tuệ thì gặp gỡ và hòa hợp với những kẻ có trí
 tuệ."
 
-==== Kinh 14.3. Năm Học Giới (Pañcasikkhāpadasuttaṃ)
+==== Kinh 14.25. Năm Học Giới (Pañcasikkhāpadasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ sát sanh thì gặp gỡ và hòa hợp với những kẻ sát
@@ -4238,7 +4238,7 @@ những kẻ từ bỏ nói dối thì gặp gỡ và hòa hợp với những k
 những kẻ từ bỏ uống rượu và các chất say làm nhân phóng dật thì gặp gỡ và
 hòa hợp với những kẻ từ bỏ uống rượu và các chất say làm nhân phóng dật."
 
-==== Kinh 14.4. Bảy Nghiệp Đạo (Sattakammapathasuttaṃ)
+==== Kinh 14.26. Bảy Nghiệp Đạo (Sattakammapathasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ sát sanh thì gặp gỡ và hòa hợp với những kẻ sát
@@ -4254,7 +4254,7 @@ hợp với những kẻ từ bỏ nói hai lưỡi; những kẻ từ bỏ nói
 gỡ và hòa hợp với những kẻ từ bỏ nói lời thô ác; những kẻ từ bỏ nói lời phù
 phiếm thì gặp gỡ và hòa hợp với những kẻ từ bỏ nói lời phù phiếm."
 
-==== Kinh 14.5. Mười Nghiệp Đạo (Dasakammapathasuttaṃ)
+==== Kinh 14.27. Mười Nghiệp Đạo (Dasakammapathasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ sát sanh thì gặp gỡ và hòa hợp với những kẻ sát
@@ -4272,7 +4272,7 @@ gặp gỡ và hòa hợp với những kẻ không tham lam; những kẻ có t
 thì gặp gỡ và hòa hợp với những kẻ có tâm không sân hận; những kẻ có chánh
 kiến thì gặp gỡ và hòa hợp với những kẻ có chánh kiến."
 
-==== Kinh 14.6. Tám Chi Phần (Aṭṭhaṅgikasuttaṃ)
+==== Kinh 14.28. Tám Chi Phần (Aṭṭhaṅgikasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ có tà kiến thì gặp gỡ và hòa hợp với những kẻ có
@@ -4284,7 +4284,7 @@ duy… những kẻ có chánh ngữ… những kẻ có chánh nghiệp… nh�
 mạng… những kẻ có chánh tinh tấn… những kẻ có chánh niệm… những kẻ có chánh
 định thì gặp gỡ và hòa hợp với những kẻ có chánh định."
 
-==== Kinh 14.7. Mười Chi Phần (Dasaṅgasuttaṃ)
+==== Kinh 14.29. Mười Chi Phần (Dasaṅgasuttaṃ)
 
 #super[1] Trú tại Xá-vệ… "Này các thầy, chúng sanh cùng giới thì gặp gỡ nhau,
 hòa hợp với nhau. Những kẻ có tà kiến thì gặp gỡ và hòa hợp với những kẻ có
@@ -4310,14 +4310,14 @@ Và Mười Chi Phần là.
 
 === Phẩm 4 (nguồn ghi 4). Thứ Tư (Catutthavaggo)
 
-==== Kinh 14.1. Bốn Giới (Catudhātusuttaṃ)
+==== Kinh 14.30. Bốn Giới (Catudhātusuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), trong rừng Kỳ-đà (Jetavana),
 tại tinh xá của Cấp Cô Độc (Anāthapiṇḍika)… "Này các thầy, có bốn giới
 này. Bốn giới là gì? Địa giới, thủy giới, hỏa giới, phong giới — này các
 thầy, đó là bốn giới."
 
-==== Kinh 14.2. Trước Khi Giác Ngộ (Pubbesambodhasuttaṃ)
+==== Kinh 14.31. Trước Khi Giác Ngộ (Pubbesambodhasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, trước khi giác ngộ, khi Ta còn
 là Bồ-tát, chưa chứng Chánh Đẳng Giác, Ta đã khởi lên ý nghĩ: 'Vị ngọt
@@ -4343,7 +4343,7 @@ Chánh Đẳng Giác giữa thế gian ấy. Và tri kiến đã sanh khởi tro
 'Giải thoát của Ta không còn lay chuyển, đây là đời sống cuối cùng,
 nay không còn tái sanh nữa.'"
 
-==== Kinh 14.3. Đã Tìm Cầu (Acariṃsuttaṃ)
+==== Kinh 14.32. Đã Tìm Cầu (Acariṃsuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, Ta đã tìm cầu vị ngọt của địa
 giới, và Ta đã đạt được vị ngọt ấy của địa giới; cho đến đâu là vị ngọt
@@ -4361,7 +4361,7 @@ như thật rõ biết rồi, Ta mới tự nhận là đã chứng. Và tri ki�
 khởi trong Ta: 'Giải thoát của Ta không còn lay chuyển, đây là đời sống
 cuối cùng, nay không còn tái sanh nữa.'"
 
-==== Kinh 14.4. Nếu Không Có (Nocedaṃsuttaṃ)
+==== Kinh 14.33. Nếu Không Có (Nocedaṃsuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, nếu địa giới không có vị
 ngọt, thì chúng sanh đã không đắm nhiễm địa giới. Nhưng vì địa giới có
@@ -4383,7 +4383,7 @@ chưa sống với tâm thoát ly, tách rời, giải thoát, không còn bị 
 Nhưng khi chúng sanh đã như thật rõ biết rồi, chúng sanh ấy mới sống
 với tâm thoát ly, tách rời, giải thoát, không còn bị giới hạn như vậy."
 
-==== Kinh 14.5. Hoàn Toàn Là Khổ (Ekantadukkhasuttaṃ)
+==== Kinh 14.34. Hoàn Toàn Là Khổ (Ekantadukkhasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, nếu địa giới hoàn toàn là khổ,
 chỉ đưa đến khổ, chỉ chìm trong khổ, không hề chạm đến lạc, thì chúng
@@ -4396,7 +4396,7 @@ chán địa giới. Nhưng vì địa giới có khổ, đưa đến khổ, ch�
 không hoàn toàn chạm đến lạc, nên chúng sanh nhàm chán địa giới. Đối
 với thủy giới… hỏa giới… phong giới cũng vậy."
 
-==== Kinh 14.6. Hoan Hỷ (Abhinandasuttaṃ)
+==== Kinh 14.35. Hoan Hỷ (Abhinandasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, ai hoan hỷ với địa giới là hoan
 hỷ với khổ. Ai hoan hỷ với khổ, Ta nói người ấy chưa thoát khỏi khổ. Ai
@@ -4407,7 +4407,7 @@ hoan hỷ với khổ, Ta nói người ấy đã thoát khỏi khổ. Ai không
 thủy giới… với hỏa giới… với phong giới cũng vậy, là không hoan hỷ với
 khổ; ai không hoan hỷ với khổ, Ta nói người ấy đã thoát khỏi khổ."
 
-==== Kinh 14.7. Sự Sanh Khởi (Uppādasuttaṃ)
+==== Kinh 14.36. Sự Sanh Khởi (Uppādasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, sự sanh khởi, sự tồn tại, sự
 hình thành, sự xuất hiện của địa giới chính là sự sanh khởi của khổ,
@@ -4417,7 +4417,7 @@ dứt của địa giới chính là sự đoạn diệt của khổ, sự lắn
 bệnh, sự chấm dứt của già chết. Đối với thủy giới… hỏa giới… phong giới
 cũng vậy."
 
-==== Kinh 14.8. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
+==== Kinh 14.37. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, có bốn giới này. Bốn giới là
 gì? Địa giới, thủy giới, hỏa giới, phong giới. Những Sa-môn hay Bà-la-môn
@@ -4432,7 +4432,7 @@ thầy, Ta xem là Sa-môn giữa các Sa-môn, là Bà-la-môn giữa các Bà-
 và những Tôn giả ấy, ngay trong hiện tại, tự mình thắng tri, chứng ngộ
 và an trú mục đích của Sa-môn hạnh cùng mục đích của Phạm hạnh."
 
-==== Kinh 14.9. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 14.38. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, có bốn giới này. Bốn giới là
 gì? Địa giới, thủy giới, hỏa giới, phong giới. Những Sa-môn hay Bà-la-môn
@@ -4443,7 +4443,7 @@ thật rõ biết… những vị ấy, này các thầy, Ta xem là Sa-môn gi�
 Sa-môn… tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh
 cùng mục đích của Phạm hạnh."
 
-==== Kinh 14.10. Sa-môn Bà-la-môn Thứ Ba (Tatiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 14.39. Sa-môn Bà-la-môn Thứ Ba (Tatiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] Ngự tại Xá-vệ (Sāvatthī)… "Này các thầy, những Sa-môn hay Bà-la-môn nào
 không tuệ tri địa giới, không tuệ tri sự tập khởi của địa giới, không
@@ -5569,7 +5569,7 @@ Gió Bê-lam-ba (Verambhā) cùng kinh Có Kệ.
 
 === Phẩm 2. Thứ Hai
 
-==== Kinh 17.1. Mâm Vàng (Suvaṇṇapātisuttaṃ)
+==== Kinh 17.11. Mâm Vàng (Suvaṇṇapātisuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại, cay đắng, thô bạo, là chướng ngại cho việc đạt đến sự an ổn tối
@@ -5579,7 +5579,7 @@ Nhưng rồi sau đó Ta thấy vị ấy, bị lợi đắc, cung kính và ti�
 phối, tâm bị chiếm ngự, cố ý nói dối. Lợi đắc, cung kính và tiếng khen
 quả là tai hại như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.2. Mâm Bạc (Rūpiyapātisuttaṃ)
+==== Kinh 17.12. Mâm Bạc (Rūpiyapātisuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại… Ở đây, này các thầy, Ta biết rõ tâm của một người như vầy: 'Vị
@@ -5588,7 +5588,7 @@ Nhưng rồi sau đó Ta thấy vị ấy, bị lợi đắc, cung kính và ti�
 phối, tâm bị chiếm ngự, cố ý nói dối. Lợi đắc, cung kính và tiếng khen
 quả là tai hại như vậy. Các thầy cần học tập như vậy."
 
-#strong[Nhóm kinh 17.3–10 — Vàng Sing-gi Và Các Vật Khác (Suvaṇṇanikkhasuttādiaṭṭhakaṃ)]
+#strong[Nhóm kinh 17.13–20 — Vàng Sing-gi Và Các Vật Khác (Suvaṇṇanikkhasuttādiaṭṭhakaṃ)]
 
 #super[1] Ngụ tại Xá-vệ… "Ở đây, này các thầy, Ta biết rõ tâm của một
 người như vầy: 'Vị này, dù vì một thanh vàng, dù vì một trăm thanh
@@ -5610,7 +5610,7 @@ và Người Đẹp Xứ Sở — đủ mười kinh.
 
 === Phẩm 3 (nguồn ghi 3). Thứ Ba (Tatiyavaggo)
 
-==== Kinh 17.1. Người Nữ (Mātugāmasuttaṃ)
+==== Kinh 17.21. Người Nữ (Mātugāmasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại… Này các thầy, không một người phụ nữ nào, dù chỉ một mình, có thể
@@ -5618,7 +5618,7 @@ chiếm ngự tâm của một người đến mức mà lợi đắc, cung kín
 chiếm ngự tâm người ấy. Lợi đắc, cung kính và tiếng khen quả là tai hại
 như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.2. Người Đẹp Xứ Sở (Kalyāṇīsuttaṃ)
+==== Kinh 17.22. Người Đẹp Xứ Sở (Kalyāṇīsuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại… Này các thầy, không một người đẹp xứ sở nào, dù chỉ một mình, có
@@ -5626,7 +5626,7 @@ thể chiếm ngự tâm của một người đến mức mà lợi đắc, cun
 khen chiếm ngự tâm người ấy. Lợi đắc, cung kính và tiếng khen quả là tai
 hại như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.3. Con Một (Ekaputtakasuttaṃ)
+==== Kinh 17.23. Con Một (Ekaputtakasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại… Này các thầy, có một nữ tín nữ đầy lòng tin, khi cầu chúc cho đứa
@@ -5643,7 +5643,7 @@ khen giáng xuống một Tỷ-kheo còn là vị hữu học chưa đạt đế
 của tâm, điều ấy sẽ là chướng ngại cho vị ấy. Lợi đắc, cung kính và
 tiếng khen quả là tai hại như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.4. Con Gái Một (Ekadhītusuttaṃ)
+==== Kinh 17.24. Con Gái Một (Ekadhītusuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại… Này các thầy, có một nữ tín nữ đầy lòng tin, khi cầu chúc cho đứa
@@ -5661,7 +5661,7 @@ khen giáng xuống một Tỷ-kheo-ni còn là vị hữu học chưa đạt đ
 của tâm, điều ấy sẽ là chướng ngại cho vị ấy. Lợi đắc, cung kính và
 tiếng khen quả là tai hại như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.5. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
+==== Kinh 17.25. Sa-môn Bà-la-môn Thứ Nhất (Samaṇabrāhmaṇasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Này các thầy, những Sa-môn hay Bà-la-môn nào
 không như thật rõ biết vị ngọt, sự nguy hại và sự xuất ly của lợi đắc,
@@ -5676,7 +5676,7 @@ giữa các Bà-la-môn; và những Tôn giả ấy, ngay trong hiện tại, t
 thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích
 của Phạm hạnh."
 
-==== Kinh 17.6. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 17.26. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Này các thầy, những Sa-môn hay Bà-la-môn nào
 không rõ biết lợi đắc, cung kính và tiếng khen, không rõ biết sự tập
@@ -5687,7 +5687,7 @@ xem là Sa-môn giữa các Sa-môn… Còn những vị nào rõ biết đầy 
 tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của
 Phạm hạnh."
 
-==== Kinh 17.7. Sa-môn Bà-la-môn Thứ Ba (Tatiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 17.27. Sa-môn Bà-la-môn Thứ Ba (Tatiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Này các thầy, những Sa-môn hay Bà-la-môn nào
 không rõ biết lợi đắc, cung kính và tiếng khen, không rõ biết sự tập
@@ -5697,7 +5697,7 @@ khởi của nó, không rõ biết sự đoạn diệt của nó, không rõ bi
 chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của Phạm
 hạnh."
 
-==== Kinh 17.8. Da (Chavisuttaṃ)
+==== Kinh 17.28. Da (Chavisuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại. Lợi đắc, cung kính và tiếng khen, này các thầy, cắt đứt da ngoài;
@@ -5706,7 +5706,7 @@ thịt; cắt đứt thịt rồi cắt đứt gân; cắt đứt gân rồi c�
 đứt xương rồi chạm đến tủy xương mà dừng lại. Lợi đắc, cung kính và
 tiếng khen quả là tai hại như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.9. Dây Thừng (Rajjusuttaṃ)
+==== Kinh 17.29. Dây Thừng (Rajjusuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại. Lợi đắc, cung kính và tiếng khen, này các thầy, cắt đứt da ngoài;
@@ -5724,7 +5724,7 @@ gân rồi cắt đứt xương; cắt đứt xương rồi chạm đến tủy 
 lại. Lợi đắc, cung kính và tiếng khen quả là tai hại như vậy. Các thầy
 cần học tập như vậy."
 
-==== Kinh 17.10. Tỷ-kheo (Bhikkhusuttaṃ)
+==== Kinh 17.30. Tỷ-kheo (Bhikkhusuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Này các thầy, dù là vị Tỷ-kheo A-la-hán đã
 đoạn tận các lậu hoặc, Ta cũng nói rằng lợi đắc, cung kính và tiếng khen
@@ -5754,14 +5754,14 @@ Da, Dây Thừng và kinh Tỷ-kheo.
 
 === Phẩm 4 (nguồn ghi 4). Thứ Tư (Catutthavaggo)
 
-==== Kinh 17.1. Phá Hòa Hợp Tăng (Bhindisuttaṃ)
+==== Kinh 17.31. Phá Hòa Hợp Tăng (Bhindisuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại. Này các thầy, bị lợi đắc, cung kính và tiếng khen chi phối, tâm bị
 chiếm ngự, Đề-bà-đạt-đa (Devadatta) đã phá vỡ Tăng chúng. Lợi đắc, cung kính và tiếng
 khen quả là tai hại như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.2. Đoạn Gốc Rễ Thiện (Kusalamūlasuttaṃ)
+==== Kinh 17.32. Đoạn Gốc Rễ Thiện (Kusalamūlasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại. Này các thầy, bị lợi đắc, cung kính và tiếng khen chi phối, tâm bị
@@ -5769,7 +5769,7 @@ chiếm ngự, các căn lành của Đề-bà-đạt-đa (Devadatta) đã bị 
 đắc, cung kính và tiếng khen quả là tai hại như vậy. Các thầy cần học
 tập như vậy."
 
-==== Kinh 17.3. Đoạn Pháp Thiện (Kusaladhammasuttaṃ)
+==== Kinh 17.33. Đoạn Pháp Thiện (Kusaladhammasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại. Này các thầy, bị lợi đắc, cung kính và tiếng khen chi phối, tâm bị
@@ -5777,7 +5777,7 @@ chiếm ngự, pháp thiện của Đề-bà-đạt-đa (Devadatta) đã bị đ
 cung kính và tiếng khen quả là tai hại như vậy. Các thầy cần học tập
 như vậy."
 
-==== Kinh 17.4. Đoạn Pháp Trắng (Sukkadhammasuttaṃ)
+==== Kinh 17.34. Đoạn Pháp Trắng (Sukkadhammasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại. Này các thầy, bị lợi đắc, cung kính và tiếng khen chi phối, tâm bị
@@ -5785,7 +5785,7 @@ chiếm ngự, pháp trắng của Đề-bà-đạt-đa (Devadatta) đã bị đ
 cung kính và tiếng khen quả là tai hại như vậy. Các thầy cần học tập
 như vậy."
 
-==== Kinh 17.5. Vừa Mới Ra Đi (Acirapakkantasuttaṃ)
+==== Kinh 17.35. Vừa Mới Ra Đi (Acirapakkantasuttaṃ)
 
 #super[1] Một thời, Thế Tôn ngự tại Rājagaha (Vương Xá), trên núi
 Gijjhakūṭa (Thứu Phong), sau khi Đề-bà-đạt-đa (Devadatta) vừa mới ra đi không lâu. Tại
@@ -5810,7 +5810,7 @@ quả làm hại cây tre, quả làm hại cây lau sậy; \
 Sự cung kính làm hại kẻ xấu ác, \
 như bào thai làm hại con la vậy."
 
-==== Kinh 17.6. Năm Trăm Xe (Pañcarathasatasuttaṃ)
+==== Kinh 17.36. Năm Trăm Xe (Pañcarathasatasuttaṃ)
 
 #super[1] Ngụ tại Vương Xá (Rājagaha), trong rừng Veḷuvana (Trúc Lâm), chỗ nuôi
 dưỡng loài sóc. Lúc bấy giờ, hoàng tử A-xà-thế (Ajātasattu), sáng chiều đều đến hầu
@@ -5832,7 +5832,7 @@ giảm, này các thầy, có thể mong đợi ở Devadatta trong các thiện
 không phải sự tăng trưởng. Lợi đắc, cung kính và tiếng khen quả là tai
 hại như vậy. Các thầy cần học tập như vậy."
 
-==== Kinh 17.7. Người Mẹ (Mātusuttaṃ)
+==== Kinh 17.37. Người Mẹ (Mātusuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại, cay đắng, thô bạo, là chướng ngại cho việc đạt đến sự an ổn tối
@@ -5846,7 +5846,7 @@ từ bỏ lợi đắc, cung kính và tiếng khen đã sanh, không để lợ
 kính và tiếng khen đã sanh chiếm ngự tâm ta.' Các thầy cần học tập như
 vậy."
 
-#strong[Nhóm kinh 17.8–13 — Cha Và Những Người Khác (Pitusuttādichakkaṃ)]
+#strong[Nhóm kinh 17.38–43 — Cha Và Những Người Khác (Pitusuttādichakkaṃ)]
 
 #super[1] Ngụ tại Xá-vệ… "Lợi đắc, cung kính và tiếng khen quả là tai
 hại… Ở đây, này các thầy, Ta biết rõ tâm của một người như vầy: 'Ngay
@@ -6008,7 +6008,7 @@ Giới và Uẩn là mười.
 
 === Phẩm 2. Thứ Hai
 
-==== Kinh 18.1. Mắt (Cakkhusuttaṃ)
+==== Kinh 18.11. Mắt (Cakkhusuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Xá-vệ (Sāvatthī).
 Rồi Tôn giả La-hầu-la (Rāhula) đi đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi
@@ -6030,7 +6030,7 @@ giải thoát; khi đã giải thoát thì có trí biết rằng: đã giải t
 còn trở lại trạng thái này nữa." Bằng phương thức trùng tụng này, mười
 bài kinh cần được soạn ra.
 
-#strong[Nhóm kinh 18.2–10 — Sắc Và Tám Đề Mục Khác (Rūpādisuttanavakaṃ)]
+#strong[Nhóm kinh 18.12–20 — Sắc Và Tám Đề Mục Khác (Rūpādisuttanavakaṃ)]
 
 #super[1] Ngụ tại Xá-vệ… "Này Rāhula, con nghĩ thế nào, các sắc… các
 tiếng… các mùi… các vị… các xúc… các pháp là thường hay vô thường?" "Là
@@ -6054,7 +6054,7 @@ nên ly tham; do ly tham nên giải thoát; khi đã giải thoát thì có tr�
 biết rằng: đã giải thoát. Vị ấy biết rõ: sanh đã tận, Phạm hạnh đã
 thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
-==== Kinh 18.11. Tùy Miên (Anusayasuttaṃ)
+==== Kinh 18.21. Tùy Miên (Anusayasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ. Rồi Tôn giả La-hầu-la (Rāhula) đi đến chỗ Thế Tôn; đến rồi,
 đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn giả Rāhula
@@ -6074,7 +6074,7 @@ biết như vậy, thấy như vậy, thì đối với thân có ý thức này
 tất cả tướng bên ngoài, không còn các tùy miên ngã mạn 'tôi là', 'của
 tôi', 'tôi'."
 
-==== Kinh 18.12. Đã Thoát Khỏi (Apagatasuttaṃ)
+==== Kinh 18.22. Đã Thoát Khỏi (Apagatasuttaṃ)
 
 #super[1] Ngụ tại Xá-vệ. Rồi Tôn giả La-hầu-la (Rāhula) đi đến chỗ Thế Tôn; đến rồi,
 đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn giả Rāhula
@@ -6230,14 +6230,14 @@ Người vác bìu chính là hương trưởng gian lận.
 
 === Phẩm 2. Thứ Hai
 
-==== Kinh 19.1. Chìm Đầu Trong Hố Phân (Sasīsakasuttaṃ)
+==== Kinh 19.11. Chìm Đầu Trong Hố Phân (Sasīsakasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, tại Vương Xá (Rājagaha), trong Trúc Lâm. "Này hiền
 giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một người chìm cả đầu trong hố
 phân… Này các thầy, chúng sanh ấy, ngay tại Rājagaha này, từng là kẻ ngoại
 tình."
 
-==== Kinh 19.2. Ăn Phân (Gūthakhādasuttaṃ)
+==== Kinh 19.12. Ăn Phân (Gūthakhādasuttaṃ)
 
 #super[1] "Này hiền giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một người chìm
 trong hố phân, dùng cả hai tay bốc phân ăn… Này các thầy, chúng sanh ấy, ngay
@@ -6246,14 +6246,14 @@ Phật Chánh Đẳng Giác Ca-diếp (Kassapa), ông ta mời chúng Tỷ-kheo 
 đầy các thùng phân, nói rằng: 'Kính các vị, hãy dùng cho thỏa thích, và mang
 về cho đủ.'"
 
-==== Kinh 19.3. Người Nữ Không Da (Nicchavitthisuttaṃ)
+==== Kinh 19.13. Người Nữ Không Da (Nicchavitthisuttaṃ)
 
 #super[1] "Này hiền giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một người nữ
 không còn da đang đi trên không. Các con kên kên, quạ và diều hâu liên tục sà
 xuống mổ, xé, cắn nàng. Nàng kêu lên tiếng rên la thảm thiết… Này các thầy,
 chúng sanh ấy, ngay tại Vương Xá (Rājagaha) này, từng là một người nữ ngoại tình."
 
-==== Kinh 19.4. Người Nữ Hôi Thối (Maṅgulitthisuttaṃ)
+==== Kinh 19.14. Người Nữ Hôi Thối (Maṅgulitthisuttaṃ)
 
 #super[1] "Này hiền giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một người nữ
 hôi thối, xấu xí đang đi trên không. Các con kên kên, quạ và diều hâu liên tục
@@ -6261,7 +6261,7 @@ sà xuống mổ, xé, cắn nàng. Nàng kêu lên tiếng rên la thảm thi�
 chúng sanh ấy, ngay tại Vương Xá (Rājagaha) này, từng là một bà đồng bóng, chuyên xem quẻ
 bói."
 
-==== Kinh 19.5. Bị Đổ Than Hồng (Okilinīsuttaṃ)
+==== Kinh 19.15. Bị Đổ Than Hồng (Okilinīsuttaṃ)
 
 #super[1] "Này hiền giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một người nữ
 đầy mụn lở, thân thể ướt đẫm, luôn bị tưới, bị tẩm nước sôi, đang đi trên
@@ -6269,7 +6269,7 @@ không. Nàng kêu lên tiếng rên la thảm thiết… Này các thầy, chú
 là hoàng hậu chánh cung của vua Ca-lăng-giới (Kaliṅga). Vì lòng ganh tị, bà đã đổ chảo than
 hồng lên người vợ khác của vua."
 
-==== Kinh 19.6. Thân Không Đầu (Asīsakasuttaṃ)
+==== Kinh 19.16. Thân Không Đầu (Asīsakasuttaṃ)
 
 #super[1] "Này hiền giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một thân người
 không đầu đang đi trên không. Nơi ngực người ấy có cả hai mắt và miệng. Các
@@ -6277,7 +6277,7 @@ con kên kên, quạ và diều hâu liên tục sà xuống mổ, xé, cắn ng
 kêu lên tiếng rên la thảm thiết… Này các thầy, chúng sanh ấy, ngay tại
 Vương Xá (Rājagaha) này, từng là một đao phủ tên là Hārika, chuyên chém đầu trộm cướp."
 
-==== Kinh 19.7. Tỷ-kheo Ác (Pāpabhikkhusuttaṃ)
+==== Kinh 19.17. Tỷ-kheo Ác (Pāpabhikkhusuttaṃ)
 
 #super[1] "Này hiền giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một Tỷ-kheo
 đang đi trên không. Y hai lớp của vị ấy đang bốc lửa, cháy rực, cháy đỏ; bình
@@ -6287,25 +6287,25 @@ cháy rực, cháy đỏ. Vị ấy kêu lên tiếng rên la thảm thiết… 
 Tỷ-kheo ấy, vào thời giáo pháp của Đức Phật Chánh Đẳng Giác Ca-diếp (Kassapa), từng là
 một Tỷ-kheo ác."
 
-==== Kinh 19.8. Tỷ-kheo-ni Ác (Pāpabhikkhunīsuttaṃ)
+==== Kinh 19.18. Tỷ-kheo-ni Ác (Pāpabhikkhunīsuttaṃ)
 
 #super[1] "Tôi thấy một Tỷ-kheo-ni đang đi trên không. Y hai lớp của vị ấy…
 như trên… vào thời giáo pháp của Đức Phật Chánh Đẳng Giác Ca-diếp (Kassapa), từng là một
 Tỷ-kheo-ni ác."
 
-==== Kinh 19.9. Thức-xoa-ma-na Ác (Pāpasikkhamānasuttaṃ)
+==== Kinh 19.19. Thức-xoa-ma-na Ác (Pāpasikkhamānasuttaṃ)
 
 #super[1] "Tôi thấy một Thức-xoa-ma-na (sikkhamānā) đang đi trên không. Y hai
 lớp của vị ấy… như trên… vào thời giáo pháp của Đức Phật Chánh Đẳng Giác
 Ca-diếp (Kassapa), từng là một Thức-xoa-ma-na ác."
 
-==== Kinh 19.10. Sa-di Ác (Pāpasāmaṇerasuttaṃ)
+==== Kinh 19.20. Sa-di Ác (Pāpasāmaṇerasuttaṃ)
 
 #super[1] "Tôi thấy một Sa-di đang đi trên không. Y hai lớp của vị ấy… như
 trên… vào thời giáo pháp của Đức Phật Chánh Đẳng Giác Ca-diếp (Kassapa), từng là một
 Sa-di ác."
 
-==== Kinh 19.11. Sa-di-ni Ác (Pāpasāmaṇerīsuttaṃ)
+==== Kinh 19.21. Sa-di-ni Ác (Pāpasāmaṇerīsuttaṃ)
 
 #super[1] "Này hiền giả, khi từ núi Linh Thứu (Gijjhakūṭa) xuống, tôi thấy một Sa-di-ni
 đang đi trên không. Y hai lớp của vị ấy đang bốc lửa, cháy rực, cháy đỏ; bình

@@ -317,7 +317,7 @@ Phân tích, hạt lúa và Nandiya.
 
 === Phẩm 2 (nguồn ghi 2). An Trú (Vihāravaggo)
 
-==== Kinh 45.1. Trú Xứ Thứ Nhất (Paṭhamavihārasuttaṃ)
+==== Kinh 45.11. Trú Xứ Thứ Nhất (Paṭhamavihārasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta muốn sống độc cư
 nửa tháng. Không ai được đến gần Ta, trừ một người mang thức ăn đến."
@@ -333,7 +333,7 @@ cảm thọ do duyên ấy. Khi ước muốn, tầm và tưởng đã lắng d�
 cảm thọ do duyên ấy. Có sự nỗ lực để đạt đến điều chưa đạt được, và
 ngay khi đạt đến chỗ ấy, cũng có cảm thọ do duyên ấy.'"
 
-==== Kinh 45.2. Trú Xứ Thứ Hai (Dutiyavihārasuttaṃ)
+==== Kinh 45.12. Trú Xứ Thứ Hai (Dutiyavihārasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta muốn sống độc cư ba
 tháng. Không ai được đến gần Ta, trừ một người mang thức ăn đến." Các
@@ -354,7 +354,7 @@ duyên ấy. Khi ước muốn, tầm và tưởng đã lắng dịu, cũng có 
 duyên ấy. Có sự nỗ lực để đạt đến điều chưa đạt được, và ngay khi đạt
 đến chỗ ấy, cũng có cảm thọ do duyên ấy.'"
 
-==== Kinh 45.3. Bậc Hữu Học (Sekkhasuttaṃ)
+==== Kinh 45.13. Bậc Hữu Học (Sekkhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, có một Tỷ-kheo đi đến chỗ Thế
 Tôn… ngồi xuống một bên. Vị Tỷ-kheo ấy bạch Thế Tôn: "'Bậc Hữu học,
@@ -363,7 +363,7 @@ bậc Hữu học' — bạch Thế Tôn, được nói đến như vậy. Cho �
 kiến của bậc Hữu học… thành tựu chánh định của bậc Hữu học. Cho đến
 mức đó, này Tỷ-kheo, được gọi là bậc Hữu học."
 
-==== Kinh 45.4. Sanh Khởi Thứ Nhất (Paṭhamauppādasuttaṃ)
+==== Kinh 45.14. Sanh Khởi Thứ Nhất (Paṭhamauppādasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có tám pháp này, khi
 được tu tập, làm cho sung mãn, sẽ sanh khởi dù trước đó chưa từng sanh
@@ -373,7 +373,7 @@ Này các thầy, đây là tám pháp, khi được tu tập, làm cho sung mã
 sanh khởi dù trước đó chưa từng sanh khởi, và chỉ có thể sanh khởi nhờ
 sự xuất hiện của một vị Như Lai, A-la-hán, Chánh Đẳng Giác."
 
-==== Kinh 45.5. Sanh Khởi Thứ Hai (Dutiyauppādasuttaṃ)
+==== Kinh 45.15. Sanh Khởi Thứ Hai (Dutiyauppādasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có tám pháp này, khi
 được tu tập, làm cho sung mãn, sẽ sanh khởi dù trước đó chưa từng sanh
@@ -382,7 +382,7 @@ nào? Tức là chánh kiến… chánh định. Này các thầy, đây là tá
 được tu tập, làm cho sung mãn, sẽ sanh khởi dù trước đó chưa từng sanh
 khởi, và chỉ có thể sanh khởi nhờ Luật của đấng Thiện Thệ."
 
-==== Kinh 45.6. Thanh Tịnh Thứ Nhất (Paṭhamaparisuddhasuttaṃ)
+==== Kinh 45.16. Thanh Tịnh Thứ Nhất (Paṭhamaparisuddhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có tám pháp này, thanh
 tịnh, trong sáng, không cấu uế, đã đoạn trừ tùy phiền não, sẽ sanh khởi
@@ -393,7 +393,7 @@ trong sáng, không cấu uế, đã đoạn trừ tùy phiền não, sẽ sanh 
 trước đó chưa từng sanh khởi, và chỉ có thể sanh khởi nhờ sự xuất hiện
 của một vị Như Lai, A-la-hán, Chánh Đẳng Giác."
 
-==== Kinh 45.7. Thanh Tịnh Thứ Hai (Dutiyaparisuddhasuttaṃ)
+==== Kinh 45.17. Thanh Tịnh Thứ Hai (Dutiyaparisuddhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có tám pháp này, thanh
 tịnh, trong sáng, không cấu uế, đã đoạn trừ tùy phiền não, sẽ sanh khởi
@@ -403,7 +403,7 @@ thầy, đây là tám pháp, thanh tịnh, trong sáng, không cấu uế, đã
 trừ tùy phiền não, sẽ sanh khởi dù trước đó chưa từng sanh khởi, và chỉ
 có thể sanh khởi nhờ Luật của đấng Thiện Thệ."
 
-==== Kinh 45.8. Khu Vườn Gà Thứ Nhất (Paṭhamakukkuṭārāmasuttaṃ)
+==== Kinh 45.18. Khu Vườn Gà Thứ Nhất (Paṭhamakukkuṭārāmasuttaṃ)
 
 #super[1] Một thời, Tôn giả A-nan (Ānanda) và Tôn giả Bhadda cùng trú tại
 Ba-tha-li-bu-đa (Pāṭaliputta), trong khu vườn Gà (Kukkuṭārāma). Vào buổi chiều, Tôn giả
@@ -418,7 +418,7 @@ này hiền giả Ānanda, được nói đến như vậy. Nhưng thế nào l�
 hạnh?'" "Đúng vậy, hiền giả." "Chính là tà đạo tám ngành này, này hiền
 giả, là phi Phạm hạnh, tức là tà kiến… tà định."
 
-==== Kinh 45.9. Khu Vườn Gà Thứ Hai (Dutiyakukkuṭārāmasuttaṃ)
+==== Kinh 45.19. Khu Vườn Gà Thứ Hai (Dutiyakukkuṭārāmasuttaṃ)
 
 #super[1] Nhân duyên tại Ba-tha-li-bu-đa (Pāṭaliputta). "'Phạm hạnh, Phạm hạnh' — này
 hiền giả A-nan (Ānanda), được nói đến như vậy. Nhưng thế nào là Phạm hạnh, và
@@ -431,7 +431,7 @@ Thánh đạo này, này hiền giả, là Phạm hạnh, tức là chánh kiế
 định. Còn sự đoạn tận tham, đoạn tận sân, đoạn tận si, này hiền giả —
 đây là sự kết thúc của Phạm hạnh."
 
-==== Kinh 45.10. Khu Vườn Gà Thứ Ba (Tatiyakukkuṭārāmasuttaṃ)
+==== Kinh 45.20. Khu Vườn Gà Thứ Ba (Tatiyakukkuṭārāmasuttaṃ)
 
 #super[1] Nhân duyên tại Ba-tha-li-bu-đa (Pāṭaliputta). "'Phạm hạnh, Phạm hạnh' — này hiền
 giả A-nan (Ānanda), được nói đến như vậy. Nhưng thế nào là Phạm hạnh, ai là
@@ -458,7 +458,7 @@ và ba kinh về khu vườn Gà.
 
 === Phẩm 3 (nguồn ghi 3). Tà Tánh (Micchattavaggo)
 
-==== Kinh 45.1. Tà Tánh (Micchattasuttaṃ)
+==== Kinh 45.21. Tà Tánh (Micchattasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về tà tánh và chánh tánh. Hãy lắng nghe. Này các thầy, thế nào là
@@ -466,7 +466,7 @@ tà tánh? Tức là tà kiến… tà định. Này các thầy, đây gọi l�
 Này các thầy, thế nào là chánh tánh? Tức là chánh kiến… chánh định.
 Này các thầy, đây gọi là chánh tánh."
 
-==== Kinh 45.2. Pháp Bất Thiện (Akusaladhammasuttaṃ)
+==== Kinh 45.22. Pháp Bất Thiện (Akusaladhammasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về các pháp bất thiện và các pháp thiện. Hãy lắng nghe. Này các
@@ -475,7 +475,7 @@ thầy, đây gọi là các pháp bất thiện. Này các thầy, thế nào l
 thiện? Tức là chánh kiến… chánh định. Này các thầy, đây gọi là các
 pháp thiện."
 
-==== Kinh 45.3. Hành Thứ Nhất (Paṭhamapaṭipadāsuttaṃ)
+==== Kinh 45.23. Hành Thứ Nhất (Paṭhamapaṭipadāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về tà hành và chánh hành. Hãy lắng nghe. Này các thầy, thế nào là
@@ -483,7 +483,7 @@ tà hành? Tức là tà kiến… tà định. Này các thầy, đây gọi l�
 Này các thầy, thế nào là chánh hành? Tức là chánh kiến… chánh định.
 Này các thầy, đây gọi là chánh hành."
 
-==== Kinh 45.4. Hành Thứ Hai (Dutiyapaṭipadāsuttaṃ)
+==== Kinh 45.24. Hành Thứ Hai (Dutiyapaṭipadāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta không tán thán tà
 hành của người tại gia hay người xuất gia. Này các thầy, người tại gia
@@ -504,7 +504,7 @@ thán chánh hành của người tại gia hay người xuất gia. Này các t
 người tại gia hay người xuất gia hành theo chánh hành, do nhân duyên
 hành theo chánh hành, thành đạt được điều đúng đắn, thiện xảo."
 
-==== Kinh 45.5. Người Bất Chánh Thứ Nhất (Paṭhamaasappurisasuttaṃ)
+==== Kinh 45.25. Người Bất Chánh Thứ Nhất (Paṭhamaasappurisasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về người bất chánh và người chân chánh. Hãy lắng nghe. Này các
@@ -515,7 +515,7 @@ chánh? Ở đây, này các thầy, có người có chánh kiến, chánh tư 
 chánh ngữ, chánh nghiệp, chánh mạng, chánh tinh tấn, chánh niệm, chánh
 định — đây gọi là người chân chánh."
 
-==== Kinh 45.6. Người Bất Chánh Thứ Hai (Dutiyaasappurisasuttaṃ)
+==== Kinh 45.26. Người Bất Chánh Thứ Hai (Dutiyaasappurisasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về người bất chánh và người còn bất chánh hơn người bất chánh; về
@@ -531,7 +531,7 @@ thế nào là người còn chân chánh hơn người chân chánh? Ở đây,
 thầy, có người có chánh kiến… chánh định, có chánh trí, có chánh giải
 thoát — đây gọi là người còn chân chánh hơn người chân chánh."
 
-==== Kinh 45.7. Cái Ghè (Kumbhasuttaṃ)
+==== Kinh 45.27. Cái Ghè (Kumbhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, ví như một cái ghè
 không có chỗ tựa thì dễ lật đổ, có chỗ tựa thì khó lật đổ; cũng vậy,
@@ -542,7 +542,7 @@ các thầy, ví như một cái ghè không có chỗ tựa thì dễ lật đ�
 tựa thì khó lật đổ; cũng vậy, này các thầy, tâm không có chỗ tựa thì dễ
 lật đổ, có chỗ tựa thì khó lật đổ."
 
-==== Kinh 45.8. Định (Samādhisuttaṃ)
+==== Kinh 45.28. Định (Samādhisuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về chánh định của bậc Thánh, có phần hỗ trợ, có phần trợ giúp.
@@ -552,7 +552,7 @@ thầy, sự nhất tâm của tâm được trang bị đầy đủ với bảy
 đây gọi là chánh định của bậc Thánh, có phần hỗ trợ, cũng gọi là có
 phần trợ giúp."
 
-==== Kinh 45.9. Thọ (Vedanāsuttaṃ)
+==== Kinh 45.29. Thọ (Vedanāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có ba loại thọ này.
 Ba loại nào? Thọ lạc, thọ khổ, thọ không khổ không lạc — này các thầy,
@@ -561,7 +561,7 @@ Thánh đạo cần được tu tập. Bát Thánh đạo nào? Tức là chánh
 chánh định. Để liễu tri ba loại thọ này, này các thầy, Bát Thánh đạo
 này cần được tu tập."
 
-==== Kinh 45.10. U-đi-da (Uttiyasuttaṃ)
+==== Kinh 45.30. U-đi-da (Uttiyasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, Tôn giả Uttiya đi đến chỗ
 Thế Tôn… ngồi xuống một bên. Tôn giả Uttiya bạch Thế Tôn: "Bạch Thế
@@ -587,7 +587,7 @@ Hai kinh về người bất chánh, cái ghè; \
 
 === Phẩm 4 (nguồn ghi 4). Thực Hành (Paṭipattivaggo)
 
-==== Kinh 45.1. Thực Hành Thứ Nhất (Paṭhamapaṭipattisuttaṃ)
+==== Kinh 45.31. Thực Hành Thứ Nhất (Paṭhamapaṭipattisuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về tà thực hành và chánh thực hành. Hãy lắng nghe. Này các thầy,
@@ -595,7 +595,7 @@ thế nào là tà thực hành? Tức là tà kiến… tà định. Này các 
 gọi là tà thực hành. Này các thầy, thế nào là chánh thực hành? Tức là
 chánh kiến… chánh định. Này các thầy, đây gọi là chánh thực hành."
 
-==== Kinh 45.2. Thực Hành Thứ Hai (Dutiyapaṭipattisuttaṃ)
+==== Kinh 45.32. Thực Hành Thứ Hai (Dutiyapaṭipattisuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về người thực hành sai và người thực hành đúng. Hãy lắng nghe.
@@ -604,7 +604,7 @@ người có tà kiến… tà định — đây gọi là người thực hành
 thầy, thế nào là người thực hành đúng? Ở đây, này các thầy, có người
 có chánh kiến… chánh định — đây gọi là người thực hành đúng."
 
-==== Kinh 45.3. Sự Hủy Hoại (Viraddhasuttaṃ)
+==== Kinh 45.33. Sự Hủy Hoại (Viraddhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, với những ai mà Bát
 Thánh đạo bị hủy hoại, đối với họ, Bát Thánh đạo đưa đến sự đoạn tận
@@ -617,7 +617,7 @@ một cách chân chánh cũng bị hủy hoại. Với những ai mà Bát Thá
 này được thực hành, đối với họ, Bát Thánh đạo đưa đến sự đoạn tận khổ
 một cách chân chánh cũng được thực hành."
 
-==== Kinh 45.4. Đưa Đến Bờ Kia (Pāraṅgamasuttaṃ)
+==== Kinh 45.34. Đưa Đến Bờ Kia (Pāraṅgamasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có tám pháp này, khi
 được tu tập, làm cho sung mãn, sẽ đưa từ bờ này sang bờ kia. Tám pháp
@@ -648,7 +648,7 @@ hoan hỷ trong sự từ bỏ chấp thủ; \
 Những vị ấy, lậu hoặc đã đoạn tận, sáng chói, \
 đã tịch tịnh trong đời này."
 
-==== Kinh 45.5. Hạnh Sa-môn Thứ Nhất (Paṭhamasāmaññasuttaṃ)
+==== Kinh 45.35. Hạnh Sa-môn Thứ Nhất (Paṭhamasāmaññasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về hạnh Sa-môn và các quả của hạnh Sa-môn. Hãy lắng nghe. Này các
@@ -657,7 +657,7 @@ kiến… chánh định. Này các thầy, đây gọi là hạnh Sa-môn. Này
 những gì là các quả của hạnh Sa-môn? Quả Dự lưu, quả Nhất lai, quả Bất
 lai, quả A-la-hán — này các thầy, đây gọi là các quả của hạnh Sa-môn."
 
-==== Kinh 45.6. Hạnh Sa-môn Thứ Hai (Dutiyasāmaññasuttaṃ)
+==== Kinh 45.36. Hạnh Sa-môn Thứ Hai (Dutiyasāmaññasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về hạnh Sa-môn và mục đích của hạnh Sa-môn. Hãy lắng nghe. Này các
@@ -666,7 +666,7 @@ kiến… chánh định. Này các thầy, đây gọi là hạnh Sa-môn. Này
 thế nào là mục đích của hạnh Sa-môn? Sự đoạn tận tham, đoạn tận sân,
 đoạn tận si, này các thầy — đây gọi là mục đích của hạnh Sa-môn."
 
-==== Kinh 45.7. Hạnh Bà-la-môn Thứ Nhất (Paṭhamabrahmaññasuttaṃ)
+==== Kinh 45.37. Hạnh Bà-la-môn Thứ Nhất (Paṭhamabrahmaññasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về hạnh Bà-la-môn và các quả của hạnh Bà-la-môn. Hãy lắng nghe.
@@ -676,7 +676,7 @@ Này các thầy, những gì là các quả của hạnh Bà-la-môn? Quả D�
 Nhất lai, quả Bất lai, quả A-la-hán — này các thầy, đây gọi là các quả
 của hạnh Bà-la-môn."
 
-==== Kinh 45.8. Hạnh Bà-la-môn Thứ Hai (Dutiyabrahmaññasuttaṃ)
+==== Kinh 45.38. Hạnh Bà-la-môn Thứ Hai (Dutiyabrahmaññasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về hạnh Bà-la-môn và mục đích của hạnh Bà-la-môn. Hãy lắng nghe.
@@ -686,7 +686,7 @@ Này các thầy, thế nào là mục đích của hạnh Bà-la-môn? Sự đo
 đoạn tận sân, đoạn tận si, này các thầy — đây gọi là mục đích của hạnh
 Bà-la-môn."
 
-==== Kinh 45.9. Phạm Hạnh Thứ Nhất (Paṭhamabrahmacariyasuttaṃ)
+==== Kinh 45.39. Phạm Hạnh Thứ Nhất (Paṭhamabrahmacariyasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về Phạm hạnh và các quả của Phạm hạnh. Hãy lắng nghe. Này các
@@ -695,7 +695,7 @@ kiến… chánh định. Này các thầy, đây gọi là Phạm hạnh. Này 
 những gì là các quả của Phạm hạnh? Quả Dự lưu, quả Nhất lai, quả Bất
 lai, quả A-la-hán — này các thầy, đây gọi là các quả của Phạm hạnh."
 
-==== Kinh 45.10. Phạm Hạnh Thứ Hai (Dutiyabrahmacariyasuttaṃ)
+==== Kinh 45.40. Phạm Hạnh Thứ Hai (Dutiyabrahmacariyasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về Phạm hạnh và mục đích của Phạm hạnh. Hãy lắng nghe. Này các
@@ -716,7 +716,7 @@ phẩm này được gọi tên như vậy.
 
 === Phẩm 5 (nguồn ghi 5). Ngoại Đạo (Aññatitthiyapeyyālavaggo)
 
-==== Kinh 45.1. Ly Tham (Rāgavirāgasuttaṃ)
+==== Kinh 45.41. Ly Tham (Rāgavirāgasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, nếu các du sĩ ngoại
 đạo khác có hỏi các thầy như vầy: 'Này hiền giả, Phạm hạnh được sống
@@ -732,7 +732,7 @@ là chánh kiến… chánh định. Đây, này các thầy, là con đường,
 pháp để ly tham. Khi được hỏi như vậy, các thầy hãy đáp lại các du sĩ
 ngoại đạo ấy như vậy."
 
-#strong[Nhóm kinh 45.2–7 — Kiết Sử Và Các Pháp Khác (Saṃyojanappahānādisuttachakkaṃ)]
+#strong[Nhóm kinh 45.42–47 — Kiết Sử Và Các Pháp Khác (Saṃyojanappahānādisuttachakkaṃ)]
 
 #super[1] Nhân duyên tại Sāvatthi. "Này các thầy, nếu các du sĩ ngoại
 đạo khác có hỏi các thầy như vầy: 'Này hiền giả, Phạm hạnh được sống
@@ -753,7 +753,7 @@ chứng ngộ quả minh và giải thoát, và tri kiến — mỗi mục đíc
 trả lời bằng chính Bát Thánh đạo là con đường, là phương pháp để đạt
 đến."
 
-==== Kinh 45.8. Không Còn Chấp Thủ (Anupādāparinibbānasuttaṃ)
+==== Kinh 45.48. Không Còn Chấp Thủ (Anupādāparinibbānasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, nếu các du sĩ ngoại
 đạo khác có hỏi các thầy như vầy: 'Này hiền giả, Phạm hạnh được sống
@@ -782,7 +782,7 @@ và thứ tám là không còn chấp thủ.
 
 === Phẩm 6 (nguồn ghi 6). Ánh Rạng Đông (Sūriyapeyyālavaggo)
 
-==== Kinh 45.1. Bạn Lành (Kalyāṇamittasuttaṃ)
+==== Kinh 45.49. Bạn Lành (Kalyāṇamittasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, mặt trời mọc có điều đi
 trước, có điều báo trước, đó là ánh hồng rạng đông; cũng vậy, này các
@@ -797,7 +797,7 @@ tham, y cứ đoạn diệt, hướng đến buông bỏ. Như vậy, này các 
 Tỷ-kheo có bạn lành tu tập Bát Thánh đạo, làm cho Bát Thánh đạo sung
 mãn."
 
-#strong[Nhóm kinh 45.2–6 — Giới Và Các Pháp Khác (Sīlasampadādisuttapañcakaṃ)]
+#strong[Nhóm kinh 45.50–54 — Giới Và Các Pháp Khác (Sīlasampadādisuttapañcakaṃ)]
 
 #super[1] Nhân duyên tại Sāvatthi. "Này các thầy, mặt trời mọc có điều
 đi trước, có điều báo trước, đó là ánh hồng rạng đông; cũng vậy, này
@@ -809,7 +809,7 @@ cùng phương thức, lần lượt thay bằng) đầy đủ ước muốn… 
 cùng phương thức như trên, rằng với Tỷ-kheo đầy đủ điều ấy có thể chờ
 đợi vị ấy sẽ tu tập Bát Thánh đạo, làm cho Bát Thánh đạo sung mãn."
 
-==== Kinh 45.7. Như Lý Tác Ý (Yonisomanasikārasampadāsuttaṃ)
+==== Kinh 45.55. Như Lý Tác Ý (Yonisomanasikārasampadāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, mặt trời mọc có điều
 đi trước, có điều báo trước, đó là ánh hồng rạng đông; cũng vậy, này
@@ -836,7 +836,7 @@ kết thúc của si… tu tập chánh định với sự kết thúc của tha
 của sân, kết thúc của si. Như vậy, này các thầy, Tỷ-kheo có bạn lành tu
 tập Bát Thánh đạo, làm cho Bát Thánh đạo sung mãn."
 
-#strong[Nhóm kinh 45.2–6 — Giới Và Các Pháp Khác (Tiếp) (Sīlasampadādisuttapañcakaṃ)]
+#strong[Nhóm kinh 45.56–60 — Giới Và Các Pháp Khác (Tiếp) (Sīlasampadādisuttapañcakaṃ)]
 
 #super[1] Nhân duyên tại Sāvatthi. "Này các thầy, mặt trời mọc có điều
 đi trước, có điều báo trước, đó là ánh hồng rạng đông; cũng vậy, này
@@ -869,7 +869,7 @@ Tri kiến và không phóng dật, thứ bảy là như lý tác ý.
 
 === Phẩm 7 (nguồn ghi 7). Một Pháp (Ekadhammapeyyālavaggo)
 
-#strong[Nhóm kinh 45.2–6 — Giới Và Các Pháp Khác (Sīlasampadādisuttapañcakaṃ)]
+#strong[Nhóm kinh 45.61–65 — Giới Và Các Pháp Khác (Sīlasampadādisuttapañcakaṃ)]
 
 #super[1] Nhân duyên tại Sāvatthi. "Này các thầy, có một pháp này giúp
 ích rất nhiều cho sự sanh khởi của Bát Thánh đạo. Pháp ấy là gì? Tức
@@ -899,7 +899,7 @@ của si… tu tập chánh định với sự kết thúc của tham, kết th�
 kết thúc của si. Như vậy, này các thầy, Tỷ-kheo có bạn lành tu tập Bát
 Thánh đạo, làm cho Bát Thánh đạo sung mãn."
 
-#strong[Nhóm kinh 45.2–6 — Giới Và Các Pháp Khác (Tiếp) (Sīlasampadādisuttapañcakaṃ)]
+#strong[Nhóm kinh 45.66–70 — Giới Và Các Pháp Khác (Tiếp) (Sīlasampadādisuttapañcakaṃ)]
 
 #super[1] Nhân duyên tại Sāvatthi. "Này các thầy, có một pháp này giúp
 ích rất nhiều cho sự sanh khởi của Bát Thánh đạo. Pháp ấy là gì? Tức
@@ -927,7 +927,7 @@ Tri kiến và không phóng dật, thứ bảy là như lý tác ý.
 
 === Phẩm 8 (nguồn ghi 8). Một Pháp Trùng Tụng Thứ Hai (Dutiyaekadhammapeyyālavaggo)
 
-#strong[Nhóm kinh 45.1–7 — Bảy Pháp Thứ Nhất (Ekadhammapeyyālaṃ)]
+#strong[Nhóm kinh 45.71–77 — Bảy Pháp Thứ Nhất (Ekadhammapeyyālaṃ)]
 
 #super[1] Nhân duyên tại Sāvatthi. "Này các thầy, Ta không thấy một
 pháp nào khác mà do pháp ấy, Bát Thánh đạo chưa sanh được sanh khởi,
@@ -961,7 +961,7 @@ cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt, hướng �
 bỏ. Như vậy, này các thầy, Tỷ-kheo thành tựu như lý tác ý tu tập Bát
 Thánh đạo, làm cho Bát Thánh đạo sung mãn."
 
-#strong[Nhóm kinh 45.1–7 — Bảy Pháp Thứ Hai (Ekadhammapeyyālaṃ)]
+#strong[Nhóm kinh 45.78–84 — Bảy Pháp Thứ Hai (Ekadhammapeyyālaṃ)]
 
 #super[1] "Này các thầy, Ta không thấy một pháp nào khác mà do pháp
 ấy, Bát Thánh đạo chưa sanh được sanh khởi, hoặc Bát Thánh đạo đã
@@ -1005,7 +1005,7 @@ như lý tác ý là thứ bảy.
 
 === Phẩm 9 (nguồn ghi 1). Ví Dụ Sông Hằng (Gaṅgāpeyyālavaggo)
 
-==== Kinh 45.1. Sông Chảy Về Hướng Đông Thứ Nhất (Paṭhamapācīnaninnasuttaṃ)
+==== Kinh 45.85. Sông Chảy Về Hướng Đông Thứ Nhất (Paṭhamapācīnaninnasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, ví như sông Hằng (Gaṅgā)
 chảy về hướng đông, xuôi về hướng đông, nghiêng về hướng đông; cũng
@@ -1020,7 +1020,7 @@ bỏ… tu tập chánh định y cứ vào viễn ly, y cứ vào ly tham, y c�
 Bát Thánh đạo, làm cho Bát Thánh đạo sung mãn, hướng về Niết-bàn, xuôi
 về Niết-bàn, nghiêng về Niết-bàn."
 
-#strong[Nhóm kinh 45.2–5 — Bốn Sông Chảy Về Hướng Đông (Dutiyādipācīnaninnasuttacatukkaṃ)]
+#strong[Nhóm kinh 45.86–89 — Bốn Sông Chảy Về Hướng Đông (Dutiyādipācīnaninnasuttacatukkaṃ)]
 
 #super[1] "Này các thầy, ví như sông Diệm-mâu- na (Yamunā)… sông A-trí-la-phạt-để (Aciravatī)… sông
 Sa-la-bu (Sarabhū)… sông Ma-hi (Mahī) chảy về hướng đông, xuôi về hướng đông, nghiêng về
@@ -1029,7 +1029,7 @@ cho Bát Thánh đạo sung mãn, thì hướng về Niết-bàn, xuôi về Ni�
 nghiêng về Niết-bàn — mỗi sông này cũng theo phương thức như đã nói ở
 kinh về sông Gaṅgā."
 
-==== Kinh 45.6. Tất Cả Sông Chảy Về Hướng Đông (Chaṭṭhapācīnaninnasuttaṃ)
+==== Kinh 45.90. Tất Cả Sông Chảy Về Hướng Đông (Chaṭṭhapācīnaninnasuttaṃ)
 
 #super[1] "Này các thầy, ví như những con sông lớn nào — tức là sông
 Hằng (Gaṅgā), sông Diệm-mâu- na (Yamunā), sông A-trí-la-phạt-để (Aciravatī), sông Sa-la-bu (Sarabhū), sông Ma-hi (Mahī) — tất cả
@@ -1044,7 +1044,7 @@ vào ly tham, y cứ vào đoạn diệt, hướng đến buông bỏ. Như vậ
 thầy, Tỷ-kheo tu tập Bát Thánh đạo, làm cho Bát Thánh đạo sung mãn,
 hướng về Niết-bàn, xuôi về Niết-bàn, nghiêng về Niết-bàn."
 
-==== Kinh 45.1. Sông Chảy Về Hướng Biển Thứ Nhất (Paṭhamasamuddaninnasuttaṃ)
+==== Kinh 45.91. Sông Chảy Về Hướng Biển Thứ Nhất (Paṭhamasamuddaninnasuttaṃ)
 
 #super[1] "Này các thầy, ví như sông Hằng (Gaṅgā) chảy về hướng biển, xuôi về
 hướng biển, nghiêng về hướng biển; cũng vậy, này các thầy, Tỷ-kheo tu
@@ -1058,7 +1058,7 @@ các thầy, Tỷ-kheo tu tập chánh kiến y cứ vào viễn ly… tu tập 
 làm cho Bát Thánh đạo sung mãn, hướng về Niết-bàn, xuôi về Niết-bàn,
 nghiêng về Niết-bàn."
 
-#strong[Nhóm kinh 45.2–6 — Các Sông Chảy Về Hướng Biển (Dutiyādisamuddaninnasuttapañcakaṃ)]
+#strong[Nhóm kinh 45.92–96 — Các Sông Chảy Về Hướng Biển (Dutiyādisamuddaninnasuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Diệm-mâu- na (Yamunā)… sông A-trí-la-phạt-để (Aciravatī)… sông
 Sa-la-bu (Sarabhū)… sông Ma-hi (Mahī), và những con sông lớn nào — tức là sông Gaṅgā,
@@ -1094,7 +1094,7 @@ viễn ly, phẩm thứ nhất.
 
 === Phẩm 10 (nguồn ghi 2). Ví Dụ Sông Hằng Thứ Hai (Dutiyagaṅgāpeyyālavaggo)
 
-#strong[Nhóm kinh 45.2–6 — Sông Chảy Về Hướng Đông Với Công Thức Nhiếp Phục Tham Sân Si (Dutiyādipācīnaninnasuttapañcakaṃ)]
+#strong[Nhóm kinh 45.97–101 — Sông Chảy Về Hướng Đông Với Công Thức Nhiếp Phục Tham Sân Si (Dutiyādipācīnaninnasuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Yamunā chảy về hướng đông, xuôi
 về hướng đông, nghiêng về hướng đông; cũng vậy, này các thầy, Tỷ-kheo
@@ -1130,7 +1130,7 @@ nhiếp phục sân, nhiếp phục si là cứu cánh. Như vậy, này các th
 Tỷ-kheo tu tập Bát Thánh đạo hướng về Niết-bàn, xuôi về Niết-bàn,
 nghiêng về Niết-bàn."
 
-#strong[Nhóm kinh 45.2–6 — Sông Chảy Về Hướng Biển Với Công Thức Nhiếp Phục Tham Sân Si (Dutiyādisamuddaninnasuttapañcakaṃ)]
+#strong[Nhóm kinh 45.102–106 — Sông Chảy Về Hướng Biển Với Công Thức Nhiếp Phục Tham Sân Si (Dutiyādisamuddaninnasuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Yamunā chảy về hướng biển… cũng
 vậy, này các thầy, Tỷ-kheo tu tập Bát Thánh đạo hướng về Niết-bàn —
@@ -1163,7 +1163,7 @@ là chỗ cứu cánh… tu tập chánh định hướng đến bất tử, b�
 Bát Thánh đạo hướng về Niết-bàn, xuôi về Niết-bàn, nghiêng về
 Niết-bàn."
 
-#strong[Nhóm kinh 45.2–6 — Sông Chảy Về Hướng Đông Với Công Thức Hướng Đến Bất Tử (Dutiyādipācīnaninnasuttapañcakaṃ)]
+#strong[Nhóm kinh 45.107–111 — Sông Chảy Về Hướng Đông Với Công Thức Hướng Đến Bất Tử (Dutiyādipācīnaninnasuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Yamunā chảy về hướng đông… cũng
 vậy, này các thầy, Tỷ-kheo tu tập Bát Thánh đạo hướng về Niết-bàn —
@@ -1193,7 +1193,7 @@ hướng đến bất tử, bất tử là chỗ đến, bất tử là chỗ c�
 này các thầy, Tỷ-kheo tu tập Bát Thánh đạo hướng về Niết-bàn, xuôi về
 Niết-bàn, nghiêng về Niết-bàn."
 
-#strong[Nhóm kinh 45.2–6 — Sông Chảy Về Hướng Biển Với Công Thức Hướng Đến Bất Tử (Dutiyādisamuddaninnasuttapañcakaṃ)]
+#strong[Nhóm kinh 45.112–116 — Sông Chảy Về Hướng Biển Với Công Thức Hướng Đến Bất Tử (Dutiyādisamuddaninnasuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Yamunā… sông Aciravatī… sông
 Sarabhū… sông Mahī, và những con sông lớn nào — tức là sông Gaṅgā,
@@ -1213,7 +1213,7 @@ về Niết-bàn… tu tập chánh định hướng về Niết-bàn, xuôi v�
 nghiêng về Niết-bàn. Như vậy, này các thầy, Tỷ-kheo tu tập Bát Thánh
 đạo hướng về Niết-bàn, xuôi về Niết-bàn, nghiêng về Niết-bàn."
 
-#strong[Nhóm kinh 45.2–6 — Sông Chảy Với Công Thức Hướng Về Niết-bàn Thứ Nhất (Dutiyādipācīnaninnasuttapañcakaṃ)]
+#strong[Nhóm kinh 45.117–121 — Sông Chảy Với Công Thức Hướng Về Niết-bàn Thứ Nhất (Dutiyādipācīnaninnasuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Yamunā… sông Aciravatī… sông
 Sarabhū… sông Mahī, và những con sông lớn nào — tức là sông Gaṅgā,
@@ -1233,7 +1233,7 @@ hướng về Niết-bàn, xuôi về Niết-bàn, nghiêng về Niết-bàn. Nh
 này các thầy, Tỷ-kheo tu tập Bát Thánh đạo hướng về Niết-bàn, xuôi về
 Niết-bàn, nghiêng về Niết-bàn."
 
-#strong[Nhóm kinh 45.2–6 — Sông Chảy Với Công Thức Hướng Về Niết-bàn Thứ Hai (Dutiyādisamuddaninnasuttapañcakaṃ)]
+#strong[Nhóm kinh 45.122–126 — Sông Chảy Với Công Thức Hướng Về Niết-bàn Thứ Hai (Dutiyādisamuddaninnasuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Yamunā… sông Aciravatī… sông
 Sarabhū… sông Mahī, và những con sông lớn nào — tức là sông Gaṅgā,
@@ -1257,7 +1257,7 @@ tư, phần thứ sáu và thứ chín của toàn bộ phẩm Ví Dụ Sông Ga
 
 === Phẩm 11 (nguồn ghi 5). Không Phóng Dật Viết Tắt (Appamādapeyyālavaggo)
 
-==== Kinh 45.1. Như Lai (Tathāgatasuttaṃ)
+==== Kinh 45.127. Như Lai (Tathāgatasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, dù là chúng sanh
 không chân, hai chân, bốn chân, hay nhiều chân, có sắc hay không sắc,
@@ -1285,7 +1285,7 @@ về Niết-bàn, xuôi về Niết-bàn, nghiêng về Niết-bàn. Như vậy,
 thầy, Tỷ-kheo không phóng dật, với cả bốn công thức này, tu tập Bát
 Thánh đạo, làm cho Bát Thánh đạo sung mãn."
 
-==== Kinh 45.2. Dấu Chân (Padasuttaṃ)
+==== Kinh 45.128. Dấu Chân (Padasuttaṃ)
 
 #super[1] "Này các thầy, ví như bất cứ dấu chân nào của các loài thú
 sống trong rừng, tất cả đều gồm trong dấu chân voi, và dấu chân voi
@@ -1301,7 +1301,7 @@ y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến buông bỏ… 
 chánh định cũng như vậy. Như vậy, này các thầy, Tỷ-kheo không phóng
 dật tu tập Bát Thánh đạo, làm cho Bát Thánh đạo sung mãn."
 
-#strong[Nhóm kinh 45.3–7 — Nóc Nhà Và Các Ví Dụ Khác (Kūṭādisuttapañcakaṃ)]
+#strong[Nhóm kinh 45.129–133 — Nóc Nhà Và Các Ví Dụ Khác (Kūṭādisuttapañcakaṃ)]
 
 #super[1] "Này các thầy, ví như bất cứ rui mè nào của một ngôi nhà
 có nóc nhọn, tất cả đều hướng về nóc nhà, xuôi về nóc nhà, quy tụ nơi
@@ -1326,7 +1326,7 @@ thuộc hạ của vua Chuyển Luân, và vua Chuyển Luân được xem là t
 thắng trong các vị vua ấy; cũng vậy… (theo cùng phương thức). Thứ
 bảy.
 
-#strong[Nhóm kinh 45.8–10 — Ánh Trăng Và Các Ví Dụ Khác (Candimādisuttatatiyakaṃ)]
+#strong[Nhóm kinh 45.134–136 — Ánh Trăng Và Các Ví Dụ Khác (Candimādisuttatatiyakaṃ)]
 
 #super[1] "Này các thầy, ví như bất cứ ánh sáng của các vì tinh tú
 nào, tất cả đều không bằng một phần mười sáu ánh sáng của trăng, và
@@ -1364,7 +1364,7 @@ cùng vải dệt — mười ví dụ.
 
 === Phẩm 12 (nguồn ghi 6). Cần Dùng Sức Mạnh (Balakaraṇīyavaggo)
 
-==== Kinh 45.1. Sức Mạnh (Balasuttaṃ)
+==== Kinh 45.137. Sức Mạnh (Balasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, ví như bất cứ công
 việc gì cần dùng sức mạnh, tất cả đều phải nhờ vào đất, an trú trên
@@ -1385,7 +1385,7 @@ thức thứ ba: hướng đến bất tử, bất tử là chỗ đến, bất 
 cánh. Và cũng theo phương thức như trên, đối với công thức thứ tư:
 hướng về Niết-bàn, xuôi về Niết-bàn, nghiêng về Niết-bàn."
 
-==== Kinh 45.2. Hạt Giống (Bījasuttaṃ)
+==== Kinh 45.138. Hạt Giống (Bījasuttaṃ)
 
 #super[1] "Này các thầy, ví như bất cứ loại hạt giống hay cây cỏ nào
 tăng trưởng, phát triển, lớn mạnh, tất cả đều phải nhờ vào đất, an
@@ -1399,7 +1399,7 @@ bỏ. Như vậy, này các thầy, Tỷ-kheo nhờ vào giới, an trú trên g
 tập Bát Thánh đạo, đạt đến sự tăng trưởng, phát triển, lớn mạnh
 trong các pháp."
 
-==== Kinh 45.3. Rồng (Nāgasuttaṃ)
+==== Kinh 45.139. Rồng (Nāgasuttaṃ)
 
 #super[1] "Này các thầy, ví như những con rồng lớn nhờ vào núi chúa
 Tuyết Sơn mà lớn thân, được sức mạnh; sau khi lớn thân, được sức
@@ -1414,7 +1414,7 @@ hướng đến buông bỏ… tu tập chánh định cũng như vậy. Như v�
 thầy, Tỷ-kheo nhờ vào giới, an trú trên giới, tu tập Bát Thánh đạo,
 đạt đến sự to lớn, đầy đủ trong các pháp."
 
-==== Kinh 45.4. Cây (Rukkhasuttaṃ)
+==== Kinh 45.140. Cây (Rukkhasuttaṃ)
 
 #super[1] "Này các thầy, ví như một cây nghiêng về hướng đông, xuôi
 về hướng đông, ngả về hướng đông. Nếu bị chặt đứt gốc, nó sẽ đổ về
@@ -1427,7 +1427,7 @@ tập chánh định cũng như vậy. Như vậy, này các thầy, Tỷ-kheo t
 Bát Thánh đạo hướng về Niết-bàn, xuôi về Niết-bàn, nghiêng về
 Niết-bàn."
 
-==== Kinh 45.5. Cái Ghè (Kumbhasuttaṃ)
+==== Kinh 45.141. Cái Ghè (Kumbhasuttaṃ)
 
 #super[1] "Này các thầy, ví như cái ghè bị lật ngược thì đổ hết nước
 ra, không hút nước trở lại; cũng vậy, này các thầy, Tỷ-kheo tu tập
@@ -1437,7 +1437,7 @@ nào là… tu tập chánh kiến y cứ vào viễn ly… tu tập chánh đ�
 như vậy. Như vậy, này các thầy, Tỷ-kheo tu tập Bát Thánh đạo mửa ra
 hết các pháp ác bất thiện, không hút chúng trở lại."
 
-==== Kinh 45.6. Đầu Ngọn Lúa (Sūkasuttaṃ)
+==== Kinh 45.142. Đầu Ngọn Lúa (Sūkasuttaṃ)
 
 #super[1] "Này các thầy, ví như đầu ngọn lúa hay đầu ngọn mạch được
 đặt đúng hướng, nếu bị tay hay chân đè lên, chắc chắn sẽ đâm rách
@@ -1453,7 +1453,7 @@ tập chánh định cũng như vậy. Như vậy, này các thầy, Tỷ-kheo v
 kiến được đặt đúng hướng, với sự tu tập đạo được đặt đúng hướng, đâm
 phá vô minh, làm sanh khởi minh, chứng ngộ Niết-bàn."
 
-==== Kinh 45.7. Không Gian (Ākāsasuttaṃ)
+==== Kinh 45.143. Không Gian (Ākāsasuttaṃ)
 
 #super[1] "Này các thầy, ví như trong không gian có nhiều loại gió
 khác nhau thổi qua — gió từ hướng đông, gió từ hướng tây, gió từ
@@ -1471,7 +1471,7 @@ tập Bát Thánh đạo, làm cho Bát Thánh đạo sung mãn, thì bốn ni�
 bốn chánh cần, bốn thần túc, năm căn, năm lực, bảy giác chi đều đi
 đến tu tập viên mãn."
 
-==== Kinh 45.8. Mây Thứ Nhất (Paṭhamameghasuttaṃ)
+==== Kinh 45.144. Mây Thứ Nhất (Paṭhamameghasuttaṃ)
 
 #super[1] "Này các thầy, ví như vào tháng cuối mùa hạ, bụi bặm bốc
 lên, rồi một trận mưa trái mùa lớn liền làm cho biến mất, lắng
@@ -1483,7 +1483,7 @@ chánh định cũng như vậy. Như vậy, này các thầy, Tỷ-kheo tu tậ
 Thánh đạo làm cho các pháp ác bất thiện vừa sanh khởi liền biến mất,
 lắng xuống ngay tại chỗ."
 
-==== Kinh 45.9. Mây Thứ Hai (Dutiyameghasuttaṃ)
+==== Kinh 45.145. Mây Thứ Hai (Dutiyameghasuttaṃ)
 
 #super[1] "Này các thầy, ví như một đám mây lớn vừa sanh khởi liền
 bị một trận gió lớn làm cho biến mất, lắng xuống ngay giữa đường;
@@ -1495,7 +1495,7 @@ vậy. Như vậy, này các thầy, Tỷ-kheo tu tập Bát Thánh đạo làm 
 pháp ác bất thiện vừa sanh khởi liền biến mất, lắng xuống ngay giữa
 đường."
 
-==== Kinh 45.10. Chiếc Thuyền (Nāvāsuttaṃ)
+==== Kinh 45.146. Chiếc Thuyền (Nāvāsuttaṃ)
 
 #super[1] "Này các thầy, ví như một chiếc thuyền đi biển được buộc
 chặt bằng dây leo, ngâm trong nước sáu tháng, rồi được kéo lên bờ
@@ -1508,7 +1508,7 @@ thầy, thế nào là… tu tập chánh kiến y cứ vào viễn ly… tu t�
 Thánh đạo, làm cho Bát Thánh đạo sung mãn, thì các kiết sử liền dễ
 dàng lắng dịu, mục nát."
 
-==== Kinh 45.11. Nhà Khách (Āgantukasuttaṃ)
+==== Kinh 45.147. Nhà Khách (Āgantukasuttaṃ)
 
 #super[1] "Này các thầy, ví như một nhà khách. Từ phương đông người
 ta đến trú tại đó, từ phương tây người ta đến trú tại đó, từ phương
@@ -1546,7 +1546,7 @@ tri, đoạn trừ; các pháp cần được thắng tri, chứng ngộ bằng 
 — vị ấy thắng tri, chứng ngộ; các pháp cần được thắng tri, tu tập
 bằng thắng trí — vị ấy thắng tri, tu tập."
 
-==== Kinh 45.12. Sông (Nadīsuttaṃ)
+==== Kinh 45.148. Sông (Nadīsuttaṃ)
 
 #super[1] "Này các thầy, ví như sông Hằng (Gaṅgā) chảy về hướng đông, xuôi
 về hướng đông, nghiêng về hướng đông. Rồi một đám đông người mang
@@ -1592,7 +1592,7 @@ chiếc thuyền, nhà khách, và sông.
 
 === Phẩm 13 (nguồn ghi 7). Tầm Cầu (Esanāvaggo)
 
-==== Kinh 45.1. Tầm Cầu (Esanāsuttaṃ)
+==== Kinh 45.149. Tầm Cầu (Esanāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có ba loại tầm cầu
 này. Ba loại nào? Tầm cầu dục, tầm cầu hữu, tầm cầu Phạm hạnh — này
@@ -1629,7 +1629,7 @@ từ bỏ ba loại tầm cầu này, cần tu tập Bát Thánh đạo ấy —
 khai triển đầy đủ với cả bốn công thức, như đối với 'thắng tri' ở
 trên."
 
-==== Kinh 45.2. Tự Đánh Giá (Vidhāsuttaṃ)
+==== Kinh 45.150. Tự Đánh Giá (Vidhāsuttaṃ)
 
 #super[1] "Này các thầy, có ba loại tự đánh giá này. Ba loại nào?
 Tự đánh giá 'ta hơn', tự đánh giá 'ta bằng', tự đánh giá 'ta kém' —
@@ -1642,28 +1642,28 @@ thắng tri, liễu tri, đoạn tận, từ bỏ ba loại tự đánh giá nà
 tập Bát Thánh đạo ấy." (Cũng nên khai triển đầy đủ như kinh về tầm
 cầu ở trên.)
 
-==== Kinh 45.3. Lậu Hoặc (Āsavasuttaṃ)
+==== Kinh 45.151. Lậu Hoặc (Āsavasuttaṃ)
 
 #super[1] "Này các thầy, có ba lậu hoặc này. Ba lậu hoặc nào? Dục
 lậu, hữu lậu, vô minh lậu — này các thầy, đó là ba lậu hoặc. Này các
 thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ ba lậu hoặc này…
 cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.4. Hữu (Bhavasuttaṃ)
+==== Kinh 45.152. Hữu (Bhavasuttaṃ)
 
 #super[1] "Này các thầy, có ba hữu này. Ba hữu nào? Dục hữu, sắc
 hữu, vô sắc hữu — này các thầy, đó là ba hữu. Này các thầy, vì muốn
 thắng tri, liễu tri, đoạn tận, từ bỏ ba hữu này… cần tu tập Bát
 Thánh đạo ấy."
 
-==== Kinh 45.5. Tánh Khổ (Dukkhatāsuttaṃ)
+==== Kinh 45.153. Tánh Khổ (Dukkhatāsuttaṃ)
 
 #super[1] "Này các thầy, có ba tánh khổ này. Ba tánh khổ nào? Khổ
 khổ tánh, hành khổ tánh, hoại khổ tánh — này các thầy, đó là ba tánh
 khổ. Này các thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ ba
 tánh khổ này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.6. Chai Cứng (Khilasuttaṃ)
+==== Kinh 45.154. Chai Cứng (Khilasuttaṃ)
 
 #super[1] "Này các thầy, có ba sự chai cứng này. Ba sự nào? Tham là
 sự chai cứng, sân là sự chai cứng, si là sự chai cứng — này các
@@ -1671,14 +1671,14 @@ thầy, đó là ba sự chai cứng. Này các thầy, vì muốn thắng tri, 
 tri, đoạn tận, từ bỏ ba sự chai cứng này… cần tu tập Bát Thánh đạo
 ấy."
 
-==== Kinh 45.7. Cấu Uế (Malasuttaṃ)
+==== Kinh 45.155. Cấu Uế (Malasuttaṃ)
 
 #super[1] "Này các thầy, có ba cấu uế này. Ba cấu uế nào? Tham là
 cấu uế, sân là cấu uế, si là cấu uế — này các thầy, đó là ba cấu uế.
 Này các thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ ba cấu uế
 này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.8. Não Hại (Nīghasuttaṃ)
+==== Kinh 45.156. Não Hại (Nīghasuttaṃ)
 
 #super[1] "Này các thầy, có ba não hại này. Ba não hại nào? Tham là
 não hại, sân là não hại, si là não hại — này các thầy, đó là ba não
@@ -1690,7 +1690,7 @@ thọ khổ, thọ không khổ không lạc — này các thầy, đó là ba l
 Này các thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ ba loại
 thọ này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.10. Ái (Taṇhāsuttaṃ)
+==== Kinh 45.157. Ái (Taṇhāsuttaṃ)
 
 #super[1] "Này các thầy, có ba loại ái này. Ba loại nào? Ái dục, ái
 hữu, ái phi hữu — này các thầy, đó là ba loại ái. Này các thầy, vì
@@ -1701,7 +1701,7 @@ diệt, hướng đến buông bỏ… tu tập chánh định cũng như vậy.
 thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ ba loại ái này,
 cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.11. Khát Khao (Tasināsuttaṃ)
+==== Kinh 45.158. Khát Khao (Tasināsuttaṃ)
 
 #super[1] "Này các thầy, có ba loại khát khao này. Ba loại nào? Khát
 khao dục, khát khao hữu, khát khao phi hữu. Này các thầy, vì muốn
@@ -1721,7 +1721,7 @@ hai loại ái, và khát khao.
 
 === Phẩm 14 (nguồn ghi 8). Dòng Nước Xoáy (Oghavaggo)
 
-==== Kinh 45.1. Dòng Nước Xoáy (Oghasuttaṃ)
+==== Kinh 45.159. Dòng Nước Xoáy (Oghasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn dòng nước
 xoáy này. Bốn dòng nào? Dòng dục, dòng hữu, dòng kiến, dòng vô minh
@@ -1730,7 +1730,7 @@ thắng tri, liễu tri, đoạn tận, từ bỏ bốn dòng nước xoáy này
 tập Bát Thánh đạo." (Cũng như kinh về tầm cầu, tất cả nên được khai
 triển đầy đủ như vậy, với cả bốn công thức.)
 
-==== Kinh 45.2. Trói Buộc (Yogasuttaṃ)
+==== Kinh 45.160. Trói Buộc (Yogasuttaṃ)
 
 #super[1] "Này các thầy, có bốn sự trói buộc này. Bốn sự nào? Trói
 buộc bởi dục, trói buộc bởi hữu, trói buộc bởi kiến, trói buộc bởi
@@ -1738,14 +1738,14 @@ vô minh — này các thầy, đó là bốn sự trói buộc. Này các thầ
 muốn thắng tri, liễu tri, đoạn tận, từ bỏ bốn sự trói buộc này…
 cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.3. Thủ (Upādānasuttaṃ)
+==== Kinh 45.161. Thủ (Upādānasuttaṃ)
 
 #super[1] "Này các thầy, có bốn thủ này. Bốn thủ nào? Dục thủ, kiến
 thủ, giới cấm thủ, ngã luận thủ — này các thầy, đó là bốn thủ. Này
 các thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ bốn thủ này…
 cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.4. Ràng Buộc (Ganthasuttaṃ)
+==== Kinh 45.162. Ràng Buộc (Ganthasuttaṃ)
 
 #super[1] "Này các thầy, có bốn sự ràng buộc này. Bốn sự nào? Tham
 lam là sự ràng buộc của thân, sân hận là sự ràng buộc của thân, chấp
@@ -1754,7 +1754,7 @@ sự ràng buộc của thân — này các thầy, đó là bốn sự ràng bu
 các thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ bốn sự ràng
 buộc này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.5. Tùy Miên (Anusayasuttaṃ)
+==== Kinh 45.163. Tùy Miên (Anusayasuttaṃ)
 
 #super[1] "Này các thầy, có bảy tùy miên này. Bảy tùy miên nào? Tùy
 miên dục tham, tùy miên sân hận, tùy miên kiến, tùy miên nghi, tùy
@@ -1762,7 +1762,7 @@ miên mạn, tùy miên hữu tham, tùy miên vô minh — này các thầy, đ
 bảy tùy miên. Này các thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ
 bỏ bảy tùy miên này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.6. Dục Công Đức (Kāmaguṇasuttaṃ)
+==== Kinh 45.164. Dục Công Đức (Kāmaguṇasuttaṃ)
 
 #super[1] "Này các thầy, có năm dục công đức này. Năm dục công đức
 nào? Các sắc do mắt nhận biết, khả ái, đáng ưa, hấp dẫn, dễ thương,
@@ -1773,7 +1773,7 @@ thích lòng tham — này các thầy, đó là năm dục công đức. Này c
 thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ năm dục công đức
 này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.7. Triền Cái (Nīvaraṇasuttaṃ)
+==== Kinh 45.165. Triền Cái (Nīvaraṇasuttaṃ)
 
 #super[1] "Này các thầy, có năm triền cái này. Năm triền cái nào?
 Triền cái dục tham, triền cái sân hận, triền cái hôn trầm thụy miên,
@@ -1781,14 +1781,14 @@ triền cái trạo hối, triền cái nghi — này các thầy, đó là năm
 cái. Này các thầy, vì muốn thắng tri, liễu tri, đoạn tận, từ bỏ năm
 triền cái này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.8. Các Uẩn (Upādānakkhandhasuttaṃ)
+==== Kinh 45.166. Các Uẩn (Upādānakkhandhasuttaṃ)
 
 #super[1] "Này các thầy, có năm thủ uẩn này. Năm thủ uẩn nào? Tức là
 sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn.
 Này các thầy, đó là năm thủ uẩn. Này các thầy, vì muốn thắng tri, liễu
 tri, đoạn tận, từ bỏ năm thủ uẩn này… cần tu tập Bát Thánh đạo ấy."
 
-==== Kinh 45.9. Hạ Phần Kiết Sử (Orambhāgiyasuttaṃ)
+==== Kinh 45.167. Hạ Phần Kiết Sử (Orambhāgiyasuttaṃ)
 
 #super[1] "Này các thầy, có năm hạ phần kiết sử này. Năm hạ phần
 kiết sử nào? Thân kiến, hoài nghi, giới cấm thủ, dục tham, sân hận —
@@ -1796,7 +1796,7 @@ này các thầy, đó là năm hạ phần kiết sử. Này các thầy, vì m
 tri, liễu tri, đoạn tận, từ bỏ năm hạ phần kiết sử này… cần tu tập
 Bát Thánh đạo ấy."
 
-==== Kinh 45.10. Thượng Phần Kiết Sử (Uddhambhāgiyasuttaṃ)
+==== Kinh 45.168. Thượng Phần Kiết Sử (Uddhambhāgiyasuttaṃ)
 
 #super[1] "Này các thầy, có năm thượng phần kiết sử này. Năm thượng
 phần kiết sử nào? Sắc tham, vô sắc tham, mạn, trạo cử, vô minh — này
@@ -2214,7 +2214,7 @@ Sanh Khởi hai kinh sau — trọn mười kinh.
 
 === Phẩm 2 (nguồn ghi 2). Người Bệnh (Gilānavaggo)
 
-==== Kinh 46.1. Sinh Vật (Pāṇasuttaṃ)
+==== Kinh 46.11. Sinh Vật (Pāṇasuttaṃ)
 
 #super[1] "Này các thầy, ví như bất cứ loài sinh vật nào thực hiện bốn
 tư thế — đi đúng lúc, đứng đúng lúc, ngồi đúng lúc, nằm đúng lúc — tất
@@ -2229,7 +2229,7 @@ vào đoạn diệt, hướng đến buông bỏ. Như vậy, này các thầy, 
 vào giới, an trú trong giới, tu tập bảy giác chi, làm cho sung mãn bảy
 giác chi."
 
-==== Kinh 46.2. Ví Dụ Mặt Trời Thứ Nhất (Paṭhamasūriyūpamasuttaṃ)
+==== Kinh 46.12. Ví Dụ Mặt Trời Thứ Nhất (Paṭhamasūriyūpamasuttaṃ)
 
 #super[1] "Này các thầy, mặt trời khi mọc lên có điều này đi trước, có
 điều này là tướng báo trước — đó là ánh hồng rạng đông; cũng vậy, này
@@ -2243,7 +2243,7 @@ xả giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn 
 hướng đến buông bỏ. Như vậy, này các thầy, Tỷ-kheo có bạn lành tu tập
 bảy giác chi, làm cho sung mãn bảy giác chi."
 
-==== Kinh 46.3. Ví Dụ Mặt Trời Thứ Hai (Dutiyasūriyūpamasuttaṃ)
+==== Kinh 46.13. Ví Dụ Mặt Trời Thứ Hai (Dutiyasūriyūpamasuttaṃ)
 
 #super[1] "Này các thầy, mặt trời khi mọc lên có điều này đi trước, có
 điều này là tướng báo trước — đó là ánh hồng rạng đông; cũng vậy, này
@@ -2258,7 +2258,7 @@ cứ vào đoạn diệt, hướng đến buông bỏ. Như vậy, này các th�
 thành tựu tác ý như lý tu tập bảy giác chi, làm cho sung mãn bảy giác
 chi."
 
-==== Kinh 46.4. Người Bệnh Thứ Nhất (Paṭhamagilānasuttaṃ)
+==== Kinh 46.14. Người Bệnh Thứ Nhất (Paṭhamagilānasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc, khu vườn
 Ca-lan-đa-ca (Kalandaka). Bấy giờ, Tôn giả Ma-ha-ca-diếp (Mahākassapa) trú tại hang Bíp-ba-li (Pippali), đang bị
@@ -2285,7 +2285,7 @@ các giác chi." Thế Tôn nói như vậy. Tôn giả Mahākassapa hoan hỷ, 
 thọ lời Thế Tôn. Và Tôn giả Mahākassapa đã đứng dậy khỏi căn bệnh ấy.
 Như vậy, căn bệnh ấy của Tôn giả Mahākassapa đã được đoạn trừ.
 
-==== Kinh 46.5. Người Bệnh Thứ Hai (Dutiyagilānasuttaṃ)
+==== Kinh 46.15. Người Bệnh Thứ Hai (Dutiyagilānasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc, khu vườn
 Ca-lan-đa-ca (Kalandaka). Bấy giờ, Tôn giả Mục Kiền Liên (Mahāmoggallāna) trú tại núi Linh Thứu (Gijjhakūṭa),
@@ -2313,7 +2313,7 @@ như vậy. Tôn giả Mahāmoggallāna hoan hỷ, tín thọ lời Thế Tôn. 
 giả Mahāmoggallāna đã đứng dậy khỏi căn bệnh ấy. Như vậy, căn bệnh ấy
 của Tôn giả Mahāmoggallāna đã được đoạn trừ.
 
-==== Kinh 46.6. Người Bệnh Thứ Ba (Tatiyagilānasuttaṃ)
+==== Kinh 46.16. Người Bệnh Thứ Ba (Tatiyagilānasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc, khu vườn
 Ca-lan-đa-ca (Kalandaka). Bấy giờ, Thế Tôn đang bị bệnh, khổ đau, bệnh nặng. Rồi Tôn
@@ -2334,7 +2334,7 @@ Cunda, đó là các giác chi." Tôn giả Cunda nói như vậy. Bậc Đạo 
 chấp thuận. Và Thế Tôn đã đứng dậy khỏi căn bệnh ấy. Như vậy, căn bệnh
 ấy của Thế Tôn đã được đoạn trừ.
 
-==== Kinh 46.7. Đi Đến Bờ Kia (Pāraṅgamasuttaṃ)
+==== Kinh 46.17. Đi Đến Bờ Kia (Pāraṅgamasuttaṃ)
 
 #super[1] "Này các thầy, bảy giác chi này, khi được tu tập, được làm
 cho sung mãn, đưa từ bờ này sang bờ kia."
@@ -2355,7 +2355,7 @@ những người hoan hỷ trong sự từ bỏ chấp thủ, không còn chấp
 những vị đã đoạn tận các lậu hoặc, chói sáng, \
 những vị ấy đã tịch tịnh ở đời, đạt được Niết-bàn."
 
-==== Kinh 46.8. Bị Bỏ Lơ (Viraddhasuttaṃ)
+==== Kinh 46.18. Bị Bỏ Lơ (Viraddhasuttaṃ)
 
 #super[1] "Này các thầy, đối với bất cứ ai mà bảy giác chi bị bỏ lơ,
 thì Bát Thánh đạo đưa đến sự chấm dứt khổ đau một cách chân chánh cũng
@@ -2369,7 +2369,7 @@ bảy giác chi này bị bỏ lơ, thì Bát Thánh đạo đưa đến sự ch
 đưa đến sự chấm dứt khổ đau một cách chân chánh cũng được khởi phát đối
 với người ấy."
 
-==== Kinh 46.9. Thuộc Bậc Thánh (Ariyasuttaṃ)
+==== Kinh 46.19. Thuộc Bậc Thánh (Ariyasuttaṃ)
 
 #super[1] "Này các thầy, bảy giác chi này, khi được tu tập, được làm
 cho sung mãn, là các pháp thuộc bậc Thánh, có khả năng dẫn ra khỏi
@@ -2379,7 +2379,7 @@ thầy, đó là bảy giác chi, khi được tu tập, được làm cho sung 
 các pháp thuộc bậc Thánh, có khả năng dẫn ra khỏi luân hồi, đưa người
 thực hành chúng đến sự chấm dứt khổ đau một cách chân chánh."
 
-==== Kinh 46.10. Sự Nhàm Chán (Nibbidāsuttaṃ)
+==== Kinh 46.20. Sự Nhàm Chán (Nibbidāsuttaṃ)
 
 #super[1] "Này các thầy, bảy giác chi này, khi được tu tập, được làm
 cho sung mãn, đưa đến sự nhàm chán hoàn toàn, ly tham, đoạn diệt, tịch
@@ -2399,7 +2399,7 @@ Thuộc Bậc Thánh cùng Sự Nhàm Chán.
 
 === Phẩm 3 (nguồn ghi 3). Ưu-đà-di (Udāyivaggo)
 
-==== Kinh 46.1. Đưa Đến Giác Ngộ (Bodhāyasuttaṃ)
+==== Kinh 46.21. Đưa Đến Giác Ngộ (Bodhāyasuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến chỗ Thế Tôn… Ngồi xuống một bên,
 vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, 'các giác chi, các giác
@@ -2410,13 +2410,13 @@ xả giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn 
 hướng đến buông bỏ. Này Tỷ-kheo, vì 'đưa đến giác ngộ' nên gọi là các
 giác chi."
 
-==== Kinh 46.2. Thuyết Giảng (Bojjhaṅgadesanāsuttaṃ)
+==== Kinh 46.22. Thuyết Giảng (Bojjhaṅgadesanāsuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về bảy giác chi; hãy
 lắng nghe. Này các thầy, bảy giác chi là gì? Niệm giác chi… xả giác
 chi — này các thầy, đó là bảy giác chi."
 
-==== Kinh 46.3. Chỗ Trú (Ṭhāniyasuttaṃ)
+==== Kinh 46.23. Chỗ Trú (Ṭhāniyasuttaṃ)
 
 #super[1] "Này các thầy, do tác ý nhiều lần đối với các pháp là chỗ
 trú của dục tham, dục tham chưa sanh được sanh, và dục tham đã sanh
@@ -2438,7 +2438,7 @@ giác chi, niệm giác chi chưa sanh được sanh, và niệm giác chi đã 
 pháp là chỗ trú của xả giác chi, xả giác chi chưa sanh được sanh, và
 xả giác chi đã sanh đi đến sự tu tập sung mãn."
 
-==== Kinh 46.4. Tác Ý Không Như Lý (Ayonisomanasikārasuttaṃ)
+==== Kinh 46.24. Tác Ý Không Như Lý (Ayonisomanasikārasuttaṃ)
 
 #super[1] "Này các thầy, khi tác ý không như lý, dục tham chưa sanh
 được sanh, và dục tham đã sanh được tăng trưởng, lớn mạnh thêm; sân
@@ -2463,7 +2463,7 @@ Niệm giác chi chưa sanh được sanh, và niệm giác chi đã sanh đi đ
 tu tập sung mãn… xả giác chi chưa sanh được sanh, và xả giác chi đã
 sanh đi đến sự tu tập sung mãn."
 
-==== Kinh 46.5. Không Thoái Thất (Aparihāniyasuttaṃ)
+==== Kinh 46.25. Không Thoái Thất (Aparihāniyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về bảy pháp không
 đưa đến thoái thất; hãy lắng nghe. Này các thầy, bảy pháp không đưa
@@ -2471,7 +2471,7 @@ sanh đi đến sự tu tập sung mãn."
 chi… xả giác chi — này các thầy, đó là bảy pháp không đưa đến thoái
 thất."
 
-==== Kinh 46.6. Đoạn Tận Ái (Taṇhakkhayasuttaṃ)
+==== Kinh 46.26. Đoạn Tận Ái (Taṇhakkhayasuttaṃ)
 
 #super[1] "Này các thầy, con đường nào, phương pháp thực hành nào đưa
 đến sự đoạn tận ái, các thầy hãy tu tập con đường ấy, phương pháp thực
@@ -2494,7 +2494,7 @@ sân hận — ái được đoạn trừ. Do đoạn trừ ái, nghiệp đư�
 đoạn trừ nghiệp, khổ được đoạn trừ. Như vậy, này Udāyī, do đoạn tận ái
 mà đoạn tận nghiệp; do đoạn tận nghiệp mà đoạn tận khổ."
 
-==== Kinh 46.7. Đoạn Diệt Ái (Taṇhānirodhasuttaṃ)
+==== Kinh 46.27. Đoạn Diệt Ái (Taṇhānirodhasuttaṃ)
 
 #super[1] "Này các thầy, con đường nào, phương pháp thực hành nào đưa
 đến sự đoạn diệt ái, các thầy hãy tu tập con đường ấy, phương pháp
@@ -2508,7 +2508,7 @@ xả giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn 
 hướng đến buông bỏ. Này các thầy, bảy giác chi được tu tập như vậy,
 được làm cho sung mãn như vậy, đưa đến sự đoạn diệt ái."
 
-==== Kinh 46.8. Thể Nhập (Nibbedhabhāgiyasuttaṃ)
+==== Kinh 46.28. Thể Nhập (Nibbedhabhāgiyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về con đường có phần
 đưa đến thể nhập; hãy lắng nghe. Và này các thầy, con đường có phần
@@ -2531,7 +2531,7 @@ thủng, phá vỡ khối si chưa từng bị đâm thủng, chưa từng bị 
 Udāyī, bảy giác chi được tu tập như vậy, được làm cho sung mãn như
 vậy, đưa đến thể nhập."
 
-==== Kinh 46.9. Một Pháp (Ekadhammasuttaṃ)
+==== Kinh 46.29. Một Pháp (Ekadhammasuttaṃ)
 
 #super[1] "Này các thầy, Ta không thấy một pháp nào khác, khi được tu
 tập, được làm cho sung mãn, đưa đến sự đoạn tận các pháp trói buộc,
@@ -2551,7 +2551,7 @@ nhiễm này sanh khởi… ý là pháp trói buộc; ở đó, các sự trói
 buộc, đắm nhiễm này sanh khởi. Này các thầy, đó gọi là các pháp trói
 buộc."
 
-==== Kinh 46.10. Ưu-đà-di (Udāyisuttaṃ)
+==== Kinh 46.30. Ưu-đà-di (Udāyisuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Sum-ba (Sumbha), tại một thị
 trấn của người Sumbha tên là Setaka. Rồi Tôn giả Ưu đà di (Udāyī) đi đến chỗ Thế
@@ -2606,7 +2606,7 @@ Một Pháp, và Udāyī.
 
 === Phẩm 4 (nguồn ghi 4). Triền Cái (Nīvaraṇavaggo)
 
-==== Kinh 46.1. Thiện Thứ Nhất (Paṭhamakusalasuttaṃ)
+==== Kinh 46.31. Thiện Thứ Nhất (Paṭhamakusalasuttaṃ)
 
 #super[1] "Này các thầy, bất cứ pháp nào là thiện, thuộc phần thiện,
 thuộc phía thiện, tất cả các pháp ấy đều có không phóng dật làm gốc,
@@ -2620,7 +2620,7 @@ ly tham, y cứ vào đoạn diệt, hướng đến buông bỏ. Như vậy, n�
 thầy, Tỷ-kheo không phóng dật tu tập bảy giác chi, làm cho sung mãn
 bảy giác chi."
 
-==== Kinh 46.2. Thiện Thứ Hai (Dutiyakusalasuttaṃ)
+==== Kinh 46.32. Thiện Thứ Hai (Dutiyakusalasuttaṃ)
 
 #super[1] "Này các thầy, bất cứ pháp nào là thiện, thuộc phần thiện,
 thuộc phía thiện, tất cả các pháp ấy đều có tác ý như lý làm gốc, đều
@@ -2634,7 +2634,7 @@ y cứ vào ly tham, y cứ vào đoạn diệt, hướng đến buông bỏ. Nh
 các thầy, Tỷ-kheo thành tựu tác ý như lý tu tập bảy giác chi, làm cho
 sung mãn bảy giác chi."
 
-==== Kinh 46.3. Cấu Uế (Upakkilesasuttaṃ)
+==== Kinh 46.33. Cấu Uế (Upakkilesasuttaṃ)
 
 #super[1] "Này các thầy, có năm cấu uế của vàng nguyên chất này, do
 những cấu uế ấy mà vàng nguyên chất bị nhiễm bẩn không còn mềm dẻo,
@@ -2663,7 +2663,7 @@ những cấu uế ấy mà tâm bị nhiễm bẩn không còn mềm dẻo, kh�
 dụng, không còn sáng chói, dễ vỡ, và không được định tĩnh đúng cách để
 đoạn tận các lậu hoặc."
 
-==== Kinh 46.4. Không Cấu Uế (Anupakkilesasuttaṃ)
+==== Kinh 46.34. Không Cấu Uế (Anupakkilesasuttaṃ)
 
 #super[1] "Này các thầy, bảy giác chi này không bị ngăn che, không bị
 che lấp, không có cấu uế của tâm, khi được tu tập, được làm cho sung
@@ -2677,7 +2677,7 @@ minh và giải thoát. Này các thầy, đó là bảy giác chi không bị n
 che, không bị che lấp, không có cấu uế của tâm, khi được tu tập, được
 làm cho sung mãn, đưa đến sự chứng ngộ quả của minh và giải thoát."
 
-==== Kinh 46.5. Tác Ý Không Như Lý (Ayonisomanasikārasuttaṃ)
+==== Kinh 46.35. Tác Ý Không Như Lý (Ayonisomanasikārasuttaṃ)
 
 #super[1] "Này các thầy, khi tác ý không như lý, dục tham chưa sanh
 được sanh, và dục tham đã sanh được tăng trưởng, lớn mạnh thêm; sân
@@ -2688,14 +2688,14 @@ sanh, và trạo cử hối quá đã sanh được tăng trưởng, lớn mạn
 nghi chưa sanh được sanh, và hoài nghi đã sanh được tăng trưởng, lớn
 mạnh thêm."
 
-==== Kinh 46.6. Tác Ý Như Lý (Yonisomanasikārasuttaṃ)
+==== Kinh 46.36. Tác Ý Như Lý (Yonisomanasikārasuttaṃ)
 
 #super[1] "Còn khi tác ý như lý, này các thầy, niệm giác chi chưa sanh
 được sanh, và niệm giác chi đã sanh đi đến sự tu tập sung mãn… xả giác
 chi chưa sanh được sanh, và xả giác chi đã sanh đi đến sự tu tập sung
 mãn."
 
-==== Kinh 46.7. Trí Tuệ (Buddhisuttaṃ)
+==== Kinh 46.37. Trí Tuệ (Buddhisuttaṃ)
 
 #super[1] "Này các thầy, bảy giác chi này, khi được tu tập, được làm
 cho sung mãn, đưa đến sự tăng trưởng, không thoái thất. Bảy giác chi
@@ -2703,7 +2703,7 @@ nào? Niệm giác chi… xả giác chi. Này các thầy, đó là bảy giác
 được tu tập, được làm cho sung mãn, đưa đến sự tăng trưởng, không
 thoái thất."
 
-==== Kinh 46.8. Ngăn Che Triền Cái (Āvaraṇanīvaraṇasuttaṃ)
+==== Kinh 46.38. Ngăn Che Triền Cái (Āvaraṇanīvaraṇasuttaṃ)
 
 #super[1] "Này các thầy, có năm sự ngăn che, che lấp, cấu uế của tâm,
 làm suy yếu tuệ này. Năm pháp ấy là gì? Dục tham, này các thầy, là sự
@@ -2742,7 +2742,7 @@ thầy, vào lúc nào Thánh đệ tử chuyên tâm, chú ý, tập trung toà
 ý, lóng tai nghe pháp, vào lúc đó năm triền cái này không có mặt nơi vị
 ấy; bảy giác chi này đi đến sự tu tập sung mãn nơi vị ấy."
 
-==== Kinh 46.9. Cây (Rukkhasuttaṃ)
+==== Kinh 46.39. Cây (Rukkhasuttaṃ)
 
 #super[1] "Này các thầy, có những đại thọ với hạt giống nhỏ nhưng thân
 cây to lớn, mọc leo lên các cây khác, khiến những cây bị chúng leo lên
@@ -2782,7 +2782,7 @@ là bảy giác chi không ngăn che, không che lấp, không mọc leo lên t�
 khi được tu tập, được làm cho sung mãn, đưa đến sự chứng ngộ quả của
 minh và giải thoát."
 
-==== Kinh 46.10. Triền Cái (Nīvaraṇasuttaṃ)
+==== Kinh 46.40. Triền Cái (Nīvaraṇasuttaṃ)
 
 #super[1] "Này các thầy, có năm triền cái này làm mù lòa, làm mất mắt,
 làm không có trí, làm tiêu diệt tuệ, thuộc về phần khốn khổ, không đưa
@@ -2816,7 +2816,7 @@ và Triền Cái — trọn mười kinh.
 
 === Phẩm 5 (nguồn ghi 5). Vua Chuyển Luân (Cakkavattivaggo)
 
-==== Kinh 46.1. Ba Loại So Sánh (Vidhāsuttaṃ)
+==== Kinh 46.41. Ba Loại So Sánh (Vidhāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, những Sa-môn hay
 Bà-la-môn nào trong thời quá khứ đã đoạn trừ ba loại ngã mạn về so
@@ -2832,7 +2832,7 @@ trừ… trong thời vị lai sẽ đoạn trừ… trong hiện tại đang đ
 loại ngã mạn về so sánh, tất cả các vị ấy đều do đã tu tập, đã làm cho
 sung mãn chính bảy giác chi này."
 
-==== Kinh 46.2. Vua Chuyển Luân (Cakkavattisuttaṃ)
+==== Kinh 46.42. Vua Chuyển Luân (Cakkavattisuttaṃ)
 
 #super[1] "Này các thầy, do sự xuất hiện của vua Chuyển luân, có sự
 xuất hiện của bảy loại báu vật. Bảy loại báu vật nào? Có sự xuất hiện
@@ -2848,7 +2848,7 @@ báu vật xả giác chi. Này các thầy, do sự xuất hiện của Như La
 A-la-hán, Chánh Đẳng Giác, có sự xuất hiện của bảy loại báu vật giác
 chi này."
 
-==== Kinh 46.3. Ác Ma (Mārasuttaṃ)
+==== Kinh 46.43. Ác Ma (Mārasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về con đường nghiền
 nát đạo quân Ác ma; hãy lắng nghe. Và này các thầy, con đường nghiền
@@ -2856,7 +2856,7 @@ nát đạo quân Ác ma là gì? Đó là bảy giác chi. Bảy giác chi nào
 giác chi… xả giác chi — này các thầy, đây là con đường nghiền nát đạo
 quân Ác ma."
 
-==== Kinh 46.4. Kẻ Thiếu Tuệ (Duppaññasuttaṃ)
+==== Kinh 46.44. Kẻ Thiếu Tuệ (Duppaññasuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến chỗ Thế Tôn… Ngồi xuống một bên,
 vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, 'kẻ thiếu tuệ, ngu đần; kẻ
@@ -2866,7 +2866,7 @@ sung mãn bảy giác chi nên gọi là 'kẻ thiếu tuệ, ngu đần.' Bảy
 nào? Niệm giác chi… xả giác chi — này Tỷ-kheo, do chưa tu tập, chưa
 làm cho sung mãn bảy giác chi này nên gọi là 'kẻ thiếu tuệ, ngu đần.'"
 
-==== Kinh 46.5. Người Có Tuệ (Paññavantasuttaṃ)
+==== Kinh 46.45. Người Có Tuệ (Paññavantasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, 'người có tuệ, không ngu đần; người có tuệ,
 không ngu đần' — người ta nói như vậy. Bạch Thế Tôn, do đâu mà gọi là
@@ -2876,7 +2876,7 @@ giác chi nào? Niệm giác chi… xả giác chi — này Tỷ-kheo, do đã t
 đã làm cho sung mãn bảy giác chi này nên gọi là 'người có tuệ, không
 ngu đần.'"
 
-==== Kinh 46.6. Kẻ Nghèo Khổ (Daliddasuttaṃ)
+==== Kinh 46.46. Kẻ Nghèo Khổ (Daliddasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, 'kẻ nghèo khổ, kẻ nghèo khổ' — người ta nói
 như vậy. Bạch Thế Tôn, do đâu mà gọi là 'kẻ nghèo khổ'?" "Này Tỷ-kheo,
@@ -2885,7 +2885,7 @@ nghèo khổ.' Bảy giác chi nào? Niệm giác chi… xả giác chi — này
 Tỷ-kheo, do chưa tu tập, chưa làm cho sung mãn bảy giác chi này nên
 gọi là 'kẻ nghèo khổ.'"
 
-==== Kinh 46.7. Kẻ Không Nghèo Khổ (Adaliddasuttaṃ)
+==== Kinh 46.47. Kẻ Không Nghèo Khổ (Adaliddasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, 'kẻ không nghèo khổ, kẻ không nghèo khổ' —
 người ta nói như vậy. Bạch Thế Tôn, do đâu mà gọi là 'kẻ không nghèo
@@ -2894,7 +2894,7 @@ nên gọi là 'kẻ không nghèo khổ.' Bảy giác chi nào? Niệm giác ch
 giác chi — này Tỷ-kheo, do đã tu tập, đã làm cho sung mãn bảy giác chi
 này nên gọi là 'kẻ không nghèo khổ.'"
 
-==== Kinh 46.8. Mặt Trời (Ādiccasuttaṃ)
+==== Kinh 46.48. Mặt Trời (Ādiccasuttaṃ)
 
 #super[1] "Này các thầy, mặt trời khi mọc lên có điều này đi trước, có
 điều này là tướng báo trước — đó là ánh hồng rạng đông. Cũng vậy, này
@@ -2908,7 +2908,7 @@ xả giác chi, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn 
 hướng đến buông bỏ. Như vậy, này các thầy, Tỷ-kheo có bạn lành tu tập
 bảy giác chi, làm cho sung mãn bảy giác chi."
 
-==== Kinh 46.9. Yếu Tố Bên Trong (Ajjhattikaṅgasuttaṃ)
+==== Kinh 46.49. Yếu Tố Bên Trong (Ajjhattikaṅgasuttaṃ)
 
 #super[1] "Này các thầy, xét về yếu tố bên trong, Ta không thấy một
 yếu tố nào khác đưa đến sự sanh khởi bảy giác chi như tác ý như lý.
@@ -2921,7 +2921,7 @@ ly tham, y cứ vào đoạn diệt, hướng đến buông bỏ. Như vậy, n�
 thầy, Tỷ-kheo thành tựu tác ý như lý tu tập bảy giác chi, làm cho sung
 mãn bảy giác chi."
 
-==== Kinh 46.10. Yếu Tố Bên Ngoài (Bāhiraṅgasuttaṃ)
+==== Kinh 46.50. Yếu Tố Bên Ngoài (Bāhiraṅgasuttaṃ)
 
 #super[1] "Này các thầy, xét về yếu tố bên ngoài, Ta không thấy một
 yếu tố nào khác đưa đến sự sanh khởi bảy giác chi như có bạn lành. Này
@@ -2944,7 +2944,7 @@ Mặt Trời, Yếu Tố Trong Và Ngoài — trọn mười kinh.
 
 === Phẩm 6 (nguồn ghi 6). Đàm Luận (Sākacchavaggo)
 
-==== Kinh 46.1. Thức Ăn (Āhārasuttaṃ)
+==== Kinh 46.51. Thức Ăn (Āhārasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về thức ăn và không phải thức ăn của năm triền cái và bảy giác
@@ -3043,7 +3043,7 @@ giác chi. Không tác ý nhiều lần đối với các pháp ấy — đó l�
 thức ăn làm cho xả giác chi chưa sanh không được sanh, hay đã sanh
 không đi đến sự tu tập sung mãn."
 
-==== Kinh 46.2. Phương Thức (Pariyāyasuttaṃ)
+==== Kinh 46.52. Phương Thức (Pariyāyasuttaṃ)
 
 #super[1] Rồi nhiều Tỷ-kheo, vào buổi sáng, đắp y, cầm y bát, đi vào
 Xá-vệ (Sāvatthi) để khất thực. Rồi các Tỷ-kheo ấy suy nghĩ: "Còn quá sớm để đi
@@ -3125,7 +3125,7 @@ chi. Như vậy, được gọi chung là 'xả giác chi'; theo phương thức
 nó trở thành hai. Này các thầy, đó là phương thức mà theo đó bảy giác
 chi trở thành mười bốn."
 
-==== Kinh 46.3. Ngọn Lửa (Aggisuttaṃ)
+==== Kinh 46.53. Ngọn Lửa (Aggisuttaṃ)
 
 #super[1] Rồi nhiều Tỷ-kheo, vào buổi sáng, đắp y, cầm y bát, đi vào
 Xá-vệ (Sāvatthi) để khất thực. (Giống như kinh Phương Thức.) "Này các Tỷ-kheo,
@@ -3189,7 +3189,7 @@ tập định giác chi, là lúc để tu tập xả giác chi. Vì sao vậy? 
 Tỷ-kheo, tâm bị dao động thì dễ lắng dịu được bằng những pháp ấy. Còn
 niệm, này các Tỷ-kheo, Ta nói là cần thiết trong mọi trường hợp."
 
-==== Kinh 46.4. Tâm Từ (Mettāsahagatasuttaṃ)
+==== Kinh 46.54. Tâm Từ (Mettāsahagatasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Cô-li-da (Koliya), tại một thị
 trấn của người Koliya tên là Haliddavasana. Rồi nhiều Tỷ-kheo, vào
@@ -3280,7 +3280,7 @@ tưởng xứ. Này các Tỷ-kheo, Ta nói tâm giải thoát nhờ xả có ph
 phi phi tưởng xứ là tối thượng, đối với Tỷ-kheo ở đây chưa thâm nhập
 được sự giải thoát cao hơn."
 
-==== Kinh 46.5. Sang-ga-la-ba (Saṅgāravasuttaṃ)
+==== Kinh 46.55. Sang-ga-la-ba (Saṅgāravasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Rồi Bà-la-môn Sang-ga-la-ba (Saṅgārava) đi đến chỗ
 Thế Tôn… Ngồi xuống một bên, Bà-la-môn Saṅgārava bạch Thế Tôn: "Thưa
@@ -3366,7 +3366,7 @@ quy y Tôn giả Gotama, xin quy y Pháp, xin quy y Tăng chúng Tỷ-kheo.
 Xin Tôn giả Gotama nhận tôi làm cư sĩ, từ nay cho đến trọn đời, tôi
 xin quy y."
 
-==== Kinh 46.6. Vô úy (Abhayasuttaṃ)
+==== Kinh 46.56. Vô úy (Abhayasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trên
 núi Linh Thứu (Gijjhakūṭa). Rồi hoàng tử Vô úy (Abhaya) đi đến chỗ Thế Tôn; đến rồi, đảnh
@@ -3428,7 +3428,7 @@ tại núi Gijjhakūṭa.
 
 === Phẩm 7 (nguồn ghi 7). Niệm Hơi Thở (Ānāpānavaggo)
 
-==== Kinh 46.1. Xương (Aṭṭhikamahapphalasuttaṃ)
+==== Kinh 46.57. Xương (Aṭṭhikamahapphalasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, tưởng về xương, khi
 được tu tập, được làm cho sung mãn, có quả lớn, có lợi ích lớn. Và
@@ -3500,7 +3500,7 @@ xương, y cứ vào viễn ly, y cứ vào ly tham, y cứ vào đoạn diệt,
 đến buông bỏ. Này các thầy, tưởng về xương được tu tập như vậy, được
 làm cho sung mãn như vậy, đưa đến sự an trú thoải mái lớn."
 
-==== Kinh 46.2. Thi Thể Dòi Bọ (Puḷavakasuttaṃ)
+==== Kinh 46.58. Thi Thể Dòi Bọ (Puḷavakasuttaṃ)
 
 #super[1] "Này các thầy, tưởng về thi thể bị dòi bọ ăn, khi được tu
 tập, được làm cho sung mãn — cũng như tưởng về xương ở trên — có quả
@@ -3509,53 +3509,53 @@ lớn; đưa đến sự an toàn lớn khỏi các trói buộc; đưa đến s
 lớn; đưa đến sự an trú thoải mái lớn, khi được tu tập cùng với bảy
 giác chi theo cùng phương thức như trên."
 
-==== Kinh 46.3. Thi Thể Bầm Xanh (Vinīlakasuttaṃ)
+==== Kinh 46.59. Thi Thể Bầm Xanh (Vinīlakasuttaṃ)
 
 #super[1] "Này các thầy, tưởng về thi thể bầm xanh, khi được tu tập,
 được làm cho sung mãn — cũng như tưởng về xương ở trên — có quả lớn,
 có lợi ích lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng
 phương thức như trên."
 
-==== Kinh 46.4. Thi Thể Đứt Đoạn (Vicchiddakasuttaṃ)
+==== Kinh 46.60. Thi Thể Đứt Đoạn (Vicchiddakasuttaṃ)
 
 #super[1] "Này các thầy, tưởng về thi thể đứt đoạn, khi được tu tập,
 được làm cho sung mãn — cũng như tưởng về xương ở trên — có quả lớn,
 có lợi ích lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng
 phương thức như trên."
 
-==== Kinh 46.5. Thi Thể Sưng Phồng (Uddhumātakasuttaṃ)
+==== Kinh 46.61. Thi Thể Sưng Phồng (Uddhumātakasuttaṃ)
 
 #super[1] "Này các thầy, tưởng về thi thể sưng phồng, khi được tu tập,
 được làm cho sung mãn — cũng như tưởng về xương ở trên — có quả lớn,
 có lợi ích lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng
 phương thức như trên."
 
-==== Kinh 46.6. Từ (Mettāsuttaṃ)
+==== Kinh 46.62. Từ (Mettāsuttaṃ)
 
 #super[1] "Này các thầy, tâm từ, khi được tu tập, được làm cho sung
 mãn — cũng như tưởng về xương ở trên — có quả lớn, có lợi ích lớn, cho
 đến đưa đến sự an trú thoải mái lớn, khi được tu tập cùng với bảy giác
 chi theo cùng phương thức như trên."
 
-==== Kinh 46.7. Bi (Karuṇāsuttaṃ)
+==== Kinh 46.63. Bi (Karuṇāsuttaṃ)
 
 #super[1] "Này các thầy, tâm bi, khi được tu tập, được làm cho sung
 mãn — cũng như tưởng về xương ở trên — có quả lớn, có lợi ích lớn, cho
 đến đưa đến sự an trú thoải mái lớn, theo cùng phương thức như trên."
 
-==== Kinh 46.8. Hỷ (Muditāsuttaṃ)
+==== Kinh 46.64. Hỷ (Muditāsuttaṃ)
 
 #super[1] "Này các thầy, tâm hỷ, khi được tu tập, được làm cho sung
 mãn — cũng như tưởng về xương ở trên — có quả lớn, có lợi ích lớn, cho
 đến đưa đến sự an trú thoải mái lớn, theo cùng phương thức như trên."
 
-==== Kinh 46.9. Xả (Upekkhāsuttaṃ)
+==== Kinh 46.65. Xả (Upekkhāsuttaṃ)
 
 #super[1] "Này các thầy, tâm xả, khi được tu tập, được làm cho sung
 mãn — cũng như tưởng về xương ở trên — có quả lớn, có lợi ích lớn, cho
 đến đưa đến sự an trú thoải mái lớn, theo cùng phương thức như trên."
 
-==== Kinh 46.10. Niệm Hơi Thở (Ānāpānasuttaṃ)
+==== Kinh 46.66. Niệm Hơi Thở (Ānāpānasuttaṃ)
 
 #super[1] "Này các thầy, niệm hơi thở vào hơi thở ra, khi được tu tập,
 được làm cho sung mãn — cũng như tưởng về xương ở trên — có quả lớn,
@@ -3575,7 +3575,7 @@ và Niệm Hơi Thở — trọn mười kinh.
 
 === Phẩm 8 (nguồn ghi 8). Đoạn Diệt (Nirodhavaggo)
 
-==== Kinh 46.1. Bất Tịnh (Asubhasuttaṃ)
+==== Kinh 46.67. Bất Tịnh (Asubhasuttaṃ)
 
 #super[1] "Này các thầy, tưởng bất tịnh, khi được tu tập, được làm
 cho sung mãn — như tưởng đoạn diệt sẽ được nói đầy đủ ở kinh cuối
@@ -3584,63 +3584,63 @@ quả; đưa đến lợi ích lớn, đưa đến sự an toàn lớn khỏi c�
 đưa đến sự xúc động lớn, đưa đến sự an trú thoải mái lớn, khi được tu
 tập cùng với bảy giác chi theo cùng phương thức như vậy."
 
-==== Kinh 46.2. Sự Chết (Maraṇasuttaṃ)
+==== Kinh 46.68. Sự Chết (Maraṇasuttaṃ)
 
 #super[1] "Này các thầy, tưởng về sự chết, khi được tu tập, được làm
 cho sung mãn — cũng như tưởng bất tịnh ở trên — có quả lớn, có lợi ích
 lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng phương thức
 như vậy."
 
-==== Kinh 46.3. Thức Ăn (Āhārepaṭikūlasuttaṃ)
+==== Kinh 46.69. Thức Ăn (Āhārepaṭikūlasuttaṃ)
 
 #super[1] "Này các thầy, tưởng nhàm chán đối với thức ăn, khi được tu
 tập, được làm cho sung mãn — cũng như tưởng bất tịnh ở trên — có quả
 lớn, có lợi ích lớn, cho đến đưa đến sự an trú thoải mái lớn, theo
 cùng phương thức như vậy."
 
-==== Kinh 46.4. Không Ưa Thích (Anabhiratisuttaṃ)
+==== Kinh 46.70. Không Ưa Thích (Anabhiratisuttaṃ)
 
 #super[1] "Này các thầy, tưởng không ưa thích đối với tất cả thế gian,
 khi được tu tập, được làm cho sung mãn — cũng như tưởng bất tịnh ở
 trên — có quả lớn, có lợi ích lớn, cho đến đưa đến sự an trú thoải mái
 lớn, theo cùng phương thức như vậy."
 
-==== Kinh 46.5. Vô Thường (Aniccasuttaṃ)
+==== Kinh 46.71. Vô Thường (Aniccasuttaṃ)
 
 #super[1] "Này các thầy, tưởng vô thường, khi được tu tập, được làm
 cho sung mãn — cũng như tưởng bất tịnh ở trên — có quả lớn, có lợi ích
 lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng phương thức
 như vậy."
 
-==== Kinh 46.6. Khổ (Dukkhasuttaṃ)
+==== Kinh 46.72. Khổ (Dukkhasuttaṃ)
 
 #super[1] "Này các thầy, tưởng khổ trong vô thường, khi được tu tập,
 được làm cho sung mãn — cũng như tưởng bất tịnh ở trên — có quả lớn,
 có lợi ích lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng
 phương thức như vậy."
 
-==== Kinh 46.7. Vô Ngã (Anattasuttaṃ)
+==== Kinh 46.73. Vô Ngã (Anattasuttaṃ)
 
 #super[1] "Này các thầy, tưởng vô ngã trong khổ, khi được tu tập, được
 làm cho sung mãn — cũng như tưởng bất tịnh ở trên — có quả lớn, có lợi
 ích lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng phương
 thức như vậy."
 
-==== Kinh 46.8. Đoạn Tận (Pahānasuttaṃ)
+==== Kinh 46.74. Đoạn Tận (Pahānasuttaṃ)
 
 #super[1] "Này các thầy, tưởng đoạn tận, khi được tu tập, được làm cho
 sung mãn — cũng như tưởng bất tịnh ở trên — có quả lớn, có lợi ích
 lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng phương thức
 như vậy."
 
-==== Kinh 46.9. Ly Tham (Virāgasuttaṃ)
+==== Kinh 46.75. Ly Tham (Virāgasuttaṃ)
 
 #super[1] "Này các thầy, tưởng ly tham, khi được tu tập, được làm cho
 sung mãn — cũng như tưởng bất tịnh ở trên — có quả lớn, có lợi ích
 lớn, cho đến đưa đến sự an trú thoải mái lớn, theo cùng phương thức
 như vậy."
 
-==== Kinh 46.10. Đoạn Diệt (Nirodhasuttaṃ)
+==== Kinh 46.76. Đoạn Diệt (Nirodhasuttaṃ)
 
 #super[1] "Này các thầy, tưởng đoạn diệt, khi được tu tập, được làm
 cho sung mãn, có quả lớn, có lợi ích lớn. Và này các thầy, tưởng đoạn
@@ -3687,7 +3687,7 @@ Ly Tham, và Đoạn Diệt — trọn mười kinh.
 
 === Phẩm 9 (nguồn ghi 9). Sông Hằng Và Các Kinh Khác (Gaṅgāpeyyālavaggo)
 
-#strong[Nhóm kinh 46.1–12 — Sông Hằng Và Các Kinh Khác (Gaṅgānadīādisuttaṃ)]
+#strong[Nhóm kinh 46.77–88 — Sông Hằng Và Các Kinh Khác (Gaṅgānadīādisuttaṃ)]
 
 #super[1] "Này các thầy, ví như sông Hằng (Gaṅgā) chảy về hướng đông, xuôi
 về hướng đông, đổ về hướng đông; cũng vậy, này các thầy, Tỷ-kheo tu
@@ -3715,7 +3715,7 @@ do đó phẩm này được gọi tên như vậy.
 
 === Phẩm 10 (nguồn ghi 10). Không Phóng Dật (Appamādavaggo)
 
-#strong[Nhóm kinh 46.1–10 — Như Lai Và Các Ví Dụ Khác (Tathāgatādisuttaṃ)]
+#strong[Nhóm kinh 46.89–98 — Như Lai Và Các Ví Dụ Khác (Tathāgatādisuttaṃ)]
 
 #super[1] Này các thầy, bất luận là hạng chúng sanh nào — không chân,
 hai chân, bốn chân, hay nhiều chân, có sắc hay không có sắc, có tưởng
@@ -3741,7 +3741,7 @@ và vải vóc là ví dụ thứ mười.
 
 === Phẩm 11 (nguồn ghi 11). Việc Cần Dùng Sức Lực (Balakaraṇīyavaggo)
 
-#strong[Nhóm kinh 46.1–12 — Sức Lực Và Các Ví Dụ Khác (Balādisuttaṃ)]
+#strong[Nhóm kinh 46.99–110 — Sức Lực Và Các Ví Dụ Khác (Balādisuttaṃ)]
 
 #super[1] Này các thầy, ví như những công việc nào cần dùng đến sức
 lực, tất cả những công việc ấy đều phải nhờ vào đất, đứng vững trên
@@ -3765,7 +3765,7 @@ rộng đầy đủ theo từng giác chi, như cách đã làm với Tương Ư
 
 === Phẩm 12 (nguồn ghi 12). Tìm Cầu (Esanāvaggo)
 
-#strong[Nhóm kinh 46.1–10 — Tìm Cầu Và Các Đề Mục Khác (Esanādisuttaṃ)]
+#strong[Nhóm kinh 46.111–120 — Tìm Cầu Và Các Đề Mục Khác (Esanādisuttaṃ)]
 
 #super[1] Này các thầy, có ba loại tìm cầu này: tìm cầu dục, tìm cầu
 hữu, tìm cầu Phạm hạnh. Để thắng tri, liễu tri, đoạn tận, từ bỏ ba
@@ -3788,7 +3788,7 @@ rộng theo hướng y cứ vào viễn ly.)
 
 === Phẩm 13 (nguồn ghi 13). Trói Buộc (Oghavaggo)
 
-#strong[Nhóm kinh 46.1–8 — Trói Buộc Và Các Đề Mục Khác (Oghādisuttaṃ)]
+#strong[Nhóm kinh 46.121–128 — Trói Buộc Và Các Đề Mục Khác (Oghādisuttaṃ)]
 
 #super[1] Này các thầy, có bốn loại trói buộc này: trói buộc bởi dục,
 trói buộc bởi hữu, trói buộc bởi tà kiến, trói buộc bởi vô minh. Để
@@ -3797,7 +3797,7 @@ tập bảy giác chi — cứ theo cách này mà mở rộng đầy đủ cho 
 mục: trói buộc, ràng buộc, chấp thủ, kiết sử cùng tùy miên, các dục
 công đức, các triền cái, và các uẩn là đề mục cuối.
 
-==== Kinh 46.10. Kiết Sử Thuộc Phần Trên (Uddhambhāgiyasuttaṃ)
+==== Kinh 46.129. Kiết Sử Thuộc Phần Trên (Uddhambhāgiyasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có năm kiết sử
 thuộc phần trên này. Những gì là năm? Sắc ái, vô sắc ái, mạn, trạo
@@ -4293,7 +4293,7 @@ Bệnh, và Trú Xứ Tỷ-kheo-ni.
 
 === Phẩm 2 (nguồn ghi 2). Na-lan-đà (Nālandavaggo)
 
-==== Kinh 47.1. Đại Nhân (Mahāpurisasuttaṃ)
+==== Kinh 47.11. Đại Nhân (Mahāpurisasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Rồi Tôn giả Xá-lợi-phất (Sāriputta) đi đến Thế
 Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn
@@ -4311,7 +4311,7 @@ pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tha
 Sāriputta, là tâm giải thoát. Này Sāriputta, do tâm giải thoát, Ta nói
 là 'đại nhân'; do tâm không giải thoát, Ta nói 'không phải đại nhân'."
 
-==== Kinh 47.2. Na-lan-đà (Nālandasuttaṃ)
+==== Kinh 47.12. Na-lan-đà (Nālandasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Na-lan-đà (Nālandā), trong rừng xoài
 Ba-ba-li-ca (Pāvārika). Rồi Tôn giả Xá-lợi-phất (Sāriputta) đi đến Thế Tôn; đến rồi, đảnh lễ Thế
@@ -4366,7 +4366,7 @@ sĩ nữ. Này Sāriputta, đối với những người ngu si nào còn có s�
 nghi, do dự đối với Như Lai, sau khi nghe pháp môn này, sự hoài nghi,
 do dự của họ đối với Như Lai sẽ được đoạn trừ."
 
-==== Kinh 47.3. Thuần-đà (Cundasuttaṃ)
+==== Kinh 47.13. Thuần-đà (Cundasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà
 (Jetavana), tại tinh xá của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ,
@@ -4422,7 +4422,7 @@ nương tựa gì khác; lấy Pháp làm hải đảo, lấy Pháp làm chỗ n
 không nương tựa gì khác — những Tỷ-kheo ấy, này Ānanda, những ai có
 lòng ham học, sẽ là những vị đứng đầu trong hàng đệ tử của Ta."
 
-==== Kinh 47.4. Xê-la (Ukkacelasuttaṃ)
+==== Kinh 47.14. Xê-la (Ukkacelasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Bạt-kỳ (Vajji), tại U-ca-xê-la (Ukkacelā),
 trên bờ sông Hằng (Gaṅgā), cùng với đại chúng Tỷ-kheo, không lâu sau khi Tôn
@@ -4468,7 +4468,7 @@ làm hải đảo, lấy Pháp làm chỗ nương tựa, không nương tựa g�
 những Tỷ-kheo ấy, này các thầy, những ai có lòng ham học, sẽ là những
 vị đứng đầu trong hàng đệ tử của Ta."
 
-==== Kinh 47.5. Bà-hi (Bāhiyasuttaṃ)
+==== Kinh 47.15. Bà-hi (Bāhiyasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Rồi Tôn giả Bà-hi (Bāhiya) đi đến Thế Tôn;
 đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, Tôn giả
@@ -4496,7 +4496,7 @@ tri bằng thắng trí, chứng ngộ và an trú. Vị ấy thắng tri: "Sanh
 tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng
 thái này nữa." Và Tôn giả Bāhiya đã trở thành một vị A-la-hán.
 
-==== Kinh 47.6. U-đi-da (Uttiyasuttaṃ)
+==== Kinh 47.16. U-đi-da (Uttiyasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Rồi Tôn giả Uttiya đi đến Thế
 Tôn… Ngồi một bên, Tôn giả Uttiya bạch Thế Tôn: "Bạch Thế Tôn, mong
@@ -4523,7 +4523,7 @@ thắng tri: "Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã
 không còn trở lại trạng thái này nữa." Và Tôn giả Uttiya đã trở thành
 một vị A-la-hán.
 
-==== Kinh 47.7. Bậc Thánh (Ariyasuttaṃ)
+==== Kinh 47.17. Bậc Thánh (Ariyasuttaṃ)
 
 #super[1] "Này các thầy, bốn niệm xứ này, khi được tu tập, được làm
 cho sung mãn, là bậc Thánh, có khả năng đưa ra khỏi, đưa người thực
@@ -4535,7 +4535,7 @@ quán pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp ph�
 cho sung mãn, là bậc Thánh, có khả năng đưa ra khỏi, đưa người thực
 hành đến sự đoạn tận khổ đau một cách chân chánh."
 
-==== Kinh 47.8. Phạm Thiên (Brahmasuttaṃ)
+==== Kinh 47.18. Phạm Thiên (Brahmasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Ưu lâu tần loa (Uruvelā), trên bờ sông Ni-liên-thiền (Nerañjarā),
 dưới cây Ajapāla-nigrodha, ngay sau khi mới thành tựu Chánh Đẳng
@@ -4572,7 +4572,7 @@ biết rõ con đường, với lòng thương xót lợi ích; \
 Nhờ con đường này mà các vị thuở xưa đã vượt qua, \
 và những ai đang vượt qua dòng nước, sẽ vượt qua bằng con đường ấy."
 
-==== Kinh 47.9. Sê-đa-ca (Sedakasuttaṃ)
+==== Kinh 47.19. Sê-đa-ca (Sedakasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Sum-ba (Sumbha), tại thị trấn
 Sê-đa-ca (Sedaka) của dân Sumbha. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy,
@@ -4606,7 +4606,7 @@ với ý nghĩ 'ta sẽ bảo vệ người khác', cần phải thực hành ni
 các thầy, tự bảo vệ mình tức là bảo vệ người khác, bảo vệ người khác
 tức là tự bảo vệ mình."
 
-==== Kinh 47.10. Người Đẹp Trong Xứ (Janapadakalyāṇīsuttaṃ)
+==== Kinh 47.20. Người Đẹp Trong Xứ (Janapadakalyāṇīsuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú giữa dân chúng
 Sum-ba (Sumbha), tại thị trấn Sê-đa-ca (Sedaka) của dân Sumbha. Tại đó, Thế Tôn gọi các
@@ -4641,7 +4641,7 @@ Sedaka, và Người Đẹp Trong Xứ.
 
 === Phẩm 3 (nguồn ghi 3). Giới Và Sự Tồn Tại (Sīlaṭṭhitivaggo)
 
-==== Kinh 47.1. Giới (Sīlasuttaṃ)
+==== Kinh 47.21. Giới (Sīlasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Tôn giả A-nan (Ānanda) và Tôn giả Bhadda
 trú tại Ba-tha-li-bu-đa (Pāṭaliputta), trong khu vườn Kê Viên (Kukkuṭa). Rồi Tôn giả Bhadda, vào
@@ -4663,7 +4663,7 @@ tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Này hiền gi�
 những giới hạnh thiện mà Thế Tôn đã tuyên thuyết, những giới hạnh
 thiện ấy được tuyên thuyết chỉ nhằm mục đích tu tập bốn niệm xứ này."
 
-==== Kinh 47.2. Tồn Tại (Ciraṭṭhitisuttaṃ)
+==== Kinh 47.22. Tồn Tại (Ciraṭṭhitisuttaṃ)
 
 #super[1] Cũng tại nơi ấy. Ngồi một bên, Tôn giả Bhadda hỏi Tôn giả
 A-nan (Ānanda): "Này hiền giả Ānanda, do nhân gì, do duyên gì mà sau khi Như
@@ -4683,7 +4683,7 @@ quán pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp ph�
 sung mãn, mà sau khi Như Lai diệt độ, Chánh pháp được tồn tại lâu
 dài."
 
-==== Kinh 47.3. Suy Thoái (Parihānasuttaṃ)
+==== Kinh 47.23. Suy Thoái (Parihānasuttaṃ)
 
 #super[1] Một thời, Tôn giả A-nan (Ānanda) và Tôn giả Bhadda trú tại
 Ba-tha-li-bu-đa (Pāṭaliputta), trong khu vườn Kê Viên (Kukkuṭa). Rồi Tôn giả Bhadda, vào buổi
@@ -4704,7 +4704,7 @@ xứ này không được tu tập, không được làm cho sung mãn, mà có 
 thoái của Chánh pháp. Và do bốn niệm xứ này được tu tập, được làm cho
 sung mãn, mà không có sự suy thoái của Chánh pháp."
 
-==== Kinh 47.4. Thanh Tịnh (Suddhasuttaṃ)
+==== Kinh 47.24. Thanh Tịnh (Suddhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn niệm xứ này.
 Thế nào là bốn? Này các thầy, ở đây, Tỷ-kheo sống quán thân trên
@@ -4713,7 +4713,7 @@ quán thọ… quán tâm… sống quán pháp trên pháp, nhiệt tâm, tỉn
 chánh niệm, nhiếp phục tham ưu ở đời. Này các thầy, đây là bốn niệm
 xứ."
 
-==== Kinh 47.5. Vị Bà-la-môn (Aññatarabrāhmaṇasuttaṃ)
+==== Kinh 47.25. Vị Bà-la-môn (Aññatarabrāhmaṇasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong
 rừng Kỳ-đà (Jetavana), tại tinh xá của Cấp Cô Độc (Anāthapiṇḍika). Rồi
@@ -4737,7 +4737,7 @@ diệt độ, Chánh pháp được tồn tại lâu dài." Được nói vậy,
 ấy bạch Thế Tôn: "Thật hy hữu, thưa Tôn giả Gotama!… xin Tôn giả
 Gotama nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 
-==== Kinh 47.6. Một Phần (Padesasuttaṃ)
+==== Kinh 47.26. Một Phần (Padesasuttaṃ)
 
 #super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta), Tôn giả Mục Kiền Liên (Mahāmoggallāna) và Tôn
 giả A-na-luật-đà (Anuruddha) trú tại Sa-kỳ (Sāketa), trong rừng Can-đa-ci (Kaṇḍakī). Rồi Tôn giả
@@ -4754,7 +4754,7 @@ trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham ưu 
 Này hiền giả, do tu tập một phần của bốn niệm xứ này mà được gọi là
 bậc Hữu học."
 
-==== Kinh 47.7. Viên Mãn (Samattasuttaṃ)
+==== Kinh 47.27. Viên Mãn (Samattasuttaṃ)
 
 #super[1] Cũng tại nơi ấy. Ngồi một bên, Tôn giả Xá-lợi-phất (Sāriputta) hỏi Tôn giả
 A-na-luật-đà (Anuruddha): "Này hiền giả Anuruddha, người ta nói 'bậc Vô học, bậc Vô
@@ -4766,7 +4766,7 @@ sống quán pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhi�
 tham ưu ở đời. Này hiền giả, do tu tập viên mãn bốn niệm xứ này mà
 được gọi là bậc Vô học."
 
-==== Kinh 47.8. Thế Giới (Lokasuttaṃ)
+==== Kinh 47.28. Thế Giới (Lokasuttaṃ)
 
 #super[1] Cũng tại nơi ấy. Ngồi một bên, Tôn giả Xá-lợi-phất (Sāriputta) hỏi Tôn giả
 A-na-luật-đà (Anuruddha): "Này hiền giả Anuruddha, do tu tập, làm cho sung mãn những
@@ -4779,7 +4779,7 @@ tham ưu ở đời. Này hiền giả, do tu tập, làm cho sung mãn bốn ni
 này mà tôi đạt được đại thắng trí. Và này hiền giả, do tu tập, làm cho
 sung mãn bốn niệm xứ này, tôi có thể thắng tri một nghìn thế giới."
 
-==== Kinh 47.9. Si-li-bat-ha (Sirivaḍḍhasuttaṃ)
+==== Kinh 47.29. Si-li-bat-ha (Sirivaḍḍhasuttaṃ)
 
 #super[1] Một thời, Tôn giả A-nan (Ānanda) trú tại Vương Xá (Rājagaha), trong rừng Trúc
 (Veḷuvana), nơi nuôi dưỡng loài sóc (Kalandakanivāpa). Lúc bấy giờ, gia
@@ -4818,7 +4818,7 @@ giảng, con không thấy có kiết sử nào trong số ấy chưa được �
 nơi con." "Này gia chủ, ông thật có được lợi ích, ông thật có được
 điều tốt lành! Này gia chủ, ông đã tự tuyên bố quả Bất Lai."
 
-==== Kinh 47.10. Ma-na-đi-na (Mānadinnasuttaṃ)
+==== Kinh 47.30. Ma-na-đi-na (Mānadinnasuttaṃ)
 
 #super[1] Cũng tại nơi ấy. Lúc bấy giờ, gia chủ Ma-na-đi-na (Mānadinna) bị bệnh, khổ
 đau, bệnh nặng. Rồi gia chủ Mānadinna gọi một người: "Này ông, hãy đi
@@ -4845,7 +4845,7 @@ và Mānadinna — đủ mười kinh.
 
 === Phẩm 4 (nguồn ghi 4). Chưa Từng Được Nghe (Ananussutavaggo)
 
-==== Kinh 47.1. Chưa Từng Được Nghe (Ananussutasuttaṃ)
+==== Kinh 47.31. Chưa Từng Được Nghe (Ananussutasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, 'đây là quán thân
 trên thân' — đối với các pháp trước đây chưa từng được nghe, ở nơi Ta,
@@ -4866,7 +4866,7 @@ này cần được tu tập'… 'đã được tu tập' — đối với các 
 chưa từng được nghe, ở nơi Ta, nhãn đã sanh khởi, trí đã sanh khởi,
 tuệ đã sanh khởi, minh đã sanh khởi, ánh sáng đã sanh khởi."
 
-==== Kinh 47.2. Ly Tham (Virāgasuttaṃ)
+==== Kinh 47.32. Ly Tham (Virāgasuttaṃ)
 
 #super[1] "Này các thầy, bốn niệm xứ này, khi được tu tập, được làm
 cho sung mãn, đưa đến sự nhàm chán hoàn toàn, đến ly tham, đến đoạn
@@ -4878,7 +4878,7 @@ phục tham ưu ở đời. Này các thầy, bốn niệm xứ này, khi đư�
 được làm cho sung mãn, đưa đến sự nhàm chán hoàn toàn, đến ly tham,
 đến đoạn diệt, đến an tịnh, đến thắng trí, đến giác ngộ, đến Niết-bàn."
 
-==== Kinh 47.3. Lãng Xa (Viraddhasuttaṃ)
+==== Kinh 47.33. Lãng Xa (Viraddhasuttaṃ)
 
 #super[1] "Này các thầy, đối với những ai đã lãng xa bốn niệm xứ, thì
 Thánh đạo đưa đến sự đoạn tận khổ đau một cách chân chánh cũng bị lãng
@@ -4894,7 +4894,7 @@ xa đối với họ. Này các thầy, đối với những ai đã bắt đầ
 niệm xứ này, thì Thánh đạo đưa đến sự đoạn tận khổ đau một cách chân
 chánh cũng đã được bắt đầu thực hành đối với họ."
 
-==== Kinh 47.4. Tu Tập (Bhāvitasuttaṃ)
+==== Kinh 47.34. Tu Tập (Bhāvitasuttaṃ)
 
 #super[1] "Này các thầy, bốn niệm xứ này, khi được tu tập, được làm
 cho sung mãn, đưa từ bờ bên này đến bờ bên kia. Thế nào là bốn? Này
@@ -4904,7 +4904,7 @@ quán pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp ph�
 ưu ở đời. Này các thầy, bốn niệm xứ này, khi được tu tập, được làm cho
 sung mãn, đưa từ bờ bên này đến bờ bên kia."
 
-==== Kinh 47.5. Chánh Niệm (Satisuttaṃ)
+==== Kinh 47.35. Chánh Niệm (Satisuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Tỷ-kheo cần sống
 chánh niệm, tỉnh giác. Đây là lời giáo huấn của Ta cho các thầy. Này
@@ -4921,7 +4921,7 @@ biến mất được biết rõ. Như vậy, này các thầy, là Tỷ-kheo c�
 Tỷ-kheo cần sống chánh niệm, tỉnh giác. Đây là lời giáo huấn của Ta
 cho các thầy."
 
-==== Kinh 47.6. Chánh Trí (Aññāsuttaṃ)
+==== Kinh 47.36. Chánh Trí (Aññāsuttaṃ)
 
 #super[1] "Này các thầy, có bốn niệm xứ này. Thế nào là bốn? Này các
 thầy, ở đây, Tỷ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác,
@@ -4931,7 +4931,7 @@ pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tha
 cho sung mãn bốn niệm xứ này, có thể mong đợi một trong hai quả sau:
 chánh trí ngay trong đời này, hoặc quả Bất Lai nếu còn dư y."
 
-==== Kinh 47.7. Lòng Dục (Chandasuttaṃ)
+==== Kinh 47.37. Lòng Dục (Chandasuttaṃ)
 
 #super[1] "Này các thầy, có bốn niệm xứ này. Thế nào là bốn? Này các
 thầy, ở đây, Tỷ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác,
@@ -4950,7 +4950,7 @@ vị ấy sống quán pháp trên pháp như vậy, lòng dục nào có mặt 
 pháp, lòng dục ấy được đoạn trừ. Do sự đoạn trừ lòng dục, cái bất tử
 được chứng ngộ."
 
-==== Kinh 47.8. Liễu Tri (Pariññātasuttaṃ)
+==== Kinh 47.38. Liễu Tri (Pariññātasuttaṃ)
 
 #super[1] "Này các thầy, có bốn niệm xứ này. Thế nào là bốn? Này các
 thầy, ở đây, Tỷ-kheo sống quán thân trên thân, nhiệt tâm, tỉnh giác,
@@ -4966,7 +4966,7 @@ Sống quán pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhi�
 tham ưu ở đời. Khi vị ấy sống quán pháp trên pháp như vậy, các pháp
 được liễu tri. Do sự liễu tri về các pháp, cái bất tử được chứng ngộ."
 
-==== Kinh 47.9. Tu Tập (Bhāvanāsuttaṃ)
+==== Kinh 47.39. Tu Tập (Bhāvanāsuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ thuyết giảng sự tu tập bốn niệm xứ.
 Hãy lắng nghe. Này các thầy, thế nào là sự tu tập bốn niệm xứ? Này
@@ -4975,7 +4975,7 @@ giác, chánh niệm, nhiếp phục tham ưu ở đời; quán thọ… quán t
 quán pháp trên pháp, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp phục tham
 ưu ở đời. Này các thầy, đây là sự tu tập bốn niệm xứ."
 
-==== Kinh 47.10. Phân Tích (Vibhaṅgasuttaṃ)
+==== Kinh 47.40. Phân Tích (Vibhaṅgasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ thuyết giảng cho các thầy về niệm xứ,
 về sự tu tập niệm xứ, và về con đường đưa đến sự tu tập niệm xứ. Hãy
@@ -5008,7 +5008,7 @@ Tu Tập, và Phân Tích — đủ mười kinh.
 
 === Phẩm 5 (nguồn ghi 5). Bất Tử (Amatavaggo)
 
-==== Kinh 47.1. Bất Tử (Amatasuttaṃ)
+==== Kinh 47.41. Bất Tử (Amatasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, hãy sống với tâm
 khéo an trú trong bốn niệm xứ. Đừng để cái bất tử bị mất đi đối với
@@ -5019,7 +5019,7 @@ chánh niệm, nhiếp phục tham ưu ở đời. Này các thầy, hãy sống
 khéo an trú trong bốn niệm xứ này. Đừng để cái bất tử bị mất đi đối
 với các thầy."
 
-==== Kinh 47.2. Tập Khởi (Samudayasuttaṃ)
+==== Kinh 47.42. Tập Khởi (Samudayasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ thuyết giảng sự tập khởi và sự hoại
 diệt của bốn niệm xứ. Hãy lắng nghe. Này các thầy, thế nào là sự tập
@@ -5031,7 +5031,7 @@ khởi của tâm; do sự đoạn diệt của danh sắc mà có sự hoại d
 Do sự tập khởi của tác ý mà có sự tập khởi của các pháp; do sự đoạn
 diệt của tác ý mà có sự hoại diệt của các pháp."
 
-==== Kinh 47.3. Con Đường (Maggasuttaṃ)
+==== Kinh 47.43. Con Đường (Maggasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Tại đó, Thế Tôn gọi các Tỷ-kheo:
 "Này các thầy, có một thời, Ta trú tại Ưu lâu tần loa (Uruvelā), trên bờ sông
@@ -5062,7 +5062,7 @@ biết rõ con đường, với lòng thương xót lợi ích; \
 Nhờ con đường này mà các vị thuở xưa đã vượt qua, \
 và những ai đang vượt qua dòng nước, sẽ vượt qua bằng con đường ấy.'"
 
-==== Kinh 47.4. Chánh Niệm (Satisuttaṃ)
+==== Kinh 47.44. Chánh Niệm (Satisuttaṃ)
 
 #super[1] "Này các thầy, Tỷ-kheo cần sống chánh niệm. Đây là lời giáo
 huấn của Ta cho các thầy. Này các thầy, thế nào là Tỷ-kheo có chánh
@@ -5073,7 +5073,7 @@ phục tham ưu ở đời. Như vậy, này các thầy, là Tỷ-kheo có chá
 Tỷ-kheo cần sống chánh niệm. Đây là lời giáo huấn của Ta cho các
 thầy."
 
-==== Kinh 47.5. Đống Thiện (Kusalarāsisuttaṃ)
+==== Kinh 47.45. Đống Thiện (Kusalarāsisuttaṃ)
 
 #super[1] "Này các thầy, khi nói 'đống thiện', cần phải nói đúng là
 bốn niệm xứ. Này các thầy, đây hoàn toàn là đống thiện, đó là bốn
@@ -5084,7 +5084,7 @@ chánh niệm, nhiếp phục tham ưu ở đời. Này các thầy, khi nói '�
 thiện', cần phải nói đúng là bốn niệm xứ này. Này các thầy, đây hoàn
 toàn là đống thiện, đó là bốn niệm xứ."
 
-==== Kinh 47.6. Giới Bổn Ba-la-đề-mộc-xoa (Pātimokkhasaṃvarasuttaṃ)
+==== Kinh 47.46. Giới Bổn Ba-la-đề-mộc-xoa (Pātimokkhasaṃvarasuttaṃ)
 
 #super[1] Rồi một Tỷ-kheo đi đến Thế Tôn… Ngồi một bên, Tỷ-kheo ấy
 bạch Thế Tôn: "Bạch Thế Tôn, mong Thế Tôn thuyết pháp vắn tắt cho
@@ -5115,7 +5115,7 @@ chứng ngộ và an trú. Vị ấy thắng tri: "Sanh đã tận, Phạm hạn
 thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa." Và
 Tỷ-kheo ấy đã trở thành một vị A-la-hán.
 
-==== Kinh 47.7. Ác Hạnh (Duccaritasuttaṃ)
+==== Kinh 47.47. Ác Hạnh (Duccaritasuttaṃ)
 
 #super[1] Rồi một Tỷ-kheo đi đến Thế Tôn… "Bạch Thế Tôn, mong Thế
 Tôn thuyết pháp vắn tắt cho con, để sau khi nghe pháp của Thế Tôn, con
@@ -5137,7 +5137,7 @@ Tỷ-kheo, đêm hay ngày nào đến với ông, ông chỉ có thể mong đ�
 trưởng trong các thiện pháp, không phải sự suy giảm." … Và Tỷ-kheo ấy
 đã trở thành một vị A-la-hán.
 
-==== Kinh 47.8. Bạn Bè Cùng Cảm Thọ (Mittasuttaṃ)
+==== Kinh 47.48. Bạn Bè Cùng Cảm Thọ (Mittasuttaṃ)
 
 #super[1] "Này các thầy, đối với những ai các thầy có lòng thương
 xót, và những ai nghĩ rằng nên nghe lời các thầy — bạn bè, hay đồng
@@ -5160,7 +5160,7 @@ quán thân trên thân, nhiệt tâm, tỉnh giác, chánh niệm, nhiếp ph�
 tỉnh giác, chánh niệm, nhiếp phục tham ưu ở đời. Này các thầy, vì mục
 đích liễu tri ba loại cảm thọ này, cần tu tập bốn niệm xứ này."
 
-==== Kinh 47.10. Lậu Hoặc (Āsavasuttaṃ)
+==== Kinh 47.49. Lậu Hoặc (Āsavasuttaṃ)
 
 #super[1] "Này các thầy, có ba lậu hoặc này. Thế nào là ba? Dục lậu,
 hữu lậu, vô minh lậu — này các thầy, đây là ba lậu hoặc. Này các thầy,
@@ -5182,7 +5182,7 @@ Bạn Bè Cùng Cảm Thọ, và Lậu Hoặc.
 
 === Phẩm 6 (nguồn ghi 6). Các Dòng Sông Hằng (Gaṅgāpeyyālavaggo)
 
-#strong[Nhóm kinh 47.1–12 — Các Dòng Sông (Gaṅgānadīādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 47.50–61 — Các Dòng Sông (Gaṅgānadīādisuttadvādasakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Hằng (Gaṅgā) chảy về hướng đông, xuôi
 về hướng đông, đổ về hướng đông; cũng vậy, này các thầy, Tỷ-kheo tu
@@ -5209,7 +5209,7 @@ do đó phẩm này được gọi tên như vậy.
 
 === Phẩm 7 (nguồn ghi 7). Không Phóng Dật (Appamādavaggo)
 
-#strong[Nhóm kinh 47.1–10 — Ví Dụ Dấu Chân Voi (Tathāgatādisuttadasakaṃ)]
+#strong[Nhóm kinh 47.62–71 — Ví Dụ Dấu Chân Voi (Tathāgatādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, bất cứ loài chúng sanh nào — không chân,
 hai chân, bốn chân, hay nhiều chân…" (cần được trình bày rộng ra theo
@@ -5231,7 +5231,7 @@ Tấm Vải là ví dụ thứ mười.
 
 === Phẩm 8 (nguồn ghi 8). Việc Cần Dùng Sức Mạnh (Balakaraṇīyavaggo)
 
-#strong[Nhóm kinh 47.1–12 — Ví Dụ Về Sức Mạnh (Balādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 47.72–83 — Ví Dụ Về Sức Mạnh (Balādisuttadvādasakaṃ)]
 
 #super[1] "Này các thầy, ví như bất cứ công việc gì cần dùng đến sức
 mạnh để làm…" (cần được trình bày rộng ra theo thể thức quen thuộc:
@@ -5253,7 +5253,7 @@ Chiếc Thuyền, Nhà Khách, và Dòng Sông.
 
 === Phẩm 9 (nguồn ghi 9). Tìm Cầu (Esanāvaggo)
 
-#strong[Nhóm kinh 47.1–10 — Ba Sự Tìm Cầu (Esanādisuttadasakaṃ)]
+#strong[Nhóm kinh 47.84–93 — Ba Sự Tìm Cầu (Esanādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có ba sự tìm cầu này. Thế nào là ba? Tìm
 cầu dục, tìm cầu hữu, tìm cầu Phạm hạnh…" (cần được trình bày rộng ra
@@ -5275,7 +5275,7 @@ Thọ, và Ái — đủ mười đề mục.
 
 === Phẩm 10 (nguồn ghi 10). Dòng Nước Lũ (Oghavaggo)
 
-#strong[Nhóm kinh 47.1–10 — Năm Thượng Phần Kiết Sử (Uddhambhāgiyādisuttadasakaṃ)]
+#strong[Nhóm kinh 47.94–103 — Năm Thượng Phần Kiết Sử (Uddhambhāgiyādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có năm hạ phần kiết sử này. Này các thầy,
 có năm thượng phần kiết sử này. Thế nào là năm? Sắc tham, vô sắc
@@ -5482,7 +5482,7 @@ mười kinh của phẩm này.
 
 === Phẩm 2 (nguồn ghi 2). Nhu Nhuyến Hơn (Mudutaravaggo)
 
-==== Kinh 48.1. Được Đạt (Paṭilābhasuttaṃ)
+==== Kinh 48.11. Được Đạt (Paṭilābhasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn. Thế nào là tín căn? Ở đây, này các thầy, vị Thánh đệ tử có lòng
@@ -5498,7 +5498,7 @@ xả bỏ làm đối tượng, đạt được định, đạt được sự ch
 triệt, đưa đến đoạn tận khổ đau một cách chân chánh — đây gọi là tuệ
 căn. Này các thầy, đó là năm căn."
 
-==== Kinh 48.2. Vắn Tắt Thứ Nhất (Paṭhamasaṃkhittasuttaṃ)
+==== Kinh 48.12. Vắn Tắt Thứ Nhất (Paṭhamasaṃkhittasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5507,7 +5507,7 @@ hơn nữa thì thành bậc Nhất lai; kém hơn nữa thì thành bậc Dự 
 hơn nữa thì thành người tùy pháp hành; kém hơn nữa thì thành người tùy
 tín hành."
 
-==== Kinh 48.3. Vắn Tắt Thứ Hai (Dutiyasaṃkhittasuttaṃ)
+==== Kinh 48.13. Vắn Tắt Thứ Hai (Dutiyasaṃkhittasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5517,7 +5517,7 @@ hơn nữa thì thành người tùy pháp hành; kém hơn nữa thì thành ng
 tín hành. Như vậy, này các thầy, có sự sai biệt về căn nên có sự sai
 biệt về quả; có sự sai biệt về quả nên có sự sai biệt về hạng người."
 
-==== Kinh 48.4. Vắn Tắt Thứ Ba (Tatiyasaṃkhittasuttaṃ)
+==== Kinh 48.14. Vắn Tắt Thứ Ba (Tatiyasaṃkhittasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5528,7 +5528,7 @@ tín hành. Như vậy, này các thầy, ai làm đầy đủ thì đạt đầ
 một phần thì đạt một phần. Ta nói rằng năm căn này không phải là vô
 dụng."
 
-==== Kinh 48.5. Chi Tiết Thứ Nhất (Paṭhamavitthārasuttaṃ)
+==== Kinh 48.15. Chi Tiết Thứ Nhất (Paṭhamavitthārasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5540,7 +5540,7 @@ cần có dụng công; kém hơn nữa thì thành bậc có luồng nước ng
 thì thành bậc Dự lưu; kém hơn nữa thì thành người tùy pháp hành; kém
 hơn nữa thì thành người tùy tín hành."
 
-==== Kinh 48.6. Chi Tiết Thứ Hai (Dutiyavitthārasuttaṃ)
+==== Kinh 48.16. Chi Tiết Thứ Hai (Dutiyavitthārasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5554,7 +5554,7 @@ hơn nữa thì thành người tùy tín hành. Như vậy, này các thầy, c
 biệt về căn nên có sự sai biệt về quả; có sự sai biệt về quả nên có
 sự sai biệt về hạng người."
 
-==== Kinh 48.7. Chi Tiết Thứ Ba (Tatiyavitthārasuttaṃ)
+==== Kinh 48.17. Chi Tiết Thứ Ba (Tatiyavitthārasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5568,7 +5568,7 @@ hơn nữa thì thành người tùy tín hành. Như vậy, này các thầy, a
 đầy đủ thì đạt đầy đủ, ai làm một phần thì đạt một phần. Ta nói rằng
 năm căn này không phải là vô dụng."
 
-==== Kinh 48.8. Người Đang Thực Hành (Paṭipannasuttaṃ)
+==== Kinh 48.18. Người Đang Thực Hành (Paṭipannasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5580,7 +5580,7 @@ hoặc đang thực hành để chứng ngộ quả Dự lưu. Này các thầy,
 hoàn toàn, tuyệt đối không có năm căn này, Ta gọi người ấy là 'kẻ
 đứng bên ngoài, thuộc về hạng người phàm phu'."
 
-==== Kinh 48.9. Đầy Đủ (Sampannasuttaṃ)
+==== Kinh 48.19. Đầy Đủ (Sampannasuttaṃ)
 
 #super[1] Bấy giờ có một vị Tỷ-kheo đi đến chỗ Thế Tôn; đến rồi, đảnh
 lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, vị Tỷ-kheo ấy bạch Thế
@@ -5592,7 +5592,7 @@ tập niệm căn đưa đến tịch tĩnh, đưa đến giác ngộ; tu tập 
 đến tịch tĩnh, đưa đến giác ngộ; tu tập tuệ căn đưa đến tịch tĩnh, đưa
 đến giác ngộ. Cho đến mức đó, này Tỷ-kheo, là Tỷ-kheo đầy đủ căn."
 
-==== Kinh 48.10. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
+==== Kinh 48.20. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được tu tập, được
@@ -5611,7 +5611,7 @@ thứ mười là đoạn tận lậu hoặc.
 
 === Phẩm 3 (nguồn ghi 3). Sáu Căn (Chaḷindriyavaggo)
 
-==== Kinh 48.1. Sự Tái Sanh (Punabbhavasuttaṃ)
+==== Kinh 48.21. Sự Tái Sanh (Punabbhavasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn. Này các thầy, chừng nào Ta chưa biết như thật sự tập khởi, sự
@@ -5627,18 +5627,18 @@ Thượng Chánh Đẳng Giác'. Và tri kiến đã sanh khởi trong Ta: 'Sự
 thoát của Ta không thể chuyển động, đây là đời sống cuối cùng, không
 còn tái sanh nữa.'"
 
-==== Kinh 48.2. Mạng Căn (Jīvitindriyasuttaṃ)
+==== Kinh 48.22. Mạng Căn (Jīvitindriyasuttaṃ)
 
 #super[1] "Này các thầy, có ba căn này. Thế nào là ba? Nữ căn, nam căn,
 mạng căn — này các thầy, đó là ba căn."
 
-==== Kinh 48.3. Tri Căn (Aññindriyasuttaṃ)
+==== Kinh 48.23. Tri Căn (Aññindriyasuttaṃ)
 
 #super[1] "Này các thầy, có ba căn này. Thế nào là ba? Căn 'sẽ biết
 điều chưa từng biết', tri căn, căn của người đã biết — này các thầy,
 đó là ba căn."
 
-==== Kinh 48.4. Nhất Chủng (Ekabījīsuttaṃ)
+==== Kinh 48.24. Nhất Chủng (Ekabījīsuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được đầy đủ, viên
@@ -5652,13 +5652,13 @@ hơn nữa thì thành bậc chỉ còn tái sanh giữa các gia tộc; kém h�
 thì thành bậc chỉ còn tối đa bảy lần tái sanh; kém hơn nữa thì thành
 người tùy pháp hành; kém hơn nữa thì thành người tùy tín hành."
 
-==== Kinh 48.5. Thanh Tịnh (Suddhakasuttaṃ)
+==== Kinh 48.25. Thanh Tịnh (Suddhakasuttaṃ)
 
 #super[1] "Này các thầy, có sáu căn này. Thế nào là sáu? Nhãn căn, nhĩ
 căn, tỷ căn, thiệt căn, thân căn, ý căn — này các thầy, đó là sáu
 căn."
 
-==== Kinh 48.6. Dự Lưu (Sotāpannasuttaṃ)
+==== Kinh 48.26. Dự Lưu (Sotāpannasuttaṃ)
 
 #super[1] "Này các thầy, có sáu căn này. Thế nào là sáu? Nhãn căn…
 ý căn. Này các thầy, khi vị Thánh đệ tử biết như thật sự tập khởi, sự
@@ -5666,7 +5666,7 @@ căn."
 Thánh đệ tử ấy được gọi là vị Dự lưu, không còn rơi vào đọa xứ, chắc
 chắn hướng đến giác ngộ."
 
-==== Kinh 48.7. A-la-hán (Arahantasuttaṃ)
+==== Kinh 48.27. A-la-hán (Arahantasuttaṃ)
 
 #super[1] "Này các thầy, có sáu căn này. Thế nào là sáu? Nhãn căn, nhĩ
 căn, tỷ căn, thiệt căn, thân căn, ý căn. Này các thầy, khi vị Tỷ-kheo,
@@ -5677,7 +5677,7 @@ trọn vẹn Phạm hạnh, đã làm xong việc cần làm, đã đặt xuốn
 đã đạt được mục đích, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh
 trí."
 
-==== Kinh 48.8. Chánh Đẳng Giác (Sambuddhasuttaṃ)
+==== Kinh 48.28. Chánh Đẳng Giác (Sambuddhasuttaṃ)
 
 #super[1] "Này các thầy, có sáu căn này. Thế nào là sáu? Nhãn căn, nhĩ
 căn, tỷ căn, thiệt căn, thân căn, ý căn. Này các thầy, chừng nào Ta
@@ -5693,7 +5693,7 @@ Ta tự xác nhận 'đã chứng đắc Vô Thượng Chánh Đẳng Giác'. V�
 đã sanh khởi trong Ta: 'Sự giải thoát của Ta không thể chuyển động,
 đây là đời sống cuối cùng, không còn tái sanh nữa.'"
 
-==== Kinh 48.9. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 48.29. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, có sáu căn này. Thế nào là sáu? Nhãn căn, nhĩ
 căn, tỷ căn, thiệt căn, thân căn, ý căn. Này các thầy, những Sa-môn hay
@@ -5709,7 +5709,7 @@ Sa-môn, là Bà-la-môn giữa các Bà-la-môn; và những Tôn giả ấy, n
 trong hiện tại, tự mình chứng ngộ và an trú mục đích của Sa-môn hạnh
 cùng mục đích của Phạm hạnh."
 
-==== Kinh 48.10. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 48.30. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, những Sa-môn hay Bà-la-môn nào không biết
 nhãn căn, không biết sự tập khởi của nhãn căn, không biết sự đoạn diệt
@@ -5742,12 +5742,12 @@ hai kinh Sa-môn Bà-la-môn.
 
 === Phẩm 4 (nguồn ghi 4). Lạc Căn (Sukhindriyavaggo)
 
-==== Kinh 48.1. Thanh Tịnh (Suddhikasuttaṃ)
+==== Kinh 48.31. Thanh Tịnh (Suddhikasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn — này các thầy, đó là năm căn."
 
-==== Kinh 48.2. Dự Lưu (Sotāpannasuttaṃ)
+==== Kinh 48.32. Dự Lưu (Sotāpannasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Này các thầy, khi vị Thánh đệ tử biết như
@@ -5755,7 +5755,7 @@ thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và 
 năm căn này, vị Thánh đệ tử ấy được gọi là vị Dự lưu, không còn rơi
 vào đọa xứ, chắc chắn hướng đến giác ngộ."
 
-==== Kinh 48.3. A-la-hán (Arahantasuttaṃ)
+==== Kinh 48.33. A-la-hán (Arahantasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Này các thầy, khi vị Tỷ-kheo, sau khi
@@ -5766,7 +5766,7 @@ vẹn Phạm hạnh, đã làm xong việc cần làm, đã đặt xuống gánh
 đạt được mục đích, đã đoạn tận kiết sử hữu, đã giải thoát nhờ chánh
 trí."
 
-==== Kinh 48.4. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 48.34. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Này các thầy, những Sa-môn hay Bà-la-môn
@@ -5782,7 +5782,7 @@ Bà-la-môn giữa các Bà-la-môn; và những Tôn giả ấy, ngay trong hi�
 tự mình chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của
 Phạm hạnh."
 
-==== Kinh 48.5. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 48.35. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Này các thầy, những Sa-môn hay Bà-la-môn
@@ -5804,7 +5804,7 @@ biết sự tập khởi của xả căn, biết sự đoạn diệt của xả 
 những Tôn giả ấy, ngay trong hiện tại, tự mình chứng ngộ và an trú mục
 đích của Sa-môn hạnh cùng mục đích của Phạm hạnh."
 
-==== Kinh 48.6. Phân Tích Thứ Nhất (Paṭhamavibhaṅgasuttaṃ)
+==== Kinh 48.36. Phân Tích Thứ Nhất (Paṭhamavibhaṅgasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Thế nào là lạc căn? Này các thầy, cái gì
@@ -5820,7 +5820,7 @@ là ưu căn. Thế nào là xả căn? Này các thầy, cái gì thuộc về 
 thuộc về tâm, không dễ chịu không khó chịu — đây gọi là xả căn. Này
 các thầy, đó là năm căn."
 
-==== Kinh 48.7. Phân Tích Thứ Hai (Dutiyavibhaṅgasuttaṃ)
+==== Kinh 48.37. Phân Tích Thứ Hai (Dutiyavibhaṅgasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Thế nào là lạc căn?… đây gọi là lạc căn.
@@ -5832,7 +5832,7 @@ gì là khổ căn và cái gì là ưu căn, cảm thọ đó cần được xe
 Này các thầy, trong đó, cái gì là xả căn, cảm thọ đó cần được xem là
 không khổ không lạc. Này các thầy, đó là năm căn."
 
-==== Kinh 48.8. Phân Tích Thứ Ba (Tatiyavibhaṅgasuttaṃ)
+==== Kinh 48.38. Phân Tích Thứ Ba (Tatiyavibhaṅgasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Thế nào là lạc căn?… đây gọi là lạc căn.
@@ -5845,7 +5845,7 @@ Này các thầy, trong đó, cái gì là xả căn, cảm thọ đó cần đ�
 không khổ không lạc. Như vậy, này các thầy, năm căn này, từ năm trở
 thành ba, từ ba trở lại thành năm, theo cách trình bày khác nhau."
 
-==== Kinh 48.9. Ví Như Que Gỗ (Kaṭṭhopamasuttaṃ)
+==== Kinh 48.39. Ví Như Que Gỗ (Kaṭṭhopamasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Lạc căn, khổ
 căn, hỷ căn, ưu căn, xả căn. Do duyên xúc đáng cảm nhận lạc mà lạc căn
@@ -5889,7 +5889,7 @@ diệt của chính xúc đáng cảm nhận xả ấy, vị ấy biết: 'Cảm
 đã sanh khởi do duyên xúc đáng cảm nhận xả ấy — là xả căn — cảm thọ
 đó diệt, cảm thọ đó lắng dịu.'"
 
-==== Kinh 48.10. Theo Thứ Tự Khác (Uppaṭipāṭikasuttaṃ)
+==== Kinh 48.40. Theo Thứ Tự Khác (Uppaṭipāṭikasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Khổ căn, ưu
 căn, lạc căn, hỷ căn, xả căn. Ở đây, này các thầy, khi Tỷ-kheo sống
@@ -5973,7 +5973,7 @@ thứ mười là theo thứ tự khác.
 
 === Phẩm 5 (nguồn ghi 5). Già (Jarāvaggo)
 
-==== Kinh 48.1. Già (Jarādhammasuttaṃ)
+==== Kinh 48.41. Già (Jarādhammasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), ở Đông
 Viên (Pubbārāma), trong lầu của Lộc Mẫu (Migāramātā). Lúc bấy giờ, vào buổi
@@ -6000,7 +6000,7 @@ cuối cùng vẫn hướng về cõi chết; \
 Không tránh khỏi một ai, \
 tất cả đều bị chà nát tan tành."
 
-==== Kinh 48.2. Bà-la-môn U-na-ba (Uṇṇābhabrāhmaṇasuttaṃ)
+==== Kinh 48.42. Bà-la-môn U-na-ba (Uṇṇābhabrāhmaṇasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, Bà-la-môn U-na-ba (Uṇṇābha) đi đến
 chỗ Thế Tôn; đến rồi, cùng Thế Tôn chào hỏi thân thiện. Sau khi chào
@@ -6041,7 +6041,7 @@ trên thế gian. Này các thầy, nếu vào lúc này Bà-la-môn Uṇṇābh
 qua đời, thì không có kiết sử nào mà do kiết sử ấy Bà-la-môn Uṇṇābha
 bị trói buộc để phải trở lại thế gian này."
 
-==== Kinh 48.3. Sa-kỳ (Sāketasuttaṃ)
+==== Kinh 48.43. Sa-kỳ (Sāketasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Sa-kỳ (Sāketa), trong
 rừng Anh-xa-na (Añjana), ở vườn Nai. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các
@@ -6091,7 +6091,7 @@ do đoạn tận các lậu hoặc, chứng đắc, an trú vô lậu tâm giả
 tuệ giải thoát, ngay trong đời này, tự mình chứng ngộ bằng thắng
 trí."
 
-==== Kinh 48.4. Ngôi nhà phía Đông (Pubbakoṭṭhakasuttaṃ)
+==== Kinh 48.44. Ngôi nhà phía Đông (Pubbakoṭṭhakasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), tại
 Ngôi nhà phía Đông (Pubbakoṭṭhaka). Tại đó, Thế Tôn gọi Tôn giả Xá-lợi-phất (Sāriputta): "Này Sāriputta,
@@ -6126,7 +6126,7 @@ hướng đến bất tử, kết thúc ở bất tử… cho đến tuệ căn 
 được làm cho sung mãn, thể nhập vào bất tử, hướng đến bất tử, kết
 thúc ở bất tử."
 
-==== Kinh 48.5. Đông Viên Thứ Nhất (Paṭhamapubbārāmasuttaṃ)
+==== Kinh 48.45. Đông Viên Thứ Nhất (Paṭhamapubbārāmasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), ở Đông
 Viên, trong lầu của Lộc Mẫu (Migāramātā). Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này
@@ -6144,7 +6144,7 @@ làm cho sung mãn một căn này mà vị Tỷ-kheo đã đoạn tận các l�
 tuyên bố chánh trí: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã
 làm, không còn trở lại trạng thái này nữa, tôi biết như vậy.'"
 
-==== Kinh 48.6. Đông Viên Thứ Hai (Dutiyapubbārāmasuttaṃ)
+==== Kinh 48.46. Đông Viên Thứ Hai (Dutiyapubbārāmasuttaṃ)
 
 #super[1] Cũng nhân duyên ấy. "Này các thầy, do sự tu tập, làm cho sung
 mãn bao nhiêu căn mà vị Tỷ-kheo đã đoạn tận các lậu hoặc tự tuyên bố
@@ -6159,7 +6159,7 @@ làm cho sung mãn hai căn này mà vị Tỷ-kheo đã đoạn tận các lậ
 tự tuyên bố chánh trí: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm
 đã làm, không còn trở lại trạng thái này nữa, tôi biết như vậy.'"
 
-==== Kinh 48.7. Đông Viên Thứ Ba (Tatiyapubbārāmasuttaṃ)
+==== Kinh 48.47. Đông Viên Thứ Ba (Tatiyapubbārāmasuttaṃ)
 
 #super[1] Cũng nhân duyên ấy. "Này các thầy, do sự tu tập, làm cho sung
 mãn bao nhiêu căn mà vị Tỷ-kheo đã đoạn tận các lậu hoặc tự tuyên bố
@@ -6173,7 +6173,7 @@ lậu hoặc tự tuyên bố chánh trí: 'Sanh đã tận, Phạm hạnh đã 
 cần làm đã làm, không còn trở lại trạng thái này nữa, tôi biết như
 vậy.'"
 
-==== Kinh 48.8. Đông Viên Thứ Tư (Catutthapubbārāmasuttaṃ)
+==== Kinh 48.48. Đông Viên Thứ Tư (Catutthapubbārāmasuttaṃ)
 
 #super[1] Cũng nhân duyên ấy. "Này các thầy, do sự tu tập, làm cho sung
 mãn bao nhiêu căn mà vị Tỷ-kheo đã đoạn tận các lậu hoặc tự tuyên bố
@@ -6187,7 +6187,7 @@ chính do sự tu tập, làm cho sung mãn năm căn này mà vị Tỷ-kheo đ
 đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa,
 tôi biết như vậy.'"
 
-==== Kinh 48.9. Tân-đầu-lô-phả-la-đọa (Piṇḍolabhāradvājasuttaṃ)
+==== Kinh 48.49. Tân-đầu-lô-phả-la-đọa (Piṇḍolabhāradvājasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Kiều-thưởng-di (Kosambi), trong
 vườn Cù-sư-la (Ghosita). Lúc bấy giờ, Tôn giả Tân-đầu-lô-phả-la-đọa (Piṇḍolabhāradvāja) đã tuyên bố chánh
@@ -6210,7 +6210,7 @@ căn ấy có chỗ kết thúc là gì? Có chỗ kết thúc là sự đoạn 
 bố chánh trí: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại trạng thái này nữa, tôi biết như vậy.'"
 
-==== Kinh 48.10. A-ba-na (Āpaṇasuttaṃ)
+==== Kinh 48.50. A-ba-na (Āpaṇasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú giữa dân chúng Ương-già (Aṅga),
 tại thị trấn của dân Aṅga tên là A-ba-na (Āpaṇa). Tại đó, Thế Tôn gọi Tôn giả
@@ -6274,7 +6274,7 @@ Piṇḍola cùng với Āpaṇa.
 
 === Phẩm 6 (nguồn ghi 6). Hang Heo Rừng (Sūkarakhatavaggo)
 
-==== Kinh 48.1. Cây Sa-la (Sālasuttaṃ)
+==== Kinh 48.51. Cây Sa-la (Sālasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú giữa dân chúng
 Câu-tát-la (Kosala), tại làng Bà-la-môn tên là Sa-la (Sālā). Tại đó, Thế Tôn gọi các
@@ -6293,7 +6293,7 @@ sự nhanh nhẹn và sự dũng cảm; cũng vậy, này các thầy, trong cá
 trợ đạo, tuệ căn được xem là tối thắng trong chúng, hướng đến giác
 ngộ."
 
-==== Kinh 48.2. Ma-li-ca (Mallikasuttaṃ)
+==== Kinh 48.52. Ma-li-ca (Mallikasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú giữa dân chúng
 Mạt- la (Malla), tại thị trấn của dân Malla tên là U-lu-vê-la-ca-ba (Uruvelakappa). Tại đó, Thế
@@ -6316,7 +6316,7 @@ Bốn căn nào? Tín căn, tinh tấn căn, niệm căn, định căn. Này cá
 tinh tấn tùy thuận theo đó mà an trú, niệm tùy thuận theo đó mà an
 trú, định tùy thuận theo đó mà an trú."
 
-==== Kinh 48.3. Người Hữu Học (Sekhasuttaṃ)
+==== Kinh 48.53. Người Hữu Học (Sekhasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Kiều-thưởng-di (Kosambi), trong
 vườn Cù-sư-la (Ghosita). Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, có
@@ -6368,7 +6368,7 @@ sẽ không sanh khởi lại ở bất cứ đâu, bất cứ như thế nào.'
 một phương thức trình bày mà nhờ đó, vị Tỷ-kheo vô học, đang đứng ở
 địa vị vô học, biết rằng: 'Ta là người vô học.'"
 
-==== Kinh 48.4. Dấu Chân (Padasuttaṃ)
+==== Kinh 48.54. Dấu Chân (Padasuttaṃ)
 
 #super[1] "Này các thầy, ví như bất cứ dấu chân nào của các loài thú
 sống trong rừng, tất cả đều gồm trong dấu chân voi, và dấu chân voi
@@ -6386,7 +6386,7 @@ nhất trong các dấu chân ấy, vì kích thước to lớn của nó; cũng
 này các thầy, bất cứ dấu chân nào đưa đến giác ngộ, tuệ căn được xem
 là tối thắng trong chúng, hướng đến giác ngộ."
 
-==== Kinh 48.5. Hương Lõi Cây (Sārasuttaṃ)
+==== Kinh 48.55. Hương Lõi Cây (Sārasuttaṃ)
 
 #super[1] "Này các thầy, ví như trong các loại hương lõi cây, hương
 đàn đỏ được xem là tối thắng trong chúng; cũng vậy, này các thầy,
@@ -6399,7 +6399,7 @@ xem là tối thắng trong chúng; cũng vậy, này các thầy, trong các ph
 trợ đạo, tuệ căn được xem là tối thắng trong chúng, hướng đến giác
 ngộ."
 
-==== Kinh 48.6. An Trú Vững Vàng (Patiṭṭhitasuttaṃ)
+==== Kinh 48.56. An Trú Vững Vàng (Patiṭṭhitasuttaṃ)
 
 #super[1] "Này các thầy, khi Tỷ-kheo an trú vững vàng trong một pháp,
 năm căn của vị ấy được tu tập, được tu tập tốt đẹp. Một pháp nào?
@@ -6414,7 +6414,7 @@ căn cũng đi đến sự đầy đủ trong việc tu tập; tuệ căn cũng 
 vững vàng trong một pháp này, năm căn của vị ấy được tu tập, được tu
 tập tốt đẹp."
 
-==== Kinh 48.7. Phạm Thiên Sa-ham-ba-đi (Sahampatibrahmasuttaṃ)
+==== Kinh 48.57. Phạm Thiên Sa-ham-ba-đi (Sahampatibrahmasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Ưu lâu tần loa (Uruvelā), trên bờ sông Ni-liên-thiền (Nerañjarā),
 dưới cây Ajapālanigrodha, ngay sau khi mới giác ngộ. Bấy giờ, khi Thế
@@ -6452,7 +6452,7 @@ Sahampati.'" "Đúng vậy, bạch Thế Tôn, đúng vậy, Thiện Thệ! Con 
 cho sung mãn thì thể nhập vào bất tử, hướng đến bất tử, kết thúc ở
 bất tử."
 
-==== Kinh 48.8. Hang Heo Rừng (Sūkarakhatasuttaṃ)
+==== Kinh 48.58. Hang Heo Rừng (Sūkarakhatasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trên núi Linh Thứu (Gijjhakūṭa), ở
 Sūkarakhatā (hang Heo Rừng Đào). Tại đó, Thế Tôn gọi Tôn giả
@@ -6484,7 +6484,7 @@ thuận phục tối thượng ấy mà vị Tỷ-kheo đã đoạn tận lậu 
 đối với Như Lai hay đối với giáo pháp của Như Lai." "Lành thay, lành
 thay, Sāriputta! Đúng là như vậy, này Sāriputta."
 
-==== Kinh 48.9. Sự Sanh Khởi Thứ Nhất (Paṭhamauppādasuttaṃ)
+==== Kinh 48.59. Sự Sanh Khởi Thứ Nhất (Paṭhamauppādasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, năm căn này, được tu
 tập, được làm cho sung mãn, sanh khởi những gì trước đây chưa từng
@@ -6494,7 +6494,7 @@ tuệ căn — này các thầy, năm căn này, được tu tập, được là
 mãn, sanh khởi những gì trước đây chưa từng sanh khởi, chỉ trừ sự
 xuất hiện của một vị Như Lai, A-la-hán, Chánh Đẳng Giác."
 
-==== Kinh 48.10. Sự Sanh Khởi Thứ Hai (Dutiyauppādasuttaṃ)
+==== Kinh 48.60. Sự Sanh Khởi Thứ Hai (Dutiyauppādasuttaṃ)
 
 #super[1] "Này các thầy, năm căn này, được tu tập, được làm cho sung
 mãn, sanh khởi những gì trước đây chưa từng sanh khởi, chỉ trừ giới
@@ -6514,28 +6514,28 @@ hai kinh về sự sanh khởi.
 
 === Phẩm 7 (nguồn ghi 7). Pháp Trợ Đạo (Bodhipakkhiyavaggo)
 
-==== Kinh 48.1. Kiết Sử (Saṃyojanasuttaṃ)
+==== Kinh 48.61. Kiết Sử (Saṃyojanasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, năm căn này, được tu
 tập, được làm cho sung mãn, đưa đến sự đoạn trừ các kiết sử. Thế nào
 là năm? Tín căn… tuệ căn — này các thầy, năm căn này, được tu tập,
 được làm cho sung mãn, đưa đến sự đoạn trừ các kiết sử."
 
-==== Kinh 48.2. Tùy Miên (Anusayasuttaṃ)
+==== Kinh 48.62. Tùy Miên (Anusayasuttaṃ)
 
 #super[1] "Này các thầy, năm căn này, được tu tập, được làm cho sung
 mãn, đưa đến sự nhổ bật gốc các tùy miên. Thế nào là năm? Tín căn…
 tuệ căn — này các thầy, năm căn này, được tu tập, được làm cho sung
 mãn, đưa đến sự nhổ bật gốc các tùy miên."
 
-==== Kinh 48.3. Liễu Tri (Pariññāsuttaṃ)
+==== Kinh 48.63. Liễu Tri (Pariññāsuttaṃ)
 
 #super[1] "Này các thầy, năm căn này, được tu tập, được làm cho sung
 mãn, đưa đến sự liễu tri con đường dài. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, năm căn này, được tu tập, được làm cho sung mãn,
 đưa đến sự liễu tri con đường dài."
 
-==== Kinh 48.4. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
+==== Kinh 48.64. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
 
 #super[1] "Này các thầy, năm căn này, được tu tập, được làm cho sung
 mãn, đưa đến sự đoạn tận các lậu hoặc. Thế nào là năm? Tín căn… tuệ
@@ -6548,14 +6548,14 @@ này các thầy, năm căn này, được tu tập, được làm cho sung mãn
 đến sự đoạn trừ các kiết sử, đưa đến sự nhổ bật gốc các tùy miên, đưa
 đến sự liễu tri con đường dài, đưa đến sự đoạn tận các lậu hoặc."
 
-==== Kinh 48.5. Quả Thứ Nhất (Paṭhamaphalasuttaṃ)
+==== Kinh 48.65. Quả Thứ Nhất (Paṭhamaphalasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được tu tập, được
 làm cho sung mãn, một trong hai quả này có thể được mong đợi: chánh
 trí ngay trong đời này, hoặc nếu còn dư y, thì quả Bất lai."
 
-==== Kinh 48.6. Quả Thứ Hai (Dutiyaphalasuttaṃ)
+==== Kinh 48.66. Quả Thứ Hai (Dutiyaphalasuttaṃ)
 
 #super[1] "Này các thầy, có năm căn này. Thế nào là năm? Tín căn… tuệ
 căn — này các thầy, đó là năm căn. Do năm căn này được tu tập, được
@@ -6571,7 +6571,7 @@ ngược dòng đi đến cõi Vô Phiền. Này các thầy, do năm căn này 
 tập, được làm cho sung mãn, bảy quả, bảy lợi ích này có thể được mong
 đợi."
 
-==== Kinh 48.7. Cây Thứ Nhất (Paṭhamarukkhasuttaṃ)
+==== Kinh 48.67. Cây Thứ Nhất (Paṭhamarukkhasuttaṃ)
 
 #super[1] "Này các thầy, ví như trong các loại cây ở Jambudīpa (cõi
 Diêm-phù-đề), cây Jambu (cây Trâm) được xem là tối thắng trong chúng;
@@ -6584,7 +6584,7 @@ Jambudīpa, cây Jambu được xem là tối thắng trong chúng; cũng vậy,
 các thầy, trong các pháp trợ đạo, tuệ căn được xem là tối thắng trong
 chúng, hướng đến giác ngộ."
 
-==== Kinh 48.8. Cây Thứ Hai (Dutiyarukkhasuttaṃ)
+==== Kinh 48.68. Cây Thứ Hai (Dutiyarukkhasuttaṃ)
 
 #super[1] "Này các thầy, ví như trong các loại cây của chư thiên
 Tāvatiṃsa (Ba mươi ba cõi), cây cây san hô (Pāricchattaka) được xem là tối thắng
@@ -6597,7 +6597,7 @@ của chư thiên Tāvatiṃsa, cây Pāricchattaka được xem là tối thắ
 trong chúng; cũng vậy, này các thầy, trong các pháp trợ đạo, tuệ căn
 được xem là tối thắng trong chúng, hướng đến giác ngộ."
 
-==== Kinh 48.9. Cây Thứ Ba (Tatiyarukkhasuttaṃ)
+==== Kinh 48.69. Cây Thứ Ba (Tatiyarukkhasuttaṃ)
 
 #super[1] "Này các thầy, ví như trong các loại cây của loài A-tu-la,
 cây Cittapāṭali được xem là tối thắng trong chúng; cũng vậy, này các
@@ -6609,7 +6609,7 @@ như trong các loại cây của loài A-tu-la, cây Cittapāṭali được xe
 tối thắng trong chúng; cũng vậy, này các thầy, trong các pháp trợ
 đạo, tuệ căn được xem là tối thắng trong chúng, hướng đến giác ngộ."
 
-==== Kinh 48.10. Cây Thứ Tư (Catuttharukkhasuttaṃ)
+==== Kinh 48.70. Cây Thứ Tư (Catuttharukkhasuttaṃ)
 
 #super[1] "Này các thầy, ví như trong các loại cây của loài Kim-xí-điểu
 (Supaṇṇa), cây Kūṭasimbalī được xem là tối thắng trong chúng; cũng
@@ -6632,7 +6632,7 @@ Hai kinh về quả, bốn kinh về cây — \
 
 === Phẩm 8 (nguồn ghi 8). Trùng Tụng Về Sông Hằng (Gaṅgāpeyyālavaggo)
 
-#strong[Nhóm kinh 48.1–12 — Xuôi Về Niết-bàn (Pācīnādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 48.71–82 — Xuôi Về Niết-bàn (Pācīnādisuttadvādasakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Hằng (Gaṅgā) chảy về hướng đông, xuôi về
 hướng đông, đổ về hướng đông; cũng vậy, này các thầy, vị Tỷ-kheo tu
@@ -6688,7 +6688,7 @@ cảm thọ, ái và khát khao.
 
 === Phẩm 9 (nguồn ghi 12). Dòng Nước Lũ (Oghavaggo)
 
-#strong[Nhóm kinh 48.1–10 — Thượng Phần Kiết Sử (Oghādisuttadasakaṃ)]
+#strong[Nhóm kinh 48.83–92 — Thượng Phần Kiết Sử (Oghādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có năm thượng phần kiết sử này. Thế nào là
 năm? Sắc ái, vô sắc ái, mạn, trạo cử, vô minh — này các thầy, đó là
@@ -6716,7 +6716,7 @@ năm uẩn, và thượng phần kiết sử.
 
 === Phẩm 10 (nguồn ghi 13). Trùng Tụng Về Sông Hằng (Gaṅgāpeyyālavaggo)
 
-#strong[Nhóm kinh 48.1–12 — Chế Phục Tham Sân Si (Pācīnādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 48.93–104 — Chế Phục Tham Sân Si (Pācīnādisuttadvādasakaṃ)]
 
 #super[1] "Này các thầy, ví như sông Gaṅgā chảy về hướng đông, xuôi về
 hướng đông, đổ về hướng đông; cũng vậy, này các thầy, vị Tỷ-kheo tu
@@ -6745,7 +6745,7 @@ với cách kết thúc bằng sự chế phục tham, sân, si này.)
 
 === Phẩm 11 (nguồn ghi 17). Dòng Nước Lũ (Oghavaggo)
 
-#strong[Nhóm kinh 48.1–10 — Thượng Phần Kiết Sử (Oghādisuttadasakaṃ)]
+#strong[Nhóm kinh 48.105–114 — Thượng Phần Kiết Sử (Oghādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có năm thượng phần kiết sử này. Thế nào là
 năm? Sắc ái, vô sắc ái, mạn, trạo cử, vô minh — này các thầy, đó là
@@ -6827,7 +6827,7 @@ và tấm vải là điều thứ mười.
 
 === Phẩm 3 (nguồn ghi 3). Cần Có Sức Mạnh (Balakaraṇīyavaggo)
 
-#strong[Nhóm kinh 49.1–12 — Cần Có Sức Mạnh Và Các Pháp Khác (Balakaraṇīyādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 49.13–24 — Cần Có Sức Mạnh Và Các Pháp Khác (Balakaraṇīyādisuttadvādasakaṃ)]
 
 #super[1] "Ví như, này các thầy, những công việc cần sức mạnh nào được
 làm, tất cả đều phải dựa vào đất, an trú trên đất mới làm được các công
@@ -6855,7 +6855,7 @@ chiếc thuyền, người khách lạ, và dòng sông.
 
 === Phẩm 4 (nguồn ghi 4). Tìm Cầu (Esanāvaggo)
 
-#strong[Nhóm kinh 49.1–10 — Tìm Cầu Và Các Pháp Khác (Esanādisuttadasakaṃ)]
+#strong[Nhóm kinh 49.25–34 — Tìm Cầu Và Các Pháp Khác (Esanādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có ba sự tìm cầu này. Ba sự tìm cầu là gì? Tìm
 cầu dục, tìm cầu hữu, tìm cầu Phạm hạnh — này các thầy, đó là ba sự tìm
@@ -6880,7 +6880,7 @@ thọ, ái, và khát khao.
 
 === Phẩm 5 (nguồn ghi 5). Trói Buộc (Oghavaggo)
 
-#strong[Nhóm kinh 49.1–10 — Trói Buộc Và Các Pháp Khác (Oghādisuttadasakaṃ)]
+#strong[Nhóm kinh 49.35–44 — Trói Buộc Và Các Pháp Khác (Oghādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có năm kiết sử thuộc phần trên này. Năm kiết sử
 ấy là gì? Tham sắc, tham vô sắc, mạn, trạo cử, vô minh — này các thầy,
@@ -6962,7 +6962,7 @@ thọ, ái, và khát khao.
 
 === Phẩm 2 (nguồn ghi 2). Trói Buộc (Appamādavaggo)
 
-#strong[Nhóm kinh 50.1–10 — Trói Buộc Và Năm Lực (Oghādisuttadasakaṃ)]
+#strong[Nhóm kinh 50.13–22 — Trói Buộc Và Năm Lực (Oghādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có năm kiết sử thuộc phần trên này. Năm kiết sử
 ấy là gì? Tham sắc, tham vô sắc, mạn, trạo cử, vô minh — này các thầy,
@@ -6987,7 +6987,7 @@ và các uẩn thuộc phần trên.
 
 === Phẩm 3 (nguồn ghi 6). Sông Hằng (Gaṅgāpeyyālavaggo)
 
-#strong[Nhóm kinh 50.1–12 — Sông Hằng Và Năm Lực (Pācīnādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 50.23–34 — Sông Hằng Và Năm Lực (Pācīnādisuttadvādasakaṃ)]
 
 #super[1] "Ví như, này các thầy, sông Hằng chảy về hướng đông, nghiêng
 về hướng đông, hướng về hướng đông; cũng vậy, này các thầy, Tỷ-kheo tu
@@ -7013,7 +7013,7 @@ Hai phẩm Không Phóng Dật và Cần Có Sức Mạnh cần được khai tr
 
 === Phẩm 4 (nguồn ghi 9). Tìm Cầu (Esanāvaggo)
 
-#strong[Nhóm kinh 50.1–12 — Tìm Cầu Và Năm Lực (Esanādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 50.35–46 — Tìm Cầu Và Năm Lực (Esanādisuttadvādasakaṃ)]
 
 #super[1] Cứ như vậy, đoạn kinh về ba sự tìm cầu cần được khai triển đầy
 đủ, với phần kết là: có sự nhiếp phục tham làm chỗ chấm dứt, có sự nhiếp
@@ -7030,7 +7030,7 @@ thọ, ái, và khát khao.
 
 === Phẩm 5 (nguồn ghi 10). Trói Buộc (Oghavaggo)
 
-#strong[Nhóm kinh 50.1–10 — Trói Buộc Và Năm Lực (Oghādisuttadasakaṃ)]
+#strong[Nhóm kinh 50.47–56 — Trói Buộc Và Năm Lực (Oghādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có năm kiết sử thuộc phần trên này. Năm kiết sử
 ấy là gì? Tham sắc, tham vô sắc, mạn, trạo cử, vô minh — này các thầy,
@@ -7240,7 +7240,7 @@ Một phần, và thần thông toàn vẹn, Tỷ-kheo, \
 
 === Phẩm 2 (nguồn ghi 2). Chấn Động Lầu (Pāsādakampanavaggo)
 
-==== Kinh 51.1. Trước Đây (Pubbasuttaṃ)
+==== Kinh 51.11. Trước Đây (Pubbasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, trước khi Ta giác ngộ,
 khi chưa chứng Chánh Đẳng Giác, còn là Bồ-tát, Ta đã khởi lên ý nghĩ:
@@ -7321,7 +7321,7 @@ Này các thầy, khi bốn thần túc được tu tập, được làm cho sun
 vậy, do đoạn tận các lậu hoặc, Tỷ-kheo tự mình với thắng trí chứng ngộ
 ngay trong đời này tâm giải thoát, tuệ giải thoát, chứng đạt và an trú."
 
-==== Kinh 51.2. Quả Lớn (Mahapphalasuttaṃ)
+==== Kinh 51.12. Quả Lớn (Mahapphalasuttaṃ)
 
 #super[1] "Này các thầy, có bốn thần túc này, khi được tu tập, làm cho
 sung mãn, có quả lớn, có lợi ích lớn. Và này các thầy, bốn thần túc này,
@@ -7335,7 +7335,7 @@ cho sung mãn như vậy, Tỷ-kheo chứng đắc nhiều loại thần thông�
 tự mình với thắng trí chứng ngộ tâm giải thoát, tuệ giải thoát, chứng
 đạt và an trú."
 
-==== Kinh 51.3. Định Do Dục (Chandasamādhisuttaṃ)
+==== Kinh 51.13. Định Do Dục (Chandasamādhisuttaṃ)
 
 #super[1] "Này các thầy, nếu Tỷ-kheo nhờ dựa vào dục mà đạt được định,
 đạt được sự chuyên nhất của tâm, đó gọi là dục định. Vị ấy khởi ý muốn,
@@ -7361,7 +7361,7 @@ trưởng, viên mãn. Những điều này gọi là các hành tinh cần. Nh�
 này, quán định này, và các hành tinh cần này — đó gọi là thần túc câu
 hữu với quán định và các hành tinh cần."
 
-==== Kinh 51.4. Mục-kiền-liên (Moggallānasuttaṃ)
+==== Kinh 51.14. Mục-kiền-liên (Moggallānasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), ở Đông
 Viên (Pubbārāma), trong lầu của Lộc Mẫu (Migāramātā). Lúc bấy giờ, có nhiều Tỷ-kheo
@@ -7399,7 +7399,7 @@ bốn thần túc này mà Tỷ-kheo Moggallāna chứng đắc nhiều loại t
 cho đến tự mình với thắng trí chứng ngộ tâm giải thoát, tuệ giải thoát,
 chứng đạt và an trú."
 
-==== Kinh 51.5. Bà-la-môn U-na-ba (Uṇṇābhabrāhmaṇasuttaṃ)
+==== Kinh 51.15. Bà-la-môn U-na-ba (Uṇṇābhabrāhmaṇasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Tôn giả A-nan (Ānanda) trú tại Kiều-thưởng-di (Kosambi),
 trong khu vườn Cù-sư-la (Ghosita). Bà-la-môn U-na-ba (Uṇṇābha) đi đến chỗ Tôn giả Ānanda; đến
@@ -7441,7 +7441,7 @@ cách. Con xin quy y Tôn giả Gotama, quy y Pháp và Tăng chúng Tỷ-kheo.
 Xin Tôn giả Ānanda nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin
 quy y."
 
-==== Kinh 51.6. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 51.16. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, những Sa-môn hay Bà-la-môn nào, trong thời quá
 khứ, tương lai hay hiện tại, đã, sẽ, hoặc đang có đại thần lực, đại uy
@@ -7453,7 +7453,7 @@ quá khứ, tương lai hay hiện tại, đã, sẽ, hoặc đang có đại th
 uy đức, tất cả các vị ấy đều nhờ đã tu tập, đã làm cho sung mãn chính bốn
 thần túc này."
 
-==== Kinh 51.7. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 51.17. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, những Sa-môn hay Bà-la-môn nào, trong thời quá
 khứ, tương lai hay hiện tại, đã, sẽ, hoặc đang chứng đắc nhiều loại thần
@@ -7465,7 +7465,7 @@ quán định và các hành tinh cần. Những Sa-môn hay Bà-la-môn nào, t
 thời quá khứ, tương lai hay hiện tại, đều nhờ đã tu tập, đã làm cho sung
 mãn chính bốn thần túc này mà chứng đắc nhiều loại thần thông như vậy."
 
-==== Kinh 51.8. Tỷ-kheo (Bhikkhusuttaṃ)
+==== Kinh 51.18. Tỷ-kheo (Bhikkhusuttaṃ)
 
 #super[1] "Này các thầy, do tu tập, làm cho sung mãn bốn thần túc mà
 Tỷ-kheo, do đoạn tận các lậu hoặc, tự mình với thắng trí chứng ngộ ngay
@@ -7476,7 +7476,7 @@ các hành tinh cần. Do tu tập, làm cho sung mãn bốn thần túc này m�
 Tỷ-kheo, do đoạn tận các lậu hoặc, tự mình với thắng trí chứng ngộ ngay
 trong đời này tâm giải thoát, tuệ giải thoát, chứng đạt và an trú."
 
-==== Kinh 51.9. Thuyết Giảng Về Thần Thông (Iddhādidesanāsuttaṃ)
+==== Kinh 51.19. Thuyết Giảng Về Thần Thông (Iddhādidesanāsuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về thần thông, về thần
 túc, về sự tu tập thần túc, và về con đường đưa đến sự tu tập thần túc.
@@ -7493,7 +7493,7 @@ các thầy, con đường đưa đến sự tu tập thần túc là gì? Chín
 mạng, chánh tinh tấn, chánh niệm, chánh định — này các thầy, đó gọi là
 con đường đưa đến sự tu tập thần túc."
 
-==== Kinh 51.10. Bài Phân Tích (Vibhaṅgasuttaṃ)
+==== Kinh 51.20. Bài Phân Tích (Vibhaṅgasuttaṃ)
 
 #super[1] "Này các thầy, có bốn thần túc này, khi được tu tập, làm cho
 sung mãn, có quả lớn, có lợi ích lớn. Và này các thầy, thế nào là bốn
@@ -7569,7 +7569,7 @@ thuyết giảng, và bài phân tích.
 
 === Phẩm 3 (nguồn ghi 3). Cục Sắt (Ayoguḷavaggo)
 
-==== Kinh 51.1. Con Đường (Maggasuttaṃ)
+==== Kinh 51.21. Con Đường (Maggasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, trước khi Ta giác ngộ,
 khi chưa chứng Chánh Đẳng Giác, còn là Bồ-tát, Ta đã khởi lên ý nghĩ:
@@ -7586,7 +7586,7 @@ như vậy, Tỷ-kheo chứng đắc nhiều loại thần thông… cho đến 
 thắng trí chứng ngộ tâm giải thoát, tuệ giải thoát, chứng đạt và an
 trú." (Sáu thắng trí cũng cần được khai triển đầy đủ theo cách như trên.)
 
-==== Kinh 51.2. Cục Sắt (Ayoguḷasuttaṃ)
+==== Kinh 51.22. Cục Sắt (Ayoguḷasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn;
 đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Tôn giả Ānanda bạch Thế
@@ -7617,7 +7617,7 @@ không mấy khó khăn bay lên khỏi đất vào không gian; cũng vậy, n�
 Ānanda, vào lúc ấy, thân của Như Lai không mấy khó khăn đã bay lên khỏi
 đất vào không gian, chứng đắc nhiều loại thần thông như vậy."
 
-==== Kinh 51.3. Tỷ-kheo (Bhikkhusuttaṃ)
+==== Kinh 51.23. Tỷ-kheo (Bhikkhusuttaṃ)
 
 #super[1] "Này các thầy, có bốn thần túc này. Bốn thần túc là gì? Ở đây,
 này các thầy, Tỷ-kheo tu tập thần túc câu hữu với dục định… tấn định…
@@ -7627,14 +7627,14 @@ túc này mà Tỷ-kheo, do đoạn tận các lậu hoặc, tự mình với th
 chứng ngộ ngay trong đời này tâm giải thoát, tuệ giải thoát, chứng đạt
 và an trú."
 
-==== Kinh 51.4. Đơn Giản (Suddhikasuttaṃ)
+==== Kinh 51.24. Đơn Giản (Suddhikasuttaṃ)
 
 #super[1] "Này các thầy, có bốn thần túc này. Bốn thần túc là gì? Ở đây,
 này các thầy, Tỷ-kheo tu tập thần túc câu hữu với dục định… tấn định…
 tâm định… tu tập thần túc câu hữu với quán định và các hành tinh cần —
 này các thầy, đó là bốn thần túc."
 
-==== Kinh 51.5. Quả Thứ Nhất (Paṭhamaphalasuttaṃ)
+==== Kinh 51.25. Quả Thứ Nhất (Paṭhamaphalasuttaṃ)
 
 #super[1] "Này các thầy, có bốn thần túc này. Bốn thần túc là gì? Ở đây,
 này các thầy, Tỷ-kheo tu tập thần túc câu hữu với dục định… tấn định…
@@ -7643,7 +7643,7 @@ này các thầy, đó là bốn thần túc. Do tu tập, làm cho sung mãn b�
 túc này, Tỷ-kheo có thể mong đợi một trong hai quả: chứng trí ngay
 trong đời này, hoặc nếu còn dư y, chứng quả Bất lai."
 
-==== Kinh 51.6. Quả Thứ Hai (Dutiyaphalasuttaṃ)
+==== Kinh 51.26. Quả Thứ Hai (Dutiyaphalasuttaṃ)
 
 #super[1] "Này các thầy, có bốn thần túc này. Bốn thần túc là gì? Ở đây,
 này các thầy, Tỷ-kheo tu tập thần túc câu hữu với dục định… tấn định…
@@ -7659,7 +7659,7 @@ bàn, Hữu hành Bát-niết-bàn, hoặc Thượng lưu, hướng đến cõi 
 thiên. Này các thầy, do tu tập, làm cho sung mãn bốn thần túc này, đó là
 bảy quả, bảy lợi ích có thể mong đợi."
 
-==== Kinh 51.7. A-nan Thứ Nhất (Paṭhamaānandasuttaṃ)
+==== Kinh 51.27. A-nan Thứ Nhất (Paṭhamaānandasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn;
 đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Tôn giả Ānanda bạch Thế
@@ -7676,7 +7676,7 @@ thần túc. Này Ānanda, con đường đưa đến sự tu tập thần túc 
 là Bát Thánh đạo này, tức là chánh kiến… chánh định — này Ānanda, đó gọi
 là con đường đưa đến sự tu tập thần túc."
 
-==== Kinh 51.8. A-nan Thứ Hai (Dutiyaānandasuttaṃ)
+==== Kinh 51.28. A-nan Thứ Hai (Dutiyaānandasuttaṃ)
 
 #super[1] Ngồi một bên, Thế Tôn nói với Tôn giả A-nan (Ānanda): "Này Ānanda,
 thần thông là gì, thần túc là gì, sự tu tập thần túc là gì, con đường
@@ -7694,7 +7694,7 @@ này Ānanda, Tỷ-kheo tu tập thần túc câu hữu với dục định… t
 tu tập thần túc là gì? Chính là Bát Thánh đạo này — này Ānanda, đó gọi
 là con đường đưa đến sự tu tập thần túc."
 
-==== Kinh 51.9. Tỷ-kheo Thứ Nhất (Paṭhamabhikkhusuttaṃ)
+==== Kinh 51.29. Tỷ-kheo Thứ Nhất (Paṭhamabhikkhusuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Có nhiều Tỷ-kheo đi đến chỗ Thế Tôn;
 đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Các Tỷ-kheo ấy bạch Thế
@@ -7711,7 +7711,7 @@ gọi là sự tu tập thần túc. Này các thầy, con đường đưa đế
 thần túc là gì? Chính là Bát Thánh đạo này, tức là chánh kiến… chánh
 định — này các thầy, đó gọi là con đường đưa đến sự tu tập thần túc."
 
-==== Kinh 51.10. Tỷ-kheo Thứ Hai (Dutiyabhikkhusuttaṃ)
+==== Kinh 51.30. Tỷ-kheo Thứ Hai (Dutiyabhikkhusuttaṃ)
 
 #super[1] Có nhiều Tỷ-kheo đi đến chỗ Thế Tôn... Thế Tôn nói với các
 Tỷ-kheo ấy đang ngồi một bên: "Này các thầy, thần thông là gì, thần túc
@@ -7728,7 +7728,7 @@ gọi là sự tu tập thần túc. Này các thầy, con đường đưa đế
 thần túc là gì? Chính là Bát Thánh đạo này — này các thầy, đó gọi là con
 đường đưa đến sự tu tập thần túc."
 
-==== Kinh 51.11. Mục-kiền-liên (Moggallānasuttaṃ)
+==== Kinh 51.31. Mục-kiền-liên (Moggallānasuttaṃ)
 
 #super[1] Thế Tôn gọi các Tỷ-kheo: "Các thầy nghĩ thế nào, này các thầy,
 do tu tập, làm cho sung mãn những pháp nào mà Tỷ-kheo Mục-kiền-liên (Moggallāna) có đại
@@ -7745,7 +7745,7 @@ cho sung mãn bốn thần túc này mà Tỷ-kheo Moggallāna chứng đắc nh
 thần thông… cho đến tự mình với thắng trí chứng ngộ tâm giải thoát, tuệ
 giải thoát, chứng đạt và an trú."
 
-==== Kinh 51.12. Như Lai (Tathāgatasuttaṃ)
+==== Kinh 51.32. Như Lai (Tathāgatasuttaṃ)
 
 #super[1] Thế Tôn gọi các Tỷ-kheo: "Các thầy nghĩ thế nào, này các thầy,
 do tu tập, làm cho sung mãn những pháp nào mà Như Lai có đại thần lực,
@@ -7773,7 +7773,7 @@ Mục-kiền-liên (Moggallāna), và Như Lai.
 
 === Phẩm 4 (nguồn ghi 4). Sông Hằng (Gaṅgāpeyyālavaggo)
 
-#strong[Nhóm kinh 51.1–12 — Sông Hằng Và Bốn Thần Túc (Gaṅgānadīādisuttadvādasakaṃ)]
+#strong[Nhóm kinh 51.33–44 — Sông Hằng Và Bốn Thần Túc (Gaṅgānadīādisuttadvādasakaṃ)]
 
 #super[1] "Ví như, này các thầy, sông Hằng chảy về hướng đông, nghiêng
 về hướng đông, hướng về hướng đông; cũng vậy, này các thầy, Tỷ-kheo tu
@@ -7822,7 +7822,7 @@ thọ, ái, và khát khao.
 
 === Phẩm 5 (nguồn ghi 8). Trói Buộc (Oghavaggo)
 
-#strong[Nhóm kinh 51.1–10 — Trói Buộc Và Bốn Thần Túc (Oghādisuttadasakaṃ)]
+#strong[Nhóm kinh 51.45–54 — Trói Buộc Và Bốn Thần Túc (Oghādisuttadasakaṃ)]
 
 #super[1] "Này các thầy, có năm kiết sử thuộc phần trên này. Năm kiết sử
 ấy là gì? Tham sắc, tham vô sắc, mạn, trạo cử, vô minh — này các thầy,
@@ -8091,7 +8091,7 @@ Rừng Am-bà-bà-ly (Ambapāli) và kinh Trọng Bệnh.
 
 === Phẩm 2 (nguồn ghi 2). Thứ Hai (Dutiyavaggo)
 
-==== Kinh 52.1. Một Ngàn Kiếp (Kappasahassasuttaṃ)
+==== Kinh 52.11. Một Ngàn Kiếp (Kappasahassasuttaṃ)
 
 #super[1] Một thời, Tôn giả A-na-luật-đà (Anuruddha) trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà
 (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Bấy giờ, nhiều
@@ -8107,81 +8107,81 @@ tham ưu ở đời — nhờ tu tập, làm cho sung mãn bốn niệm xứ nà
 đạt được đại thắng trí. Và này các hiền giả, nhờ tu tập, làm cho sung
 mãn bốn niệm xứ này, tôi nhớ lại một ngàn kiếp."
 
-==== Kinh 52.2. Thần Thông (Iddhividhasuttaṃ)
+==== Kinh 52.12. Thần Thông (Iddhividhasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi thọ hưởng nhiều loại thần thông: một thân hiện ra nhiều
 thân… cho đến có thể lấy thân này bay đến cõi Phạm thiên."
 
-==== Kinh 52.3. Thiên Nhĩ (Dibbasotasuttaṃ)
+==== Kinh 52.13. Thiên Nhĩ (Dibbasotasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, với thiên nhãn thanh tịnh vượt hẳn nhĩ căn loài người, tôi
 nghe được cả hai loại âm thanh, chư thiên và loài người, xa cũng như
 gần."
 
-==== Kinh 52.4. Tha Tâm Thông (Cetopariyasuttaṃ)
+==== Kinh 52.14. Tha Tâm Thông (Cetopariyasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết được tâm của các chúng sanh khác, các người khác bằng
 tâm của mình — tâm có tham biết là tâm có tham… cho đến tâm chưa giải
 thoát biết là tâm chưa giải thoát."
 
-==== Kinh 52.5. Điều Có Thể Xảy Ra (Ṭhānasuttaṃ)
+==== Kinh 52.15. Điều Có Thể Xảy Ra (Ṭhānasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết như thật điều có thể xảy ra là có thể xảy ra, và điều
 không thể xảy ra là không thể xảy ra."
 
-==== Kinh 52.6. Nghiệp (Kammasamādānasuttaṃ)
+==== Kinh 52.16. Nghiệp (Kammasamādānasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết như thật quả báo của các nghiệp đã tạo trong quá khứ,
 tương lai, hiện tại, theo sở nhân, theo sở duyên."
 
-==== Kinh 52.7. Con Đường Đến Tất Cả Cảnh Giới (Sabbatthagāminisuttaṃ)
+==== Kinh 52.17. Con Đường Đến Tất Cả Cảnh Giới (Sabbatthagāminisuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết như thật con đường đưa đến tất cả các cảnh giới."
 
-==== Kinh 52.8. Các Giới Sai Khác (Nānādhātusuttaṃ)
+==== Kinh 52.18. Các Giới Sai Khác (Nānādhātusuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết như thật thế giới với nhiều chủng loại giới khác
 nhau."
 
-==== Kinh 52.9. Thắng Giải Sai Khác (Nānādhimuttisuttaṃ)
+==== Kinh 52.19. Thắng Giải Sai Khác (Nānādhimuttisuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết như thật những thắng giải sai khác của các loài chúng
 sanh."
 
-==== Kinh 52.10. Các Căn (Indriyaparopariyattasuttaṃ)
+==== Kinh 52.20. Các Căn (Indriyaparopariyattasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết như thật khả năng cao thấp của các căn của những
 chúng sanh khác, những người khác."
 
-==== Kinh 52.11. Các Thiền (Jhānādisuttaṃ)
+==== Kinh 52.21. Các Thiền (Jhānādisuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi biết như thật sự uế nhiễm, sự thanh tịnh, sự xuất khởi của
 các thiền, các sự giải thoát, các định và các chứng đắc."
 
-==== Kinh 52.12. Túc Mạng (Pubbenivāsasuttaṃ)
+==== Kinh 52.22. Túc Mạng (Pubbenivāsasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, tôi nhớ lại nhiều kiếp sống về trước, như một đời, hai đời…
 cùng với các nét đại cương và chi tiết."
 
-==== Kinh 52.13. Thiên Nhãn (Dibbacakkhusuttaṃ)
+==== Kinh 52.23. Thiên Nhãn (Dibbacakkhusuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, với thiên nhãn thanh tịnh vượt hẳn nhãn căn loài người, tôi
 thấy các chúng sanh lúc chết đi, lúc sanh lại… và biết được các chúng
 sanh đi theo nghiệp của mình như thế nào."
 
-==== Kinh 52.14. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
+==== Kinh 52.24. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
 
 #super[1] "Và này các hiền giả, nhờ tu tập, làm cho sung mãn bốn niệm
 xứ này, do đoạn tận các lậu hoặc, tôi chứng ngộ, chứng đạt và an trú
@@ -8267,7 +8267,7 @@ cảm thọ, ái và khát ái.
 
 === Phẩm 2. Dòng Nước Cuốn Trôi
 
-#strong[Nhóm kinh 53.1–10 — Dòng Nước Cuốn Trôi Và Chín Đề Mục Khác (Oghādisuttaṃ)]
+#strong[Nhóm kinh 53.13–22 — Dòng Nước Cuốn Trôi Và Chín Đề Mục Khác (Oghādisuttaṃ)]
 
 #super[1] "Này các thầy, có năm kiết sử thuộc phần trên này. Năm kiết sử
 nào? Sắc tham, vô sắc tham, mạn, trạo cử, vô minh — này các thầy, đó là
@@ -8646,7 +8646,7 @@ Tỳ-xá-ly (Vesāli) và Kimila.
 
 === Phẩm 2 (nguồn ghi 2). Thứ Hai (Dutiyavaggo)
 
-==== Kinh 54.1. Ic-ha-nang-ga-la (Icchānaṅgalasuttaṃ)
+==== Kinh 54.11. Ic-ha-nang-ga-la (Icchānaṅgalasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Ic-ha-nang-ga-la (Icchānaṅgala), trong khu rừng
 Icchānaṅgala. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, Ta muốn
@@ -8686,7 +8686,7 @@ gọi đó là sự an trú của bậc Thánh, cũng có thể gọi là sự a
 Phạm thiên, cũng có thể gọi là sự an trú của Như Lai — chính là định
 niệm hơi thở vào hơi thở ra."
 
-==== Kinh 54.2. Cang-khê-da (Kaṅkheyyasuttaṃ)
+==== Kinh 54.12. Cang-khê-da (Kaṅkheyyasuttaṃ)
 
 #super[1] Một thời, Tôn giả Lô-ma-sa-kangiya (Lomasakaṅgiya) trú giữa dòng họ Thích-ca (Sakka), tại
 Ca-tỳ-la-vệ (Kapilavatthu), trong khu vườn Ni-câu-luật Thọ Viên (Nigrodha). Bấy giờ, Sakka Ma-ha-nam (Mahānāma) đi đến
@@ -8734,7 +8734,7 @@ Lomasakaṅgiya kết luận: "Này hiền giả Mahānāma, cũng chính bằng
 này cần hiểu rằng sự an trú của bậc hữu học là một, sự an trú của Như
 Lai là một khác."
 
-==== Kinh 54.3. A-nan Thứ Nhất (Paṭhamaānandasuttaṃ)
+==== Kinh 54.13. A-nan Thứ Nhất (Paṭhamaānandasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Rồi Tôn giả A-nan (Ānanda) đi đến chỗ Thế
 Tôn; sau khi đến, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi xuống
@@ -8807,7 +8807,7 @@ vào ly tham, y cứ vào đoạn diệt, hướng đến buông bỏ. Này Āna
 giác chi được tu tập như vậy, được làm cho sung mãn như vậy, làm cho
 đầy đủ minh và giải thoát."
 
-==== Kinh 54.4. A-nan Thứ Hai (Dutiyaānandasuttaṃ)
+==== Kinh 54.14. A-nan Thứ Hai (Dutiyaānandasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Lần này, chính Thế Tôn hỏi Tôn giả
 A-nan (Ānanda) câu hỏi trên — "Có một pháp nào, được tu tập, được làm cho sung
@@ -8819,7 +8819,7 @@ nội dung hoàn toàn giống như đã nói ở kinh trước: định niệm 
 làm đầy đủ bốn niệm xứ, bốn niệm xứ làm đầy đủ bảy giác chi, bảy giác
 chi làm đầy đủ minh và giải thoát.
 
-==== Kinh 54.5. Các Tỷ-kheo Thứ Nhất (Paṭhamabhikkhusuttaṃ)
+==== Kinh 54.15. Các Tỷ-kheo Thứ Nhất (Paṭhamabhikkhusuttaṃ)
 
 #super[1] Bấy giờ, nhiều Tỷ-kheo đi đến chỗ Thế Tôn; sau khi đến, đảnh
 lễ Thế Tôn và ngồi xuống một bên. Ngồi xuống một bên, các Tỷ-kheo ấy
@@ -8828,7 +8828,7 @@ Tỷ-kheo với nội dung hoàn toàn giống như hai kinh trước: định n
 thở làm đầy đủ bốn niệm xứ, bốn niệm xứ làm đầy đủ bảy giác chi, bảy
 giác chi làm đầy đủ minh và giải thoát.
 
-==== Kinh 54.6. Các Tỷ-kheo Thứ Hai (Dutiyabhikkhusuttaṃ)
+==== Kinh 54.16. Các Tỷ-kheo Thứ Hai (Dutiyabhikkhusuttaṃ)
 
 #super[1] Nhân duyên như trên, nhưng lần này chính Thế Tôn chủ động
 hỏi các Tỷ-kheo câu hỏi ấy; các Tỷ-kheo thưa: "Các pháp đều lấy Thế Tôn
@@ -8840,23 +8840,23 @@ quên lãng, cho đến xả giác chi khởi phát khi tâm định tĩnh đư�
 nhìn với tâm buông xả), và cách bảy giác chi làm đầy đủ minh và giải
 thoát.
 
-==== Kinh 54.7. Đoạn Tận Kiết Sử (Saṃyojanappahānasuttaṃ)
+==== Kinh 54.17. Đoạn Tận Kiết Sử (Saṃyojanappahānasuttaṃ)
 
 #super[1] "Này các thầy, định niệm hơi thở vào hơi thở ra, được tu
 tập, được làm cho sung mãn, đưa đến đoạn tận các kiết sử." (Được giảng
 rộng tương tự như trên.)
 
-==== Kinh 54.8. Nhổ Tận Gốc Tùy Miên (Anusayasamugghātasuttaṃ)
+==== Kinh 54.18. Nhổ Tận Gốc Tùy Miên (Anusayasamugghātasuttaṃ)
 
 #super[1] "…đưa đến nhổ tận gốc các tùy miên." (Được giảng rộng tương
 tự như trên.)
 
-==== Kinh 54.9. Liễu Tri Đường Dài (Addhānapariññāsuttaṃ)
+==== Kinh 54.19. Liễu Tri Đường Dài (Addhānapariññāsuttaṃ)
 
 #super[1] "…đưa đến sự liễu tri về đường dài [sanh tử]." (Được giảng
 rộng tương tự như trên.)
 
-==== Kinh 54.10. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
+==== Kinh 54.20. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
 
 #super[1] "…đưa đến đoạn tận các lậu hoặc. Này các thầy, định niệm
 hơi thở vào hơi thở ra được tu tập như thế nào, được làm cho sung mãn
@@ -9254,7 +9254,7 @@ Và ba kinh Nhà Gạch.
 
 === Phẩm 2 (nguồn ghi 2). Tinh Xá Của Vua (Rājakārāmavaggo)
 
-==== Kinh 55.1. Ngàn Tỷ-kheo-ni (Sahassabhikkhunisaṅghasuttaṃ)
+==== Kinh 55.11. Ngàn Tỷ-kheo-ni (Sahassabhikkhunisaṅghasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong Rājakārāma (Tinh xá
 của vua). Bấy giờ, một ngàn Tỷ-kheo-ni đi đến chỗ Thế Tôn; sau khi
@@ -9267,7 +9267,7 @@ pháp nào? Này các Tỷ-kheo-ni, ở đây vị Thánh đệ tử có lòng t
 đệ tử đầy đủ bốn pháp này là vị Dự lưu, không còn thối đọa, chắc chắn
 hướng đến giác ngộ."
 
-==== Kinh 55.2. Bà-la-môn (Brāhmaṇasuttaṃ)
+==== Kinh 55.12. Bà-la-môn (Brāhmaṇasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, các Bà-la-môn tuyên
 bố một con đường gọi là 'con đường đưa lên cao.' Họ khuyên đệ tử như
@@ -9290,7 +9290,7 @@ hạnh được các bậc Thánh yêu mến. Này các thầy, đây chính là
 đưa lên cao ấy, đưa đến nhàm chán hoàn toàn, ly tham, đoạn diệt, an
 tịnh, thắng trí, giác ngộ, Niết-bàn."
 
-==== Kinh 55.3. Trưởng Lão A-nan (Ānandattherasuttaṃ)
+==== Kinh 55.13. Trưởng Lão A-nan (Ānandattherasuttaṃ)
 
 #super[1] Một thời, Tôn giả A-nan (Ānanda) và Tôn giả Xá-lợi-phất (Sāriputta) trú tại
 Xá-vệ (Sāvatthi), trong rừng Kỳ-đà, khu vườn Cấp Cô Độc. Tôn giả Sāriputta,
@@ -9321,7 +9321,7 @@ tử của Thế Tôn là những vị hành trì tốt đẹp… ruộng phư�
 mà một số người được Thế Tôn tuyên bố là Dự lưu, không còn thối đọa,
 chắc chắn hướng đến giác ngộ."
 
-==== Kinh 55.4. Sợ Hãi Cõi Dữ (Duggatibhayasuttaṃ)
+==== Kinh 55.14. Sợ Hãi Cõi Dữ (Duggatibhayasuttaṃ)
 
 #super[1] "Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp đã vượt qua
 mọi sự sợ hãi về các cõi dữ. Bốn pháp nào? Này các thầy, ở đây vị
@@ -9330,14 +9330,14 @@ pháp… đối với chúng Tăng… và đầy đủ giới hạnh được c�
 mến. Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp này đã vượt qua mọi
 sự sợ hãi về các cõi dữ."
 
-==== Kinh 55.5. Sợ Hãi Cõi Dữ Và Đọa Xứ (Duggativinipātabhayasuttaṃ)
+==== Kinh 55.15. Sợ Hãi Cõi Dữ Và Đọa Xứ (Duggativinipātabhayasuttaṃ)
 
 #super[1] "Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp đã vượt qua
 mọi sự sợ hãi về các cõi dữ, ác thú, đọa xứ. Bốn pháp nào? … (như
 kinh trên) … Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp này đã vượt
 qua mọi sự sợ hãi về các cõi dữ, ác thú, đọa xứ."
 
-==== Kinh 55.6. Bạn Bè Đồng Sự Thứ Nhất (Paṭhamamittāmaccasuttaṃ)
+==== Kinh 55.16. Bạn Bè Đồng Sự Thứ Nhất (Paṭhamamittāmaccasuttaṃ)
 
 #super[1] "Này các thầy, những ai các thầy thương xót, những ai các
 thầy nghĩ nên nghe lời mình — bạn bè, đồng sự, thân thích hay bà con
@@ -9351,7 +9351,7 @@ thầy, những ai các thầy thương xót, những ai các thầy nghĩ nên 
 lời mình, các thầy nên khuyến khích, hướng dẫn, an lập họ vào bốn chi
 phần Dự lưu này."
 
-==== Kinh 55.7. Bạn Bè Đồng Sự Thứ Hai (Dutiyamittāmaccasuttaṃ)
+==== Kinh 55.17. Bạn Bè Đồng Sự Thứ Hai (Dutiyamittāmaccasuttaṃ)
 
 #super[1] "Này các thầy, những ai các thầy thương xót, những ai các
 thầy nghĩ nên nghe lời mình — bạn bè, đồng sự, thân thích hay bà con
@@ -9373,7 +9373,7 @@ vào địa ngục, hay bàng sanh, hay ngạ quỷ giới — điều ấy khô
 ra. Này các thầy, những ai các thầy thương xót… các thầy nên khuyến
 khích, hướng dẫn, an lập họ vào bốn chi phần Dự lưu này."
 
-==== Kinh 55.8. Du Hành Đến Cõi Trời Thứ Nhất (Paṭhamadevacārikasuttaṃ)
+==== Kinh 55.18. Du Hành Đến Cõi Trời Thứ Nhất (Paṭhamadevacārikasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, Tôn giả Mục Kiền Liên (Mahāmoggallāna) —
 ví như một người lực lưỡng duỗi cánh tay đang co lại, hay co cánh tay
@@ -9398,14 +9398,14 @@ với chúng Tăng… và có giới hạnh được các bậc Thánh yêu mế
 có giới hạnh ấy mà một số chúng sanh, sau khi thân hoại mạng chung,
 sanh vào cõi lành, cõi trời."
 
-==== Kinh 55.9. Du Hành Đến Cõi Trời Thứ Hai (Dutiyadevacārikasuttaṃ)
+==== Kinh 55.19. Du Hành Đến Cõi Trời Thứ Hai (Dutiyadevacārikasuttaṃ)
 
 #super[1] Nhân duyên và nội dung như kinh trước, chỉ khác cách diễn
 đạt: các vị chư thiên nói rằng chính do lòng tin bất động và giới
 hạnh ấy mà một số chúng sanh "đã được sanh" (thời quá khứ) vào cõi
 lành, cõi trời, và Tôn giả Mục Kiền Liên (Mahāmoggallāna) xác nhận lại đúng như vậy.
 
-==== Kinh 55.10. Du Hành Đến Cõi Trời Thứ Ba (Tatiyadevacārikasuttaṃ)
+==== Kinh 55.20. Du Hành Đến Cõi Trời Thứ Ba (Tatiyadevacārikasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Lần này, chính Thế Tôn — ví như một
 người lực lưỡng duỗi cánh tay đang co lại, hay co cánh tay đang duỗi
@@ -9437,7 +9437,7 @@ Và ba kinh Du Hành Đến Cõi Trời.
 
 === Phẩm 3 (nguồn ghi 3). Quy Y (Saraṇānivaggo)
 
-==== Kinh 55.1. Ma-ha-nam Thứ Nhất (Paṭhamamahānāmasuttaṃ)
+==== Kinh 55.21. Ma-ha-nam Thứ Nhất (Paṭhamamahānāmasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú giữa dòng họ Thích-ca (Sakya),
 tại Ca-tỳ-la-vệ (Kapilavatthu), trong khu vườn Ni-câu-luật Thọ Viên (Nigrodha). Bấy giờ, Thích-ca (Sakka) Ma-ha-nam (Mahānāma) đi
@@ -9475,7 +9475,7 @@ lên cao, đi đến chỗ thù thắng. Này Mahānāma, tâm của ông đã l
 không phải là cái chết xấu ác, sự qua đời của ông sẽ không phải là sự
 qua đời xấu ác."
 
-==== Kinh 55.2. Ma-ha-nam Thứ Hai (Dutiyamahānāmasuttaṃ)
+==== Kinh 55.22. Ma-ha-nam Thứ Hai (Dutiyamahānāmasuttaṃ)
 
 #super[1] (Cùng nhân duyên và câu hỏi như kinh trước.) "Đừng sợ, này
 Ma-ha-nam (Mahānāma), đừng sợ, này Mahānāma! Cái chết của ông sẽ không phải là
@@ -9490,7 +9490,7 @@ nghiêng, cong, ngả." "Cũng vậy, này Mahānāma, vị Thánh đệ tử đ
 bốn pháp này thì tâm hướng về Niết-bàn, xuôi về Niết-bàn, đổ về
 Niết-bàn."
 
-==== Kinh 55.3. Đế Thích Gô-đa (Godhasakkasuttaṃ)
+==== Kinh 55.23. Đế Thích Gô-đa (Godhasakkasuttaṃ)
 
 #super[1] Nhân duyên tại Ca-tỳ-la-vệ (Kapilavatthu). Thích-ca (Sakka) Ma-ha-nam (Mahānāma) đi đến chỗ Sakka
 Godha; sau khi đến, hỏi Sakka Godha: "Này Godha, ông biết một người
@@ -9513,7 +9513,7 @@ vậy, ông đang nói gì với Mahānāma?" "Bạch Thế Tôn, khi nói như 
 con không có ý phản đối Mahānāma điều gì, ngoài những gì tốt đẹp,
 ngoài những gì thiện lành."
 
-==== Kinh 55.4. Quy Y Thứ Nhất (Paṭhamasaraṇānisakkasuttaṃ)
+==== Kinh 55.24. Quy Y Thứ Nhất (Paṭhamasaraṇānisakkasuttaṃ)
 
 #super[1] Nhân duyên tại Ca-tỳ-la-vệ (Kapilavatthu). Bấy giờ, Thích-ca (Sakka) Saraṇāni qua
 đời. Thế Tôn tuyên bố về người ấy: "Là vị Dự lưu, không còn thối đọa,
@@ -9565,7 +9565,7 @@ còn thối đọa, chắc chắn hướng đến giác ngộ — huống chi l�
 Saraṇāni! Này Mahānāma, Saraṇāni đã đảm nhận việc học tập vào lúc lâm
 chung."
 
-==== Kinh 55.5. Quy Y Thứ Hai (Dutiyasaraṇānisakkasuttaṃ)
+==== Kinh 55.25. Quy Y Thứ Hai (Dutiyasaraṇānisakkasuttaṃ)
 
 #super[1] (Cùng nhân duyên và lời phàn nàn như kinh trước, chỉ khác:
 người ta chê rằng Saraṇāni "chưa hoàn tất việc học tập.") Thế Tôn
@@ -9590,7 +9590,7 @@ sống trong giáo pháp ấy — Ta gọi đó là hạt giống tốt. Huống
 Thích-ca (Sakka) Saraṇāni! Này Mahānāma, Saraṇāni đã hoàn tất việc học tập vào
 lúc lâm chung."
 
-==== Kinh 55.6. Cấp Cô Độc Thứ Nhất (Paṭhamaanāthapiṇḍikasuttaṃ)
+==== Kinh 55.26. Cấp Cô Độc Thứ Nhất (Paṭhamaanāthapiṇḍikasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, gia chủ Cấp Cô Độc
 (Anāthapiṇḍika) đang bị bệnh, khổ đau, mắc trọng bệnh. Ông cho người
@@ -9629,7 +9629,7 @@ Rồi Tôn giả Sāriputta từ chỗ ngồi đứng dậy, ra đi. Tôn giả 
 là người có trí, có đại tuệ, vì đã có thể phân tích bốn chi phần Dự
 lưu theo mười phương diện."
 
-==== Kinh 55.7. Cấp Cô Độc Thứ Hai (Dutiyaanāthapiṇḍikasuttaṃ)
+==== Kinh 55.27. Cấp Cô Độc Thứ Hai (Dutiyaanāthapiṇḍikasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Lần này, khi gia chủ Cấp Cô Độc
 bị bệnh, Tôn giả A-nan (Ānanda) đến thăm. Tôn giả Ānanda giảng: "Này gia chủ,
@@ -9648,7 +9648,7 @@ gia, con không thấy mình có sự vi phạm nào." "Thật lợi ích cho ô
 này gia chủ, thật khéo lợi ích cho ông! Ông đã tự tuyên bố quả Dự
 lưu."
 
-==== Kinh 55.8. Sợ Hãi Oán Thù Thứ Nhất (Paṭhamabhayaverūpasantasuttaṃ)
+==== Kinh 55.28. Sợ Hãi Oán Thù Thứ Nhất (Paṭhamabhayaverūpasantasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Thế Tôn nói với gia chủ Cấp Cô
 Độc đang ngồi một bên: "Này gia chủ, khi vị Thánh đệ tử đã làm lắng
@@ -9688,7 +9688,7 @@ phương pháp của bậc Thánh này bằng trí tuệ — vị ấy có thể
 muốn, tự mình tuyên bố về chính mình: 'Ta đã đoạn tận địa ngục… ta là
 vị Dự lưu, không còn thối đọa, chắc chắn hướng đến giác ngộ.'"
 
-==== Kinh 55.9. Sợ Hãi Oán Thù Thứ Hai (Dutiyabhayaverūpasantasuttaṃ)
+==== Kinh 55.29. Sợ Hãi Oán Thù Thứ Hai (Dutiyabhayaverūpasantasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). (Cùng nội dung như kinh trước, chỉ
 khác: Thế Tôn giảng cho các Tỷ-kheo, không phải cho gia chủ Cấp Cô
@@ -9698,7 +9698,7 @@ phương pháp của bậc Thánh bằng trí tuệ — vị ấy có thể, n�
 tự mình tuyên bố về chính mình: 'Ta đã đoạn tận địa ngục… ta là vị
 Dự lưu, không còn thối đọa, chắc chắn hướng đến giác ngộ.'"
 
-==== Kinh 55.10. Người Ly-trà-tỳ Nan-đa-ca (Nandakalicchavisuttaṃ)
+==== Kinh 55.30. Người Ly-trà-tỳ Nan-đa-ca (Nandakalicchavisuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Tỳ-xá-ly (Vesāli), trong Đại Lâm, tại giảng
 đường có nóc nhọn. Bấy giờ, đại thần Nandaka của dòng Ly- xa tử (Licchavi) đi đến
@@ -9730,7 +9730,7 @@ Do đó phẩm này được gọi tên như vậy.
 
 === Phẩm 4 (nguồn ghi 4). Dòng Suối Phước Đức (Puññābhisandavaggo)
 
-==== Kinh 55.1. Dòng Suối Phước Đức Thứ Nhất (Paṭhamapuññābhisandasuttaṃ)
+==== Kinh 55.31. Dòng Suối Phước Đức Thứ Nhất (Paṭhamapuññābhisandasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn dòng suối
 phước đức này, dòng suối thiện này, nguồn thức ăn của an lạc. Bốn
@@ -9743,7 +9743,7 @@ bất động đối với chúng Tăng — đây là dòng thứ ba. Và đầy
 dòng thứ tư. Này các thầy, đó là bốn dòng suối phước đức, dòng suối
 thiện, nguồn thức ăn của an lạc."
 
-==== Kinh 55.2. Dòng Suối Phước Đức Thứ Hai (Dutiyapuññābhisandasuttaṃ)
+==== Kinh 55.32. Dòng Suối Phước Đức Thứ Hai (Dutiyapuññābhisandasuttaṃ)
 
 #super[1] "Này các thầy, có bốn dòng suối phước đức này… (ba dòng đầu
 giống như trên: lòng tin bất động đối với Đức Phật, Chánh pháp, chúng
@@ -9753,7 +9753,7 @@ bỏ, sẵn lòng khi được yêu cầu, vui thích trong sự chia sẻ của
 đây là dòng thứ tư. Này các thầy, đó là bốn dòng suối phước đức, dòng
 suối thiện, nguồn thức ăn của an lạc."
 
-==== Kinh 55.3. Dòng Suối Phước Đức Thứ Ba (Tatiyapuññābhisandasuttaṃ)
+==== Kinh 55.33. Dòng Suối Phước Đức Thứ Ba (Tatiyapuññābhisandasuttaṃ)
 
 #super[1] "Này các thầy, có bốn dòng suối phước đức này… (ba dòng đầu
 như trên) … Lại nữa, này các thầy, vị Thánh đệ tử có trí tuệ, đầy đủ
@@ -9762,7 +9762,7 @@ trí tuệ về sự sanh diệt, trí tuệ của bậc Thánh, có khả năng
 Này các thầy, đó là bốn dòng suối phước đức, dòng suối thiện, nguồn
 thức ăn của an lạc."
 
-==== Kinh 55.4. Dấu Chân Chư Thiên Thứ Nhất (Paṭhamadevapadasuttaṃ)
+==== Kinh 55.34. Dấu Chân Chư Thiên Thứ Nhất (Paṭhamadevapadasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn dấu chân của
 chư thiên này, đưa đến sự thanh tịnh cho những chúng sanh chưa được
@@ -9773,7 +9773,7 @@ thiên. Có lòng tin bất động đối với Chánh pháp… đối với ch
 và đầy đủ giới hạnh được các bậc Thánh yêu mến — đây là dấu chân thứ
 tư. Này các thầy, đó là bốn dấu chân của chư thiên."
 
-==== Kinh 55.5. Dấu Chân Chư Thiên Thứ Hai (Dutiyadevapadasuttaṃ)
+==== Kinh 55.35. Dấu Chân Chư Thiên Thứ Hai (Dutiyadevapadasuttaṃ)
 
 #super[1] "Này các thầy, có bốn dấu chân của chư thiên này… Này các
 thầy, ở đây vị Thánh đệ tử có lòng tin bất động đối với Đức Phật, vị
@@ -9786,7 +9786,7 @@ Chánh pháp, đối với chúng Tăng, và đối với giới hạnh được
 Thánh yêu mến — mỗi lần vị ấy đều suy xét và biết rõ như trên. Đây là
 dấu chân thứ tư. Này các thầy, đó là bốn dấu chân của chư thiên."
 
-==== Kinh 55.6. Lời Đồng Thanh Của Chư Thiên (Devasabhāgasuttaṃ)
+==== Kinh 55.36. Lời Đồng Thanh Của Chư Thiên (Devasabhāgasuttaṃ)
 
 #super[1] "Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp thì chư thiên
 hoan hỷ nói lời đồng thanh với vị ấy. Bốn pháp nào? Này các thầy, ở
@@ -9800,7 +9800,7 @@ tin bất động đối với Chánh pháp, đối với chúng Tăng, và đ�
 hạnh được các bậc Thánh yêu mến. Này các thầy, vị Thánh đệ tử đầy đủ
 bốn pháp này thì chư thiên hoan hỷ nói lời đồng thanh với vị ấy."
 
-==== Kinh 55.7. Ma-ha-nam (Mahānāmasuttaṃ)
+==== Kinh 55.37. Ma-ha-nam (Mahānāmasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dòng họ Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu),
 trong khu vườn Ni-câu-luật Thọ Viên (Nigrodha). Thích-ca (Sakka) Ma-ha-nam (Mahānāma) đi đến chỗ Thế Tôn, hỏi: "Bạch
@@ -9822,7 +9822,7 @@ Mahānāma, khi một cư sĩ có trí tuệ, đầy đủ trí tuệ về sự 
 trí tuệ của bậc Thánh, có khả năng thấu suốt, đưa đến đoạn tận khổ
 đau một cách chân chánh — đến mức đó, cư sĩ ấy đầy đủ trí tuệ."
 
-==== Kinh 55.8. Ví Dụ Mưa (Vassasuttaṃ)
+==== Kinh 55.38. Ví Dụ Mưa (Vassasuttaṃ)
 
 #super[1] "Này các thầy, ví như trên núi cao, khi mưa lớn đổ xuống,
 nước ấy chảy theo triền dốc, làm đầy các khe núi, hang núi, các rạch
@@ -9835,7 +9835,7 @@ với Chánh pháp, lòng tin bất động đối với chúng Tăng, và giớ
 được các bậc Thánh yêu mến của vị Thánh đệ tử — các pháp này chảy
 tràn, đi đến bờ kia, đưa đến đoạn tận các lậu hoặc."
 
-==== Kinh 55.9. Ca-li-gô-đa (Kāḷigodhasuttaṃ)
+==== Kinh 55.39. Ca-li-gô-đa (Kāḷigodhasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dòng họ Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu),
 trong khu vườn Ni-câu-luật Thọ Viên (Nigrodha). Thế Tôn, vào buổi sáng, đắp y, cầm y bát, đi
@@ -9858,7 +9858,7 @@ không phân biệt với những người có giới hạnh, có thiện pháp.
 lợi ích cho con, này Godhā, thật khéo lợi ích cho con! Con đã tự
 tuyên bố quả Dự lưu."
 
-==== Kinh 55.10. Đế Thích Nan-đi-da (Nandiyasakkasuttaṃ)
+==== Kinh 55.40. Đế Thích Nan-đi-da (Nandiyasakkasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dòng họ Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu),
 trong khu vườn Ni-câu-luật Thọ Viên (Nigrodha). Thích-ca (Sakka) Nan-đề (Nandiya) đi đến chỗ Thế Tôn, hỏi: "Bạch
@@ -9905,7 +9905,7 @@ Lời Đồng Thanh, Ma-ha-nam (Mahānāma), kinh Mưa, Gô-đa (Godhā) và Nan
 
 === Phẩm 5 (nguồn ghi 5). Dòng Suối Phước Đức Có Kệ (Sagāthakapuññābhisandavaggo)
 
-==== Kinh 55.1. Dòng Suối Phước Đức Thứ Nhất (Paṭhamaabhisandasuttaṃ)
+==== Kinh 55.41. Dòng Suối Phước Đức Thứ Nhất (Paṭhamaabhisandasuttaṃ)
 
 #super[1] "Này các thầy, có bốn dòng suối phước đức này, dòng suối
 thiện này, nguồn thức ăn của an lạc. Bốn dòng nào? Này các thầy, ở
@@ -9936,7 +9936,7 @@ người cho chỗ nằm, chỗ trải nệm, \
 Các dòng phước đức tuôn chảy về người có trí, \
 như các dòng sông đổ nước về biển cả."
 
-==== Kinh 55.2. Dòng Suối Phước Đức Thứ Hai (Dutiyaabhisandasuttaṃ)
+==== Kinh 55.42. Dòng Suối Phước Đức Thứ Hai (Dutiyaabhisandasuttaṃ)
 
 #super[1] "Này các thầy, có bốn dòng suối phước đức này… (ba dòng đầu
 như trên: lòng tin bất động đối với Đức Phật, Chánh pháp, chúng
@@ -9952,7 +9952,7 @@ chung với nhau, không dễ gì tính đếm số lượng nước ở đó…
 thể gọi đó là một khối nước lớn, không thể tính đếm, không thể đo
 lường. Cũng vậy…" (kệ kết thúc giống như kinh trước).
 
-==== Kinh 55.3. Dòng Suối Phước Đức Thứ Ba (Tatiyaabhisandasuttaṃ)
+==== Kinh 55.43. Dòng Suối Phước Đức Thứ Ba (Tatiyaabhisandasuttaṃ)
 
 #super[1] "Này các thầy, có bốn dòng suối phước đức này… (ba dòng đầu
 như trên) … Lại nữa, vị Thánh đệ tử có trí tuệ, đầy đủ trí tuệ về sự
@@ -9966,7 +9966,7 @@ tu tập con đường để đạt đến chỗ bất tử; \
 Người ấy đạt được cốt lõi của Chánh pháp, ưa thích sự đoạn tận, \
 không còn run sợ khi tử thần đến gần."
 
-==== Kinh 55.4. Tài Sản Lớn Thứ Nhất (Paṭhamamahaddhanasuttaṃ)
+==== Kinh 55.44. Tài Sản Lớn Thứ Nhất (Paṭhamamahaddhanasuttaṃ)
 
 #super[1] "Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp được gọi là
 'giàu có, có tài sản lớn, có của cải lớn.' Bốn pháp nào? Này các
@@ -9975,7 +9975,7 @@ thầy, ở đây vị Thánh đệ tử có lòng tin bất động đối vớ
 bậc Thánh yêu mến. Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp này
 được gọi là 'giàu có, có tài sản lớn, có của cải lớn.'"
 
-==== Kinh 55.5. Tài Sản Lớn Thứ Hai (Dutiyamahaddhanasuttaṃ)
+==== Kinh 55.45. Tài Sản Lớn Thứ Hai (Dutiyamahaddhanasuttaṃ)
 
 #super[1] "Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp được gọi là
 'giàu có, có tài sản lớn, có của cải lớn, có danh tiếng lớn.' Bốn
@@ -9983,7 +9983,7 @@ pháp nào? … (như kinh trên) … Này các thầy, vị Thánh đệ tử �
 pháp này được gọi là 'giàu có, có tài sản lớn, có của cải lớn, có
 danh tiếng lớn.'"
 
-==== Kinh 55.6. Kinh Đơn Thuần (Suddhakasuttaṃ)
+==== Kinh 55.46. Kinh Đơn Thuần (Suddhakasuttaṃ)
 
 #super[1] "Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp là vị Dự lưu,
 không còn thối đọa, chắc chắn hướng đến giác ngộ. Bốn pháp nào? Này
@@ -9993,7 +9993,7 @@ Phật… đối với Chánh pháp… đối với chúng Tăng… và đầy �
 pháp này là vị Dự lưu, không còn thối đọa, chắc chắn hướng đến giác
 ngộ."
 
-==== Kinh 55.7. Đế Thích Nan-đi-da (Nandiyasuttaṃ)
+==== Kinh 55.47. Đế Thích Nan-đi-da (Nandiyasuttaṃ)
 
 #super[1] Nhân duyên tại Ca-tỳ-la-vệ (Kapilavatthu). Thế Tôn nói với Thích-ca (Sakka) Nan-đề (Nandiya)
 đang ngồi một bên: "Này Nandiya, vị Thánh đệ tử đầy đủ bốn pháp là vị
@@ -10001,21 +10001,21 @@ Dự lưu, không còn thối đọa, chắc chắn hướng đến giác ngộ.
 nào? … (như trên) … Này Nandiya, vị Thánh đệ tử đầy đủ bốn pháp này
 là vị Dự lưu, không còn thối đọa, chắc chắn hướng đến giác ngộ."
 
-==== Kinh 55.8. Đế Thích Ba-đi-da (Bhaddiyasuttaṃ)
+==== Kinh 55.48. Đế Thích Ba-đi-da (Bhaddiyasuttaṃ)
 
 #super[1] Nhân duyên tại Ca-tỳ-la-vệ (Kapilavatthu). Thế Tôn nói với Thích-ca (Sakka) Ba-đi-da (Bhaddiya)
 đang ngồi một bên nội dung tương tự như kinh trước, chỉ khác tên
 người được gọi: "Này Bhaddiya, vị Thánh đệ tử đầy đủ bốn pháp này là
 vị Dự lưu, không còn thối đọa, chắc chắn hướng đến giác ngộ."
 
-==== Kinh 55.9. Đế Thích Ma-ha-nam (Mahānāmasuttaṃ)
+==== Kinh 55.49. Đế Thích Ma-ha-nam (Mahānāmasuttaṃ)
 
 #super[1] Nhân duyên tại Ca-tỳ-la-vệ (Kapilavatthu). Thế Tôn nói với Thích-ca (Sakka) Ma-ha-nam (Mahānāma)
 đang ngồi một bên nội dung tương tự, chỉ khác tên người được gọi:
 "Này Mahānāma, vị Thánh đệ tử đầy đủ bốn pháp này là vị Dự lưu, không
 còn thối đọa, chắc chắn hướng đến giác ngộ."
 
-==== Kinh 55.10. Chi Phần (Aṅgasuttaṃ)
+==== Kinh 55.50. Chi Phần (Aṅgasuttaṃ)
 
 #super[1] "Này các thầy, có bốn chi phần Dự lưu này. Bốn chi phần
 nào? Sự thân cận với các bậc chân nhân, sự lắng nghe Chánh pháp, sự
@@ -10032,7 +10032,7 @@ Ma-ha-nam (Mahānāma) và kinh Chi Phần — thành mười kinh.
 
 === Phẩm 6 (nguồn ghi 6). Có Trí Tuệ (Sappaññavaggo)
 
-==== Kinh 55.1. Kinh Có Kệ (Sagāthakasuttaṃ)
+==== Kinh 55.51. Kinh Có Kệ (Sagāthakasuttaṃ)
 
 #super[1] "Này các thầy, vị Thánh đệ tử đầy đủ bốn pháp là vị Dự lưu,
 không còn thối đọa, chắc chắn hướng đến giác ngộ. Bốn pháp nào? Này
@@ -10053,7 +10053,7 @@ hãy chuyên tâm vào lòng tin, giới hạnh, \
 tịnh tín và chánh kiến về Pháp, \
 hãy nhớ lời dạy của các đức Phật."
 
-==== Kinh 55.2. An Cư Mùa Mưa (Vassaṃvutthasuttaṃ)
+==== Kinh 55.52. An Cư Mùa Mưa (Vassaṃvutthasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà, khu
 vườn Cấp Cô Độc. Bấy giờ, một Tỷ-kheo đã an cư mùa mưa tại Sāvatthi,
@@ -10081,7 +10081,7 @@ các thầy, số Tỷ-kheo là những vị Nhất lai — số ấy chỉ là 
 số Tỷ-kheo do đoạn tận ba kiết sử, là những vị Dự lưu, không còn thối
 đọa, chắc chắn hướng đến giác ngộ — số ấy nhiều hơn.'"
 
-==== Kinh 55.3. Cư Sĩ Đa-ma-đi-na (Dhammadinnasuttaṃ)
+==== Kinh 55.53. Cư Sĩ Đa-ma-đi-na (Dhammadinnasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Ba-la-nại (Bārāṇasi), ở Trú xứ chư Tiên (Isipatana), trong
 Vườn Nai. Cư sĩ Dhammadinna cùng với năm trăm cư sĩ đi đến chỗ Thế
@@ -10110,7 +10110,7 @@ mình phù hợp với các pháp ấy. Bạch Thế Tôn, chúng con có lòng 
 ông, này Dhammadinna, thật khéo lợi ích cho các ông! Các ông đã tự
 tuyên bố quả Dự lưu."
 
-==== Kinh 55.4. Người Bệnh (Gilānasuttaṃ)
+==== Kinh 55.54. Người Bệnh (Gilānasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dòng họ Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu),
 trong khu vườn Ni-câu-luật Thọ Viên (Nigrodha). Bấy giờ, nhiều Tỷ-kheo đang may y cho Thế
@@ -10152,7 +10152,7 @@ thân' — này Mahānāma, Ta nói rằng vị cư sĩ có tâm giải thoát n
 không có gì khác biệt với vị Tỷ-kheo có tâm giải thoát, nghĩa là cùng
 là giải thoát với giải thoát."
 
-==== Kinh 55.5. Quả Dự Lưu (Sotāpattiphalasuttaṃ)
+==== Kinh 55.55. Quả Dự Lưu (Sotāpattiphalasuttaṃ)
 
 #super[1] "Này các thầy, có bốn pháp này, được tu tập, được làm cho
 sung mãn, đưa đến sự chứng ngộ quả Dự lưu. Bốn pháp nào? Sự thân cận
@@ -10160,33 +10160,33 @@ với các bậc chân nhân, sự lắng nghe Chánh pháp, sự như lý tác 
 thực hành đúng theo Pháp. Này các thầy, đó là bốn pháp, được tu tập,
 được làm cho sung mãn, đưa đến sự chứng ngộ quả Dự lưu."
 
-==== Kinh 55.6. Quả Nhất Lai (Sakadāgāmiphalasuttaṃ)
+==== Kinh 55.56. Quả Nhất Lai (Sakadāgāmiphalasuttaṃ)
 
 #super[1] "Này các thầy, có bốn pháp này, được tu tập, được làm cho
 sung mãn, đưa đến sự chứng ngộ quả Nhất lai." (Cùng bốn pháp như trên,
 giảng rộng tương tự.)
 
-==== Kinh 55.7. Quả Bất Lai (Anāgāmiphalasuttaṃ)
+==== Kinh 55.57. Quả Bất Lai (Anāgāmiphalasuttaṃ)
 
 #super[1] "…đưa đến sự chứng ngộ quả Bất lai." (Cùng bốn pháp như
 trên, giảng rộng tương tự.)
 
-==== Kinh 55.8. Quả A-la-hán (Arahattaphalasuttaṃ)
+==== Kinh 55.58. Quả A-la-hán (Arahattaphalasuttaṃ)
 
 #super[1] "…đưa đến sự chứng ngộ quả A-la-hán." (Cùng bốn pháp như
 trên, giảng rộng tương tự.)
 
-==== Kinh 55.9. Đạt Được Trí Tuệ (Paññāpaṭilābhasuttaṃ)
+==== Kinh 55.59. Đạt Được Trí Tuệ (Paññāpaṭilābhasuttaṃ)
 
 #super[1] "…đưa đến sự đạt được trí tuệ." (Cùng bốn pháp như trên,
 giảng rộng tương tự.)
 
-==== Kinh 55.10. Tăng Trưởng Trí Tuệ (Paññāvuddhisuttaṃ)
+==== Kinh 55.60. Tăng Trưởng Trí Tuệ (Paññāvuddhisuttaṃ)
 
 #super[1] "…đưa đến sự tăng trưởng trí tuệ." (Cùng bốn pháp như trên,
 giảng rộng tương tự.)
 
-==== Kinh 55.11. Sung Mãn Trí Tuệ (Paññāvepullasuttaṃ)
+==== Kinh 55.61. Sung Mãn Trí Tuệ (Paññāvepullasuttaṃ)
 
 #super[1] "…đưa đến sự sung mãn trí tuệ. Này các thầy, có bốn pháp
 này, được tu tập, được làm cho sung mãn, đưa đến sự sung mãn trí tuệ.
@@ -10206,7 +10206,7 @@ Sự tăng trưởng và sự sung mãn của trí tuệ.
 
 === Phẩm 7 (nguồn ghi 7). Trí Tuệ Lớn (Mahāpaññavaggo)
 
-==== Kinh 55.1. Trí Tuệ Lớn (Mahāpaññāsuttaṃ)
+==== Kinh 55.62. Trí Tuệ Lớn (Mahāpaññāsuttaṃ)
 
 #super[1] "Này các thầy, có bốn pháp này, được tu tập, được làm cho
 sung mãn, đưa đến trí tuệ lớn. Bốn pháp nào? Sự thân cận với các bậc
@@ -10214,53 +10214,53 @@ chân nhân, sự lắng nghe Chánh pháp, sự như lý tác ý, sự thực h
 đúng theo Pháp. Này các thầy, đó là bốn pháp, được tu tập, được làm
 cho sung mãn, đưa đến trí tuệ lớn."
 
-==== Kinh 55.2. Trí Tuệ Rộng (Puthupaññāsuttaṃ)
+==== Kinh 55.63. Trí Tuệ Rộng (Puthupaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ rộng." (Cùng bốn pháp như trên: sự thân
 cận với các bậc chân nhân, sự lắng nghe Chánh pháp, sự như lý tác ý,
 sự thực hành đúng theo Pháp.)
 
-==== Kinh 55.3. Trí Tuệ Mở Rộng (Vipulapaññāsuttaṃ)
+==== Kinh 55.64. Trí Tuệ Mở Rộng (Vipulapaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ mở rộng."
 
-==== Kinh 55.4. Trí Tuệ Sâu Xa (Gambhīrapaññāsuttaṃ)
+==== Kinh 55.65. Trí Tuệ Sâu Xa (Gambhīrapaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ sâu xa."
 
-==== Kinh 55.5. Trí Tuệ Không Xao Lãng (Appamattapaññāsuttaṃ)
+==== Kinh 55.66. Trí Tuệ Không Xao Lãng (Appamattapaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ không xao lãng."
 
-==== Kinh 55.6. Trí Tuệ Bao La (Bhūripaññāsuttaṃ)
+==== Kinh 55.67. Trí Tuệ Bao La (Bhūripaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ bao la."
 
-==== Kinh 55.7. Sự Phong Phú Của Trí Tuệ (Paññābāhullasuttaṃ)
+==== Kinh 55.68. Sự Phong Phú Của Trí Tuệ (Paññābāhullasuttaṃ)
 
 #super[1] "…đưa đến sự phong phú của trí tuệ."
 
-==== Kinh 55.8. Trí Tuệ Nhanh Nhạy (Sīghapaññāsuttaṃ)
+==== Kinh 55.69. Trí Tuệ Nhanh Nhạy (Sīghapaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ nhanh nhạy."
 
-==== Kinh 55.9. Trí Tuệ Nhẹ Nhàng (Lahupaññāsuttaṃ)
+==== Kinh 55.70. Trí Tuệ Nhẹ Nhàng (Lahupaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ nhẹ nhàng, linh hoạt."
 
-==== Kinh 55.10. Trí Tuệ Hoan Hỷ (Hāsapaññāsuttaṃ)
+==== Kinh 55.71. Trí Tuệ Hoan Hỷ (Hāsapaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ hoan hỷ."
 
-==== Kinh 55.11. Trí Tuệ Mau Lẹ (Javanapaññāsuttaṃ)
+==== Kinh 55.72. Trí Tuệ Mau Lẹ (Javanapaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ mau lẹ."
 
-==== Kinh 55.12. Trí Tuệ Sắc Bén (Tikkhapaññāsuttaṃ)
+==== Kinh 55.73. Trí Tuệ Sắc Bén (Tikkhapaññāsuttaṃ)
 
 #super[1] "…đưa đến trí tuệ sắc bén."
 
-==== Kinh 55.13. Trí Tuệ Thấu Suốt (Nibbedhikapaññāsuttaṃ)
+==== Kinh 55.74. Trí Tuệ Thấu Suốt (Nibbedhikapaññāsuttaṃ)
 
 #super[1] "Này các thầy, có bốn pháp này, được tu tập, được làm cho
 sung mãn, đưa đến trí tuệ thấu suốt. Bốn pháp nào? Sự thân cận với
@@ -10466,7 +10466,7 @@ Tranh luận công kích, và Chuyện tầm thường — đủ mười kinh.
 
 === Phẩm 2 (nguồn ghi 2). Chuyển Pháp Luân (Dhammacakkappavattanavaggo)
 
-==== Kinh 56.1. Chuyển Pháp Luân (Dhammacakkappavattanasuttaṃ)
+==== Kinh 56.11. Chuyển Pháp Luân (Dhammacakkappavattanasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Ba-la-nại (Bārāṇasī), trong vườn Nai (Migadāya),
 ở Trú xứ chư Tiên (Isipatana). Tại đó, Thế Tôn gọi năm vị Tỷ-kheo: "Này các thầy, có hai
@@ -10564,7 +10564,7 @@ Rồi Thế Tôn nói lên lời cảm thán này: "Koṇḍañña quả thật 
 các thầy, Koṇḍañña quả thật đã hiểu!" Và như vậy, Tôn giả Koṇḍañña có
 được tên là "Aññāsikoṇḍañño" — Koṇḍañña, người đã hiểu.
 
-==== Kinh 56.2. Như Lai (Tathāgatasuttaṃ)
+==== Kinh 56.12. Như Lai (Tathāgatasuttaṃ)
 
 #super[1] "'Đây là khổ Thánh đế' — này các thầy, đối với các Như Lai,
 đối với các pháp trước đây chưa từng được nghe, nhãn đã sanh khởi,
@@ -10601,7 +10601,7 @@ thầy, đối với các Như Lai… đã sanh khởi. 'Khổ diệt đạo Th�
 trước đây chưa từng được nghe, nhãn đã sanh khởi, trí đã sanh khởi,
 tuệ đã sanh khởi, minh đã sanh khởi, ánh sáng đã sanh khởi."
 
-==== Kinh 56.3. Các Uẩn (Khandhasuttaṃ)
+==== Kinh 56.13. Các Uẩn (Khandhasuttaṃ)
 
 #super[1] "Này các thầy, đây là bốn Thánh đế. Bốn Thánh đế nào? Là
 khổ Thánh đế, khổ tập Thánh đế, khổ diệt Thánh đế, khổ diệt đạo
@@ -10625,7 +10625,7 @@ này, tức là chánh kiến… chánh định — đây gọi là khổ diệt
 phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết 'đây là
 con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.4. Các Xứ (Ajjhattikāyatanasuttaṃ)
+==== Kinh 56.14. Các Xứ (Ajjhattikāyatanasuttaṃ)
 
 #super[1] "Này các thầy, đây là bốn Thánh đế. Bốn Thánh đế nào? Là
 khổ Thánh đế, khổ tập Thánh đế, khổ diệt Thánh đế, khổ diệt đạo
@@ -10650,7 +10650,7 @@ diệt đạo Thánh đế. Này các thầy, đây là bốn Thánh đế." "Do
 các thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để
 biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.5. Ghi Nhớ Thứ Nhất (Paṭhamadhāraṇasuttaṃ)
+==== Kinh 56.15. Ghi Nhớ Thứ Nhất (Paṭhamadhāraṇasuttaṃ)
 
 #super[1] "Này các thầy, các ngươi có ghi nhớ bốn Thánh đế mà Ta đã
 giảng chăng?" Nghe vậy, một vị Tỷ-kheo bạch Thế Tôn: "Bạch Thế Tôn,
@@ -10670,7 +10670,7 @@ nhớ như vậy. Hãy ghi nhớ bốn Thánh đế mà Ta đã giảng như v�
 đó, này Tỷ-kheo, cần phải cố gắng để biết 'đây là khổ'… cần phải cố
 gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.6. Ghi Nhớ Thứ Hai (Dutiyadhāraṇasuttaṃ)
+==== Kinh 56.16. Ghi Nhớ Thứ Hai (Dutiyadhāraṇasuttaṃ)
 
 #super[1] "Này các thầy, các ngươi có ghi nhớ bốn Thánh đế mà Ta đã
 giảng chăng?" Nghe vậy, một vị Tỷ-kheo bạch Thế Tôn: "Bạch Thế Tôn,
@@ -10701,7 +10701,7 @@ Thánh đế thứ tư ấy mà lập ra một khổ diệt đạo Thánh đế 
 cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết 'đây
 là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.7. Vô Minh (Avijjāsuttaṃ)
+==== Kinh 56.17. Vô Minh (Avijjāsuttaṃ)
 
 #super[1] Ngồi xuống một bên, vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế
 Tôn, 'vô minh, vô minh' — được gọi như vậy. Vô minh là gì, và cho đến
@@ -10712,7 +10712,7 @@ và cho đến mức ấy thì gọi là kẻ vô minh." "Do đó, này Tỷ-khe
 phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết 'đây là
 con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.8. Minh (Vijjāsuttaṃ)
+==== Kinh 56.18. Minh (Vijjāsuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến Thế Tôn; đến rồi, đảnh lễ Thế Tôn
 và ngồi xuống một bên. Ngồi xuống một bên, vị Tỷ-kheo ấy bạch Thế
@@ -10724,7 +10724,7 @@ gọi là kẻ có minh." "Do đó, này Tỷ-kheo, cần phải cố gắng đ�
 'đây là khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ
 diệt.'"
 
-==== Kinh 56.9. Trình Bày (Saṅkāsanasuttaṃ)
+==== Kinh 56.19. Trình Bày (Saṅkāsanasuttaṃ)
 
 #super[1] "Này các thầy, 'đây là khổ Thánh đế' — điều này đã được Ta
 tuyên bố. Về điều ấy có vô số cách diễn đạt, vô số câu văn, vô số
@@ -10735,7 +10735,7 @@ số câu văn, vô số cách trình bày rằng: 'đây chính là khổ diệ
 Thánh đế.'" "Do đó, này các thầy, cần phải cố gắng để biết 'đây là
 khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.10. Như Thị (Tathasuttaṃ)
+==== Kinh 56.20. Như Thị (Tathasuttaṃ)
 
 #super[1] "Này các thầy, có bốn điều này là như thị, không sai khác,
 không đổi khác. Bốn điều nào? 'Đây là khổ' — này các thầy, điều này
@@ -10760,7 +10760,7 @@ Minh, Trình Bày, và Như Thị — đủ mười kinh.
 
 === Phẩm 3 (nguồn ghi 3). Làng Cô-thi-ga-ma (Koṭigāmavaggo)
 
-==== Kinh 56.1. Làng Cô-thi-ga-ma Thứ Nhất (Paṭhamakoṭigāmasuttaṃ)
+==== Kinh 56.21. Làng Cô-thi-ga-ma Thứ Nhất (Paṭhamakoṭigāmasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Bạt-kỳ (Vajjī), tại làng Cô-thi-ga-ma (Koṭigāma).
 Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, chính vì không giác
@@ -10784,7 +10784,7 @@ sự dẫn đến hữu đã bị nhổ sạch; \
 Gốc rễ của khổ đã bị cắt đứt, \
 nay không còn tái sanh nữa."
 
-==== Kinh 56.2. Làng Cô-thi-ga-ma Thứ Hai (Dutiyakoṭigāmasuttaṃ)
+==== Kinh 56.22. Làng Cô-thi-ga-ma Thứ Hai (Dutiyakoṭigāmasuttaṃ)
 
 #super[1] "Này các thầy, những Sa-môn hay Bà-la-môn nào không biết như
 thật 'đây là khổ,' không biết như thật 'đây là khổ tập,' không biết
@@ -10822,7 +10822,7 @@ cũng đầy đủ tuệ giải thoát; \
 Tất cả họ đều có khả năng chấm dứt khổ đau, \
 họ không còn đi đến sanh và già."
 
-==== Kinh 56.3. Chánh Đẳng Giác (Sammāsambuddhasuttaṃ)
+==== Kinh 56.23. Chánh Đẳng Giác (Sammāsambuddhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, đây là bốn Thánh
 đế. Bốn Thánh đế nào? Là khổ Thánh đế… khổ diệt đạo Thánh đế — này
@@ -10831,7 +10831,7 @@ thật bốn Thánh đế này mà Như Lai được gọi là 'A-la-hán, Chán
 Giác.'" "Do đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'…
 cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.4. A-la-hán (Arahantasuttaṃ)
+==== Kinh 56.24. A-la-hán (Arahantasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, những vị A-la-hán,
 Chánh Đẳng Giác nào trong thời quá khứ đã giác ngộ như thật, tất cả
@@ -10847,7 +10847,7 @@ ngộ như thật, tất cả các Ngài đều giác ngộ như thật chính b
 đế này." "Do đó, này các thầy, cần phải cố gắng để biết 'đây là
 khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.5. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
+==== Kinh 56.25. Đoạn Tận Lậu Hoặc (Āsavakkhayasuttaṃ)
 
 #super[1] "Này các thầy, Ta nói rằng sự đoạn tận các lậu hoặc chỉ có
 đối với người biết, người thấy, không phải đối với người không biết,
@@ -10862,7 +10862,7 @@ thì có sự đoạn tận các lậu hoặc." "Do đó, này các thầy, cầ
 gắng để biết 'đây là khổ'… cần phải cố gắng để biết 'đây là con đường
 đưa đến khổ diệt.'"
 
-==== Kinh 56.6. Bạn Bè (Mittasuttaṃ)
+==== Kinh 56.26. Bạn Bè (Mittasuttaṃ)
 
 #super[1] "Này các thầy, đối với những ai mà các thầy có lòng thương
 xót, và đối với những ai mà các thầy nghĩ rằng họ đáng được nghe lời
@@ -10878,7 +10878,7 @@ thật chính bốn Thánh đế này." "Do đó, này các thầy, cần phải
 để biết 'đây là khổ'… cần phải cố gắng để biết 'đây là con đường đưa
 đến khổ diệt.'"
 
-==== Kinh 56.7. Như Thị (Tathasuttaṃ)
+==== Kinh 56.27. Như Thị (Tathasuttaṃ)
 
 #super[1] "Này các thầy, đây là bốn Thánh đế. Bốn Thánh đế nào? Là
 khổ Thánh đế, khổ tập Thánh đế, khổ diệt Thánh đế, khổ diệt đạo Thánh
@@ -10887,7 +10887,7 @@ không đổi khác; do đó được gọi là 'các Thánh đế.'" "Do đó, 
 thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết
 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.8. Thế Gian (Lokasuttaṃ)
+==== Kinh 56.28. Thế Gian (Lokasuttaṃ)
 
 #super[1] "Này các thầy, đây là bốn Thánh đế. Bốn Thánh đế nào? Là
 khổ Thánh đế, khổ tập Thánh đế, khổ diệt Thánh đế, khổ diệt đạo Thánh
@@ -10897,7 +10897,7 @@ Sa-môn, Bà-la-môn, loài người và chư thiên, Như Lai là bậc Thánh;
 gắng để biết 'đây là khổ'… cần phải cố gắng để biết 'đây là con đường
 đưa đến khổ diệt.'"
 
-==== Kinh 56.9. Cần Được Liễu Tri (Pariññeyyasuttaṃ)
+==== Kinh 56.29. Cần Được Liễu Tri (Pariññeyyasuttaṃ)
 
 #super[1] "Này các thầy, đây là bốn Thánh đế. Bốn Thánh đế nào? Là
 khổ Thánh đế, khổ tập Thánh đế, khổ diệt Thánh đế, khổ diệt đạo Thánh
@@ -10911,7 +10911,7 @@ Thánh đế cần được chứng ngộ; khổ diệt đạo Thánh đế cầ
 "Do đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải
 cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.10. Ngưu Chủ (Gavampatisuttaṃ)
+==== Kinh 56.30. Ngưu Chủ (Gavampatisuttaṃ)
 
 #super[1] Một thời, nhiều vị Tỷ-kheo trưởng lão trú giữa dân chúng
 Chi-đề (Ceti), tại Sahañcanika. Bấy giờ, sau buổi ăn, khi đi khất thực trở về,
@@ -10938,7 +10938,7 @@ Cần Được Liễu Tri, và Gavampati — đủ mười kinh.
 
 === Phẩm 4 (nguồn ghi 4). Rừng Cây Si-sa-pa (Sīsapāvanavaggo)
 
-==== Kinh 56.1. Rừng Cây Si-sa-pa (Sīsapāvanasuttaṃ)
+==== Kinh 56.31. Rừng Cây Si-sa-pa (Sīsapāvanasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Kiều-thưởng-di (Kosambī), trong rừng cây Si-sa-ba (Sīsapā). Rồi
 Thế Tôn cầm lấy một ít lá cây sīsapā trong tay, gọi các Tỷ-kheo: "Này
@@ -10966,7 +10966,7 @@ trí, đưa đến giác ngộ, đưa đến Niết-bàn; do đó Ta đã giản
 điều ấy." "Do đó, này các thầy, cần phải cố gắng để biết 'đây là
 khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Lá Cây Keo (Khadirapattasuttaṃ)
+==== Kinh 56.32. Lá Cây Keo (Khadirapattasuttaṃ)
 
 #super[1] "Này các thầy, ai nói rằng: 'Tôi sẽ chấm dứt khổ đau một
 cách chân chánh mà không cần giác ngộ như thật khổ Thánh đế, không
@@ -10993,7 +10993,7 @@ có thể có được." "Do đó, này các thầy, cần phải cố gắng đ
 là khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ
 diệt.'"
 
-==== Kinh 56.3. Cây Gậy (Daṇḍasuttaṃ)
+==== Kinh 56.33. Cây Gậy (Daṇḍasuttaṃ)
 
 #super[1] "Ví như, này các thầy, một cây gậy được ném lên không, khi
 rơi xuống có lúc rơi bằng đầu gốc, có lúc rơi bằng đầu ngọn; cũng
@@ -11004,7 +11004,7 @@ từ đời khác trở lại đời này. Vì sao vậy? Này các thầy, vì 
 Thánh đế." "Do đó, này các thầy, cần phải cố gắng để biết 'đây là
 khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.4. Áo Đang Cháy (Celasuttaṃ)
+==== Kinh 56.34. Áo Đang Cháy (Celasuttaṃ)
 
 #super[1] "Này các thầy, khi áo hay đầu bị bốc cháy, cần phải làm gì?"
 "Bạch Thế Tôn, khi áo hay đầu bị bốc cháy, cần phải hết lòng mong
@@ -11017,7 +11017,7 @@ nào? Là khổ Thánh đế… khổ diệt đạo Thánh đế." "Do đó, nà
 cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết 'đây
 là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.5. Một Trăm Cây Giáo (Sattisatasuttaṃ)
+==== Kinh 56.35. Một Trăm Cây Giáo (Sattisatasuttaṃ)
 
 #super[1] "Ví như, này các thầy, có một người sống trăm năm tuổi, thọ
 mạng trăm năm. Có người nói với ông ta: 'Này ông, buổi sáng người ta
@@ -11036,7 +11036,7 @@ nào? Là khổ Thánh đế… khổ diệt đạo Thánh đế." "Do đó, nà
 cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết 'đây
 là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.6. Các Chúng Sanh (Pāṇasuttaṃ)
+==== Kinh 56.36. Các Chúng Sanh (Pāṇasuttaṃ)
 
 #super[1] "Ví như, này các thầy, có người lấy tất cả cỏ, cây, cành,
 lá có trong cõi Diêm-phủ-đề (Jambudīpa) này, chặt ra rồi chất thành một đống, chất
@@ -11054,7 +11054,7 @@ thể của chúng quá nhỏ bé. Này các thầy, đọa xứ lớn như vậ
 đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải cố
 gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.7. Ví Dụ Mặt Trời Thứ Nhất (Paṭhamasūriyasuttaṃ)
+==== Kinh 56.37. Ví Dụ Mặt Trời Thứ Nhất (Paṭhamasūriyasuttaṃ)
 
 #super[1] "Này các thầy, sự xuất hiện của mặt trời là điều đi trước,
 là tướng báo trước, đó là sự xuất hiện của ánh hồng. Cũng vậy, này
@@ -11065,7 +11065,7 @@ thật 'đây là khổ'… sẽ biết như thật 'đây là con đường đ�
 diệt.'" "Do đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'…
 cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.8. Ví Dụ Mặt Trời Thứ Hai (Dutiyasūriyasuttaṃ)
+==== Kinh 56.38. Ví Dụ Mặt Trời Thứ Hai (Dutiyasūriyasuttaṃ)
 
 #super[1] "Này các thầy, khi nào mặt trăng và mặt trời chưa xuất hiện
 ở đời, khi ấy chưa có ánh sáng lớn, chưa có sự chiếu sáng lớn xuất
@@ -11089,7 +11089,7 @@ thiết lập, khai mở, phân tích, làm sáng tỏ về bốn Thánh đế. 
 thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết
 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.9. Cột Trụ Ấn Độ (Indakhīlasuttaṃ)
+==== Kinh 56.39. Cột Trụ Ấn Độ (Indakhīlasuttaṃ)
 
 #super[1] "Này các thầy, những Sa-môn hay Bà-la-môn nào không biết
 như thật 'đây là khổ'… không biết như thật 'đây là con đường đưa đến
@@ -11125,7 +11125,7 @@ Thánh đế nào? Là khổ Thánh đế… khổ diệt đạo Thánh đế." 
 các thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để
 biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.10. Người Ưa Tranh Luận (Vādatthikasuttaṃ)
+==== Kinh 56.40. Người Ưa Tranh Luận (Vādatthikasuttaṃ)
 
 #super[1] "Này các thầy, vị Tỷ-kheo nào biết như thật 'đây là khổ'…
 biết như thật 'đây là con đường đưa đến khổ diệt,' dù có Sa-môn hay
@@ -11162,7 +11162,7 @@ Cột Trụ Ấn Độ, và Người Ưa Tranh Luận — đủ mười kinh.
 
 === Phẩm 5 (nguồn ghi 5). Vực Thẳm (Papātavaggo)
 
-==== Kinh 56.1. Suy Nghĩ Về Thế Gian (Lokacintāsuttaṃ)
+==== Kinh 56.41. Suy Nghĩ Về Thế Gian (Lokacintāsuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc
 (Veḷuvana), tại chỗ nuôi dưỡng sóc (Kalandakanivāpa). Tại đó, Thế Tôn
@@ -11212,7 +11212,7 @@ Phạm hạnh, đưa đến nhàm chán, đưa đến ly tham, đưa đến đo�
 "Do đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'… cần
 phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Vực Thẳm (Papātasuttaṃ)
+==== Kinh 56.42. Vực Thẳm (Papātasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trên núi Linh Thứu (Gijjhakūṭa). Rồi
 Thế Tôn gọi các Tỷ-kheo: "Này các thầy, chúng ta hãy đi đến đỉnh núi
@@ -11251,7 +11251,7 @@ sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói rằng họ thoát kh�
 đau." "Do đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'…
 cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.3. Thiêu Đốt (Mahāpariḷāhasuttaṃ)
+==== Kinh 56.43. Thiêu Đốt (Mahāpariḷāhasuttaṃ)
 
 #super[1] "Này các thầy, có một địa ngục gọi là 'Đại Thiêu Đốt.' Ở
 đó, bất cứ hình sắc gì mắt thấy được, chỉ thấy hình sắc không đáng
@@ -11285,7 +11285,7 @@ sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói rằng họ thoát kh�
 đau." "Do đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'…
 cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.4. Ngôi Nhà Có Nóc Nhọn (Kūṭāgārasuttaṃ)
+==== Kinh 56.44. Ngôi Nhà Có Nóc Nhọn (Kūṭāgārasuttaṃ)
 
 #super[1] "Này các thầy, ai nói rằng: 'Tôi sẽ chấm dứt khổ đau một
 cách chân chánh mà không cần giác ngộ như thật khổ Thánh đế… không
@@ -11308,7 +11308,7 @@ giác ngộ như thật khổ diệt đạo Thánh đế' — điều ấy có t
 "Do đó, này các thầy, cần phải cố gắng để biết 'đây là khổ'… cần
 phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.5. Sợi Lông (Vālasuttaṃ)
+==== Kinh 56.45. Sợi Lông (Vālasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Tỳ-xá-ly (Vesāli), trong Đại Lâm, tại giảng
 đường Trùng Các. Rồi Tôn giả A-nan (Ānanda), vào buổi sáng đắp y, cầm y bát,
@@ -11339,7 +11339,7 @@ khổ diệt,' họ thâm nhập được một điều còn khó thâm nhập h
 "Do đó, này Ānanda, cần phải cố gắng để biết 'đây là khổ'… cần phải
 cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.6. Bóng Tối (Andhakārasuttaṃ)
+==== Kinh 56.46. Bóng Tối (Andhakārasuttaṃ)
 
 #super[1] "Này các thầy, có những vùng tối tăm giữa các thế giới,
 trống rỗng, không có gì che chở, tối đen, tối mù mịt, nơi mà ánh sáng
@@ -11367,7 +11367,7 @@ thoát khỏi khổ đau." "Do đó, này các thầy, cần phải cố gắng 
 'đây là khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ
 diệt.'"
 
-==== Kinh 56.7. Cái Ách Có Lỗ Thứ Nhất (Paṭhamachiggaḷayugasuttaṃ)
+==== Kinh 56.47. Cái Ách Có Lỗ Thứ Nhất (Paṭhamachiggaḷayugasuttaṃ)
 
 #super[1] "Ví như, này các thầy, có người thả một cái ách chỉ có một
 lỗ xuống biển cả. Trong biển ấy có một con rùa mù. Trăm năm nó mới
@@ -11386,7 +11386,7 @@ diệt đạo Thánh đế." "Do đó, này các thầy, cần phải cố gắn
 'đây là khổ'… cần phải cố gắng để biết 'đây là con đường đưa đến khổ
 diệt.'"
 
-==== Kinh 56.8. Cái Ách Có Lỗ Thứ Hai (Dutiyachiggaḷayugasuttaṃ)
+==== Kinh 56.48. Cái Ách Có Lỗ Thứ Hai (Dutiyachiggaḷayugasuttaṃ)
 
 #super[1] "Ví như, này các thầy, quả đất lớn này toàn là nước. Có
 người thả một cái ách chỉ có một lỗ xuống đó. Gió từ phương đông thổi
@@ -11406,7 +11406,7 @@ do Như Lai tuyên thuyết đang được chiếu sáng ở đời." "Do đó, 
 thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết
 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.9. Núi Tu-di Thứ Nhất (Paṭhamasinerupabbatarājasuttaṃ)
+==== Kinh 56.49. Núi Tu-di Thứ Nhất (Paṭhamasinerupabbatarājasuttaṃ)
 
 #super[1] "Ví như, này các thầy, có người đặt bảy hòn sỏi nhỏ cỡ hạt
 đậu lên núi chúa Tu-di (Sineru). Này các thầy, các thầy nghĩ thế nào — cái
@@ -11425,7 +11425,7 @@ biết như thật 'đây là con đường đưa đến khổ diệt.'" "Do đ�
 thầy, cần phải cố gắng để biết 'đây là khổ'… cần phải cố gắng để biết
 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.10. Núi Tu-di Thứ Hai (Dutiyasinerupabbatarājasuttaṃ)
+==== Kinh 56.50. Núi Tu-di Thứ Hai (Dutiyasinerupabbatarājasuttaṃ)
 
 #super[1] "Ví như, này các thầy, núi chúa Tu-di (Sineru) đi đến chỗ cùng tận,
 tiêu hết, chỉ trừ lại bảy hòn sỏi nhỏ cỡ hạt đậu. Này các thầy, các
@@ -11458,7 +11458,7 @@ và hai kinh nữa về núi Sineru — đủ mười kinh.
 
 === Phẩm 6 (nguồn ghi 6). Thông Đạt (Abhisamayavaggo)
 
-==== Kinh 56.1. Đầu Móng Tay (Nakhasikhasuttaṃ)
+==== Kinh 56.51. Đầu Móng Tay (Nakhasikhasuttaṃ)
 
 #super[1] Rồi Thế Tôn lấy một ít bụi đất trên đầu móng tay, gọi các
 Tỷ-kheo: "Này các thầy, các thầy nghĩ thế nào — cái nào nhiều hơn,
@@ -11479,7 +11479,7 @@ phải cố gắng để biết 'đây là khổ,' cần phải cố gắng đ�
 khổ tập,' cần phải cố gắng để biết 'đây là khổ diệt,' cần phải cố
 gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Hồ Nước (Pokkharaṇīsuttaṃ)
+==== Kinh 56.52. Hồ Nước (Pokkharaṇīsuttaṃ)
 
 #super[1] "Ví như, này các thầy, một hồ nước dài năm mươi do-tuần,
 rộng năm mươi do-tuần, sâu năm mươi do-tuần, đầy nước ngang bờ, quạ
@@ -11492,7 +11492,7 @@ tận của vị Thánh đệ tử đã thành tựu chánh kiến, phần khổ
 nhiều nhất bảy lần tái sanh — thật chẳng đáng kể, không sánh được."
 "Do đó, này các thầy, cần phải cố gắng để biết bốn Thánh đế."
 
-==== Kinh 56.3. Nước Hợp Lưu Thứ Nhất (Paṭhamasaṃbhejjasuttaṃ)
+==== Kinh 56.53. Nước Hợp Lưu Thứ Nhất (Paṭhamasaṃbhejjasuttaṃ)
 
 #super[1] "Ví như, này các thầy, tại nơi các con sông lớn hợp lưu,
 gặp nhau — tức là sông Hằng (Gaṅgā), sông Diệm-mâu- na (Yamunā), sông A-trí-la-phạt-để (Aciravatī), sông
@@ -11505,7 +11505,7 @@ tựu chánh kiến, phần khổ còn lại — nhiều nhất bảy lần tái
 chẳng đáng kể, không sánh được." "Do đó, này các thầy, cần phải cố
 gắng để biết bốn Thánh đế."
 
-==== Kinh 56.4. Nước Hợp Lưu Thứ Hai (Dutiyasaṃbhejjasuttaṃ)
+==== Kinh 56.54. Nước Hợp Lưu Thứ Hai (Dutiyasaṃbhejjasuttaṃ)
 
 #super[1] "Ví như, này các thầy, nước ở nơi các con sông lớn hợp
 lưu — sông Hằng (Gaṅgā), sông Diệm-mâu- na (Yamunā), sông A-trí-la-phạt-để (Aciravatī), sông Sa-la-bu (Sarabhū), sông
@@ -11518,7 +11518,7 @@ tận của vị Thánh đệ tử đã thành tựu chánh kiến, phần khổ
 nhiều nhất bảy lần tái sanh — thật chẳng đáng kể, không sánh được."
 "Do đó, này các thầy, cần phải cố gắng để biết bốn Thánh đế."
 
-==== Kinh 56.5. Quả Đất Thứ Nhất (Paṭhamamahāpathavīsuttaṃ)
+==== Kinh 56.55. Quả Đất Thứ Nhất (Paṭhamamahāpathavīsuttaṃ)
 
 #super[1] "Ví như, này các thầy, có người đặt bảy viên đất nhỏ cỡ
 hạt táo lên quả đất lớn này. Các thầy nghĩ thế nào — cái nào nhiều
@@ -11529,7 +11529,7 @@ tận của vị Thánh đệ tử đã thành tựu chánh kiến, phần khổ
 nhiều nhất bảy lần tái sanh — thật chẳng đáng kể, không sánh được."
 "Do đó, này các thầy, cần phải cố gắng để biết bốn Thánh đế."
 
-==== Kinh 56.6. Quả Đất Thứ Hai (Dutiyamahāpathavīsuttaṃ)
+==== Kinh 56.56. Quả Đất Thứ Hai (Dutiyamahāpathavīsuttaṃ)
 
 #super[1] "Ví như, này các thầy, quả đất lớn này đi đến chỗ cùng tận,
 tiêu hết, chỉ trừ lại bảy viên đất nhỏ cỡ hạt táo. Các thầy nghĩ thế
@@ -11541,7 +11541,7 @@ Thánh đệ tử đã thành tựu chánh kiến, phần khổ còn lại — n
 bảy lần tái sanh — thật chẳng đáng kể, không sánh được." "Do đó, này
 các thầy, cần phải cố gắng để biết bốn Thánh đế."
 
-==== Kinh 56.7. Biển Cả Thứ Nhất (Paṭhamamahāsamuddasuttaṃ)
+==== Kinh 56.57. Biển Cả Thứ Nhất (Paṭhamamahāsamuddasuttaṃ)
 
 #super[1] "Ví như, này các thầy, có người vớt từ biển cả lên hai ba
 giọt nước. Các thầy nghĩ thế nào — cái nào nhiều hơn, hai ba giọt
@@ -11552,7 +11552,7 @@ tận của vị Thánh đệ tử đã thành tựu chánh kiến, phần khổ
 nhiều nhất bảy lần tái sanh — thật chẳng đáng kể, không sánh được."
 "Do đó, này các thầy, cần phải cố gắng để biết bốn Thánh đế."
 
-==== Kinh 56.8. Biển Cả Thứ Hai (Dutiyamahāsamuddasuttaṃ)
+==== Kinh 56.58. Biển Cả Thứ Hai (Dutiyamahāsamuddasuttaṃ)
 
 #super[1] "Ví như, này các thầy, nước trong biển cả đi đến chỗ cùng
 tận, tiêu hết, chỉ trừ lại hai ba giọt nước. Các thầy nghĩ thế nào —
@@ -11564,7 +11564,7 @@ Thánh đệ tử đã thành tựu chánh kiến, phần khổ còn lại — n
 bảy lần tái sanh — thật chẳng đáng kể, không sánh được." "Do đó, này
 các thầy, cần phải cố gắng để biết bốn Thánh đế."
 
-==== Kinh 56.9. Ví Dụ Núi Thứ Nhất (Paṭhamapabbatūpamasuttaṃ)
+==== Kinh 56.59. Ví Dụ Núi Thứ Nhất (Paṭhamapabbatūpamasuttaṃ)
 
 #super[1] "Ví như, này các thầy, có người đặt bảy hòn sỏi nhỏ cỡ hạt
 cải lên núi chúa Himavā (Tuyết Sơn). Các thầy nghĩ thế nào — cái nào
@@ -11576,7 +11576,7 @@ còn lại — nhiều nhất bảy lần tái sanh — thật chẳng đáng k�
 sánh được." "Do đó, này các thầy, cần phải cố gắng để biết bốn Thánh
 đế."
 
-==== Kinh 56.10. Ví Dụ Núi Thứ Hai (Dutiyapabbatūpamasuttaṃ)
+==== Kinh 56.60. Ví Dụ Núi Thứ Hai (Dutiyapabbatūpamasuttaṃ)
 
 #super[1] "Ví như, này các thầy, núi chúa Hi-mã-lạp (Himavā) đi đến chỗ cùng tận,
 tiêu hết, chỉ trừ lại bảy hòn sỏi nhỏ cỡ hạt cải. Các thầy nghĩ thế
@@ -11607,7 +11607,7 @@ và hai kinh Ví Dụ Núi — đủ mười kinh.
 
 === Phẩm 7 (nguồn ghi 7). Văn Trùng Tụng Thứ Nhất (Paṭhamaāmakadhaññapeyyālavaggo)
 
-==== Kinh 56.1. Nơi Khác (Aññatrasuttaṃ)
+==== Kinh 56.61. Nơi Khác (Aññatrasuttaṃ)
 
 #super[1] Rồi Thế Tôn lấy một ít bụi đất trên đầu móng tay, gọi các
 Tỷ-kheo: "Này các thầy, các thầy nghĩ thế nào — cái nào nhiều hơn,
@@ -11623,7 +11623,7 @@ cần phải cố gắng để biết 'đây là khổ,' cần phải cố gắn
 là khổ tập,' cần phải cố gắng để biết 'đây là khổ diệt,' cần phải cố
 gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Vùng Biên Địa (Paccantasuttaṃ)
+==== Kinh 56.62. Vùng Biên Địa (Paccantasuttaṃ)
 
 #super[1] Cùng theo phương thức ví dụ về bụi đất trên đầu móng tay
 so với quả đất lớn như trên: cũng vậy, này các thầy, ít có những
@@ -11632,14 +11632,14 @@ chúng sanh được tái sanh ở các vùng biên địa, giữa những bộ 
 được khai hóa, không hiểu biết. Vì sao vậy? Này các thầy, vì chưa
 thấy được bốn Thánh đế.
 
-==== Kinh 56.3. Tuệ (Paññāsuttaṃ)
+==== Kinh 56.63. Tuệ (Paññāsuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh có
 được tuệ nhãn của bậc Thánh; nhiều hơn hẳn là những chúng sanh rơi
 vào vô minh, mê mờ. Vì sao vậy? Này các thầy, vì chưa thấy được bốn
 Thánh đế.
 
-==== Kinh 56.4. Rượu Và Chất Say (Surāmerayasuttaṃ)
+==== Kinh 56.64. Rượu Và Chất Say (Surāmerayasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ rượu và các chất say, không buông lung trong việc uống rượu; nhiều
@@ -11647,39 +11647,39 @@ hơn hẳn là những chúng sanh không từ bỏ, còn buông lung trong vi�
 uống rượu và các chất say. Vì sao vậy? Này các thầy, vì chưa thấy
 được bốn Thánh đế.
 
-==== Kinh 56.5. Sanh Trong Nước (Odakasuttaṃ)
+==== Kinh 56.65. Sanh Trong Nước (Odakasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh sanh
 trên đất khô; nhiều hơn hẳn là những chúng sanh sanh trong nước. Vì
 sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.6. Hiếu Kính Với Mẹ (Matteyyasuttaṃ)
+==== Kinh 56.66. Hiếu Kính Với Mẹ (Matteyyasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh hiếu
 kính với mẹ; nhiều hơn hẳn là những chúng sanh không hiếu kính với
 mẹ. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.7. Hiếu Kính Với Cha (Petteyyasuttaṃ)
+==== Kinh 56.67. Hiếu Kính Với Cha (Petteyyasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh hiếu
 kính với cha; nhiều hơn hẳn là những chúng sanh không hiếu kính với
 cha. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.8. Sa-môn (Sāmaññasuttaṃ)
+==== Kinh 56.68. Sa-môn (Sāmaññasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh kính
 trọng hàng Sa-môn; nhiều hơn hẳn là những chúng sanh không kính trọng
 hàng Sa-môn. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh
 đế.
 
-==== Kinh 56.9. Bà-la-môn (Brahmaññasuttaṃ)
+==== Kinh 56.69. Bà-la-môn (Brahmaññasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh kính
 trọng hàng Bà-la-môn; nhiều hơn hẳn là những chúng sanh không kính
 trọng hàng Bà-la-môn. Vì sao vậy? Này các thầy, vì chưa thấy được bốn
 Thánh đế.
 
-==== Kinh 56.10. Kính Trọng Người Lớn Tuổi (Pacāyikasuttaṃ)
+==== Kinh 56.70. Kính Trọng Người Lớn Tuổi (Pacāyikasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh
 kính trọng người lớn tuổi trong gia đình; nhiều hơn hẳn là những
@@ -11702,7 +11702,7 @@ Sa-môn, Bà-la-môn, và Kính Trọng Người Lớn Tuổi — đủ mười 
 
 === Phẩm 8 (nguồn ghi 8). Văn Trùng Tụng Thứ Hai (Dutiyaāmakadhaññapeyyālavaggo)
 
-==== Kinh 56.1. Sát Sanh (Pāṇātipātasuttaṃ)
+==== Kinh 56.71. Sát Sanh (Pāṇātipātasuttaṃ)
 
 #super[1] Cũng theo phương thức ví dụ về bụi đất trên đầu móng tay so
 với quả đất lớn (như đã nói ở phẩm trước): "Cũng vậy, này các thầy,
@@ -11714,62 +11714,62 @@ thầy, cần phải cố gắng để biết 'đây là khổ,' cần phải c�
 'đây là khổ tập,' cần phải cố gắng để biết 'đây là khổ diệt,' cần
 phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Trộm Cắp (Adinnādānasuttaṃ)
+==== Kinh 56.72. Trộm Cắp (Adinnādānasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ sự trộm cắp (lấy của không cho); nhiều hơn hẳn là những chúng
 sanh không từ bỏ sự trộm cắp. Vì sao vậy? Này các thầy, vì chưa thấy
 được bốn Thánh đế.
 
-==== Kinh 56.3. Tà Hạnh Trong Các Dục (Kāmesumicchācārasuttaṃ)
+==== Kinh 56.73. Tà Hạnh Trong Các Dục (Kāmesumicchācārasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ sự tà hạnh trong các dục; nhiều hơn hẳn là những chúng sanh không
 từ bỏ sự tà hạnh trong các dục. Vì sao vậy? Này các thầy, vì chưa
 thấy được bốn Thánh đế.
 
-==== Kinh 56.4. Nói Dối (Musāvādasuttaṃ)
+==== Kinh 56.74. Nói Dối (Musāvādasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ lời nói dối; nhiều hơn hẳn là những chúng sanh không từ bỏ lời nói
 dối. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.5. Nói Chia Rẽ (Pesuññasuttaṃ)
+==== Kinh 56.75. Nói Chia Rẽ (Pesuññasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ lời nói chia rẽ (nói hai lưỡi); nhiều hơn hẳn là những chúng sanh
 không từ bỏ lời nói chia rẽ. Vì sao vậy? Này các thầy, vì chưa thấy
 được bốn Thánh đế.
 
-==== Kinh 56.6. Nói Thô Ác (Pharusavācāsuttaṃ)
+==== Kinh 56.76. Nói Thô Ác (Pharusavācāsuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ lời nói thô ác; nhiều hơn hẳn là những chúng sanh không từ bỏ lời
 nói thô ác. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh
 đế.
 
-==== Kinh 56.7. Nói Phù Phiếm (Samphappalāpasuttaṃ)
+==== Kinh 56.77. Nói Phù Phiếm (Samphappalāpasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ lời nói phù phiếm (nói chuyện tạp nhạp); nhiều hơn hẳn là những
 chúng sanh không từ bỏ lời nói phù phiếm. Vì sao vậy? Này các thầy,
 vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.8. Hạt Giống (Bījagāmasuttaṃ)
+==== Kinh 56.78. Hạt Giống (Bījagāmasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc làm tổn hại hạt giống và cây cỏ; nhiều hơn hẳn là những chúng
 sanh không từ bỏ việc làm tổn hại hạt giống và cây cỏ. Vì sao vậy?
 Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.9. Ăn Phi Thời (Vikālabhojanasuttaṃ)
+==== Kinh 56.79. Ăn Phi Thời (Vikālabhojanasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc ăn phi thời; nhiều hơn hẳn là những chúng sanh không từ bỏ
 việc ăn phi thời. Vì sao vậy? Này các thầy, vì chưa thấy được bốn
 Thánh đế.
 
-==== Kinh 56.10. Hương Liệu (Gandhavilepanasuttaṃ)
+==== Kinh 56.80. Hương Liệu (Gandhavilepanasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc mang vòng hoa, dùng hương liệu, dầu thơm, trang sức, trang
@@ -11793,7 +11793,7 @@ Hạt Giống, Ăn Phi Thời, và Hương Liệu — đủ mười kinh.
 
 === Phẩm 9 (nguồn ghi 9). Văn Trùng Tụng Thứ Ba (Tatiyaāmakadhaññapeyyālavaggo)
 
-==== Kinh 56.1. Múa Hát (Naccagītasuttaṃ)
+==== Kinh 56.81. Múa Hát (Naccagītasuttaṃ)
 
 #super[1] Cũng theo phương thức ví dụ về bụi đất trên đầu móng tay so
 với quả đất lớn (như đã nói ở các phẩm trước): "Cũng vậy, này các
@@ -11806,58 +11806,58 @@ thầy, vì chưa thấy được bốn Thánh đế. Bốn Thánh đế nào? L
 gắng để biết 'đây là khổ tập,' cần phải cố gắng để biết 'đây là khổ
 diệt,' cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Giường Nằm (Uccāsayanasuttaṃ)
+==== Kinh 56.82. Giường Nằm (Uccāsayanasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc dùng giường cao, giường lớn (giường sang trọng); nhiều hơn
 hẳn là những chúng sanh không từ bỏ. Vì sao vậy? Này các thầy, vì
 chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.3. Vàng Bạc (Jātarūparajatasuttaṃ)
+==== Kinh 56.83. Vàng Bạc (Jātarūparajatasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận vàng bạc; nhiều hơn hẳn là những chúng sanh không từ bỏ.
 Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.4. Lúa Gạo Còn Sống (Āmakadhaññasuttaṃ)
+==== Kinh 56.84. Lúa Gạo Còn Sống (Āmakadhaññasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận lúa gạo còn sống (chưa nấu); nhiều hơn hẳn là những
 chúng sanh không từ bỏ. Vì sao vậy? Này các thầy, vì chưa thấy được
 bốn Thánh đế.
 
-==== Kinh 56.5. Thịt Sống (Āmakamaṃsasuttaṃ)
+==== Kinh 56.85. Thịt Sống (Āmakamaṃsasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận thịt sống; nhiều hơn hẳn là những chúng sanh không từ
 bỏ. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.6. Thiếu Nữ (Kumārikasuttaṃ)
+==== Kinh 56.86. Thiếu Nữ (Kumārikasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận phụ nữ, thiếu nữ; nhiều hơn hẳn là những chúng sanh
 không từ bỏ. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh
 đế.
 
-==== Kinh 56.7. Nô Lệ (Dāsidāsasuttaṃ)
+==== Kinh 56.87. Nô Lệ (Dāsidāsasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận nô lệ nam, nữ; nhiều hơn hẳn là những chúng sanh không
 từ bỏ. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.8. Dê Cừu (Ajeḷakasuttaṃ)
+==== Kinh 56.88. Dê Cừu (Ajeḷakasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận dê, cừu; nhiều hơn hẳn là những chúng sanh không từ bỏ.
 Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.9. Gà Heo (Kukkuṭasūkarasuttaṃ)
+==== Kinh 56.89. Gà Heo (Kukkuṭasūkarasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận gà, heo; nhiều hơn hẳn là những chúng sanh không từ bỏ.
 Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.10. Voi Ngựa (Hatthigavassasuttaṃ)
+==== Kinh 56.90. Voi Ngựa (Hatthigavassasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc nhận voi, bò, ngựa, ngựa cái; nhiều hơn hẳn là những chúng
@@ -11879,7 +11879,7 @@ Gà Heo, và Voi Ngựa — đủ mười kinh.
 
 === Phẩm 10 (nguồn ghi 10). Văn Trùng Tụng Thứ Tư (Catutthaāmakadhaññapeyyālavaggo)
 
-==== Kinh 56.1. Ruộng Đất (Khettavatthusuttaṃ)
+==== Kinh 56.91. Ruộng Đất (Khettavatthusuttaṃ)
 
 #super[1] Cũng theo phương thức ví dụ về bụi đất trên đầu móng tay so
 với quả đất lớn (như đã nói ở các phẩm trước): "Cũng vậy, này các
@@ -11891,34 +11891,34 @@ thầy, vì chưa thấy được bốn Thánh đế. Bốn Thánh đế nào? L
 gắng để biết 'đây là khổ tập,' cần phải cố gắng để biết 'đây là khổ
 diệt,' cần phải cố gắng để biết 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Mua Bán (Kayavikkayasuttaṃ)
+==== Kinh 56.92. Mua Bán (Kayavikkayasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc mua bán; nhiều hơn hẳn là những chúng sanh không từ bỏ. Vì
 sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.3. Đưa Tin (Dūteyyasuttaṃ)
+==== Kinh 56.93. Đưa Tin (Dūteyyasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc làm người đưa tin, người sai khiến, người chạy việc; nhiều
 hơn hẳn là những chúng sanh không từ bỏ. Vì sao vậy? Này các thầy, vì
 chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.4. Gian Lận Cân Đấu (Tulākūṭasuttaṃ)
+==== Kinh 56.94. Gian Lận Cân Đấu (Tulākūṭasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc gian lận cân, gian lận thước đo bằng đồng, gian lận đấu đong;
 nhiều hơn hẳn là những chúng sanh không từ bỏ. Vì sao vậy? Này các
 thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.5. Hối Lộ (Ukkoṭanasuttaṃ)
+==== Kinh 56.95. Hối Lộ (Ukkoṭanasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc hối lộ, lừa dối, gian trá, xảo trá; nhiều hơn hẳn là những
 chúng sanh không từ bỏ. Vì sao vậy? Này các thầy, vì chưa thấy được
 bốn Thánh đế.
 
-#strong[Nhóm kinh 56.6–11 — Chặt Chân Tay, Giết Hại, Trói Buộc, Cướp Bóc, Và Bạo Hành (Chedanādisuttaṃ)]
+#strong[Nhóm kinh 56.96–101 — Chặt Chân Tay, Giết Hại, Trói Buộc, Cướp Bóc, Và Bạo Hành (Chedanādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh từ
 bỏ việc chặt chân tay, giết hại, trói buộc, rình rập cướp bóc, cướp
@@ -11943,7 +11943,7 @@ Cướp Bóc, và Bạo Hành — như vậy là mười một kinh.
 
 === Phẩm 11 (nguồn ghi 11). Văn Trùng Tụng Về Năm Sanh Thú (Pañcagatipeyyālavaggo)
 
-==== Kinh 56.1. Người Chết Đọa Địa Ngục (Manussacutinirayasuttaṃ)
+==== Kinh 56.102. Người Chết Đọa Địa Ngục (Manussacutinirayasuttaṃ)
 
 #super[1] Rồi Thế Tôn lấy một ít bụi đất trên đầu móng tay, gọi các
 Tỷ-kheo: "Này các thầy, các thầy nghĩ thế nào — cái nào nhiều hơn,
@@ -11960,14 +11960,14 @@ biết 'đây là khổ,' cần phải cố gắng để biết 'đây là khổ
 phải cố gắng để biết 'đây là khổ diệt,' cần phải cố gắng để biết
 'đây là con đường đưa đến khổ diệt.'"
 
-==== Kinh 56.2. Người Chết Đọa Loài Thú (Manussacutitiracchānasuttaṃ)
+==== Kinh 56.103. Người Chết Đọa Loài Thú (Manussacutitiracchānasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ loài người, được tái sanh trở lại làm người; nhiều hơn
 hẳn là những chúng sanh, sau khi chết từ loài người, bị tái sanh vào
 loài thú. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.3. Người Chết Đọa Ngạ Quỷ (Manussacutipettivisayasuttaṃ)
+==== Kinh 56.104. Người Chết Đọa Ngạ Quỷ (Manussacutipettivisayasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ loài người, được tái sanh trở lại làm người; nhiều hơn
@@ -11975,7 +11975,7 @@ hẳn là những chúng sanh, sau khi chết từ loài người, bị tái san
 cõi ngạ quỷ. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh
 đế.
 
-#strong[Nhóm kinh 56.4–6 — Người Chết Sanh Thiên Và Các Ác Thú Khác (Manussacutidevanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.105–107 — Người Chết Sanh Thiên Và Các Ác Thú Khác (Manussacutidevanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ loài người, được tái sanh vào cõi chư thiên; nhiều hơn
@@ -11984,7 +11984,7 @@ hẳn là những chúng sanh, sau khi chết từ loài người, bị tái san
 thú; nhiều hơn hẳn là những chúng sanh bị tái sanh vào cõi ngạ quỷ.
 Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.7–9 — Chư Thiên Chết Đọa Các Ác Thú (Devacutinirayādisuttaṃ)]
+#strong[Nhóm kinh 56.108–110 — Chư Thiên Chết Đọa Các Ác Thú (Devacutinirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ cõi chư thiên, được tái sanh trở lại cõi chư thiên; nhiều
@@ -11993,7 +11993,7 @@ sanh vào địa ngục; nhiều hơn hẳn là những chúng sanh bị tái sa
 loài thú; nhiều hơn hẳn là những chúng sanh bị tái sanh vào cõi ngạ
 quỷ. Vì sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.10–12 — Chư Thiên Chết Sanh Người Và Đọa Các Ác Thú (Devamanussanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.111–113 — Chư Thiên Chết Sanh Người Và Đọa Các Ác Thú (Devamanussanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ cõi chư thiên, được tái sanh làm người; nhiều hơn hẳn là
@@ -12002,7 +12002,7 @@ ngục; nhiều hơn hẳn là những chúng sanh bị tái sanh vào loài th�
 nhiều hơn hẳn là những chúng sanh bị tái sanh vào cõi ngạ quỷ. Vì sao
 vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.13–15 — Địa Ngục Ra Sanh Người Và Trở Lại Các Ác Thú (Nirayamanussanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.114–116 — Địa Ngục Ra Sanh Người Và Trở Lại Các Ác Thú (Nirayamanussanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ địa ngục, được tái sanh làm người; nhiều hơn hẳn là những
@@ -12011,7 +12011,7 @@ nhiều hơn hẳn là những chúng sanh bị tái sanh vào loài thú; nhi�
 hẳn là những chúng sanh bị tái sanh vào cõi ngạ quỷ. Vì sao vậy? Này
 các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.16–18 — Địa Ngục Ra Sanh Thiên Và Trở Lại Các Ác Thú (Nirayadevanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.117–119 — Địa Ngục Ra Sanh Thiên Và Trở Lại Các Ác Thú (Nirayadevanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ địa ngục, được tái sanh vào cõi chư thiên; nhiều hơn hẳn
@@ -12020,7 +12020,7 @@ là những chúng sanh, sau khi chết từ địa ngục, bị tái sanh trở
 nhiều hơn hẳn là những chúng sanh bị tái sanh vào cõi ngạ quỷ. Vì sao
 vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.19–21 — Loài Thú Ra Sanh Người Và Trở Lại Các Ác Thú (Tiracchānamanussanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.120–122 — Loài Thú Ra Sanh Người Và Trở Lại Các Ác Thú (Tiracchānamanussanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ loài thú, được tái sanh làm người; nhiều hơn hẳn là những
@@ -12029,7 +12029,7 @@ hơn hẳn là những chúng sanh bị tái sanh trở lại loài thú; nhiề
 hẳn là những chúng sanh bị tái sanh vào cõi ngạ quỷ. Vì sao vậy? Này
 các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.22–24 — Loài Thú Ra Sanh Thiên Và Trở Lại Các Ác Thú (Tiracchānadevanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.123–125 — Loài Thú Ra Sanh Thiên Và Trở Lại Các Ác Thú (Tiracchānadevanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ loài thú, được tái sanh vào cõi chư thiên; nhiều hơn hẳn
@@ -12038,7 +12038,7 @@ ngục; nhiều hơn hẳn là những chúng sanh bị tái sanh trở lại lo
 nhiều hơn hẳn là những chúng sanh bị tái sanh vào cõi ngạ quỷ. Vì sao
 vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.25–27 — Ngạ Quỷ Ra Sanh Người Và Trở Lại Các Ác Thú (Pettimanussanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.126–128 — Ngạ Quỷ Ra Sanh Người Và Trở Lại Các Ác Thú (Pettimanussanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ cõi ngạ quỷ, được tái sanh làm người; nhiều hơn hẳn là
@@ -12047,7 +12047,7 @@ ngục; nhiều hơn hẳn là những chúng sanh bị tái sanh vào loài th�
 nhiều hơn hẳn là những chúng sanh bị tái sanh trở lại cõi ngạ quỷ. Vì
 sao vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-#strong[Nhóm kinh 56.28–29 — Ngạ Quỷ Ra Sanh Thiên Và Đọa Các Ác Thú (Pettidevanirayādisuttaṃ)]
+#strong[Nhóm kinh 56.129–130 — Ngạ Quỷ Ra Sanh Thiên Và Đọa Các Ác Thú (Pettidevanirayādisuttaṃ)]
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ cõi ngạ quỷ, được tái sanh vào cõi chư thiên; nhiều hơn
@@ -12057,7 +12057,7 @@ quỷ, được tái sanh vào cõi chư thiên; nhiều hơn hẳn là những 
 sanh, sau khi chết từ cõi ngạ quỷ, bị tái sanh vào loài thú. Vì sao
 vậy? Này các thầy, vì chưa thấy được bốn Thánh đế.
 
-==== Kinh 56.30. Ngạ Quỷ Ra Sanh Thiên Và Trở Lại Ngạ Quỷ (Pettidevapettivisayasuttaṃ)
+==== Kinh 56.131. Ngạ Quỷ Ra Sanh Thiên Và Trở Lại Ngạ Quỷ (Pettidevapettivisayasuttaṃ)
 
 #super[1] Cũng theo phương thức như trên: ít có những chúng sanh, sau
 khi chết từ cõi ngạ quỷ, được tái sanh vào cõi chư thiên; nhiều hơn

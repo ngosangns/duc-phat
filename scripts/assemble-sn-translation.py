@@ -176,17 +176,21 @@ def main():
                     blocks, warns = split_into_units(body, vag["sections"])
                     for w in warns:
                         problems.append(f"{pack}: {w}")
-                # Tiêu đề từng đơn vị, xen kẽ với thân bài của chính đơn vị đó
+                # Tiêu đề từng đơn vị, xen kẽ với thân bài của chính đơn vị đó.
+                # Nguồn đôi khi đánh số lại từ 1 giữa vagga (peyyāla), nên vị
+                # trí kinh = vị trí đếm, không phải số in trong nguồn.
+                pos = 0
                 for si, sec in enumerate(vag["sections"], start=1):
+                    span_n = (sec["to"] or sec["no"]) - sec["no"] + 1
                     if sec["kind"] == "sutta":
-                        no_from = offset + sec["no"]
-                        no_to = offset + (sec["to"] or sec["no"])
+                        no_from = offset + pos + 1
+                        no_to = offset + pos + span_n
                         num = f"{s_no}.{no_from}" if no_from == no_to else f"{s_no}.{no_from}–{no_to}"
                         vi = sec_titles.get((s_no, vag["index"], si), "")
                         chunks.append(f"==== Kinh {num}. {vi} ({sec['pali_name']})\n")
                     else:
-                        no_from = offset + sec["no"]
-                        no_to = offset + (sec["to"] or sec["no"])
+                        no_from = offset + pos + 1
+                        no_to = offset + pos + span_n
                         span = f"{no_from}" if no_from == no_to else f"{no_from}–{no_to}"
                         vi = sec_titles.get((s_no, vag["index"], si), "")
                         chunks.append(
@@ -194,6 +198,7 @@ def main():
                             + (f" — {vi}" if vi else "")
                             + f" ({sec['pali_name']})]\n")
                     done_units += 1
+                    pos += span_n
                     blocksi = blocks[si - 1]
                     if files:
                         nums = [int(x) for x in SUPER.findall(blocksi)]

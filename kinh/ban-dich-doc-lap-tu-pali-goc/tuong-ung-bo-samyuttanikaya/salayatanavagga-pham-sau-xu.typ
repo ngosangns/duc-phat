@@ -178,7 +178,7 @@ ba pháp ấy cho nội và ngoại xứ, thuộc ba thời.
 
 === Phẩm 2 (nguồn ghi 2). Song Đôi (Yamakavaggo)
 
-==== Kinh 35.1. Trước Khi Giác Ngộ Thứ Nhất (Paṭhamapubbesambodhasuttaṃ)
+==== Kinh 35.13. Trước Khi Giác Ngộ Thứ Nhất (Paṭhamapubbesambodhasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, trước khi giác ngộ,
 khi Ta còn là Bồ-tát, chưa chứng Chánh Đẳng Giác, Ta đã khởi lên ý
@@ -208,7 +208,7 @@ thiên và loài người là 'đã chứng đắc Vô thượng Chánh Đẳng 
 tri kiến đã sanh khởi trong Ta: 'Giải thoát của Ta không thể chuyển
 đổi, đây là lần sanh cuối cùng, nay không còn tái sanh nữa.'"
 
-==== Kinh 35.2. Trước Khi Giác Ngộ Thứ Hai (Dutiyapubbesambodhasuttaṃ)
+==== Kinh 35.14. Trước Khi Giác Ngộ Thứ Hai (Dutiyapubbesambodhasuttaṃ)
 
 #super[1] "Này các thầy, trước khi giác ngộ, khi Ta còn là Bồ-tát,
 chưa chứng Chánh Đẳng Giác, Ta đã khởi lên ý nghĩ này: 'Cái gì là vị
@@ -233,7 +233,7 @@ nhận… là 'đã chứng đắc Vô thượng Chánh Đẳng Giác.' Và tri 
 khởi trong Ta: 'Giải thoát của Ta không thể chuyển đổi, đây là lần
 sanh cuối cùng, nay không còn tái sanh nữa.'"
 
-==== Kinh 35.3. Đi Tìm Vị Ngọt Thứ Nhất (Paṭhamaassādapariyesanasuttaṃ)
+==== Kinh 35.15. Đi Tìm Vị Ngọt Thứ Nhất (Paṭhamaassādapariyesanasuttaṃ)
 
 #super[1] "Này các thầy, Ta đã đi tìm vị ngọt của mắt. Vị ngọt nào của
 mắt có mặt, Ta đã tìm được nó. Vị ngọt của mắt cho đến mức nào, điều
@@ -257,7 +257,7 @@ thượng Chánh Đẳng Giác.' Và tri kiến đã sanh khởi trong Ta: 'Gi�
 thoát của Ta không thể chuyển đổi, đây là lần sanh cuối cùng, nay
 không còn tái sanh nữa.'"
 
-==== Kinh 35.4. Đi Tìm Vị Ngọt Thứ Hai (Dutiyaassādapariyesanasuttaṃ)
+==== Kinh 35.16. Đi Tìm Vị Ngọt Thứ Hai (Dutiyaassādapariyesanasuttaṃ)
 
 #super[1] "Này các thầy, Ta đã đi tìm vị ngọt của các sắc. Vị ngọt nào
 của các sắc có mặt, Ta đã tìm được nó… điều ấy Ta đã thấy rõ bằng trí
@@ -274,7 +274,7 @@ thượng Chánh Đẳng Giác.' Và tri kiến đã sanh khởi trong Ta: 'Gi�
 thoát của Ta không thể chuyển đổi, đây là lần sanh cuối cùng, nay
 không còn tái sanh nữa.'"
 
-==== Kinh 35.5. Nếu Không Có Thứ Nhất (Paṭhamanoceassādasuttaṃ)
+==== Kinh 35.17. Nếu Không Có Thứ Nhất (Paṭhamanoceassādasuttaṃ)
 
 #super[1] "Này các thầy, nếu mắt không có vị ngọt, thì chúng sanh
 không thể đắm say nơi mắt. Nhưng vì mắt có vị ngọt, này các thầy, nên
@@ -298,7 +298,7 @@ hạn. Nhưng khi chúng sanh đã như thật biết rõ vị ngọt, tai hại
 xuất ly của sáu nội xứ này, thì chúng sanh mới sống với tâm thoát ly,
 tách rời, giải thoát, không còn bị giới hạn."
 
-==== Kinh 35.6. Nếu Không Có Thứ Hai (Dutiyanoceassādasuttaṃ)
+==== Kinh 35.18. Nếu Không Có Thứ Hai (Dutiyanoceassādasuttaṃ)
 
 #super[1] "Này các thầy, nếu các sắc không có vị ngọt, thì chúng sanh
 không thể đắm say nơi các sắc. Nhưng vì các sắc có vị ngọt, nên chúng
@@ -318,7 +318,7 @@ thoát ly, tách rời, giải thoát, không còn bị giới hạn. Nhưng khi
 sanh đã như thật biết rõ… chúng sanh mới sống với tâm thoát ly, tách
 rời, giải thoát, không còn bị giới hạn."
 
-==== Kinh 35.7. Hoan Hỷ Thứ Nhất (Paṭhamābhinandasuttaṃ)
+==== Kinh 35.19. Hoan Hỷ Thứ Nhất (Paṭhamābhinandasuttaṃ)
 
 #super[1] "Này các thầy, ai hoan hỷ với mắt là hoan hỷ với khổ. Ai
 hoan hỷ với khổ, Ta nói người ấy không thoát khỏi khổ. Ai hoan hỷ với
@@ -333,7 +333,7 @@ khổ, Ta nói người ấy đã thoát khỏi khổ. Ai không hoan hỷ với
 với ý là không hoan hỷ với khổ. Ai không hoan hỷ với khổ, Ta nói người
 ấy đã thoát khỏi khổ."
 
-==== Kinh 35.8. Hoan Hỷ Thứ Hai (Dutiyābhinandasuttaṃ)
+==== Kinh 35.20. Hoan Hỷ Thứ Hai (Dutiyābhinandasuttaṃ)
 
 #super[1] "Này các thầy, ai hoan hỷ với các sắc là hoan hỷ với khổ. Ai
 hoan hỷ với khổ, Ta nói người ấy không thoát khỏi khổ. Ai hoan hỷ với
@@ -346,7 +346,7 @@ với các thanh… các hương… các vị… các xúc… với các pháp l
 hỷ với khổ. Ai không hoan hỷ với khổ, Ta nói người ấy đã thoát khỏi
 khổ."
 
-==== Kinh 35.9. Sự Sanh Khởi Của Khổ Thứ Nhất (Paṭhamadukkhuppādasuttaṃ)
+==== Kinh 35.21. Sự Sanh Khởi Của Khổ Thứ Nhất (Paṭhamadukkhuppādasuttaṃ)
 
 #super[1] "Này các thầy, sự sanh, sự an trú, sự sanh thành, sự xuất
 hiện của mắt — đó là sự sanh khởi của khổ, sự tồn tại của các bệnh, sự
@@ -360,7 +360,7 @@ diệt của khổ, sự vắng lặng của các bệnh, sự chấm dứt củ
 vậy — đó là sự đoạn diệt của khổ, sự vắng lặng của các bệnh, sự chấm
 dứt của già chết."
 
-==== Kinh 35.10. Sự Sanh Khởi Của Khổ Thứ Hai (Dutiyadukkhuppādasuttaṃ)
+==== Kinh 35.22. Sự Sanh Khởi Của Khổ Thứ Hai (Dutiyadukkhuppādasuttaṃ)
 
 #super[1] "Này các thầy, sự sanh, sự an trú, sự sanh thành, sự xuất
 hiện của các sắc — đó là sự sanh khởi của khổ, sự tồn tại của các
@@ -387,7 +387,7 @@ Do đó phẩm này được gọi tên như vậy.
 
 === Phẩm 3 (nguồn ghi 3). Tất Cả (Sabbavaggo)
 
-==== Kinh 35.1. Tất Cả (Sabbasuttaṃ)
+==== Kinh 35.23. Tất Cả (Sabbasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy về tất cả. Hãy lắng nghe. Này các thầy, tất cả là gì? Mắt và các
@@ -398,7 +398,7 @@ nói rằng: 'Ta sẽ bác bỏ tất cả này rồi tuyên bố một tất c�
 thể trả lời được, và còn rơi vào sự bối rối. Vì sao vậy? Này các thầy,
 vì đó vượt ngoài phạm vi của người ấy."
 
-==== Kinh 35.2. Đoạn Tận (Pahānasuttaṃ)
+==== Kinh 35.24. Đoạn Tận (Pahānasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy pháp để đoạn tận tất
 cả. Hãy lắng nghe. Này các thầy, pháp để đoạn tận tất cả là gì? Này
@@ -415,7 +415,7 @@ tận, ý xúc cần được đoạn tận; phàm cảm thọ gì do duyên ý 
 khởi, dù lạc, khổ hay không khổ không lạc, cảm thọ ấy cũng cần được
 đoạn tận. Này các thầy, đó là pháp để đoạn tận tất cả."
 
-==== Kinh 35.3. Thắng Tri, Liễu Tri Và Đoạn Tận (Abhiññāpariññāpahānasuttaṃ)
+==== Kinh 35.25. Thắng Tri, Liễu Tri Và Đoạn Tận (Abhiññāpariññāpahānasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy pháp để thắng tri,
 liễu tri và đoạn tận tất cả. Hãy lắng nghe. Này các thầy, pháp để
@@ -431,7 +431,7 @@ vậy; phàm cảm thọ gì do duyên ý xúc sanh khởi… cần được th�
 liễu tri, đoạn tận. Này các thầy, đó là pháp để thắng tri, liễu tri và
 đoạn tận tất cả."
 
-==== Kinh 35.4. Không Liễu Tri Thứ Nhất (Paṭhamaaparijānanasuttaṃ)
+==== Kinh 35.26. Không Liễu Tri Thứ Nhất (Paṭhamaaparijānanasuttaṃ)
 
 #super[1] "Này các thầy, không thắng tri, không liễu tri, không ly
 tham, không đoạn tận tất cả, thì không có khả năng đoạn tận khổ. Này
@@ -464,7 +464,7 @@ tận cảm thọ ấy, thì có khả năng đoạn tận khổ. Này các th�
 thắng tri, liễu tri, ly tham, đoạn tận tất cả, thì có khả năng đoạn
 tận khổ."
 
-==== Kinh 35.5. Không Liễu Tri Thứ Hai (Dutiyaaparijānanasuttaṃ)
+==== Kinh 35.27. Không Liễu Tri Thứ Hai (Dutiyaaparijānanasuttaṃ)
 
 #super[1] "Này các thầy, không thắng tri, không liễu tri, không ly
 tham, không đoạn tận tất cả, thì không có khả năng đoạn tận khổ. Này
@@ -487,7 +487,7 @@ pháp, ý thức, và các pháp được nhận biết bởi ý thức — này
 thắng tri, liễu tri, ly tham, đoạn tận tất cả này, thì có khả năng
 đoạn tận khổ."
 
-==== Kinh 35.6. Đang Bốc Cháy (Ādittasuttaṃ)
+==== Kinh 35.28. Đang Bốc Cháy (Ādittasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Già-da (Gayā), nơi Ga-da-si-sa (Gayāsīsa), cùng với một
 ngàn Tỷ-kheo. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, tất cả
@@ -519,7 +519,7 @@ hoan hỷ, tín thọ lời Thế Tôn. Và trong khi bài thuyết giảng này
 nói lên, tâm của một ngàn Tỷ-kheo ấy được giải thoát khỏi các lậu
 hoặc, không còn chấp thủ.
 
-==== Kinh 35.7. Bị Thời Gian Chi Phối (Addhabhūtasuttaṃ)
+==== Kinh 35.29. Bị Thời Gian Chi Phối (Addhabhūtasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong
 rừng Trúc (Veḷuvana), nơi nuôi dưỡng loài sóc (Kalandakanivāpa). Tại
@@ -548,7 +548,7 @@ tham; do ly tham nên giải thoát; khi đã giải thoát thì có trí biết
 rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành,
 việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.8. Thích Hợp Để Đoạn Trừ Vọng Tưởng (Samugghātasāruppasuttaṃ)
+==== Kinh 35.30. Thích Hợp Để Đoạn Trừ Vọng Tưởng (Samugghātasāruppasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy con đường thích hợp
 để đoạn trừ tất cả các vọng tưởng. Hãy lắng nghe, khéo tác ý, Ta sẽ
@@ -580,7 +580,7 @@ thành, việc cần làm đã làm, không còn trở lại trạng thái này 
 Này các thầy, đó là con đường thích hợp để đoạn trừ tất cả các vọng
 tưởng."
 
-==== Kinh 35.9. Thuận Lợi Để Đoạn Trừ Vọng Tưởng Thứ Nhất (Paṭhamasamugghātasappāyasuttaṃ)
+==== Kinh 35.31. Thuận Lợi Để Đoạn Trừ Vọng Tưởng Thứ Nhất (Paṭhamasamugghātasappāyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy con đường đưa đến sự
 đoạn trừ tất cả các vọng tưởng. Hãy lắng nghe. Này các thầy, con đường
@@ -611,7 +611,7 @@ Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại 
 này nữa.' Này các thầy, đó là con đường đưa đến sự đoạn trừ tất cả các
 vọng tưởng."
 
-==== Kinh 35.10. Thuận Lợi Để Đoạn Trừ Vọng Tưởng Thứ Hai (Dutiyasamugghātasappāyasuttaṃ)
+==== Kinh 35.32. Thuận Lợi Để Đoạn Trừ Vọng Tưởng Thứ Hai (Dutiyasamugghātasappāyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy con đường đưa đến sự
 đoạn trừ tất cả các vọng tưởng. Hãy lắng nghe. Này các thầy, con đường
@@ -663,7 +663,7 @@ do đó phẩm này được gọi tên như vậy.
 
 === Phẩm 4 (nguồn ghi 4). Chịu Sự Sanh (Jātidhammavaggo)
 
-#strong[Nhóm kinh 35.1–10 — Chịu Sự Sanh, Già, Bệnh, Chết Và Các Pháp Khác (Jātidhammādisuttadasakaṃ)]
+#strong[Nhóm kinh 35.33–42 — Chịu Sự Sanh, Già, Bệnh, Chết Và Các Pháp Khác (Jātidhammādisuttadasakaṃ)]
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, tất cả chịu sự sanh.
 Này các thầy, tất cả chịu sự sanh là gì? Mắt, này các thầy, chịu sự
@@ -718,7 +718,7 @@ và pháp đoạn diệt — trọn mười kinh.
 
 === Phẩm 5 (nguồn ghi 5). Tất Cả Vô Thường (Sabbaaniccavaggo)
 
-#strong[Nhóm kinh 35.1–9 — Vô Thường, Khổ, Vô Ngã Và Các Pháp Khác (Aniccādisuttanavakaṃ)]
+#strong[Nhóm kinh 35.43–51 — Vô Thường, Khổ, Vô Ngã Và Các Pháp Khác (Aniccādisuttanavakaṃ)]
 
 #super[1] Nhân duyên tại Sāvatthi. "Này các thầy, tất cả là vô thường.
 Này các thầy, tất cả là vô thường là gì? Mắt, này các thầy, là vô
@@ -763,7 +763,7 @@ theo phương thức như trên."
 #super[9] "Này các thầy, tất cả bị tai họa chi phối. Cũng theo phương
 thức như trên."
 
-==== Kinh 35.10. Bị Hoạn Nạn Chi Phối (Upassaṭṭhasuttaṃ)
+==== Kinh 35.52. Bị Hoạn Nạn Chi Phối (Upassaṭṭhasuttaṃ)
 
 #super[1] "Này các thầy, tất cả bị hoạn nạn chi phối. Này các thầy,
 tất cả bị hoạn nạn chi phối là gì? Mắt, này các thầy, bị hoạn nạn chi
@@ -806,7 +806,7 @@ do đó phẩm thứ năm được gọi tên như vậy.
 
 === Phẩm 6 (nguồn ghi 6). Vô Minh (Avijjāvaggo)
 
-==== Kinh 35.1. Đoạn Trừ Vô Minh (Avijjāpahānasuttaṃ)
+==== Kinh 35.53. Đoạn Trừ Vô Minh (Avijjāpahānasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Có một vị Tỷ-kheo đi đến chỗ Thế
 Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Ngồi một bên, vị
@@ -823,7 +823,7 @@ không lạc nào sanh lên do duyên ý xúc, biết, thấy điều ấy là v
 thường thì vô minh được đoạn trừ, minh sanh khởi. Này Tỷ-kheo, biết
 như vậy, thấy như vậy thì vô minh được đoạn trừ, minh sanh khởi."
 
-==== Kinh 35.2. Đoạn Trừ Kiết Sử (Saṃyojanapahānasuttaṃ)
+==== Kinh 35.54. Đoạn Trừ Kiết Sử (Saṃyojanapahānasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, biết như thế nào, thấy như thế nào thì các
 kiết sử được đoạn trừ?" "Này Tỷ-kheo, biết, thấy mắt là vô thường thì
@@ -834,7 +834,7 @@ xúc… và bất cứ cảm thọ nào sanh lên do duyên ý xúc, biết, th�
 thường thì các kiết sử được đoạn trừ. Này Tỷ-kheo, biết như vậy, thấy
 như vậy thì các kiết sử được đoạn trừ."
 
-==== Kinh 35.3. Nhổ Tận Gốc Kiết Sử (Saṃyojanasamugghātasuttaṃ)
+==== Kinh 35.55. Nhổ Tận Gốc Kiết Sử (Saṃyojanasamugghātasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, biết như thế nào, thấy như thế nào thì các
 kiết sử được nhổ tận gốc?" "Này Tỷ-kheo, biết, thấy mắt là vô ngã thì
@@ -845,7 +845,7 @@ pháp… ý thức… ý xúc… và bất cứ cảm thọ nào sanh lên do du
 biết, thấy là vô ngã thì các kiết sử được nhổ tận gốc. Này Tỷ-kheo,
 biết như vậy, thấy như vậy thì các kiết sử được nhổ tận gốc."
 
-==== Kinh 35.4. Đoạn Trừ Lậu Hoặc (Āsavapahānasuttaṃ)
+==== Kinh 35.56. Đoạn Trừ Lậu Hoặc (Āsavapahānasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, biết như thế nào, thấy như thế nào thì các
 lậu hoặc được đoạn trừ?" — như trên đã nói (theo cách thức của kinh
@@ -855,7 +855,7 @@ nhãn xúc và cảm thọ sanh từ nhãn xúc là vô thường; tai… mũi�
 thân… ý, các pháp, ý thức, ý xúc và cảm thọ sanh từ ý xúc là vô
 thường — như vậy thì các lậu hoặc được đoạn trừ.
 
-==== Kinh 35.5. Nhổ Tận Gốc Lậu Hoặc (Āsavasamugghātasuttaṃ)
+==== Kinh 35.57. Nhổ Tận Gốc Lậu Hoặc (Āsavasamugghātasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, biết như thế nào, thấy như thế nào thì các
 lậu hoặc được nhổ tận gốc?" — như trên đã nói (theo cách thức của
@@ -863,14 +863,14 @@ kinh "Nhổ Tận Gốc Kiết Sử") — thay "các kiết sử" bằng "các l
 biết, thấy mắt và các pháp còn lại là vô ngã thì các lậu hoặc được
 nhổ tận gốc.
 
-==== Kinh 35.6. Đoạn Trừ Tùy Miên Thứ Nhất (Anusayapahānasuttaṃ)
+==== Kinh 35.58. Đoạn Trừ Tùy Miên Thứ Nhất (Anusayapahānasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, biết như thế nào, thấy như thế nào thì các
 tùy miên được đoạn trừ?" — như trên đã nói (theo cách thức của kinh
 "Đoạn Trừ Vô Minh") — thay "vô minh" bằng "các tùy miên": biết, thấy
 mắt và các pháp còn lại là vô thường thì các tùy miên được đoạn trừ.
 
-==== Kinh 35.7. Nhổ Tận Gốc Tùy Miên (Anusayasamugghātasuttaṃ)
+==== Kinh 35.59. Nhổ Tận Gốc Tùy Miên (Anusayasamugghātasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, biết như thế nào, thấy như thế nào thì các
 tùy miên được nhổ tận gốc?" "Này Tỷ-kheo, biết, thấy mắt là vô ngã
@@ -879,7 +879,7 @@ pháp… ý thức… ý xúc… và bất cứ cảm thọ nào sanh lên do du
 biết, thấy là vô ngã thì các tùy miên được nhổ tận gốc. Này Tỷ-kheo,
 biết như vậy, thấy như vậy thì các tùy miên được nhổ tận gốc."
 
-==== Kinh 35.8. Liễu Tri Tất Cả Thủ (Sabbupādānapariññāsuttaṃ)
+==== Kinh 35.60. Liễu Tri Tất Cả Thủ (Sabbupādānapariññāsuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy pháp liễu tri tất cả
 thủ. Hãy lắng nghe. Này các thầy, thế nào là pháp liễu tri tất cả
@@ -900,7 +900,7 @@ chán nên ly tham; do ly tham nên giải thoát; khi đã giải thoát thì
 biết rõ: 'Thủ của ta đã được liễu tri.' Này các thầy, đây là pháp
 liễu tri tất cả thủ."
 
-==== Kinh 35.9. Chấm Dứt Tất Cả Thủ Thứ Nhất (Paṭhamasabbupādānapariyādānasuttaṃ)
+==== Kinh 35.61. Chấm Dứt Tất Cả Thủ Thứ Nhất (Paṭhamasabbupādānapariyādānasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy pháp chấm dứt tất cả
 thủ. Hãy lắng nghe. Này các thầy, thế nào là pháp chấm dứt tất cả
@@ -919,7 +919,7 @@ pháp, nhàm chán đối với ý thức, nhàm chán đối với ý xúc, nh�
 đã giải thoát thì biết rõ: 'Thủ của ta đã được chấm dứt.' Này các
 thầy, đây là pháp chấm dứt tất cả thủ."
 
-==== Kinh 35.10. Chấm Dứt Tất Cả Thủ Thứ Hai (Dutiyasabbupādānapariyādānasuttaṃ)
+==== Kinh 35.62. Chấm Dứt Tất Cả Thủ Thứ Hai (Dutiyasabbupādānapariyādānasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy pháp chấm dứt tất cả
 thủ. Hãy lắng nghe. Này các thầy, thế nào là pháp chấm dứt tất cả
@@ -964,7 +964,7 @@ phẩm này được gọi tên như vậy.
 
 === Phẩm 7 (nguồn ghi 7). Di-già-la (Migajālavaggo)
 
-==== Kinh 35.1. Di-già-la Thứ Nhất (Paṭhamamigajālasuttaṃ)
+==== Kinh 35.63. Di-già-la Thứ Nhất (Paṭhamamigajālasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Tôn giả Di-già-la (Migajāla) đi đến chỗ Thế Tôn;
 đến rồi… ngồi một bên, Tôn giả Migajāla bạch Thế Tôn: "Bạch Thế Tôn, có
@@ -995,7 +995,7 @@ họ, thì cũng được gọi là người sống một mình. Vì sao vậy? 
 của vị ấy, mà ái ấy đã được đoạn trừ. Do đó gọi là người sống một
 mình."
 
-==== Kinh 35.2. Di-già-la Thứ Hai (Dutiyamigajālasuttaṃ)
+==== Kinh 35.64. Di-già-la Thứ Hai (Dutiyamigajālasuttaṃ)
 
 #super[1] Tôn giả Di-già-la (Migajāla) đi đến chỗ Thế Tôn; đến rồi… ngồi một bên,
 Tôn giả Migajāla bạch Thế Tôn: "Lành thay, bạch Thế Tôn, xin Thế Tôn
@@ -1026,7 +1026,7 @@ hạnh — mục đích mà các thiện nam tử chân chánh xuất gia, từ 
 hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này
 nữa." Tôn giả Migajāla trở thành một vị A-la-hán.
 
-==== Kinh 35.3. Sa-mi-đi Và Ác Ma Thứ Nhất (Paṭhamasamiddhimārapañhāsuttaṃ)
+==== Kinh 35.65. Sa-mi-đi Và Ác Ma Thứ Nhất (Paṭhamasamiddhimārapañhāsuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc (Veḷuvana), khu
 vườn nuôi sóc (Kalandakanivāpa). Tôn giả Samiddhi đi đến chỗ Thế Tôn;
@@ -1055,7 +1055,7 @@ có Ác ma, cũng không có khái niệm về Ác ma. Ở đâu không có thâ
 được nhận biết bởi ý thức, thì ở đó không có Ác ma, cũng không có
 khái niệm về Ác ma."
 
-==== Kinh 35.4. Sa-mi-đi Và Chúng Sanh (Samiddhisattapañhāsuttaṃ)
+==== Kinh 35.66. Sa-mi-đi Và Chúng Sanh (Samiddhisattapañhāsuttaṃ)
 
 #super[1] "Có người ta gọi là 'chúng sanh, chúng sanh.' Bạch Thế Tôn,
 thế nào là chúng sanh, hay thế nào là khái niệm về chúng sanh?" —
@@ -1065,7 +1065,7 @@ thức và các pháp được nhận biết tương ứng, thì ở đó có ch
 khái niệm về chúng sanh; ở đâu không có các pháp ấy thì không có
 chúng sanh, cũng không có khái niệm về chúng sanh.
 
-==== Kinh 35.5. Sa-mi-đi Và Khổ (Samiddhidukkhapañhāsuttaṃ)
+==== Kinh 35.67. Sa-mi-đi Và Khổ (Samiddhidukkhapañhāsuttaṃ)
 
 #super[1] "Có người ta gọi là 'khổ, khổ.' Bạch Thế Tôn, thế nào là
 khổ, hay thế nào là khái niệm về khổ?" — cũng theo cùng cách thức
@@ -1074,7 +1074,7 @@ thức và các pháp được nhận biết tương ứng, thì ở đó có kh
 niệm về khổ; ở đâu không có các pháp ấy thì không có khổ, cũng không
 có khái niệm về khổ.
 
-==== Kinh 35.6. Sa-mi-đi Và Thế Gian (Samiddhilokapañhāsuttaṃ)
+==== Kinh 35.68. Sa-mi-đi Và Thế Gian (Samiddhilokapañhāsuttaṃ)
 
 #super[1] "Có người ta gọi là 'thế gian, thế gian.' Bạch Thế Tôn, thế
 nào là thế gian, hay thế nào là khái niệm về thế gian?" "Này
@@ -1091,7 +1091,7 @@ có lưỡi… ở đâu không có ý, không có các pháp, không có ý th�
 có các pháp được nhận biết bởi ý thức, thì ở đó không có thế gian,
 cũng không có khái niệm về thế gian."
 
-==== Kinh 35.7. U-ba-sê-na Và Con Rắn Độc (Upasenaāsīvisasuttaṃ)
+==== Kinh 35.69. U-ba-sê-na Và Con Rắn Độc (Upasenaāsīvisasuttaṃ)
 
 #super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) và Tôn giả Upasena trú tại
 Vương Xá (Rājagaha), trong rừng Lạnh (Sītavana), tại hang Đầu Rắn. Bấy giờ, một
@@ -1115,7 +1115,7 @@ Tỷ-kheo khiêng thân Tôn giả Upasena lên chiếc giường và đem ra ng
 Ngay lúc ấy, thân Tôn giả Upasena tan rã ngay tại đó, như một đám trấu
 bị tung ra.
 
-==== Kinh 35.8. U-ba-va-na (Upavāṇasandiṭṭhikasuttaṃ)
+==== Kinh 35.70. U-ba-va-na (Upavāṇasandiṭṭhikasuttaṃ)
 
 #super[1] Tôn giả Ưu-ba-ma-na (Upavāṇa) đi đến chỗ Thế Tôn; đến rồi… ngồi một bên,
 Tôn giả Upavāṇa bạch Thế Tôn: "Có người ta gọi là 'pháp tự mình thấy,
@@ -1149,7 +1149,7 @@ pháp ở nội tâm.' Đó cũng gọi là pháp tự mình thấy, không bị
 chi phối, mời người đến để tự mình xem, có thể dẫn đến nơi, được người
 có trí tự mình thể nghiệm."
 
-==== Kinh 35.9. Sáu Xúc Xứ Thứ Nhất (Paṭhamachaphassāyatanasuttaṃ)
+==== Kinh 35.71. Sáu Xúc Xứ Thứ Nhất (Paṭhamachaphassāyatanasuttaṃ)
 
 #super[1] "Này các thầy, Tỷ-kheo nào không như thật rõ biết sự tập
 khởi, sự đoạn diệt, vị ngọt, sự tai hại và sự xuất ly của sáu xúc xứ,
@@ -1171,7 +1171,7 @@ thật, bằng chánh trí tuệ, là: 'Đây không phải của tôi, đây kh
 là tôi, đây không phải tự ngã của tôi.' Đây chính là chỗ chấm dứt của
 khổ."
 
-==== Kinh 35.10. Sáu Xúc Xứ Thứ Hai (Dutiyachaphassāyatanasuttaṃ)
+==== Kinh 35.72. Sáu Xúc Xứ Thứ Hai (Dutiyachaphassāyatanasuttaṃ)
 
 #super[1] "Này các thầy, Tỷ-kheo nào không như thật rõ biết sự tập
 khởi, sự đoạn diệt, vị ngọt, sự tai hại và sự xuất ly của sáu xúc xứ,
@@ -1195,7 +1195,7 @@ chánh trí tuệ, là: 'Đây không phải của tôi, đây không phải là
 đây không phải tự ngã của tôi.' Như vậy, xúc xứ thứ sáu này sẽ được
 ông đoạn trừ, đưa đến không còn tái sanh trong tương lai."
 
-==== Kinh 35.11. Sáu Xúc Xứ Thứ Ba (Tatiyachaphassāyatanasuttaṃ)
+==== Kinh 35.73. Sáu Xúc Xứ Thứ Ba (Tatiyachaphassāyatanasuttaṃ)
 
 #super[1] "Này các thầy, Tỷ-kheo nào không như thật rõ biết sự tập
 khởi, sự đoạn diệt, vị ngọt, sự tai hại và sự xuất ly của sáu xúc xứ,
@@ -1231,7 +1231,7 @@ và ba kinh về sáu xúc xứ.
 
 === Phẩm 8 (nguồn ghi 8). Bệnh (Gilānavaggo)
 
-==== Kinh 35.1. Người Bệnh Thứ Nhất (Paṭhamagilānasuttaṃ)
+==== Kinh 35.74. Người Bệnh Thứ Nhất (Paṭhamagilānasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Có một vị Tỷ-kheo đi đến chỗ Thế
 Tôn; đến rồi… ngồi một bên, vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn,
@@ -1274,7 +1274,7 @@ Thế Tôn. Và trong khi bài thuyết giảng này đang được nói, Pháp 
 không còn cấu uế đã sanh khởi nơi vị Tỷ-kheo ấy: "Bất cứ pháp gì có
 tánh tập khởi, tất cả pháp ấy đều có tánh đoạn diệt."
 
-==== Kinh 35.2. Người Bệnh Thứ Hai (Dutiyagilānasuttaṃ)
+==== Kinh 35.75. Người Bệnh Thứ Hai (Dutiyagilānasuttaṃ)
 
 #super[1] Có một vị Tỷ-kheo đi đến chỗ Thế Tôn… bạch Thế Tôn cùng
 những lời như trên về một vị Tỷ-kheo trẻ đang bị bệnh nặng. Thế Tôn
@@ -1301,7 +1301,7 @@ Thế Tôn nói như vậy. Vị Tỷ-kheo ấy hoan hỷ, tín thọ lời Th�
 trong khi bài thuyết giảng này đang được nói, tâm vị Tỷ-kheo ấy được
 giải thoát khỏi các lậu hoặc, không còn chấp thủ.
 
-==== Kinh 35.3. La-đà Và Vô Thường (Rādhaaniccasuttaṃ)
+==== Kinh 35.76. La-đà Và Vô Thường (Rādhaaniccasuttaṃ)
 
 #super[1] Tôn giả La-đà (Rādha) đi đến chỗ Thế Tôn; đến rồi… ngồi một bên, Tôn
 giả Rādha bạch Thế Tôn: "Lành thay, bạch Thế Tôn, xin Thế Tôn thuyết
@@ -1317,7 +1317,7 @@ lên do duyên ý xúc, cái ấy cũng là vô thường. Đối với những 
 lòng dục cần được đoạn trừ. Này Rādha, cái gì vô thường, đối với cái
 ấy lòng dục cần được đoạn trừ."
 
-==== Kinh 35.4. La-đà Và Khổ (Rādhadukkhasuttaṃ)
+==== Kinh 35.77. La-đà Và Khổ (Rādhadukkhasuttaṃ)
 
 #super[1] "Này La-đà (Rādha), cái gì là khổ, đối với cái ấy lòng dục cần được
 đoạn trừ. Cái gì là khổ? Này Rādha, mắt là khổ. Đối với mắt, lòng dục
@@ -1328,7 +1328,7 @@ xúc… và bất cứ cảm thọ nào sanh lên do duyên ý xúc, cái ấy c
 khổ. Đối với những pháp ấy, lòng dục cần được đoạn trừ. Này Rādha,
 cái gì là khổ, đối với cái ấy lòng dục cần được đoạn trừ."
 
-==== Kinh 35.5. La-đà Và Vô Ngã (Rādhaanattasuttaṃ)
+==== Kinh 35.78. La-đà Và Vô Ngã (Rādhaanattasuttaṃ)
 
 #super[1] "Này La-đà (Rādha), cái gì là vô ngã, đối với cái ấy lòng dục cần
 được đoạn trừ. Cái gì là vô ngã? Này Rādha, mắt là vô ngã. Đối với
@@ -1340,7 +1340,7 @@ cái ấy cũng là vô ngã. Đối với những pháp ấy, lòng dục cần
 trừ. Này Rādha, cái gì là vô ngã, đối với cái ấy lòng dục cần được
 đoạn trừ."
 
-==== Kinh 35.6. Đoạn Trừ Vô Minh Thứ Nhất (Paṭhamaavijjāpahānasuttaṃ)
+==== Kinh 35.79. Đoạn Trừ Vô Minh Thứ Nhất (Paṭhamaavijjāpahānasuttaṃ)
 
 #super[1] Có một vị Tỷ-kheo đi đến chỗ Thế Tôn; đến rồi… ngồi một bên,
 vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, có một pháp nào mà nhờ đoạn
@@ -1360,7 +1360,7 @@ sanh lên do duyên ý xúc, biết, thấy là vô thường thì Tỷ-kheo đo
 được vô minh, làm sanh khởi minh. Này Tỷ-kheo, biết như vậy, thấy như
 vậy thì Tỷ-kheo đoạn trừ được vô minh, làm sanh khởi minh."
 
-==== Kinh 35.7. Đoạn Trừ Vô Minh Thứ Hai (Dutiyaavijjāpahānasuttaṃ)
+==== Kinh 35.80. Đoạn Trừ Vô Minh Thứ Hai (Dutiyaavijjāpahānasuttaṃ)
 
 #super[1] Có một vị Tỷ-kheo đi đến chỗ Thế Tôn… bạch Thế Tôn hỏi cùng
 câu hỏi như trên: "Bạch Thế Tôn, có một pháp nào mà nhờ đoạn trừ nó,
@@ -1379,7 +1379,7 @@ các pháp… ý thức… ý xúc… và bất cứ cảm thọ nào sanh lên 
 xúc, cũng thấy theo một cách khác. Này Tỷ-kheo, biết như vậy, thấy
 như vậy thì vô minh được đoạn trừ, minh sanh khởi."
 
-==== Kinh 35.8. Nhiều Vị Tỷ-kheo (Sambahulabhikkhusuttaṃ)
+==== Kinh 35.81. Nhiều Vị Tỷ-kheo (Sambahulabhikkhusuttaṃ)
 
 #super[1] Có nhiều vị Tỷ-kheo đi đến chỗ Thế Tôn; đến rồi… ngồi một
 bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, ở đây các du sĩ ngoại
@@ -1409,7 +1409,7 @@ chính là khổ ấy, này hiền giả, mà vì sự liễu tri nó Phạm h�
 sống dưới sự chỉ dạy của Thế Tôn.' Được hỏi như vậy, này các Tỷ-kheo,
 các thầy nên trả lời các du sĩ ngoại đạo ấy như vậy."
 
-==== Kinh 35.9. Câu Hỏi Về Thế Gian (Lokapañhāsuttaṃ)
+==== Kinh 35.82. Câu Hỏi Về Thế Gian (Lokapañhāsuttaṃ)
 
 #super[1] Có một vị Tỷ-kheo đi đến chỗ Thế Tôn; đến rồi… ngồi một bên,
 vị Tỷ-kheo ấy bạch Thế Tôn: "Có người ta gọi là 'thế gian, thế gian.'
@@ -1422,7 +1422,7 @@ bị hoại diệt, ý thức bị hoại diệt, ý xúc bị hoại diệt, v�
 thọ nào sanh lên do duyên ý xúc, cái ấy cũng bị hoại diệt. Này
 Tỷ-kheo, vì bị hoại diệt nên gọi là thế gian."
 
-==== Kinh 35.10. Câu Hỏi Của Pha-gu-na (Phaggunapañhāsuttaṃ)
+==== Kinh 35.83. Câu Hỏi Của Pha-gu-na (Phaggunapañhāsuttaṃ)
 
 #super[1] Tôn giả Phagguna đi đến chỗ Thế Tôn; đến rồi… ngồi một bên,
 Tôn giả Phagguna bạch Thế Tôn: "Bạch Thế Tôn, có mắt nào mà nhờ mắt
@@ -1447,7 +1447,7 @@ Tỷ-kheo, thế gian và Phagguna.
 
 === Phẩm 9 (nguồn ghi 9). Xán-nặc (Channavaggo)
 
-==== Kinh 35.1. Pháp Hoại Diệt (Palokadhammasuttaṃ)
+==== Kinh 35.84. Pháp Hoại Diệt (Palokadhammasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn;
 đến rồi… ngồi một bên, Tôn giả Ānanda bạch Thế Tôn: "Có người ta gọi
@@ -1465,7 +1465,7 @@ bất cứ cảm thọ nào sanh lên do duyên ý xúc, cái ấy cũng có tá
 diệt. Này Ānanda, cái gì có tánh hoại diệt, đó gọi là thế gian trong
 Luật của bậc Thánh."
 
-==== Kinh 35.2. Thế Gian Là Không (Suññatalokasuttaṃ)
+==== Kinh 35.85. Thế Gian Là Không (Suññatalokasuttaṃ)
 
 #super[1] Tôn giả A-nan (Ānanda) bạch Thế Tôn: "Có người ta gọi là 'thế gian
 là không, thế gian là không.' Bạch Thế Tôn, do đâu mà gọi là thế gian
@@ -1480,7 +1480,7 @@ cũng là không đối với tự ngã hay đối với những gì thuộc v�
 Ānanda, vì nó là không đối với tự ngã hay đối với những gì thuộc về tự
 ngã, nên gọi là thế gian là không."
 
-==== Kinh 35.3. Bài Thuyết Vắn Tắt Cho A-nan (Saṃkhittadhammasuttaṃ)
+==== Kinh 35.86. Bài Thuyết Vắn Tắt Cho A-nan (Saṃkhittadhammasuttaṃ)
 
 #super[1] Ngồi một bên, Tôn giả A-nan (Ānanda) bạch Thế Tôn: "Lành thay, bạch
 Thế Tôn, xin Thế Tôn thuyết pháp vắn tắt cho con, để con, sau khi
@@ -1507,7 +1507,7 @@ thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã
 hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này
 nữa.'"
 
-==== Kinh 35.4. Xán-nặc (Channasuttaṃ)
+==== Kinh 35.87. Xán-nặc (Channasuttaṃ)
 
 #super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta), Tôn giả Đại-Thuần-đà (Mahācunda) và Tôn giả
 Xa-nặc (Channa) trú tại núi Gijjhakūṭa (Kên Kên), thành Vương Xá (Rājagaha). Bấy giờ, Tôn
@@ -1598,7 +1598,7 @@ chấp thủ một thân khác, Ta gọi người ấy là đáng trách. Điề
 có ở Tỷ-kheo Channa. Này Sāriputta, hãy ghi nhận như vầy: 'Tỷ-kheo
 Channa đã tự sát mà không có gì đáng trách.'"
 
-==== Kinh 35.5. Phú-lâu-na (Puṇṇasuttaṃ)
+==== Kinh 35.88. Phú-lâu-na (Puṇṇasuttaṃ)
 
 #super[1] Tôn giả Phú-lâu-na (Puṇṇa) đi đến chỗ Thế Tôn; đến rồi… ngồi một bên, Tôn
 giả Puṇṇa bạch Thế Tôn: "Lành thay, bạch Thế Tôn, xin Thế Tôn thuyết
@@ -1658,7 +1658,7 @@ Tỷ-kheo, thiện nam tử Puṇṇa là người có trí tuệ, đã thực h
 theo pháp và tùy pháp, không làm phiền nhiễu Ta vì lý do pháp. Này
 các Tỷ-kheo, thiện nam tử Puṇṇa đã nhập Niết-bàn."
 
-==== Kinh 35.6. Bà-hi (Bāhiyasuttaṃ)
+==== Kinh 35.89. Bà-hi (Bāhiyasuttaṃ)
 
 #super[1] Tôn giả Bà-hi (Bāhiya) đi đến chỗ Thế Tôn; đến rồi… ngồi một bên,
 Tôn giả Bāhiya bạch Thế Tôn: "Lành thay, bạch Thế Tôn, xin Thế Tôn
@@ -1680,7 +1680,7 @@ biết rõ: "Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã 
 còn trở lại trạng thái này nữa." Tôn giả Bāhiya trở thành một vị
 A-la-hán.
 
-==== Kinh 35.7. Dục Vọng Dao Động Thứ Nhất (Paṭhamaejāsuttaṃ)
+==== Kinh 35.90. Dục Vọng Dao Động Thứ Nhất (Paṭhamaejāsuttaṃ)
 
 #super[1] "Này các thầy, dục vọng dao động (ejā) là bệnh, dục vọng dao
 động là mụn nhọt, dục vọng dao động là mũi tên. Vì vậy, này các thầy,
@@ -1713,7 +1713,7 @@ chấp thủ điều gì ở đời; không chấp thủ nên không sợ hãi; 
 nên tự mình nhập Niết-bàn. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã
 thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.8. Dục Vọng Dao Động Thứ Hai (Dutiyaejāsuttaṃ)
+==== Kinh 35.91. Dục Vọng Dao Động Thứ Hai (Dutiyaejāsuttaṃ)
 
 #super[1] "Này các thầy, dục vọng dao động là bệnh, dục vọng dao động
 là mụn nhọt, dục vọng dao động là mũi tên. Vì vậy, này các thầy, Như
@@ -1738,7 +1738,7 @@ chấp thủ nên không sợ hãi; không sợ hãi nên tự mình nhập Ni�
 ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.9. Cái Đôi Thứ Nhất (Paṭhamadvayasuttaṃ)
+==== Kinh 35.92. Cái Đôi Thứ Nhất (Paṭhamadvayasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về cái đôi. Hãy lắng
 nghe. Này các thầy, cái đôi là gì? Mắt và các sắc, tai và các tiếng,
@@ -1749,7 +1749,7 @@ suông của người ấy; khi bị hỏi, người ấy sẽ không thể tr�
 lại còn rơi vào bối rối. Vì sao vậy? Vì này các thầy, điều ấy vượt
 ngoài khả năng của người ấy."
 
-==== Kinh 35.10. Cái Đôi Thứ Hai (Dutiyadvayasuttaṃ)
+==== Kinh 35.93. Cái Đôi Thứ Hai (Dutiyadvayasuttaṃ)
 
 #super[1] "Này các thầy, duyên vào cái đôi mà thức sanh khởi. Duyên
 vào cái đôi như thế nào mà thức sanh khởi? Do duyên mắt và các sắc,
@@ -1796,7 +1796,7 @@ và hai kinh khác về cái đôi.
 
 === Phẩm 10 (nguồn ghi 10). Sáu Xứ (Saḷavaggo)
 
-==== Kinh 35.1. Không Điều Phục, Không Canh Giữ (Adantaaguttasuttaṃ)
+==== Kinh 35.94. Không Điều Phục, Không Canh Giữ (Adantaaguttasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, có sáu xúc xứ này,
 nếu không được điều phục, không được canh giữ, không được bảo vệ,
@@ -1847,7 +1847,7 @@ tâm của người ấy, khi bị xúc chạm, không còn dao động ở đâ
 Này các Tỷ-kheo, hãy nhiếp phục tham và sân ấy, \
 để đi đến bờ kia của sanh và tử."
 
-==== Kinh 35.2. Ma-lân-khê (Mālukyaputtasuttaṃ)
+==== Kinh 35.95. Ma-lân-khê (Mālukyaputtasuttaṃ)
 
 #super[1] Tôn giả Ma-lân-khê (Māluṅkyaputta) đi đến chỗ Thế Tôn; đến rồi… ngồi một
 bên, Tôn giả Māluṅkyaputta bạch Thế Tôn: "Lành thay, bạch Thế Tôn, xin
@@ -1925,7 +1925,7 @@ thắng trí và an trú mục đích tối cao của Phạm hạnh. Vị ấy b
 lại trạng thái này nữa." Tôn giả Māluṅkyaputta trở thành một vị
 A-la-hán.
 
-==== Kinh 35.3. Pháp Suy Thoái (Parihānadhammasuttaṃ)
+==== Kinh 35.96. Pháp Suy Thoái (Parihānadhammasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về pháp suy thoái,
 pháp không suy thoái, và sáu xứ chế ngự. Hãy lắng nghe. Này các thầy,
@@ -1963,7 +1963,7 @@ không sanh khởi. Tỷ-kheo cần phải biết rõ: 'Xứ này đã được 
 Điều này được Thế Tôn gọi là xứ chế ngự. Này các thầy, đó gọi là sáu
 xứ chế ngự."
 
-==== Kinh 35.4. Người Sống Phóng Dật (Pamādavihārīsuttaṃ)
+==== Kinh 35.97. Người Sống Phóng Dật (Pamādavihārīsuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về người sống phóng
 dật và người sống không phóng dật. Hãy lắng nghe. Này các thầy, thế
@@ -1990,7 +1990,7 @@ pháp do ý nhận biết. Tâm không bị nhiễm ô thì hân hoan sanh khở
 các pháp hiện rõ, người ấy được gọi là sống không phóng dật. Này các
 thầy, như vậy là người sống không phóng dật."
 
-==== Kinh 35.5. Thu Nhiếp (Saṃvarasuttaṃ)
+==== Kinh 35.98. Thu Nhiếp (Saṃvarasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về thu nhiếp và
 không thu nhiếp. Hãy lắng nghe. Này các thầy, thế nào là không thu
@@ -2014,7 +2014,7 @@ say chúng, Tỷ-kheo cần phải biết rõ: 'Ta không suy thoái đối vớ
 thiện pháp.' Điều này được Thế Tôn gọi là không suy thoái. Này các
 thầy, như vậy là thu nhiếp."
 
-==== Kinh 35.6. Định (Samādhisuttaṃ)
+==== Kinh 35.99. Định (Samādhisuttaṃ)
 
 #super[1] "Này các thầy, hãy tu tập định. Này các thầy, Tỷ-kheo có
 định thì biết rõ đúng như thật. Biết rõ điều gì đúng như thật? Biết
@@ -2027,7 +2027,7 @@ thường'… biết rõ đúng như thật: 'Ý là vô thường.' Các pháp�
 duyên ý xúc, cái ấy cũng là vô thường.' Này các thầy, hãy tu tập
 định. Này các thầy, Tỷ-kheo có định thì biết rõ đúng như thật."
 
-==== Kinh 35.7. Thiền Tịnh Độc Cư (Paṭisallānasuttaṃ)
+==== Kinh 35.100. Thiền Tịnh Độc Cư (Paṭisallānasuttaṃ)
 
 #super[1] "Này các thầy, hãy chuyên tâm vào việc thiền tịnh độc cư.
 Này các thầy, Tỷ-kheo thiền tịnh độc cư thì biết rõ đúng như thật.
@@ -2041,7 +2041,7 @@ là vô thường.' Này các thầy, hãy chuyên tâm vào việc thiền tị
 cư. Này các thầy, Tỷ-kheo thiền tịnh độc cư thì biết rõ đúng như
 thật."
 
-==== Kinh 35.8. Không Phải Của Các Người Thứ Nhất (Paṭhamanatumhākaṃsuttaṃ)
+==== Kinh 35.101. Không Phải Của Các Người Thứ Nhất (Paṭhamanatumhākaṃsuttaṃ)
 
 #super[1] "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó.
 Từ bỏ nó sẽ đem lại lợi lạc, an vui cho các thầy. Này các thầy, cái
@@ -2075,7 +2075,7 @@ thức… nhãn xúc… và bất cứ cảm thọ nào sanh lên do duyên ý x
 cũng không phải của các thầy. Hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi
 lạc, an vui cho các thầy."
 
-==== Kinh 35.9. Không Phải Của Các Người Thứ Hai (Dutiyanatumhākaṃsuttaṃ)
+==== Kinh 35.102. Không Phải Của Các Người Thứ Hai (Dutiyanatumhākaṃsuttaṃ)
 
 #super[1] "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ
 nó. Từ bỏ nó sẽ đem lại lợi lạc, an vui cho các thầy. Này các thầy,
@@ -2088,7 +2088,7 @@ không phải của các thầy. Hãy từ bỏ nó. Từ bỏ nó sẽ đem l�
 an vui. Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó.
 Từ bỏ nó sẽ đem lại lợi lạc, an vui cho các thầy."
 
-==== Kinh 35.10. Nước (Udakasuttaṃ)
+==== Kinh 35.103. Nước (Udakasuttaṃ)
 
 #super[1] "Này các thầy, du sĩ Udaka, con của La-ma (Rāma), thường nói như
 vầy: 'Đây chắc chắn là bậc đã đạt đến cùng tận của tri kiến, đây chắc
@@ -2154,7 +2154,7 @@ Trăm kinh thứ nhất.
 
 === Phẩm 11 (nguồn ghi 11). Yên Ổn (Yogakkhemivaggo)
 
-==== Kinh 35.1. Yên Ổn (Yogakkhemisuttaṃ)
+==== Kinh 35.104. Yên Ổn (Yogakkhemisuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các
 thầy pháp thoại về sự yên ổn. Hãy lắng nghe. Này các thầy, thế nào là
@@ -2171,7 +2171,7 @@ còn tồn tại, không còn khả năng sanh khởi lại trong tương lai. V
 tuyên bố sự đoạn tận các pháp ấy nên Như Lai được gọi là 'người yên
 ổn'. Này các thầy, đây gọi là pháp thoại về sự yên ổn."
 
-==== Kinh 35.2. Do Chấp Thủ (Upādāyasuttaṃ)
+==== Kinh 35.105. Do Chấp Thủ (Upādāyasuttaṃ)
 
 #super[1] "Bạch Thế Tôn, do cái gì có mặt, do chấp thủ cái gì mà lạc
 khổ nội tâm sanh khởi?" "Các pháp này lấy Thế Tôn làm căn bản… Này các
@@ -2192,7 +2192,7 @@ nên giải thoát; khi đã giải thoát thì có trí biết rằng đã gi�
 Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.3. Khổ Tập Khởi (Dukkhasamudayasuttaṃ)
+==== Kinh 35.106. Khổ Tập Khởi (Dukkhasamudayasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về sự tập khởi và sự
 đoạn tận của khổ. Hãy lắng nghe. Này các thầy, thế nào là sự tập khởi
@@ -2216,7 +2216,7 @@ sanh khởi. Do sự ly tham, đoạn tận hoàn toàn không còn dư tàn c�
 chính ái ấy nên thủ đoạn diệt … như vậy là sự đoạn diệt của toàn bộ
 khổ uẩn này. Này các thầy, đây là sự đoạn tận của khổ."
 
-==== Kinh 35.4. Thế Gian Tập Khởi (Lokasamudayasuttaṃ)
+==== Kinh 35.107. Thế Gian Tập Khởi (Lokasamudayasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về sự tập khởi và sự
 đoạn tận của thế gian. Hãy lắng nghe. Này các thầy, thế nào là sự tập
@@ -2241,7 +2241,7 @@ gian … cho đến do duyên lưỡi và các vị … do duyên ý và các ph
 như vậy … như vậy là sự đoạn diệt của toàn bộ khổ uẩn này. Này các
 thầy, đây là sự đoạn tận của thế gian."
 
-==== Kinh 35.5. Ta Hơn (Seyyohamasmisuttaṃ)
+==== Kinh 35.108. Ta Hơn (Seyyohamasmisuttaṃ)
 
 #super[1] "Bạch Thế Tôn, do cái gì có mặt, do chấp thủ cái gì, do
 thiên chấp vào cái gì mà có ý nghĩ 'ta hơn', hay 'ta bằng', hay 'ta
@@ -2265,7 +2265,7 @@ giải thoát; khi đã giải thoát thì có trí biết rằng đã giải th
 ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.6. Pháp Trói Buộc (Saṃyojaniyasuttaṃ)
+==== Kinh 35.109. Pháp Trói Buộc (Saṃyojaniyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về các pháp bị trói
 buộc và về sự trói buộc. Hãy lắng nghe. Này các thầy, thế nào là các
@@ -2275,7 +2275,7 @@ pháp bị trói buộc. Sự tham muốn dục lạc nào ở đó, đó là s�
 dục lạc nào ở đó, đó là sự trói buộc ở đó. Này các thầy, đây gọi là các
 pháp bị trói buộc, đây là sự trói buộc."
 
-==== Kinh 35.7. Pháp Chấp Thủ (Upādāniyasuttaṃ)
+==== Kinh 35.110. Pháp Chấp Thủ (Upādāniyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về các pháp bị chấp
 thủ và về sự chấp thủ. Hãy lắng nghe. Này các thầy, thế nào là các
@@ -2285,7 +2285,7 @@ pháp bị chấp thủ. Sự tham muốn dục lạc nào ở đó, đó là s�
 dục lạc nào ở đó, đó là sự chấp thủ ở đó. Này các thầy, đây gọi là các
 pháp bị chấp thủ, đây là sự chấp thủ."
 
-==== Kinh 35.8. Liễu Tri Nội Xứ (Ajjhattikāyatanaparijānanasuttaṃ)
+==== Kinh 35.111. Liễu Tri Nội Xứ (Ajjhattikāyatanaparijānanasuttaṃ)
 
 #super[1] "Này các thầy, không thắng tri, không liễu tri, không ly
 tham, không đoạn tận đối với mắt thì không thể đoạn tận khổ. Không
@@ -2294,7 +2294,7 @@ mũi… lưỡi… thân… ý thì không thể đoạn tận khổ. Này các 
 liễu tri, ly tham, đoạn tận đối với mắt thì có thể đoạn tận khổ …
 đối với lưỡi… thân… ý thì có thể đoạn tận khổ."
 
-==== Kinh 35.9. Liễu Tri Ngoại Xứ (Bāhirāyatanaparijānanasuttaṃ)
+==== Kinh 35.112. Liễu Tri Ngoại Xứ (Bāhirāyatanaparijānanasuttaṃ)
 
 #super[1] "Này các thầy, không thắng tri, không liễu tri, không ly
 tham, không đoạn tận đối với các sắc thì không thể đoạn tận khổ. Đối
@@ -2305,7 +2305,7 @@ sắc thì có thể đoạn tận khổ. Đối với các tiếng… các mùi
 xúc… các pháp, thắng tri, liễu tri, ly tham, đoạn tận thì có thể đoạn
 tận khổ."
 
-==== Kinh 35.10. Nghe Trộm (Upassutisuttaṃ)
+==== Kinh 35.113. Nghe Trộm (Upassutisuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại xứ Nha-đi-ca (Nātika), trong nhà gạch. Rồi Thế
 Tôn, trong khi độc cư thiền tịnh, đã nói lên pháp thoại này: "Do duyên
@@ -2346,7 +2346,7 @@ và nghe trộm — đủ mười kinh.
 
 === Phẩm 12 (nguồn ghi 12). Lòng Dục Đối Với Thế Gian (Lokakāmaguṇavaggo)
 
-==== Kinh 35.1. Bẫy Ác Ma Thứ Nhất (Paṭhamamārapāsasuttaṃ)
+==== Kinh 35.114. Bẫy Ác Ma Thứ Nhất (Paṭhamamārapāsasuttaṃ)
 
 #super[1] "Này các thầy, có các sắc do mắt nhận biết, đáng ưa, đáng
 thích, khả ý, có hình thái dễ mến, liên hệ đến dục, đáng say đắm. Nếu
@@ -2386,7 +2386,7 @@ không trú trong lãnh địa của Ác ma, không đi vào quyền lực của
 đã thoát khỏi chiếc bẫy của Ác ma, đã được giải thoát khỏi sự trói
 buộc của Ác ma, không thể bị Ác ma xử sự theo ý muốn."
 
-==== Kinh 35.2. Bẫy Ác Ma Thứ Hai (Dutiyamārapāsasuttaṃ)
+==== Kinh 35.115. Bẫy Ác Ma Thứ Hai (Dutiyamārapāsasuttaṃ)
 
 #super[1] "Này các thầy, có các sắc do mắt nhận biết, đáng ưa, đáng
 thích, khả ý, có hình thái dễ mến, liên hệ đến dục, đáng say đắm. Nếu
@@ -2419,7 +2419,7 @@ ma, không đi vào quyền lực của Ác ma, đã thoát khỏi chiếc bẫy
 ma, đã được giải thoát khỏi sự trói buộc của Ác ma, không thể bị Ác ma
 xử sự theo ý muốn."
 
-==== Kinh 35.3. Đi Đến Cùng Tận Thế Gian (Lokantagamanasuttaṃ)
+==== Kinh 35.116. Đi Đến Cùng Tận Thế Gian (Lokantagamanasuttaṃ)
 
 #super[1] "Này các thầy, Ta không nói rằng có thể đi đến chỗ cùng tận
 của thế gian bằng cách đi bộ, để biết, để thấy, để đạt tới nó. Nhưng
@@ -2506,7 +2506,7 @@ thầy hỏi Ta về ý nghĩa này, Ta cũng sẽ giải đáp giống như Ān
 giải đáp. Đây chính là ý nghĩa của lời ấy; các thầy hãy ghi nhớ như
 vậy."
 
-==== Kinh 35.4. Năm Dục Công Đức (Kāmaguṇasuttaṃ)
+==== Kinh 35.117. Năm Dục Công Đức (Kāmaguṇasuttaṃ)
 
 #super[1] "Này các thầy, trước khi Ta giác ngộ, khi chưa chứng Chánh
 Đẳng Giác, còn là Bồ-tát, Ta đã có ý nghĩ này: 'Năm dục công đức này
@@ -2551,7 +2551,7 @@ tuệ! Nếu các thầy hỏi Ta về ý nghĩa này, Ta cũng sẽ giải đá
 Ānanda đã giải đáp. Đây chính là ý nghĩa của lời ấy; các thầy hãy ghi
 nhớ như vậy."
 
-==== Kinh 35.5. Câu Hỏi Của Thiên Chủ Đế Thích (Sakkapañhasuttaṃ)
+==== Kinh 35.118. Câu Hỏi Của Thiên Chủ Đế Thích (Sakkapañhasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trên núi Linh Thứu (Gijjhakūṭa). Rồi
 Thiên chủ Thích-ca (Sakka) đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi đứng
@@ -2588,7 +2588,7 @@ chủ, Tỷ-kheo không chấp thủ thì được hoàn toàn giải thoát. N�
 chủ, đây là nhân, đây là duyên mà ở đây có một số chúng sanh ngay
 trong đời này được hoàn toàn giải thoát."
 
-==== Kinh 35.6. Ngũ Kế (Pañcasikhasuttaṃ)
+==== Kinh 35.119. Ngũ Kế (Pañcasikhasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trên núi Linh Thứu (Gijjhakūṭa). Rồi
 thiên tử Càn-thát-bà Ngũ Kế (Pañcasikha) đi đến Thế Tôn; sau khi đến, đảnh lễ
@@ -2615,7 +2615,7 @@ Pañcasikha, Tỷ-kheo không chấp thủ thì được hoàn toàn giải tho�
 Pañcasikha, đây là nhân, đây là duyên mà ở đây có một số chúng sanh
 ngay trong đời này được hoàn toàn giải thoát."
 
-==== Kinh 35.7. Đệ Tử Của Tôn Giả Xá-lợi-phất (Sāriputtasaddhivihārikasuttaṃ)
+==== Kinh 35.120. Đệ Tử Của Tôn Giả Xá-lợi-phất (Sāriputtasaddhivihārikasuttaṃ)
 
 #super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) trú tại Xá-vệ (Sāvatthi), trong rừng
 Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Rồi có một Tỷ-kheo đi đến Tôn
@@ -2660,7 +2660,7 @@ chuyên tâm tỉnh thức. Vậy nên, này hiền hữu, cần học tập nh�
 'Chúng ta sẽ có phòng hộ các căn, biết vừa đủ trong ăn uống, chuyên
 tâm tỉnh thức.' Này hiền hữu, các vị cần học tập như vậy."
 
-==== Kinh 35.8. Giáo Giới La-hầu-la (Rāhulovādasuttaṃ)
+==== Kinh 35.121. Giáo Giới La-hầu-la (Rāhulovādasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu
 vườn của Cấp Cô Độc (Anāthapiṇḍika). Rồi Thế Tôn, trong khi độc cư thiền tịnh, đã
@@ -2720,7 +2720,7 @@ Rāhula được giải thoát khỏi các lậu hoặc, không còn chấp th�
 ngàn chư thiên cũng khởi lên pháp nhãn thanh tịnh, không còn nhiễm ô:
 "Bất cứ pháp gì có sự tập khởi, tất cả pháp ấy đều có sự đoạn diệt."
 
-==== Kinh 35.9. Pháp Trói Buộc (Saṃyojaniyadhammasuttaṃ)
+==== Kinh 35.122. Pháp Trói Buộc (Saṃyojaniyadhammasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về các pháp bị trói
 buộc và về sự trói buộc. Hãy lắng nghe. Này các thầy, thế nào là các
@@ -2733,7 +2733,7 @@ lưỡi nhận biết … có các pháp do ý nhận biết, đáng ưa, đáng
 pháp bị trói buộc. Sự tham muốn dục lạc nào ở đó, đó là sự trói buộc ở
 đó."
 
-==== Kinh 35.10. Pháp Chấp Thủ (Upādāniyadhammasuttaṃ)
+==== Kinh 35.123. Pháp Chấp Thủ (Upādāniyadhammasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về các pháp bị chấp
 thủ và về sự chấp thủ. Hãy lắng nghe. Này các thầy, thế nào là các
@@ -2757,7 +2757,7 @@ Pháp trói buộc, pháp chấp thủ — đó là phẩm này.
 
 === Phẩm 13 (nguồn ghi 13). Gia Chủ (Gahapativaggo)
 
-==== Kinh 35.1. Gia Chủ Ug-ga Ở Tỳ-xá-ly (Vesālīsuttaṃ)
+==== Kinh 35.124. Gia Chủ Ug-ga Ở Tỳ-xá-ly (Vesālīsuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Tỳ-xá-ly (Vesāli), trong Đại Rừng, tại giảng
 đường có nóc nhọn. Rồi gia chủ Ugga người Vesāli đi đến Thế Tôn; sau
@@ -2791,7 +2791,7 @@ chấp thủ vào đó. Này Gia chủ, Tỷ-kheo không chấp thủ thì đư�
 toàn giải thoát. Này Gia chủ, đây là nhân, đây là duyên mà ở đây có
 một số chúng sanh ngay trong đời này được hoàn toàn giải thoát."
 
-==== Kinh 35.2. Gia Chủ Ug-ga Ở Xứ Bạt-kỳ (Vajjīsuttaṃ)
+==== Kinh 35.125. Gia Chủ Ug-ga Ở Xứ Bạt-kỳ (Vajjīsuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Bạt-kỳ (Vajji), tại làng
 Hát-thi (Hatthigāma). Rồi gia chủ Ugga người Hatthigāma đi đến Thế Tôn; sau khi
@@ -2804,7 +2804,7 @@ ngay trong đời này được hoàn toàn giải thoát?" (Như kinh trước,
 duyên mà ở đây có một số chúng sanh ngay trong đời này được hoàn toàn
 giải thoát."
 
-==== Kinh 35.3. Gia Chủ Ưu-ba-ly Ở Na-lan-đà (Nāḷandasuttaṃ)
+==== Kinh 35.126. Gia Chủ Ưu-ba-ly Ở Na-lan-đà (Nāḷandasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Na-lan-đà (Nāḷandā), trong rừng xoài
 Ba-ba-li-ca (Pāvārika). Rồi gia chủ Ưu-ba-ly (Upāli) đi đến Thế Tôn … ngồi một bên, gia chủ
@@ -2816,7 +2816,7 @@ ngay trong đời này được hoàn toàn giải thoát?" (Như kinh trước,
 duyên mà ở đây có một số chúng sanh ngay trong đời này được hoàn toàn
 giải thoát."
 
-==== Kinh 35.4. Đối Thoại Với Vua U-đê-na (Bhāradvājasuttaṃ)
+==== Kinh 35.127. Đối Thoại Với Vua U-đê-na (Bhāradvājasuttaṃ)
 
 #super[1] Một thời, Tôn giả Tân-đầu-lô-phả-la-đọa (Piṇḍolabhāradvāja) trú tại Kiều-thưởng-di (Kosambī), trong
 tinh xá Cù-sư-la (Ghosita). Rồi vua U-đê-na (Udena) đi đến Tôn giả Piṇḍolabhāradvāja; sau
@@ -2886,7 +2886,7 @@ những người có mắt có thể thấy được các hình sắc — cũng 
 Tôn ấy, quy y Pháp, quy y chúng Tỷ-kheo. Xin Tôn giả Bhāradvāja nhận
 con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 
-==== Kinh 35.5. Chàng Tô-na (Soṇasuttaṃ)
+==== Kinh 35.128. Chàng Tô-na (Soṇasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), tại Trúc Lâm, khu vườn
 nuôi sóc. Rồi chàng Tô-na (Soṇa), con của gia chủ, đi đến Thế Tôn; sau khi
@@ -2899,7 +2899,7 @@ trước, nên được trình bày rộng ra như vậy.) "Này Soṇa, đây l
 đây là duyên mà ở đây có một số chúng sanh ngay trong đời này được
 hoàn toàn giải thoát."
 
-==== Kinh 35.6. Gia Chủ Ghô-si-đa (Ghositasuttaṃ)
+==== Kinh 35.129. Gia Chủ Ghô-si-đa (Ghositasuttaṃ)
 
 #super[1] Một thời, Tôn giả A-nan (Ānanda) trú tại Kiều-thưởng-di (Kosambī), trong tinh xá
 Cù-sư-la (Ghosita). Rồi gia chủ Ghosita đi đến Tôn giả Ānanda … ngồi một bên, gia
@@ -2928,7 +2928,7 @@ giác không khổ không lạc. Do duyên xúc, thọ không khổ không lạc
 khởi. Này Gia chủ, sự sai biệt của các giới được Thế Tôn nói đến như
 vậy."
 
-==== Kinh 35.7. Gia Chủ Ha-li-đi-ca-ni (Hāliddikānisuttaṃ)
+==== Kinh 35.130. Gia Chủ Ha-li-đi-ca-ni (Hāliddikānisuttaṃ)
 
 #super[1] Một thời, Tôn giả Đại Ca-chiên-diên (Mahākaccāna) trú giữa dân chúng Ương-đế-na (Avantī),
 trên núi Ba-ba-đa (Papāta), tại Cu-la-la-gha-la (Kuraraghara). Rồi gia chủ Ha-li-đi-ca-ni (Hāliddikāni) đi đến Tôn
@@ -2956,7 +2956,7 @@ không khổ không lạc sanh khởi. Này Gia chủ, như vậy là do duyên 
 sai biệt của các giới, sự sai biệt của xúc sanh khởi; do duyên sự sai
 biệt của xúc, sự sai biệt của thọ sanh khởi."
 
-==== Kinh 35.8. Gia Chủ Na-cu-la-bi-đa (Nakulapitusuttaṃ)
+==== Kinh 35.131. Gia Chủ Na-cu-la-bi-đa (Nakulapitusuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Ba-ga (Bhagga), tại núi
 Su-su-ma-la-gi-la (Susumāragira), trong rừng Bê-sa-ca-la (Bhesakaḷā), chỗ vườn Nai. Rồi gia chủ
@@ -2990,7 +2990,7 @@ chấp thủ vào đó. Này Gia chủ, Tỷ-kheo không chấp thủ thì đư�
 toàn giải thoát. Này Gia chủ, đây là nhân, đây là duyên mà ở đây có
 một số chúng sanh ngay trong đời này được hoàn toàn giải thoát."
 
-==== Kinh 35.9. Bà-la-môn Lô-hi-gia (Lohiccasuttaṃ)
+==== Kinh 35.132. Bà-la-môn Lô-hi-gia (Lohiccasuttaṃ)
 
 #super[1] Một thời, Tôn giả Đại Ca-chiên-diên (Mahākaccāna) trú giữa dân chúng Ương-đế-na (Avantī),
 tại Makkarakata, trong một cái cốc trong rừng. Bấy giờ, nhiều thanh
@@ -3082,7 +3082,7 @@ bất cứ thanh niên hay thiếu nữ nào đảnh lễ Tôn giả Kaccāna, �
 tiếp đón, hay dâng chỗ ngồi hay nước, điều ấy sẽ đem lại lợi ích, an
 lạc lâu dài cho họ."
 
-==== Kinh 35.10. Nữ Bà-la-môn Bê-la-ha-xa-ni (Verahaccānisuttaṃ)
+==== Kinh 35.133. Nữ Bà-la-môn Bê-la-ha-xa-ni (Verahaccānisuttaṃ)
 
 #super[1] Một thời, Tôn giả Ưu đà di (Udāyī) trú tại Kāmaṇḍā, trong rừng xoài của
 Bà-la-môn Đạo-đề-da (Todeyya). Rồi một thanh niên đệ tử của nữ Bà-la-môn thuộc
@@ -3166,7 +3166,7 @@ LÔ-HI-GIA (Lohicca) và nữ Bà-la-môn Verahaccāni.
 
 === Phẩm 14 (nguồn ghi 14). Đề-bà-đa-ha (Devadahavaggo)
 
-==== Kinh 35.1. Đề-bà-đa-ha (Devadahasuttaṃ)
+==== Kinh 35.134. Đề-bà-đa-ha (Devadahasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dân chúng Thích-ca (Sakya), tại thị trấn của
 dân chúng Sakya tên là Devadaha. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này
@@ -3198,7 +3198,7 @@ trú, không quên lãng; thân được thư thái, không nóng nảy; tâm đ
 phóng dật như vậy, Ta nói rằng những Tỷ-kheo ấy cần thực hành không
 phóng dật đối với sáu xúc xứ."
 
-==== Kinh 35.2. Cơ Hội (Khaṇasuttaṃ)
+==== Kinh 35.135. Cơ Hội (Khaṇasuttaṃ)
 
 #super[1] "Này các thầy, các thầy đã được lợi ích, các thầy đã khéo
 được lợi ích, các thầy đã có được cơ hội để sống Phạm hạnh. Này các
@@ -3223,7 +3223,7 @@ không có pháp không khả ý. Này các thầy, các thầy đã được l�
 thầy đã khéo được lợi ích, các thầy đã có được cơ hội để sống Phạm
 hạnh."
 
-==== Kinh 35.3. Ưa Thích Sắc Thứ Nhất (Paṭhamarūpārāmasuttaṃ)
+==== Kinh 35.136. Ưa Thích Sắc Thứ Nhất (Paṭhamarūpārāmasuttaṃ)
 
 #super[1] "Này các thầy, chư thiên và loài người ưa thích sắc, đắm say
 trong sắc, hoan hỷ trong sắc. Này các thầy, chư thiên và loài người
@@ -3259,7 +3259,7 @@ cuốn theo, đã rơi vào lãnh địa của Ác ma, Pháp này không dễ đ
 ngộ. Ngoài các bậc Thánh, còn ai xứng đáng giác ngộ được chỗ ấy — chỗ
 mà, sau khi biết đúng đắn, các vị vô lậu đạt Niết-bàn hoàn toàn?"
 
-==== Kinh 35.4. Ưa Thích Sắc Thứ Hai (Dutiyarūpārāmasuttaṃ)
+==== Kinh 35.137. Ưa Thích Sắc Thứ Hai (Dutiyarūpārāmasuttaṃ)
 
 #super[1] "Này các thầy, chư thiên và loài người ưa thích sắc, đắm say
 trong sắc, hoan hỷ trong sắc. Này các thầy, chư thiên và loài người
@@ -3276,7 +3276,7 @@ hại và sự xuất ly của các tiếng… mùi… vị… xúc… pháp, Nh
 thích pháp, không đắm say trong pháp, không hoan hỷ trong pháp. Như
 Lai sống trong an lạc vì sự biến hoại, ly tham, đoạn diệt của pháp."
 
-==== Kinh 35.5. Không Phải Của Các Thầy Thứ Nhất (Paṭhamanatumhākaṃsuttaṃ)
+==== Kinh 35.138. Không Phải Của Các Thầy Thứ Nhất (Paṭhamanatumhākaṃsuttaṃ)
 
 #super[1] "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó.
 Từ bỏ nó sẽ đem lại lợi ích, an lạc cho các thầy. Này các thầy, cái gì
@@ -3297,7 +3297,7 @@ của các thầy; hãy từ bỏ nó. Nó được từ bỏ sẽ đem lại l�
 cho các thầy … ý không phải của các thầy; hãy từ bỏ nó. Nó được từ
 bỏ sẽ đem lại lợi ích, an lạc cho các thầy."
 
-==== Kinh 35.6. Không Phải Của Các Thầy Thứ Hai (Dutiyanatumhākaṃsuttaṃ)
+==== Kinh 35.139. Không Phải Của Các Thầy Thứ Hai (Dutiyanatumhākaṃsuttaṃ)
 
 #super[1] "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó.
 Từ bỏ nó sẽ đem lại lợi ích, an lạc cho các thầy. Này các thầy, cái gì
@@ -3309,7 +3309,7 @@ thầy. Này các thầy, cũng như trong rừng Kỳ-đà Lâm (Jetavana) này
 các thầy, các sắc không phải của các thầy; hãy từ bỏ chúng. Từ bỏ
 chúng sẽ đem lại lợi ích, an lạc cho các thầy."
 
-==== Kinh 35.7. Nhân Của Vô Thường Nội Xứ (Ajjhattāniccahetusuttaṃ)
+==== Kinh 35.140. Nhân Của Vô Thường Nội Xứ (Ajjhattāniccahetusuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường. Cái gì là nhân, là duyên
 làm sanh khởi mắt, cái ấy cũng vô thường. Này các thầy, mắt đã sanh ra
@@ -3325,7 +3325,7 @@ tham; do ly tham nên giải thoát; khi đã giải thoát thì có trí biết
 rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành,
 việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.8. Nhân Của Khổ Nội Xứ (Ajjhattadukkhahetusuttaṃ)
+==== Kinh 35.141. Nhân Của Khổ Nội Xứ (Ajjhattadukkhahetusuttaṃ)
 
 #super[1] "Này các thầy, mắt là khổ. Cái gì là nhân, là duyên làm
 sanh khởi mắt, cái ấy cũng là khổ. Này các thầy, mắt đã sanh ra từ
@@ -3337,7 +3337,7 @@ Này các thầy, ý đã sanh ra từ cái khổ, thì làm sao có thể là l
 được! Thấy như vậy … vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành,
 việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.9. Nhân Của Vô Ngã Nội Xứ (Ajjhattānattahetusuttaṃ)
+==== Kinh 35.142. Nhân Của Vô Ngã Nội Xứ (Ajjhattānattahetusuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô ngã. Cái gì là nhân, là duyên làm
 sanh khởi mắt, cái ấy cũng là vô ngã. Này các thầy, mắt đã sanh ra từ
@@ -3350,7 +3350,7 @@ có thể là tự ngã được! Thấy như vậy … vị ấy biết rõ: 'S
 Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái
 này nữa.'"
 
-==== Kinh 35.10. Nhân Của Vô Thường Ngoại Xứ (Bāhirāniccahetusuttaṃ)
+==== Kinh 35.143. Nhân Của Vô Thường Ngoại Xứ (Bāhirāniccahetusuttaṃ)
 
 #super[1] "Này các thầy, các sắc là vô thường. Cái gì là nhân, là
 duyên làm sanh khởi các sắc, cái ấy cũng vô thường. Này các thầy, các
@@ -3364,7 +3364,7 @@ ly tham; do ly tham nên giải thoát; khi đã giải thoát thì có trí bi�
 rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành,
 việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.11. Nhân Của Khổ Ngoại Xứ (Bāhiradukkhahetusuttaṃ)
+==== Kinh 35.144. Nhân Của Khổ Ngoại Xứ (Bāhiradukkhahetusuttaṃ)
 
 #super[1] "Này các thầy, các sắc là khổ. Cái gì là nhân, là duyên làm
 sanh khởi các sắc, cái ấy cũng là khổ. Này các thầy, các sắc đã sanh
@@ -3375,7 +3375,7 @@ từ cái khổ, thì làm sao có thể là lạc được! Thấy như vậy �
 rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn
 trở lại trạng thái này nữa.'"
 
-==== Kinh 35.12. Nhân Của Vô Ngã Ngoại Xứ (Bāhirānattahetusuttaṃ)
+==== Kinh 35.145. Nhân Của Vô Ngã Ngoại Xứ (Bāhirānattahetusuttaṃ)
 
 #super[1] "Này các thầy, các sắc là vô ngã. Cái gì là nhân, là duyên
 làm sanh khởi các sắc, cái ấy cũng là vô ngã. Này các thầy, các sắc
@@ -3401,7 +3401,7 @@ và hai kinh về nội, ngoại xứ.
 
 === Phẩm 15 (nguồn ghi 15). Nghiệp Mới Nghiệp Cũ (Navapurāṇavaggo)
 
-==== Kinh 35.1. Sự Đoạn Diệt Của Nghiệp (Kammanirodhasuttaṃ)
+==== Kinh 35.146. Sự Đoạn Diệt Của Nghiệp (Kammanirodhasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về nghiệp mới,
 nghiệp cũ, sự đoạn diệt của nghiệp, và con đường đưa đến sự đoạn diệt
@@ -3428,7 +3428,7 @@ làm cho các thầy. Này các thầy, đây là những gốc cây, đây là 
 căn nhà trống. Hãy hành thiền, này các thầy, đừng phóng dật, đừng để
 sau này phải hối hận. Đây là lời giáo huấn của Ta cho các thầy."
 
-==== Kinh 35.2. Con Đường Niết-bàn — Vô Thường (Aniccanibbānasappāyasuttaṃ)
+==== Kinh 35.147. Con Đường Niết-bàn — Vô Thường (Aniccanibbānasappāyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy con đường thích hợp
 để đạt Niết-bàn. Hãy lắng nghe … này các thầy, thế nào là con đường
@@ -3445,7 +3445,7 @@ xúc là vô thường. Bất cứ cảm thọ gì do duyên ý xúc sanh khởi
 lạc, khổ, hay không khổ không lạc — vị ấy cũng thấy cảm thọ ấy là vô
 thường. Này các thầy, đây là con đường thích hợp để đạt Niết-bàn ấy."
 
-==== Kinh 35.3. Con Đường Niết-bàn — Khổ (Dukkhanibbānasappāyasuttaṃ)
+==== Kinh 35.148. Con Đường Niết-bàn — Khổ (Dukkhanibbānasappāyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy con đường thích hợp
 để đạt Niết-bàn. Hãy lắng nghe … này các thầy, thế nào là con đường
@@ -3458,7 +3458,7 @@ xúc là khổ. Bất cứ cảm thọ gì do duyên ý xúc sanh khởi — dù
 khổ, hay không khổ không lạc — vị ấy cũng thấy cảm thọ ấy là khổ. Này
 các thầy, đây là con đường thích hợp để đạt Niết-bàn ấy."
 
-==== Kinh 35.4. Con Đường Niết-bàn — Vô Ngã (Anattanibbānasappāyasuttaṃ)
+==== Kinh 35.149. Con Đường Niết-bàn — Vô Ngã (Anattanibbānasappāyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy con đường thích hợp
 để đạt Niết-bàn. Hãy lắng nghe … này các thầy, thế nào là con đường
@@ -3472,7 +3472,7 @@ khởi — dù là lạc, khổ, hay không khổ không lạc — vị ấy cũ
 thọ ấy là vô ngã. Này các thầy, đây là con đường thích hợp để đạt
 Niết-bàn ấy."
 
-==== Kinh 35.5. Con Đường Niết-bàn — Đầy Đủ (Nibbānasappāyapaṭipadāsuttaṃ)
+==== Kinh 35.150. Con Đường Niết-bàn — Đầy Đủ (Nibbānasappāyapaṭipadāsuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy con đường thích hợp
 để đạt Niết-bàn. Hãy lắng nghe … này các thầy, thế nào là con đường
@@ -3496,7 +3496,7 @@ rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh
 việc cần làm đã làm, không còn trở lại trạng thái này nữa.' Này các
 thầy, đây là con đường thích hợp để đạt Niết-bàn ấy."
 
-==== Kinh 35.6. Không Có Đệ Tử Ở Chung (Antevāsikasuttaṃ)
+==== Kinh 35.151. Không Có Đệ Tử Ở Chung (Antevāsikasuttaṃ)
 
 #super[1] "Này các thầy, Phạm hạnh này được sống không có đệ tử ở
 chung, không có thầy dạy. Này các thầy, Tỷ-kheo có đệ tử ở chung,
@@ -3544,7 +3544,7 @@ sống không có đệ tử ở chung, không có thầy dạy. Tỷ-kheo có �
 chung, có thầy dạy thì sống khổ, không an lạc. Tỷ-kheo không có đệ tử
 ở chung, không có thầy dạy thì sống lạc, an lạc."
 
-==== Kinh 35.7. Vì Mục Đích Gì Mà Sống Phạm Hạnh (Kimatthiyabrahmacariyasuttaṃ)
+==== Kinh 35.152. Vì Mục Đích Gì Mà Sống Phạm Hạnh (Kimatthiyabrahmacariyasuttaṃ)
 
 #super[1] "Này các thầy, nếu các du sĩ ngoại đạo khác hỏi các thầy như
 vầy: 'Này các hiền hữu, vì mục đích gì mà Phạm hạnh được sống dưới sự
@@ -3568,7 +3568,7 @@ hiền hữu, đây là khổ mà Phạm hạnh được sống dưới sự hư
 Tôn để liễu tri nó.' Được hỏi như vậy, này các thầy, các thầy nên trả
 lời cho các du sĩ ngoại đạo ấy như vậy."
 
-==== Kinh 35.8. Có Cách Trình Bày Nào (Atthinukhopariyāyasuttaṃ)
+==== Kinh 35.153. Có Cách Trình Bày Nào (Atthinukhopariyāyasuttaṃ)
 
 #super[1] "Này các thầy, có cách trình bày nào mà nhờ cách trình bày
 ấy, Tỷ-kheo, không phải nhờ lòng tin, không phải nhờ sở thích, không
@@ -3618,7 +3618,7 @@ nhận qua suy xét về quan điểm, có thể tuyên bố trí biết: 'Sanh 
 Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái
 này nữa.'"
 
-==== Kinh 35.9. Đầy Đủ Các Căn (Indriyasampannasuttaṃ)
+==== Kinh 35.154. Đầy Đủ Các Căn (Indriyasampannasuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến Thế Tôn … ngồi một bên, vị Tỷ-kheo
 ấy bạch Thế Tôn: "'Đầy đủ các căn, đầy đủ các căn' — bạch Thế Tôn,
@@ -3632,7 +3632,7 @@ thoát thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sa
 tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng
 thái này nữa.' Này Tỷ-kheo, cho đến mức độ ấy là đầy đủ các căn."
 
-==== Kinh 35.10. Người Thuyết Pháp (Dhammakathikapucchasuttaṃ)
+==== Kinh 35.155. Người Thuyết Pháp (Dhammakathikapucchasuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến Thế Tôn … ngồi một bên, vị Tỷ-kheo
 ấy bạch Thế Tôn: "'Người thuyết pháp, người thuyết pháp' — bạch Thế
@@ -3675,7 +3675,7 @@ Nghiệp mới nghiệp cũ, phần năm mươi \
 
 === Phẩm 16 (nguồn ghi 16). Đoạn Diệt Thích Thú (Nandikkhayavaggo)
 
-==== Kinh 35.1. Đoạn Diệt Thích Thú Nội (Ajjhattanandikkhayasuttaṃ)
+==== Kinh 35.156. Đoạn Diệt Thích Thú Nội (Ajjhattanandikkhayasuttaṃ)
 
 #super[1] "Này các thầy, Tỷ-kheo thấy mắt là vô thường, đúng như thật; đó
 là chánh kiến của vị ấy. Thấy đúng như vậy, vị ấy nhàm chán. Do đoạn
@@ -3690,7 +3690,7 @@ vị ấy nhàm chán. Do đoạn diệt sự thích thú nên tham đoạn di�
 đoạn diệt nên thích thú đoạn diệt. Do đoạn diệt cả thích thú và tham,
 tâm được gọi là khéo giải thoát."
 
-==== Kinh 35.2. Đoạn Diệt Thích Thú Ngoại (Bāhiranandikkhayasuttaṃ)
+==== Kinh 35.157. Đoạn Diệt Thích Thú Ngoại (Bāhiranandikkhayasuttaṃ)
 
 #super[1] "Này các thầy, Tỷ-kheo thấy các sắc là vô thường, đúng như
 thật; đó là chánh kiến của vị ấy. Thấy đúng như vậy, vị ấy nhàm chán. Do
@@ -3702,7 +3702,7 @@ Thấy đúng như vậy, vị ấy nhàm chán. Do đoạn diệt sự thích t
 đoạn diệt; do tham đoạn diệt nên thích thú đoạn diệt. Do đoạn diệt cả
 thích thú và tham, tâm được gọi là khéo giải thoát."
 
-==== Kinh 35.3. Như Lý Tác Ý Nội (Ajjhattaaniccanandikkhayasuttaṃ)
+==== Kinh 35.158. Như Lý Tác Ý Nội (Ajjhattaaniccanandikkhayasuttaṃ)
 
 #super[1] "Này các thầy, hãy như lý tác ý về mắt, và hãy như thật quán
 sát tánh vô thường của mắt. Này các thầy, khi Tỷ-kheo như lý tác ý về
@@ -3721,7 +3721,7 @@ thật quán sát tánh vô thường của ý. Này các thầy, khi Tỷ-kheo 
 diệt nên thích thú đoạn diệt. Do đoạn diệt cả thích thú và tham, tâm
 được gọi là khéo giải thoát."
 
-==== Kinh 35.4. Như Lý Tác Ý Ngoại (Bāhiraaniccanandikkhayasuttaṃ)
+==== Kinh 35.159. Như Lý Tác Ý Ngoại (Bāhiraaniccanandikkhayasuttaṃ)
 
 #super[1] "Này các thầy, hãy như lý tác ý về các sắc, và hãy như thật
 quán sát tánh vô thường của các sắc. Này các thầy, khi Tỷ-kheo như lý
@@ -3737,7 +3737,7 @@ thích thú nên tham đoạn diệt; do tham đoạn diệt nên thích thú đ
 diệt. Do đoạn diệt cả thích thú và tham, tâm được gọi là khéo giải
 thoát."
 
-==== Kinh 35.5. Định Ở Rừng Xoài Kỳ-bà (Jīvakambavanasamādhisuttaṃ)
+==== Kinh 35.160. Định Ở Rừng Xoài Kỳ-bà (Jīvakambavanasamādhisuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng xoài của
 Kỳ-bà (Jīvaka). Tại đó, Thế Tôn gọi các Tỷ-kheo… "Này các thầy, hãy tu tập
@@ -3754,7 +3754,7 @@ thấy rõ ý là vô thường đúng như thật; thấy rõ các pháp là v�
 đúng như thật. Này các thầy, hãy tu tập định. Này các thầy, Tỷ-kheo có
 định thì thấy rõ đúng như thật."
 
-==== Kinh 35.6. Độc Cư Ở Rừng Xoài Kỳ-bà (Jīvakambavanapaṭisallānasuttaṃ)
+==== Kinh 35.161. Độc Cư Ở Rừng Xoài Kỳ-bà (Jīvakambavanapaṭisallānasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng xoài của
 Kỳ-bà (Jīvaka). Tại đó, Thế Tôn gọi các Tỷ-kheo… "Này các thầy, hãy chuyên tâm
@@ -3771,7 +3771,7 @@ khổ, hay không khổ không lạc — sanh lên do duyên ý xúc, cảm th�
 vào việc độc cư thiền tịnh. Này các thầy, Tỷ-kheo độc cư thiền tịnh thì
 thấy rõ đúng như thật."
 
-==== Kinh 35.7. Câu-hi-la Về Vô Thường (Koṭṭhikaaniccasuttaṃ)
+==== Kinh 35.162. Câu-hi-la Về Vô Thường (Koṭṭhikaaniccasuttaṃ)
 
 #super[1] Rồi Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) đi đến chỗ Thế Tôn… Ngồi một bên, Tôn
 giả Câu-hi-la (Koṭṭhika) bạch Thế Tôn: "Bạch Thế Tôn, mong Thế Tôn thuyết pháp cho
@@ -3798,7 +3798,7 @@ Và bất cứ cảm thọ gì sanh lên do duyên ý xúc, cái ấy cũng là 
 lòng dục đối với cái ấy cần được đoạn trừ. Này Koṭṭhika, đối với cái gì
 là vô thường, lòng dục đối với cái ấy cần được đoạn trừ."
 
-==== Kinh 35.8. Câu-hi-la Về Khổ (Koṭṭhikadukkhasuttaṃ)
+==== Kinh 35.163. Câu-hi-la Về Khổ (Koṭṭhikadukkhasuttaṃ)
 
 #super[1] Rồi Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) đi đến chỗ Thế Tôn… bạch Thế Tôn: "Bạch
 Thế Tôn, mong Thế Tôn thuyết pháp cho con một cách vắn tắt… vị ấy có thể
@@ -3817,7 +3817,7 @@ xúc cần được đoạn trừ. Và bất cứ cảm thọ gì sanh lên do d
 ấy cũng là khổ; lòng dục đối với cái ấy cần được đoạn trừ. Này Koṭṭhika,
 đối với cái gì là khổ, lòng dục đối với cái ấy cần được đoạn trừ."
 
-==== Kinh 35.9. Câu-hi-la Về Vô Ngã (Koṭṭhikaanattasuttaṃ)
+==== Kinh 35.164. Câu-hi-la Về Vô Ngã (Koṭṭhikaanattasuttaṃ)
 
 #super[1] Rồi Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) đi đến chỗ Thế Tôn… bạch Thế Tôn:
 "Bạch Thế Tôn, mong Thế Tôn thuyết pháp cho con một cách vắn tắt… vị ấy
@@ -3837,7 +3837,7 @@ cứ cảm thọ gì sanh lên do duyên ý xúc, cái ấy cũng là vô ngã; 
 đối với cái ấy cần được đoạn trừ. Này Koṭṭhika, đối với cái gì là vô
 ngã, lòng dục đối với cái ấy cần được đoạn trừ."
 
-==== Kinh 35.10. Đoạn Trừ Tà Kiến (Micchādiṭṭhipahānasuttaṃ)
+==== Kinh 35.165. Đoạn Trừ Tà Kiến (Micchādiṭṭhipahānasuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến chỗ Thế Tôn… ngồi xuống một bên, vị
 ấy bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào thì
@@ -3851,7 +3851,7 @@ không lạc — sanh lên do duyên ý xúc, biết cảm thọ ấy là vô th
 cảm thọ ấy là vô thường, thì tà kiến được đoạn trừ. Này Tỷ-kheo, biết
 như vậy, thấy như vậy, thì tà kiến được đoạn trừ."
 
-==== Kinh 35.11. Đoạn Trừ Thân Kiến (Sakkāyadiṭṭhipahānasuttaṃ)
+==== Kinh 35.166. Đoạn Trừ Thân Kiến (Sakkāyadiṭṭhipahānasuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến chỗ Thế Tôn… bạch Thế Tôn: "Bạch Thế
 Tôn, biết như thế nào, thấy như thế nào thì thân kiến được đoạn trừ?"
@@ -3864,7 +3864,7 @@ xúc, biết cảm thọ ấy là khổ, thấy cảm thọ ấy là khổ, thì
 đoạn trừ. Này Tỷ-kheo, biết như vậy, thấy như vậy, thì thân kiến được
 đoạn trừ."
 
-==== Kinh 35.12. Đoạn Trừ Kiến Chấp Tùy Thuộc Tự Ngã (Attānudiṭṭhipahānasuttaṃ)
+==== Kinh 35.167. Đoạn Trừ Kiến Chấp Tùy Thuộc Tự Ngã (Attānudiṭṭhipahānasuttaṃ)
 
 #super[1] Rồi một vị Tỷ-kheo đi đến chỗ Thế Tôn… bạch Thế Tôn: "Bạch Thế
 Tôn, biết như thế nào, thấy như thế nào thì kiến chấp tùy thuộc tự ngã
@@ -3890,7 +3890,7 @@ tà kiến, thân kiến, và của tự ngã.
 
 === Phẩm 17 (nguồn ghi 17). Sáu Mươi Kinh Trùng Tụng (Saṭṭhipeyyālavaggo)
 
-==== Kinh 35.1. Đoạn Trừ Dục Đối Với Vô Thường Nội (Ajjhattaaniccachandasuttaṃ)
+==== Kinh 35.168. Đoạn Trừ Dục Đối Với Vô Thường Nội (Ajjhattaaniccachandasuttaṃ)
 
 #super[1] "Này các thầy, đối với cái gì là vô thường, dục đối với cái ấy
 cần được đoạn trừ. Cái gì là vô thường, này các thầy? Mắt là vô thường;
@@ -3899,7 +3899,7 @@ lưỡi là vô thường; dục đối với lưỡi cần được đoạn tr�
 thường; dục đối với ý cần được đoạn trừ. Này các thầy, đối với cái gì
 là vô thường, dục đối với cái ấy cần được đoạn trừ."
 
-==== Kinh 35.2. Đoạn Trừ Tham Đối Với Vô Thường Nội (Ajjhattaaniccarāgasuttaṃ)
+==== Kinh 35.169. Đoạn Trừ Tham Đối Với Vô Thường Nội (Ajjhattaaniccarāgasuttaṃ)
 
 #super[1] "Này các thầy, đối với cái gì là vô thường, tham đối với cái
 ấy cần được đoạn trừ. Cái gì là vô thường, này các thầy? Mắt là vô
@@ -3907,7 +3907,7 @@ thường; tham đối với mắt cần được đoạn trừ… cũng vậy c
 là vô thường; tham đối với ý cần được đoạn trừ. Này các thầy, đối với
 cái gì là vô thường, tham đối với cái ấy cần được đoạn trừ."
 
-==== Kinh 35.3. Đoạn Trừ Dục Tham Đối Với Vô Thường Nội (Ajjhattaaniccachandarāgasuttaṃ)
+==== Kinh 35.170. Đoạn Trừ Dục Tham Đối Với Vô Thường Nội (Ajjhattaaniccachandarāgasuttaṃ)
 
 #super[1] "Này các thầy, đối với cái gì là vô thường, dục tham đối với
 cái ấy cần được đoạn trừ. Cái gì là vô thường, này các thầy? Mắt là vô
@@ -3916,7 +3916,7 @@ và ý là vô thường; dục tham đối với ý cần được đoạn tr�
 đối với cái gì là vô thường, dục tham đối với cái ấy cần được đoạn
 trừ."
 
-#strong[Nhóm kinh 35.4–6 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Khổ Nội (Dukkhachandādisuttaṃ)]
+#strong[Nhóm kinh 35.171–173 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Khổ Nội (Dukkhachandādisuttaṃ)]
 
 #super[1] "Này các thầy, đối với cái gì là khổ, dục cần được đoạn trừ,
 tham cần được đoạn trừ, dục tham cần được đoạn trừ. Cái gì là khổ, này
@@ -3927,7 +3927,7 @@ trừ. Này các thầy, đối với cái gì là khổ, dục, tham và dục 
 cái ấy cần được đoạn trừ." (Ba kinh gộp chung — dục, tham, và dục tham
 đối với cái khổ.)
 
-#strong[Nhóm kinh 35.7–9 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Vô Ngã Nội (Anattachandādisuttaṃ)]
+#strong[Nhóm kinh 35.174–176 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Vô Ngã Nội (Anattachandādisuttaṃ)]
 
 #super[1] "Này các thầy, đối với cái gì là vô ngã, dục cần được đoạn
 trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ. Cái gì là vô
@@ -3937,7 +3937,7 @@ ngã; dục, tham và dục tham đối với ý cần được đoạn trừ. N
 đoạn trừ." (Ba kinh gộp chung — dục, tham, và dục tham đối với cái vô
 ngã.)
 
-#strong[Nhóm kinh 35.10–12 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Vô Thường Ngoại (Bāhirāniccachandādisuttaṃ)]
+#strong[Nhóm kinh 35.177–179 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Vô Thường Ngoại (Bāhirāniccachandādisuttaṃ)]
 
 #super[1] "Này các thầy, đối với cái gì là vô thường, dục, tham và dục
 tham đối với cái ấy cần được đoạn trừ. Cái gì là vô thường, này các
@@ -3947,7 +3947,7 @@ trừ. Này các thầy, đối với cái gì là vô thường, dục, tham v�
 đối với cái ấy cần được đoạn trừ." (Ba kinh gộp chung, áp dụng cho sáu
 đối tượng bên ngoài.)
 
-#strong[Nhóm kinh 35.13–15 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Khổ Ngoại (Bāhiradukkhachandādisuttaṃ)]
+#strong[Nhóm kinh 35.180–182 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Khổ Ngoại (Bāhiradukkhachandādisuttaṃ)]
 
 #super[1] "Này các thầy, đối với cái gì là khổ, dục, tham và dục tham
 đối với cái ấy cần được đoạn trừ. Cái gì là khổ, này các thầy? Các sắc
@@ -3956,7 +3956,7 @@ và dục tham đối với chúng cần được đoạn trừ. Này các thầ
 gì là khổ, dục, tham và dục tham đối với cái ấy cần được đoạn trừ." (Ba
 kinh gộp chung, áp dụng cho sáu đối tượng bên ngoài.)
 
-#strong[Nhóm kinh 35.16–18 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Vô Ngã Ngoại (Bāhirānattachandādisuttaṃ)]
+#strong[Nhóm kinh 35.183–185 — Đoạn Trừ Dục, Tham, Dục Tham Đối Với Vô Ngã Ngoại (Bāhirānattachandādisuttaṃ)]
 
 #super[1] "Này các thầy, đối với cái gì là vô ngã, dục, tham và dục
 tham đối với cái ấy cần được đoạn trừ. Cái gì là vô ngã, này các thầy?
@@ -3966,7 +3966,7 @@ thầy, đối với cái gì là vô ngã, dục, tham và dục tham đối v�
 cần được đoạn trừ." (Ba kinh gộp chung, áp dụng cho sáu đối tượng bên
 ngoài.)
 
-==== Kinh 35.19. Vô Thường Nội Thuộc Quá Khứ (Ajjhattātītāniccasuttaṃ)
+==== Kinh 35.186. Vô Thường Nội Thuộc Quá Khứ (Ajjhattātītāniccasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường, thuộc về quá khứ… cũng vậy
 cho đến lưỡi là vô thường, thuộc về quá khứ… và ý là vô thường, thuộc
@@ -3976,19 +3976,19 @@ nhàm chán nên ly tham; do ly tham nên giải thoát; khi đã giải thoát 
 có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh
 đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.20. Vô Thường Nội Thuộc Tương Lai (Ajjhattānāgatāniccasuttaṃ)
+==== Kinh 35.187. Vô Thường Nội Thuộc Tương Lai (Ajjhattānāgatāniccasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường, thuộc về tương lai… cũng vậy
 cho đến lưỡi… và ý là vô thường, thuộc về tương lai. Thấy như vậy… việc
 cần làm đã làm, không còn trở lại trạng thái này nữa."
 
-==== Kinh 35.21. Vô Thường Nội Thuộc Hiện Tại (Ajjhattapaccuppannāniccasuttaṃ)
+==== Kinh 35.188. Vô Thường Nội Thuộc Hiện Tại (Ajjhattapaccuppannāniccasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường, thuộc về hiện tại… cũng vậy
 cho đến lưỡi… và ý là vô thường, thuộc về hiện tại. Thấy như vậy… việc
 cần làm đã làm, không còn trở lại trạng thái này nữa."
 
-#strong[Nhóm kinh 35.22–24 — Khổ Nội Thuộc Ba Thời (Ajjhattātītādidukkhasuttaṃ)]
+#strong[Nhóm kinh 35.189–191 — Khổ Nội Thuộc Ba Thời (Ajjhattātītādidukkhasuttaṃ)]
 
 #super[1] "Này các thầy, mắt là khổ, thuộc về quá khứ, tương lai và
 hiện tại… cũng vậy cho đến lưỡi… và ý là khổ, thuộc về quá khứ, tương
@@ -3996,7 +3996,7 @@ lai và hiện tại. Thấy như vậy, vị Thánh đệ tử đã học nhi�
 việc cần làm đã làm, không còn trở lại trạng thái này nữa." (Ba kinh
 gộp chung — quá khứ, tương lai, hiện tại — cho cái khổ thuộc nội xứ.)
 
-#strong[Nhóm kinh 35.25–27 — Vô Ngã Nội Thuộc Ba Thời (Ajjhattātītādianattasuttaṃ)]
+#strong[Nhóm kinh 35.192–194 — Vô Ngã Nội Thuộc Ba Thời (Ajjhattātītādianattasuttaṃ)]
 
 #super[1] "Này các thầy, mắt là vô ngã, thuộc về quá khứ, tương lai và
 hiện tại… cũng vậy cho đến lưỡi… và ý là vô ngã, thuộc về ba thời ấy.
@@ -4004,28 +4004,28 @@ Thấy như vậy… việc cần làm đã làm, không còn trở lại trạn
 nữa." (Ba kinh gộp chung — quá khứ, tương lai, hiện tại — cho cái vô
 ngã thuộc nội xứ.)
 
-#strong[Nhóm kinh 35.28–30 — Vô Thường Ngoại Thuộc Ba Thời (Bāhirātītādianiccasuttaṃ)]
+#strong[Nhóm kinh 35.195–197 — Vô Thường Ngoại Thuộc Ba Thời (Bāhirātītādianiccasuttaṃ)]
 
 #super[1] "Này các thầy, các sắc là vô thường, thuộc về quá khứ, tương
 lai và hiện tại; các tiếng… các mùi… các vị… các xúc… các pháp cũng
 vậy. Thấy như vậy… việc cần làm đã làm, không còn trở lại trạng thái
 này nữa." (Ba kinh gộp chung, áp dụng cho sáu đối tượng bên ngoài.)
 
-#strong[Nhóm kinh 35.31–33 — Khổ Ngoại Thuộc Ba Thời (Bāhirātītādidukkhasuttaṃ)]
+#strong[Nhóm kinh 35.198–200 — Khổ Ngoại Thuộc Ba Thời (Bāhirātītādidukkhasuttaṃ)]
 
 #super[1] "Này các thầy, các sắc là khổ, thuộc về quá khứ, tương lai và
 hiện tại; các tiếng… các mùi… các vị… các xúc… các pháp cũng vậy. Thấy
 như vậy… việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 (Ba kinh gộp chung, áp dụng cho sáu đối tượng bên ngoài.)
 
-#strong[Nhóm kinh 35.34–36 — Vô Ngã Ngoại Thuộc Ba Thời (Bāhirātītādianattasuttaṃ)]
+#strong[Nhóm kinh 35.201–203 — Vô Ngã Ngoại Thuộc Ba Thời (Bāhirātītādianattasuttaṃ)]
 
 #super[1] "Này các thầy, các sắc là vô ngã, thuộc về quá khứ, tương lai
 và hiện tại; các tiếng… các mùi… các vị… các xúc… các pháp cũng vậy.
 Thấy như vậy… việc cần làm đã làm, không còn trở lại trạng thái này
 nữa." (Ba kinh gộp chung, áp dụng cho sáu đối tượng bên ngoài.)
 
-==== Kinh 35.37. Vô Thường Nội Quá Khứ — Chuỗi Suy Xét (Ajjhattātītayadaniccasuttaṃ)
+==== Kinh 35.204. Vô Thường Nội Quá Khứ — Chuỗi Suy Xét (Ajjhattātītayadaniccasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường, thuộc về quá khứ. Cái gì vô
 thường là khổ; cái gì khổ là vô ngã; cái gì vô ngã cần được thấy đúng
@@ -4035,7 +4035,7 @@ lưỡi là vô thường, thuộc về quá khứ, với cùng chuỗi suy xét
 vô thường, thuộc về quá khứ, với cùng chuỗi suy xét ấy. Thấy như vậy…
 việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
-==== Kinh 35.38. Vô Thường Nội Tương Lai — Chuỗi Suy Xét (Ajjhattānāgatayadaniccasuttaṃ)
+==== Kinh 35.205. Vô Thường Nội Tương Lai — Chuỗi Suy Xét (Ajjhattānāgatayadaniccasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường, thuộc về tương lai. Cái gì
 vô thường là khổ; cái gì khổ là vô ngã; cái gì vô ngã cần được thấy
@@ -4045,7 +4045,7 @@ cho đến lưỡi… và ý là vô thường, thuộc về tương lai, với 
 xét ấy. Thấy như vậy… việc cần làm đã làm, không còn trở lại trạng
 thái này nữa."
 
-==== Kinh 35.39. Vô Thường Nội Hiện Tại — Chuỗi Suy Xét (Ajjhattapaccuppannayadaniccasuttaṃ)
+==== Kinh 35.206. Vô Thường Nội Hiện Tại — Chuỗi Suy Xét (Ajjhattapaccuppannayadaniccasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường, thuộc về hiện tại. Cái gì vô
 thường là khổ; cái gì khổ là vô ngã; cái gì vô ngã cần được thấy đúng
@@ -4055,7 +4055,7 @@ lưỡi… và ý là vô thường, thuộc về hiện tại, với cùng chu�
 Thấy như vậy… việc cần làm đã làm, không còn trở lại trạng thái này
 nữa."
 
-#strong[Nhóm kinh 35.40–42 — Khổ Nội Ba Thời — Chuỗi Suy Xét (Ajjhattātītādiyaṃdukkhasuttaṃ)]
+#strong[Nhóm kinh 35.207–209 — Khổ Nội Ba Thời — Chuỗi Suy Xét (Ajjhattātītādiyaṃdukkhasuttaṃ)]
 
 #super[1] "Này các thầy, mắt là khổ, thuộc về quá khứ, tương lai và
 hiện tại. Cái gì khổ là vô ngã; cái gì vô ngã cần được thấy đúng như
@@ -4065,7 +4065,7 @@ lưỡi… và ý là khổ, thuộc về ba thời ấy, với cùng chuỗi su
 như vậy… việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 (Ba kinh gộp chung — quá khứ, tương lai, hiện tại.)
 
-#strong[Nhóm kinh 35.43–45 — Vô Ngã Nội Ba Thời — Chuỗi Suy Xét (Ajjhattātītādiyadanattasuttaṃ)]
+#strong[Nhóm kinh 35.210–212 — Vô Ngã Nội Ba Thời — Chuỗi Suy Xét (Ajjhattātītādiyadanattasuttaṃ)]
 
 #super[1] "Này các thầy, mắt là vô ngã, thuộc về quá khứ, tương lai và
 hiện tại. Cái gì vô ngã cần được thấy đúng như thật bằng chánh trí tuệ
@@ -4074,7 +4074,7 @@ không phải tự ngã của tôi'… cũng vậy cho đến lưỡi… và ý 
 thuộc về ba thời ấy, với cùng chuỗi suy xét ấy." (Ba kinh gộp chung —
 quá khứ, tương lai, hiện tại.)
 
-#strong[Nhóm kinh 35.46–48 — Vô Thường Ngoại Ba Thời — Chuỗi Suy Xét (Bāhirātītādiyadaniccasuttaṃ)]
+#strong[Nhóm kinh 35.213–215 — Vô Thường Ngoại Ba Thời — Chuỗi Suy Xét (Bāhirātītādiyadaniccasuttaṃ)]
 
 #super[1] "Này các thầy, các sắc là vô thường, thuộc về quá khứ, tương
 lai và hiện tại. Cái gì vô thường là khổ; cái gì khổ là vô ngã; cái gì
@@ -4083,7 +4083,7 @@ không phải của tôi, tôi không phải là cái này, cái này không ph�
 ngã của tôi'. Các tiếng… các mùi… các vị… các xúc… các pháp cũng vậy."
 (Ba kinh gộp chung, áp dụng cho sáu đối tượng bên ngoài.)
 
-#strong[Nhóm kinh 35.49–51 — Khổ Ngoại Ba Thời — Chuỗi Suy Xét (Bāhirātītādiyaṃdukkhasuttaṃ)]
+#strong[Nhóm kinh 35.216–218 — Khổ Ngoại Ba Thời — Chuỗi Suy Xét (Bāhirātītādiyaṃdukkhasuttaṃ)]
 
 #super[1] "Này các thầy, các sắc là khổ, thuộc về quá khứ, tương lai và
 hiện tại. Cái gì khổ là vô ngã; cái gì vô ngã cần được thấy đúng như
@@ -4092,7 +4092,7 @@ phải là cái này, cái này không phải tự ngã của tôi'. Các tiến
 mùi… các vị… các xúc… các pháp cũng vậy." (Ba kinh gộp chung, áp dụng
 cho sáu đối tượng bên ngoài.)
 
-#strong[Nhóm kinh 35.52–54 — Vô Ngã Ngoại Ba Thời — Chuỗi Suy Xét (Bāhirātītādiyadanattasuttaṃ)]
+#strong[Nhóm kinh 35.219–221 — Vô Ngã Ngoại Ba Thời — Chuỗi Suy Xét (Bāhirātītādiyadanattasuttaṃ)]
 
 #super[1] "Này các thầy, các sắc là vô ngã, thuộc về quá khứ, tương lai
 và hiện tại. Cái gì vô ngã cần được thấy đúng như thật bằng chánh trí
@@ -4101,37 +4101,37 @@ này không phải tự ngã của tôi'. Các tiếng… các mùi… các vị
 các pháp cũng vậy." (Ba kinh gộp chung, áp dụng cho sáu đối tượng bên
 ngoài.)
 
-==== Kinh 35.55. Vô Thường Nội (Đơn Giản) (Ajjhattāyatanaaniccasuttaṃ)
+==== Kinh 35.222. Vô Thường Nội (Đơn Giản) (Ajjhattāyatanaaniccasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô thường… cũng vậy cho đến lưỡi là vô
 thường… và ý là vô thường. Thấy như vậy, vị Thánh đệ tử đã học nhiều
 nhàm chán… việc cần làm đã làm, không còn trở lại trạng thái này nữa."
 
-==== Kinh 35.56. Khổ Nội (Đơn Giản) (Ajjhattāyatanadukkhasuttaṃ)
+==== Kinh 35.223. Khổ Nội (Đơn Giản) (Ajjhattāyatanadukkhasuttaṃ)
 
 #super[1] "Này các thầy, mắt là khổ… cũng vậy cho đến lưỡi… và ý là
 khổ. Thấy như vậy… việc cần làm đã làm, không còn trở lại trạng thái
 này nữa."
 
-==== Kinh 35.57. Vô Ngã Nội (Đơn Giản) (Ajjhattāyatanaanattasuttaṃ)
+==== Kinh 35.224. Vô Ngã Nội (Đơn Giản) (Ajjhattāyatanaanattasuttaṃ)
 
 #super[1] "Này các thầy, mắt là vô ngã… cũng vậy cho đến lưỡi… và ý là
 vô ngã. Thấy như vậy… việc cần làm đã làm, không còn trở lại trạng
 thái này nữa."
 
-==== Kinh 35.58. Vô Thường Ngoại (Đơn Giản) (Bāhirāyatanaaniccasuttaṃ)
+==== Kinh 35.225. Vô Thường Ngoại (Đơn Giản) (Bāhirāyatanaaniccasuttaṃ)
 
 #super[1] "Này các thầy, các sắc là vô thường. Các tiếng… các mùi… các
 vị… các xúc… các pháp là vô thường. Thấy như vậy… việc cần làm đã làm,
 không còn trở lại trạng thái này nữa."
 
-==== Kinh 35.59. Khổ Ngoại (Đơn Giản) (Bāhirāyatanadukkhasuttaṃ)
+==== Kinh 35.226. Khổ Ngoại (Đơn Giản) (Bāhirāyatanadukkhasuttaṃ)
 
 #super[1] "Này các thầy, các sắc là khổ. Các tiếng… các mùi… các vị…
 các xúc… các pháp là khổ. Thấy như vậy… việc cần làm đã làm, không còn
 trở lại trạng thái này nữa."
 
-==== Kinh 35.60. Vô Ngã Ngoại (Đơn Giản) (Bāhirāyatanaanattasuttaṃ)
+==== Kinh 35.227. Vô Ngã Ngoại (Đơn Giản) (Bāhirāyatanaanattasuttaṃ)
 
 #super[1] "Này các thầy, các sắc là vô ngã. Các tiếng… các mùi… các
 vị… các xúc… các pháp là vô ngã. Thấy như vậy… việc cần làm đã làm,
@@ -4151,7 +4151,7 @@ tất cả gồm sáu mươi bài kinh.
 
 === Phẩm 18 (nguồn ghi 18). Biển (Samuddavaggo)
 
-==== Kinh 35.1. Biển Thứ Nhất (Paṭhamasamuddasuttaṃ)
+==== Kinh 35.228. Biển Thứ Nhất (Paṭhamasamuddasuttaṃ)
 
 #super[1] "Này các thầy, kẻ vô văn phàm phu nói: 'Biển, biển.' Nhưng đó,
 này các thầy, không phải là biển theo Luật của bậc Thánh. Đó chỉ là
@@ -4171,7 +4171,7 @@ có sóng, có xoáy nước, đầy sợ hãi, khó vượt qua; \
 Vị ấy đã thông đạt, đã sống trọn Phạm hạnh, \
 đã đến tận cùng thế gian, được gọi là đã đến bờ kia."
 
-==== Kinh 35.2. Biển Thứ Hai (Dutiyasamuddasuttaṃ)
+==== Kinh 35.229. Biển Thứ Hai (Dutiyasamuddasuttaṃ)
 
 #super[1] "Này các thầy, kẻ vô văn phàm phu nói: 'Biển, biển.' Nhưng
 đó, này các thầy, không phải là biển theo Luật của bậc Thánh. Đó chỉ
@@ -4193,7 +4193,7 @@ Vị ấy đã vượt khỏi mọi trói buộc, đã bỏ thần chết, khôn
 Vị ấy đã đi đến chỗ diệt tận, không còn trở lại, đã hết mê mờ — \
 Ta gọi vị ấy là người đã chiến thắng thần chết."
 
-==== Kinh 35.3. Ví Dụ Người Đánh Cá (Bāḷisikopamasuttaṃ)
+==== Kinh 35.230. Ví Dụ Người Đánh Cá (Bāḷisikopamasuttaṃ)
 
 #super[1] "Này các thầy, ví như người đánh cá thả một chiếc câu có mồi
 xuống vùng nước sâu. Một con cá tham mồi nuốt lấy chiếc câu ấy. Như
@@ -4213,7 +4213,7 @@ câu, đã phá vỡ chiếc câu của Ác ma, không gặp tai họa, không g
 hạnh, không còn tùy ý Ác ma muốn xử lý thế nào… cũng vậy đối với các vị
 do lưỡi nhận biết… và các pháp do ý nhận biết."
 
-==== Kinh 35.4. Ví Dụ Cây Có Nhựa (Khīrarukkhopamasuttaṃ)
+==== Kinh 35.231. Ví Dụ Cây Có Nhựa (Khīrarukkhopamasuttaṃ)
 
 #super[1] "Này các thầy, đối với vị Tỷ-kheo hay Tỷ-kheo-ni nào mà tham,
 sân, si đối với các sắc do mắt nhận biết vẫn còn, chưa được đoạn tận,
@@ -4240,7 +4240,7 @@ bạch Thế Tôn." "Vì sao vậy?" "Bạch Thế Tôn, vì cây ấy đã hế
 sân, si đối với sáu xứ không còn, đã được đoạn tận, thì cảnh trần dù
 nhiều hay ít cũng không chi phối được tâm vị ấy."
 
-==== Kinh 35.5. Câu-hi-la (Koṭṭhikasuttaṃ)
+==== Kinh 35.232. Câu-hi-la (Koṭṭhikasuttaṃ)
 
 #super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) và Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) trú tại
 Ba-la-nại (Bārāṇasī), trong rừng Nai ở Trú xứ chư Tiên (Isipatana). Vào buổi chiều, Tôn giả
@@ -4283,7 +4283,7 @@ là trói buộc của các sắc, cũng không phải các sắc là trói bu�
 mắt; chính dục tham sanh lên do duyên cả hai mới là trói buộc… cũng
 vậy đối với lưỡi… đối với ý."
 
-==== Kinh 35.6. Ca-ma-bu (Kāmabhūsuttaṃ)
+==== Kinh 35.233. Ca-ma-bu (Kāmabhūsuttaṃ)
 
 #super[1] Một thời, Tôn giả A-nan (Ānanda) và Tôn giả Ca-ma-bu (Kāmabhū) trú tại Kiều-thưởng-di (Kosambī),
 trong khu vườn Cù-sư-la (Ghosita). Vào buổi chiều, Tôn giả Kāmabhū từ chỗ độc cư
@@ -4296,7 +4296,7 @@ sắc hay ngược lại, mà chính dục tham sanh lên do duyên cả hai m�
 trói buộc — và dùng lại chính ví dụ con bò đen và con bò trắng bị buộc
 chung một dây để minh họa.
 
-==== Kinh 35.7. Ưu-đà-di (Udāyīsuttaṃ)
+==== Kinh 35.234. Ưu-đà-di (Udāyīsuttaṃ)
 
 #super[1] Một thời, Tôn giả A-nan (Ānanda) và Tôn giả Ưu đà di (Udāyī) trú tại Kiều-thưởng-di (Kosambī),
 trong khu vườn Cù-sư-la (Ghosita). Vào buổi chiều, Tôn giả Udāyī từ chỗ độc cư
@@ -4326,7 +4326,7 @@ không còn lo sợ. Không lo sợ, vị ấy tự mình đạt đến Niết-b
 Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm,
 không còn trở lại trạng thái này nữa.'"
 
-==== Kinh 35.8. Pháp Môn Về Sự Thiêu Đốt (Ādittapariyāyasuttaṃ)
+==== Kinh 35.235. Pháp Môn Về Sự Thiêu Đốt (Ādittapariyāyasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ thuyết cho các thầy pháp môn về sự thiêu
 đốt. Hãy lắng nghe. Pháp môn về sự thiêu đốt là gì? Này các thầy, thà
@@ -4365,7 +4365,7 @@ nhãn xúc… và đối với bất cứ cảm thọ gì sanh lên do duyên ý
 đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại
 trạng thái này nữa.' Này các thầy, đó là pháp môn về sự thiêu đốt."
 
-==== Kinh 35.9. Ví Dụ Tay Chân Thứ Nhất (Paṭhamahatthapādopamasuttaṃ)
+==== Kinh 35.236. Ví Dụ Tay Chân Thứ Nhất (Paṭhamahatthapādopamasuttaṃ)
 
 #super[1] "Này các thầy, khi có tay, sự cầm nắm và đặt xuống được biết
 đến; khi có chân, sự đi tới đi lui được biết đến; khi có các khớp, sự
@@ -4381,7 +4381,7 @@ không có mắt, lạc hay khổ nội tâm không sanh lên do duyên nhãn x�
 cũng vậy khi không có lưỡi… khi không có ý, lạc hay khổ nội tâm không
 sanh lên do duyên ý xúc."
 
-==== Kinh 35.10. Ví Dụ Tay Chân Thứ Hai (Dutiyahatthapādopamasuttaṃ)
+==== Kinh 35.237. Ví Dụ Tay Chân Thứ Hai (Dutiyahatthapādopamasuttaṃ)
 
 #super[1] Cùng ví dụ như trên về tay, chân, các khớp và bụng — khi có
 thì các hiện tượng ấy được biết đến (hiện hữu), khi không có thì không
@@ -4403,7 +4403,7 @@ phẩm này được gọi tên như vậy.
 
 === Phẩm 19 (nguồn ghi 19). Rắn Độc (Āsīvisavaggo)
 
-==== Kinh 35.1. Ví Dụ Rắn Độc (Āsīvisopamasuttaṃ)
+==== Kinh 35.238. Ví Dụ Rắn Độc (Āsīvisopamasuttaṃ)
 
 #super[1] "Này các thầy, ví như có bốn con rắn độc, cực kỳ hung dữ, có
 chất độc khủng khiếp. Rồi có một người muốn sống, không muốn chết,
@@ -4457,7 +4457,7 @@ gồm chánh kiến… cho đến chánh định. Việc dùng tay chân ra sứ
 đó là từ chỉ cho sự phát khởi tinh cần. Người đã vượt qua, đã đến bờ
 kia, đứng trên đất khô — đó là từ chỉ cho vị A-la-hán."
 
-==== Kinh 35.2. Ví Dụ Cỗ Xe (Rathopamasuttaṃ)
+==== Kinh 35.239. Ví Dụ Cỗ Xe (Rathopamasuttaṃ)
 
 #super[1] "Này các thầy, Tỷ-kheo nào thành tựu ba pháp thì ngay trong
 đời này sống nhiều an lạc, hoan hỷ, và gốc rễ để đoạn tận các lậu hoặc
@@ -4494,7 +4494,7 @@ Tỷ-kheo chuyên tâm tỉnh thức. Này các thầy, Tỷ-kheo nào thành t�
 pháp này thì ngay trong đời này sống nhiều an lạc, hoan hỷ, và gốc rễ
 để đoạn tận các lậu hoặc đã được khơi mở."
 
-==== Kinh 35.3. Ví Dụ Con Rùa (Kummopamasuttaṃ)
+==== Kinh 35.240. Ví Dụ Con Rùa (Kummopamasuttaṃ)
 
 #super[1] "Này các thầy, thuở xưa có một con rùa vào buổi chiều đi
 kiếm ăn bên bờ một con sông. Một con chó rừng cũng đi kiếm ăn bên bờ
@@ -4517,7 +4517,7 @@ Tỷ-kheo cũng vậy, hãy thu nhiếp các tư tưởng của tâm; \
 Không nương tựa, không làm hại người khác, \
 Đã tịch tịnh hoàn toàn, không nên khiển trách ai."
 
-==== Kinh 35.4. Ví Dụ Khúc Gỗ Thứ Nhất (Paṭhamadārukkhandhopamasuttaṃ)
+==== Kinh 35.241. Ví Dụ Khúc Gỗ Thứ Nhất (Paṭhamadārukkhandhopamasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Kiều-thưởng-di (Kosambī), trên bờ sông Hằng (Gaṅgā). Thế
 Tôn thấy một khúc gỗ lớn đang bị dòng sông Gaṅgā cuốn trôi. Thấy vậy,
@@ -4568,7 +4568,7 @@ cụ túc giới với Thế Tôn. Không lâu sau khi thọ cụ túc giới, T
 Nanda sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm, và
 trở thành một vị A-la-hán.
 
-==== Kinh 35.5. Ví Dụ Khúc Gỗ Thứ Hai (Dutiyadārukkhandhopamasuttaṃ)
+==== Kinh 35.242. Ví Dụ Khúc Gỗ Thứ Hai (Dutiyadārukkhandhopamasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Kimilā (hay Kimbilā), trên bờ sông
 Hằng (Gaṅgā). Cũng như trên, Thế Tôn chỉ ra khúc gỗ trôi sông và giảng giải
@@ -4577,7 +4577,7 @@ trong" là gì, và Thế Tôn đáp: "Này Kimila, ở đây có Tỷ-kheo ph�
 tội ô nhiễm mà không thấy rõ cách để ra khỏi tội ấy. Đó gọi là mục nát
 từ bên trong."
 
-==== Kinh 35.6. Pháp Môn Bị Nhiễm Ướt (Avassutapariyāyasuttaṃ)
+==== Kinh 35.243. Pháp Môn Bị Nhiễm Ướt (Avassutapariyāyasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú giữa dòng họ Thích-ca (Sakka), tại Ca-tỳ-la-vệ (Kapilavatthu),
 trong khu vườn Ni-câu-luật Thọ Viên (Nigrodha). Bấy giờ, một tòa nhà họp mới của dòng họ
@@ -4641,7 +4641,7 @@ giả Mahāmoggallāna: "Tốt lắm, tốt lắm, Moggallāna! Thật tốt là
 ướt." Các Tỷ-kheo hoan hỷ tín thọ lời Tôn giả Mahāmoggallāna, và Thế
 Tôn cũng tán thành.
 
-==== Kinh 35.7. Pháp Khổ (Dukkhadhammasuttaṃ)
+==== Kinh 35.244. Pháp Khổ (Dukkhadhammasuttaṃ)
 
 #super[1] "Này các thầy, khi Tỷ-kheo biết rõ đúng như thật sự tập khởi
 và sự đoạn diệt của tất cả các pháp khổ, thì các dục đã được vị ấy
@@ -4711,7 +4711,7 @@ giới mà trở về đời sống thấp kém, điều đó không thể xảy
 tâm của vị ấy đã lâu ngày xuôi về viễn ly, hướng về viễn ly, đổ về
 viễn ly; nên việc trở về đời sống thấp kém không thể xảy ra."
 
-==== Kinh 35.8. Ví Dụ Cây Cim-su-ca (Kiṃsukopamasuttaṃ)
+==== Kinh 35.245. Ví Dụ Cây Cim-su-ca (Kiṃsukopamasuttaṃ)
 
 #super[1] Một vị Tỷ-kheo hỏi một vị Tỷ-kheo khác: "Này hiền giả, cho
 đến mức nào thì kiến của Tỷ-kheo được gọi là hoàn toàn trong sạch?"
@@ -4757,7 +4757,7 @@ giới, phong giới. 'Lời nhắn đúng như thật' là từ chỉ cho Niế
 'Đường đã đến' là từ chỉ cho Bát Thánh đạo, gồm chánh kiến… cho đến
 chánh định."
 
-==== Kinh 35.9. Ví Dụ Đàn Bi-na (Vīṇopamasuttaṃ)
+==== Kinh 35.246. Ví Dụ Đàn Bi-na (Vīṇopamasuttaṃ)
 
 #super[1] "Này các thầy, đối với vị Tỷ-kheo hay Tỷ-kheo-ni nào mà dục,
 tham, sân, si, hay ác ý khởi lên đối với các sắc do mắt nhận biết, hãy
@@ -4797,7 +4797,7 @@ kiếm sắc cho đến chỗ sắc đi đến, tìm kiếm thọ, tưởng, cá
 kiếm thức cho đến chỗ thức đi đến. Khi tìm kiếm như vậy, không còn gì
 nơi vị ấy là 'tôi', là 'của tôi', hay là 'tôi là'."
 
-==== Kinh 35.10. Ví Dụ Sáu Con Vật (Chappāṇakopamasuttaṃ)
+==== Kinh 35.247. Ví Dụ Sáu Con Vật (Chappāṇakopamasuttaṃ)
 
 #super[1] "Này các thầy, ví như có người với thân đầy vết thương, đầy
 mụn nhọt, đi vào một rừng cây sậy. Cỏ và gai sẽ đâm vào chân anh ta,
@@ -4829,7 +4829,7 @@ tu học như vầy: 'Chúng ta sẽ tu tập niệm về thân, làm cho sung m
 làm thành phương tiện, làm thành nền tảng, thiết lập vững chắc, tích
 lũy, khéo phát triển.' Các thầy cần tu học như vậy."
 
-==== Kinh 35.11. Ví Dụ Bó Lúa Mạch (Yavakalāpisuttaṃ)
+==== Kinh 35.248. Ví Dụ Bó Lúa Mạch (Yavakalāpisuttaṃ)
 
 #super[1] "Này các thầy, ví như có một bó lúa mạch để tại giao lộ bốn
 phương. Sáu người cầm đòn gánh đến, đập bó lúa ấy bằng sáu đòn gánh.
@@ -5160,7 +5160,7 @@ Vô Thường, và Có Gốc Từ Xúc.
 
 === Phẩm 2 (nguồn ghi 2). Ở Một Mình (Rahogatavaggo)
 
-==== Kinh 36.1. Ở Một Mình (Rahogatasuttaṃ)
+==== Kinh 36.11. Ở Một Mình (Rahogatasuttaṃ)
 
 #super[1] Một vị Tỷ-kheo đi đến chỗ Thế Tôn, ngồi xuống một bên, bạch
 Thế Tôn: "Bạch Thế Tôn, ở đây, khi con ở một mình, độc cư, khởi lên ý
@@ -5190,7 +5190,7 @@ Thiền thứ ba, hỷ được an tịnh; khi nhập Thiền thứ tư, hơi th
 và đối với Tỷ-kheo đã đoạn tận lậu hoặc, tham được an tịnh, sân được
 an tịnh, si được an tịnh."
 
-==== Kinh 36.2. Không Gian Thứ Nhất (Paṭhamaākāsasuttaṃ)
+==== Kinh 36.12. Không Gian Thứ Nhất (Paṭhamaākāsasuttaṃ)
 
 #super[1] "Này các thầy, ví như trên không gian có nhiều loại gió khác
 nhau thổi qua — gió từ phương đông, gió từ phương tây, gió từ phương
@@ -5218,13 +5218,13 @@ Do liễu tri cảm thọ, ngay đời này không còn lậu hoặc; \
 Sau khi thân hoại, đứng vững trong pháp, vị thông đạt cảm thọ không
 còn bị gọi tên."
 
-==== Kinh 36.3. Không Gian Thứ Hai (Dutiyaākāsasuttaṃ)
+==== Kinh 36.13. Không Gian Thứ Hai (Dutiyaākāsasuttaṃ)
 
 #super[1] Cũng ví dụ như trên về các loại gió trên không gian, minh
 họa cho các loại cảm thọ khác nhau sanh lên trong thân — thọ lạc, thọ
 khổ, thọ không khổ không lạc.
 
-==== Kinh 36.4. Nhà Nghỉ (Agārasuttaṃ)
+==== Kinh 36.14. Nhà Nghỉ (Agārasuttaṃ)
 
 #super[1] "Này các thầy, ví như một nhà nghỉ dành cho khách qua đường.
 Người từ phương đông đến trú tại đó, người từ phương tây đến trú, người
@@ -5238,7 +5238,7 @@ lên. Thọ lạc không liên hệ vật chất cũng sanh lên, thọ khổ kh
 hệ vật chất cũng sanh lên, thọ không khổ không lạc không liên hệ vật
 chất cũng sanh lên."
 
-==== Kinh 36.5. A-nan Thứ Nhất (Paṭhamaānandasuttaṃ)
+==== Kinh 36.15. A-nan Thứ Nhất (Paṭhamaānandasuttaṃ)
 
 #super[1] Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn, ngồi xuống một bên, bạch
 Thế Tôn: "Bạch Thế Tôn, cảm thọ là gì, sự tập khởi của cảm thọ là gì,
@@ -5256,7 +5256,7 @@ tuần tự của các hành — hoàn toàn giống như đã giảng ở kinh 
 của phẩm này (từ Thiền thứ nhất cho đến Diệt thọ tưởng định, và đối
 với vị lậu hoặc đã đoạn tận).
 
-==== Kinh 36.6. A-nan Thứ Hai (Dutiyaānandasuttaṃ)
+==== Kinh 36.16. A-nan Thứ Hai (Dutiyaānandasuttaṃ)
 
 #super[1] Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn. Thế Tôn hỏi trước: "Này
 Ānanda, cảm thọ là gì, sự tập khởi của cảm thọ là gì… sự xuất ly là
@@ -5266,13 +5266,13 @@ Thế Tôn giảng giải hoàn toàn giống như kinh trước — ba loại c
 xúc là nguồn tập khởi và đoạn diệt, Bát Thánh đạo là con đường, vị
 ngọt, sự nguy hại, sự xuất ly, và sự đoạn diệt tuần tự của các hành.
 
-==== Kinh 36.7. Chúng Tỷ-kheo Thứ Nhất (Paṭhamasambahulasuttaṃ)
+==== Kinh 36.17. Chúng Tỷ-kheo Thứ Nhất (Paṭhamasambahulasuttaṃ)
 
 #super[1] Nhiều vị Tỷ-kheo đi đến chỗ Thế Tôn, hỏi cùng câu hỏi: "Cảm
 thọ là gì… sự xuất ly là gì?" Thế Tôn giảng giải hoàn toàn giống như
 hai kinh trước.
 
-==== Kinh 36.8. Chúng Tỷ-kheo Thứ Hai (Dutiyasambahulasuttaṃ)
+==== Kinh 36.18. Chúng Tỷ-kheo Thứ Hai (Dutiyasambahulasuttaṃ)
 
 #super[1] Nhiều vị Tỷ-kheo đi đến chỗ Thế Tôn, thưa rằng những pháp
 của họ bắt nguồn từ Thế Tôn, xin Thế Tôn giảng giải. Thế Tôn giảng
@@ -5280,7 +5280,7 @@ giải hoàn toàn giống như các kinh trước — về cảm thọ, sự t�
 đoạn diệt, con đường, vị ngọt, sự nguy hại, sự xuất ly, và sự đoạn
 diệt tuần tự của các hành.
 
-==== Kinh 36.9. Thợ Mộc Ngũ Phần (Pañcakaṅgasuttaṃ)
+==== Kinh 36.19. Thợ Mộc Ngũ Phần (Pañcakaṅgasuttaṃ)
 
 #super[1] Thợ mộc Ngũ Phần (Pañcakaṅga) đi đến chỗ Tôn giả Ưu đà di (Udāyī), hỏi: "Bạch Tôn
 giả Udāyī, Thế Tôn đã dạy có bao nhiêu loại cảm thọ?" "Này gia chủ, Thế
@@ -5326,7 +5326,7 @@ ngoại đạo nói như vậy, này Ānanda, cần trả lời họ rằng: 'N�
 giả, Thế Tôn không chỉ xếp cảm thọ lạc vào loại lạc; bất cứ nơi nào, ở
 đâu có được sự an lạc, Như Lai đều xếp nơi đó vào loại lạc.'"
 
-==== Kinh 36.10. Tỷ-kheo (Bhikkhusuttaṃ)
+==== Kinh 36.20. Tỷ-kheo (Bhikkhusuttaṃ)
 
 #super[1] Thế Tôn giảng cho các Tỷ-kheo cùng nội dung như trên — về
 việc Ngài đã dạy hai, ba, năm, sáu, mười tám, ba mươi sáu, và một trăm
@@ -5348,7 +5348,7 @@ và Thợ Mộc Ngũ Phần (Pañcakaṅga).
 
 === Phẩm 3 (nguồn ghi 3). Một Trăm Lẻ Tám Cảm Thọ (Aṭṭhasatapariyāyavaggo)
 
-==== Kinh 36.1. Si-ba-ca (Sīvakasuttaṃ)
+==== Kinh 36.21. Si-ba-ca (Sīvakasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc, khu vườn
 Ca-lan-đà (Kalandakanivāpa). Du sĩ Moḷiyasīvaka đi đến chỗ Thế Tôn, chào hỏi, ngồi
@@ -5379,7 +5379,7 @@ sự phối hợp, và thời tiết; \
 Sinh hoạt không điều độ, tai nạn, \
 và quả báo của nghiệp là thứ tám."
 
-==== Kinh 36.2. Một Trăm Lẻ Tám (Aṭṭhasatasuttaṃ)
+==== Kinh 36.22. Một Trăm Lẻ Tám (Aṭṭhasatasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ thuyết cho các thầy pháp môn về một
 trăm lẻ tám cảm thọ. Hãy lắng nghe. Pháp môn về một trăm lẻ tám cảm
@@ -5402,7 +5402,7 @@ loại thuộc về tương lai, ba mươi sáu loại thuộc về hiện tại
 một trăm lẻ tám loại. Này các thầy, đó là pháp môn về một trăm lẻ tám
 cảm thọ."
 
-==== Kinh 36.3. Một Vị Tỷ-kheo (Aññatarabhikkhusuttaṃ)
+==== Kinh 36.23. Một Vị Tỷ-kheo (Aññatarabhikkhusuttaṃ)
 
 #super[1] Một vị Tỷ-kheo đi đến chỗ Thế Tôn, hỏi: "Bạch Thế Tôn, cảm
 thọ là gì, sự tập khởi của cảm thọ là gì, con đường đưa đến sự tập
@@ -5417,7 +5417,7 @@ sanh lên do duyên cảm thọ, đó là vị ngọt. Cảm thọ là vô thư�
 có tánh biến đổi, đó là sự nguy hại. Sự chế ngự, sự đoạn trừ dục tham
 đối với cảm thọ, đó là sự xuất ly."
 
-==== Kinh 36.4. Trước Khi Giác Ngộ (Pubbasuttaṃ)
+==== Kinh 36.24. Trước Khi Giác Ngộ (Pubbasuttaṃ)
 
 #super[1] "Này các thầy, trước khi giác ngộ, khi Ta còn là Bồ-tát,
 chưa chứng Chánh Đẳng Giác, Ta đã suy nghĩ: 'Cảm thọ là gì, sự tập
@@ -5429,7 +5429,7 @@ thọ khổ, thọ không khổ không lạc — đó gọi là cảm thọ. Do 
 cảm thọ tập khởi. Ái là con đường đưa đến sự tập khởi cảm thọ… và sự
 chế ngự, đoạn trừ dục tham đối với cảm thọ, đó là sự xuất ly.'"
 
-==== Kinh 36.5. Trí Tuệ (Ñāṇasuttaṃ)
+==== Kinh 36.25. Trí Tuệ (Ñāṇasuttaṃ)
 
 #super[1] "Này các thầy, đối với những pháp mà Ta trước đây chưa từng
 được nghe, nhãn sanh khởi, trí sanh khởi, tuệ sanh khởi, minh sanh
@@ -5441,14 +5441,14 @@ thọ,' 'đây là sự nguy hại của cảm thọ,' và 'đây là sự xuấ
 cảm thọ' — đối với những pháp trước đây chưa từng được nghe, nhãn,
 trí, tuệ, minh, ánh sáng đều sanh khởi như vậy nơi Ta."
 
-==== Kinh 36.6. Nhiều Vị Tỷ-kheo (Sambahulabhikkhusuttaṃ)
+==== Kinh 36.26. Nhiều Vị Tỷ-kheo (Sambahulabhikkhusuttaṃ)
 
 #super[1] Nhiều vị Tỷ-kheo đi đến chỗ Thế Tôn, hỏi cùng câu hỏi về
 cảm thọ, sự tập khởi, con đường đưa đến tập khởi, sự đoạn diệt, con
 đường đưa đến đoạn diệt, vị ngọt, sự nguy hại, và sự xuất ly. Thế Tôn
 đáp hoàn toàn giống như hai kinh trước.
 
-==== Kinh 36.7. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 36.27. Sa-môn Bà-la-môn Thứ Nhất (Paṭhamasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, có ba loại cảm thọ này — thọ lạc, thọ khổ,
 thọ không khổ không lạc. Này các thầy, những Sa-môn, Bà-la-môn nào
@@ -5463,12 +5463,12 @@ các Bà-la-môn; và những Tôn giả ấy, ngay trong hiện tại, tự mì
 chứng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng Phạm
 hạnh."
 
-==== Kinh 36.8. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 36.28. Sa-môn Bà-la-môn Thứ Hai (Dutiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] Cùng nội dung như kinh trước, nhưng thay bằng cách diễn đạt
 khác: "những Sa-môn, Bà-la-môn nào không biết rõ ba loại cảm thọ này…"
 
-==== Kinh 36.9. Sa-môn Bà-la-môn Thứ Ba (Tatiyasamaṇabrāhmaṇasuttaṃ)
+==== Kinh 36.29. Sa-môn Bà-la-môn Thứ Ba (Tatiyasamaṇabrāhmaṇasuttaṃ)
 
 #super[1] "Này các thầy, những Sa-môn, Bà-la-môn nào không biết rõ
 cảm thọ, không biết rõ sự tập khởi của cảm thọ, không biết rõ sự đoạn
@@ -5477,13 +5477,13 @@ thọ, thì Ta không xem họ là Sa-môn giữa các Sa-môn… (như kinh tr�
 Còn những vị nào biết rõ những điều ấy, Ta xem họ là Sa-môn giữa các
 Sa-môn… (như kinh trước)."
 
-==== Kinh 36.10. Đơn Giản (Suddhikasuttaṃ)
+==== Kinh 36.30. Đơn Giản (Suddhikasuttaṃ)
 
 #super[1] "Này các thầy, có ba loại cảm thọ này. Ba loại nào? Thọ lạc,
 thọ khổ, thọ không khổ không lạc. Này các thầy, đó là ba loại cảm
 thọ."
 
-==== Kinh 36.11. Không Liên Hệ Vật Chất (Nirāmisasuttaṃ)
+==== Kinh 36.31. Không Liên Hệ Vật Chất (Nirāmisasuttaṃ)
 
 #super[1] "Này các thầy, có hỷ liên hệ vật chất, có hỷ không liên hệ
 vật chất, và có hỷ còn không liên hệ vật chất hơn nữa; có lạc liên hệ
@@ -5676,7 +5676,7 @@ Thất niệm, năm điều sợ hãi — được nói ở phần u ám.
 
 === Phẩm 2 (nguồn ghi 2). Trùng Tụng Thứ Hai (Dutiyapeyyālavaggo)
 
-==== Kinh 37.1. Không Sân Hận (Akkodhanasuttaṃ)
+==== Kinh 37.15. Không Sân Hận (Akkodhanasuttaṃ)
 
 #super[1] Tôn giả A-na-luật-đà (Anuruddha) đi đến chỗ Thế Tôn; đến rồi, ngồi xuống một
 bên. Ngồi một bên, Tôn giả Anuruddha bạch Thế Tôn: "Bạch Thế Tôn, ở
@@ -5689,50 +5689,50 @@ trời. Những gì là năm? Có lòng tin, biết hổ, biết sợ, không s�
 có tuệ — người nữ có đủ năm pháp này thì sau khi thân hoại mạng chung,
 sanh vào cõi lành, cõi trời."
 
-==== Kinh 37.2. Không Thù Hằn (Anupanāhīsuttaṃ)
+==== Kinh 37.16. Không Thù Hằn (Anupanāhīsuttaṃ)
 
 #super[1] "Này A-na-luật-đà (Anuruddha), người nữ có đủ năm pháp — có lòng tin, biết
 hổ, biết sợ, không thù hằn, có tuệ — thì sau khi thân hoại mạng chung,
 sanh vào cõi lành, cõi trời."
 
-==== Kinh 37.3. Không Ganh Tị (Anissukīsuttaṃ)
+==== Kinh 37.17. Không Ganh Tị (Anissukīsuttaṃ)
 
 #super[1] "Này A-na-luật-đà (Anuruddha), người nữ có đủ năm pháp — có lòng tin, biết
 hổ, biết sợ, không ganh tị, có tuệ — thì sau khi thân hoại mạng chung,
 sanh vào cõi lành, cõi trời."
 
-==== Kinh 37.4. Không Bỏn Xẻn (Amaccharīsuttaṃ)
+==== Kinh 37.18. Không Bỏn Xẻn (Amaccharīsuttaṃ)
 
 #super[1] "…có đủ năm pháp — không bỏn xẻn, có tuệ …" (theo cùng
 phương thức như trên).
 
-==== Kinh 37.5. Không Ngoại Tình (Anaticārīsuttaṃ)
+==== Kinh 37.19. Không Ngoại Tình (Anaticārīsuttaṃ)
 
 #super[1] "…có đủ năm pháp — không ngoại tình, có tuệ …" (theo cùng
 phương thức như trên).
 
-==== Kinh 37.6. Có Giới Hạnh (Susīlasuttaṃ)
+==== Kinh 37.20. Có Giới Hạnh (Susīlasuttaṃ)
 
 #super[1] "…có đủ năm pháp — có giới hạnh, có tuệ …" (theo cùng
 phương thức như trên).
 
-==== Kinh 37.7. Nghe Nhiều (Bahussutasuttaṃ)
+==== Kinh 37.21. Nghe Nhiều (Bahussutasuttaṃ)
 
 #super[1] "…có đủ năm pháp — nghe nhiều, có tuệ …" (theo cùng phương
 thức như trên).
 
-==== Kinh 37.8. Tinh Cần Tinh Tấn (Āraddhavīriyasuttaṃ)
+==== Kinh 37.22. Tinh Cần Tinh Tấn (Āraddhavīriyasuttaṃ)
 
 #super[1] "…có đủ năm pháp — tinh cần tinh tấn, có tuệ …" (theo cùng
 phương thức như trên).
 
-==== Kinh 37.9. Có Niệm (Upaṭṭhitassatisuttaṃ)
+==== Kinh 37.23. Có Niệm (Upaṭṭhitassatisuttaṃ)
 
 #super[1] "…có đủ năm pháp — có niệm, có tuệ — thì sau khi thân hoại
 mạng chung, sanh vào cõi lành, cõi trời." Đây là tám kinh được nói
 vắn tắt.
 
-==== Kinh 37.10. Năm Giới (Pañcasīlasuttaṃ)
+==== Kinh 37.24. Năm Giới (Pañcasīlasuttaṃ)
 
 #super[1] "Này A-na-luật-đà (Anuruddha), người nữ có đủ năm pháp thì sau khi thân
 hoại mạng chung, sanh vào cõi lành, cõi trời. Những gì là năm? Từ bỏ
@@ -5751,7 +5751,7 @@ Tinh tấn, có niệm, có giới — được nói ở phần sáng.
 
 === Phẩm 3 (nguồn ghi 3). Sức Mạnh (Balavaggo)
 
-==== Kinh 37.1. Tự Tin (Visāradasuttaṃ)
+==== Kinh 37.25. Tự Tin (Visāradasuttaṃ)
 
 #super[1] "Này các thầy, người nữ có năm sức mạnh này. Những gì là năm?
 Sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh thân tộc, sức mạnh con
@@ -5759,7 +5759,7 @@ cái, sức mạnh giới hạnh — đó là năm sức mạnh của người n
 thầy, người nữ có đủ năm sức mạnh này thì sống ở nhà một cách tự tin,
 không sợ hãi."
 
-==== Kinh 37.2. Lấn Lướt (Pasayhasuttaṃ)
+==== Kinh 37.26. Lấn Lướt (Pasayhasuttaṃ)
 
 #super[1] "Này các thầy, người nữ có năm sức mạnh này. Những gì là
 năm? Sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh thân tộc, sức mạnh
@@ -5767,7 +5767,7 @@ con cái, sức mạnh giới hạnh — đó là năm sức mạnh của ngư�
 các thầy, người nữ có đủ năm sức mạnh này thì lấn lướt được chồng,
 sống ở nhà."
 
-==== Kinh 37.3. Chi Phối (Abhibhuyyasuttaṃ)
+==== Kinh 37.27. Chi Phối (Abhibhuyyasuttaṃ)
 
 #super[1] "Này các thầy, người nữ có năm sức mạnh này. Những gì là
 năm? Sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh thân tộc, sức mạnh
@@ -5775,7 +5775,7 @@ con cái, sức mạnh giới hạnh — đó là năm sức mạnh của ngư�
 các thầy, người nữ có đủ năm sức mạnh này thì lấn lướt và chi phối
 được chồng."
 
-==== Kinh 37.4. Một Sức Mạnh (Ekasuttaṃ)
+==== Kinh 37.28. Một Sức Mạnh (Ekasuttaṃ)
 
 #super[1] "Này các thầy, người nam có đủ một sức mạnh thì lấn lướt và
 chi phối được người nữ. Sức mạnh gì? Sức mạnh quyền lực. Người nữ dù
@@ -5784,7 +5784,7 @@ sức mạnh tài sản cũng không cứu được, sức mạnh thân tộc c�
 cứu được, sức mạnh con cái cũng không cứu được, sức mạnh giới hạnh
 cũng không cứu được."
 
-==== Kinh 37.5. Chi Phần Thứ Năm (Aṅgasuttaṃ)
+==== Kinh 37.29. Chi Phần Thứ Năm (Aṅgasuttaṃ)
 
 #super[1] "Này các thầy, người nữ có năm sức mạnh này. Những gì là
 năm? Sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh thân tộc, sức mạnh
@@ -5799,7 +5799,7 @@ không có sức mạnh giới hạnh, thì chưa đầy đủ; có đủ cả n
 xem là đầy đủ chi phần ấy. Này các thầy, đó là năm sức mạnh của người
 nữ."
 
-==== Kinh 37.6. Loại Bỏ (Nāsentisuttaṃ)
+==== Kinh 37.30. Loại Bỏ (Nāsentisuttaṃ)
 
 #super[1] "Này các thầy, người nữ có năm sức mạnh này. Những gì là
 năm? Sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh thân tộc, sức mạnh
@@ -5817,7 +5817,7 @@ hạnh mà không có sức mạnh thân tộc thì vẫn giữ lại. Có sức
 hạnh mà không có sức mạnh con cái thì vẫn giữ lại, không loại bỏ khỏi
 gia tộc. Này các thầy, đó là năm sức mạnh của người nữ."
 
-==== Kinh 37.7. Nhân Duyên (Hetusuttaṃ)
+==== Kinh 37.31. Nhân Duyên (Hetusuttaṃ)
 
 #super[1] "Này các thầy, người nữ có năm sức mạnh này. Những gì là
 năm? Sức mạnh nhan sắc, sức mạnh tài sản, sức mạnh thân tộc, sức mạnh
@@ -5828,7 +5828,7 @@ mạng chung, sanh vào cõi lành, cõi trời. Chính vì sức mạnh giới 
 mà người nữ, sau khi thân hoại mạng chung, sanh vào cõi lành, cõi
 trời. Này các thầy, đó là năm sức mạnh của người nữ."
 
-==== Kinh 37.8. Địa Vị (Ṭhānasuttaṃ)
+==== Kinh 37.32. Địa Vị (Ṭhānasuttaṃ)
 
 #super[1] "Này các thầy, có năm địa vị khó đạt được đối với người nữ
 chưa từng tạo phước. Những gì là năm? 'Mong ta được sanh vào gia tộc
@@ -5852,7 +5852,7 @@ giành, có con, và lấn lướt được chồng mà sống ở nhà — cũn
 phương thức mà dễ đạt được. Này các thầy, đó là năm địa vị dễ đạt
 được đối với người nữ đã từng tạo phước."
 
-==== Kinh 37.9. Tự Tin Nhờ Giới (Pañcasīlavisāradasuttaṃ)
+==== Kinh 37.33. Tự Tin Nhờ Giới (Pañcasīlavisāradasuttaṃ)
 
 #super[1] "Này các thầy, người nữ có đủ năm pháp thì sống ở nhà một
 cách tự tin, không sợ hãi. Những gì là năm? Từ bỏ sát sanh, từ bỏ lấy
@@ -5860,7 +5860,7 @@ của không cho, từ bỏ tà hạnh trong các dục, từ bỏ nói láo, t�
 say rượu men rượu nấu — người nữ có đủ năm pháp này thì sống ở nhà
 một cách tự tin, không sợ hãi."
 
-==== Kinh 37.10. Tăng Trưởng (Vaḍḍhīsuttaṃ)
+==== Kinh 37.34. Tăng Trưởng (Vaḍḍhīsuttaṃ)
 
 #super[1] "Này các thầy, vị nữ đệ tử của bậc Thánh tăng trưởng nhờ năm
 sự tăng trưởng, tăng trưởng theo sự tăng trưởng của bậc Thánh, nắm lấy
@@ -7524,7 +7524,7 @@ Với Thánh đạo — đó là mười một kinh vậy.
 
 === Phẩm 2 (nguồn ghi 2). Trùng Tụng Thứ Hai (Dutiyavaggo)
 
-==== Kinh 43.1. Pháp Vô Vi (Asaṅkhatasuttaṃ)
+==== Kinh 43.12. Pháp Vô Vi (Asaṅkhatasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về pháp vô vi và
 con đường đưa đến pháp vô vi. Hãy lắng nghe. Này các thầy, thế nào là
@@ -7572,7 +7572,7 @@ làm cho các thầy. Đây là những gốc cây, đây là những nhà trố
 tu thiền, này các thầy, đừng phóng dật, đừng để sau này phải hối hận.
 Đây là lời chỉ dạy của Ta cho các thầy."
 
-==== Kinh 43.2. Pháp Không Cong Vẹo (Anatasuttaṃ)
+==== Kinh 43.13. Pháp Không Cong Vẹo (Anatasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về pháp không cong
 vẹo và con đường đưa đến pháp không cong vẹo ấy. Hãy lắng nghe. Này
@@ -7581,7 +7581,7 @@ cách thức đầy đủ như đối với pháp vô vi ở trên, với cùng 
 đường: niệm thân, chỉ và quán, các loại định, bốn niệm xứ, bốn chánh
 cần, bốn thần túc, năm căn, năm lực, bảy giác chi, và Bát Thánh đạo.)
 
-#strong[Nhóm kinh 43.3–32 — Ba Mươi Pháp Vô Lậu Và Các Pháp Khác (Anāsavādisuttaṃ)]
+#strong[Nhóm kinh 43.14–43 — Ba Mươi Pháp Vô Lậu Và Các Pháp Khác (Anāsavādisuttaṃ)]
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về pháp vô lậu và
 con đường đưa đến pháp vô lậu. Hãy lắng nghe… Này các thầy, Ta sẽ
@@ -7618,7 +7618,7 @@ chở… về chỗ quy y và con đường đưa đến chỗ quy y ấy." (M�
 ba mươi pháp này — từ pháp vô lậu cho đến chỗ quy y — đều được giảng
 với cùng mười một con đường đầy đủ như đối với pháp vô vi ở trên.)
 
-==== Kinh 43.33. Chỗ Đến Cuối Cùng (Parāyanasuttaṃ)
+==== Kinh 43.44. Chỗ Đến Cuối Cùng (Parāyanasuttaṃ)
 
 #super[1] "Này các thầy, Ta sẽ giảng cho các thầy về chỗ đến cuối cùng
 và con đường đưa đến chỗ đến cuối cùng ấy. Hãy lắng nghe. Này các

@@ -188,7 +188,7 @@ do đó phẩm này được gọi tên như vậy.
 
 === Phẩm 2 (nguồn ghi 2). Hoan Hỷ (Nandanavaggo)
 
-==== Kinh 1.1. Vườn Hoan Hỷ (Nandanasuttaṃ)
+==== Kinh 1.11. Vườn Hoan Hỷ (Nandanasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
 Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Tại đó, Thế Tôn gọi các Tỷ-kheo:
@@ -209,7 +209,7 @@ có sanh và có diệt; \
 sanh rồi lại diệt đi, \
 sự an tịnh của chúng là an vui."
 
-==== Kinh 1.2. Vui Mừng (Nandatisuttaṃ)
+==== Kinh 1.12. Vui Mừng (Nandatisuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
@@ -223,7 +223,7 @@ người có bò sầu muộn vì bò; \
 Con người sầu muộn vì các sự tham chấp, \
 nhưng người không còn tham chấp thì không sầu muộn."
 
-==== Kinh 1.3. Không Gì Bằng Con (Natthiputtasamasuttaṃ)
+==== Kinh 1.13. Không Gì Bằng Con (Natthiputtasamasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
@@ -237,7 +237,7 @@ không có tài sản nào bằng lúa gạo; \
 Không có ánh sáng nào bằng ánh sáng trí tuệ, \
 mưa chính là nguồn nước tối thượng."
 
-==== Kinh 1.4. Sát-đế-lỵ (Khattiyasuttaṃ)
+==== Kinh 1.14. Sát-đế-lỵ (Khattiyasuttaṃ)
 
 #super[1] Chư thiên nói: \
 "Sát-đế-lỵ là bậc tối thắng trong loài hai chân, \
@@ -250,7 +250,7 @@ con ngựa thuần chủng là tối thắng trong loài bốn chân; \
 Người vợ biết vâng lời là tối thắng trong các người vợ, \
 và người con hiếu thuận là tối thắng trong các người con."
 
-==== Kinh 1.5. Tiếng Vang Rừng Sâu (Saṇamānasuttaṃ)
+==== Kinh 1.15. Tiếng Vang Rừng Sâu (Saṇamānasuttaṃ)
 
 #super[1] Chư thiên nói: \
 "Vào lúc đứng bóng giữa trưa, \
@@ -263,7 +263,7 @@ khi các loài chim đã yên lặng, \
 rừng sâu vang lên — \
 niềm vui ấy hiện đến với tôi."
 
-==== Kinh 1.6. Ngủ Nghê Và Lười Nhác (Niddātandīsuttaṃ)
+==== Kinh 1.16. Ngủ Nghê Và Lười Nhác (Niddātandīsuttaṃ)
 
 #super[1] Chư thiên nói: \
 "Ngủ nghê, lười nhác, uể oải, \
@@ -276,7 +276,7 @@ bất mãn, buồn ngủ sau bữa ăn — \
 Lấy tinh tấn xua đuổi chúng đi, \
 con đường Thánh mới được thanh tịnh."
 
-==== Kinh 1.7. Khó Làm (Dukkarasuttaṃ)
+==== Kinh 1.17. Khó Làm (Dukkarasuttaṃ)
 
 #super[1] Chư thiên nói: \
 "Hạnh Sa-môn thật khó làm, khó kham nhẫn \
@@ -293,7 +293,7 @@ là Tỷ-kheo đã thu nhiếp các tư tưởng; \
 Không nương tựa, không não hại ai, \
 đã hoàn toàn tịch tĩnh, không chỉ trích bất cứ ai."
 
-==== Kinh 1.8. Lòng Xấu Hổ (Hirīsuttaṃ)
+==== Kinh 1.18. Lòng Xấu Hổ (Hirīsuttaṃ)
 
 #super[1] Chư thiên nói: \
 "Có ai trên thế gian này \
@@ -306,7 +306,7 @@ hằng sống tỉnh giác; \
 Đã đạt đến tận cùng của khổ, \
 họ sống thanh thản giữa chốn không bằng phẳng."
 
-==== Kinh 1.9. Căn Chòi (Kuṭikāsuttaṃ)
+==== Kinh 1.19. Căn Chòi (Kuṭikāsuttaṃ)
 
 #super[1] Chư thiên hỏi: \
 "Phải chăng Ngài không có chòi, \
@@ -334,7 +334,7 @@ lành thay, không có tổ chim; \
 Lành thay, không có dây ràng buộc, \
 lành thay, Ngài đã thoát khỏi trói buộc."
 
-==== Kinh 1.10. Sa-mi-đi (Samiddhisuttaṃ)
+==== Kinh 1.20. Sa-mi-đi (Samiddhisuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Vương Xá (Rājagaha), trong khu
 rừng Suối nước nóng (Tapodā). Khi ấy, Tôn giả Samiddhi đứng dậy lúc rạng đông, đi đến suối
@@ -475,7 +475,7 @@ và Samiddhi được nói là thứ mười.
 
 === Phẩm 3 (nguồn ghi 3). Đao Kiếm (Sattivaggo)
 
-==== Kinh 1.1. Đao Kiếm (Sattisuttaṃ)
+==== Kinh 1.21. Đao Kiếm (Sattisuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Đứng qua một bên, chư thiên ấy nói lên
 bài kệ này trước Thế Tôn: \
@@ -488,7 +488,7 @@ như đầu đang bốc cháy; \
 Tỷ-kheo hãy sống với niệm, \
 để đoạn trừ kiến chấp về tự ngã."
 
-==== Kinh 1.2. Xúc Chạm (Phusatisuttaṃ)
+==== Kinh 1.22. Xúc Chạm (Phusatisuttaṃ)
 
 #super[1] "Chạm đến người không chạm đến mình, \
 rồi lại chạm vào từ chỗ ấy; \
@@ -499,7 +499,7 @@ người trong sạch, không chút nhiễm ô; \
 Điều ác ấy quay lại kẻ ngu, \
 như hạt bụi mịn tung ngược gió."
 
-==== Kinh 1.3. Rối Ren (Jaṭāsuttaṃ)
+==== Kinh 1.23. Rối Ren (Jaṭāsuttaṃ)
 
 #super[1] "Rối bên trong, rối bên ngoài, \
 chúng sanh bị rối trong mớ rối; \
@@ -518,7 +518,7 @@ chấm dứt hoàn toàn không dư tàn, \
 cùng với sự chống đối và tưởng về sắc — \
 chính nơi đây mớ rối được cắt đứt."
 
-==== Kinh 1.4. Ngăn Chặn Tâm Ý (Manonivāraṇasuttaṃ)
+==== Kinh 1.24. Ngăn Chặn Tâm Ý (Manonivāraṇasuttaṃ)
 
 #super[1] "Chỗ nào ngăn được tâm ý, \
 khổ đau từ đó không đến; \
@@ -529,7 +529,7 @@ tâm đã điều phục thì không cần ngăn; \
 Chỉ chỗ nào ác pháp sanh lên, \
 mới cần ngăn tâm ngay chỗ đó."
 
-==== Kinh 1.5. Bậc A-la-hán (Arahantasuttaṃ)
+==== Kinh 1.25. Bậc A-la-hán (Arahantasuttaṃ)
 
 #super[1] "Tỷ-kheo nào là vị A-la-hán, \
 đã làm xong việc cần làm, lậu tận, \
@@ -556,7 +556,7 @@ cũng có thể nói 'người ta nói với tôi'; \
 Vị ấy khéo biết cách nói thông thường ở đời, \
 nên chỉ dùng lời nói theo quy ước mà nói vậy thôi."
 
-==== Kinh 1.6. Ánh Sáng (Pajjotasuttaṃ)
+==== Kinh 1.26. Ánh Sáng (Pajjotasuttaṃ)
 
 #super[1] "Có bao nhiêu ánh sáng ở đời, \
 nhờ đó thế gian được chiếu sáng? \
@@ -571,7 +571,7 @@ chiếu sáng khắp nơi khắp chỗ; \
 Bậc Chánh Đẳng Giác là ánh sáng tối thượng \
 trong các ánh sáng — đây là ánh sáng vô thượng."
 
-==== Kinh 1.7. Dòng Nước (Sarasuttaṃ)
+==== Kinh 1.27. Dòng Nước (Sarasuttaṃ)
 
 #super[1] "Từ đâu các dòng nước chảy ngược, \
 ở đâu vòng luân hồi không xoay; \
@@ -584,7 +584,7 @@ Từ đó các dòng nước chảy ngược, \
 Ở đây danh và sắc \
 chấm dứt hoàn toàn không dư tàn."
 
-==== Kinh 1.8. Nhiều Của Cải (Mahaddhanasuttaṃ)
+==== Kinh 1.28. Nhiều Của Cải (Mahaddhanasuttaṃ)
 
 #super[1] "Những kẻ nhiều của, nhiều tài sản, \
 dù là vua chúa cai trị cả nước; \
@@ -601,7 +601,7 @@ và đã xua tan vô minh; \
 Các vị A-la-hán lậu tận, \
 chính các vị ấy ở đời không còn tham đắm."
 
-==== Kinh 1.9. Bốn Bánh Xe (Catucakkasuttaṃ)
+==== Kinh 1.29. Bốn Bánh Xe (Catucakkasuttaṃ)
 
 #super[1] "Bốn bánh xe, chín cửa, \
 đầy dẫy tham lam trói buộc; \
@@ -612,7 +612,7 @@ cắt đứt lòng tham và ác dục; \
 Nhổ tận gốc rễ của ái, \
 như vậy mới có thể đi tới."
 
-==== Kinh 1.10. Chân Nai (Eṇijaṅghasuttaṃ)
+==== Kinh 1.30. Chân Nai (Eṇijaṅghasuttaṃ)
 
 #super[1] "Bậc anh hùng chân như chân nai, gầy gò, \
 ăn ít, không tham lam; \
@@ -638,7 +638,7 @@ Chân Nai là thứ mười.
 
 === Phẩm 4 (nguồn ghi 4). Chúng Sa-tu-la-pa-ca-i-ca (Satullapakāyikavaggo)
 
-==== Kinh 1.1. Người Hiền (Sabbhisuttaṃ)
+==== Kinh 1.31. Người Hiền (Sabbhisuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng
 Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Khi đêm đã về khuya, nhiều vị chư
@@ -665,7 +665,7 @@ thoát khỏi mọi khổ đau." \
 Thế Tôn nói như vậy. Các vị chư thiên ấy hoan hỷ, đảnh lễ Thế Tôn, đi
 vòng quanh theo phía bên phải, rồi biến mất ngay tại đó.
 
-==== Kinh 1.2. Bỏn Xẻn (Maccharisuttaṃ)
+==== Kinh 1.32. Bỏn Xẻn (Maccharisuttaṃ)
 
 #super[1] Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu
 vườn của Cấp Cô Độc (Anāthapiṇḍika). Khi đêm đã về khuya, nhiều vị chư thiên thuộc
@@ -730,7 +730,7 @@ không thể bằng vật cho một cách công bằng. \
 Như vậy, trăm ngàn người làm đại tế lễ ngàn vàng theo cách ấy, \
 không bằng một phần nhỏ của người cho công bằng kia."
 
-==== Kinh 1.3. Bố Thí Là Tốt (Sādhusuttaṃ)
+==== Kinh 1.33. Bố Thí Là Tốt (Sādhusuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, nhiều vị chư thiên thuộc
 nhóm Satullapakāyikā, khi đêm đã về khuya, với dung sắc thù thắng, chiếu
@@ -774,7 +774,7 @@ nhưng pháp cú còn hơn cả bố thí; \
 Những người hiền thời xưa và thời xưa hơn nữa, \
 đều nhờ trí tuệ mà đạt đến Niết-bàn."
 
-==== Kinh 1.4. Không Thường Tồn (Nasantisuttaṃ)
+==== Kinh 1.34. Không Thường Tồn (Nasantisuttaṃ)
 
 #super[1] Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu
 vườn của Cấp Cô Độc (Anāthapiṇḍika). Khi đêm đã về khuya, nhiều vị chư thiên thuộc
@@ -820,7 +820,7 @@ họ cũng đáng được ca ngợi; \
 Sau khi hiểu rõ pháp, từ bỏ hoài nghi, \
 những Tỷ-kheo ấy cũng vượt qua được mọi trói buộc."
 
-==== Kinh 1.5. Có Ác Ý (Ujjhānasaññisuttaṃ)
+==== Kinh 1.35. Có Ác Ý (Ujjhānasaññisuttaṃ)
 
 #super[1] Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu
 vườn của Cấp Cô Độc (Anāthapiṇḍika). Khi đêm đã về khuya, nhiều vị chư thiên thuộc
@@ -884,7 +884,7 @@ thì chính người ấy tự mang lấy oán thù' — \
 Con không hoan hỷ với oán thù đó; \
 con xin nhận lời xin lỗi của Ngài."
 
-==== Kinh 1.6. Lòng Tin (Saddhāsuttaṃ)
+==== Kinh 1.36. Lòng Tin (Saddhāsuttaṃ)
 
 #super[1] Một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu
 vườn của Cấp Cô Độc (Anāthapiṇḍika). Khi đêm đã về khuya, nhiều vị chư thiên thuộc
@@ -911,7 +911,7 @@ như giữ gìn tài sản quý giá nhất. \
 Vì người không buông lung, chuyên tâm hành thiền, \
 sẽ đạt được an lạc tối thượng."
 
-==== Kinh 1.7. Đại Hội (Samayasuttaṃ)
+==== Kinh 1.37. Đại Hội (Samayasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại xứ Thích-ca (Sakka), ở Đại
 Lâm (Mahāvana) gần Ca-tỳ-la-vệ (Kapilavatthu), cùng với đại chúng Tỷ-kheo, khoảng năm
@@ -952,7 +952,7 @@ họ sẽ không đi đến cõi đọa xứ; \
 Sau khi từ bỏ thân người, \
 họ sẽ làm đầy đủ thêm hàng ngũ chư thiên."
 
-==== Kinh 1.8. Miếng Đá Vụn (Sakalikasuttaṃ)
+==== Kinh 1.38. Miếng Đá Vụn (Sakalikasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại Vương Xá (Rājagaha), trong
 vườn Nai Ma-đa-cúc-chi (Maddakucchi). Bấy giờ, chân Thế Tôn bị một miếng đá vụn làm bị
@@ -1006,7 +1006,7 @@ tâm ý trong sạch, hoàn toàn giải thoát khắp mọi nơi; \
 Sống một mình trong rừng mà không buông lung, \
 người ấy có thể vượt qua bờ bên kia của cõi Thần Chết."
 
-==== Kinh 1.9. Con Gái Của Ba-du-na Thứ Nhất (Paṭhamapajjunnadhītusuttaṃ)
+==== Kinh 1.39. Con Gái Của Ba-du-na Thứ Nhất (Paṭhamapajjunnadhītusuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại Tỳ-xá-ly (Vesāli), trong Đại
 Lâm, tại giảng đường Trùng Các (Kūṭāgāra). Bấy giờ, Kokanadā, con gái của Pajjunna,
@@ -1031,7 +1031,7 @@ có được sự kiên nhẫn và tịch tĩnh, \
 sau khi từ bỏ thân người, \
 sẽ làm đầy đủ thêm hàng ngũ chư thiên."
 
-==== Kinh 1.10. Con Gái Của Ba-du-na Thứ Hai (Dutiyapajjunnadhītusuttaṃ)
+==== Kinh 1.40. Con Gái Của Ba-du-na Thứ Hai (Dutiyapajjunnadhītusuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại Tỳ-xá-ly (Vesāli), trong Đại
 Lâm, tại giảng đường Trùng Các (Kūṭāgāra). Bấy giờ, Cūḷakokanadā, con gái của
@@ -1064,7 +1064,7 @@ Cả hai kinh Con Gái Của Pajjunna.
 
 === Phẩm 5 (nguồn ghi 5). Cháy (Ādittavaggo)
 
-==== Kinh 1.1. Cháy (Ādittasuttaṃ)
+==== Kinh 1.41. Cháy (Ādittasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngụ tại Xá-vệ (Sāvatthi), trong
 rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Khi ấy, một chư thiên, khi
@@ -1091,7 +1091,7 @@ nên vừa thọ hưởng vừa bố thí; \
 Sau khi đã cho và đã thọ hưởng đúng theo khả năng của mình, \
 người ấy sẽ đi đến cõi trời mà không bị chê trách."
 
-==== Kinh 1.2. Cho Gì (Kiṃdadasuttaṃ)
+==== Kinh 1.42. Cho Gì (Kiṃdadasuttaṃ)
 
 #super[1] "Cho gì thì được sức mạnh? \
 Cho gì thì được dung sắc? \
@@ -1107,7 +1107,7 @@ Người cho chỗ trú ngụ mới là người cho tất cả; \
 và người thuyết giảng Chánh pháp \
 mới là người cho sự bất tử."
 
-==== Kinh 1.3. Thức Ăn (Annasuttaṃ)
+==== Kinh 1.43. Thức Ăn (Annasuttaṃ)
 
 #super[1] "Cả chư thiên và loài người \
 đều hoan hỷ với thức ăn; \
@@ -1122,14 +1122,14 @@ hãy chiến thắng cấu uế; \
 Các phước đức ở đời sau \
 là chỗ nương tựa cho chúng sanh."
 
-==== Kinh 1.4. Một Gốc (Ekamūlasuttaṃ)
+==== Kinh 1.44. Một Gốc (Ekamūlasuttaṃ)
 
 #super[1] "Một gốc, hai vòng xoáy, \
 ba vết nhiễm, năm bề rộng; \
 Biển cả mười hai vòng xoáy, \
 vị ẩn sĩ đã vượt qua vực sâu."
 
-==== Kinh 1.5. Danh Hiệu Không Tầm Thường (Anomasuttaṃ)
+==== Kinh 1.45. Danh Hiệu Không Tầm Thường (Anomasuttaṃ)
 
 #super[1] "Hãy nhìn đấng có danh hiệu cao quý, \
 thấy rõ nghĩa lý tinh tế, \
@@ -1137,7 +1137,7 @@ ban phát trí tuệ, không đắm nhiễm chốn dục lạc; \
 Hãy nhìn đại ẩn sĩ ấy, bậc hiểu biết tất cả, bậc đại trí, \
 đang tiến bước trên đường Thánh."
 
-==== Kinh 1.6. Tiên Nữ (Accharāsuttaṃ)
+==== Kinh 1.46. Tiên Nữ (Accharāsuttaṃ)
 
 #super[1] "Khu rừng tên là Mô-ha-na (Mohana), \
 nơi vang tiếng ca của các nàng tiên, \
@@ -1156,7 +1156,7 @@ dù là nữ hay nam; \
 Nhờ chiếc xe ấy, người đó \
 tiến gần đến Niết-bàn."
 
-==== Kinh 1.7. Người Trồng Rừng (Vanaropasuttaṃ)
+==== Kinh 1.47. Người Trồng Rừng (Vanaropasuttaṃ)
 
 #super[1] "Của những ai, cả ngày và đêm, \
 phước đức luôn tăng trưởng? \
@@ -1171,7 +1171,7 @@ phước đức luôn tăng trưởng; \
 Những người an trú trong Chánh pháp, đầy đủ giới hạnh, \
 chính những người ấy sẽ đi đến cõi trời."
 
-==== Kinh 1.8. Rừng Kỳ Viên (Jetavanasuttaṃ)
+==== Kinh 1.48. Rừng Kỳ Viên (Jetavanasuttaṃ)
 
 #super[1] "Đây chính là rừng Kỳ-đà Lâm (Jetavana), \
 nơi chúng Thánh hiền thường lui tới, \
@@ -1187,7 +1187,7 @@ Như Tôn giả Xá-lợi-phất (Sāriputta), nhờ trí tuệ, giới hạnh v
 Vị Tỷ-kheo nào đã đến được bờ kia, \
 tối đa cũng chỉ ngang bằng như vậy."
 
-==== Kinh 1.9. Bỏn Xẻn (Maccharisuttaṃ)
+==== Kinh 1.49. Bỏn Xẻn (Maccharisuttaṃ)
 
 #super[1] "Những ai ở đời bỏn xẻn, keo kiệt, hay chê bai, \
 gây chướng ngại cho người khác khi họ muốn bố thí. \
@@ -1221,7 +1221,7 @@ những thứ ấy họ đạt được không khó khăn. \
 họ hưởng dụng một cách tự tại như vị vua; \
 Quả báo ấy ngay trong đời này, và đời sau là cõi lành."
 
-==== Kinh 1.10. Người Thợ Gốm Gha-thi-ca-la (Ghaṭīkārasuttaṃ)
+==== Kinh 1.50. Người Thợ Gốm Gha-thi-ca-la (Ghaṭīkārasuttaṃ)
 
 #super[1] "Bảy vị Tỷ-kheo đã sanh vào cõi Aviha, đã được giải thoát; \
 tham và sân đã đoạn tận, \
@@ -1280,7 +1280,7 @@ Bỏn Xẻn cùng Người Thợ Gốm Ghaṭīkāra.
 
 === Phẩm 6 (nguồn ghi 6). Già (Jarāvaggo)
 
-==== Kinh 1.1. Già (Jarāsuttaṃ)
+==== Kinh 1.51. Già (Jarāsuttaṃ)
 
 #super[1] "Cái gì tốt đẹp cho đến khi già? \
 Cái gì khéo được an trú? \
@@ -1291,7 +1291,7 @@ lòng tin khéo được an trú; \
 Trí tuệ là báu vật của con người; \
 phước đức khó bị trộm cướp lấy đi."
 
-==== Kinh 1.2. Không Già (Ajarasāsuttaṃ)
+==== Kinh 1.52. Không Già (Ajarasāsuttaṃ)
 
 #super[1] "Cái gì tốt đẹp mà không già? \
 Cái gì khéo được quyết định? \
@@ -1302,7 +1302,7 @@ lòng tin khéo được quyết định; \
 Trí tuệ là báu vật của con người; \
 phước đức không thể bị trộm cướp lấy đi."
 
-==== Kinh 1.3. Bạn (Mittasuttaṃ)
+==== Kinh 1.53. Bạn (Mittasuttaṃ)
 
 #super[1] "Cái gì là bạn của người đi xa? \
 Cái gì là bạn ngay tại nhà mình? \
@@ -1313,7 +1313,7 @@ mẹ là bạn ngay tại nhà mình; \
 Người đồng hành là bạn khi gặp việc cần, luôn luôn là bạn; \
 các phước đức tự mình đã tạo, đó là bạn cho đời sau."
 
-==== Kinh 1.4. Nền Tảng (Vatthusuttaṃ)
+==== Kinh 1.54. Nền Tảng (Vatthusuttaṃ)
 
 #super[1] "Cái gì là nền tảng của loài người? \
 Cái gì ở đời là người bạn tối thượng? \
@@ -1324,7 +1324,7 @@ vợ là người bạn tối thượng; \
 Các loài sinh vật sống nhờ vào mưa, \
 những sinh vật sống nương vào đất."
 
-==== Kinh 1.5. Sanh Ra Con Người Thứ Nhất (Paṭhamajanasuttaṃ)
+==== Kinh 1.55. Sanh Ra Con Người Thứ Nhất (Paṭhamajanasuttaṃ)
 
 #super[1] "Cái gì sanh ra con người? \
 Cái gì chạy rong trong người ấy? \
@@ -1335,7 +1335,7 @@ tâm người ấy chạy rong; \
 Chúng sanh bị đưa vào luân hồi; \
 khổ đau là nỗi kinh hãi lớn của người ấy."
 
-==== Kinh 1.6. Sanh Ra Con Người Thứ Hai (Dutiyajanasuttaṃ)
+==== Kinh 1.56. Sanh Ra Con Người Thứ Hai (Dutiyajanasuttaṃ)
 
 #super[1] "Cái gì sanh ra con người? \
 Cái gì chạy rong trong người ấy? \
@@ -1346,7 +1346,7 @@ tâm người ấy chạy rong; \
 Chúng sanh bị đưa vào luân hồi; \
 vì khổ đau nên không được giải thoát."
 
-==== Kinh 1.7. Sanh Ra Con Người Thứ Ba (Tatiyajanasuttaṃ)
+==== Kinh 1.57. Sanh Ra Con Người Thứ Ba (Tatiyajanasuttaṃ)
 
 #super[1] "Cái gì sanh ra con người? \
 Cái gì chạy rong trong người ấy? \
@@ -1357,7 +1357,7 @@ tâm người ấy chạy rong; \
 Chúng sanh bị đưa vào luân hồi; \
 nghiệp là chỗ y cứ của người ấy."
 
-==== Kinh 1.8. Đường Lệch Lạc (Uppathasuttaṃ)
+==== Kinh 1.58. Đường Lệch Lạc (Uppathasuttaṃ)
 
 #super[1] "Cái gì được gọi là đường lệch lạc? \
 Cái gì làm ngày đêm hao mòn? \
@@ -1370,7 +1370,7 @@ chúng sanh thường dính mắc vào đó; \
 Khổ hạnh và đời sống Phạm hạnh, \
 đó là sự tắm rửa không cần nước."
 
-==== Kinh 1.9. Bạn Thứ Hai (Dutiyasuttaṃ)
+==== Kinh 1.59. Bạn Thứ Hai (Dutiyasuttaṃ)
 
 #super[1] "Cái gì là người bạn thứ hai của con người? \
 Cái gì hướng dẫn người ấy? \
@@ -1381,7 +1381,7 @@ trí tuệ hướng dẫn người ấy; \
 Ưa thích Niết-bàn mà con người \
 thoát khỏi mọi khổ đau."
 
-==== Kinh 1.10. Thi Sĩ (Kavisuttaṃ)
+==== Kinh 1.60. Thi Sĩ (Kavisuttaṃ)
 
 #super[1] "Cái gì là nguồn gốc của những bài kệ? \
 Cái gì là hình thức biểu đạt của chúng? \
@@ -1403,7 +1403,7 @@ Phẩm này đầy đủ với kinh Thi Sĩ.
 
 === Phẩm 7 (nguồn ghi 7). Thắng Phục (Addhavaggo)
 
-==== Kinh 1.1. Tên Gọi (Nāmasuttaṃ)
+==== Kinh 1.61. Tên Gọi (Nāmasuttaṃ)
 
 #super[1] "Cái gì chế ngự tất cả, \
 không gì cao hơn nó được? \
@@ -1414,7 +1414,7 @@ không gì cao hơn danh được. \
 Chính pháp danh ấy khiến muôn loài \
 đều nằm dưới quyền của nó."
 
-==== Kinh 1.2. Tâm (Cittasuttaṃ)
+==== Kinh 1.62. Tâm (Cittasuttaṃ)
 
 #super[1] "Cái gì dẫn dắt thế gian, \
 cái gì lôi kéo nó đi? \
@@ -1425,7 +1425,7 @@ tâm lôi kéo nó đi. \
 Chính pháp tâm ấy khiến muôn loài \
 đều nằm dưới quyền của nó."
 
-==== Kinh 1.3. Ái (Taṇhāsuttaṃ)
+==== Kinh 1.63. Ái (Taṇhāsuttaṃ)
 
 #super[1] "Cái gì dẫn dắt thế gian, \
 cái gì lôi kéo nó đi? \
@@ -1436,7 +1436,7 @@ Một pháp nào khiến muôn loài \
 Chính pháp ái ấy khiến muôn loài \
 đều nằm dưới quyền của nó."
 
-==== Kinh 1.4. Kiết Sử (Saṃyojanasuttaṃ)
+==== Kinh 1.64. Kiết Sử (Saṃyojanasuttaṃ)
 
 #super[1] "Thế gian bị gì trói buộc, \
 cái gì khiến nó rong ruổi? \
@@ -1447,7 +1447,7 @@ chính tầm khiến nó rong ruổi. \
 Từ bỏ ái thì được gọi \
 là Niết-bàn, chốn an tịnh."
 
-==== Kinh 1.5. Trói Buộc (Bandhanasuttaṃ)
+==== Kinh 1.65. Trói Buộc (Bandhanasuttaṃ)
 
 #super[1] "Thế gian bị gì trói chặt, \
 cái gì khiến nó rong ruổi? \
@@ -1458,7 +1458,7 @@ chính tầm khiến nó rong ruổi. \
 Từ bỏ ái thì cắt đứt \
 hết thảy mọi trói buộc."
 
-==== Kinh 1.6. Bị Tai Họa (Attahatasuttaṃ)
+==== Kinh 1.66. Bị Tai Họa (Attahatasuttaṃ)
 
 #super[1] "Thế gian bị gì đánh ngã, \
 bị gì vây bọc quanh mình? \
@@ -1469,7 +1469,7 @@ bị già vây bọc quanh mình. \
 Bị mũi tên ái đâm thủng, \
 ước muốn khiến nó âm ỉ."
 
-==== Kinh 1.7. Bị Treo (Uḍḍitasuttaṃ)
+==== Kinh 1.67. Bị Treo (Uḍḍitasuttaṃ)
 
 #super[1] "Thế gian bị gì treo lên, \
 bị gì vây bọc quanh mình? \
@@ -1480,7 +1480,7 @@ bị già vây bọc quanh mình. \
 Thế gian bị chết che kín, \
 an trú trong khổ đau."
 
-==== Kinh 1.8. Che Kín (Pihitasuttaṃ)
+==== Kinh 1.68. Che Kín (Pihitasuttaṃ)
 
 #super[1] "Thế gian bị gì che kín, \
 an trú trong cái gì? \
@@ -1491,7 +1491,7 @@ an trú trong khổ đau. \
 Thế gian bị ái treo lên, \
 bị già vây bọc quanh mình."
 
-==== Kinh 1.9. Ước Muốn (Icchāsuttaṃ)
+==== Kinh 1.69. Ước Muốn (Icchāsuttaṃ)
 
 #super[1] "Thế gian bị gì trói buộc, \
 diệt trừ gì thì được thoát? \
@@ -1502,7 +1502,7 @@ diệt trừ ước muốn thì được thoát. \
 Từ bỏ ước muốn thì cắt đứt \
 hết thảy mọi trói buộc."
 
-==== Kinh 1.10. Thế Gian (Lokasuttaṃ)
+==== Kinh 1.70. Thế Gian (Lokasuttaṃ)
 
 #super[1] "Thế gian sanh khởi trong gì, \
 làm quen giao thiệp với gì? \
@@ -1524,7 +1524,7 @@ Bị Tai Họa, Bị Treo, Che Kín, \
 
 === Phẩm 8 (nguồn ghi 8). Cắt Đứt (Chetvāvaggo)
 
-==== Kinh 1.1. Cắt Đứt (Chetvāsuttaṃ)
+==== Kinh 1.71. Cắt Đứt (Chetvāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthī). Vị chư thiên ấy đứng một bên, \
 nói lên bài kệ với Thế Tôn: \
@@ -1539,7 +1539,7 @@ lại có ngọn ngọt ngào; \
 bậc Thánh tán thán việc giết nó, \
 cắt đứt nó rồi thì không sầu khổ."
 
-==== Kinh 1.2. Cỗ Xe (Rathasuttaṃ)
+==== Kinh 1.72. Cỗ Xe (Rathasuttaṃ)
 
 #super[1] "Cái gì là dấu hiệu của cỗ xe, \
 cái gì là dấu hiệu của lửa? \
@@ -1550,7 +1550,7 @@ khói là dấu hiệu của lửa. \
 Vua là dấu hiệu của quốc độ, \
 chồng là dấu hiệu của người nữ."
 
-==== Kinh 1.3. Tâm (Vittasuttaṃ)
+==== Kinh 1.73. Tâm (Vittasuttaṃ)
 
 #super[1] "Cái gì là tài sản quý nhất của người, \
 cái gì khéo tu tập đem lại an vui? \
@@ -1561,7 +1561,7 @@ pháp khéo tu tập đem lại an vui. \
 Chân thật là vị ngọt hơn mọi vị, \
 sống với tuệ được gọi là tốt nhất."
 
-==== Kinh 1.4. Mưa (Vuṭṭhisuttaṃ)
+==== Kinh 1.74. Mưa (Vuṭṭhisuttaṃ)
 
 #super[1] "Cái gì là tốt nhất trong những thứ mọc lên, \
 cái gì là hơn hết trong những thứ rơi xuống? \
@@ -1576,7 +1576,7 @@ vô minh là hơn hết trong những thứ rơi xuống. \
 Tăng chúng là tốt nhất trong những loài đi lại, \
 Đức Phật là hơn hết trong những người biết nói."
 
-==== Kinh 1.5. Sợ Hãi (Bhītāsuttaṃ)
+==== Kinh 1.75. Sợ Hãi (Bhītāsuttaṃ)
 
 #super[1] "Vì đâu muôn người ở đây sợ hãi, \
 con đường tới bao cảnh giới đã được nói ra? \
@@ -1589,7 +1589,7 @@ có lòng tin, hiền hòa, biết chia sẻ, rộng lượng; \
 an trú nơi bốn pháp ấy, \
 người an trú trong pháp không sợ đời sau."
 
-==== Kinh 1.6. Không Già (Najīratisuttaṃ)
+==== Kinh 1.76. Không Già (Najīratisuttaṃ)
 
 #super[1] "Cái gì già, cái gì không già, \
 cái gì được gọi là đường tà? \
@@ -1617,7 +1617,7 @@ không chịu khởi sự, không thu thúc, \
 ngủ nghỉ và biếng nhác — \
 hãy tránh xa hết thảy những lỗ ấy."
 
-==== Kinh 1.7. Quyền Lực (Issariyasuttaṃ)
+==== Kinh 1.77. Quyền Lực (Issariyasuttaṃ)
 
 #super[1] "Cái gì là quyền lực ở đời, \
 cái gì là của cải quý nhất? \
@@ -1636,7 +1636,7 @@ bậc Sa-môn dù lấy vẫn được yêu mến. \
 Bậc Sa-môn ấy, khi trở lại nhiều lần, \
 được các bậc trí hoan hỷ đón chào."
 
-==== Kinh 1.8. Dục (Kāmasuttaṃ)
+==== Kinh 1.78. Dục (Kāmasuttaṃ)
 
 #super[1] "Vì mong cầu điều gì mà chớ cho đi, \
 điều gì phàm nhân chớ buông bỏ? \
@@ -1647,7 +1647,7 @@ chớ buông bỏ chính mình. \
 Lời tốt thì nên nói ra, \
 lời xấu thì chớ nói ra."
 
-==== Kinh 1.9. Hành Lương (Pātheyyasuttaṃ)
+==== Kinh 1.79. Hành Lương (Pātheyyasuttaṃ)
 
 #super[1] "Lấy gì làm hành lương mang theo, \
 cái gì là nguồn của tài sản? \
@@ -1662,7 +1662,7 @@ phước lành là nguồn của tài sản. \
 Chúng sanh bị trói bởi ước muốn, \
 như chim mắc vào lưới."
 
-==== Kinh 1.10. Ánh Sáng (Pajjotasuttaṃ)
+==== Kinh 1.80. Ánh Sáng (Pajjotasuttaṃ)
 
 #super[1] "Cái gì là ánh sáng ở đời, \
 cái gì là kẻ thức giấc ở đời? \
@@ -1681,7 +1681,7 @@ như mẹ nuôi con. \
 Chúng sanh nương tựa đất \
 sống nhờ nơi mưa."
 
-==== Kinh 1.11. Vô Tranh (Araṇasuttaṃ)
+==== Kinh 1.81. Vô Tranh (Araṇasuttaṃ)
 
 #super[1] "Ai ở đời sống không tranh chấp, \
 đời sống của ai không hư hoại? \
@@ -1964,7 +1964,7 @@ Xan-đi-ma (Candimā) và Sūriya — đó là mười kinh.
 
 === Phẩm 2 (nguồn ghi 2). Cấp Cô Độc (Anāthapiṇḍikavaggo)
 
-==== Kinh 2.1. Xan-đi-ma-sa (Candimasasuttaṃ)
+==== Kinh 2.11. Xan-đi-ma-sa (Candimasasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Khi ấy, thiên tử Candimasa, vào lúc đêm
 đã khuya, với dung sắc thù thắng, chiếu sáng khắp cả rừng Kỳ-đà Lâm (Jetavana), đi
@@ -1979,7 +1979,7 @@ như cá phá lưới mà thoát ra; \
 Sau khi thành tựu các thiền, \
 không phóng dật, từ bỏ tranh chấp."
 
-==== Kinh 2.2. Bên-đu (Veṇḍusuttaṃ)
+==== Kinh 2.12. Bên-đu (Veṇḍusuttaṃ)
 
 #super[1] Đứng một bên, thiên tử Bên-đu (Veṇḍu) nói lên bài kệ này trước Thế Tôn: \
 "Những người ấy thật hạnh phúc, \
@@ -1991,7 +1991,7 @@ lời dạy khéo giảng của Ta, \
 những vị tu thiền ấy, không phóng dật \
 đúng thời, sẽ không rơi vào quyền lực của tử thần."
 
-==== Kinh 2.3. Đi-gha-la-thi (Dīghalaṭṭhisuttaṃ)
+==== Kinh 2.13. Đi-gha-la-thi (Dīghalaṭṭhisuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại Vương Xá (Rājagaha), trong khu
 rừng Trúc Lâm (Veḷuvana), nơi nuôi dưỡng loài sóc. Khi ấy, thiên tử Đi-gha-la-thi (Dīghalaṭṭhi), vào
@@ -2004,7 +2004,7 @@ nếu mong đạt đến sự thành tựu của tâm; \
 Biết rõ sự sanh và diệt của thế gian, \
 tâm khéo hướng thiện, không chấp trước — đó là phước lợi của người ấy."
 
-==== Kinh 2.4. Vườn Hoan Hỷ (Nandanasuttaṃ)
+==== Kinh 2.14. Vườn Hoan Hỷ (Nandanasuttaṃ)
 
 #super[1] Đứng một bên, thiên tử Hoan Lạc Viên (Nandana) nói lên bài kệ này trước Thế
 Tôn: \
@@ -2023,7 +2023,7 @@ người như vậy được gọi là có trí tuệ; \
 Người như vậy vượt qua khổ đau, \
 người như vậy được chư thiên cung kính."
 
-==== Kinh 2.5. Xan-đa-na (Candanasuttaṃ)
+==== Kinh 2.15. Xan-đa-na (Candanasuttaṃ)
 
 #super[1] Đứng một bên, thiên tử Candana nói lên bài kệ này trước Thế
 Tôn: \
@@ -2040,7 +2040,7 @@ vượt qua sự ràng buộc của sắc; \
 Đã đoạn tận tham ái và hỷ lạc, \
 người ấy không bị chìm trong vực sâu."
 
-==== Kinh 2.6. Ba-su-đa-đa (Vāsudattasuttaṃ)
+==== Kinh 2.16. Ba-su-đa-đa (Vāsudattasuttaṃ)
 
 #super[1] Đứng một bên, thiên tử Ba-su-đa-đa (Vāsudatta) nói lên bài kệ này trước Thế
 Tôn: \
@@ -2053,7 +2053,7 @@ như bị lửa thiêu đốt trên đầu; \
 Vị Tỷ-kheo hãy sống chánh niệm, \
 để đoạn trừ tà kiến về tự ngã."
 
-==== Kinh 2.7. Sup-la-ma (Subrahmasuttaṃ)
+==== Kinh 2.17. Sup-la-ma (Subrahmasuttaṃ)
 
 #super[1] Đứng một bên, thiên tử Sup-la-ma (Subrahmā) nói lên bài kệ này trước Thế
 Tôn: \
@@ -2069,7 +2069,7 @@ Không có gì khác ngoài sự từ bỏ tất cả, \
 Ta thấy đó là sự an toàn cho chúng sanh." \
 Nói vậy rồi… biến mất ngay tại đó.
 
-==== Kinh 2.8. Ca-cu-đa (Kakudhasuttaṃ)
+==== Kinh 2.18. Ca-cu-đa (Kakudhasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn ngự tại Sa-kỳ (Sāketa), trong rừng
 Anh-xa-na (Añjana), vườn Nai. Khi ấy, thiên tử Ca-cu-đa (Kakudha), vào lúc đêm đã khuya, với
@@ -2100,7 +2100,7 @@ một vị Bà-la-môn đã tịch tịnh hoàn toàn, \
 vị Tỷ-kheo không còn hoan hỷ, không còn khổ não, \
 đã vượt qua sự dính mắc ở đời."
 
-==== Kinh 2.9. Uất-đa-la (Uttarasuttaṃ)
+==== Kinh 2.19. Uất-đa-la (Uttarasuttaṃ)
 
 #super[1] Nhân duyên tại Vương Xá (Rājagaha). Đứng một bên, thiên tử Uất-đa-la (Uttara) nói lên
 bài kệ này trước Thế Tôn: \
@@ -2113,7 +2113,7 @@ người bị già chi phối không có chỗ nương; \
 Thấy rõ sự nguy hiểm này trong sự chết, \
 hãy từ bỏ mồi thế gian, mong cầu sự an tịnh."
 
-==== Kinh 2.10. Cấp Cô Độc (Anāthapiṇḍikasuttaṃ)
+==== Kinh 2.20. Cấp Cô Độc (Anāthapiṇḍikasuttaṃ)
 
 #super[1] Đứng một bên, thiên tử Cấp Cô Độc (Anāthapiṇḍika) nói lên những bài kệ này
 trước Thế Tôn: \
@@ -2177,7 +2177,7 @@ thứ mười là Anāthapiṇḍika.
 
 === Phẩm 3 (nguồn ghi 3). Ngoại Đạo (Nānātitthiyavaggo)
 
-==== Kinh 2.1. Si-ba (Sivasuttaṃ)
+==== Kinh 2.21. Si-ba (Sivasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong rừng
 Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Rồi chư thiên tử Siva, khi đêm đã về
@@ -2214,7 +2214,7 @@ Hãy giao kết với người lành; \
 Hiểu rõ Chánh pháp bậc chân nhân, \
 Giải thoát khỏi tất cả khổ đau."
 
-==== Kinh 2.2. An Hòa (Khemasuttaṃ)
+==== Kinh 2.22. An Hòa (Khemasuttaṃ)
 
 #super[1] Đứng sang một bên, chư thiên tử An Hòa (Khema) nói lên những bài kệ này
 trước Thế Tôn: \
@@ -2236,7 +2236,7 @@ Kẻ ngu lìa bỏ Chánh pháp, chạy theo phi pháp, \
 Khi gặp miệng tử thần, \
 Cũng ngồi than khóc như kẻ gãy trục xe."
 
-==== Kinh 2.3. Sê-li (Serīsuttaṃ)
+==== Kinh 2.23. Sê-li (Serīsuttaṃ)
 
 #super[1] Đứng sang một bên, chư thiên tử Sê-li (Serī) nói với Thế Tôn bằng kệ: \
 "Cả chư thiên và loài người \
@@ -2302,7 +2302,7 @@ Chính vật thực ấy theo họ ở đời này và ở đời sau. \
 Bởi vậy, hãy trừ bỏ xan tham, bậc thắng phục cấu uế, hãy bố thí; \
 Công đức ở đời sau là chỗ nương tựa của chúng sanh."
 
-==== Kinh 2.4. Gha-thi-ca-la (Ghaṭīkārasuttaṃ)
+==== Kinh 2.24. Gha-thi-ca-la (Ghaṭīkārasuttaṃ)
 
 #super[1] Đứng sang một bên, chư thiên tử Gha-thi-ca-la (Ghaṭīkāra) nói lên bài kệ này
 trước Thế Tôn: \
@@ -2360,7 +2360,7 @@ Của hai người bạn xưa; \
 Cả hai đều đã tu tập tâm, \
 Mang thân này là thân cuối cùng."
 
-==== Kinh 2.5. Xan-đu (Jantusuttaṃ)
+==== Kinh 2.25. Xan-đu (Jantusuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, nhiều Tỷ-kheo trú ở xứ Câu-tát-la (Kosala), bên
 sườn núi Tuyết, trong một am tranh giữa rừng — các vị ấy kiêu mạn, dao
@@ -2387,7 +2387,7 @@ Những vị sống phóng dật; \
 Còn những vị sống không phóng dật, \
 Tôi cúi đầu đảnh lễ các vị."
 
-==== Kinh 2.6. Lô-hi-đa-sa (Rohitassasuttaṃ)
+==== Kinh 2.26. Lô-hi-đa-sa (Rohitassasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Đứng sang một bên, chư thiên tử
 Rohitassa thưa với Thế Tôn: \
@@ -2430,7 +2430,7 @@ Bậc đã đến tận cùng thế giới, đã sống trọn Phạm hạnh; \
 Sau khi biết tận cùng thế giới, bậc tịch tĩnh ấy \
 Không mong cầu đời này hay đời sau."
 
-==== Kinh 2.7. Nan-đa (Nandasuttaṃ)
+==== Kinh 2.27. Nan-đa (Nandasuttaṃ)
 
 #super[1] Đứng sang một bên, chư thiên tử Nanda nói lên bài kệ này trước
 Thế Tôn: \
@@ -2443,7 +2443,7 @@ Các tuổi tác lần lượt rời bỏ; \
 Thấy nỗi sợ ấy nơi cái chết, \
 Bậc cầu an tịnh hãy từ bỏ mồi nhử ở đời."
 
-==== Kinh 2.8. Nan-đi-bi-sa-la (Nandivisālasuttaṃ)
+==== Kinh 2.28. Nan-đi-bi-sa-la (Nandivisālasuttaṃ)
 
 #super[1] Đứng sang một bên, chư thiên tử Nan-đi-bi-sa-la (Nandivisāla) nói với Thế Tôn bằng
 kệ: \
@@ -2456,7 +2456,7 @@ Cùng ước muốn và tham lam xấu ác; \
 Nhổ tận gốc ái, \
 Hành trình sẽ là như vậy."
 
-==== Kinh 2.9. Tu-si-ma (Susimasuttaṃ)
+==== Kinh 2.29. Tu-si-ma (Susimasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Rồi Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn;
 đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả
@@ -2527,7 +2527,7 @@ Sāriputta không sân hận; \
 Thiểu dục, nhu hòa, nhiếp phục, \
 Bậc khéo nhiếp phục chờ đợi thời gian."
 
-==== Kinh 2.10. Đệ Tử Ngoại Đạo (Nānātitthiyasāvakasuttaṃ)
+==== Kinh 2.30. Đệ Tử Ngoại Đạo (Nānātitthiyasāvakasuttaṃ)
 
 #super[1] Tôi nghe như vầy: một thuở, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng
 Trúc Lâm (Veḷuvana), tại Ca-lan-đà (Kalandakanivāpa), chỗ nuôi dưỡng loài sóc. Rồi nhiều chư thiên
@@ -2916,7 +2916,7 @@ Người trẻ tuổi, Người, Già chết, thân yêu, tự hộ trì; \
 
 === Phẩm 2 (nguồn ghi 2). Thứ Hai (Dutiyavaggo)
 
-==== Kinh 3.1. Bảy Người Bện Tóc (Sattajaṭilasuttaṃ)
+==== Kinh 3.11. Bảy Người Bện Tóc (Sattajaṭilasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), ở Đông Viên (Pubbārāma),
 trong lầu của Lộc Mẫu (Migāramātā). Lúc bấy giờ, vào buổi chiều, Thế Tôn từ chỗ độc
@@ -2991,7 +2991,7 @@ Như đồng nửa māsa bọc lớp vàng; \
 Họ đi khắp đời, đoàn tùy tùng che kín, \
 Trong lòng bất tịnh, ngoài vẻ đẹp tươi."
 
-==== Kinh 3.2. Năm Vị Vua (Pañcarājasuttaṃ)
+==== Kinh 3.12. Năm Vị Vua (Pañcarājasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Lúc bấy giờ, năm vị vua lấy vua
 Ba-tư-nặc (Pasenadi) làm trưởng, đang được đầy đủ và thọ hưởng năm dục công đức, khởi
@@ -3047,7 +3047,7 @@ Rực rỡ như mặt trời giữa hư không."
 Bấy giờ, năm vị vua ấy phủ lên Cư sĩ Candanaṅgalika năm chiếc thượng y.
 Rồi Cư sĩ Candanaṅgalika đem năm chiếc thượng y ấy dâng lên Thế Tôn.
 
-==== Kinh 3.3. Nồi Cơm Đấu (Doṇapākasuttaṃ)
+==== Kinh 3.13. Nồi Cơm Đấu (Doṇapākasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Lúc bấy giờ, vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala)
 ăn cơm đầy một đấu. Bấy giờ, vua Pasenadi nước Kosala sau khi ăn xong, no
@@ -3076,7 +3076,7 @@ Về sau, vua Pasenadi nước Kosala với thân thể gầy gọn, lấy tay r
 phần thân, hứng khởi nói lên lời cảm hứng này: "Thế Tôn thật đã thương xót
 con vì cả hai lợi ích — lợi ích trong đời này và lợi ích trong đời sau."
 
-==== Kinh 3.4. Chiến Trận Thứ Nhất (Paṭhamasaṅgāmasuttaṃ)
+==== Kinh 3.14. Chiến Trận Thứ Nhất (Paṭhamasaṅgāmasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, vua nước Ma-kiệt-đà (Magadha) là A-xà-thế (Ajātasattu),
 con bà Vi-đề-ha (Videhī), sau khi sắp đặt bốn binh chủng, đem quân tiến đánh vua
@@ -3116,7 +3116,7 @@ Kẻ bại nằm trong khổ; \
 Người tịch tĩnh ngủ an vui, \
 Buông bỏ cả thắng và bại."
 
-==== Kinh 3.5. Chiến Trận Thứ Hai (Dutiyasaṅgāmasuttaṃ)
+==== Kinh 3.15. Chiến Trận Thứ Hai (Dutiyasaṅgāmasuttaṃ)
 
 #super[1] Bấy giờ, vua nước Ma-kiệt-đà (Magadha) là A-xà-thế (Ajātasattu), con bà Vi-đề-ha (Videhī), sau khi
 sắp đặt bốn binh chủng, đem quân tiến đánh vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala),
@@ -3175,7 +3175,7 @@ Kẻ làm người khác giận bị người khác làm giận; \
 Rồi do nghiệp xoay chuyển, \
 Kẻ bị cướp ấy lại bị cướp."
 
-==== Kinh 3.6. Ma-li-ca (Mallikāsuttaṃ)
+==== Kinh 3.16. Ma-li-ca (Mallikāsuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) đi
 đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Bấy giờ,
@@ -3194,7 +3194,7 @@ Sẽ là bậc anh hùng, người trị vì xứ sở; \
 Con của người phụ nữ phước lành ấy, \
 Có thể cai trị cả một vương quốc."
 
-==== Kinh 3.7. Không Phóng Dật (Appamādasuttaṃ)
+==== Kinh 3.17. Không Phóng Dật (Appamādasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Ngồi một bên, vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala)
 bạch Thế Tôn: "Bạch Thế Tôn, có một pháp nào nắm giữ được cả hai lợi ích —
@@ -3222,7 +3222,7 @@ Và lợi ích trong đời sau; \
 Bậc hiền trí liễu đạt các lợi ích ấy, \
 Được gọi là người có trí tuệ."
 
-==== Kinh 3.8. Bạn Lành (Kalyāṇamittasuttaṃ)
+==== Kinh 3.18. Bạn Lành (Kalyāṇamittasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Ngồi một bên, vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala)
 bạch Thế Tôn: "Bạch Thế Tôn, ở đây, khi con ở một mình, độc cư, khởi lên ý
@@ -3296,7 +3296,7 @@ Và lợi ích trong đời sau; \
 Bậc hiền trí liễu đạt các lợi ích ấy, \
 Được gọi là người có trí tuệ."
 
-==== Kinh 3.9. Người Không Con Thứ Nhất (Paṭhamaaputtakasuttaṃ)
+==== Kinh 3.19. Người Không Con Thứ Nhất (Paṭhamaaputtakasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthi). Bấy giờ, vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) vào
 giữa ban ngày đi đến Thế Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống
@@ -3369,7 +3369,7 @@ Biết hưởng dùng và làm tròn bổn phận; \
 Như con bò đực chở che dòng họ, \
 Không ai chê trách, người ấy sanh về cõi trời."
 
-==== Kinh 3.10. Người Không Con Thứ Hai (Dutiyaaputtakasuttaṃ)
+==== Kinh 3.20. Người Không Con Thứ Hai (Dutiyaaputtakasuttaṃ)
 
 #super[1] Bấy giờ, vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) vào giữa ban ngày đi đến Thế
 Tôn; sau khi đến, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với
@@ -3436,7 +3436,7 @@ Do đó phẩm ấy được gọi tên như vậy.
 
 === Phẩm 3 (nguồn ghi 3). Thứ Ba (Tatiyavaggo)
 
-==== Kinh 3.1. Hạng Người (Puggalasuttaṃ)
+==== Kinh 3.21. Hạng Người (Puggalasuttaṃ)
 
 #super[1] Xuất xứ tại Xá-vệ (Sāvatthi). Rồi vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) đi đến chỗ
 Thế Tôn; đến rồi, đảnh lễ Thế Tôn và ngồi xuống một bên. Thế Tôn nói với
@@ -3563,7 +3563,7 @@ khi lâm chung, hỡi bậc vua dân, \
 đi đến cõi trời Đao-lỵ-thiên, \
 là hạng từ sáng đi vào sáng."
 
-==== Kinh 3.2. Bà Nội (Ayyikāsuttaṃ)
+==== Kinh 3.22. Bà Nội (Ayyikāsuttaṃ)
 
 #super[1] Xuất xứ tại Xá-vệ (Sāvatthi). Thế Tôn nói với vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala)
 đang ngồi một bên: "Này Đại vương, giữa ban ngày ban mặt, Ngài từ đâu đến
@@ -3605,7 +3605,7 @@ tích lũy cho đời sau; \
 phước đức ở đời sau \
 là chỗ dựa cho chúng sanh."
 
-==== Kinh 3.3. Thế Gian (Lokasuttaṃ)
+==== Kinh 3.23. Thế Gian (Lokasuttaṃ)
 
 #super[1] Xuất xứ tại Xá-vệ (Sāvatthi). Vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) đang ngồi một bên
 bạch Thế Tôn: "Bạch Thế Tôn, có bao nhiêu pháp ở thế gian, khi khởi lên,
@@ -3625,7 +3625,7 @@ khi tự chúng sanh khởi, \
 làm hại kẻ tâm ác, \
 như quả làm hại lõi cây."
 
-==== Kinh 3.4. Cung Thuật (Issattasuttaṃ)
+==== Kinh 3.24. Cung Thuật (Issattasuttaṃ)
 
 #super[1] Xuất xứ tại Xá-vệ (Sāvatthi). Vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) đang ngồi một bên
 bạch Thế Tôn: "Bạch Thế Tôn, nên bố thí cho ai?"
@@ -3711,7 +3711,7 @@ như tiếng sấm của trời đang mưa; \
 dòng phước ấy dồi dào \
 mưa xuống chính người bố thí."
 
-==== Kinh 3.5. Ví Dụ Núi (Pabbatūpamasuttaṃ)
+==== Kinh 3.25. Ví Dụ Núi (Pabbatūpamasuttaṃ)
 
 #super[1] Xuất xứ tại Xá-vệ (Sāvatthi). Thế Tôn nói với vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala)
 đang ngồi một bên: "Này Đại vương, giữa ban ngày ban mặt, Ngài từ đâu đến
@@ -4033,7 +4033,7 @@ hai kinh Thọ mạng tiếp theo."
 
 === Phẩm 2. Thứ Hai
 
-==== Kinh 4.1. Đá (Pāsāṇasuttaṃ)
+==== Kinh 4.11. Đá (Pāsāṇasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trên núi Linh Thứu
 (Gijjhakūṭa). Lúc bấy giờ, Thế Tôn ngồi giữa trời trong đêm tối
@@ -4049,7 +4049,7 @@ cũng không hề có sự dao động." \
 Rồi Ác ma, kẻ ác, biết rằng "Thế Tôn đã biết ta, Thiện Thệ đã
 biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.2. Sư Tử Rống (Kinnusīhasuttaṃ)
+==== Kinh 4.12. Sư Tử Rống (Kinnusīhasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), trong rừng Kỳ-đà (Jeta), tại
 tinh xá của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Thế Tôn đang thuyết pháp
@@ -4069,7 +4069,7 @@ Như Lai đã đạt được sức mạnh, \
 Rồi Ác ma, kẻ ác, biết rằng "Thế Tôn đã biết ta, Thiện Thệ đã
 biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.3. Mảnh Đá (Sakalikasuttaṃ)
+==== Kinh 4.13. Mảnh Đá (Sakalikasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Vương Xá (Rājagaha),
 trong vườn Nai Ma-đa-cúc-chi (Maddakucchi). Lúc bấy giờ, chân Thế Tôn bị một mảnh
@@ -4100,7 +4100,7 @@ nên Ta ngủ với lòng thương xót hết thảy chúng sanh." \
 Rồi Ác ma, kẻ ác, biết rằng "Thế Tôn đã biết ta, Thiện Thệ đã
 biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.4. Thích Hợp (Patirūpasuttaṃ)
+==== Kinh 4.14. Thích Hợp (Patirūpasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại xứ Câu-tát-la (Kosala), trong một làng
 Bà-la-môn tên Ê-ca-sa-la (Ekasālā). Lúc bấy giờ, Thế Tôn đang thuyết pháp cho
@@ -4119,7 +4119,7 @@ khỏi ưa thích và chống đối." \
 Rồi Ác ma, kẻ ác, biết rằng "Thế Tôn đã biết ta, Thiện Thệ đã
 biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.5. Bẫy Ý (Mānasasuttaṃ)
+==== Kinh 4.15. Bẫy Ý (Mānasasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī),
 trong rừng Kỳ-đà (Jeta), tại tinh xá của Cấp Cô Độc (Anāthapiṇḍika). Rồi Ác ma, kẻ ác,
@@ -4135,7 +4135,7 @@ ngươi đã bị đánh bại, hỡi kẻ hủy diệt." \
 Rồi Ác ma, kẻ ác, biết rằng "Thế Tôn đã biết ta, Thiện Thệ đã
 biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.6. Bình Bát (Pattasuttaṃ)
+==== Kinh 4.16. Bình Bát (Pattasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthī). Lúc bấy giờ, Thế Tôn đang giảng
 dạy, khích lệ, khuyến khích, làm cho hoan hỷ các Tỷ-kheo bằng bài
@@ -4163,7 +4163,7 @@ Với người đã ly tham như vậy, an ổn, \
 cũng không tìm thấy được." \
 Rồi Ác ma … biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.7. Sáu Xúc Xứ (Chaphassāyatanasuttaṃ)
+==== Kinh 4.17. Sáu Xúc Xứ (Chaphassāyatanasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại Tỳ-xá-ly (Vesālī), trong rừng Đại Lâm,
 tại giảng đường có nóc nhọn. Lúc bấy giờ, Thế Tôn đang giảng
@@ -4192,7 +4192,7 @@ vượt khỏi lãnh địa của Ác ma, \
 chiếu sáng như mặt trời." \
 Rồi Ác ma … biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.8. Đồ Khất Thực (Piṇḍasuttaṃ)
+==== Kinh 4.18. Đồ Khất Thực (Piṇḍasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại xứ Ma-kiệt-đà (Magadha), trong một làng
 Bà-la-môn tên Banh-xa-sa-la (Pañcasālā). Lúc bấy giờ, tại làng Bà-la-môn
@@ -4219,7 +4219,7 @@ như chư thiên cõi Quang Âm." \
 Rồi Ác ma, kẻ ác, biết rằng "Thế Tôn đã biết ta, Thiện Thệ đã
 biết ta", liền buồn khổ, sầu muộn, biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.9. Nông Phu (Kassakasuttaṃ)
+==== Kinh 4.19. Nông Phu (Kassakasuttaṃ)
 
 #super[1] Nhân duyên tại Xá-vệ (Sāvatthī). Lúc bấy giờ, Thế Tôn đang giảng
 dạy, khích lệ, khuyến khích, làm cho hoan hỷ các Tỷ-kheo bằng bài
@@ -4275,7 +4275,7 @@ này kẻ ác, hãy biết như vậy — \
 ngươi còn không thấy được đường đi của Ta." \
 Rồi Ác ma … biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.10. Vương Quốc (Rajjasuttaṃ)
+==== Kinh 4.20. Vương Quốc (Rajjasuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú tại xứ Câu-tát-la (Kosala), trong một túp lều
 trong rừng thuộc vùng Hỉ-mã-lạp-sơn (Himalaya). Rồi Thế Tôn, khi ở một mình
@@ -4320,7 +4320,7 @@ Nông phu, Vương quốc — ấy là mười."
 
 === Phẩm 3. Thứ Ba
 
-==== Kinh 4.1. Nhiều Tỳ-kheo (Sambahulasuttaṃ)
+==== Kinh 4.21. Nhiều Tỳ-kheo (Sambahulasuttaṃ)
 
 #super[1] Tôi nghe như vầy: Một thời, Thế Tôn trú ở xứ Thích-ca (Sakka), tại
 Silāvati. Lúc bấy giờ, nhiều Tỷ-kheo trú không xa Thế Tôn, không phóng
@@ -4364,7 +4364,7 @@ kẻ ấy sao còn cúi mình trước các dục? \
 Biết được nền tảng tái sanh là dây ràng buộc ở đời, \
 người ấy hãy học để đoạn trừ chính nó."
 
-==== Kinh 4.2. Sa-mi-đi (Samiddhisuttaṃ)
+==== Kinh 4.22. Sa-mi-đi (Samiddhisuttaṃ)
 
 #super[1] Một thời, Thế Tôn trú ở xứ Thích-ca (Sakka), tại Silāvati. Lúc bấy giờ,
 Tôn giả Samiddhi trú không xa Thế Tôn, không phóng dật, nhiệt tâm,
@@ -4402,7 +4402,7 @@ ngươi hãy làm tùy thích với các sắc tướng, ngươi không hại đ
 Rồi Ác ma nghĩ: "Tỷ-kheo Samiddhi đã biết ta", nên đau khổ, sầu muộn,
 biến mất ngay tại chỗ ấy.
 
-==== Kinh 4.3. Gô-đi-ca (Godhikasuttaṃ)
+==== Kinh 4.23. Gô-đi-ca (Godhikasuttaṃ)
 
 #super[1] Tôi nghe như vầy: Một thời, Thế Tôn trú tại Vương Xá
 (Rājagaha), trong Trúc Lâm (Veḷuvana), tại chỗ nuôi dưỡng sóc
@@ -4464,7 +4464,7 @@ sau khi nhổ sạch ái tận gốc, Godhika đã nhập Niết-bàn." \
 "Kẻ bị sầu muộn chi phối ấy để cây đàn rơi khỏi nách; \
 rồi Dạ-xoa ấy đau khổ, sầu muộn, biến mất ngay tại chỗ."
 
-==== Kinh 4.4. Bảy Năm (Sattavassānubandhasuttaṃ)
+==== Kinh 4.24. Bảy Năm (Sattavassānubandhasuttaṃ)
 
 #super[1] Tôi nghe như vầy: Một thời, Thế Tôn trú tại Ưu lâu tần loa (Uruvelā), bên bờ
 sông Ni-liên-thiền (Nerañjarā), tại cây bàng A-xà-bạt-la (Ajapāla). Lúc bấy giờ, Ác ma đã bám theo
@@ -4508,7 +4508,7 @@ biết đâu ở đây chúng ta tìm được chút mềm mại, có thể có 
 Không tìm được vị ngon ở đó, con quạ ấy bỏ đi; \
 như con quạ đâm vào tảng đá, chúng ta đành rời bỏ Cù-đàm (Gotama)."
 
-==== Kinh 4.5. Con Gái Ác Ma (Māradhītusuttaṃ)
+==== Kinh 4.25. Con Gái Ác Ma (Māradhītusuttaṃ)
 
 #super[1] Rồi Ác ma, sau khi trước mặt Thế Tôn nói lên những bài kệ tỏ
 ý chán nản ấy, từ chỗ ấy bỏ đi, ngồi kiết-già trên đất không xa Thế Tôn,
@@ -5395,7 +5395,7 @@ Phạm thiên Đu-lu (Turū), và Kokālika sau.
 
 === Phẩm 2. Thứ Hai
 
-==== Kinh 6.1. Phạm Thiên Thường Đồng Tử (Sanaṅkumārasuttaṃ)
+==== Kinh 6.11. Phạm Thiên Thường Đồng Tử (Sanaṅkumārasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Vương Xá (Rājagaha),
 bên bờ sông Sa-bi-ni (Sappinī). Khi đêm đã về khuya, Phạm thiên Thường Đồng Tử (Sanaṅkumāra) với dung
@@ -5410,7 +5410,7 @@ Phạm thiên Sanaṅkumāra nói như vậy. Bậc Đạo Sư tán thuận. R�
 Sanaṅkumāra nghĩ: "Bậc Đạo Sư đã tán thuận lời ta", bèn đảnh lễ Thế Tôn, đi
 nhiễu quanh phía bên phải rồi biến mất ngay tại chỗ ấy.
 
-==== Kinh 6.2. Đề-bà-đạt-đa (Devadattasuttaṃ)
+==== Kinh 6.12. Đề-bà-đạt-đa (Devadattasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Vương Xá (Rājagaha),
 trên núi Linh Thứu (Gijjhakūṭa), khi Đề-bà-đạt-đa (Devadatta) vừa rời đi
@@ -5421,7 +5421,7 @@ Tôn rồi đứng sang một bên. Đứng một bên, Phạm thiên Sahampati 
 "Quả làm cây chuối chết, quả làm cây tre và cây lau chết; \
 danh vọng giết kẻ xấu ác, như bào thai giết con lừa cái."
 
-==== Kinh 6.3. An-đa-ca-bin-đa (Andhakavindasuttaṃ)
+==== Kinh 6.13. An-đa-ca-bin-đa (Andhakavindasuttaṃ)
 
 #super[1] Một thời, Thế Tôn ngự tại xứ Ma-kiệt-đà (Magadha), ở
 An-đa-ca-bin-đa (Andhakavinda). Lúc bấy giờ, Thế Tôn đang ngồi giữa trời trong đêm tối mịt
@@ -5454,7 +5454,7 @@ theo tâm tôi, đều có phần phước; \
 tôi không thể đếm xiết, \
 vì e ngại phải nói lời dối trá."
 
-==== Kinh 6.4. A-lu-na-ba-đi (Aruṇavatīsuttaṃ)
+==== Kinh 6.14. A-lu-na-ba-đi (Aruṇavatīsuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Xá-vệ (Sāvatthī) …
 Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch
@@ -5528,7 +5528,7 @@ thay, lành thay, này các thầy! Lành thay, này các thầy, các thầy đ
 đúng như vậy những bài kệ mà Tỷ-kheo Abhibhū đứng tại Phạm thiên giới đã
 nói lên.'" Thế Tôn nói như vậy; các Tỷ-kheo hoan hỷ, tín thọ lời Thế Tôn.
 
-==== Kinh 6.5. Niết-bàn (Parinibbānasuttaṃ)
+==== Kinh 6.15. Niết-bàn (Parinibbānasuttaṃ)
 
 #super[1] Một thời, Thế Tôn ngự tại Câu-thi-na (Kusinārā), trong rừng sāla
 của dòng họ Mạt- la (Malla) ở Hồ-bạt-đan (Upavattana), giữa hai cây sāla song đôi, vào lúc Ngài
@@ -5936,7 +5936,7 @@ Sundarika với Nhiều Con Gái — ấy là mười kinh.
 
 === Phẩm 2 (nguồn ghi 2). Cư Sĩ (Upāsakavaggo)
 
-==== Kinh 7.1. Người Cày (Kasibhāradvājasuttaṃ)
+==== Kinh 7.11. Người Cày (Kasibhāradvājasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời Thế Tôn trú ở xứ Ma-kiệt-đà (Magadha), tại làng
 Bà-la-môn Ekanālā ở miền Nam núi. Lúc bấy giờ đang độ gieo lúa,
@@ -5988,7 +5988,7 @@ Khi ấy Bà-la-môn Kasibhāradvāja bạch Thế Tôn: "Bạch Tôn giả Gota
 thật vi diệu thay… Từ nay cho đến trọn đời, con xin quy y, xin Tôn giả
 Gotama nhận con làm cư sĩ."
 
-==== Kinh 7.2. U-đa-da (Udayasuttaṃ)
+==== Kinh 7.12. U-đa-da (Udayasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Rồi Thế Tôn vào buổi sáng đắp y, mang bát đi đến
 nhà Bà-la-môn Udaya. Bà-la-môn Udaya đổ đầy bát của Thế Tôn bằng cơm.
@@ -6016,7 +6016,7 @@ Khi ấy Bà-la-môn Udaya bạch Thế Tôn: "Bạch Tôn giả Gotama, thật 
 diệu thay… Xin Tôn giả Gotama nhận con làm cư sĩ, từ nay cho đến trọn
 đời, con xin quy y."
 
-==== Kinh 7.3. Đê-ba-hi-đa (Devahitasuttaṃ)
+==== Kinh 7.13. Đê-ba-hi-đa (Devahitasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Lúc bấy giờ Thế Tôn bị bệnh do gió, và Tôn giả
 Ưu-ba-ma-na (Upavāṇa) là thị giả của Thế Tôn. Thế Tôn bảo Tôn giả Upavāṇa: "Này
@@ -6061,7 +6061,7 @@ Khi ấy Bà-la-môn Devahita bạch Thế Tôn: "Bạch Tôn giả Cù-đàm (G
 diệu thay… Xin Tôn giả Gotama nhận con làm cư sĩ, từ nay cho đến trọn
 đời, con xin quy y."
 
-==== Kinh 7.4. Đại Phú Gia (Mahāsālasuttaṃ)
+==== Kinh 7.14. Đại Phú Gia (Mahāsālasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Rồi một Bà-la-môn đại phú, mặc áo thô xấu, đi
 đến chỗ Thế Tôn, đến rồi thăm hỏi, chào đón, nói những lời thân ái rồi
@@ -6123,7 +6123,7 @@ thương xót. Rồi Bà-la-môn đại phú ấy bạch Thế Tôn: "Bạch Tô
 Gotama, thật vi diệu thay… Từ nay cho đến trọn đời, con xin quy y, xin
 Tôn giả Gotama nhận con làm cư sĩ."
 
-==== Kinh 7.5. Cứng Đầu Vì Kiêu Mạn (Mānatthaddhasuttaṃ)
+==== Kinh 7.15. Cứng Đầu Vì Kiêu Mạn (Mānatthaddhasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Lúc bấy giờ có Bà-la-môn tên Ma-na-tha-đa (Mānatthaddha) trú tại
 Sāvatthi. Ông không đảnh lễ mẹ, không đảnh lễ cha, không đảnh lễ thầy,
@@ -6170,7 +6170,7 @@ Khi ấy Bà-la-môn Mānatthaddha bạch Thế Tôn: "Bạch Tôn giả Gotama,
 vi diệu thay… Từ nay cho đến trọn đời, con xin quy y, xin Tôn giả Gotama
 nhận con làm cư sĩ."
 
-==== Kinh 7.6. Kẻ Ưa Chống Đối (Paccanīkasuttaṃ)
+==== Kinh 7.16. Kẻ Ưa Chống Đối (Paccanīkasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Lúc bấy giờ có Bà-la-môn tên Paccanīkasāta trú
 tại Sāvatthi. Bà-la-môn Paccanīkasāta nghĩ: "Ta hãy đến chỗ Sa-môn
@@ -6190,7 +6190,7 @@ Khi ấy Bà-la-môn Paccanīkasāta bạch Thế Tôn: "Bạch Tôn giả Gotam
 thật vi diệu thay, bạch Tôn giả Gotama, thật vi diệu thay… Xin Tôn giả
 Gotama nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 
-==== Kinh 7.7. Người Làm Công Trình (Navakammikasuttaṃ)
+==== Kinh 7.17. Người Làm Công Trình (Navakammikasuttaṃ)
 
 #super[1] Một thời Thế Tôn trú giữa người Câu-tát-la (Kosala), trong một khu rừng nọ.
 Lúc bấy giờ Bà-la-môn Navakammikabhāradvāja cho làm công trình trong khu
@@ -6212,7 +6212,7 @@ Khi ấy Bà-la-môn Navakammikabhāradvāja bạch Thế Tôn: "Bạch Tôn gi�
 Gotama, thật vi diệu thay… Từ nay cho đến trọn đời, con xin quy y, xin
 Tôn giả Gotama nhận con làm cư sĩ."
 
-==== Kinh 7.8. Người Hái Củi (Kaṭṭhahārasuttaṃ)
+==== Kinh 7.18. Người Hái Củi (Kaṭṭhahārasuttaṃ)
 
 #super[1] Một thời Thế Tôn trú giữa người Câu-tát-la (Kosala), trong một khu rừng nọ.
 Lúc bấy giờ, nhiều thanh niên học trò của một Bà-la-môn thuộc dòng
@@ -6249,7 +6249,7 @@ Khi ấy Bà-la-môn dòng Bhāradvāja bạch Thế Tôn: "Bạch Tôn giả C�
 thật vi diệu thay, bạch Tôn giả Gotama, thật vi diệu thay… Từ nay cho
 đến trọn đời, con xin quy y."
 
-==== Kinh 7.9. Người Nuôi Mẹ (Mātuposakasuttaṃ)
+==== Kinh 7.19. Người Nuôi Mẹ (Mātuposakasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Rồi Bà-la-môn Mātuposaka đi đến chỗ Thế Tôn, đến
 rồi thăm hỏi, chào đón, nói những lời thân ái rồi ngồi xuống một bên.
@@ -6267,7 +6267,7 @@ Khi ấy Bà-la-môn Mātuposaka bạch Thế Tôn: "Bạch Tôn giả Gotama, t
 vi diệu thay, bạch Tôn giả Gotama, thật vi diệu thay… Xin Tôn giả Gotama
 nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 
-==== Kinh 7.10. Người Đi Xin (Bhikkhakasuttaṃ)
+==== Kinh 7.20. Người Đi Xin (Bhikkhakasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Rồi Bà-la-môn Bhikkhaka đi đến chỗ Thế Tôn, đến
 rồi thăm hỏi, chào đón, nói những lời thân ái rồi ngồi xuống một bên.
@@ -6284,7 +6284,7 @@ Khi ấy Bà-la-môn Bhikkhaka bạch Thế Tôn: "Bạch Tôn giả Gotama, th�
 diệu thay, bạch Tôn giả Gotama, thật vi diệu thay… Xin Tôn giả Gotama
 nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 
-==== Kinh 7.11. Sang-ga-la-ba (Saṅgāravasuttaṃ)
+==== Kinh 7.21. Sang-ga-la-ba (Saṅgāravasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthi). Lúc bấy giờ có Bà-la-môn tên Sang-ga-la-ba (Saṅgārava) trú tại
 Sāvatthi, theo thuyết nước thanh tịnh, tin rằng thanh tịnh là nhờ nước,
@@ -6316,7 +6316,7 @@ Khi ấy Bà-la-môn Saṅgārava bạch Thế Tôn: "Bạch Tôn giả Gotama, 
 diệu thay, bạch Tôn giả Gotama, thật vi diệu thay… Xin Tôn giả Gotama
 nhận con làm cư sĩ, từ nay cho đến trọn đời, con xin quy y."
 
-==== Kinh 7.12. Khô-ma-đu-sa (Khomadussasuttaṃ)
+==== Kinh 7.22. Khô-ma-đu-sa (Khomadussasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời Thế Tôn trú giữa dòng họ Thích-ca (Sakka), tại
 thị trấn Khô-ma-đu-sa (Khomadussa) của người Sakka. Rồi Thế Tôn vào buổi sáng đắp y,
@@ -7817,7 +7817,7 @@ và các ẩn sĩ bên biển.
 
 === Phẩm 2. Thứ Hai
 
-==== Kinh 11.1. Hạnh Nguyện (Vatapadasuttaṃ)
+==== Kinh 11.11. Hạnh Nguyện (Vatapadasuttaṃ)
 
 #super[1] Tại Xá-vệ (Sāvatthī). Này các thầy, thuở còn làm người, Đế
 Thích (Sakko devānamindo) — chúa của chư thiên — đã thực hiện trọn vẹn
@@ -7842,7 +7842,7 @@ Chân thật, thắng phục sân — \
 Chư thiên Tam thập tam \
 Gọi người ấy là bậc thiện nhân."
 
-==== Kinh 11.2. Đế Thích (Sakkanāmasuttaṃ)
+==== Kinh 11.12. Đế Thích (Sakkanāmasuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Tại đó, Thế Tôn gọi các Tỷ-kheo
 và nói: Này các thầy, thuở còn làm người, Đế Thích — chúa của chư
@@ -7878,7 +7878,7 @@ Chân thật, thắng phục sân — \
 Chư thiên Tam thập tam \
 Gọi người ấy là bậc thiện nhân."
 
-==== Kinh 11.3. Ma-ha-li (Mahālisuttaṃ)
+==== Kinh 11.13. Ma-ha-li (Mahālisuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Tỳ-xá-ly (Vesālī), trong rừng
 Đại Lâm, tại giảng đường có nóc nhọn. Bấy giờ, Ma-ha-li (Mahāli) người Ly- xa tử (Licchavi)
@@ -7923,7 +7923,7 @@ Chân thật, thắng phục sân — \
 Chư thiên Tam thập tam \
 Gọi người ấy là bậc thiện nhân."
 
-==== Kinh 11.4. Người Nghèo (Daliddasuttaṃ)
+==== Kinh 11.14. Người Nghèo (Daliddasuttaṃ)
 
 #super[1] Một thời, Thế Tôn ngự tại Vương Xá (Rājagaha), trong vườn Trúc
 (Veḷuvana), tại nơi nuôi dưỡng sóc. Tại đó, Thế Tôn gọi các Tỷ-kheo:
@@ -7963,7 +7963,7 @@ Vậy người trí hãy chuyên tâm \
 Nơi lòng tin, giới, tịnh tín và sự thấy pháp, \
 Hãy nhớ tưởng giáo pháp của chư Phật."
 
-==== Kinh 11.5. Cảnh Khả Ái (Rāmaṇeyyakasuttaṃ)
+==== Kinh 11.15. Cảnh Khả Ái (Rāmaṇeyyakasuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Bấy giờ, Đế Thích — chúa của
 chư thiên — đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên.
@@ -7979,7 +7979,7 @@ Dù nơi trũng hay nơi cao, \
 Nơi nào các A-la-hán trú, \
 Nơi ấy là cảnh đất khả ái."
 
-==== Kinh 11.6. Người Cúng Tế (Yajamānasuttaṃ)
+==== Kinh 11.16. Người Cúng Tế (Yajamānasuttaṃ)
 
 #super[1] Một thời, Thế Tôn ngự tại Vương Xá, trên núi Linh Thứu
 (Gijjhakūṭa). Bấy giờ, Đế Thích — chúa của chư thiên — đến chỗ Thế Tôn;
@@ -8002,7 +8002,7 @@ Chúng sanh mong cầu phước, \
 Đang làm phước hữu y — \
 Bố thí nơi Tăng có quả lớn."
 
-==== Kinh 11.7. Đảnh Lễ Đức Phật (Buddhavandanāsuttaṃ)
+==== Kinh 11.17. Đảnh Lễ Đức Phật (Buddhavandanāsuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Lúc bấy giờ, Thế Tôn đã vào nơi
 nghỉ ban ngày và đang ngồi tĩnh lặng. Bấy giờ, Đế Thích — chúa của chư
@@ -8023,7 +8023,7 @@ Bậc dẫn đường, không còn nợ, hãy đi khắp thế gian; \
 Bạch Thế Tôn, xin Ngài hãy thuyết pháp — \
 Sẽ có những người chứng ngộ."
 
-==== Kinh 11.8. Đảnh Lễ Người Tại Gia (Gahaṭṭhavandanāsuttaṃ)
+==== Kinh 11.18. Đảnh Lễ Người Tại Gia (Gahaṭṭhavandanāsuttaṃ)
 
 #super[1] Tại Xá-vệ. Tại đó… Thế Tôn nói: Này các thầy, thuở xưa, Đế
 Thích — chúa của chư thiên — gọi người đánh xe Ma-đá-lợi (Mātali): "Này Mātali thân
@@ -8068,7 +8068,7 @@ Những vị mà Ngài đảnh lễ, này Bà-sa-bà (Vāsava)." \
 Nói lời ấy xong, Ma-kha-phu (Maghavā) — vua chư thiên, chồng của Sujā — sau khi
 đảnh lễ khắp các phương, liền lên xe đi đầu.
 
-==== Kinh 11.9. Đảnh Lễ Bậc Đạo Sư (Satthāravandanāsuttaṃ)
+==== Kinh 11.19. Đảnh Lễ Bậc Đạo Sư (Satthāravandanāsuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Này các thầy, thuở xưa, Đế
 Thích — chúa của chư thiên — gọi người đánh xe Ma-đá-lợi (Mātali): "Này Mātali thân
@@ -8110,7 +8110,7 @@ Những vị mà Ngài đảnh lễ, này Vāsava." \
 Nói lời ấy xong, Ma-kha-phu (Maghavā) — vua chư thiên, chồng của Sujā — sau khi
 đảnh lễ Thế Tôn, liền lên xe đi đầu.
 
-==== Kinh 11.10. Đảnh Lễ Tăng Chúng (Saṅghavandanāsuttaṃ)
+==== Kinh 11.20. Đảnh Lễ Tăng Chúng (Saṅghavandanāsuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Tại đó… Thế Tôn nói: Này các
 thầy, thuở xưa, Đế Thích — chúa của chư thiên — gọi người đánh xe
@@ -8169,7 +8169,7 @@ Ba kinh Đế Thích đảnh lễ.
 
 === Phẩm 3. Thứ Ba
 
-==== Kinh 11.1. Chặt Đứt (Chetvāsuttaṃ)
+==== Kinh 11.21. Chặt Đứt (Chetvāsuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Bấy giờ, Đế Thích — chúa của
 chư thiên — đến chỗ Thế Tôn; đến rồi, đảnh lễ Thế Tôn và đứng một bên.
@@ -8189,7 +8189,7 @@ Lại có ngọn ngọt ở đầu — \
 Bậc thánh tán thán sự giết chết nó; \
 Chặt đứt nó rồi thì không sầu."
 
-==== Kinh 11.2. Xấu Xí (Dubbaṇṇiyasuttaṃ)
+==== Kinh 11.22. Xấu Xí (Dubbaṇṇiyasuttaṃ)
 
 #super[1] Tại Xá-vệ, trong vườn Kỳ Viên. Tại đó… Thế Tôn nói: Này các
 thầy, thuở xưa, có một Dạ-xoa xấu xí, gầy còm ngồi trên tòa của Đế
@@ -8224,7 +8224,7 @@ Cũng không khoe khoang pháp; \
 Ta tự chế ngự chính mình, \
 Quán sát lợi ích của tự thân."
 
-==== Kinh 11.3. Ảo Thuật (Sambarimāyāsuttaṃ)
+==== Kinh 11.23. Ảo Thuật (Sambarimāyāsuttaṃ)
 
 #super[1] Tại Xá-vệ… Thế Tôn nói: Này các thầy, thuở xưa, Vepacitti —
 vua A-tu-la — bị bệnh, đau đớn, trầm trọng. Bấy giờ, này các thầy, Đế
@@ -8243,7 +8243,7 @@ Vua chư thiên, chồng của Sujā — \
 Kẻ ấy sẽ đi đến địa ngục khủng khiếp, \
 Như Sambara cùng với trăm ảo thuật."
 
-==== Kinh 11.4. Sám Hối (Accayasuttaṃ)
+==== Kinh 11.24. Sám Hối (Accayasuttaṃ)
 
 #super[1] Tại Xá-vệ… trong tu viện. Lúc bấy giờ, có hai Tỷ-kheo tranh
 chấp nhau. Một vị trong hai vị ấy đã phạm lỗi. Rồi vị Tỷ-kheo ấy xin
@@ -8267,7 +8267,7 @@ Chớ nói lời hai lưỡi — \
 Sân hận nghiền nát kẻ ác \
 Như hòn núi lớn."
 
-==== Kinh 11.5. Không Sân Hận (Akkodhasuttaṃ)
+==== Kinh 11.25. Không Sân Hận (Akkodhasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn ngự tại Xá-vệ, trong vườn
 Kỳ Viên, tại tinh xá của ông Cấp Cô Độc. Tại đó, Thế Tôn gọi các

@@ -343,7 +343,13 @@ def normalize(samyuttas, offset):
     for j, sam in enumerate(samyuttas):
         sam["no"] = offset + j
         for vag in sam["vaggas"]:
-            vag.setdefault("next_sutta", 1)
+            # Số kinh của saṃyutta đếm liên tục qua các vagga; nguồn đôi khi
+            # đánh lại từ 1 giữa chừng (peyyāla), nên cộng dồn theo span.
+            vag["next_sutta"] = (
+                sum(s["to"] - s["no"] + 1 for s in vag["sections"]) + 1
+                if vag["sections"]
+                else vag.get("next_sutta", 1)
+            )
             vag["line_start"] = min((s["line_start"] for s in vag["sections"]), default=0)
             for sec in vag["sections"]:
                 n = 0
@@ -460,6 +466,7 @@ def main():
             entry["vaggas"].append({
                 "index": vag["index"], "no": vag["no"], "name": vag["name"],
                 "pack": pack, "line_start": vag["line_start"],
+                "next_sutta": vag.get("next_sutta", 1),
                 "sections": [
                     {"kind": s["kind"], "no": s["no"], "to": s["to"],
                      "pali_name": s["pali_name"], "line_start": s["line_start"],

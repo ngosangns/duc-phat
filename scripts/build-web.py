@@ -164,6 +164,45 @@ def postprocess_body(html: str) -> str:
         r'<sup class="pn">\1</sup>',
         html,
     )
+    # Pali sources mark divisions as list items instead of headings:
+    #   "+ + Xxxvaggo"       — nested item, vaggas of paṇṇāsaka 2+
+    #   "+ Xxxsaṃyuttaṃ"     — saṃyutta markers (SN 49–55)
+    #   "+ Xxxpāḷi/vaggo"    — first item of a shared enum block (Aṭṭhānapāḷi…)
+    # Promote them to headings so parse_tree groups the following suttas.
+    # The ol start attr carries the continuous ordinal.
+    html = re.sub(
+        r'<ol start="(\d+)"><li><ol start="\d+"><li(?:\s+value="\d+")?>([^<]*vaggo)</li></ol></li></ol>',
+        lambda m: f"<h3>{m.group(1)}. {m.group(2).strip()}</h3>",
+        html,
+    )
+    html = re.sub(
+        r'<ol start="(\d+)"><li>(?:<p>)?([^<]{2,60}?(?:vaggo|saṃyuttaṃ|pāḷi)\s*)(?:</p>)?</li>',
+        lambda m: f"<h3>{m.group(1)}. {m.group(2).strip()}</h3><ol start=\"{m.group(1)}\">",
+        html,
+    )
+    # An empty division heading followed by same-level headings that restart
+    # numbering marks sub-divisions ("== 14. Etadaggavaggo" then
+    # "== 1. Paṭhamavaggo"): demote the run to h4 so they nest under the
+    # division instead of becoming top-level siblings.
+    heads = list(re.finditer(r"<h3>(\d+)\.[^<]*</h3>", html))
+    demote: set[int] = set()
+    boundary = None
+    for i, m in enumerate(heads):
+        n = int(m.group(1))
+        if boundary is not None:
+            if n < boundary:
+                demote.add(m.start())
+                continue
+            boundary = None
+        if i + 1 < len(heads):
+            nxt = heads[i + 1]
+            if not html[m.end() : nxt.start()].strip() and int(nxt.group(1)) < n:
+                boundary = n
+                demote.add(nxt.start())
+    for pos in sorted(demote, reverse=True):
+        html = html[:pos] + "<h4>" + html[pos + 4 :]
+        close = html.index("</h3>", pos)
+        html = html[:close] + "</h4>" + html[close + 5 :]
     return html
 
 
@@ -395,10 +434,16 @@ def emit_units(node: Node, index: int, used: set[str]) -> Unit | None:
     size = node.total_size()
     pali = extract_pali(title)
 
-    keep_together = size <= MAX_UNIT and not looks_like_suttas(node.children)
+    keep_together = (
+        size <= MAX_UNIT
+        and not looks_like_suttas(node.children)
+        and not any(ch.children for ch in node.children)
+    )
     if not node.children or keep_together:
         html = node.render()
-        if visible_len(html) < MIN_TEXT:
+        # Drop only truly empty sections: peyyāla leaves abbreviated to one
+        # "…pe…" line are still real suttas (a heading plus a line of text).
+        if visible_len(html) < MIN_TEXT and visible_len(node.body_html) < 20:
             return None
         return pack_or_single(title, html, pali, uid)
 
