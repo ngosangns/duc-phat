@@ -22,9 +22,9 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 === 1. KINH PHẠM VÕNG (Brahmajālasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn đi trên con đường giữa Vương Xá (Rājagaha) và Nāḷandā, cùng một đoàn Tỷ-kheo đông đảo, khoảng năm trăm vị. Lúc ấy có du sĩ ngoại đạo tên Suppiya cũng đi trên con đường đó, với đệ tử là chàng thanh niên Brahmadatta. Suppiya cứ mãi chê Phật, chê Pháp, chê Tăng; còn Brahmadatta, đệ tử của ông, lại cứ mãi khen Phật, khen Pháp, khen Tăng. Hai thầy trò nói ngược nhau như thế, cứ đi theo sau Thế Tôn và đoàn Tỷ-kheo.
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn đi trên con đường giữa Vương Xá (Rājagaha) và Na-lan-đà (Nāḷandā), cùng một đoàn Tỷ-kheo đông đảo, khoảng năm trăm vị. Lúc ấy có du sĩ ngoại đạo tên Su-bi-da (Suppiya) cũng đi trên con đường đó, với đệ tử là chàng thanh niên Phạm Thi (Brahmadatta). Suppiya cứ mãi chê Phật, chê Pháp, chê Tăng; còn Phạm Thi (Brahmadatta), đệ tử của ông, lại cứ mãi khen Phật, khen Pháp, khen Tăng. Hai thầy trò nói ngược nhau như thế, cứ đi theo sau Thế Tôn và đoàn Tỷ-kheo.
 
-#super[2] Rồi Thế Tôn nghỉ đêm tại nhà nghỉ của vua ở Ambalaṭṭhikā, cùng đoàn Tỷ-kheo. Suppiya cũng nghỉ đêm ở đó, cùng Brahmadatta. Suppiya vẫn chê Phật, chê Pháp, chê Tăng; Brahmadatta vẫn khen Phật, khen Pháp, khen Tăng. Hai thầy trò cứ nói ngược nhau như thế.
+#super[2] Rồi Thế Tôn nghỉ đêm tại nhà nghỉ của vua ở Ambala (Ambalaṭṭhikā), cùng đoàn Tỷ-kheo. Suppiya cũng nghỉ đêm ở đó, cùng Brahmadatta. Suppiya vẫn chê Phật, chê Pháp, chê Tăng; Brahmadatta vẫn khen Phật, khen Pháp, khen Tăng. Hai thầy trò cứ nói ngược nhau như thế.
 
 #super[3] Sáng sớm hôm sau, một nhóm đông Tỷ-kheo thức dậy, ngồi họp ở nhà tròn, bàn với nhau: "Thật lạ, thật hiếm có, này hiền giả! Thế Tôn — bậc đã thấy, đã biết, bậc A-la-hán, Chánh Đẳng Giác — hiểu rõ chúng sinh khác nhau về khuynh hướng đến mức nào! Du sĩ Suppiya này cứ mãi chê Phật, chê Pháp, chê Tăng; còn đệ tử ông ta là Brahmadatta lại cứ mãi khen Phật, khen Pháp, khen Tăng. Hai thầy trò nói ngược nhau như thế, mà vẫn cùng đi theo sau Thế Tôn và đoàn Tỷ-kheo."
 
@@ -38,9 +38,9 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 #super[7] "Này các thầy, đó chỉ là những điều nhỏ nhặt, tầm thường — chỉ là chuyện giữ giới bình thường — mà người phàm phu có thể dùng để khen Như Lai. Vậy những điều nhỏ nhặt, tầm thường ấy là gì?
 
-#super[8] "'Sa-môn Gotama từ bỏ giết hại, không giết hại; ông bỏ roi gậy, bỏ dao kiếm, biết hổ thẹn, có lòng thương xót, sống vì lợi ích của mọi loài chúng sinh' — người phàm phu khen Như Lai sẽ nói vậy.
+#super[8] "'Sa-môn Cù-đàm (Gotama) từ bỏ giết hại, không giết hại; ông bỏ roi gậy, bỏ dao kiếm, biết hổ thẹn, có lòng thương xót, sống vì lợi ích của mọi loài chúng sinh' — người phàm phu khen Như Lai sẽ nói vậy.
 
-"'Sa-môn Gotama từ bỏ trộm cắp, không lấy của không cho; ông chỉ nhận gì được cho, chỉ mong gì được cho, sống trong sạch, không trộm cắp' — người phàm phu khen Như Lai sẽ nói vậy.
+"'Sa-môn Cù-đàm (Gotama) từ bỏ trộm cắp, không lấy của không cho; ông chỉ nhận gì được cho, chỉ mong gì được cho, sống trong sạch, không trộm cắp' — người phàm phu khen Như Lai sẽ nói vậy.
 
 "'Sa-môn Gotama từ bỏ đời sống không trong sạch, sống đời phạm hạnh, xa lìa chuyện đôi lứa — thói thường của người đời' — người phàm phu khen Như Lai sẽ nói vậy.
 
@@ -373,7 +373,7 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 #super[147] Này các thầy, thân này của Như Lai còn tồn tại, nhưng sợi dây dẫn đến tái sinh đã bị cắt đứt. Khi thân này còn tồn tại, chư thiên và loài người còn thấy được Như Lai. Nhưng khi thân hoại, mạng sống chấm dứt, chư thiên và loài người sẽ không còn thấy được Như Lai nữa. Này các thầy, ví như một chùm xoài bị cắt đứt cuống — tất cả những trái xoài còn dính trên cuống ấy đều rụng theo. Cũng vậy, này các thầy, thân này của Như Lai còn tồn tại, nhưng sợi dây dẫn đến tái sinh đã bị cắt đứt. Khi thân hoại, mạng sống chấm dứt, chư thiên và loài người sẽ không còn thấy được Như Lai nữa.
 
-#super[148] Nghe vậy, Tôn giả Ānanda bạch Thế Tôn: "Thật kỳ diệu, bạch Thế Tôn! Thật hy hữu, bạch Thế Tôn! Bài pháp thoại này tên gọi là gì?" — "Này Ānanda, ông hãy ghi nhớ bài pháp thoại này là Lưới Ý Nghĩa. Cũng hãy ghi nhớ là Lưới Chánh Pháp. Cũng hãy ghi nhớ là Phạm Võng, tức Lưới Tối Thượng. Cũng hãy ghi nhớ là Lưới Tri Kiến. Cũng hãy ghi nhớ là Cuộc Chiến Thắng Vô Thượng." Thế Tôn thuyết giảng như vậy.
+#super[148] Nghe vậy, Tôn giả A-nan (Ānanda) bạch Thế Tôn: "Thật kỳ diệu, bạch Thế Tôn! Thật hy hữu, bạch Thế Tôn! Bài pháp thoại này tên gọi là gì?" — "Này A-nan (Ānanda), ông hãy ghi nhớ bài pháp thoại này là Lưới Ý Nghĩa. Cũng hãy ghi nhớ là Lưới Chánh Pháp. Cũng hãy ghi nhớ là Phạm Võng, tức Lưới Tối Thượng. Cũng hãy ghi nhớ là Lưới Tri Kiến. Cũng hãy ghi nhớ là Cuộc Chiến Thắng Vô Thượng." Thế Tôn thuyết giảng như vậy.
 
 #super[149] Các Tỷ-kheo hoan hỷ tín thọ lời Thế Tôn dạy. Và trong khi bài pháp thoại này được thuyết giảng, cả mười ngàn thế giới đều rung chuyển.
 
@@ -381,27 +381,27 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 === 2. KINH SA-MÔN QUẢ (Sāmaññaphalasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Rājagaha, tức Vương Xá, trong vườn xoài của Jīvaka Komārabhacca, cùng với đại chúng Tỷ-kheo đông đảo, một ngàn hai trăm năm mươi vị. Lúc bấy giờ là đêm rằm Bố-tát tháng tư mùa mưa, tức đêm Komudī, đêm trăng tròn. Vua Ajātasattu, tức A-xà-thế, nước Magadha, con bà Videhi, đang ngồi trên lầu cao của cung điện, các quan đại thần vây quanh. Vào đêm Bố-tát ấy, vua Ajātasattu thốt lên lời cảm thán: "Đêm trăng sáng thật đẹp làm sao! Đêm trăng sáng thật khả ái làm sao! Đêm trăng sáng thật đáng chiêm ngưỡng làm sao! Đêm trăng sáng thật thanh tú làm sao! Đêm trăng sáng thật đầy điềm lành làm sao! Hôm nay ta nên đến yết kiến vị Sa-môn hay Bà-la-môn nào, để khi yết kiến, tâm ta được thanh tịnh?"
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), tức Vương Xá, trong vườn xoài của Kỳ-bà (Jīvaka) Cô-ma-la-ba-xa (Komārabhacca), cùng với đại chúng Tỷ-kheo đông đảo, một ngàn hai trăm năm mươi vị. Lúc bấy giờ là đêm rằm Bố-tát tháng tư mùa mưa, tức đêm Cô-mu-đi (Komudī), đêm trăng tròn. Vua A-xà-thế (Ajātasattu), tức A-xà-thế, nước Ma-kiệt-đà (Magadha), con bà Videhi, đang ngồi trên lầu cao của cung điện, các quan đại thần vây quanh. Vào đêm Bố-tát ấy, vua A-xà-thế (Ajātasattu) thốt lên lời cảm thán: "Đêm trăng sáng thật đẹp làm sao! Đêm trăng sáng thật khả ái làm sao! Đêm trăng sáng thật đáng chiêm ngưỡng làm sao! Đêm trăng sáng thật thanh tú làm sao! Đêm trăng sáng thật đầy điềm lành làm sao! Hôm nay ta nên đến yết kiến vị Sa-môn hay Bà-la-môn nào, để khi yết kiến, tâm ta được thanh tịnh?"
 
-#super[2] Nghe vậy, một vị đại thần tâu vua Ajātasattu: "Tâu Đại vương, có Pūraṇa Kassapa là vị giáo chủ có đồ chúng, có tông phái, có đệ tử, nổi danh, có tiếng tăm, được nhiều người tôn sùng, dày dạn kinh nghiệm, xuất gia đã lâu, tuổi đã cao, đạo nghiệp đã thuần thục. Xin Đại vương hãy đến yết kiến Pūraṇa Kassapa. Có thể khi yết kiến, tâm Đại vương sẽ được thanh tịnh." Nghe vậy, vua Ajātasattu vẫn im lặng.
+#super[2] Nghe vậy, một vị đại thần tâu vua Ajātasattu: "Tâu Đại vương, có Phú-lan-na (Pūraṇa) Ca-diếp (Kassapa) là vị giáo chủ có đồ chúng, có tông phái, có đệ tử, nổi danh, có tiếng tăm, được nhiều người tôn sùng, dày dạn kinh nghiệm, xuất gia đã lâu, tuổi đã cao, đạo nghiệp đã thuần thục. Xin Đại vương hãy đến yết kiến Phú-lan-na (Pūraṇa) Ca-diếp (Kassapa). Có thể khi yết kiến, tâm Đại vương sẽ được thanh tịnh." Nghe vậy, vua Ajātasattu vẫn im lặng.
 
-#super[3] Một vị đại thần khác lại tâu vua Ajātasattu như vậy về Makkhali Gosāla. Nghe vậy, vua Ajātasattu vẫn im lặng.
+#super[3] Một vị đại thần khác lại tâu vua Ajātasattu như vậy về Makkhali Mặc-già-lê Cù-xá-lợi (Gosāla). Nghe vậy, vua Ajātasattu vẫn im lặng.
 
 #super[4] Một vị đại thần khác lại tâu như vậy về Ajita Kesakambala. Nghe vậy, vua Ajātasattu vẫn im lặng.
 
-#super[5] Một vị đại thần khác lại tâu như vậy về Pakudha Kaccāyana. Nghe vậy, vua Ajātasattu vẫn im lặng.
+#super[5] Một vị đại thần khác lại tâu như vậy về Pakudha Bà-phù-đà Ca-chiên-nê (Kaccāyana). Nghe vậy, vua Ajātasattu vẫn im lặng.
 
-#super[6] Một vị đại thần khác lại tâu như vậy về Sañcaya Belaṭṭhaputta. Nghe vậy, vua Ajātasattu vẫn im lặng.
+#super[6] Một vị đại thần khác lại tâu như vậy về Xan-cha-da (Sañcaya) Bê-la-tha (Belaṭṭhaputta). Nghe vậy, vua Ajātasattu vẫn im lặng.
 
-#super[7] Một vị đại thần khác lại tâu như vậy về Nigaṇṭha Nāṭaputta. Nghe vậy, vua Ajātasattu vẫn im lặng.
+#super[7] Một vị đại thần khác lại tâu như vậy về Ni kiền tử (Nigaṇṭha) Ni-kiền-tử (Nāṭaputta). Nghe vậy, vua Ajātasattu vẫn im lặng.
 
 #strong[Jīvaka Đề Nghị]
 
-#super[8] Lúc bấy giờ, y sĩ Jīvaka Komārabhacca đang ngồi im lặng không xa vua Ajātasattu. Vua hỏi: "Này khanh Jīvaka, sao khanh cứ im lặng vậy?" — "Tâu Đại vương, hiện Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, đang trú trong vườn xoài của thần, cùng đại chúng Tỷ-kheo một ngàn hai trăm năm mươi vị. Tiếng đồn tốt đẹp về Thế Tôn đã vang khắp nơi: Đây là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Xin Đại vương hãy đến yết kiến Thế Tôn. Có thể khi yết kiến, tâm Đại vương sẽ được thanh tịnh."
+#super[8] Lúc bấy giờ, y sĩ Kỳ-bà (Jīvaka) Komārabhacca đang ngồi im lặng không xa vua Ajātasattu. Vua hỏi: "Này khanh Jīvaka, sao khanh cứ im lặng vậy?" — "Tâu Đại vương, hiện Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, đang trú trong vườn xoài của thần, cùng đại chúng Tỷ-kheo một ngàn hai trăm năm mươi vị. Tiếng đồn tốt đẹp về Thế Tôn đã vang khắp nơi: Đây là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Xin Đại vương hãy đến yết kiến Thế Tôn. Có thể khi yết kiến, tâm Đại vương sẽ được thanh tịnh."
 
 #super[9] "Vậy thì, này khanh Jīvaka, hãy cho thắng voi." — "Xin vâng, tâu Đại vương." Jīvaka vâng lệnh, cho thắng năm trăm thớt voi cái và con voi vua thường cưỡi, rồi tâu vua: "Tâu Đại vương, voi đã thắng xong, xin Đại vương định liệu thời giờ thích hợp."
 
-#super[10] Rồi vua Ajātasattu cho mỗi phu nhân cưỡi một trong năm trăm thớt voi cái ấy, còn mình cưỡi con voi vua. Đoàn tùy tùng rời khỏi Rājagaha giữa ánh đuốc sáng rực, với đầy đủ uy nghi của một vị vua, tiến về vườn xoài của Jīvaka. Khi đến gần vườn xoài, vua bỗng sinh lòng sợ hãi, kinh hoàng, lông tóc dựng ngược. Vua hoảng sợ, run rẩy, nói với Jīvaka: "Này khanh Jīvaka, có phải khanh đang lừa gạt ta chăng? Có phải khanh đang nộp ta cho kẻ thù chăng? Sao đại chúng Tỷ-kheo đông đến một ngàn hai trăm năm mươi vị như vậy mà không một tiếng ho, không một tiếng đằng hắng, không một tiếng động nào cả?" — "Tâu Đại vương, xin đừng sợ! Thần không lừa gạt Đại vương, không nộp Đại vương cho kẻ thù đâu. Xin Đại vương cứ tiến tới — kia là ánh đèn sáng trong nhà tròn."
+#super[10] Rồi vua Ajātasattu cho mỗi phu nhân cưỡi một trong năm trăm thớt voi cái ấy, còn mình cưỡi con voi vua. Đoàn tùy tùng rời khỏi Vương Xá (Rājagaha) giữa ánh đuốc sáng rực, với đầy đủ uy nghi của một vị vua, tiến về vườn xoài của Jīvaka. Khi đến gần vườn xoài, vua bỗng sinh lòng sợ hãi, kinh hoàng, lông tóc dựng ngược. Vua hoảng sợ, run rẩy, nói với Jīvaka: "Này khanh Jīvaka, có phải khanh đang lừa gạt ta chăng? Có phải khanh đang nộp ta cho kẻ thù chăng? Sao đại chúng Tỷ-kheo đông đến một ngàn hai trăm năm mươi vị như vậy mà không một tiếng ho, không một tiếng đằng hắng, không một tiếng động nào cả?" — "Tâu Đại vương, xin đừng sợ! Thần không lừa gạt Đại vương, không nộp Đại vương cho kẻ thù đâu. Xin Đại vương cứ tiến tới — kia là ánh đèn sáng trong nhà tròn."
 
 #strong[Câu Hỏi Về Quả Sa-môn Hạnh]
 
@@ -423,7 +423,7 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 #strong[Chủ Trương Của Makkhali Gosāla]
 
-#super[18] "Bạch Thế Tôn, một thời khác con đến chỗ Makkhali Gosāla, cùng ông trao đổi lời thăm hỏi xã giao, rồi hỏi ông câu hỏi ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
+#super[18] "Bạch Thế Tôn, một thời khác con đến chỗ Makkhali Mặc-già-lê Cù-xá-lợi (Gosāla), cùng ông trao đổi lời thăm hỏi xã giao, rồi hỏi ông câu hỏi ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
 
 #super[19] "Nghe vậy, Makkhali Gosāla nói với con: 'Tâu Đại vương, không có nhân, không có duyên khiến chúng sinh ô nhiễm — chúng sinh ô nhiễm không do nhân duyên. Không có nhân, không có duyên khiến chúng sinh thanh tịnh — chúng sinh thanh tịnh không do nhân duyên. Không có tự tác, không có tha tác, không có nhân tác; không có sức mạnh, không có tinh tấn, không có năng lực hay sự cố gắng của con người. Tất cả chúng sinh đều không có tự chủ, không có sức mạnh, không có tinh tấn. Chúng bị chi phối bởi định mệnh, bởi hoàn cảnh, bởi bản tính, tùy theo sáu loại sinh chủng mà cảm thọ khổ vui. Có mười bốn trăm ngàn loại sinh chủng chính cùng vô số biến thể khác, có sáu mươi hai đường tu, sáu mươi hai trung kiếp, tám cảnh giới của bậc trượng phu, và tám mươi bốn trăm ngàn đại kiếp. Trong suốt thời gian ấy, kẻ ngu người trí cứ trôi lăn, luân chuyển, rồi cuối cùng cũng sẽ tự nhiên chấm dứt khổ đau. Không hề có chuyện nhờ giới hạnh, khổ hạnh hay phạm hạnh mà làm chín muồi nghiệp chưa chín hay tiêu trừ nghiệp đã chín. Khổ vui đã được đo lường sẵn như đấu, luân hồi có giới hạn nhất định, không có chuyện giảm bớt hay tăng thêm. Cũng như một cuộn chỉ khi ném ra sẽ tự cuộn trải cho đến hết, kẻ ngu người trí cũng vậy, cứ trôi lăn, luân chuyển, rồi cuối cùng cũng sẽ chấm dứt khổ đau.'
 
@@ -439,14 +439,14 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 #strong[Chủ Trương Của Pakudha Kaccāyana]
 
-#super[24] "Bạch Thế Tôn, một thời khác con đến chỗ Pakudha Kaccāyana, hỏi ông câu hỏi ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
+#super[24] "Bạch Thế Tôn, một thời khác con đến chỗ Pakudha Bà-phù-đà Ca-chiên-nê (Kaccāyana), hỏi ông câu hỏi ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
 
 #super[25] "Nghe vậy, Pakudha Kaccāyana nói với con: 'Tâu Đại vương, có bảy thân, tức bảy yếu tố, không do ai tạo ra, không do ai hóa sinh, đứng vững như đỉnh núi, như trụ đá, kiên cố, bất động. Chúng không xâm phạm lẫn nhau, không đủ sức đem lại vui khổ cho nhau. Bảy thân ấy là thân đất, thân nước, thân lửa, thân gió, khổ, vui, và mạng sống là thứ bảy. Trong đó, không có kẻ giết hay người bị giết, không có kẻ nghe hay người nói cho nghe. Dù có kẻ dùng gươm bén chém đầu ai, cũng không phải là tước đoạt mạng sống của ai cả — chỉ là lưỡi gươm xuyên qua khoảng trống giữa bảy thân ấy mà thôi.'
 #super[26] "Bạch Thế Tôn, con hỏi vậy mà Pakudha Kaccāyana lại trả lời chuyện này bằng chuyện khác. Cũng như hỏi trái xoài mà đáp trái mít, ông ấy cũng thế. Con lại nghĩ như trước, nên chỉ giữ im lặng, đứng dậy ra về."
 
 #strong[Chủ Trương Của Nigaṇṭha Nāṭaputta]
 
-#super[27] "Bạch Thế Tôn, một thời khác con đến chỗ Nigaṇṭha Nāṭaputta. Con gọi ông bằng tên dòng họ là Aggivessana, rồi hỏi câu ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
+#super[27] "Bạch Thế Tôn, một thời khác con đến chỗ Ni kiền tử (Nigaṇṭha) Ni-kiền-tử (Nāṭaputta). Con gọi ông bằng tên dòng họ là Aggivessana, rồi hỏi câu ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
 
 #super[28] "Nghe vậy, Nigaṇṭha Nāṭaputta nói với con: 'Tâu Đại vương, ở đây vị Ni-kiền tử được chế ngự bởi bốn loại cấm giới — ngăn cấm mọi thứ nước, chế ngự bằng mọi thứ nước, gột rửa bằng mọi thứ nước, thấm nhuần bằng mọi thứ nước. Khi được chế ngự bởi bốn loại cấm giới như vậy, vị Ni-kiền tử được gọi là đã đến nơi, đã tự chế, đã đứng vững.'
 
@@ -454,7 +454,7 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 #strong[Chủ Trương Của Sañcaya Belaṭṭhaputta]
 
-#super[30] "Bạch Thế Tôn, một thời khác con đến chỗ Sañcaya Belaṭṭhaputta, hỏi ông câu ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
+#super[30] "Bạch Thế Tôn, một thời khác con đến chỗ Xan-cha-da (Sañcaya) Bê-la-tha (Belaṭṭhaputta), hỏi ông câu ấy — cũng như có nhiều nghề nghiệp khác nhau... vậy có thể chỉ ra một quả thiết thực hiện tại tương tự như vậy của hạnh Sa-môn hay không?
 
 #super[31] "Nghe vậy, Sañcaya Belaṭṭhaputta nói với con: 'Nếu ông hỏi tôi có đời sau hay không, mà tôi nghĩ là có, tôi sẽ trả lời là có — nhưng tôi không nói là như vậy, không nói là như thế kia, không nói là khác đi, không nói là không, cũng không nói là không phải không.' Ông né tránh y như vậy với mọi câu hỏi khác — không có đời sau, hay vừa có vừa không, hay chẳng có chẳng không; có chúng sinh hóa sinh hay không; có quả báo của nghiệp thiện ác hay không; Như Lai còn tồn tại sau khi chết hay không. Hỏi gì ông cũng né tránh bằng đúng công thức ấy.
 
@@ -488,7 +488,7 @@ _Trạng thái: đã dịch 13/13 kinh (kinh 1–13); đã trọn tập; đã vi
 
 #super[43] "Sau đó người ấy từ bỏ tài sản ít hay nhiều, từ bỏ bà con quyến thuộc ít hay nhiều, cạo bỏ râu tóc, khoác áo cà-sa, xuất gia sống không gia đình.
 
-#super[44] "Xuất gia như vậy rồi, người ấy sống chế ngự theo giới bổn Pātimokkha — đầy đủ oai nghi chánh hạnh, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới, thành tựu thân nghiệp và khẩu nghiệp thiện lành, nuôi mạng thanh tịnh, đầy đủ giới hạnh, hộ trì các căn, có chánh niệm tỉnh giác, biết đủ.
+#super[44] "Xuất gia như vậy rồi, người ấy sống chế ngự theo giới bổn Ba-la-đề-mộc-xoa (Pātimokkha) — đầy đủ oai nghi chánh hạnh, thấy sự nguy hiểm trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới, thành tựu thân nghiệp và khẩu nghiệp thiện lành, nuôi mạng thanh tịnh, đầy đủ giới hạnh, hộ trì các căn, có chánh niệm tỉnh giác, biết đủ.
 
 #strong[Tiểu Giới]
 
@@ -706,20 +706,20 @@ dạy.
 === 3. KINH AMBAṬṬHA (Ambaṭṭhasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn đang du hành trong xứ
-Kosala, cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị, đi
-đến một làng Bà-la-môn tên là Icchānaṅgala thuộc xứ Kosala. Tại đó,
+Câu-tát-la (Kosala), cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị, đi
+đến một làng Bà-la-môn tên là Ic-ha-nang-ga-la (Icchānaṅgala) thuộc xứ Câu-tát-la (Kosala). Tại đó,
 Thế Tôn trú trong rừng Icchānaṅgala.
 
 #strong[Bà-la-môn Pokkharasāti]
 
-#super[2] Lúc bấy giờ, Bà-la-môn Pokkharasāti đang sống tại
+#super[2] Lúc bấy giờ, Bà-la-môn Phí-già-la-bà-la (Pokkharasāti) đang sống tại
 Ukkaṭṭha, một nơi dân cư đông đúc, cỏ cây, nước non, ngũ cốc đầy đủ,
-do vua Pasenadi nước Kosala ban cho làm thái ấp, được vua ban tặng
-trọn quyền như đất phong của Phạm thiên. Bà-la-môn Pokkharasāti nghe
-tin: "Sa-môn Gotama, dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc
+do vua Ba-tư-nặc (Pasenadi) nước Kosala ban cho làm thái ấp, được vua ban tặng
+trọn quyền như đất phong của Phạm thiên. Bà-la-môn Phí-già-la-bà-la (Pokkharasāti) nghe
+tin: "Sa-môn Cù-đàm (Gotama), dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc
 Thích-ca, đang du hành trong xứ Kosala cùng đại chúng Tỷ-kheo khoảng
 năm trăm vị, đã đến Icchānaṅgala, hiện đang trú trong rừng
-Icchānaṅgala. Tiếng đồn tốt đẹp về Tôn giả Gotama ấy đã vang khắp
+Icchānaṅgala. Tiếng đồn tốt đẹp về Tôn giả Cù-đàm (Gotama) ấy đã vang khắp
 nơi: Đây là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc,
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên
 Nhân Sư, Phật, Thế Tôn. Vị ấy tự mình chứng ngộ, rồi tuyên thuyết
@@ -731,14 +731,14 @@ vậy quả thật là điều tốt lành."
 #strong[Thanh Niên Ambaṭṭha]
 
 #super[3] Lúc bấy giờ, Bà-la-môn Pokkharasāti có một đệ tử tên là
-Ambaṭṭha, thông thạo kinh điển, thuộc lòng chú thuật, tinh thông cả
+A-MA-TRÚ (Ambaṭṭha), thông thạo kinh điển, thuộc lòng chú thuật, tinh thông cả
 ba tập Vệ-đà cùng các sách chú giải từ vựng, nghi lễ, ngữ âm, từ
 nguyên, và các chuyện xưa được xem như bộ thứ năm; giỏi văn phạm,
 ngữ pháp; thông hiểu cả khoa duy vật luận và các tướng của bậc Đại
 nhân; được thầy công nhận là "con biết những gì ta biết, ta biết
 những gì con biết" trong bộ ba Vệ-đà mà thầy trò truyền dạy.
 
-#super[4] Bà-la-môn Pokkharasāti bảo thanh niên Ambaṭṭha: "Này
+#super[4] Bà-la-môn Pokkharasāti bảo thanh niên A-MA-TRÚ (Ambaṭṭha): "Này
 Ambaṭṭha, Sa-môn Gotama, dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc
 Thích-ca, đang du hành trong xứ Kosala cùng đại chúng Tỷ-kheo
 khoảng năm trăm vị, đã đến Icchānaṅgala, hiện đang trú trong rừng
@@ -827,7 +827,7 @@ hạng hạ tiện — lại không kính trọng, không tôn quý hàng Bà-la
 
 #super[12] "Vậy dòng họ Thích-ca đã làm gì xúc phạm đến ông?" —
 "Thưa Tôn giả Gotama, một thời con vì có việc cần của thầy con là
-Bà-la-môn Pokkharasāti mà đến Kapilavatthu, đến chỗ hội trường của
+Bà-la-môn Pokkharasāti mà đến Ca-tỳ-la-vệ (Kapilavatthu), đến chỗ hội trường của
 dòng họ Thích-ca. Lúc đó có nhiều người Thích-ca và các thanh niên
 Thích-ca đang ngồi trên những chỗ ngồi cao trong hội trường, đùa
 giỡn, chọc ghẹo nhau bằng ngón tay, cười đùa ầm ĩ — dường như đang
@@ -840,7 +840,7 @@ Thích-ca.
 #strong[Lời Nói Xúc Phạm Lần Thứ Ba]
 
 #super[13] "Này Ambaṭṭha, ngay cả một con chim cút nhỏ bé cũng có
-thể tự do nói năng trong tổ của mình. Kapilavatthu là đất của chính
+thể tự do nói năng trong tổ của mình. Ca-tỳ-la-vệ (Kapilavatthu) là đất của chính
 dòng họ Thích-ca; ông không nên vì chuyện nhỏ nhặt ấy mà tức giận." —
 "Thưa Tôn giả Gotama, có bốn giai cấp: Sát-đế-lỵ, Bà-la-môn, Phệ-xá,
 Thủ-đà-la. Trong bốn giai cấp ấy, ba giai cấp kia — Sát-đế-lỵ,
@@ -858,8 +858,8 @@ họ của y." Rồi Thế Tôn hỏi Ambaṭṭha: "Này Ambaṭṭha, ông thu
 họ gì?" — "Thưa Tôn giả Gotama, con thuộc dòng họ Kaṇhāyana." —
 "Này Ambaṭṭha, nếu truy nguyên tên họ cha mẹ xưa của ông, thì dòng
 họ Thích-ca chính là con cháu các bậc quý tộc, còn ông là con của
-một nữ tỳ của dòng họ Thích-ca. Dòng họ Thích-ca tôn vua Okkāka làm
-tổ phụ. Thuở xưa, vua Okkāka, vì muốn nhường ngôi cho con trai của
+một nữ tỳ của dòng họ Thích-ca. Dòng họ Thích-ca tôn vua Cam Giá (Okkāka) làm
+tổ phụ. Thuở xưa, vua Cam Giá (Okkāka), vì muốn nhường ngôi cho con trai của
 người vợ yêu quý nhất, đã đày các hoàng tử trưởng — Okkāmukha,
 Karakaṇḍa, Hatthinika, Sinisūra — ra khỏi vương quốc. Bị đày, các
 hoàng tử ấy đến sống tại một khu rừng cây teak lớn bên bờ một hồ
@@ -876,7 +876,7 @@ Từ đó về sau, dòng họ ấy được gọi là Sakya (Thích-ca), và ch
 Okkāka là tổ phụ của họ.
 
 Này Ambaṭṭha, vua Okkāka còn có một nữ tỳ tên là Disā. Bà sinh ra
-một đứa con tên là Kaṇha. Vừa sinh ra, Kaṇha đã biết nói: 'Xin hãy
+một đứa con tên là Can-ha (Kaṇha). Vừa sinh ra, Kaṇha đã biết nói: 'Xin hãy
 tắm rửa cho con, thưa mẹ; xin hãy gột sạch cho con khỏi những thứ
 dơ bẩn này; con sẽ có ích cho mẹ.' Này Ambaṭṭha, cũng như ngày nay
 người ta thấy quỷ dữ thì gọi là 'quỷ dữ', thời ấy người ta cũng gọi
@@ -921,7 +921,7 @@ một chùy sắt lớn đang bốc cháy, rực lửa, đứng lơ lửng trên
 ngay phía trên đầu thanh niên Ambaṭṭha, nghĩ: "Nếu thanh niên
 Ambaṭṭha này bị Thế Tôn hỏi một câu hỏi hợp lý đến ba lần mà vẫn
 không trả lời, ta sẽ đánh vỡ đầu nó làm bảy mảnh ngay tại chỗ này."
-Chỉ có Thế Tôn và Ambaṭṭha thấy được Dạ-xoa Vajirapāṇi ấy.
+Chỉ có Thế Tôn và Ambaṭṭha thấy được Dạ-xoa Kim Cang Thủ (Vajirapāṇi) ấy.
 
 #super[19] Thanh niên Ambaṭṭha vô cùng sợ hãi, kinh hoàng, lông tóc
 dựng ngược, chỉ tìm nơi nương tựa, tìm chỗ ẩn náu, tìm chỗ quy y
@@ -1005,11 +1005,11 @@ không?" — "Có, không bị cấm."
 vị thấp hèn nhất — bị chính những người Sát-đế-lỵ khác cạo đầu,
 đánh đập, đuổi khỏi xứ sở — thì vẫn còn cao hơn hàng Bà-la-môn; như
 vậy, dù ở địa vị thấp hèn nhất, Sát-đế-lỵ vẫn là tối thượng,
-Bà-la-môn là hạ liệt. Này Ambaṭṭha, chính Phạm thiên Sanaṅkumāra
+Bà-la-môn là hạ liệt. Này Ambaṭṭha, chính Phạm thiên Thường Đồng Tử (Sanaṅkumāra)
 cũng đã nói lên bài kệ này: 'Sát-đế-lỵ là tối thượng giữa những
 người còn coi trọng dòng họ; nhưng bậc đầy đủ Minh và Hạnh mới là
 tối thượng giữa chư Thiên và loài người.' Này Ambaṭṭha, bài kệ ấy
-của Phạm thiên Sanaṅkumāra được hát đúng, nói đúng, có ý nghĩa,
+của Phạm thiên Thường Đồng Tử (Sanaṅkumāra) được hát đúng, nói đúng, có ý nghĩa,
 không sai lạc, và được Ta tán đồng. Chính Ta cũng nói như vậy:
 'Sát-đế-lỵ là tối thượng giữa những người còn coi trọng dòng họ;
 nhưng bậc đầy đủ Minh và Hạnh mới là tối thượng giữa chư Thiên và
@@ -1036,7 +1036,7 @@ Thế Tôn giảng: "Này Ambaṭṭha, ở đây, Như Lai xuất hiện ở đ
 rồi Thế Tôn giảng toàn bộ tiến trình tu tập, từ việc nghe pháp,
 khởi lòng tin, xuất gia, giữ giới, hộ trì các căn, chánh niệm tỉnh
 giác, biết đủ, đoạn trừ năm triền cái, cho đến chứng đắc bốn thiền
-— giống hệt như đã giảng cho vua Ajātasattu trong Kinh Sa-môn Quả
+— giống hệt như đã giảng cho vua A-xà-thế (Ajātasattu) trong Kinh Sa-môn Quả
 (đoạn 41–84). "Này Ambaṭṭha, đó chính là Hạnh." Rồi, với tâm định
 tĩnh như vậy, vị Tỷ-kheo hướng tâm đến trí biết và thấy, cho đến
 trí đoạn tận các lậu hoặc, biết rõ: "Sinh đã tận, Phạm hạnh đã
@@ -1088,7 +1088,7 @@ Ambaṭṭha, hãy xem thầy ông, Bà-la-môn Pokkharasāti, đã xúc phạm 
 #strong[Về Các Vị Ẩn Sĩ Xưa]
 
 #super[30] "Này Ambaṭṭha, Bà-la-môn Pokkharasāti đang hưởng bổng
-lộc do vua Pasenadi nước Kosala ban cho. Thế nhưng vua Pasenadi lại
+lộc do vua Ba-tư-nặc (Pasenadi) nước Kosala ban cho. Thế nhưng vua Pasenadi lại
 không cho ông ấy được yết kiến trực tiếp; mỗi khi bàn việc với ông
 ấy, nhà vua chỉ nói chuyện qua tấm màn che. Này Ambaṭṭha, một người
 xứng đáng nhận phần bố thí đúng Chánh pháp mà nhà vua ban tặng, thì
@@ -1108,8 +1108,8 @@ cận thần của vua hay không?" — "Thưa không, thưa Tôn giả Gotama."
 #super[32] "Cũng vậy, này Ambaṭṭha, những vị ẩn sĩ xưa của các
 Bà-la-môn — những người đã soạn ra các câu chú, truyền lại các câu
 chú, mà ngày nay các Bà-la-môn vẫn tụng đọc, lặp lại, truyền tụng
-đúng như xưa — như Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta,
-Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, Bhagu — dù ông
+đúng như xưa — như Át-tha-ca (Aṭṭhaka), Bà-ma (Vāmaka), Bà-ma -đề-bà (Vāmadeva), Tì-bà-thẩm-sá (Vessāmitta),
+Gia-bà -đề-bà (Yamataggi), Ương-kỳ-la (Aṅgīrasa), Bạt-la-đà-phạn-xà (Bhāradvāja), Bà-tất-sá (Vāseṭṭha), Ca-diếp (Kassapa), Bà-cữu (Bhagu) — dù ông
 có nói: 'Con học thuộc những câu chú ấy' — thì cũng không vì thế mà
 ông trở thành một vị ẩn sĩ, hay đang tu theo con đường của một vị
 ẩn sĩ. Điều đó không thể có được."
@@ -1257,18 +1257,18 @@ Bà-la-môn, lời ông nói thật tốt lành."
 === 4. KINH SOṆADAṆḌA (Soṇadaṇḍasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn đang du hành trong xứ
-Aṅga, cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị, đi
-đến thành Campā. Tại đó, Thế Tôn trú bên bờ hồ sen Gaggarā ở Campā.
-Lúc bấy giờ, Bà-la-môn Soṇadaṇḍa đang sống tại Campā, một nơi dân
-cư đông đúc, cỏ cây, nước non, ngũ cốc đầy đủ, do vua Bimbisāra
-nước Magadha ban cho làm thái ấp, được vua ban tặng trọn quyền như
+Ương-già (Aṅga), cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị, đi
+đến thành Chiêm-bà (Campā). Tại đó, Thế Tôn trú bên bờ hồ sen Già-già liên-trì (Gaggarā) ở Chiêm-bà (Campā).
+Lúc bấy giờ, Bà-la-môn CHỦNG ĐỨC (Soṇadaṇḍa) đang sống tại Campā, một nơi dân
+cư đông đúc, cỏ cây, nước non, ngũ cốc đầy đủ, do vua Tần-bà-sa (Bimbisāra)
+nước Ma-kiệt-đà (Magadha) ban cho làm thái ấp, được vua ban tặng trọn quyền như
 đất phong của Phạm thiên.
 
-#super[2] Các gia chủ Bà-la-môn ở Campā nghe tin: "Sa-môn Gotama,
+#super[2] Các gia chủ Bà-la-môn ở Campā nghe tin: "Sa-môn Cù-đàm (Gotama),
 dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc Thích-ca, đang du hành
-trong xứ Aṅga cùng đại chúng Tỷ-kheo khoảng năm trăm vị, đã đến
-Campā, hiện đang trú bên bờ hồ sen Gaggarā. Tiếng đồn tốt đẹp về
-Tôn giả Gotama ấy đã vang khắp nơi: Đây là Thế Tôn, bậc A-la-hán,
+trong xứ Ương-già (Aṅga) cùng đại chúng Tỷ-kheo khoảng năm trăm vị, đã đến
+Campā, hiện đang trú bên bờ hồ sen Già-già liên-trì (Gaggarā). Tiếng đồn tốt đẹp về
+Tôn giả Cù-đàm (Gotama) ấy đã vang khắp nơi: Đây là Thế Tôn, bậc A-la-hán,
 Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng
 Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Vị ấy tự
 mình chứng ngộ, rồi tuyên thuyết cho thế gian này. Vị ấy thuyết
@@ -1278,7 +1278,7 @@ tuyên thuyết đời sống Phạm hạnh hoàn toàn viên mãn, thanh tịnh
 Các gia chủ Bà-la-môn ở Campā liền rời thành, từng đoàn từng đoàn,
 kéo đến bờ hồ sen Gaggarā.
 
-#super[3] Lúc bấy giờ, Bà-la-môn Soṇadaṇḍa đang nằm nghỉ trưa trên
+#super[3] Lúc bấy giờ, Bà-la-môn CHỦNG ĐỨC (Soṇadaṇḍa) đang nằm nghỉ trưa trên
 lầu cao. Thấy các gia chủ Bà-la-môn rời thành kéo đến bờ hồ, ông
 liền gọi người quản gia, hỏi: "Này khanh, vì sao các gia chủ
 Bà-la-môn ở Campā lại rời thành, từng đoàn từng đoàn, kéo đến bờ
@@ -1321,9 +1321,9 @@ hiểu. Ngài lại là thầy dạy của nhiều thầy khác, có ba trăm th
 niên đang học chú thuật với ngài, và nhiều thanh niên từ khắp các
 phương, các xứ, đến cầu học chú thuật nơi ngài. Ngài lại tuổi cao,
 niên cao lạp trưởng, đã đến giai đoạn cuối đời, còn Sa-môn Gotama
-thì còn trẻ, mới xuất gia không lâu. Ngài lại được vua Bimbisāra
-nước Magadha kính trọng, tôn quý, sùng bái. Ngài lại được thầy
-Bà-la-môn Pokkharasāti kính trọng, tôn quý, sùng bái. Ngài lại đang
+thì còn trẻ, mới xuất gia không lâu. Ngài lại được vua Tần-bà-sa (Bimbisāra)
+nước Ma-kiệt-đà (Magadha) kính trọng, tôn quý, sùng bái. Ngài lại được thầy
+Bà-la-môn Phí-già-la-bà-la (Pokkharasāti) kính trọng, tôn quý, sùng bái. Ngài lại đang
 sống tại Campā, một thái ấp do vua Bimbisāra ban tặng như đất phong
 của Phạm thiên.
 
@@ -1369,9 +1369,9 @@ chủ khác — khác với các vị Sa-môn, Bà-la-môn khác chỉ đạt đ
 danh tiếng bằng cách này cách khác, danh tiếng của Sa-môn Gotama có
 được là nhờ chính sự thành tựu Minh và Hạnh vô thượng. Vua
 Bimbisāra nước Magadha, cùng vợ con, gia quyến, tùy tùng, đã hết
-lòng quy y Ngài; vua Pasenadi nước Kosala cũng đã hết lòng quy y
-Ngài như vậy; thầy Bà-la-môn Pokkharasāti cũng đã hết lòng quy y
-Ngài như vậy. Ngài được vua Bimbisāra, vua Pasenadi, và thầy
+lòng quy y Ngài; vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) cũng đã hết lòng quy y
+Ngài như vậy; thầy Bà-la-môn Phí-già-la-bà-la (Pokkharasāti) cũng đã hết lòng quy y
+Ngài như vậy. Ngài được vua Bimbisāra, vua Ba-tư-nặc (Pasenadi), và thầy
 Pokkharasāti đều kính trọng, tôn quý, sùng bái. Ngài đã đến Campā,
 hiện đang trú bên bờ hồ sen Gaggarā — mà phàm có Sa-môn hay
 Bà-la-môn nào đến địa phận làng xóm của chúng ta, đều là khách của
@@ -1580,22 +1580,22 @@ cho Bà-la-môn Soṇadaṇḍa phấn khởi, hoan hỷ, liền đứng dậy r
 === 5. KINH KŪṬADANTA (Kūṭadantasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn đang du hành trong xứ
-Magadha, cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị,
-đi đến một làng Bà-la-môn tên là Khāṇumata thuộc xứ Magadha. Tại
-đó, Thế Tôn trú tại vườn xoài Ambalaṭṭhikā ở Khāṇumata. Lúc bấy
-giờ, Bà-la-môn Kūṭadanta đang sống tại Khāṇumata, một nơi dân cư
-đông đúc, cỏ cây, nước non, ngũ cốc đầy đủ, do vua Bimbisāra nước
+Ma-kiệt-đà (Magadha), cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị,
+đi đến một làng Bà-la-môn tên là Khứ-- nậu-bà-đế (Khāṇumata) thuộc xứ Ma-kiệt-đà (Magadha). Tại
+đó, Thế Tôn trú tại vườn xoài Ambala (Ambalaṭṭhikā) ở Khứ-- nậu-bà-đế (Khāṇumata). Lúc bấy
+giờ, Bà-la-môn CỨU-LA-ĐÀN-ĐẦU (Kūṭadanta) đang sống tại Khāṇumata, một nơi dân cư
+đông đúc, cỏ cây, nước non, ngũ cốc đầy đủ, do vua Tần-bà-sa (Bimbisāra) nước
 Magadha ban cho làm thái ấp, được vua ban tặng trọn quyền như đất
-phong của Phạm thiên. Lúc bấy giờ, Bà-la-môn Kūṭadanta đang chuẩn
+phong của Phạm thiên. Lúc bấy giờ, Bà-la-môn CỨU-LA-ĐÀN-ĐẦU (Kūṭadanta) đang chuẩn
 bị một đại lễ tế sinh: bảy trăm con bò đực, bảy trăm con bê đực,
 bảy trăm con bê cái, bảy trăm con dê, bảy trăm con cừu đều đã được
 cột vào cột tế để dùng trong lễ tế.
 
 #super[2] Các gia chủ Bà-la-môn ở Khāṇumata nghe tin: "Sa-môn
-Gotama, dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc Thích-ca, đang
+Cù-đàm (Gotama), dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc Thích-ca, đang
 du hành trong xứ Magadha cùng đại chúng Tỷ-kheo khoảng năm trăm vị,
-đã đến Khāṇumata, hiện đang trú tại vườn xoài Ambalaṭṭhikā. Tiếng
-đồn tốt đẹp về Tôn giả Gotama ấy đã vang khắp nơi: Đây là Thế Tôn,
+đã đến Khāṇumata, hiện đang trú tại vườn xoài Ambala (Ambalaṭṭhikā). Tiếng
+đồn tốt đẹp về Tôn giả Cù-đàm (Gotama) ấy đã vang khắp nơi: Đây là Thế Tôn,
 bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian
 Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế
 Tôn. Vị ấy tự mình chứng ngộ, rồi tuyên thuyết cho thế gian này. Vị
@@ -1650,7 +1650,7 @@ thuật, tinh thông ba tập Vệ-đà; đẹp đẽ, uy nghi, có dung sắc n
 Phạm thiên; có giới đức lâu đời; ăn nói khéo léo; là thầy dạy của
 nhiều thầy khác, có ba trăm thanh niên học chú thuật với ngài; tuổi
 cao, niên cao lạp trưởng — còn Sa-môn Gotama thì còn trẻ, mới xuất
-gia; ngài lại được vua Bimbisāra và thầy Pokkharasāti kính trọng;
+gia; ngài lại được vua Tần-bà-sa (Bimbisāra) và thầy Phí-già-la-bà-la (Pokkharasāti) kính trọng;
 ngài lại đang sống tại Khāṇumata, thái ấp do vua ban tặng — chỉ
 riêng những lý do ấy cũng đủ để ngài không nên đến yết kiến Sa-môn
 Gotama; trái lại, chính Sa-môn Gotama mới nên đến yết kiến ngài."
@@ -1671,7 +1671,7 @@ hai tướng của bậc Đại nhân; niềm nở, hòa nhã; được cả b�
 chúng kính trọng; được chư Thiên và loài người tịnh tín; nơi Ngài
 cư trú không có phi nhân quấy nhiễu; là vị giáo chủ tối thượng,
 danh tiếng có được nhờ chính sự thành tựu Minh và Hạnh; được vua
-Bimbisāra, vua Pasenadi, và thầy Pokkharasāti đều quy y, kính
+Bimbisāra, vua Ba-tư-nặc (Pasenadi), và thầy Phí-già-la-bà-la (Pokkharasāti) đều quy y, kính
 trọng; hiện đang là khách của chúng ta tại Khāṇumata, mà khách thì
 phải được kính trọng — chỉ riêng lý do ấy cũng đủ để Sa-môn Gotama
 không cần đến yết kiến chúng ta; trái lại, chính chúng ta mới nên
@@ -1704,7 +1704,7 @@ tế."
 
 #super[14] "Vậy này Bà-la-môn, hãy lắng nghe, khéo tác ý, Ta sẽ
 giảng." — "Xin vâng" — Bà-la-môn Kūṭadanta đáp lời. Thế Tôn giảng:
-"Này Bà-la-môn, thuở xưa có một vị vua tên là Mahāvijita, giàu có,
+"Này Bà-la-môn, thuở xưa có một vị vua tên là Ma-ha-bi-xi-đa (Mahāvijita), giàu có,
 nhiều của cải, kho tàng đầy ắp vàng bạc châu báu. Một hôm, khi đang
 ở nơi vắng vẻ, tĩnh tâm suy nghĩ, vua khởi lên ý nghĩ: Ta đã có
 được nhiều của cải, đã chinh phục và cai trị một vùng đất rộng
@@ -1986,20 +1986,20 @@ phấn khởi, hoan hỷ, liền đứng dậy ra về.
 
 === 6. KINH MAHĀLI (Mahālisuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Vesālī, trong
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Tỳ-xá-ly (Vesālī), trong
 Đại Lâm, tại giảng đường Trùng Các. Lúc bấy giờ, có nhiều sứ giả
-Bà-la-môn của xứ Kosala và nhiều sứ giả Bà-la-môn của xứ Magadha
-đang tạm trú tại Vesālī vì có việc riêng. Các sứ giả ấy nghe tin:
-"Sa-môn Gotama, dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc
+Bà-la-môn của xứ Câu-tát-la (Kosala) và nhiều sứ giả Bà-la-môn của xứ Ma-kiệt-đà (Magadha)
+đang tạm trú tại Tỳ-xá-ly (Vesālī) vì có việc riêng. Các sứ giả ấy nghe tin:
+"Sa-môn Cù-đàm (Gotama), dòng họ Thích-ca, đã xuất gia từ bỏ gia tộc
 Thích-ca, hiện đang trú tại Vesālī, trong Đại Lâm, tại giảng đường
-Trùng Các. Tiếng đồn tốt đẹp về Tôn giả Gotama ấy đã vang khắp nơi:
+Trùng Các. Tiếng đồn tốt đẹp về Tôn giả Cù-đàm (Gotama) ấy đã vang khắp nơi:
 Đây là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc,
 Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên
 Nhân Sư, Phật, Thế Tôn. Được yết kiến một bậc A-la-hán như vậy quả
 thật là điều tốt lành."
 
 #super[2] Rồi các sứ giả Bà-la-môn ấy đến Đại Lâm, tại giảng đường
-Trùng Các. Lúc bấy giờ, Tôn giả Nāgita là thị giả của Thế Tôn. Các
+Trùng Các. Lúc bấy giờ, Tôn giả Na-gi-đa (Nāgita) là thị giả của Thế Tôn. Các
 sứ giả ấy đến chỗ Tôn giả Nāgita, hỏi: "Thưa Tôn giả Nāgita, hiện
 nay Tôn giả Gotama đang ở đâu? Chúng tôi muốn yết kiến Tôn giả
 Gotama." — "Này các hiền giả, chưa phải lúc để yết kiến Thế Tôn;
@@ -2009,21 +2009,21 @@ mới đi."
 
 #strong[Chuyện Vương Tử Licchavi Oṭṭhaddha]
 
-#super[3] Vương tử Licchavi Oṭṭhaddha, cùng với đông đảo tùy tùng
-dòng Licchavi, cũng đến Đại Lâm, tại giảng đường Trùng Các, đến chỗ
+#super[3] Vương tử Ly- xa tử (Licchavi) Oṭṭhaddha, cùng với đông đảo tùy tùng
+dòng Ly- xa tử (Licchavi), cũng đến Đại Lâm, tại giảng đường Trùng Các, đến chỗ
 Tôn giả Nāgita, đảnh lễ, rồi đứng qua một bên. Đứng một bên, vương
 tử Oṭṭhaddha hỏi Tôn giả Nāgita: "Bạch Tôn giả Nāgita, hiện nay Thế
 Tôn, bậc A-la-hán, Chánh Đẳng Giác, đang ở đâu? Chúng tôi muốn yết
-kiến Thế Tôn." — "Này Mahāli, chưa phải lúc để yết kiến Thế Tôn;
+kiến Thế Tôn." — "Này Ma-ha-li (Mahāli), chưa phải lúc để yết kiến Thế Tôn;
 Thế Tôn đang tĩnh tọa." Vương tử Oṭṭhaddha liền ngồi xuống một bên
 tại đó, nghĩ: "Ta sẽ đợi đến khi được thấy Thế Tôn rồi mới đi."
 
-#super[4] Rồi Sa-di Sīha đến chỗ Tôn giả Nāgita, đảnh lễ, đứng qua
-một bên, thưa: "Bạch Tôn giả Kassapa, có nhiều sứ giả Bà-la-môn của
-xứ Kosala và xứ Magadha đã đến đây để yết kiến Thế Tôn; vương tử
+#super[4] Rồi Sa-di Sĩ-ha (Sīha) đến chỗ Tôn giả Nāgita, đảnh lễ, đứng qua
+một bên, thưa: "Bạch Tôn giả Ca-diếp (Kassapa), có nhiều sứ giả Bà-la-môn của
+xứ Câu-tát-la (Kosala) và xứ Ma-kiệt-đà (Magadha) đã đến đây để yết kiến Thế Tôn; vương tử
 Oṭṭhaddha cùng đông đảo tùy tùng dòng Licchavi cũng đã đến đây để
 yết kiến Thế Tôn. Lành thay, xin cho những người ấy được yết kiến
-Thế Tôn." — "Vậy này Sīha, chính con hãy vào bạch với Thế Tôn." —
+Thế Tôn." — "Vậy này Sĩ-ha (Sīha), chính con hãy vào bạch với Thế Tôn." —
 "Xin vâng, bạch Tôn giả" — Sa-di Sīha vâng lời, đến chỗ Thế Tôn,
 đảnh lễ, đứng qua một bên, bạch lại đúng như vậy. — "Vậy này Sīha,
 hãy dọn chỗ ngồi trong bóng mát sau tịnh xá." — "Xin vâng, bạch Thế
@@ -2037,13 +2037,13 @@ một bên. Vương tử Oṭṭhaddha, cùng đông đảo tùy tùng dòng Lic
 cũng đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống một bên.
 
 #super[6] Ngồi một bên, vương tử Oṭṭhaddha bạch Thế Tôn: "Bạch Thế
-Tôn, cách đây không lâu, Sunakkhatta, con trai dòng Licchavi, đến
+Tôn, cách đây không lâu, Thiện Tịnh (Sunakkhatta), con trai dòng Licchavi, đến
 gặp con, nói: Này Mahāli, kể từ khi tôi sống nương tựa Thế Tôn chưa
 đầy ba năm, tôi đã thấy được các sắc pháp cõi trời, khả ái, đáng ưa
 thích, gắn liền với dục lạc; nhưng tôi không nghe được các âm thanh
 cõi trời, khả ái, đáng ưa thích, gắn liền với dục lạc. Bạch Thế Tôn,
 có phải các âm thanh cõi trời ấy thật sự không tồn tại nên
-Sunakkhatta không nghe được, hay chúng có tồn tại mà Sunakkhatta
+Thiện Tịnh (Sunakkhatta) không nghe được, hay chúng có tồn tại mà Sunakkhatta
 không nghe được?"
 
 #strong[Định Phát Triển Một Chiều]
@@ -2132,9 +2132,9 @@ chứng đắc những pháp ấy."
 
 #strong[Chuyện Hai Vị Xuất Gia]
 
-#super[18] "Này Mahāli, một thời Ta trú tại Kosambī, trong tu viện
-Ghosita. Có hai vị xuất gia — du sĩ Muṇḍiya và đệ tử phái khổ hạnh
-mặc y bằng gỗ Jāliya — đến gặp Ta, cùng Ta trao đổi lời thăm hỏi
+#super[18] "Này Mahāli, một thời Ta trú tại Kiều-thưởng-di (Kosambī), trong tu viện
+Cù-sư-la (Ghosita). Có hai vị xuất gia — du sĩ Muṇḍiya và đệ tử phái khổ hạnh
+mặc y bằng gỗ Xa-li-da (Jāliya) — đến gặp Ta, cùng Ta trao đổi lời thăm hỏi
 xã giao, rồi đứng qua một bên. Đứng một bên, hai vị ấy hỏi Ta:
 'Thưa hiền giả Gotama, mạng sống và thân xác là một, hay mạng sống
 và thân xác là khác nhau?'
@@ -2164,11 +2164,11 @@ dạy.
 
 === 7. KINH JĀLIYA (Jāliyasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Kosambī,
-trong tu viện Ghosita. Lúc bấy giờ, có hai vị xuất gia — du sĩ
-Muṇḍiya và đệ tử phái khổ hạnh mặc y bằng gỗ Jāliya — đến chỗ Thế
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Kiều-thưởng-di (Kosambī),
+trong tu viện Cù-sư-la (Ghosita). Lúc bấy giờ, có hai vị xuất gia — du sĩ
+Muṇḍiya và đệ tử phái khổ hạnh mặc y bằng gỗ Xa-li-da (Jāliya) — đến chỗ Thế
 Tôn, cùng Thế Tôn trao đổi lời thăm hỏi xã giao, rồi đứng qua một
-bên. Đứng một bên, hai vị ấy bạch Thế Tôn: "Thưa hiền giả Gotama,
+bên. Đứng một bên, hai vị ấy bạch Thế Tôn: "Thưa hiền giả Cù-đàm (Gotama),
 mạng sống và thân xác là một, hay mạng sống và thân xác là khác
 nhau?"
 
@@ -2202,10 +2202,10 @@ xuất gia ấy hoan hỷ tín thọ lời Thế Tôn dạy.
 === 8. KINH ĐẠI SƯ TỬ HỐNG (VỚI KASSAPA LÕA THỂ) (Mahāsīhanādasuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Uruññā,
-trong vườn Nai Kaṇṇakatthala. Lúc bấy giờ, đạo sĩ lõa thể Kassapa
+trong vườn Nai Kaṇṇakatthala. Lúc bấy giờ, đạo sĩ lõa thể Ca-diếp (Kassapa)
 đến chỗ Thế Tôn, cùng Thế Tôn trao đổi lời thăm hỏi xã giao, rồi
-đứng qua một bên. Đứng một bên, đạo sĩ Kassapa thưa Thế Tôn:
-"Thưa hiền giả Gotama, tôi nghe nói Sa-môn Gotama chê bai tất cả
+đứng qua một bên. Đứng một bên, đạo sĩ Ca-diếp (Kassapa) thưa Thế Tôn:
+"Thưa hiền giả Cù-đàm (Gotama), tôi nghe nói Sa-môn Cù-đàm (Gotama) chê bai tất cả
 các pháp khổ hạnh, một mực quở trách, chỉ trích tất cả những người
 tu khổ hạnh, sống đời khắc khổ. Những ai nói như vậy về Tôn giả
 Gotama, có phải họ nói đúng ý Tôn giả, không xuyên tạc Tôn giả
@@ -2438,9 +2438,9 @@ hành theo, và thực hành thì đạt được kết quả.
 
 #strong[Chuyện Xin Sống Thử Thách]
 
-#super[24] "Này Kassapa, một thời Ta trú tại Rājagaha, trên núi
-Gijjhakūṭa. Tại đó, có một vị tu khổ hạnh Phạm hạnh tên là
-Nigrodha đến hỏi Ta về sự yếm ly tối thượng. Ta đã trả lời câu hỏi
+#super[24] "Này Kassapa, một thời Ta trú tại Vương Xá (Rājagaha), trên núi
+Linh Thứu (Gijjhakūṭa). Tại đó, có một vị tu khổ hạnh Phạm hạnh tên là
+Ni-câu-luật Thọ Viên (Nigrodha) đến hỏi Ta về sự yếm ly tối thượng. Ta đã trả lời câu hỏi
 ấy cho vị ấy. Khi nghe câu trả lời, vị ấy vô cùng hoan hỷ." —
 "Bạch Thế Tôn, ai nghe được Pháp của Thế Tôn mà lại không hoan hỷ
 tột độ? Chính con, khi nghe Pháp của Thế Tôn, cũng vô cùng hoan
@@ -2472,16 +2472,16 @@ A-la-hán.
 
 === 9. KINH POṬṬHAPĀDA (Poṭṭhapādasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī,
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī),
 trong Kỳ Viên, tu viện của trưởng giả Cấp Cô Độc. Lúc bấy giờ, du
-sĩ Poṭṭhapāda đang ở tại giảng đường tranh luận Tinduka, khu vườn
-một mái của bà Mallikā, cùng với đông đảo hội chúng du sĩ, khoảng
+sĩ BỐ-SÁ-BÀ-LÂU (Poṭṭhapāda) đang ở tại giảng đường tranh luận Tinduka, khu vườn
+một mái của bà Ma-li-ca (Mallikā), cùng với đông đảo hội chúng du sĩ, khoảng
 ba trăm vị. Sáng sớm hôm ấy, Thế Tôn đắp y, mang bát, vào thành
-Sāvatthī khất thực.
+Xá-vệ (Sāvatthī) khất thực.
 
 #super[2] Thế Tôn nghĩ: "Còn quá sớm để vào thành Sāvatthī khất
 thực; vậy Ta nên đến giảng đường tranh luận Tinduka, khu vườn một
-mái của bà Mallikā, đến chỗ du sĩ Poṭṭhapāda." Rồi Thế Tôn đến
+mái của bà Mallikā, đến chỗ du sĩ BỐ-SÁ-BÀ-LÂU (Poṭṭhapāda)." Rồi Thế Tôn đến
 giảng đường ấy.
 
 #super[3] Lúc bấy giờ, du sĩ Poṭṭhapāda đang ngồi giữa đông đảo
@@ -2497,7 +2497,7 @@ giới và biển cả, chuyện có không vẩn vơ chẳng đâu vào đâu.
 
 #super[4] Du sĩ Poṭṭhapāda thấy Thế Tôn từ xa đi đến, liền ra hiệu
 cho hội chúng của mình im lặng: "Xin quý vị hãy nhỏ tiếng, đừng
-gây ồn ào. Sa-môn Gotama đang đến. Tôn giả ấy ưa thích sự yên
+gây ồn ào. Sa-môn Cù-đàm (Gotama) đang đến. Tôn giả ấy ưa thích sự yên
 tĩnh, thường tán thán sự yên tĩnh. Có lẽ nếu thấy hội chúng ta
 yên tĩnh, Ngài sẽ nghĩ đến việc ghé qua." Nghe vậy, các du sĩ
 liền im lặng.
@@ -2671,7 +2671,7 @@ tùy nghi." Rồi Thế Tôn đứng dậy ra về.
 
 #super[16] Thế Tôn vừa đi khỏi không lâu, các du sĩ kia vây quanh
 chế giễu Poṭṭhapāda: "Ông Poṭṭhapāda này thật lạ — hễ Sa-môn
-Gotama nói gì ông cũng tán đồng: 'Đúng vậy, bạch Thế Tôn! Đúng
+Cù-đàm (Gotama) nói gì ông cũng tán đồng: 'Đúng vậy, bạch Thế Tôn! Đúng
 vậy, thưa Thiện Thệ!' Còn chúng tôi thì chẳng hiểu Sa-môn Gotama
 đã thuyết giảng dứt khoát điều gì — thế giới thường hằng hay
 không, có biên giới hay không, mạng sống và thân xác là một hay
@@ -2687,7 +2687,7 @@ thán lời khéo nói ấy?"
 
 #strong[Chuyện Citta Hatthisāriputta Và Poṭṭhapāda]
 
-#super[17] Hai, ba ngày sau, Citta Hatthisāriputta và du sĩ
+#super[17] Hai, ba ngày sau, Citta Hat-hi-sa-li-bu-đa (Hatthisāriputta) và du sĩ
 Poṭṭhapāda cùng đến chỗ Thế Tôn. Citta Hatthisāriputta đảnh lễ
 Thế Tôn rồi ngồi xuống một bên; du sĩ Poṭṭhapāda chào hỏi thân
 hữu xã giao với Thế Tôn rồi cũng ngồi xuống một bên. Ngồi đó, du
@@ -2832,15 +2832,15 @@ như đã nói ở trên.
 
 === 10. KINH SUBHA (Subhasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Tôn giả Ānanda trú tại Sāvatthī, trong Kỳ Viên, tu viện của trưởng giả Cấp Cô Độc — không lâu sau khi Thế Tôn nhập Niết-bàn. Lúc bấy giờ, thanh niên Subha, con trai Todeyya, đang tạm trú tại Sāvatthī vì có việc riêng.
+#super[1] Tôi nghe như vầy. Một thời, Tôn giả A-nan (Ānanda) trú tại Xá-vệ (Sāvatthī), trong Kỳ Viên, tu viện của trưởng giả Cấp Cô Độc — không lâu sau khi Thế Tôn nhập Niết-bàn. Lúc bấy giờ, thanh niên TU-BÀ (Subha), con trai Đạo-đề-da (Todeyya), đang tạm trú tại Xá-vệ (Sāvatthī) vì có việc riêng.
 
-#super[2] Thanh niên Subha bảo một thanh niên khác: "Này bạn, hãy đến chỗ Sa-môn Ānanda, nhân danh ta hỏi thăm sức khỏe của ngài — xem ngài có ít bệnh, ít khổ, khỏe mạnh, có sức lực, sống an ổn không. Nói rằng: Thanh niên Subha, con trai Todeyya, xin hỏi thăm sức khỏe Tôn giả Ānanda. Rồi thưa thêm: Lành thay nếu Tôn giả Ānanda, vì lòng thương xót, đến thăm nhà thanh niên Subha, con trai Todeyya."
+#super[2] Thanh niên TU-BÀ (Subha) bảo một thanh niên khác: "Này bạn, hãy đến chỗ Sa-môn A-nan (Ānanda), nhân danh ta hỏi thăm sức khỏe của ngài — xem ngài có ít bệnh, ít khổ, khỏe mạnh, có sức lực, sống an ổn không. Nói rằng: Thanh niên Subha, con trai Đạo-đề-da (Todeyya), xin hỏi thăm sức khỏe Tôn giả Ānanda. Rồi thưa thêm: Lành thay nếu Tôn giả Ānanda, vì lòng thương xót, đến thăm nhà thanh niên Subha, con trai Todeyya."
 
 #super[3] "Xin vâng, thưa ngài" — thanh niên ấy vâng lời Subha, đến chỗ Tôn giả Ānanda, trao đổi lời thăm hỏi xã giao với Tôn giả, rồi ngồi xuống một bên và thưa lại đúng như lời nhắn.
 
 #super[4] Tôn giả Ānanda đáp: "Này bạn, bây giờ không phải lúc thuận tiện — hôm nay ta vừa uống thuốc. Có lẽ ngày mai, khi có dịp thuận tiện, ta sẽ đến." — "Xin vâng, thưa ngài" — thanh niên ấy vâng lời, đứng dậy, đến chỗ thanh niên Subha và thưa lại: "Chúng con đã nhân danh ngài thưa với Sa-môn Ānanda như vậy. Sa-môn Ānanda đáp: Này bạn, bây giờ không phải lúc thuận tiện — hôm nay ta vừa uống thuốc. Có lẽ ngày mai ta sẽ đến. Như vậy, thưa ngài, Sa-môn Ānanda đã nhận lời đến thăm vào ngày mai."
 
-#super[5] Sáng hôm sau, Tôn giả Ānanda đắp y, mang bát, cùng Tỷ-kheo Cetaka làm thị giả, đến nhà thanh niên Subha, con trai Todeyya, rồi ngồi xuống chỗ đã dọn sẵn. Thanh niên Subha đến chỗ Tôn giả Ānanda, trao đổi lời thăm hỏi xã giao, rồi ngồi xuống một bên và thưa: "Bạch Tôn giả Ānanda, ngài đã hầu cận Tôn giả Gotama trong thời gian dài, gần gũi, thân cận Ngài. Chắc hẳn Tôn giả biết rõ những pháp nào mà Tôn giả Gotama thường ca ngợi, khuyến khích, hướng dẫn mọi người an trú vào. Vậy Tôn giả Gotama đã ca ngợi những pháp nào, đã khuyến khích mọi người an trú vào những pháp nào?"
+#super[5] Sáng hôm sau, Tôn giả Ānanda đắp y, mang bát, cùng Tỷ-kheo Cetaka làm thị giả, đến nhà thanh niên Subha, con trai Todeyya, rồi ngồi xuống chỗ đã dọn sẵn. Thanh niên Subha đến chỗ Tôn giả Ānanda, trao đổi lời thăm hỏi xã giao, rồi ngồi xuống một bên và thưa: "Bạch Tôn giả Ānanda, ngài đã hầu cận Tôn giả Cù-đàm (Gotama) trong thời gian dài, gần gũi, thân cận Ngài. Chắc hẳn Tôn giả biết rõ những pháp nào mà Tôn giả Cù-đàm (Gotama) thường ca ngợi, khuyến khích, hướng dẫn mọi người an trú vào. Vậy Tôn giả Gotama đã ca ngợi những pháp nào, đã khuyến khích mọi người an trú vào những pháp nào?"
 
 #super[6] "Này thanh niên, Thế Tôn thường ca ngợi ba nhóm pháp, khuyến khích mọi người an trú vào ba nhóm pháp ấy. Ba nhóm nào? Giới uẩn cao quý, Định uẩn cao quý và Tuệ uẩn cao quý. Này thanh niên, Thế Tôn thường ca ngợi ba nhóm pháp này, khuyến khích mọi người an trú vào chúng."
 
@@ -2915,7 +2915,7 @@ như đã nói ở trên.
 
 === 11. KINH KEVAṬṬA (Kevaṭṭasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Nāḷandā, trong vườn xoài Pāvārika. Bấy giờ, gia chủ tử Kevaṭṭa đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống một bên. Ngồi một bên, gia chủ tử Kevaṭṭa thưa Thế Tôn: "Bạch Thế Tôn, thành Nāḷandā này giàu mạnh, phồn vinh, đông dân cư, và mọi người đều có lòng tịnh tín nơi Thế Tôn. Lành thay, xin Thế Tôn hãy chỉ định một vị Tỷ-kheo nào đó thị hiện thần thông, vượt trên khả năng người thường — như vậy dân thành Nāḷandā sẽ càng thêm tịnh tín nơi Thế Tôn hơn nữa." Nghe vậy, Thế Tôn bảo gia chủ tử Kevaṭṭa: "Này Kevaṭṭa, Ta không dạy các Tỷ-kheo theo cách: Này các thầy, hãy thị hiện thần thông, vượt trên khả năng người thường, cho các cư sĩ áo trắng xem."
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Na-lan-đà (Nāḷandā), trong vườn xoài Ba-ba-li-ca (Pāvārika). Bấy giờ, gia chủ tử Kê-vát-đạt (Kevaṭṭa) đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống một bên. Ngồi một bên, gia chủ tử Kê-vát-đạt (Kevaṭṭa) thưa Thế Tôn: "Bạch Thế Tôn, thành Na-lan-đà (Nāḷandā) này giàu mạnh, phồn vinh, đông dân cư, và mọi người đều có lòng tịnh tín nơi Thế Tôn. Lành thay, xin Thế Tôn hãy chỉ định một vị Tỷ-kheo nào đó thị hiện thần thông, vượt trên khả năng người thường — như vậy dân thành Nāḷandā sẽ càng thêm tịnh tín nơi Thế Tôn hơn nữa." Nghe vậy, Thế Tôn bảo gia chủ tử Kevaṭṭa: "Này Kevaṭṭa, Ta không dạy các Tỷ-kheo theo cách: Này các thầy, hãy thị hiện thần thông, vượt trên khả năng người thường, cho các cư sĩ áo trắng xem."
 
 #super[2] Lần thứ hai, gia chủ tử Kevaṭṭa lại thưa Thế Tôn: "Bạch Thế Tôn, con không có ý ép buộc Thế Tôn; nhưng con chỉ muốn thưa: Thành Nāḷandā này giàu mạnh, phồn vinh... Lành thay, xin Thế Tôn hãy chỉ định một vị Tỷ-kheo nào đó thị hiện thần thông..." Lần thứ hai, Thế Tôn cũng đáp như trước. Lần thứ ba, gia chủ tử Kevaṭṭa lại thưa y như vậy.
 
@@ -2941,9 +2941,9 @@ như đã nói ở trên.
 
 #super[9] "Vị Tỷ-kheo ấy liền đến chỗ bốn vị Đại Thiên Vương, hỏi như trên. Bốn vị Đại Thiên Vương đáp: Này Tỷ-kheo, chúng tôi cũng không biết. Nhưng có chư Thiên cõi Tam Thập Tam Thiên cao hơn, thù thắng hơn chúng tôi; các vị ấy có thể biết được.
 
-#super[10] "Vị Tỷ-kheo ấy liền đến cõi Tam Thập Tam Thiên, hỏi như trên. Chư Thiên ấy đáp: Này Tỷ-kheo, chúng tôi cũng không biết. Nhưng có vua trời Sakka, vua của cõi Tam Thập Tam Thiên, cao hơn, thù thắng hơn chúng tôi; ngài có thể biết được.
+#super[10] "Vị Tỷ-kheo ấy liền đến cõi Tam Thập Tam Thiên, hỏi như trên. Chư Thiên ấy đáp: Này Tỷ-kheo, chúng tôi cũng không biết. Nhưng có vua trời Thích-ca (Sakka), vua của cõi Tam Thập Tam Thiên, cao hơn, thù thắng hơn chúng tôi; ngài có thể biết được.
 
-#super[11] "Vị Tỷ-kheo ấy liền đến chỗ vua trời Sakka, hỏi như trên. Vua trời Sakka đáp: Này Tỷ-kheo, ta cũng không biết. Nhưng có chư Thiên cõi Dạ-ma cùng thiên tử Suyāma, chư Thiên cõi Đâu-suất cùng thiên tử Santussita, chư Thiên cõi Hóa Lạc cùng thiên tử Sunimmita, chư Thiên cõi Tha Hóa Tự Tại cùng thiên tử Vasavattī — cao hơn, thù thắng hơn ta; các vị ấy có thể biết được.
+#super[11] "Vị Tỷ-kheo ấy liền đến chỗ vua trời Thích-ca (Sakka), hỏi như trên. Vua trời Sakka đáp: Này Tỷ-kheo, ta cũng không biết. Nhưng có chư Thiên cõi Dạ-ma cùng thiên tử Suyāma, chư Thiên cõi Đâu-suất cùng thiên tử Santussita, chư Thiên cõi Hóa Lạc cùng thiên tử Sunimmita, chư Thiên cõi Tha Hóa Tự Tại cùng thiên tử Vasavattī — cao hơn, thù thắng hơn ta; các vị ấy có thể biết được.
 
 #super[12] "Vị Tỷ-kheo ấy liền đến chỗ thiên tử Vasavattī, hỏi như trên. Thiên tử Vasavattī đáp: Này Tỷ-kheo, ta cũng không biết. Nhưng có chư Thiên cõi Phạm chúng thiên, cao hơn, thù thắng hơn ta; các vị ấy có thể biết được.
 
@@ -2969,10 +2969,10 @@ như đã nói ở trên.
 
 === 12. KINH LOHICCA (Lohiccasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn đang du hành trong xứ Kosala, cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị, đi đến làng Sālavatikā. Lúc bấy giờ, Bà-la-môn Lohicca đang sống tại Sālavatikā — một nơi dân cư đông đúc, cỏ cây, nước non, ngũ cốc đầy đủ, do vua Pasenadi nước Kosala ban cho làm thái ấp, được vua ban tặng trọn quyền như đất phong của Phạm thiên.
-#super[2] Lúc bấy giờ, Bà-la-môn Lohicca khởi lên một tà kiến xấu ác. Ông nghĩ: "Nếu có Sa-môn hay Bà-la-môn nào chứng đắc được thiện pháp, thì sau khi chứng đắc, vị ấy không nên nói lại cho người khác biết. Vì người này làm sao có thể làm được gì cho người kia? Cũng giống như cắt đứt gông cùm cũ rồi lại tự đeo vào một gông cùm mới — ta gọi đó là một hành vi tham lam xấu ác. Người này làm sao có thể làm được gì cho người kia?"
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn đang du hành trong xứ Câu-tát-la (Kosala), cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị, đi đến làng Sālavatikā. Lúc bấy giờ, Bà-la-môn LÔ-HI-GIA (Lohicca) đang sống tại Sālavatikā — một nơi dân cư đông đúc, cỏ cây, nước non, ngũ cốc đầy đủ, do vua Ba-tư-nặc (Pasenadi) nước Câu-tát-la (Kosala) ban cho làm thái ấp, được vua ban tặng trọn quyền như đất phong của Phạm thiên.
+#super[2] Lúc bấy giờ, Bà-la-môn LÔ-HI-GIA (Lohicca) khởi lên một tà kiến xấu ác. Ông nghĩ: "Nếu có Sa-môn hay Bà-la-môn nào chứng đắc được thiện pháp, thì sau khi chứng đắc, vị ấy không nên nói lại cho người khác biết. Vì người này làm sao có thể làm được gì cho người kia? Cũng giống như cắt đứt gông cùm cũ rồi lại tự đeo vào một gông cùm mới — ta gọi đó là một hành vi tham lam xấu ác. Người này làm sao có thể làm được gì cho người kia?"
 
-#super[3] Bà-la-môn Lohicca nghe tin: "Sa-môn Gotama... đã đến Sālavatikā. Tiếng đồn tốt đẹp về Tôn giả Gotama ấy đã vang khắp nơi... Được yết kiến một bậc A-la-hán như vậy quả thật là điều tốt lành."
+#super[3] Bà-la-môn Lohicca nghe tin: "Sa-môn Cù-đàm (Gotama)... đã đến Sālavatikā. Tiếng đồn tốt đẹp về Tôn giả Cù-đàm (Gotama) ấy đã vang khắp nơi... Được yết kiến một bậc A-la-hán như vậy quả thật là điều tốt lành."
 
 #super[4] Bà-la-môn Lohicca liền gọi người thợ cạo tên Rosika lại, bảo: "Này bạn Rosika, bạn hãy đến chỗ Sa-môn Gotama. Nhân danh ta, hãy hỏi thăm xem Sa-môn Gotama có ít bệnh, ít khổ, khỏe mạnh, có sức lực, sống an ổn không. Bạn nói rằng: Bà-la-môn Lohicca xin hỏi thăm sức khỏe Tôn giả Gotama. Rồi bạn thưa thêm: Xin Tôn giả Gotama nhận lời mời thọ trai của Bà-la-môn Lohicca vào ngày mai, cùng với chúng Tỷ-kheo."
 
@@ -2988,7 +2988,7 @@ như đã nói ở trên.
 
 #super[9] Sau khi Thế Tôn thọ trai xong, rửa tay, cất bát, Bà-la-môn Lohicca lấy một chỗ ngồi thấp, ngồi xuống một bên. Thế Tôn hỏi Bà-la-môn Lohicca đang ngồi một bên: "Này Lohicca, có thật ông có tà kiến như vầy không: Nếu có Sa-môn hay Bà-la-môn nào chứng đắc được thiện pháp, thì không nên nói lại cho người khác biết... Người này làm sao có thể làm được gì cho người kia?" — "Đúng vậy, thưa hiền giả Gotama." — "Này Lohicca, ông nghĩ sao — có phải ông đang sống tại Sālavatikā hay không?" — "Đúng vậy, thưa hiền giả Gotama." — "Này Lohicca, nếu có ai nói rằng: Bà-la-môn Lohicca sống tại Sālavatikā; mọi hoa lợi thu được từ Sālavatikā, chỉ riêng Bà-la-môn Lohicca một mình hưởng dùng, không chia sẻ cho ai khác — thì người nói như vậy có gây trở ngại cho những người đang sống nhờ vào ông hay không?" — "Có gây trở ngại, thưa hiền giả Gotama." — "Khi gây trở ngại như vậy, người ấy có lòng thương xót lợi ích cho họ, hay có lòng mong hại họ?" — "Có lòng mong hại, thưa hiền giả Gotama." — "Khi có lòng mong hại như vậy, tâm người ấy đối với họ là tâm từ, hay tâm thù nghịch?" — "Tâm thù nghịch, thưa hiền giả Gotama." — "Khi tâm thù nghịch hiện diện như vậy, đó là tà kiến hay chánh kiến?" — "Tà kiến, thưa hiền giả Gotama." — "Này Lohicca, đối với người có tà kiến, Ta nói chỉ có một trong hai sinh thú: hoặc địa ngục, hoặc súc sinh."
 
-#super[10] "Này Lohicca, ông nghĩ sao — có phải vua Pasenadi nước Kosala đang cai trị cả hai xứ Kāsi và Kosala hay không?" — "Đúng vậy, thưa hiền giả Gotama." — "Này Lohicca, nếu có ai nói rằng: Vua Pasenadi nước Kosala cai trị cả hai xứ Kāsi và Kosala; mọi hoa lợi thu được từ hai xứ ấy, chỉ riêng vua Pasenadi một mình hưởng dùng, không chia sẻ cho ai khác — thì người nói như vậy có gây trở ngại cho những người đang sống nhờ vào vua Pasenadi, kể cả ông và những người khác, hay không?" — "Có gây trở ngại." — "Khi gây trở ngại như vậy, người ấy có lòng thương xót lợi ích, hay có lòng mong hại?" — "Có lòng mong hại." — "Tâm người ấy là tâm từ hay tâm thù nghịch?" — "Tâm thù nghịch." — "Đó là tà kiến hay chánh kiến?" — "Tà kiến, thưa hiền giả Gotama." — "Này Lohicca, đối với người có tà kiến, Ta nói chỉ có một trong hai sinh thú: hoặc địa ngục, hoặc súc sinh."
+#super[10] "Này Lohicca, ông nghĩ sao — có phải vua Ba-tư-nặc (Pasenadi) nước Kosala đang cai trị cả hai xứ Ca-thi (Kāsi) và Kosala hay không?" — "Đúng vậy, thưa hiền giả Gotama." — "Này Lohicca, nếu có ai nói rằng: Vua Pasenadi nước Kosala cai trị cả hai xứ Ca-thi (Kāsi) và Kosala; mọi hoa lợi thu được từ hai xứ ấy, chỉ riêng vua Pasenadi một mình hưởng dùng, không chia sẻ cho ai khác — thì người nói như vậy có gây trở ngại cho những người đang sống nhờ vào vua Pasenadi, kể cả ông và những người khác, hay không?" — "Có gây trở ngại." — "Khi gây trở ngại như vậy, người ấy có lòng thương xót lợi ích, hay có lòng mong hại?" — "Có lòng mong hại." — "Tâm người ấy là tâm từ hay tâm thù nghịch?" — "Tâm thù nghịch." — "Đó là tà kiến hay chánh kiến?" — "Tà kiến, thưa hiền giả Gotama." — "Này Lohicca, đối với người có tà kiến, Ta nói chỉ có một trong hai sinh thú: hoặc địa ngục, hoặc súc sinh."
 
 #super[11] "Này Lohicca, như vậy, ai nói rằng: Bà-la-môn Lohicca sống tại Sālavatikā, mọi hoa lợi thu được từ đó chỉ riêng ông một mình hưởng dùng, không chia sẻ cho ai — người ấy gây trở ngại cho những người sống nhờ vào ông, có lòng mong hại, có tâm thù nghịch, có tà kiến. Cũng vậy, này Lohicca, ai nói rằng: Nếu có Sa-môn hay Bà-la-môn nào chứng đắc được thiện pháp, thì không nên nói lại cho người khác biết, vì người này làm sao có thể làm được gì cho người kia — người ấy đang gây trở ngại cho những thiện nam tử nương theo giáo pháp và giới luật do Như Lai tuyên thuyết mà đạt được những thành tựu cao quý, thù thắng, như chứng quả Dự Lưu, quả Nhất Lai, quả Bất Lai, quả A-la-hán, hay những ai đang tu tập để được tái sinh vào các cõi trời. Người ấy có lòng mong hại, có tâm thù nghịch, có tà kiến. Này Lohicca, đối với người có tà kiến, Ta nói chỉ có một trong hai sinh thú: hoặc địa ngục, hoặc súc sinh.
 
@@ -3012,13 +3012,13 @@ như đã nói ở trên.
 
 === 13. KINH TAM MINH (Tevijjasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn đang du hành trong xứ Kosala, cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị. Ngài đi đến một làng Bà-la-môn của xứ Kosala tên là Manasākata. Tại đó, Thế Tôn trú ở phía bắc làng Manasākata, trong rừng xoài bên bờ sông Aciravatī.
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn đang du hành trong xứ Câu-tát-la (Kosala), cùng với đại chúng Tỷ-kheo đông đảo, khoảng năm trăm vị. Ngài đi đến một làng Bà-la-môn của xứ Câu-tát-la (Kosala) tên là Ma-na-sa-ca-đa (Manasākata). Tại đó, Thế Tôn trú ở phía bắc làng Manasākata, trong rừng xoài bên bờ sông A-trí-la-phạt-để (Aciravatī).
 
-#super[2] Lúc bấy giờ, có rất nhiều vị đại Bà-la-môn danh tiếng đang cư trú tại Manasākata — như Bà-la-môn Caṅkī, Bà-la-môn Tārukkha, Bà-la-môn Pokkharasāti, Bà-la-môn Jāṇussoni, Bà-la-môn Todeyya, và nhiều vị đại Bà-la-môn danh tiếng khác.
+#super[2] Lúc bấy giờ, có rất nhiều vị đại Bà-la-môn danh tiếng đang cư trú tại Manasākata — như Bà-la-môn Thường- già (Caṅkī), Bà-la-môn Đa-lê-xa (Tārukkha), Bà-la-môn Phí-già-la-bà-la (Pokkharasāti), Bà-la-môn Sanh Lậu (Jāṇussoni), Bà-la-môn Đạo-đề-da (Todeyya), và nhiều vị đại Bà-la-môn danh tiếng khác.
 
-#super[3] Lúc bấy giờ, hai thanh niên Vāseṭṭha và Bhāradvāja đang đi bách bộ dạo chơi. Giữa họ khởi lên một cuộc bàn luận về con đường nào là đúng, con đường nào là sai. Thanh niên Vāseṭṭha nói: "Đây chính là con đường thẳng, con đường chân chính, dẫn đến giải thoát, đưa người thực hành đến cộng trú với Phạm thiên — đó là con đường do Bà-la-môn Pokkharasāti chỉ dạy." Thanh niên Bhāradvāja lại nói: "Đây chính là con đường thẳng, con đường chân chính, dẫn đến giải thoát, đưa người thực hành đến cộng trú với Phạm thiên — đó là con đường do Bà-la-môn Tārukkha chỉ dạy." Thanh niên Vāseṭṭha không thể thuyết phục được thanh niên Bhāradvāja, mà thanh niên Bhāradvāja cũng không thể thuyết phục được thanh niên Vāseṭṭha.
+#super[3] Lúc bấy giờ, hai thanh niên Bà-tất-sá (Vāseṭṭha) và Bạt-la-đà-phạn-xà (Bhāradvāja) đang đi bách bộ dạo chơi. Giữa họ khởi lên một cuộc bàn luận về con đường nào là đúng, con đường nào là sai. Thanh niên Bà-tất-sá (Vāseṭṭha) nói: "Đây chính là con đường thẳng, con đường chân chính, dẫn đến giải thoát, đưa người thực hành đến cộng trú với Phạm thiên — đó là con đường do Bà-la-môn Phí-già-la-bà-la (Pokkharasāti) chỉ dạy." Thanh niên Bạt-la-đà-phạn-xà (Bhāradvāja) lại nói: "Đây chính là con đường thẳng, con đường chân chính, dẫn đến giải thoát, đưa người thực hành đến cộng trú với Phạm thiên — đó là con đường do Bà-la-môn Đa-lê-xa (Tārukkha) chỉ dạy." Thanh niên Vāseṭṭha không thể thuyết phục được thanh niên Bhāradvāja, mà thanh niên Bhāradvāja cũng không thể thuyết phục được thanh niên Vāseṭṭha.
 
-#super[4] Rồi thanh niên Vāseṭṭha nói với thanh niên Bhāradvāja: "Này bạn Bhāradvāja, Sa-môn Gotama kia, dòng họ Sakya, xuất gia từ gia tộc Sakya, hiện đang trú tại Manasākata, phía bắc làng, trong rừng xoài bên bờ sông Aciravatī. Tiếng đồn tốt đẹp về Tôn giả Gotama ấy đã vang khắp nơi rằng: Đây là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Này bạn Bhāradvāja, chúng ta hãy đến chỗ Sa-môn Gotama, hỏi ngài về việc này. Sa-môn Gotama giải đáp thế nào, chúng ta sẽ ghi nhớ như vậy." Thanh niên Bhāradvāja đáp: "Vâng, thưa bạn" và nghe theo lời thanh niên Vāseṭṭha.
+#super[4] Rồi thanh niên Vāseṭṭha nói với thanh niên Bhāradvāja: "Này bạn Bhāradvāja, Sa-môn Cù-đàm (Gotama) kia, dòng họ Thích-ca (Sakya), xuất gia từ gia tộc Thích-ca (Sakya), hiện đang trú tại Manasākata, phía bắc làng, trong rừng xoài bên bờ sông A-trí-la-phạt-để (Aciravatī). Tiếng đồn tốt đẹp về Tôn giả Cù-đàm (Gotama) ấy đã vang khắp nơi rằng: Đây là Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Này bạn Bhāradvāja, chúng ta hãy đến chỗ Sa-môn Gotama, hỏi ngài về việc này. Sa-môn Gotama giải đáp thế nào, chúng ta sẽ ghi nhớ như vậy." Thanh niên Bhāradvāja đáp: "Vâng, thưa bạn" và nghe theo lời thanh niên Vāseṭṭha.
 
 #strong[Bàn Về Con Đường Đúng Sai]
 
@@ -3032,9 +3032,9 @@ như đã nói ở trên.
 
 #super[8] "Này Vāseṭṭha, ông nói là 'đều dẫn đến giải thoát' phải không?" — "Thưa hiền giả Gotama, con nói là 'đều dẫn đến giải thoát'." — "Này Vāseṭṭha, ông nói là 'đều dẫn đến giải thoát' phải không?" — "Thưa hiền giả Gotama, con nói là 'đều dẫn đến giải thoát'." — "Này Vāseṭṭha, ông nói là 'đều dẫn đến giải thoát' phải không?" — "Thưa hiền giả Gotama, con nói là 'đều dẫn đến giải thoát'." — "Này Vāseṭṭha, ông nghĩ sao — trong số các vị Bà-la-môn tinh thông ba tập Veda, có một vị Bà-la-môn nào đã từng tận mắt thấy Phạm thiên hay không?" — "Thưa không, hiền giả Gotama." — "Này Vāseṭṭha, vậy trong số các vị thầy của các vị Bà-la-môn tinh thông ba tập Veda, có một vị thầy nào đã từng tận mắt thấy Phạm thiên hay không?" — "Thưa không, hiền giả Gotama." — "Này Vāseṭṭha, vậy trong số các vị thầy của thầy các vị Bà-la-môn ấy, có một vị nào đã từng tận mắt thấy Phạm thiên hay không?" — "Thưa không, hiền giả Gotama." — "Này Vāseṭṭha, vậy cho đến bảy đời thầy trước của các vị Bà-la-môn tinh thông ba tập Veda, có một vị nào đã từng tận mắt thấy Phạm thiên hay không?" — "Thưa không, hiền giả Gotama."
 
-#super[9] "Này Vāseṭṭha, vậy còn các vị ẩn sĩ xưa kia của các Bà-la-môn tinh thông ba tập Veda — những vị đã soạn ra các bài chú, truyền bá các bài chú, mà ngày nay các Bà-la-môn tinh thông ba tập Veda vẫn còn tụng đọc, xướng lên, giảng lại đúng như lời cũ, đúng như âm điệu cũ đã được truyền dạy — tức là các vị Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, Bhagu — có phải chính các vị ấy cũng từng nói: 'Chúng tôi biết điều này, chúng tôi thấy điều này — Phạm thiên ở đâu, Phạm thiên hướng nào, Phạm thiên tại nơi nào' hay không?" — "Thưa không, hiền giả Gotama."
+#super[9] "Này Vāseṭṭha, vậy còn các vị ẩn sĩ xưa kia của các Bà-la-môn tinh thông ba tập Veda — những vị đã soạn ra các bài chú, truyền bá các bài chú, mà ngày nay các Bà-la-môn tinh thông ba tập Veda vẫn còn tụng đọc, xướng lên, giảng lại đúng như lời cũ, đúng như âm điệu cũ đã được truyền dạy — tức là các vị Át-tha-ca (Aṭṭhaka), Bà-ma (Vāmaka), Bà-ma -đề-bà (Vāmadeva), Tì-bà-thẩm-sá (Vessāmitta), Gia-bà -đề-bà (Yamataggi), Ương-kỳ-la (Aṅgīrasa), Bhāradvāja, Vāseṭṭha, Ca-diếp (Kassapa), Bà-cữu (Bhagu) — có phải chính các vị ấy cũng từng nói: 'Chúng tôi biết điều này, chúng tôi thấy điều này — Phạm thiên ở đâu, Phạm thiên hướng nào, Phạm thiên tại nơi nào' hay không?" — "Thưa không, hiền giả Gotama."
 
-#super[10] "Này Vāseṭṭha, như vậy, không một vị Bà-la-môn nào trong số các Bà-la-môn tinh thông ba tập Veda đã từng tận mắt thấy Phạm thiên. Không một vị thầy nào của họ đã từng tận mắt thấy Phạm thiên. Không một vị thầy của thầy nào của họ đã từng tận mắt thấy Phạm thiên. Cho đến bảy đời thầy trước, cũng không một vị nào đã từng tận mắt thấy Phạm thiên. Ngay cả các vị ẩn sĩ xưa kia đã soạn ra và truyền bá các bài chú ấy — tức Aṭṭhaka, Vāmaka, Vāmadeva, Vessāmitta, Yamataggi, Aṅgīrasa, Bhāradvāja, Vāseṭṭha, Kassapa, Bhagu — cũng chưa từng nói rằng mình biết, mình thấy Phạm thiên ở đâu, hướng nào, tại nơi nào. Vậy mà chính các Bà-la-môn tinh thông ba tập Veda ấy lại nói: 'Chúng tôi giảng dạy con đường đưa đến cộng trú với cái mà chúng tôi không biết, không thấy. Đây chính là con đường thẳng, con đường chân chính, dẫn đến giải thoát, đưa người thực hành đến cộng trú với Phạm thiên.'"
+#super[10] "Này Vāseṭṭha, như vậy, không một vị Bà-la-môn nào trong số các Bà-la-môn tinh thông ba tập Veda đã từng tận mắt thấy Phạm thiên. Không một vị thầy nào của họ đã từng tận mắt thấy Phạm thiên. Không một vị thầy của thầy nào của họ đã từng tận mắt thấy Phạm thiên. Cho đến bảy đời thầy trước, cũng không một vị nào đã từng tận mắt thấy Phạm thiên. Ngay cả các vị ẩn sĩ xưa kia đã soạn ra và truyền bá các bài chú ấy — tức Át-tha-ca (Aṭṭhaka), Bà-ma (Vāmaka), Bà-ma -đề-bà (Vāmadeva), Tì-bà-thẩm-sá (Vessāmitta), Gia-bà -đề-bà (Yamataggi), Ương-kỳ-la (Aṅgīrasa), Bhāradvāja, Vāseṭṭha, Ca-diếp (Kassapa), Bà-cữu (Bhagu) — cũng chưa từng nói rằng mình biết, mình thấy Phạm thiên ở đâu, hướng nào, tại nơi nào. Vậy mà chính các Bà-la-môn tinh thông ba tập Veda ấy lại nói: 'Chúng tôi giảng dạy con đường đưa đến cộng trú với cái mà chúng tôi không biết, không thấy. Đây chính là con đường thẳng, con đường chân chính, dẫn đến giải thoát, đưa người thực hành đến cộng trú với Phạm thiên.'"
 #super[11] "Này Vāseṭṭha, ông nghĩ sao — như thế thì lời của các Bà-la-môn tinh thông ba tập Veda có phải là lời không căn cứ, không thể chứng minh không?" — "Thưa hiền giả Gotama, đúng vậy. Lời của các Bà-la-môn tinh thông ba tập Veda là lời không căn cứ, không thể chứng minh." — "Lành thay, Vāseṭṭha! Đúng thật, này Vāseṭṭha, các Bà-la-môn tinh thông ba tập Veda ấy dạy con đường đưa đến cộng trú với cái mà chính họ không biết, không thấy. Họ bảo: 'Đây là con đường thẳng, con đường chân chính, dẫn đến giải thoát, đưa người thực hành đến cộng trú với Phạm thiên.' Chuyện ấy không thể có.
 
 #super[12] "Này Vāseṭṭha, hãy tưởng tượng một hàng người mù nối đuôi nhau. Người đầu hàng không thấy, người giữa hàng cũng không thấy, người cuối hàng cũng không thấy. Lời của các Bà-la-môn tinh thông ba tập Veda, Ta thấy, cũng giống hệt hàng người mù ấy — người trước không thấy, người giữa không thấy, người sau cùng không thấy. Như thế, lời của các Bà-la-môn tinh thông ba tập Veda chỉ là lời đáng cười, chỉ là những cái tên suông, lời trống rỗng, lời vô ích.
@@ -3073,7 +3073,7 @@ như đã nói ở trên.
 
 #super[26] "Này Vāseṭṭha, ông nghĩ sao — nhờ lời gọi, lời khẩn cầu, lời mong ước, lời tán thán của người ấy, bờ bên kia của sông Aciravatī có thể vì thế mà qua bờ bên này không?" — "Thưa không, hiền giả Gotama."
 
-#super[27] "Cũng vậy, này Vāseṭṭha, các Bà-la-môn tinh thông ba tập Veda từ bỏ những pháp tạo nên phẩm chất của một Bà-la-môn chân chính, mà chấp nhận những pháp không tạo nên phẩm chất ấy, rồi nói: 'Chúng tôi kêu gọi thần Indra, chúng tôi kêu gọi thần Soma, chúng tôi kêu gọi thần Varuṇa, chúng tôi kêu gọi thần Īsāna, chúng tôi kêu gọi thần Pajāpati, chúng tôi kêu gọi Phạm thiên, chúng tôi kêu gọi thần Mahiddhi, chúng tôi kêu gọi thần Yama.' Này Vāseṭṭha, đúng thật, các Bà-la-môn tinh thông ba tập Veda ấy đã từ bỏ những pháp tạo nên phẩm chất Bà-la-môn, chấp nhận những pháp không tạo nên phẩm chất ấy — thì dù có kêu gọi, khẩn cầu, mong ước, tán thán đến đâu, sau khi thân hoại mạng chung họ sẽ được sinh cộng trú với Phạm thiên — chuyện ấy không thể có.
+#super[27] "Cũng vậy, này Vāseṭṭha, các Bà-la-môn tinh thông ba tập Veda từ bỏ những pháp tạo nên phẩm chất của một Bà-la-môn chân chính, mà chấp nhận những pháp không tạo nên phẩm chất ấy, rồi nói: 'Chúng tôi kêu gọi thần Nhân-đà-la (Indra), chúng tôi kêu gọi thần Tô-ma (Soma), chúng tôi kêu gọi thần Ba-lâu-na (Varuṇa), chúng tôi kêu gọi thần Y-sa-na (Īsāna), chúng tôi kêu gọi thần Ba-xà-ba-đề (Pajāpati), chúng tôi kêu gọi Phạm thiên, chúng tôi kêu gọi thần Ma-hi-đề (Mahiddhi), chúng tôi kêu gọi thần Dạ-ma (Yama).' Này Vāseṭṭha, đúng thật, các Bà-la-môn tinh thông ba tập Veda ấy đã từ bỏ những pháp tạo nên phẩm chất Bà-la-môn, chấp nhận những pháp không tạo nên phẩm chất ấy — thì dù có kêu gọi, khẩn cầu, mong ước, tán thán đến đâu, sau khi thân hoại mạng chung họ sẽ được sinh cộng trú với Phạm thiên — chuyện ấy không thể có.
 
 #super[28] "Này Vāseṭṭha, lại xem dòng sông Aciravatī này — nước đầy ngang bờ, quạ cúi xuống cũng uống được. Có một người đi đến, muốn qua bờ bên kia... nhưng người ấy bị trói chặt hai tay ra sau lưng bằng một sợi dây bền chắc, đang đứng trên bờ bên này. Này Vāseṭṭha, ông nghĩ sao — người ấy có thể từ bờ bên này của sông Aciravatī mà qua được bờ bên kia không?" — "Thưa không, hiền giả Gotama."
 

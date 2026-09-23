@@ -22,7 +22,7 @@ import { ReaderToc } from "../components/toc";
 import { TopBar } from "../components/top-bar";
 
 const EDITIONS = [
-  ["new", "Bản dịch độc lập"],
+  ["new", "Bản dịch AI"],
   ["vn", "Bản dịch sưu tầm"],
   ["pali", "Tiếng Pali gốc"],
   ["note", "Giải nghĩa"],

@@ -27,7 +27,7 @@ _Trạng thái: đã dịch 33/33 vagga; đã trọn tập; đã viết lại th
 ==== Kinh 22.1. Nakulapitā (Nakulapitusuttaṃ)
 
 #super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú giữa dân chúng Bhagga, tại
-núi Susumāragira, trong rừng Bhesakaḷā, chỗ vườn Nai. Gia chủ Nakulapitā
+núi Su-su-ma-la-gi-la (Susumāragira), trong rừng Bê-sa-ca-la (Bhesakaḷā), chỗ vườn Nai. Gia chủ Na-cu-la-bi-đa (Nakulapitā)
 đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Ông thưa: "Bạch Thế
 Tôn, con đã già, tuổi cao, niên kỷ đã lớn, đã đi đến cuối đường đời,
 tuổi thọ gần hết, thân thể luôn ốm đau bệnh hoạn. Con không thường được
@@ -42,7 +42,7 @@ ta sẽ không bệnh.' Ông cần học tập như vậy."
 
 Gia chủ Nakulapitā hoan hỷ tín thọ lời Thế Tôn, từ chỗ ngồi đứng dậy,
 đảnh lễ, đi vòng quanh theo phía bên phải, rồi đến chỗ Tôn giả
-Sāriputta, đảnh lễ, ngồi sang một bên. Tôn giả Sāriputta hỏi: "Này gia
+Xá-lợi-phất (Sāriputta), đảnh lễ, ngồi sang một bên. Tôn giả Xá-lợi-phất (Sāriputta) hỏi: "Này gia
 chủ, các căn của ông thật thanh tịnh, sáng suốt, sắc mặt trong sáng,
 rạng rỡ. Hôm nay ông có được nghe pháp thoại trước Thế Tôn không?"
 
@@ -142,13 +142,13 @@ Tôn giả Sāriputta.
 
 ==== Kinh 22.2. Devadaha (Devadahasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú giữa dân chúng Sakya,
-tại một thị trấn của người Sakya tên là Devadaha. Bấy giờ, nhiều
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú giữa dân chúng Thích-ca (Sakya),
+tại một thị trấn của người Thích-ca (Sakya) tên là Devadaha. Bấy giờ, nhiều
 Tỷ-kheo sắp đi về miền Tây, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một
 bên. Các Tỷ-kheo ấy thưa: "Bạch Thế Tôn, chúng con muốn đi đến miền
 Tây, trú tại các quốc độ miền Tây." "Này các thầy, các thầy đã thưa với
-Sāriputta chưa?" "Bạch Thế Tôn, chúng con chưa thưa với Tôn giả
-Sāriputta." "Này các thầy, hãy thưa với Sāriputta. Sāriputta là người
+Xá-lợi-phất (Sāriputta) chưa?" "Bạch Thế Tôn, chúng con chưa thưa với Tôn giả
+Xá-lợi-phất (Sāriputta)." "Này các thầy, hãy thưa với Sāriputta. Sāriputta là người
 hiền trí, thường tế độ các Tỷ-kheo đồng tu." "Xin vâng, bạch Thế Tôn,"
 các Tỷ-kheo ấy vâng đáp Thế Tôn.
 
@@ -239,11 +239,11 @@ giả Sāriputta.
 
 ==== Kinh 22.3. Hāliddikāni Thứ Nhất (Hāliddikānisuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Tôn giả Mahākaccāna trú giữa dân
-chúng Avanti, tại Kuraraghara, trên núi Papāta. Gia chủ Hāliddikāni
-đến chỗ Tôn giả Mahākaccāna, đảnh lễ, rồi ngồi sang một bên. Ông thưa:
+#super[1] Tôi nghe như vầy. Một thời, Tôn giả Đại Ca-chiên-diên (Mahākaccāna) trú giữa dân
+chúng Ương-đế-na (Avanti), tại Kuraraghara, trên núi Papāta. Gia chủ Hāliddikāni
+đến chỗ Tôn giả Đại Ca-chiên-diên (Mahākaccāna), đảnh lễ, rồi ngồi sang một bên. Ông thưa:
 "Bạch Tôn giả, điều này đã được Thế Tôn nói trong phần Tám Kệ
-(Aṭṭhakavagga), ở câu hỏi của Māgaṇḍiya:
+(Aṭṭhakavagga), ở câu hỏi của Ma-gan-đi-da (Māgaṇḍiya):
 
 'Từ bỏ nơi trú ẩn, không nhà mà sống, \
 Ở làng không kết thân, vị ẩn sĩ; \
@@ -353,7 +353,7 @@ Này gia chủ, đó là ý nghĩa rộng rãi mà lời Thế Tôn nói vắn t
 cần được hiểu."
 ==== Kinh 22.4. Hāliddikāni Thứ Hai (Dutiyahāliddikānisuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Tôn giả Mahākaccāna trú giữa dân chúng Avanti, tại Kuraraghara, trên núi Papāta. Gia chủ Hāliddikāni đến chỗ Tôn giả Mahākaccāna, đảnh lễ rồi ngồi sang một bên. Ông thưa: "Bạch Tôn giả, trong Kinh Đế Thích Hỏi, Thế Tôn đã nói rằng: 'Những Sa-môn, Bà-la-môn nào đã giải thoát nhờ đoạn tận ái, những vị ấy đã đạt đến chỗ cùng tận tuyệt đối, đã đạt đến sự an toàn tuyệt đối khỏi các ràng buộc, đã sống đời Phạm hạnh tuyệt đối, đã đạt đến sự hoàn tất tuyệt đối, là tối thượng giữa chư thiên và loài người.' Bạch Tôn giả, lời Thế Tôn nói vắn tắt như vậy, làm sao có thể hiểu được ý nghĩa một cách rộng rãi?"
+#super[1] Tôi nghe như vầy. Một thời, Tôn giả Đại Ca-chiên-diên (Mahākaccāna) trú giữa dân chúng Ương-đế-na (Avanti), tại Kuraraghara, trên núi Papāta. Gia chủ Hāliddikāni đến chỗ Tôn giả Đại Ca-chiên-diên (Mahākaccāna), đảnh lễ rồi ngồi sang một bên. Ông thưa: "Bạch Tôn giả, trong Kinh Đế Thích Hỏi, Thế Tôn đã nói rằng: 'Những Sa-môn, Bà-la-môn nào đã giải thoát nhờ đoạn tận ái, những vị ấy đã đạt đến chỗ cùng tận tuyệt đối, đã đạt đến sự an toàn tuyệt đối khỏi các ràng buộc, đã sống đời Phạm hạnh tuyệt đối, đã đạt đến sự hoàn tất tuyệt đối, là tối thượng giữa chư thiên và loài người.' Bạch Tôn giả, lời Thế Tôn nói vắn tắt như vậy, làm sao có thể hiểu được ý nghĩa một cách rộng rãi?"
 
 "Này gia chủ, đối với giới sắc, phàm có ước muốn nào, tham nào, hân hoan nào, ái nào, có những chấp thủ, thủ trước, tùy miên nào của tâm — do đoạn tận, ly tham, đoạn diệt, từ bỏ, buông xả những điều ấy, tâm được gọi là khéo giải thoát. Này gia chủ, đối với giới thọ cũng vậy… đối với giới tưởng cũng vậy… đối với giới hành cũng vậy… đối với giới thức, phàm có ước muốn nào, tham nào, hân hoan nào, ái nào, có những chấp thủ, thủ trước, tùy miên nào của tâm — do đoạn tận, ly tham, đoạn diệt, từ bỏ, buông xả những điều ấy, tâm được gọi là khéo giải thoát.
 
@@ -361,7 +361,7 @@ Này gia chủ, đó chính là điều Thế Tôn đã nói trong Kinh Đế Th
 
 ==== Kinh 22.5. Định (Samādhisuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, trong rừng Kỳ-đà, tại tinh xá của ông Cấp Cô Độc. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch Thế Tôn!" Thế Tôn nói:
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), trong rừng Kỳ-đà, tại tinh xá của ông Cấp Cô Độc. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch Thế Tôn!" Thế Tôn nói:
 
 "Này các thầy, hãy tu tập định. Này các thầy, vị Tỷ-kheo có định thì biết rõ như thật. Và biết rõ những gì như thật? Biết rõ sự tập khởi và sự đoạn diệt của sắc, sự tập khởi và sự đoạn diệt của thọ, sự tập khởi và sự đoạn diệt của tưởng, sự tập khởi và sự đoạn diệt của các hành, sự tập khởi và sự đoạn diệt của thức.
 
@@ -383,7 +383,7 @@ Này các thầy, đây là sự đoạn diệt của sắc, đây là sự đo�
 
 ==== Kinh 22.6. Tĩnh Cư (Paṭisallāṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, hãy chuyên tâm tu tập tĩnh cư. Này các thầy, vị Tỷ-kheo tĩnh cư thì biết rõ như thật. Và biết rõ những gì như thật? Biết rõ sự tập khởi và sự đoạn diệt của sắc, sự tập khởi và sự đoạn diệt của thọ, sự tập khởi và sự đoạn diệt của tưởng, sự tập khởi và sự đoạn diệt của các hành, sự tập khởi và sự đoạn diệt của thức.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, hãy chuyên tâm tu tập tĩnh cư. Này các thầy, vị Tỷ-kheo tĩnh cư thì biết rõ như thật. Và biết rõ những gì như thật? Biết rõ sự tập khởi và sự đoạn diệt của sắc, sự tập khởi và sự đoạn diệt của thọ, sự tập khởi và sự đoạn diệt của tưởng, sự tập khởi và sự đoạn diệt của các hành, sự tập khởi và sự đoạn diệt của thức.
 
 Và này các thầy, thế nào là sự tập khởi của sắc, của thọ, của tưởng, của các hành, của thức? Ở đây, này các thầy, vị Tỷ-kheo hoan hỷ, tán thán, đắm nhiễm sắc mà an trú. Do hoan hỷ, tán thán, đắm nhiễm sắc mà an trú, hân hoan sanh lên. Sự hân hoan đối với sắc ấy chính là thủ. Do thủ làm duyên nên có hữu; do hữu làm duyên nên có sanh; do sanh làm duyên… như vậy là sự tập khởi của toàn bộ khổ uẩn này. Đối với thọ, đối với tưởng, đối với các hành, đối với thức cũng như vậy. Này các thầy, đây là sự tập khởi của sắc, của thọ, của tưởng, của các hành, của thức.
 
@@ -391,7 +391,7 @@ Và này các thầy, thế nào là sự đoạn diệt của sắc, của th�
 
 ==== Kinh 22.7. Lo Sợ Do Chấp Thủ Thứ Nhất (Upādāparitassanāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy về sự lo sợ do chấp thủ và sự không lo sợ do không chấp thủ. Hãy lắng nghe và khéo tác ý, Ta sẽ nói." "Xin vâng, bạch Thế Tôn," các Tỷ-kheo vâng đáp. Thế Tôn nói:
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy về sự lo sợ do chấp thủ và sự không lo sợ do không chấp thủ. Hãy lắng nghe và khéo tác ý, Ta sẽ nói." "Xin vâng, bạch Thế Tôn," các Tỷ-kheo vâng đáp. Thế Tôn nói:
 
 "Và này các thầy, thế nào là sự lo sợ do chấp thủ? Ở đây, này các thầy, kẻ vô văn phàm phu, không được thấy các bậc Thánh… không được huấn luyện trong pháp của bậc chân nhân, xem sắc là tự ngã, hoặc xem tự ngã là có sắc, hoặc xem sắc ở trong tự ngã, hoặc xem tự ngã ở trong sắc. Khi sắc ấy biến chuyển, đổi khác, thì do sự biến chuyển, đổi khác của sắc, thức của người ấy xoay chuyển theo sự biến chuyển của sắc. Do thức xoay chuyển theo sự biến chuyển của sắc, sự lo sợ sanh lên từ đó, cùng với các pháp khởi lên, chiếm ngự tâm người ấy. Do tâm bị chiếm ngự, người ấy trở nên khiếp sợ, phiền muộn, mong ngóng, và lo sợ do chấp thủ.
 
@@ -411,7 +411,7 @@ Vị ấy không xem thức là tự ngã, không xem tự ngã là có thức, 
 
 ==== Kinh 22.8. Lo Sợ Do Chấp Thủ Thứ Hai (Dutiyaupādāparitassanāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy về sự lo sợ do chấp thủ và sự không lo sợ do không chấp thủ. Hãy lắng nghe…" Thế Tôn nói:
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy về sự lo sợ do chấp thủ và sự không lo sợ do không chấp thủ. Hãy lắng nghe…" Thế Tôn nói:
 
 "Và này các thầy, thế nào là sự lo sợ do chấp thủ? Ở đây, này các thầy, kẻ vô văn phàm phu xem sắc là: 'Đây là của tôi, đây là tôi, đây là tự ngã của tôi.' Khi sắc ấy biến chuyển, đổi khác, thì do sự biến chuyển, đổi khác của sắc, sầu, bi, khổ, ưu, não sanh lên nơi người ấy. Người ấy xem thọ là: 'Đây là của tôi…' xem tưởng là: 'Đây là của tôi…' xem các hành là: 'Đây là của tôi…' xem thức là: 'Đây là của tôi, đây là tôi, đây là tự ngã của tôi.' Khi thức ấy biến chuyển, đổi khác, thì do sự biến chuyển, đổi khác của thức, sầu, bi, khổ, ưu, não sanh lên nơi người ấy. Như vậy, này các thầy, là sự lo sợ do chấp thủ.
 
@@ -419,21 +419,21 @@ Và này các thầy, thế nào là sự không lo sợ do không chấp thủ?
 
 ==== Kinh 22.9. Vô Thường Ba Thời (Kālattayaaniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô thường ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến sắc quá khứ, không hoan hỷ đối với sắc tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với sắc hiện tại. Thọ là vô thường… tưởng là vô thường… các hành là vô thường ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến các hành quá khứ, không hoan hỷ đối với các hành tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với các hành hiện tại. Thức là vô thường ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến thức quá khứ, không hoan hỷ đối với thức tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với thức hiện tại."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô thường ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến sắc quá khứ, không hoan hỷ đối với sắc tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với sắc hiện tại. Thọ là vô thường… tưởng là vô thường… các hành là vô thường ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến các hành quá khứ, không hoan hỷ đối với các hành tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với các hành hiện tại. Thức là vô thường ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến thức quá khứ, không hoan hỷ đối với thức tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với thức hiện tại."
 
 ==== Kinh 22.10. Khổ Ba Thời (Kālattayadukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là khổ ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến sắc quá khứ, không hoan hỷ đối với sắc tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với sắc hiện tại. Thọ là khổ… tưởng là khổ… các hành là khổ… thức là khổ ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến thức quá khứ, không hoan hỷ đối với thức tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với thức hiện tại."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là khổ ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến sắc quá khứ, không hoan hỷ đối với sắc tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với sắc hiện tại. Thọ là khổ… tưởng là khổ… các hành là khổ… thức là khổ ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến thức quá khứ, không hoan hỷ đối với thức tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với thức hiện tại."
 
 ==== Kinh 22.11. Vô Ngã Ba Thời (Kālattayaanattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô ngã ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến sắc quá khứ, không hoan hỷ đối với sắc tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với sắc hiện tại. Thọ là vô ngã… tưởng là vô ngã… các hành là vô ngã… thức là vô ngã ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến thức quá khứ, không hoan hỷ đối với thức tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với thức hiện tại."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô ngã ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến sắc quá khứ, không hoan hỷ đối với sắc tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với sắc hiện tại. Thọ là vô ngã… tưởng là vô ngã… các hành là vô ngã… thức là vô ngã ở thời quá khứ và tương lai, huống chi là hiện tại! Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp không quan tâm đến thức quá khứ, không hoan hỷ đối với thức tương lai, và thực hành hướng đến sự nhàm chán, ly tham, đoạn diệt đối với thức hiện tại."
 
 #strong[Hết phẩm Nakulapitā, thứ nhất.]
 
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
-Nakulapitā, Devadaha, \
+Na-cu-la-bi-đa (Nakulapitā), Devadaha, \
 Hai kinh Hāliddikāni; \
 Định và Tĩnh cư, \
 Hai kinh Lo Sợ Do Chấp Thủ; \
@@ -444,18 +444,18 @@ Do đó phẩm này được gọi tên như vậy.
 
 ==== Kinh 22.1. Vô Thường (Aniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô thường, thọ là vô thường, tưởng là vô thường, các hành là vô thường, thức là vô thường. Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp nhàm chán đối với sắc, nhàm chán đối với thọ, nhàm chán đối với tưởng, nhàm chán đối với các hành, nhàm chán đối với thức. Do nhàm chán nên ly tham; do ly tham nên giải thoát. Khi đã giải thoát, có trí biết rằng: đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô thường, thọ là vô thường, tưởng là vô thường, các hành là vô thường, thức là vô thường. Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp nhàm chán đối với sắc, nhàm chán đối với thọ, nhàm chán đối với tưởng, nhàm chán đối với các hành, nhàm chán đối với thức. Do nhàm chán nên ly tham; do ly tham nên giải thoát. Khi đã giải thoát, có trí biết rằng: đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.2. Khổ (Dukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là khổ, thọ là khổ, tưởng là khổ, các hành là khổ, thức là khổ. Thấy vậy… vị ấy biết rõ: 'Sanh đã tận… không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là khổ, thọ là khổ, tưởng là khổ, các hành là khổ, thức là khổ. Thấy vậy… vị ấy biết rõ: 'Sanh đã tận… không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.3. Vô Ngã (Anattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô ngã, thọ là vô ngã, tưởng là vô ngã, các hành là vô ngã, thức là vô ngã. Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp nhàm chán đối với sắc, nhàm chán đối với thọ, nhàm chán đối với tưởng, nhàm chán đối với các hành, nhàm chán đối với thức. Do nhàm chán nên ly tham; do ly tham nên giải thoát. Khi đã giải thoát, có trí biết rằng: đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô ngã, thọ là vô ngã, tưởng là vô ngã, các hành là vô ngã, thức là vô ngã. Thấy vậy, này các thầy, vị Thánh đệ tử có nghe pháp nhàm chán đối với sắc, nhàm chán đối với thọ, nhàm chán đối với tưởng, nhàm chán đối với các hành, nhàm chán đối với thức. Do nhàm chán nên ly tham; do ly tham nên giải thoát. Khi đã giải thoát, có trí biết rằng: đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 ==== Kinh 22.4. Cái Gì Vô Thường (Yadaniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô thường. Cái gì
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô thường. Cái gì
 vô thường là khổ; cái gì khổ là vô ngã; cái gì vô ngã, cái đó cần được
 thấy đúng như thật, bằng chánh trí tuệ, là: 'Đây không phải của tôi,
 đây không phải là tôi, đây không phải tự ngã của tôi.' Thọ là vô
@@ -470,7 +470,7 @@ biết rõ: 'Sanh đã tận… không còn trở lại trạng thái này nữa
 
 ==== Kinh 22.5. Cái Gì Khổ (Yaṃdukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là khổ. Cái gì khổ là
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là khổ. Cái gì khổ là
 vô ngã; cái gì vô ngã, cái đó cần được thấy đúng như thật, bằng chánh
 trí tuệ, là: 'Đây không phải của tôi, đây không phải là tôi, đây không
 phải tự ngã của tôi.' Thọ là khổ… tưởng là khổ… các hành là khổ… thức
@@ -481,7 +481,7 @@ phải là tôi, đây không phải tự ngã của tôi.' Thấy vậy… vị
 
 ==== Kinh 22.6. Cái Gì Vô Ngã (Yadanattāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô ngã. Cái gì vô
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô ngã. Cái gì vô
 ngã, cái đó cần được thấy đúng như thật, bằng chánh trí tuệ, là: 'Đây
 không phải của tôi, đây không phải là tôi, đây không phải tự ngã của
 tôi.' Thọ là vô ngã… tưởng là vô ngã… các hành là vô ngã… thức là vô
@@ -492,7 +492,7 @@ trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.7. Có Nhân Vô Thường (Sahetuaniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô thường. Bất cứ
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô thường. Bất cứ
 nhân nào, bất cứ duyên nào làm cho sắc sanh khởi, nhân duyên ấy cũng
 vô thường. Này các thầy, sắc đã sanh từ cái vô thường, làm sao có thể
 thường được! Thọ là vô thường. Bất cứ nhân nào, bất cứ duyên nào làm
@@ -508,7 +508,7 @@ tận… không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.8. Có Nhân Khổ (Sahetudukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là khổ. Bất cứ nhân
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là khổ. Bất cứ nhân
 nào, bất cứ duyên nào làm cho sắc sanh khởi, nhân duyên ấy cũng khổ.
 Này các thầy, sắc đã sanh từ cái khổ, làm sao có thể an lạc được! Thọ
 là khổ… tưởng là khổ… các hành là khổ… thức là khổ. Bất cứ nhân nào,
@@ -519,7 +519,7 @@ nữa.'"
 
 ==== Kinh 22.9. Có Nhân Vô Ngã (Sahetuanattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc là vô ngã. Bất cứ
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc là vô ngã. Bất cứ
 nhân nào, bất cứ duyên nào làm cho sắc sanh khởi, nhân duyên ấy cũng
 vô ngã. Này các thầy, sắc đã sanh từ cái vô ngã, làm sao có thể là ngã
 được! Thọ là vô ngã… tưởng là vô ngã… các hành là vô ngã… thức là vô
@@ -530,10 +530,10 @@ còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.10. Ānanda (Ānandasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Ānanda đến chỗ Thế Tôn, đảnh lễ,
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả A-nan (Ānanda) đến chỗ Thế Tôn, đảnh lễ,
 rồi ngồi sang một bên. Tôn giả thưa: "Bạch Thế Tôn, 'đoạn diệt, đoạn
 diệt' — người ta nói vậy. Bạch Thế Tôn, sự đoạn diệt của những pháp
-nào được gọi là 'đoạn diệt'?" "Này Ānanda, sắc là vô thường, hữu vi,
+nào được gọi là 'đoạn diệt'?" "Này A-nan (Ānanda), sắc là vô thường, hữu vi,
 do duyên sanh, có tánh đoạn tận, có tánh hoại diệt, có tánh ly tham,
 có tánh đoạn diệt. Sự đoạn diệt của sắc ấy được gọi là 'đoạn diệt'.
 Thọ là vô thường, hữu vi, do duyên sanh, có tánh đoạn tận, có tánh
@@ -559,7 +559,7 @@ Và kinh về Ānanda — trọn mười kinh ấy.
 
 ==== Kinh 22.1. Gánh Nặng (Bhārasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy
 về gánh nặng, người mang gánh nặng, sự chấp lấy gánh nặng, và sự đặt
 xuống gánh nặng. Hãy lắng nghe. Này các thầy, thế nào là gánh nặng?
 Cần nói rằng đó là năm thủ uẩn. Năm ấy là gì? Là sắc thủ uẩn, thọ thủ
@@ -591,7 +591,7 @@ Không còn đói khát, đã hoàn toàn tịch tịnh."
 
 ==== Kinh 22.2. Liễu Tri (Pariññasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy
 về các pháp cần được liễu tri và sự liễu tri. Hãy lắng nghe. Này các
 thầy, những pháp nào cần được liễu tri? Này các thầy, sắc là pháp cần
 được liễu tri, thọ là pháp cần được liễu tri, tưởng là pháp cần được
@@ -603,7 +603,7 @@ tri."
 
 ==== Kinh 22.3. Thắng Tri (Abhijānasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, không thắng tri, không
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, không thắng tri, không
 liễu tri, không ly tham, không đoạn trừ đối với sắc, thì không có khả
 năng đoạn tận khổ; không thắng tri, không liễu tri, không ly tham,
 không đoạn trừ đối với thọ, thì không có khả năng đoạn tận khổ; đối
@@ -617,7 +617,7 @@ các hành… đối với thức, thì có khả năng đoạn tận khổ."
 
 ==== Kinh 22.4. Dục Tham (Chandarāgasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, phàm ai từ bỏ được dục
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, phàm ai từ bỏ được dục
 tham đối với sắc, thì sắc ấy sẽ được đoạn tận, cắt đứt tận gốc, làm
 cho như cây tāla bị chặt ngọn, không còn khả năng tái sanh trong tương
 lai. Phàm ai từ bỏ được dục tham đối với thọ, thì thọ ấy sẽ được đoạn
@@ -631,7 +631,7 @@ không còn khả năng tái sanh trong tương lai."
 
 ==== Kinh 22.5. Vị Ngọt Thứ Nhất (Assādasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, trước khi Ta giác ngộ, khi
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, trước khi Ta giác ngộ, khi
 còn là Bồ-tát, chưa chứng Chánh Đẳng Giác, Ta đã suy nghĩ như vầy: 'Vị
 ngọt của sắc là gì, tai hại của sắc là gì, xuất ly của sắc là gì? Vị
 ngọt của thọ là gì, tai hại của thọ là gì, xuất ly của thọ là gì? Vị
@@ -666,7 +666,7 @@ kiến đã sanh lên nơi Ta: 'Sự giải thoát của Ta không thể chuyể
 
 ==== Kinh 22.6. Vị Ngọt Thứ Hai (Dutiyaassādasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta đã đi tìm vị ngọt của
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta đã đi tìm vị ngọt của
 sắc. Vị ngọt nào của sắc, Ta đã đạt đến đó. Cho đến mức nào là vị
 ngọt của sắc, Ta đã thấy rõ điều ấy bằng tuệ. Ta đã đi tìm tai hại của
 sắc. Tai hại nào của sắc, Ta đã đạt đến đó. Cho đến mức nào là tai
@@ -687,7 +687,7 @@ sanh nữa.'"
 
 ==== Kinh 22.7. Vị Ngọt Thứ Ba (Tatiyaassādasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, nếu không có vị ngọt của
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, nếu không có vị ngọt của
 sắc, thì chúng sanh sẽ không đắm say đối với sắc. Nhưng vì có vị ngọt
 của sắc, này các thầy, nên chúng sanh đắm say đối với sắc. Nếu không
 có tai hại của sắc, thì chúng sanh sẽ không nhàm chán đối với sắc.
@@ -718,7 +718,7 @@ giải thoát, không còn ranh giới."
 
 ==== Kinh 22.8. Hoan Hỷ (Abhinandanasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, ai hoan hỷ đối với sắc,
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, ai hoan hỷ đối với sắc,
 thì hoan hỷ đối với khổ. Ai hoan hỷ đối với khổ, Ta nói rằng người ấy
 chưa được giải thoát khỏi khổ. Ai hoan hỷ đối với thọ… ai hoan hỷ đối
 với tưởng… ai hoan hỷ đối với các hành… ai hoan hỷ đối với thức, thì
@@ -733,7 +733,7 @@ khổ."
 
 ==== Kinh 22.9. Sanh Khởi (Uppādasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sự sanh khởi, sự trú, sự
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sự sanh khởi, sự trú, sự
 hình thành, sự xuất hiện của sắc — đó chính là sự sanh khởi của khổ,
 sự trú của các bệnh, sự xuất hiện của già chết. Sự sanh khởi, sự trú,
 sự hình thành, sự xuất hiện của thọ… của tưởng… của các hành… của
@@ -746,7 +746,7 @@ lặng yên của các bệnh, sự chấm dứt của già chết."
 
 ==== Kinh 22.10. Cội Gốc Tai Họa (Aghamūlasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy
 về tai họa và cội gốc của tai họa. Hãy lắng nghe. Còn thế nào, này các
 thầy, là tai họa? Này các thầy, sắc là tai họa, thọ là tai họa, tưởng
 là tai họa, các hành là tai họa, thức là tai họa. Này các thầy, đây
@@ -756,7 +756,7 @@ thích chỗ này chỗ kia — tức là dục ái, hữu ái, phi hữu ái. N
 thầy, đây gọi là cội gốc của tai họa."
 ==== Kinh 22.11. Pháp Hoại Diệt (Pabhaṅgusuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, Ta sẽ giảng cho các thầy pháp có tánh hoại diệt và pháp không có tánh hoại diệt. Hãy lắng nghe. Này các thầy, thế nào là pháp có tánh hoại diệt, thế nào là pháp không có tánh hoại diệt? Sắc là pháp có tánh hoại diệt. Còn sự đoạn diệt, sự lặng yên, sự chấm dứt của sắc ấy — đó là pháp không có tánh hoại diệt. Thọ là pháp có tánh hoại diệt. Sự đoạn diệt, sự lặng yên, sự chấm dứt của thọ ấy — đó là pháp không có tánh hoại diệt. Tưởng cũng vậy. Các hành là pháp có tánh hoại diệt. Sự đoạn diệt, sự lặng yên, sự chấm dứt của các hành ấy — đó là pháp không có tánh hoại diệt. Thức là pháp có tánh hoại diệt. Sự đoạn diệt, sự lặng yên, sự chấm dứt của thức ấy — đó là pháp không có tánh hoại diệt."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, Ta sẽ giảng cho các thầy pháp có tánh hoại diệt và pháp không có tánh hoại diệt. Hãy lắng nghe. Này các thầy, thế nào là pháp có tánh hoại diệt, thế nào là pháp không có tánh hoại diệt? Sắc là pháp có tánh hoại diệt. Còn sự đoạn diệt, sự lặng yên, sự chấm dứt của sắc ấy — đó là pháp không có tánh hoại diệt. Thọ là pháp có tánh hoại diệt. Sự đoạn diệt, sự lặng yên, sự chấm dứt của thọ ấy — đó là pháp không có tánh hoại diệt. Tưởng cũng vậy. Các hành là pháp có tánh hoại diệt. Sự đoạn diệt, sự lặng yên, sự chấm dứt của các hành ấy — đó là pháp không có tánh hoại diệt. Thức là pháp có tánh hoại diệt. Sự đoạn diệt, sự lặng yên, sự chấm dứt của thức ấy — đó là pháp không có tánh hoại diệt."
 
 #strong[Hết phẩm Gánh Nặng, thứ ba.]
 
@@ -773,31 +773,31 @@ Và pháp hoại diệt là kinh thứ mười một.
 
 ==== Kinh 22.1. Không Phải Của Các Người Thứ Nhất (Natumhākaṃsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Và này các thầy, cái gì không phải của các thầy? Sắc không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thọ không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Tưởng không phải của các thầy… các hành không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thức không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Và này các thầy, cái gì không phải của các thầy? Sắc không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thọ không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Tưởng không phải của các thầy… các hành không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thức không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy.
 
-Này các thầy, ví như trong khu rừng Jetavana này, có người mang cỏ, cây, cành, lá đi, hoặc đốt đi, hoặc làm theo ý mình. Các thầy có nghĩ rằng: 'Người ta mang chúng ta đi, đốt chúng ta, hay làm theo ý muốn với chúng ta' không?" Các Tỷ-kheo thưa: "Bạch Thế Tôn, không phải vậy." "Vì sao vậy?" "Bạch Thế Tôn, vì những thứ ấy không phải là tự ngã, cũng không thuộc về tự ngã của chúng con." Thế Tôn nói: "Cũng vậy, này các thầy, sắc không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thọ không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Tưởng không phải của các thầy… các hành không phải của các thầy… thức không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy."
+Này các thầy, ví như trong khu rừng Kỳ-đà Lâm (Jetavana) này, có người mang cỏ, cây, cành, lá đi, hoặc đốt đi, hoặc làm theo ý mình. Các thầy có nghĩ rằng: 'Người ta mang chúng ta đi, đốt chúng ta, hay làm theo ý muốn với chúng ta' không?" Các Tỷ-kheo thưa: "Bạch Thế Tôn, không phải vậy." "Vì sao vậy?" "Bạch Thế Tôn, vì những thứ ấy không phải là tự ngã, cũng không thuộc về tự ngã của chúng con." Thế Tôn nói: "Cũng vậy, này các thầy, sắc không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thọ không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Tưởng không phải của các thầy… các hành không phải của các thầy… thức không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy."
 
 ==== Kinh 22.2. Không Phải Của Các Người Thứ Hai (Dutiyanatumhākaṃsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Và này các thầy, cái gì không phải của các thầy? Sắc không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thọ không phải của các thầy… tưởng không phải của các thầy… các hành không phải của các thầy… thức không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Và này các thầy, cái gì không phải của các thầy? Sắc không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Thọ không phải của các thầy… tưởng không phải của các thầy… các hành không phải của các thầy… thức không phải của các thầy — hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy. Này các thầy, cái gì không phải của các thầy, hãy từ bỏ nó. Từ bỏ nó sẽ đem lại lợi ích, an vui cho các thầy."
 
 ==== Kinh 22.3. Một Vị Tỷ-kheo Thứ Nhất (Aññatarabhikkhusuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Bấy giờ có một vị Tỷ-kheo đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi sang một bên. Vị ấy bạch Thế Tôn: "Bạch Thế Tôn, lành thay nếu Thế Tôn giảng pháp cho con một cách vắn tắt, để sau khi nghe pháp của Thế Tôn, con có thể sống một mình, ẩn cư, không phóng dật, nhiệt tâm, tinh cần." Thế Tôn nói: "Này Tỷ-kheo, cái gì được tùy miên bám theo, thì được kể là do cái ấy; cái gì không được tùy miên bám theo, thì không được kể là do cái ấy." Vị ấy thưa: "Con đã hiểu, bạch Thế Tôn; con đã hiểu, bạch Thiện Thệ." "Nhưng này Tỷ-kheo, ông đã hiểu ý nghĩa rộng rãi của lời Ta nói vắn tắt như thế nào?" "Bạch Thế Tôn, nếu sắc được tùy miên bám theo, thì được kể là do sắc ấy. Nếu thọ được tùy miên bám theo, thì được kể là do thọ ấy. Nếu tưởng được tùy miên bám theo… nếu các hành được tùy miên bám theo… nếu thức được tùy miên bám theo, thì được kể là do thức ấy. Bạch Thế Tôn, nếu sắc không được tùy miên bám theo, thì không được kể là do sắc ấy. Nếu thọ không được tùy miên bám theo… nếu tưởng không được tùy miên bám theo… nếu các hành không được tùy miên bám theo… nếu thức không được tùy miên bám theo, thì không được kể là do thức ấy. Bạch Thế Tôn, con đã hiểu ý nghĩa rộng rãi của lời Thế Tôn nói vắn tắt như vậy." Thế Tôn nói: "Lành thay, lành thay, này Tỷ-kheo! Thật lành thay, này Tỷ-kheo, ông đã hiểu ý nghĩa rộng rãi của lời Ta nói vắn tắt như vậy. Nếu sắc được tùy miên bám theo, thì được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức được tùy miên bám theo, thì được kể là do thức ấy. Nếu sắc không được tùy miên bám theo, thì không được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức không được tùy miên bám theo, thì không được kể là do thức ấy. Này Tỷ-kheo, ý nghĩa rộng rãi của lời Ta nói vắn tắt cần được thấy như thế."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Bấy giờ có một vị Tỷ-kheo đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi sang một bên. Vị ấy bạch Thế Tôn: "Bạch Thế Tôn, lành thay nếu Thế Tôn giảng pháp cho con một cách vắn tắt, để sau khi nghe pháp của Thế Tôn, con có thể sống một mình, ẩn cư, không phóng dật, nhiệt tâm, tinh cần." Thế Tôn nói: "Này Tỷ-kheo, cái gì được tùy miên bám theo, thì được kể là do cái ấy; cái gì không được tùy miên bám theo, thì không được kể là do cái ấy." Vị ấy thưa: "Con đã hiểu, bạch Thế Tôn; con đã hiểu, bạch Thiện Thệ." "Nhưng này Tỷ-kheo, ông đã hiểu ý nghĩa rộng rãi của lời Ta nói vắn tắt như thế nào?" "Bạch Thế Tôn, nếu sắc được tùy miên bám theo, thì được kể là do sắc ấy. Nếu thọ được tùy miên bám theo, thì được kể là do thọ ấy. Nếu tưởng được tùy miên bám theo… nếu các hành được tùy miên bám theo… nếu thức được tùy miên bám theo, thì được kể là do thức ấy. Bạch Thế Tôn, nếu sắc không được tùy miên bám theo, thì không được kể là do sắc ấy. Nếu thọ không được tùy miên bám theo… nếu tưởng không được tùy miên bám theo… nếu các hành không được tùy miên bám theo… nếu thức không được tùy miên bám theo, thì không được kể là do thức ấy. Bạch Thế Tôn, con đã hiểu ý nghĩa rộng rãi của lời Thế Tôn nói vắn tắt như vậy." Thế Tôn nói: "Lành thay, lành thay, này Tỷ-kheo! Thật lành thay, này Tỷ-kheo, ông đã hiểu ý nghĩa rộng rãi của lời Ta nói vắn tắt như vậy. Nếu sắc được tùy miên bám theo, thì được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức được tùy miên bám theo, thì được kể là do thức ấy. Nếu sắc không được tùy miên bám theo, thì không được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức không được tùy miên bám theo, thì không được kể là do thức ấy. Này Tỷ-kheo, ý nghĩa rộng rãi của lời Ta nói vắn tắt cần được thấy như thế."
 
 Rồi vị Tỷ-kheo ấy hoan hỷ tín thọ lời Thế Tôn, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, đi vòng quanh phía bên phải rồi ra đi. Vị ấy sống một mình, ẩn cư, không phóng dật, nhiệt tâm, tinh cần. Chẳng bao lâu sau, vị ấy tự mình chứng ngộ ngay trong đời này bằng thắng trí — vì mục đích mà các thiện nam tử chân chánh xuất gia, từ bỏ gia đình sống không nhà, đó là cứu cánh của Phạm hạnh — và an trú trong đó. Vị ấy thắng tri: "Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa." Và vị Tỷ-kheo ấy đã trở thành một vị A-la-hán.
 
 ==== Kinh 22.4. Một Vị Tỷ-kheo Thứ Hai (Dutiyaaññatarabhikkhusuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Bấy giờ có một vị Tỷ-kheo đến gặp Thế Tôn… vị ấy bạch Thế Tôn: "Bạch Thế Tôn, lành thay nếu Thế Tôn giảng pháp cho con một cách vắn tắt, để sau khi nghe pháp của Thế Tôn, con có thể sống một mình, ẩn cư, không phóng dật, nhiệt tâm, tinh cần." Thế Tôn nói: "Này Tỷ-kheo, cái gì được tùy miên bám theo, thì bị đo lường bởi cái ấy; cái gì bị đo lường bởi cái ấy, thì được kể là do cái ấy. Cái gì không được tùy miên bám theo, thì không bị đo lường bởi cái ấy; cái gì không bị đo lường bởi cái ấy, thì không được kể là do cái ấy." Vị ấy thưa: "Con đã hiểu, bạch Thế Tôn…" "Nhưng này Tỷ-kheo, ông đã hiểu ý nghĩa rộng rãi của lời Ta nói vắn tắt như thế nào?" "Bạch Thế Tôn, nếu sắc được tùy miên bám theo, thì bị đo lường bởi sắc ấy; cái gì bị đo lường bởi sắc ấy, thì được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức được tùy miên bám theo, thì bị đo lường bởi thức ấy; cái gì bị đo lường bởi thức ấy, thì được kể là do thức ấy. Bạch Thế Tôn, nếu sắc không được tùy miên bám theo, thì không bị đo lường bởi sắc ấy; cái gì không bị đo lường bởi sắc ấy, thì không được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức không được tùy miên bám theo, thì không bị đo lường bởi thức ấy; cái gì không bị đo lường bởi thức ấy, thì không được kể là do thức ấy. Bạch Thế Tôn, con đã hiểu ý nghĩa rộng rãi của lời Thế Tôn nói vắn tắt như vậy." Thế Tôn nói: "Lành thay, lành thay, này Tỷ-kheo!… (như kinh trước)… và vị Tỷ-kheo ấy đã trở thành một vị A-la-hán.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Bấy giờ có một vị Tỷ-kheo đến gặp Thế Tôn… vị ấy bạch Thế Tôn: "Bạch Thế Tôn, lành thay nếu Thế Tôn giảng pháp cho con một cách vắn tắt, để sau khi nghe pháp của Thế Tôn, con có thể sống một mình, ẩn cư, không phóng dật, nhiệt tâm, tinh cần." Thế Tôn nói: "Này Tỷ-kheo, cái gì được tùy miên bám theo, thì bị đo lường bởi cái ấy; cái gì bị đo lường bởi cái ấy, thì được kể là do cái ấy. Cái gì không được tùy miên bám theo, thì không bị đo lường bởi cái ấy; cái gì không bị đo lường bởi cái ấy, thì không được kể là do cái ấy." Vị ấy thưa: "Con đã hiểu, bạch Thế Tôn…" "Nhưng này Tỷ-kheo, ông đã hiểu ý nghĩa rộng rãi của lời Ta nói vắn tắt như thế nào?" "Bạch Thế Tôn, nếu sắc được tùy miên bám theo, thì bị đo lường bởi sắc ấy; cái gì bị đo lường bởi sắc ấy, thì được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức được tùy miên bám theo, thì bị đo lường bởi thức ấy; cái gì bị đo lường bởi thức ấy, thì được kể là do thức ấy. Bạch Thế Tôn, nếu sắc không được tùy miên bám theo, thì không bị đo lường bởi sắc ấy; cái gì không bị đo lường bởi sắc ấy, thì không được kể là do sắc ấy. Nếu thọ… nếu tưởng… nếu các hành… nếu thức không được tùy miên bám theo, thì không bị đo lường bởi thức ấy; cái gì không bị đo lường bởi thức ấy, thì không được kể là do thức ấy. Bạch Thế Tôn, con đã hiểu ý nghĩa rộng rãi của lời Thế Tôn nói vắn tắt như vậy." Thế Tôn nói: "Lành thay, lành thay, này Tỷ-kheo!… (như kinh trước)… và vị Tỷ-kheo ấy đã trở thành một vị A-la-hán.
 
 ==== Kinh 22.5. Ānanda Thứ Nhất (Ānandasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Bấy giờ Tôn giả Ānanda đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi sang một bên. Thế Tôn nói với Tôn giả Ānanda: "Này Ānanda, nếu có người hỏi ông như vầy: 'Này hiền giả Ānanda, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp nào?' — được hỏi vậy, này Ānanda, ông sẽ trả lời thế nào?" Tôn giả Ānanda thưa: "Bạch Thế Tôn, nếu có người hỏi con như vầy: 'Này hiền giả Ānanda, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp nào?' — được hỏi vậy, bạch Thế Tôn, con sẽ trả lời như vầy: 'Này hiền giả, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi sắc. Nơi thọ… nơi tưởng… nơi các hành… nơi thức, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ. Này hiền giả, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp này.' Bạch Thế Tôn, được hỏi vậy, con sẽ trả lời như vậy." Thế Tôn nói: "Lành thay, lành thay, này Ānanda! Sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi sắc. Nơi thọ… nơi tưởng… nơi các hành… nơi thức, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ. Này Ānanda, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp này. Này Ānanda, được hỏi vậy, ông nên trả lời như vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Bấy giờ Tôn giả A-nan (Ānanda) đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi sang một bên. Thế Tôn nói với Tôn giả A-nan (Ānanda): "Này Ānanda, nếu có người hỏi ông như vầy: 'Này hiền giả Ānanda, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp nào?' — được hỏi vậy, này Ānanda, ông sẽ trả lời thế nào?" Tôn giả Ānanda thưa: "Bạch Thế Tôn, nếu có người hỏi con như vầy: 'Này hiền giả Ānanda, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp nào?' — được hỏi vậy, bạch Thế Tôn, con sẽ trả lời như vầy: 'Này hiền giả, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi sắc. Nơi thọ… nơi tưởng… nơi các hành… nơi thức, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ. Này hiền giả, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp này.' Bạch Thế Tôn, được hỏi vậy, con sẽ trả lời như vậy." Thế Tôn nói: "Lành thay, lành thay, này Ānanda! Sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi sắc. Nơi thọ… nơi tưởng… nơi các hành… nơi thức, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ. Này Ānanda, sự sanh khởi được thấy rõ, sự hoại diệt được thấy rõ, sự đổi khác trong khi đang trú được thấy rõ nơi những pháp này. Này Ānanda, được hỏi vậy, ông nên trả lời như vậy."
 
 ==== Kinh 22.6. Ānanda Thứ Hai (Dutiyaānandasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói với Tôn giả Ānanda đang ngồi một bên: "Này Ānanda, nếu có người hỏi ông như vầy: 'Này hiền giả Ānanda, sự sanh khởi đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ nơi những pháp nào? Sự sanh khởi sẽ được thấy rõ, sự hoại diệt sẽ được thấy rõ, sự đổi khác trong khi đang trú sẽ được thấy rõ nơi những pháp nào? Sự sanh khởi đang được thấy rõ, sự hoại diệt đang được thấy rõ, sự đổi khác trong khi đang trú đang được thấy rõ nơi những pháp nào?' — được hỏi vậy, này Ānanda, ông sẽ trả lời thế nào?" Tôn giả Ānanda thưa: "Bạch Thế Tôn, nếu có người hỏi con như vậy — được hỏi vậy, bạch Thế Tôn, con sẽ trả lời như vầy: 'Này hiền giả, sắc nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của sắc ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Thọ nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của thọ ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Tưởng nào… các hành nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của các hành ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Thức nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của thức ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Này hiền giả, sự sanh khởi đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ nơi những pháp này.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói với Tôn giả A-nan (Ānanda) đang ngồi một bên: "Này A-nan (Ānanda), nếu có người hỏi ông như vầy: 'Này hiền giả Ānanda, sự sanh khởi đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ nơi những pháp nào? Sự sanh khởi sẽ được thấy rõ, sự hoại diệt sẽ được thấy rõ, sự đổi khác trong khi đang trú sẽ được thấy rõ nơi những pháp nào? Sự sanh khởi đang được thấy rõ, sự hoại diệt đang được thấy rõ, sự đổi khác trong khi đang trú đang được thấy rõ nơi những pháp nào?' — được hỏi vậy, này Ānanda, ông sẽ trả lời thế nào?" Tôn giả Ānanda thưa: "Bạch Thế Tôn, nếu có người hỏi con như vậy — được hỏi vậy, bạch Thế Tôn, con sẽ trả lời như vầy: 'Này hiền giả, sắc nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của sắc ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Thọ nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của thọ ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Tưởng nào… các hành nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của các hành ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Thức nào ở thời quá khứ, đã đoạn diệt, đã biến chuyển — sự sanh khởi của thức ấy đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ. Này hiền giả, sự sanh khởi đã được thấy rõ, sự hoại diệt đã được thấy rõ, sự đổi khác trong khi đang trú đã được thấy rõ nơi những pháp này.
 
 Sắc nào chưa sanh, chưa xuất hiện — sự sanh khởi của sắc ấy sẽ được thấy rõ, sự hoại diệt sẽ được thấy rõ, sự đổi khác trong khi đang trú sẽ được thấy rõ. Thọ nào… tưởng nào… các hành nào… thức nào chưa sanh, chưa xuất hiện — sự sanh khởi của thức ấy sẽ được thấy rõ, sự hoại diệt sẽ được thấy rõ, sự đổi khác trong khi đang trú sẽ được thấy rõ. Này hiền giả, sự sanh khởi sẽ được thấy rõ, sự hoại diệt sẽ được thấy rõ, sự đổi khác trong khi đang trú sẽ được thấy rõ nơi những pháp này.
 
@@ -805,19 +805,19 @@ Sắc nào đã sanh, đã xuất hiện — sự sanh khởi của sắc ấy �
 
 ==== Kinh 22.7. Tùy Pháp Thứ Nhất (Anudhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống với nhiều sự nhàm chán đối với sắc, sống với nhiều sự nhàm chán đối với thọ, sống với nhiều sự nhàm chán đối với tưởng, sống với nhiều sự nhàm chán đối với các hành, sống với nhiều sự nhàm chán đối với thức. Vị nào sống với nhiều sự nhàm chán đối với sắc, đối với thọ, đối với tưởng, đối với các hành, đối với thức mà liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức — vị ấy, do liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức, được thoát khỏi sắc, được thoát khỏi thọ, được thoát khỏi tưởng, được thoát khỏi các hành, được thoát khỏi thức, được thoát khỏi sanh, già chết, sầu, bi, khổ, ưu, não. Được thoát khỏi khổ, Ta nói vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống với nhiều sự nhàm chán đối với sắc, sống với nhiều sự nhàm chán đối với thọ, sống với nhiều sự nhàm chán đối với tưởng, sống với nhiều sự nhàm chán đối với các hành, sống với nhiều sự nhàm chán đối với thức. Vị nào sống với nhiều sự nhàm chán đối với sắc, đối với thọ, đối với tưởng, đối với các hành, đối với thức mà liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức — vị ấy, do liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức, được thoát khỏi sắc, được thoát khỏi thọ, được thoát khỏi tưởng, được thoát khỏi các hành, được thoát khỏi thức, được thoát khỏi sanh, già chết, sầu, bi, khổ, ưu, não. Được thoát khỏi khổ, Ta nói vậy."
 
 ==== Kinh 22.8. Tùy Pháp Thứ Hai (Dutiyaanudhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống quán vô thường nơi sắc, sống quán vô thường nơi thọ, sống quán vô thường nơi tưởng, sống quán vô thường nơi các hành, sống quán vô thường nơi thức… được thoát khỏi khổ, Ta nói vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống quán vô thường nơi sắc, sống quán vô thường nơi thọ, sống quán vô thường nơi tưởng, sống quán vô thường nơi các hành, sống quán vô thường nơi thức… được thoát khỏi khổ, Ta nói vậy."
 
 ==== Kinh 22.9. Tùy Pháp Thứ Ba (Tatiyaanudhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống quán khổ nơi sắc… nơi thọ… nơi tưởng… nơi các hành… nơi thức… được thoát khỏi khổ, Ta nói vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống quán khổ nơi sắc… nơi thọ… nơi tưởng… nơi các hành… nơi thức… được thoát khỏi khổ, Ta nói vậy."
 
 ==== Kinh 22.10. Tùy Pháp Thứ Tư (Catutthaanudhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống quán vô ngã nơi sắc, sống quán vô ngã nơi thọ, sống quán vô ngã nơi tưởng, sống quán vô ngã nơi các hành, sống quán vô ngã nơi thức. Vị nào sống quán vô ngã nơi sắc, nơi thọ, nơi tưởng, nơi các hành, nơi thức mà liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức — vị ấy, do liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức, được thoát khỏi sắc, được thoát khỏi thọ, được thoát khỏi tưởng, được thoát khỏi các hành, được thoát khỏi thức, được thoát khỏi sanh, già chết, sầu, bi, khổ, ưu, não. Được thoát khỏi khổ, Ta nói vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, vị Tỷ-kheo tùy pháp mà hành đúng pháp thì có sự tùy pháp này: sống quán vô ngã nơi sắc, sống quán vô ngã nơi thọ, sống quán vô ngã nơi tưởng, sống quán vô ngã nơi các hành, sống quán vô ngã nơi thức. Vị nào sống quán vô ngã nơi sắc, nơi thọ, nơi tưởng, nơi các hành, nơi thức mà liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức — vị ấy, do liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri các hành, liễu tri thức, được thoát khỏi sắc, được thoát khỏi thọ, được thoát khỏi tưởng, được thoát khỏi các hành, được thoát khỏi thức, được thoát khỏi sanh, già chết, sầu, bi, khổ, ưu, não. Được thoát khỏi khổ, Ta nói vậy."
 
 #strong[Hết phẩm Không Phải Của Các Người, thứ tư.]
 
@@ -825,14 +825,14 @@ Sắc nào đã sanh, đã xuất hiện — sự sanh khởi của sắc ấy �
 
 Hai kinh Không Phải Của Các Người đã được nói, \
 Hai vị Tỷ-kheo cũng vậy; \
-Hai kinh Ānanda đã được nói, \
+Hai kinh A-nan (Ānanda) đã được nói, \
 Hai nhóm kinh Tùy Pháp — trọn mười kinh ấy.
 
 === Vagga 5 (nguồn ghi 5). Ngọn Đèn Tự Thân (Attadīpavaggo)
 
 ==== Kinh 22.1. Ngọn Đèn Tự Thân (Attadīpasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, hãy sống lấy tự mình làm ngọn đèn, lấy tự mình làm nơi nương tựa, không nương tựa ai khác; lấy pháp làm ngọn đèn, lấy pháp làm nơi nương tựa, không nương tựa gì khác. Này các thầy, người sống lấy tự mình làm ngọn đèn, lấy tự mình làm nơi nương tựa, không nương tựa ai khác, lấy pháp làm ngọn đèn, lấy pháp làm nơi nương tựa, không nương tựa gì khác — người ấy cần phải xem xét nguồn gốc: sầu, bi, khổ, ưu, não do đâu mà sanh, do đâu mà có?
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, hãy sống lấy tự mình làm ngọn đèn, lấy tự mình làm nơi nương tựa, không nương tựa ai khác; lấy pháp làm ngọn đèn, lấy pháp làm nơi nương tựa, không nương tựa gì khác. Này các thầy, người sống lấy tự mình làm ngọn đèn, lấy tự mình làm nơi nương tựa, không nương tựa ai khác, lấy pháp làm ngọn đèn, lấy pháp làm nơi nương tựa, không nương tựa gì khác — người ấy cần phải xem xét nguồn gốc: sầu, bi, khổ, ưu, não do đâu mà sanh, do đâu mà có?
 
 Và này các thầy, sầu, bi, khổ, ưu, não do đâu mà sanh, do đâu mà có? Ở đây, này các thầy, kẻ vô văn phàm phu, không được thấy các bậc Thánh… không được huấn luyện trong pháp của bậc chân nhân, xem sắc là tự ngã, hoặc xem tự ngã là có sắc, hoặc xem sắc ở trong tự ngã, hoặc xem tự ngã ở trong sắc. Khi sắc ấy biến chuyển, đổi khác, thì sầu, bi, khổ, ưu, não sanh lên nơi người ấy do sự biến chuyển, đổi khác của sắc. Người ấy xem thọ là tự ngã, hoặc xem tự ngã là có thọ, hoặc xem thọ ở trong tự ngã, hoặc xem tự ngã ở trong thọ. Khi thọ ấy biến chuyển, đổi khác, thì sầu, bi, khổ, ưu, não sanh lên nơi người ấy do sự biến chuyển, đổi khác của thọ. Người ấy xem tưởng là tự ngã… người ấy xem các hành là tự ngã… người ấy xem thức là tự ngã, hoặc xem tự ngã là có thức, hoặc xem thức ở trong tự ngã, hoặc xem tự ngã ở trong thức. Khi thức ấy biến chuyển, đổi khác, thì sầu, bi, khổ, ưu, não sanh lên nơi người ấy do sự biến chuyển, đổi khác của thức.
 
@@ -845,7 +845,7 @@ Khi biết được tưởng… khi biết được các hành là vô thường
 Khi biết được thức là vô thường, biến chuyển, ly tham, đoạn diệt, và thấy đúng như thật bằng chánh trí tuệ rằng: 'Thức trước đây và thức bây giờ, tất cả thức đều vô thường, khổ, có tánh biến hoại' — thì những sầu, bi, khổ, ưu, não nào có thể sanh, đều được đoạn trừ. Do đoạn trừ những điều ấy, người ấy không còn lo sợ. Không lo sợ, người ấy sống an lạc. Sống an lạc, vị Tỷ-kheo ấy được gọi là 'đã tịch tịnh trong phần này'."
 ==== Kinh 22.2. Con Đường Tu Tập (Paṭipadāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các thầy con đường đưa đến sự tập khởi của tự thân (sakkāya), và con đường đưa đến sự đoạn diệt của tự thân. Hãy lắng nghe.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các thầy con đường đưa đến sự tập khởi của tự thân (sakkāya), và con đường đưa đến sự đoạn diệt của tự thân. Hãy lắng nghe.
 
 Và này các thầy, thế nào là con đường đưa đến sự tập khởi của tự thân? Ở đây, này các thầy, kẻ vô văn phàm phu không được thấy các bậc Thánh… không được huấn luyện trong pháp của bậc chân nhân. Người ấy xem sắc là tự ngã, hoặc xem tự ngã là có sắc, hoặc xem sắc ở trong tự ngã, hoặc xem tự ngã ở trong sắc. Xem thọ là tự ngã… xem tưởng là tự ngã… xem các hành là tự ngã… xem thức là tự ngã, hoặc xem tự ngã là có thức, hoặc xem thức ở trong tự ngã, hoặc xem tự ngã ở trong thức. Này các thầy, đây gọi là con đường đưa đến sự tập khởi của tự thân. Cũng vậy, này các thầy, điều này được gọi là cách nhìn đưa đến sự tập khởi của khổ. Đây chính là ý nghĩa ở đây.
 
@@ -853,19 +853,19 @@ Và này các thầy, thế nào là con đường đưa đến sự đoạn di�
 
 ==== Kinh 22.3. Vô Thường Thứ Nhất (Aniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.' Thấy đúng như thật bằng chánh trí tuệ như vậy, tâm ly tham, được giải thoát, không còn chấp thủ đối với các lậu hoặc. Thọ là vô thường… tưởng… các hành… thức là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.' Thấy đúng như thật bằng chánh trí tuệ như vậy, tâm ly tham, được giải thoát, không còn chấp thủ đối với các lậu hoặc.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.' Thấy đúng như thật bằng chánh trí tuệ như vậy, tâm ly tham, được giải thoát, không còn chấp thủ đối với các lậu hoặc. Thọ là vô thường… tưởng… các hành… thức là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.' Thấy đúng như thật bằng chánh trí tuệ như vậy, tâm ly tham, được giải thoát, không còn chấp thủ đối với các lậu hoặc.
 
 Này các thầy, nếu tâm của vị Tỷ-kheo đã ly tham, đã giải thoát, không còn chấp thủ đối với các lậu hoặc — đối với giới sắc, đối với giới thọ… đối với giới tưởng… đối với giới hành… đối với giới thức — thì do đã giải thoát, tâm được an trú; do được an trú, tâm được tự tại; do được tự tại, tâm không còn lo sợ; không còn lo sợ, vị ấy tự mình hoàn toàn tịch diệt (parinibbāna). Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.4. Vô Thường Thứ Hai (Dutiyaaniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.' Thọ là vô thường… tưởng là vô thường… các hành là vô thường… thức là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.'
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.' Thọ là vô thường… tưởng là vô thường… các hành là vô thường… thức là vô thường. Cái gì vô thường thì là khổ; cái gì khổ thì là vô ngã; cái gì vô ngã thì cần được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi.'
 
 Thấy đúng như thật bằng chánh trí tuệ như vậy, các tùy kiến về thời quá khứ không còn nữa; do các tùy kiến về thời quá khứ không còn, các tùy kiến về thời tương lai không còn; do các tùy kiến về thời tương lai không còn, sự cố chấp mạnh mẽ, sự bám chặt không còn. Do sự cố chấp, sự bám chặt không còn, tâm ly tham đối với sắc, đối với thọ, đối với tưởng, đối với các hành, đối với thức, được giải thoát, không còn chấp thủ đối với các lậu hoặc. Do đã giải thoát, tâm được an trú; do được an trú, tâm được tự tại; do được tự tại, tâm không còn lo sợ; không còn lo sợ, vị ấy tự mình hoàn toàn tịch diệt. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.5. Cách Nhìn (Samanupassanāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, phàm những Sa-môn hay Bà-la-môn nào, khi xem xét đủ mọi cách về tự ngã, đều xem xét cả năm thủ uẩn, hoặc xem xét một trong số đó. Năm ấy là gì? Ở đây, này các thầy, kẻ vô văn phàm phu không được thấy các bậc Thánh… không được huấn luyện trong pháp của bậc chân nhân. Người ấy xem sắc là tự ngã, hoặc xem tự ngã là có sắc, hoặc xem sắc ở trong tự ngã, hoặc xem tự ngã ở trong sắc. Xem thọ… xem tưởng… xem các hành… xem thức là tự ngã, hoặc xem tự ngã là có thức, hoặc xem thức ở trong tự ngã, hoặc xem tự ngã ở trong thức.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, phàm những Sa-môn hay Bà-la-môn nào, khi xem xét đủ mọi cách về tự ngã, đều xem xét cả năm thủ uẩn, hoặc xem xét một trong số đó. Năm ấy là gì? Ở đây, này các thầy, kẻ vô văn phàm phu không được thấy các bậc Thánh… không được huấn luyện trong pháp của bậc chân nhân. Người ấy xem sắc là tự ngã, hoặc xem tự ngã là có sắc, hoặc xem sắc ở trong tự ngã, hoặc xem tự ngã ở trong sắc. Xem thọ… xem tưởng… xem các hành… xem thức là tự ngã, hoặc xem tự ngã là có thức, hoặc xem thức ở trong tự ngã, hoặc xem tự ngã ở trong thức.
 
 Như vậy, cách nhìn ấy cùng với ý niệm 'ta là' không bị đoạn trừ nơi người ấy. Này các thầy, khi ý niệm 'ta là' chưa bị đoạn trừ, thì có sự giáng nhập của năm căn — nhãn căn, nhĩ căn, tỷ căn, thiệt căn, thân căn. Này các thầy, có ý, có các pháp, có giới vô minh. Do cảm xúc phát sanh từ sự tiếp xúc với vô minh, kẻ vô văn phàm phu có ý niệm 'ta là'; có ý niệm 'ta là thế này'; có ý niệm 'ta sẽ có'; có ý niệm 'ta sẽ không có'; có ý niệm 'ta sẽ có sắc'; có ý niệm 'ta sẽ không có sắc'; có ý niệm 'ta sẽ có tưởng'; có ý niệm 'ta sẽ không có tưởng'; có ý niệm 'ta sẽ không có tưởng cũng không phải không có tưởng'.
 
@@ -873,7 +873,7 @@ Này các thầy, năm căn ấy vẫn đứng y nguyên ở đó. Nhưng đối
 
 ==== Kinh 22.6. Các Uẩn (Khandhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các thầy về năm uẩn và năm thủ uẩn. Hãy lắng nghe.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các thầy về năm uẩn và năm thủ uẩn. Hãy lắng nghe.
 
 Và này các thầy, năm uẩn là gì? Này các thầy, phàm sắc nào — thuộc quá khứ, tương lai, hiện tại, bên trong hay bên ngoài, thô hay tế, hạ liệt hay thù thắng, xa hay gần — đây gọi là sắc uẩn. Phàm thọ nào… phàm tưởng nào… phàm hành nào — thuộc quá khứ, tương lai, hiện tại, bên trong hay bên ngoài, thô hay tế, hạ liệt hay thù thắng, xa hay gần — đây gọi là hành uẩn. Phàm thức nào — thuộc quá khứ, tương lai, hiện tại, bên trong hay bên ngoài, thô hay tế, hạ liệt hay thù thắng, xa hay gần — đây gọi là thức uẩn. Này các thầy, đây gọi là năm uẩn.
 
@@ -881,9 +881,9 @@ Và này các thầy, năm thủ uẩn là gì? Này các thầy, phàm sắc n�
 
 ==== Kinh 22.7. Soṇa Thứ Nhất (Soṇasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Rājagaha, trong rừng Trúc (Veḷuvana), chỗ nuôi dưỡng sóc (Kalandakanivāpa). Soṇa, con trai của một gia chủ, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Thế Tôn nói với ông:
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc (Veḷuvana), chỗ nuôi dưỡng sóc (Kalandakanivāpa). Tô-na (Soṇa), con trai của một gia chủ, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Thế Tôn nói với ông:
 
-"Này Soṇa, phàm Sa-môn hay Bà-la-môn nào, đối với sắc vô thường, khổ, có tánh biến hoại, mà xem 'ta là thù thắng hơn', hoặc xem 'ta là bằng nhau', hoặc xem 'ta là hạ kém hơn' — thì đó chẳng phải là vì không thấy như thật hay sao? Đối với thọ vô thường, khổ, có tánh biến hoại… đối với tưởng… đối với các hành vô thường, khổ, có tánh biến hoại… đối với thức vô thường, khổ, có tánh biến hoại, mà xem 'ta là thù thắng hơn', hoặc xem 'ta là bằng nhau', hoặc xem 'ta là hạ kém hơn' — thì đó chẳng phải là vì không thấy như thật hay sao?
+"Này Tô-na (Soṇa), phàm Sa-môn hay Bà-la-môn nào, đối với sắc vô thường, khổ, có tánh biến hoại, mà xem 'ta là thù thắng hơn', hoặc xem 'ta là bằng nhau', hoặc xem 'ta là hạ kém hơn' — thì đó chẳng phải là vì không thấy như thật hay sao? Đối với thọ vô thường, khổ, có tánh biến hoại… đối với tưởng… đối với các hành vô thường, khổ, có tánh biến hoại… đối với thức vô thường, khổ, có tánh biến hoại, mà xem 'ta là thù thắng hơn', hoặc xem 'ta là bằng nhau', hoặc xem 'ta là hạ kém hơn' — thì đó chẳng phải là vì không thấy như thật hay sao?
 
 Còn những Sa-môn hay Bà-la-môn nào, này Soṇa, đối với sắc vô thường, khổ, có tánh biến hoại, không xem 'ta là thù thắng hơn', không xem 'ta là bằng nhau', không xem 'ta là hạ kém hơn' — thì đó chẳng phải là vì thấy như thật hay sao? Đối với thọ… đối với tưởng… đối với các hành… đối với thức vô thường, khổ, có tánh biến hoại, không xem 'ta là thù thắng hơn', không xem 'ta là bằng nhau', không xem 'ta là hạ kém hơn' — thì đó chẳng phải là vì thấy như thật hay sao?
 
@@ -921,19 +921,19 @@ Thấy vậy, này Soṇa, vị Thánh đệ tử có nghe pháp nhàm chán đ�
 
 ==== Kinh 22.8. Soṇa Thứ Hai (Dutiyasoṇasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Rājagaha, trong rừng Trúc, chỗ nuôi dưỡng sóc. Soṇa, con trai của một gia chủ, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Thế Tôn nói với ông:
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Vương Xá (Rājagaha), trong rừng Trúc, chỗ nuôi dưỡng sóc. Tô-na (Soṇa), con trai của một gia chủ, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Thế Tôn nói với ông:
 
-"Này Soṇa, phàm Sa-môn hay Bà-la-môn nào không biết rõ sắc, không biết rõ sự tập khởi của sắc, không biết rõ sự đoạn diệt của sắc, không biết rõ con đường đưa đến sự đoạn diệt của sắc; không biết rõ thọ, không biết rõ sự tập khởi của thọ, không biết rõ sự đoạn diệt của thọ, không biết rõ con đường đưa đến sự đoạn diệt của thọ; không biết rõ tưởng… không biết rõ các hành, không biết rõ sự tập khởi của các hành, không biết rõ sự đoạn diệt của các hành, không biết rõ con đường đưa đến sự đoạn diệt của các hành; không biết rõ thức, không biết rõ sự tập khởi của thức, không biết rõ sự đoạn diệt của thức, không biết rõ con đường đưa đến sự đoạn diệt của thức — những Sa-môn, Bà-la-môn ấy, này Soṇa, Ta không xem là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn; và những Tôn giả ấy cũng không phải là những người ngay trong hiện tại tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh.
+"Này Tô-na (Soṇa), phàm Sa-môn hay Bà-la-môn nào không biết rõ sắc, không biết rõ sự tập khởi của sắc, không biết rõ sự đoạn diệt của sắc, không biết rõ con đường đưa đến sự đoạn diệt của sắc; không biết rõ thọ, không biết rõ sự tập khởi của thọ, không biết rõ sự đoạn diệt của thọ, không biết rõ con đường đưa đến sự đoạn diệt của thọ; không biết rõ tưởng… không biết rõ các hành, không biết rõ sự tập khởi của các hành, không biết rõ sự đoạn diệt của các hành, không biết rõ con đường đưa đến sự đoạn diệt của các hành; không biết rõ thức, không biết rõ sự tập khởi của thức, không biết rõ sự đoạn diệt của thức, không biết rõ con đường đưa đến sự đoạn diệt của thức — những Sa-môn, Bà-la-môn ấy, này Soṇa, Ta không xem là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn; và những Tôn giả ấy cũng không phải là những người ngay trong hiện tại tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh.
 
 Còn những Sa-môn hay Bà-la-môn nào biết rõ sắc, biết rõ sự tập khởi của sắc, biết rõ sự đoạn diệt của sắc, biết rõ con đường đưa đến sự đoạn diệt của sắc; biết rõ thọ… biết rõ tưởng… biết rõ các hành… biết rõ thức, biết rõ sự tập khởi của thức, biết rõ sự đoạn diệt của thức, biết rõ con đường đưa đến sự đoạn diệt của thức — những Sa-môn, Bà-la-môn ấy, này Soṇa, Ta xem là Sa-môn giữa các Sa-môn, là Bà-la-môn giữa các Bà-la-môn; và những Tôn giả ấy, ngay trong hiện tại, tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của Phạm hạnh."
 
 ==== Kinh 22.9. Đoạn Tận Hân Hoan Thứ Nhất (Nandikkhayasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, chính vì thấy sắc là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Chính vì thấy thọ là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Chính vì thấy tưởng là vô thường… chính vì thấy các hành là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Chính vì thấy thức là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, chính vì thấy sắc là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Chính vì thấy thọ là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Chính vì thấy tưởng là vô thường… chính vì thấy các hành là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Chính vì thấy thức là vô thường mà vị Tỷ-kheo có được chánh kiến này. Thấy đúng như vậy, vị ấy nhàm chán. Nhàm chán nên tham đoạn tận; do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát."
 
 ==== Kinh 22.10. Đoạn Tận Hân Hoan Thứ Hai (Dutiyanandikkhayasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, hãy như lý tác ý đối với sắc, và hãy quán sát đúng như thật tánh vô thường của sắc. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với sắc và quán sát đúng như thật tánh vô thường của sắc, thì vị ấy nhàm chán đối với sắc. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Này các thầy, hãy như lý tác ý đối với thọ, và hãy quán sát đúng như thật tánh vô thường của thọ. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với thọ và quán sát đúng như thật tánh vô thường của thọ, thì vị ấy nhàm chán đối với thọ. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Đối với tưởng, này các thầy… hãy như lý tác ý đối với các hành, và hãy quán sát đúng như thật tánh vô thường của các hành. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với các hành và quán sát đúng như thật tánh vô thường của các hành, thì vị ấy nhàm chán đối với các hành. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Này các thầy, hãy như lý tác ý đối với thức, và hãy quán sát đúng như thật tánh vô thường của thức. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với thức và quán sát đúng như thật tánh vô thường của thức, thì vị ấy nhàm chán đối với thức. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, hãy như lý tác ý đối với sắc, và hãy quán sát đúng như thật tánh vô thường của sắc. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với sắc và quán sát đúng như thật tánh vô thường của sắc, thì vị ấy nhàm chán đối với sắc. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Này các thầy, hãy như lý tác ý đối với thọ, và hãy quán sát đúng như thật tánh vô thường của thọ. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với thọ và quán sát đúng như thật tánh vô thường của thọ, thì vị ấy nhàm chán đối với thọ. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Đối với tưởng, này các thầy… hãy như lý tác ý đối với các hành, và hãy quán sát đúng như thật tánh vô thường của các hành. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với các hành và quán sát đúng như thật tánh vô thường của các hành, thì vị ấy nhàm chán đối với các hành. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát. Này các thầy, hãy như lý tác ý đối với thức, và hãy quán sát đúng như thật tánh vô thường của thức. Này các thầy, khi vị Tỷ-kheo như lý tác ý đối với thức và quán sát đúng như thật tánh vô thường của thức, thì vị ấy nhàm chán đối với thức. Do tham đoạn tận nên hân hoan đoạn tận; do hân hoan và tham đoạn tận, tâm được gọi là giải thoát, khéo giải thoát."
 
 #strong[Hết phẩm Ngọn Đèn Tự Thân, thứ năm.]
 
@@ -942,14 +942,14 @@ Còn những Sa-môn hay Bà-la-môn nào biết rõ sắc, biết rõ sự tậ
 Ngọn Đèn Tự Thân, Con Đường Tu Tập, \
 Hai kinh về tánh vô thường; \
 Cách Nhìn, Các Uẩn, \
-Hai kinh Soṇa, hai kinh Đoạn Tận Hân Hoan — \
+Hai kinh Tô-na (Soṇa), hai kinh Đoạn Tận Hân Hoan — \
 Do đó phẩm này được gọi tên như vậy.
 
 Năm mươi kinh đầu tiên đến đây là hết.
 
 Kệ tổng thuyết các phẩm của năm mươi kinh đầu tiên:
 
-Nakulapitā, Vô Thường, \
+Na-cu-la-bi-đa (Nakulapitā), Vô Thường, \
 Gánh Nặng, Không Phải Của Các Người; \
 Và Ngọn Đèn Tự Thân — đủ năm mươi kinh, \
 Đó là phần thứ nhất được gọi tên như vậy.
@@ -958,7 +958,7 @@ Và Ngọn Đèn Tự Thân — đủ năm mươi kinh, \
 
 ==== Kinh 22.1. Chỗ Dựa (Upayasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, thức có chỗ dựa thì không giải thoát; thức không có chỗ dựa thì giải thoát. Này các thầy, nếu thức đứng vững mà lấy sắc làm chỗ dựa, thì nó đứng vững với sắc làm đối tượng, sắc làm nền tảng, được tẩm ướt bằng hỷ, đi đến tăng trưởng, lớn mạnh, sung mãn. Hoặc nếu lấy thọ làm chỗ dựa… lấy tưởng làm chỗ dựa… hoặc nếu thức đứng vững mà lấy hành làm chỗ dựa, thì nó đứng vững với hành làm đối tượng, hành làm nền tảng, được tẩm ướt bằng hỷ, đi đến tăng trưởng, lớn mạnh, sung mãn.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, thức có chỗ dựa thì không giải thoát; thức không có chỗ dựa thì giải thoát. Này các thầy, nếu thức đứng vững mà lấy sắc làm chỗ dựa, thì nó đứng vững với sắc làm đối tượng, sắc làm nền tảng, được tẩm ướt bằng hỷ, đi đến tăng trưởng, lớn mạnh, sung mãn. Hoặc nếu lấy thọ làm chỗ dựa… lấy tưởng làm chỗ dựa… hoặc nếu thức đứng vững mà lấy hành làm chỗ dựa, thì nó đứng vững với hành làm đối tượng, hành làm nền tảng, được tẩm ướt bằng hỷ, đi đến tăng trưởng, lớn mạnh, sung mãn.
 
 Này các thầy, ai nói rằng: 'Ngoài sắc, ngoài thọ, ngoài tưởng, ngoài hành, ta sẽ chỉ rõ sự đến hay đi, sự diệt hay sanh, sự tăng trưởng, lớn mạnh, sung mãn của thức' — điều ấy không thể có được.
 
@@ -966,7 +966,7 @@ Này các thầy, nếu Tỷ-kheo đã đoạn tận tham đối với giới s�
 
 ==== Kinh 22.2. Hạt Giống (Bījasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, có năm loại hạt giống: hạt từ rễ, hạt từ thân, hạt từ đọt, hạt từ cành chiết, và thứ năm là hạt từ chính hạt. Này các thầy, nếu năm loại hạt giống này không bị gãy vỡ, không hư mục, không bị gió nắng làm hại, còn nguyên vẹn, được cất giữ tốt, nhưng không có đất và không có nước, thì năm loại hạt giống ấy có thể tăng trưởng, lớn mạnh, sung mãn được chăng?"
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, có năm loại hạt giống: hạt từ rễ, hạt từ thân, hạt từ đọt, hạt từ cành chiết, và thứ năm là hạt từ chính hạt. Này các thầy, nếu năm loại hạt giống này không bị gãy vỡ, không hư mục, không bị gió nắng làm hại, còn nguyên vẹn, được cất giữ tốt, nhưng không có đất và không có nước, thì năm loại hạt giống ấy có thể tăng trưởng, lớn mạnh, sung mãn được chăng?"
 
 "Bạch Thế Tôn, không thể."
 
@@ -983,7 +983,7 @@ Này các thầy, ai nói rằng: 'Ngoài sắc, ngoài thọ, ngoài tưởng, 
 Này các thầy, nếu Tỷ-kheo đã đoạn tận tham đối với giới sắc… giới thọ… giới tưởng… giới hành… nếu đã đoạn tận tham đối với giới thức, thì do đoạn tận tham, đối tượng bị cắt đứt, thức không còn chỗ đứng. Thức ấy không còn chỗ đứng thì không tăng trưởng, không tạo tác mà được giải thoát. Do giải thoát nên an trú; do an trú nên biết đủ; do biết đủ nên không còn lo sợ; không còn lo sợ, vị ấy tự mình đạt đến Niết-bàn. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 ==== Kinh 22.3. Lời Cảm Thán (Udānasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Rồi Thế Tôn thốt lên lời cảm thán này: "Quyết định rằng — 'ta sẽ không là như vậy, sẽ không có gì thuộc về ta như vậy; ta sẽ không tồn tại, sẽ không có gì thuộc về ta tồn tại' — vị Tỷ-kheo có thể cắt đứt các kiết sử phần dưới." Nghe vậy, một Tỷ-kheo bạch Thế Tôn: "Bạch Thế Tôn, quyết định như thế nào — 'ta sẽ không là như vậy…' — mà vị Tỷ-kheo có thể cắt đứt các kiết sử phần dưới?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Rồi Thế Tôn thốt lên lời cảm thán này: "Quyết định rằng — 'ta sẽ không là như vậy, sẽ không có gì thuộc về ta như vậy; ta sẽ không tồn tại, sẽ không có gì thuộc về ta tồn tại' — vị Tỷ-kheo có thể cắt đứt các kiết sử phần dưới." Nghe vậy, một Tỷ-kheo bạch Thế Tôn: "Bạch Thế Tôn, quyết định như thế nào — 'ta sẽ không là như vậy…' — mà vị Tỷ-kheo có thể cắt đứt các kiết sử phần dưới?"
 
 "Này thầy, ở đây, kẻ phàm phu không được nghe pháp, không thấy các bậc Thánh, không khéo hiểu pháp của các bậc Thánh; không thấy các bậc chân nhân, không khéo hiểu pháp của các bậc chân nhân. Kẻ ấy thấy sắc là tự ngã, hoặc thấy tự ngã có sắc, hoặc thấy sắc ở trong tự ngã, hoặc thấy tự ngã ở trong sắc. Thấy thọ… thấy tưởng… thấy các hành… thấy thức là tự ngã, hoặc thấy tự ngã có thức, hoặc thấy thức ở trong tự ngã, hoặc thấy tự ngã ở trong thức.
 
@@ -1015,7 +1015,7 @@ Này thầy, nếu vị Tỷ-kheo đã đoạn tận tham đối với giới s�
 
 ==== Kinh 22.4. Bốn Vòng Của Thủ Uẩn (Upādānaparipavattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này các thầy, khi nào Ta chưa thắng tri như thật năm thủ uẩn này qua bốn vòng, thì Ta chưa tuyên bố đã chứng Vô thượng Chánh Đẳng Giác giữa thế gian có chư thiên, Ác ma, Phạm thiên, giữa chúng Sa-môn, Bà-la-môn, chư thiên và loài người. Nhưng khi Ta đã thắng tri như thật năm thủ uẩn này qua bốn vòng, thì Ta mới tuyên bố đã chứng Vô thượng Chánh Đẳng Giác giữa thế gian ấy.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, có năm thủ uẩn này. Thế nào là năm? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này các thầy, khi nào Ta chưa thắng tri như thật năm thủ uẩn này qua bốn vòng, thì Ta chưa tuyên bố đã chứng Vô thượng Chánh Đẳng Giác giữa thế gian có chư thiên, Ác ma, Phạm thiên, giữa chúng Sa-môn, Bà-la-môn, chư thiên và loài người. Nhưng khi Ta đã thắng tri như thật năm thủ uẩn này qua bốn vòng, thì Ta mới tuyên bố đã chứng Vô thượng Chánh Đẳng Giác giữa thế gian ấy.
 
 Thế nào là bốn vòng? Ta đã thắng tri sắc, thắng tri sự tập khởi của sắc, thắng tri sự đoạn diệt của sắc, thắng tri con đường đưa đến sự đoạn diệt của sắc. Ta đã thắng tri thọ… tưởng… các hành… Ta đã thắng tri thức, thắng tri sự tập khởi của thức, thắng tri sự đoạn diệt của thức, thắng tri con đường đưa đến sự đoạn diệt của thức.
 
@@ -1033,7 +1033,7 @@ Này các thầy, thế nào là thức? Có sáu thân thức này — nhãn th
 
 ==== Kinh 22.5. Bảy Xứ (Sattaṭṭhānasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, vị Tỷ-kheo khéo léo về bảy xứ, quán xét theo ba cách, được gọi là bậc toàn hảo, đã hoàn tất, là bậc tối thượng trong pháp và luật này.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, vị Tỷ-kheo khéo léo về bảy xứ, quán xét theo ba cách, được gọi là bậc toàn hảo, đã hoàn tất, là bậc tối thượng trong pháp và luật này.
 
 Này các thầy, thế nào là vị Tỷ-kheo khéo léo về bảy xứ? Ở đây, này các thầy, vị Tỷ-kheo biết rõ sắc, biết rõ sự tập khởi của sắc, biết rõ sự đoạn diệt của sắc, biết rõ con đường đưa đến sự đoạn diệt của sắc; biết rõ vị ngọt của sắc, biết rõ sự nguy hại của sắc, biết rõ sự xuất ly khỏi sắc. Biết rõ thọ… tưởng… các hành… Biết rõ thức, biết rõ sự tập khởi của thức, biết rõ sự đoạn diệt của thức, biết rõ con đường đưa đến sự đoạn diệt của thức; biết rõ vị ngọt của thức, biết rõ sự nguy hại của thức, biết rõ sự xuất ly khỏi thức.
 
@@ -1059,7 +1059,7 @@ Vị Tỷ-kheo khéo léo về bảy xứ, quán xét theo ba cách như vậy, 
 
 ==== Kinh 22.6. Chánh Đẳng Giác (Sammāsambuddhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, được gọi là Chánh Đẳng Giác vì đã nhàm chán, ly tham, đoạn diệt, giải thoát không chấp thủ đối với sắc. Vị Tỷ-kheo giải thoát nhờ tuệ, này các thầy, cũng được gọi là giải thoát nhờ tuệ vì đã nhàm chán, ly tham, đoạn diệt, giải thoát không chấp thủ đối với sắc.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Như Lai, bậc A-la-hán, Chánh Đẳng Giác, được gọi là Chánh Đẳng Giác vì đã nhàm chán, ly tham, đoạn diệt, giải thoát không chấp thủ đối với sắc. Vị Tỷ-kheo giải thoát nhờ tuệ, này các thầy, cũng được gọi là giải thoát nhờ tuệ vì đã nhàm chán, ly tham, đoạn diệt, giải thoát không chấp thủ đối với sắc.
 
 Như Lai, bậc A-la-hán, Chánh Đẳng Giác, được gọi là Chánh Đẳng Giác vì đã nhàm chán, ly tham, đoạn diệt, giải thoát không chấp thủ đối với thọ. Vị Tỷ-kheo giải thoát nhờ tuệ cũng được gọi là giải thoát nhờ tuệ vì lý do ấy đối với thọ. Đối với tưởng… đối với các hành… Như Lai, bậc A-la-hán, Chánh Đẳng Giác, được gọi là Chánh Đẳng Giác vì đã nhàm chán, ly tham, đoạn diệt, giải thoát không chấp thủ đối với thức. Vị Tỷ-kheo giải thoát nhờ tuệ cũng được gọi là giải thoát nhờ tuệ vì lý do ấy đối với thức.
 
@@ -1073,7 +1073,7 @@ Vậy thì, này các thầy, có sự khác biệt gì, có sự sai khác gì,
 
 ==== Kinh 22.7. Vô Ngã Tướng (Anattalakkhaṇasuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Bārāṇasī, ở khu vườn nai Isipatana. Tại đó, Thế Tôn gọi nhóm năm Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch Thế Tôn!" Thế Tôn nói:
+#super[1] Một thời, Thế Tôn trú tại Ba-la-nại (Bārāṇasī), ở khu vườn nai Trú xứ chư Tiên (Isipatana). Tại đó, Thế Tôn gọi nhóm năm Tỷ-kheo: "Này các thầy!" Các Tỷ-kheo thưa: "Bạch Thế Tôn!" Thế Tôn nói:
 
 "Này các thầy, sắc là vô ngã. Này các thầy, nếu sắc là tự ngã, thì sắc ấy không thể dẫn đến bệnh hoạn, và người ta có thể mong muốn đối với sắc rằng: 'Sắc của ta hãy như thế này, sắc của ta chớ như thế kia.' Nhưng vì sắc là vô ngã, này các thầy, nên sắc dẫn đến bệnh hoạn, và người ta không thể mong muốn đối với sắc rằng: 'Sắc của ta hãy như thế này, sắc của ta chớ như thế kia.'
 
@@ -1100,7 +1100,7 @@ Này các thầy, thấy như vậy, vị Thánh đệ tử có nghe pháp nhàm
 Thế Tôn nói như vậy. Nhóm năm Tỷ-kheo hoan hỷ, tín thọ lời Thế Tôn. Và trong khi bài giảng này đang được thuyết, tâm của nhóm năm Tỷ-kheo được giải thoát khỏi các lậu hoặc, không còn chấp thủ.
 ==== Kinh 22.8. Mahāli (Mahālisuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Vesāli, tại Đại Lâm, trong giảng đường Kūṭāgāra. Bấy giờ Mahāli, người Licchavi, đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Ngồi xong, ông bạch: "Bạch Thế Tôn, Pūraṇa Kassapa nói thế này: 'Chẳng có nhân, chẳng có duyên nào khiến chúng sanh ô nhiễm — chúng sanh ô nhiễm là không nhân, không duyên. Chẳng có nhân, chẳng có duyên nào khiến chúng sanh thanh tịnh — chúng sanh thanh tịnh là không nhân, không duyên.' Vậy Thế Tôn nói sao?"
+#super[1] Một thời, Thế Tôn trú tại Tỳ-xá-ly (Vesāli), tại Đại Lâm, trong giảng đường Trùng Các (Kūṭāgāra). Bấy giờ Ma-ha-li (Mahāli), người Ly- xa tử (Licchavi), đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Ngồi xong, ông bạch: "Bạch Thế Tôn, Phú-lan-na (Pūraṇa) Ca-diếp (Kassapa) nói thế này: 'Chẳng có nhân, chẳng có duyên nào khiến chúng sanh ô nhiễm — chúng sanh ô nhiễm là không nhân, không duyên. Chẳng có nhân, chẳng có duyên nào khiến chúng sanh thanh tịnh — chúng sanh thanh tịnh là không nhân, không duyên.' Vậy Thế Tôn nói sao?"
 
 "Này Mahāli, có nhân, có duyên khiến chúng sanh ô nhiễm — chúng sanh ô nhiễm là có nhân, có duyên. Có nhân, có duyên khiến chúng sanh thanh tịnh — chúng sanh thanh tịnh là có nhân, có duyên."
 
@@ -1122,11 +1122,11 @@ Giả sử thức hoàn toàn là lạc, chìm trong lạc, bị lạc chi phố
 
 ==== Kinh 22.9. Đang Bốc Cháy (Ādittasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, sắc đang bốc cháy. Thọ đang bốc cháy. Tưởng đang bốc cháy. Các hành đang bốc cháy. Thức đang bốc cháy. Thấy vậy, này các thầy, vị Thánh đệ tử đã nghe pháp nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Nhàm chán rồi thì ly tham; ly tham rồi thì giải thoát. Khi đã giải thoát, khởi lên trí tuệ biết rằng: 'Đã giải thoát.' Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, sắc đang bốc cháy. Thọ đang bốc cháy. Tưởng đang bốc cháy. Các hành đang bốc cháy. Thức đang bốc cháy. Thấy vậy, này các thầy, vị Thánh đệ tử đã nghe pháp nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Nhàm chán rồi thì ly tham; ly tham rồi thì giải thoát. Khi đã giải thoát, khởi lên trí tuệ biết rằng: 'Đã giải thoát.' Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.10. Lối Trình Bày (Niruttipathasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, có ba lối nói, lối gọi tên, lối trình bày này. Ba lối ấy không lẫn lộn, chưa từng lẫn lộn, không bị lẫn lộn, sẽ không bị lẫn lộn, và không bị các Sa-môn, Bà-la-môn có trí chê trách. Thế nào là ba?
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, có ba lối nói, lối gọi tên, lối trình bày này. Ba lối ấy không lẫn lộn, chưa từng lẫn lộn, không bị lẫn lộn, sẽ không bị lẫn lộn, và không bị các Sa-môn, Bà-la-môn có trí chê trách. Thế nào là ba?
 
 Này các thầy, sắc nào đã qua, đã diệt, đã biến đổi thì được gọi là 'đã có', được xem là 'đã có', được trình bày là 'đã có' — không được gọi là 'đang có', cũng không được gọi là 'sẽ có'. Thọ nào, tưởng nào, các hành nào đã qua, đã diệt, đã biến đổi cũng được gọi là 'đã có' — không được gọi là 'đang có', không được gọi là 'sẽ có'. Thức nào đã qua, đã diệt, đã biến đổi cũng được gọi là 'đã có' — không được gọi là 'đang có', không được gọi là 'sẽ có'.
 
@@ -1143,7 +1143,7 @@ Này các thầy, đó là ba lối nói, lối gọi tên, lối trình bày kh
 Chỗ Dựa, Hạt Giống, Lời Cảm Thán, \
 Bốn Vòng Của Thủ Uẩn; \
 Bảy Xứ, Chánh Đẳng Giác, \
-Vô Ngã Tướng, cùng Mahāli; \
+Vô Ngã Tướng, cùng Ma-ha-li (Mahāli); \
 Đang Bốc Cháy, và Lối Trình Bày — \
 phẩm này gồm mười kinh vậy.
 
@@ -1151,7 +1151,7 @@ phẩm này gồm mười kinh vậy.
 
 ==== Kinh 22.1. Chấp Thủ (Upādiyamānasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, trong rừng Kỳ-đà, khu vườn của Cấp Cô Độc. Bấy giờ một Tỷ-kheo đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Ngồi xong, vị ấy bạch: "Bạch Thế Tôn, xin Ngài thuyết pháp vắn tắt cho con. Nghe xong pháp của Thế Tôn, con sẽ sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm."
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), trong rừng Kỳ-đà, khu vườn của Cấp Cô Độc. Bấy giờ một Tỷ-kheo đến gặp Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Ngồi xong, vị ấy bạch: "Bạch Thế Tôn, xin Ngài thuyết pháp vắn tắt cho con. Nghe xong pháp của Thế Tôn, con sẽ sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm."
 
 "Này Tỷ-kheo, ai chấp thủ thì bị Ác ma trói buộc; ai không chấp thủ thì thoát khỏi kẻ ác."
 
@@ -1195,15 +1195,15 @@ Tỷ-kheo ấy hoan hỷ, tùy hỷ lời Thế Tôn dạy, từ chỗ ngồi đ
 
 ==== Kinh 22.9. Rādha (Rādhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Rồi Tôn giả Rādha đến gặp Thế Tôn và bạch: "Bạch Thế Tôn, biết thế nào, thấy thế nào thì đối với cái thân có thức này và đối với tất cả tướng bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Rồi Tôn giả La-đà (Rādha) đến gặp Thế Tôn và bạch: "Bạch Thế Tôn, biết thế nào, thấy thế nào thì đối với cái thân có thức này và đối với tất cả tướng bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn?"
 
-"Này Rādha, sắc nào cũng vậy — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải tự ngã của ta.' Thọ nào cũng vậy, tưởng nào cũng vậy, hành nào cũng vậy, thức nào cũng vậy — tất cả thức ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải tự ngã của ta.' Này Rādha, biết như vậy, thấy như vậy thì đối với cái thân có thức này và đối với tất cả tướng bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn."
+"Này La-đà (Rādha), sắc nào cũng vậy — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải tự ngã của ta.' Thọ nào cũng vậy, tưởng nào cũng vậy, hành nào cũng vậy, thức nào cũng vậy — tất cả thức ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải tự ngã của ta.' Này Rādha, biết như vậy, thấy như vậy thì đối với cái thân có thức này và đối với tất cả tướng bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn."
 
 Rồi Tôn giả Rādha thực hành theo lời dạy này và trở thành một vị A-la-hán.
 
 ==== Kinh 22.10. Surādha (Surādhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Rồi Tôn giả Surādha bạch Thế Tôn: "Bạch Thế Tôn, biết thế nào, thấy thế nào thì đối với cái thân có thức này và đối với tất cả tướng bên ngoài, tâm thoát khỏi ngã kiến, ngã sở kiến và ngã mạn, đã vượt lên trên các phân biệt, an tịnh, khéo giải thoát?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Rồi Tôn giả Surādha bạch Thế Tôn: "Bạch Thế Tôn, biết thế nào, thấy thế nào thì đối với cái thân có thức này và đối với tất cả tướng bên ngoài, tâm thoát khỏi ngã kiến, ngã sở kiến và ngã mạn, đã vượt lên trên các phân biệt, an tịnh, khéo giải thoát?"
 
 "Này Surādha, sắc nào cũng vậy — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — thấy tất cả sắc ấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải tự ngã của ta,' vị ấy được giải thoát, không chấp thủ. Thọ nào cũng vậy, tưởng nào cũng vậy, hành nào cũng vậy, thức nào cũng vậy — thấy tất cả thức ấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải tự ngã của ta,' vị ấy được giải thoát, không chấp thủ. Này Surādha, biết như vậy, thấy như vậy thì đối với cái thân có thức này và đối với tất cả tướng bên ngoài, tâm thoát khỏi ngã kiến, ngã sở kiến và ngã mạn, đã vượt lên trên các phân biệt, an tịnh, khéo giải thoát."
 
@@ -1217,25 +1217,25 @@ Chấp Thủ, Tưởng Tượng, \
 Rồi Thích Thú, Vô Thường; \
 Khổ, Vô Ngã, và Thuộc Về Vô Ngã, \
 Gắn Liền Với Tham Ái; \
-Rādha cùng Surādha — \
+La-đà (Rādha) cùng Surādha — \
 ấy là mười kinh vậy.
 
 === Vagga 8 (nguồn ghi 8). Bị Ăn Nuốt (Khajjanīyavaggo)
 
 ==== Kinh 22.1. Vị Ngọt (Assādasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, kẻ phàm phu chưa nghe pháp không biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; cũng không biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi thọ, tưởng, hành, thức. Còn vị Thánh đệ tử đã nghe pháp thì biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; và biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi thọ, tưởng, hành, thức."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, kẻ phàm phu chưa nghe pháp không biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; cũng không biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi thọ, tưởng, hành, thức. Còn vị Thánh đệ tử đã nghe pháp thì biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; và biết rõ như thật vị ngọt, sự nguy hại và sự xuất ly khỏi thọ, tưởng, hành, thức."
 
 ==== Kinh 22.2. Tập Khởi Thứ Nhất (Samudayasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, kẻ phàm phu chưa nghe pháp không biết rõ như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; cũng không biết rõ như thật các điều ấy đối với thọ, tưởng, hành, thức. Còn vị Thánh đệ tử đã nghe pháp thì biết rõ như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; và biết rõ như thật các điều ấy đối với thọ, tưởng, hành, thức."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, kẻ phàm phu chưa nghe pháp không biết rõ như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; cũng không biết rõ như thật các điều ấy đối với thọ, tưởng, hành, thức. Còn vị Thánh đệ tử đã nghe pháp thì biết rõ như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; và biết rõ như thật các điều ấy đối với thọ, tưởng, hành, thức."
 
 ==== Kinh 22.3. Tập Khởi Thứ Hai (Dutiyasamudayasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, vị Thánh đệ tử đã nghe pháp biết rõ như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; và biết rõ như thật các điều ấy đối với thọ, tưởng, hành, thức."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, vị Thánh đệ tử đã nghe pháp biết rõ như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly khỏi sắc; và biết rõ như thật các điều ấy đối với thọ, tưởng, hành, thức."
 ==== Kinh 22.4. A-la-hán Thứ Nhất (Arahantasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Thế Tôn nói: "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.' Thọ cũng vậy, tưởng cũng vậy, các hành cũng vậy, thức cũng vậy — đều là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.'
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Thế Tôn nói: "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.' Thọ cũng vậy, tưởng cũng vậy, các hành cũng vậy, thức cũng vậy — đều là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.'
 
 Này các thầy, thấy được như vậy, vị Thánh đệ tử đã nghe pháp sẽ nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Vì nhàm chán nên ly tham. Vì ly tham nên giải thoát. Khi đã giải thoát, trong vị ấy khởi lên trí tuệ: 'Đã giải thoát.' Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.' Này các thầy, từ những trú xứ của chúng sanh cho đến đỉnh cao nhất của hữu, các vị ấy là bậc hàng đầu, là bậc tối thượng ở đời — đó là các vị A-la-hán."
 
@@ -1275,13 +1275,13 @@ Các vị Phật là vô thượng ở đời."
 
 ==== Kinh 22.5. A-la-hán Thứ Hai (Dutiyaarahantasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Thế Tôn nói: "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.' Thọ cũng vậy, tưởng cũng vậy, các hành cũng vậy, thức cũng vậy — đều là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.'
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Thế Tôn nói: "Này các thầy, sắc là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.' Thọ cũng vậy, tưởng cũng vậy, các hành cũng vậy, thức cũng vậy — đều là vô thường. Cái gì vô thường thì là khổ. Cái gì là khổ thì là vô ngã. Cái gì vô ngã thì phải được thấy đúng như thật, bằng chánh trí tuệ, rằng: 'Cái này không phải của ta, cái này không phải là ta, cái này không phải tự ngã của ta.'
 
 Này các thầy, thấy được như vậy, vị Thánh đệ tử đã nghe pháp sẽ nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Vì nhàm chán nên ly tham. Vì ly tham nên giải thoát. Khi đã giải thoát, trong vị ấy khởi lên trí tuệ: 'Đã giải thoát.' Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm xong, không còn trở lại trạng thái này nữa.' Này các thầy, từ những trú xứ của chúng sanh cho đến đỉnh cao nhất của hữu, các vị ấy là bậc hàng đầu, là bậc tối thượng ở đời — đó là các vị A-la-hán."
 
 ==== Kinh 22.6. Sư Tử (Sīhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Thế Tôn nói: "Này các thầy, vào buổi chiều tối, sư tử — vua của các loài thú — đi ra khỏi hang. Ra khỏi hang rồi, nó duỗi mình. Duỗi mình rồi, nó nhìn quanh bốn phương. Nhìn quanh bốn phương rồi, nó rống lên tiếng rống sư tử ba lần. Rống ba lần rồi, nó đi tìm mồi. Này các thầy, bất cứ loài thú nào nghe tiếng rống của sư tử, vua các loài thú, phần lớn đều kinh hoàng, sợ hãi, run rẩy. Loài sống trong hang thì chui vào hang. Loài sống trong nước thì lặn xuống nước. Loài sống trong rừng thì chạy vào rừng. Loài chim thì bay lên trời. Này các thầy, cho đến những con voi của vua ở các làng, thị trấn, thủ đô, dù bị trói bằng dây da bền chắc, cũng giằng đứt, xé tan những trói buộc ấy, kinh hoàng, tiểu tiện đại tiện, chạy trốn bất kể phương nào. Này các thầy, đối với các loài thú, sư tử — vua các loài thú — có đại thần lực, đại uy quyền, đại uy lực như vậy.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Thế Tôn nói: "Này các thầy, vào buổi chiều tối, sư tử — vua của các loài thú — đi ra khỏi hang. Ra khỏi hang rồi, nó duỗi mình. Duỗi mình rồi, nó nhìn quanh bốn phương. Nhìn quanh bốn phương rồi, nó rống lên tiếng rống sư tử ba lần. Rống ba lần rồi, nó đi tìm mồi. Này các thầy, bất cứ loài thú nào nghe tiếng rống của sư tử, vua các loài thú, phần lớn đều kinh hoàng, sợ hãi, run rẩy. Loài sống trong hang thì chui vào hang. Loài sống trong nước thì lặn xuống nước. Loài sống trong rừng thì chạy vào rừng. Loài chim thì bay lên trời. Này các thầy, cho đến những con voi của vua ở các làng, thị trấn, thủ đô, dù bị trói bằng dây da bền chắc, cũng giằng đứt, xé tan những trói buộc ấy, kinh hoàng, tiểu tiện đại tiện, chạy trốn bất kể phương nào. Này các thầy, đối với các loài thú, sư tử — vua các loài thú — có đại thần lực, đại uy quyền, đại uy lực như vậy.
 
 Cũng vậy, này các thầy, khi Như Lai xuất hiện ở đời — vị A-la-hán, Chánh Đẳng Giác, đầy đủ Minh Hạnh, Thiện Thệ, thông hiểu thế gian, vô thượng, điều ngự các chúng sanh cần được điều ngự, bậc Đạo Sư của chư thiên và loài người, Đức Phật, Thế Tôn — Ngài thuyết pháp rằng: 'Đây là sắc, đây là sự tập khởi của sắc, đây là sự đoạn diệt của sắc. Đây là thọ… đây là tưởng… đây là các hành… đây là thức, đây là sự tập khởi của thức, đây là sự đoạn diệt của thức.' Này các thầy, cho đến những chư thiên có tuổi thọ dài, có dung sắc, có nhiều lạc, sống lâu ngày trong các cung điện cao — khi nghe pháp thuyết ấy của Như Lai, phần lớn cũng kinh hoàng, sợ hãi, run rẩy: 'Chúng ta vốn vô thường, mà đã tưởng là thường. Chúng ta vốn không bền vững, mà đã tưởng là bền vững. Chúng ta vốn không thường hằng, mà đã tưởng là thường hằng. Thật ra chúng ta vô thường, không bền vững, không thường hằng, bị bao gồm trong thân kiến.' Này các thầy, đối với thế gian có cả chư thiên, Như Lai có đại thần lực, đại uy quyền, đại uy lực như vậy."
 
@@ -1305,7 +1305,7 @@ Bậc đã hoàn toàn giải thoát, an tịnh."
 
 ==== Kinh 22.7. Bị Ăn Nuốt (Khajjanīyasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Thế Tôn nói: "Này các thầy, những Sa-môn hay Bà-la-môn nào nhớ lại nhiều kiếp sống quá khứ khác nhau, đều chỉ nhớ lại năm thủ uẩn, hoặc một trong số các uẩn ấy. Khi nhớ rằng: 'Trong thời quá khứ, ta đã có sắc như vậy' — như vậy, này các thầy, vị ấy chỉ nhớ lại sắc mà thôi. 'Ta đã có thọ như vậy…' — chỉ nhớ lại thọ mà thôi. 'Ta đã có tưởng như vậy…' 'Ta đã có hành như vậy…' 'Trong thời quá khứ, ta đã có thức như vậy' — chỉ nhớ lại thức mà thôi.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Thế Tôn nói: "Này các thầy, những Sa-môn hay Bà-la-môn nào nhớ lại nhiều kiếp sống quá khứ khác nhau, đều chỉ nhớ lại năm thủ uẩn, hoặc một trong số các uẩn ấy. Khi nhớ rằng: 'Trong thời quá khứ, ta đã có sắc như vậy' — như vậy, này các thầy, vị ấy chỉ nhớ lại sắc mà thôi. 'Ta đã có thọ như vậy…' — chỉ nhớ lại thọ mà thôi. 'Ta đã có tưởng như vậy…' 'Ta đã có hành như vậy…' 'Trong thời quá khứ, ta đã có thức như vậy' — chỉ nhớ lại thức mà thôi.
 
 Này các thầy, các thầy gọi sắc là gì? Vì nó 'bị hoại', này các thầy, nên được gọi là 'sắc.' Bị hoại bởi gì? Bị hoại bởi lạnh, bị hoại bởi nóng, bị hoại bởi đói, bị hoại bởi khát, bị hoại bởi sự xúc chạm của ruồi, muỗi, gió, nắng, các loài bò sát. Vì nó 'bị hoại', này các thầy, nên được gọi là 'sắc.'
 
@@ -1337,11 +1337,11 @@ Ngài đang thiền định nhờ vào điều gì."
 
 ==== Kinh 22.8. Piṇḍola (Piṇḍolyasuttaṃ)
 
-#super[1] Một thời, Thế Tôn ngự tại xứ Sakya, ở khu vườn cây bàng Nigrodha, thành Kapilavatthu. Bấy giờ, vì một sự cố nào đó, Thế Tôn đã giải tán chúng Tỷ-kheo. Rồi vào buổi sáng, Ngài đắp y, mang bát, vào thành Kapilavatthu khất thực. Khất thực xong, sau bữa ăn, Ngài đi đến Đại Lâm để nghỉ trưa. Đi sâu vào trong Đại Lâm, Ngài nghỉ trưa dưới gốc cây Beluvalaṭṭhika. Khi đang ở nơi thanh vắng, trong tâm Thế Tôn khởi lên ý nghĩ này: "Ta đã giải tán chúng Tỷ-kheo. Ở đây có những Tỷ-kheo mới, mới xuất gia, mới đến với pháp và luật này. Nếu không được thấy Ta, các vị ấy có thể thay đổi, biến chuyển theo hướng khác. Ví như con nghê nhỏ không thấy mẹ có thể thay đổi, biến chuyển theo hướng khác — cũng vậy, những Tỷ-kheo mới ấy, nếu không được thấy Ta, có thể thay đổi, biến chuyển theo hướng khác. Ví như hạt giống non không có nước có thể thay đổi, biến chuyển theo hướng khác — cũng vậy, những Tỷ-kheo mới ấy, nếu không được thấy Ta, có thể thay đổi, biến chuyển theo hướng khác. Vậy Ta hãy hỗ trợ chúng Tỷ-kheo như trước đây Ta đã từng hỗ trợ."
+#super[1] Một thời, Thế Tôn ngự tại xứ Thích-ca (Sakya), ở khu vườn cây bàng Ni-câu-luật Thọ Viên (Nigrodha), thành Ca-tỳ-la-vệ (Kapilavatthu). Bấy giờ, vì một sự cố nào đó, Thế Tôn đã giải tán chúng Tỷ-kheo. Rồi vào buổi sáng, Ngài đắp y, mang bát, vào thành Ca-tỳ-la-vệ (Kapilavatthu) khất thực. Khất thực xong, sau bữa ăn, Ngài đi đến Đại Lâm để nghỉ trưa. Đi sâu vào trong Đại Lâm, Ngài nghỉ trưa dưới gốc cây Beluvalaṭṭhika. Khi đang ở nơi thanh vắng, trong tâm Thế Tôn khởi lên ý nghĩ này: "Ta đã giải tán chúng Tỷ-kheo. Ở đây có những Tỷ-kheo mới, mới xuất gia, mới đến với pháp và luật này. Nếu không được thấy Ta, các vị ấy có thể thay đổi, biến chuyển theo hướng khác. Ví như con nghê nhỏ không thấy mẹ có thể thay đổi, biến chuyển theo hướng khác — cũng vậy, những Tỷ-kheo mới ấy, nếu không được thấy Ta, có thể thay đổi, biến chuyển theo hướng khác. Ví như hạt giống non không có nước có thể thay đổi, biến chuyển theo hướng khác — cũng vậy, những Tỷ-kheo mới ấy, nếu không được thấy Ta, có thể thay đổi, biến chuyển theo hướng khác. Vậy Ta hãy hỗ trợ chúng Tỷ-kheo như trước đây Ta đã từng hỗ trợ."
 
 Rồi Phạm thiên Sahampati, biết được ý nghĩ trong tâm Thế Tôn — ví như một người lực lưỡng duỗi cánh tay đang co lại, hay co cánh tay đang duỗi ra — biến mất khỏi cõi Phạm thiên, hiện ra trước Thế Tôn. Rồi Phạm thiên Sahampati đắp thượng y qua một bên vai, chắp tay hướng về Thế Tôn, bạch rằng: "Đúng vậy, bạch Thế Tôn! Đúng vậy, bạch Thiện Thệ! Chúng Tỷ-kheo của Thế Tôn đã bị giải tán. Ở đây có những Tỷ-kheo mới, mới xuất gia, mới đến với pháp và luật này. Nếu không được thấy Thế Tôn, các vị ấy có thể thay đổi, biến chuyển theo hướng khác… Mong Thế Tôn hoan hỷ với chúng Tỷ-kheo, mong Thế Tôn khuyến khích chúng Tỷ-kheo. Như trước đây Thế Tôn đã từng hỗ trợ chúng Tỷ-kheo, mong Thế Tôn nay cũng hỗ trợ như vậy."
 
-Thế Tôn im lặng nhận lời. Rồi Phạm thiên Sahampati, biết Thế Tôn đã nhận lời, đảnh lễ Thế Tôn, đi vòng quanh phía bên phải, rồi biến mất ngay tại đó. Vào buổi chiều, Thế Tôn xuất khỏi thiền tịnh, đi đến khu vườn Nigrodha, ngồi xuống trên chỗ đã soạn sẵn. Rồi Ngài thực hiện một loại thần thông, sao cho các Tỷ-kheo ấy — dù chỉ mới xa cách một, hai ngày — vẫn cảm thấy tôn kính mà đến gặp Ngài. Các Tỷ-kheo ấy, dù chỉ mới xa cách một, hai ngày, cảm thấy tôn kính, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên.
+Thế Tôn im lặng nhận lời. Rồi Phạm thiên Sahampati, biết Thế Tôn đã nhận lời, đảnh lễ Thế Tôn, đi vòng quanh phía bên phải, rồi biến mất ngay tại đó. Vào buổi chiều, Thế Tôn xuất khỏi thiền tịnh, đi đến khu vườn Ni-câu-luật Thọ Viên (Nigrodha), ngồi xuống trên chỗ đã soạn sẵn. Rồi Ngài thực hiện một loại thần thông, sao cho các Tỷ-kheo ấy — dù chỉ mới xa cách một, hai ngày — vẫn cảm thấy tôn kính mà đến gặp Ngài. Các Tỷ-kheo ấy, dù chỉ mới xa cách một, hai ngày, cảm thấy tôn kính, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên.
 
 Thế Tôn nói với các Tỷ-kheo ấy: "Này các thầy, đây là chỗ cùng cực của các nghề sinh sống — đó là đi xin ăn. Này các thầy, ở đời có câu nguyền rủa rằng: 'Đồ ăn xin, đi lang thang với bát trong tay!' Nhưng, này các thầy, các thiện nam tử vẫn chấp nhận nghề ấy vì một lý do, một mục đích chính đáng — không phải vì bị vua bắt buộc, không phải vì bị trộm cướp bắt buộc, không phải vì mắc nợ, không phải vì sợ hãi, không phải vì mất phương tiện sinh sống; mà vì đã bị sanh, già, chết, sầu, bi, khổ, ưu, não chi phối, bị khổ chi phối, bị khổ áp đảo, mong rằng có thể tìm được sự chấm dứt của toàn bộ khối khổ này.
 
@@ -1354,11 +1354,11 @@ Này các thầy, có hai loại tà kiến: hữu kiến và vô hữu kiến. 
 Này các thầy, các thầy nghĩ thế nào — sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, có hợp lý chăng khi xem cái ấy là: 'Đây là của ta, đây là ta, đây là tự ngã của ta'?" "Bạch Thế Tôn, không hợp lý." "Thọ… tưởng… các hành… thức… vì vậy, thấy như vậy… vị ấy biết rõ: 'Không còn trở lại trạng thái này nữa.'"
 ==== Kinh 22.9. Pālileyya (Pālileyyasuttaṃ)
 
-#super[1] Một thời, Thế Tôn ở Kosambī, tại tinh xá Ghosita. Sáng hôm ấy, Ngài đắp y, cầm bát, đi vào thành Kosambī khất thực. Đi khất thực xong, ăn bữa trưa rồi, Ngài tự tay dọn dẹp chỗ ở của mình, mang theo y bát. Ngài không báo cho thị giả, không từ giã chúng Tỷ-kheo, một mình lên đường du hành, không ai đi cùng.
+#super[1] Một thời, Thế Tôn ở Kiều-thưởng-di (Kosambī), tại tinh xá Cù-sư-la (Ghosita). Sáng hôm ấy, Ngài đắp y, cầm bát, đi vào thành Kiều-thưởng-di (Kosambī) khất thực. Đi khất thực xong, ăn bữa trưa rồi, Ngài tự tay dọn dẹp chỗ ở của mình, mang theo y bát. Ngài không báo cho thị giả, không từ giã chúng Tỷ-kheo, một mình lên đường du hành, không ai đi cùng.
 
-Không lâu sau, một Tỷ-kheo đến gặp Tôn giả Ānanda và nói: "Này hiền giả Ānanda, Thế Tôn đã tự dọn chỗ ở, mang y bát, không báo thị giả, không từ giã chúng Tỷ-kheo, một mình ra đi du hành, không ai đi cùng." Tôn giả Ānanda đáp: "Này hiền giả, khi Thế Tôn ra đi như thế, nghĩa là Ngài muốn sống một mình. Lúc ấy không ai nên đi theo Ngài."
+Không lâu sau, một Tỷ-kheo đến gặp Tôn giả A-nan (Ānanda) và nói: "Này hiền giả A-nan (Ānanda), Thế Tôn đã tự dọn chỗ ở, mang y bát, không báo thị giả, không từ giã chúng Tỷ-kheo, một mình ra đi du hành, không ai đi cùng." Tôn giả Ānanda đáp: "Này hiền giả, khi Thế Tôn ra đi như thế, nghĩa là Ngài muốn sống một mình. Lúc ấy không ai nên đi theo Ngài."
 
-Thế Tôn đi du hành từng nơi, đến làng Pālileyyaka, và trú dưới gốc cây Bhaddasāla. Nhiều Tỷ-kheo đến gặp Tôn giả Ānanda, chào hỏi rồi ngồi sang một bên, thưa: "Này hiền giả Ānanda, đã lâu chúng tôi chưa được nghe pháp thoại trực tiếp từ Thế Tôn. Chúng tôi muốn được nghe." Tôn giả Ānanda bèn cùng các Tỷ-kheo ấy đến chỗ Thế Tôn tại làng Pālileyyaka, dưới gốc cây Bhaddasāla. Họ đảnh lễ Ngài rồi ngồi sang một bên. Thế Tôn dùng bài pháp giảng dạy, khích lệ, sách tấn, làm cho các Tỷ-kheo ấy hoan hỷ.
+Thế Tôn đi du hành từng nơi, đến làng Ba-li-lê-da-ca (Pālileyyaka), và trú dưới gốc cây Bhaddasāla. Nhiều Tỷ-kheo đến gặp Tôn giả Ānanda, chào hỏi rồi ngồi sang một bên, thưa: "Này hiền giả Ānanda, đã lâu chúng tôi chưa được nghe pháp thoại trực tiếp từ Thế Tôn. Chúng tôi muốn được nghe." Tôn giả Ānanda bèn cùng các Tỷ-kheo ấy đến chỗ Thế Tôn tại làng Pālileyyaka, dưới gốc cây Bhaddasāla. Họ đảnh lễ Ngài rồi ngồi sang một bên. Thế Tôn dùng bài pháp giảng dạy, khích lệ, sách tấn, làm cho các Tỷ-kheo ấy hoan hỷ.
 
 Lúc ấy, một Tỷ-kheo khởi lên ý nghĩ trong tâm: "Phải biết thế nào, thấy thế nào, thì ngay sau đó các lậu hoặc được đoạn tận?" Thế Tôn biết ý nghĩ ấy, liền gọi các Tỷ-kheo: "Này các thầy, Ta đã thuyết pháp một cách có phân loại. Ta đã thuyết Bốn Niệm Xứ, Bốn Chánh Cần, Bốn Thần Túc, Năm Căn, Năm Lực, Bảy Giác Chi, Bát Thánh Đạo — tất cả đều có phân loại. Ta đã thuyết pháp có phân loại như vậy, mà ở đây vẫn có một Tỷ-kheo khởi ý nghĩ: 'Phải biết thế nào, thấy thế nào, thì ngay sau đó các lậu hoặc được đoạn tận?'
 
@@ -1380,7 +1380,7 @@ Kẻ ấy không có kiến chấp thường tồn, không có kiến chấp đo
 
 ==== Kinh 22.10. Puṇṇama (Puṇṇamasuttaṃ)
 
-#super[1] Một thời, Thế Tôn ở Sāvatthi, tại lầu của Migāramātā trong Đông Viên, cùng với đại chúng Tỷ-kheo. Hôm ấy là ngày Bố-tát, ngày rằm, đêm trăng tròn. Thế Tôn ngồi ngoài trời, chúng Tỷ-kheo vây quanh. Rồi một Tỷ-kheo từ chỗ ngồi đứng dậy, đắp thượng y qua một bên vai, chắp tay hướng về Thế Tôn, bạch: "Bạch Thế Tôn, con muốn hỏi Thế Tôn một điều, nếu Thế Tôn cho con cơ hội để đặt câu hỏi." "Vậy thì, này Tỷ-kheo, hãy ngồi vào chỗ của mình rồi hỏi điều ông muốn."
+#super[1] Một thời, Thế Tôn ở Xá-vệ (Sāvatthi), tại lầu của Lộc Mẫu (Migāramātā) trong Đông Viên, cùng với đại chúng Tỷ-kheo. Hôm ấy là ngày Bố-tát, ngày rằm, đêm trăng tròn. Thế Tôn ngồi ngoài trời, chúng Tỷ-kheo vây quanh. Rồi một Tỷ-kheo từ chỗ ngồi đứng dậy, đắp thượng y qua một bên vai, chắp tay hướng về Thế Tôn, bạch: "Bạch Thế Tôn, con muốn hỏi Thế Tôn một điều, nếu Thế Tôn cho con cơ hội để đặt câu hỏi." "Vậy thì, này Tỷ-kheo, hãy ngồi vào chỗ của mình rồi hỏi điều ông muốn."
 
 "Vâng, bạch Thế Tôn." Tỷ-kheo ấy vâng lời Thế Tôn, ngồi vào chỗ của mình, rồi bạch: "Bạch Thế Tôn, có phải năm thủ uẩn là sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn?" "Này Tỷ-kheo, chính là năm thủ uẩn ấy: sắc thủ uẩn… cho đến thức thủ uẩn."
 
@@ -1426,19 +1426,19 @@ Pālileyya, và Puṇṇama.
 
 ==== Kinh 22.1. Ānanda (Ānandasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tại đó, Tôn giả Ānanda nói với các Tỷ-kheo: "Này các hiền giả!" "Vâng, hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Ānanda. Tôn giả Ānanda nói: "Này các hiền giả, Tôn giả Puṇṇa Mantāṇiputta rất có ích cho chúng ta, những vị còn mới tu, khi chúng tôi còn là những Tỷ-kheo mới. Ngài đã khuyên dạy chúng tôi bằng lời khuyên như vầy: 'Này hiền giả Ānanda, do chấp thủ mà có ý nghĩ "ta là", không phải do không chấp thủ. Chấp thủ điều gì mà có ý nghĩ "ta là"? Chấp thủ sắc mà có ý nghĩ "ta là", không phải do không chấp thủ. Chấp thủ thọ… tưởng… hành… chấp thủ thức mà có ý nghĩ "ta là", không phải do không chấp thủ.'
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tại đó, Tôn giả A-nan (Ānanda) nói với các Tỷ-kheo: "Này các hiền giả!" "Vâng, hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả A-nan (Ānanda). Tôn giả Ānanda nói: "Này các hiền giả, Tôn giả Phú-lâu-na (Puṇṇa) Mãn-từ tử (Mantāṇiputta) rất có ích cho chúng ta, những vị còn mới tu, khi chúng tôi còn là những Tỷ-kheo mới. Ngài đã khuyên dạy chúng tôi bằng lời khuyên như vầy: 'Này hiền giả Ānanda, do chấp thủ mà có ý nghĩ "ta là", không phải do không chấp thủ. Chấp thủ điều gì mà có ý nghĩ "ta là"? Chấp thủ sắc mà có ý nghĩ "ta là", không phải do không chấp thủ. Chấp thủ thọ… tưởng… hành… chấp thủ thức mà có ý nghĩ "ta là", không phải do không chấp thủ.'
 
 'Ví như, hiền giả Ānanda, một người nữ hay người nam, còn trẻ, ưa chuộng trang sức, nhìn hình ảnh gương mặt mình trong một tấm gương sạch, trong sáng, hoặc trong một chậu nước trong — việc nhìn thấy ấy là do có chấp thủ, không phải do không chấp thủ. Cũng vậy, hiền giả Ānanda, do chấp thủ sắc mà có ý nghĩ "ta là", không phải do không chấp thủ. Chấp thủ thọ… tưởng… hành… chấp thủ thức mà có ý nghĩ "ta là", không phải do không chấp thủ.'
 
 'Này hiền giả Ānanda, ngươi nghĩ sao — sắc là thường hay vô thường?' 'Vô thường, hiền giả.' 'Thọ… tưởng… hành… thức là thường hay vô thường?' 'Vô thường, hiền giả.' 'Vì vậy… thấy như vậy… vị ấy biết rõ: Không còn trở lại trạng thái này nữa.'
 
-Này các hiền giả, Tôn giả Puṇṇa Mantāṇiputta rất có ích cho chúng ta, những vị còn mới tu, khi chúng tôi còn là những Tỷ-kheo mới. Ngài đã khuyên dạy chúng tôi bằng lời khuyên như vậy. Và sau khi nghe bài pháp này của Tôn giả Puṇṇa Mantāṇiputta, tôi đã thông đạt được Chánh pháp."
+Này các hiền giả, Tôn giả Phú-lâu-na (Puṇṇa) Mãn-từ tử (Mantāṇiputta) rất có ích cho chúng ta, những vị còn mới tu, khi chúng tôi còn là những Tỷ-kheo mới. Ngài đã khuyên dạy chúng tôi bằng lời khuyên như vậy. Và sau khi nghe bài pháp này của Tôn giả Puṇṇa Mantāṇiputta, tôi đã thông đạt được Chánh pháp."
 
 ==== Kinh 22.2. Tissa (Tissasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Bấy giờ, Tôn giả Tissa, con của cô Thế Tôn, nói với nhiều Tỷ-kheo: "Này các hiền giả, thân tôi như bị mê mờ; các phương hướng không còn rõ ràng với tôi; các pháp không còn hiện rõ với tôi; tâm tôi bị hôn trầm thụy miên chi phối, chiếm lĩnh; tôi sống không hoan hỷ trong Phạm hạnh; tôi còn hoài nghi đối với các pháp."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Bấy giờ, Tôn giả Đề-xá (Tissa), con của cô Thế Tôn, nói với nhiều Tỷ-kheo: "Này các hiền giả, thân tôi như bị mê mờ; các phương hướng không còn rõ ràng với tôi; các pháp không còn hiện rõ với tôi; tâm tôi bị hôn trầm thụy miên chi phối, chiếm lĩnh; tôi sống không hoan hỷ trong Phạm hạnh; tôi còn hoài nghi đối với các pháp."
 
-Nhiều Tỷ-kheo đến chỗ Thế Tôn, trình lại lời của Tôn giả Tissa. Thế Tôn bảo một Tỷ-kheo khác đi mời Tôn giả Tissa. Tôn giả Tissa đến, ngồi sang một bên. Thế Tôn hỏi: "Này Tissa, có thật ông đã nói với nhiều Tỷ-kheo như vậy không?" "Vâng, bạch Thế Tôn."
+Nhiều Tỷ-kheo đến chỗ Thế Tôn, trình lại lời của Tôn giả Đề-xá (Tissa). Thế Tôn bảo một Tỷ-kheo khác đi mời Tôn giả Tissa. Tôn giả Tissa đến, ngồi sang một bên. Thế Tôn hỏi: "Này Tissa, có thật ông đã nói với nhiều Tỷ-kheo như vậy không?" "Vâng, bạch Thế Tôn."
 
 "Này Tissa, ông nghĩ sao — đối với người chưa lìa tham, chưa lìa ước muốn, chưa lìa tình yêu, chưa lìa khát khao, chưa lìa nhiệt não, chưa lìa ái đối với sắc, khi sắc ấy biến đổi, đổi khác, có sanh khởi sầu, bi, khổ, ưu, não nơi người ấy không?" "Vâng, bạch Thế Tôn." "Lành thay, lành thay, Tissa! Đúng vậy, Tissa, sự việc là như thế. Cũng vậy, đối với người chưa lìa tham đối với thọ… tưởng… các hành… thức, khi chúng biến đổi, đổi khác, có sanh khởi sầu, bi, khổ, ưu, não." "Vâng, bạch Thế Tôn."
 
@@ -1453,11 +1453,11 @@ Này Tissa, Ta làm ví dụ này để nói rõ ý nghĩa. Ý nghĩa ở đây 
 Hãy an vui, Tissa, hãy an vui! Ta sẽ khuyên dạy, sẽ hỗ trợ, sẽ giáo huấn cho ông." Thế Tôn nói như vậy. Tôn giả Tissa hoan hỷ, tín thọ lời Thế Tôn.
 ==== Kinh 22.3. Yamaka (Yamakasuttaṃ)
 
-#super[1] Một thời, Tôn giả Sāriputta ở Sāvatthi, trong rừng Kỳ-đà, khu vườn của ông Cấp Cô Độc. Lúc ấy có một Tỷ-kheo tên Yamaka khởi lên một tà kiến. Ông nghĩ: "Ta hiểu pháp Thế Tôn dạy như vầy — một Tỷ-kheo đã đoạn tận lậu hoặc, khi thân hoại thì bị đoạn tận, bị tiêu diệt, sau khi chết không còn tồn tại nữa."
+#super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) ở Xá-vệ (Sāvatthi), trong rừng Kỳ-đà, khu vườn của ông Cấp Cô Độc. Lúc ấy có một Tỷ-kheo tên Yamaka khởi lên một tà kiến. Ông nghĩ: "Ta hiểu pháp Thế Tôn dạy như vầy — một Tỷ-kheo đã đoạn tận lậu hoặc, khi thân hoại thì bị đoạn tận, bị tiêu diệt, sau khi chết không còn tồn tại nữa."
 
 Nhiều Tỷ-kheo nghe được chuyện ấy, đến gặp Yamaka, hỏi xem có đúng ông nói vậy không. Yamaka xác nhận là đúng. Các Tỷ-kheo khuyên: "Này hiền giả Yamaka, đừng nói thế, đừng xuyên tạc Thế Tôn. Xuyên tạc Thế Tôn là điều không tốt. Thế Tôn không hề nói như vậy đâu." Nhưng Yamaka vẫn ngoan cố giữ tà kiến ấy.
 
-Không làm cho Yamaka từ bỏ được, các Tỷ-kheo ấy đến gặp Tôn giả Sāriputta, thuật lại đầu đuôi sự việc, rồi thỉnh Tôn giả vì lòng thương xót mà đến gặp Yamaka. Tôn giả Sāriputta im lặng nhận lời. Chiều hôm ấy, Tôn giả đến chỗ Yamaka, hỏi lại điều ấy. Yamaka xác nhận như trước.
+Không làm cho Yamaka từ bỏ được, các Tỷ-kheo ấy đến gặp Tôn giả Xá-lợi-phất (Sāriputta), thuật lại đầu đuôi sự việc, rồi thỉnh Tôn giả vì lòng thương xót mà đến gặp Yamaka. Tôn giả Sāriputta im lặng nhận lời. Chiều hôm ấy, Tôn giả đến chỗ Yamaka, hỏi lại điều ấy. Yamaka xác nhận như trước.
 
 Tôn giả Sāriputta hỏi: "Này hiền giả Yamaka, ngươi nghĩ sao — sắc là thường hay vô thường?" "Vô thường, thưa hiền giả." "Thọ… tưởng… hành… thức là thường hay vô thường?" "Vô thường, thưa hiền giả." "Vì vậy… thấy như vậy… vị ấy biết rõ: 'Không còn trở lại trạng thái này nữa.'"
 
@@ -1483,7 +1483,7 @@ Còn vị Thánh đệ tử có nghe pháp, có thấy các bậc Thánh, khéo 
 
 ==== Kinh 22.4. Anurādha (Anurādhasuttaṃ)
 
-#super[1] Một thời, Thế Tôn ở Vesāli, trong rừng Đại Lâm, tại giảng đường Kūṭāgāra. Bấy giờ, Tôn giả Anurādha ở trong một cái cốc lá nhỏ trong rừng, không xa Thế Tôn. Có nhiều du sĩ ngoại đạo đến gặp Tôn giả Anurādha, hỏi: "Này hiền giả Anurādha, Như Lai, bậc thượng nhân, tối thượng nhân, đã đạt được sự chứng đắc tối thượng — Như Lai ấy được tuyên bố theo bốn trường hợp này: 'Như Lai tồn tại sau khi chết,' hoặc 'Như Lai không tồn tại sau khi chết,' hoặc 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết,' hoặc 'Như Lai không tồn tại cũng không không tồn tại sau khi chết' — có phải vậy không?"
+#super[1] Một thời, Thế Tôn ở Tỳ-xá-ly (Vesāli), trong rừng Đại Lâm, tại giảng đường Trùng Các (Kūṭāgāra). Bấy giờ, Tôn giả A-nu-luật-đà (Anurādha) ở trong một cái cốc lá nhỏ trong rừng, không xa Thế Tôn. Có nhiều du sĩ ngoại đạo đến gặp Tôn giả A-nu-luật-đà (Anurādha), hỏi: "Này hiền giả Anurādha, Như Lai, bậc thượng nhân, tối thượng nhân, đã đạt được sự chứng đắc tối thượng — Như Lai ấy được tuyên bố theo bốn trường hợp này: 'Như Lai tồn tại sau khi chết,' hoặc 'Như Lai không tồn tại sau khi chết,' hoặc 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết,' hoặc 'Như Lai không tồn tại cũng không không tồn tại sau khi chết' — có phải vậy không?"
 
 Tôn giả Anurādha đáp: "Này các hiền giả, Như Lai, bậc thượng nhân, được tuyên bố ngoài bốn trường hợp này." Các du sĩ ngoại đạo chê bai: "Vị Tỷ-kheo này chắc còn mới, mới xuất gia; hoặc là một vị trưởng lão mà ngu dốt, không thông thạo." Rồi họ đứng dậy bỏ đi.
 
@@ -1497,7 +1497,7 @@ Thế Tôn hỏi: "Này Anurādha, ông nghĩ sao — sắc là thường hay v�
 
 ==== Kinh 22.5. Vakkali (Vakkalisuttaṃ)
 
-#super[1] Một thời, Thế Tôn ở Rājagaha, tại Trúc Lâm, chỗ nuôi sóc. Bấy giờ, Tôn giả Vakkali đang bị bệnh, đau đớn, bệnh nặng, ở tại nhà người thợ gốm. Tôn giả Vakkali nhờ các thị giả đến bạch Thế Tôn về bệnh tình, thỉnh Thế Tôn vì lòng thương xót mà đến thăm. Thế Tôn im lặng nhận lời, đi đến chỗ Tôn giả Vakkali.
+#super[1] Một thời, Thế Tôn ở Vương Xá (Rājagaha), tại Trúc Lâm, chỗ nuôi sóc. Bấy giờ, Tôn giả Vakkali đang bị bệnh, đau đớn, bệnh nặng, ở tại nhà người thợ gốm. Tôn giả Vakkali nhờ các thị giả đến bạch Thế Tôn về bệnh tình, thỉnh Thế Tôn vì lòng thương xót mà đến thăm. Thế Tôn im lặng nhận lời, đi đến chỗ Tôn giả Vakkali.
 
 Thấy Thế Tôn từ xa đi đến, Tôn giả Vakkali định ngồi dậy khỏi giường. Thế Tôn bảo: "Thôi, Vakkali, đừng ngồi dậy khỏi giường. Đã có chỗ ngồi soạn sẵn, Ta sẽ ngồi ở đó." Thế Tôn ngồi xuống, hỏi: "Này Vakkali, ông có chịu đựng được không, có sống được không? Các cảm giác khổ có giảm bớt, không tăng thêm không? Có thấy dấu hiệu giảm bớt, không thấy dấu hiệu tăng thêm không?" "Bạch Thế Tôn, con không chịu đựng được, không sống được. Các cảm giác khổ đau nặng nề của con đang tăng thêm, không giảm bớt; con thấy dấu hiệu tăng thêm, không thấy dấu hiệu giảm bớt."
 
@@ -1507,17 +1507,17 @@ Thấy Thế Tôn từ xa đi đến, Tôn giả Vakkali định ngồi dậy kh
 
 Này Vakkali, ông nghĩ sao — sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Thọ… tưởng… hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Vì vậy… thấy như vậy… vị ấy biết rõ: 'Không còn trở lại trạng thái này nữa.'"
 
-Khuyên dạy Tôn giả Vakkali như vậy xong, Thế Tôn từ chỗ ngồi đứng dậy, đi đến núi Gijjhakūṭa. Chẳng bao lâu sau khi Thế Tôn ra đi, Tôn giả Vakkali nói với các thị giả: "Này các hiền giả, hãy đưa tôi lên giường, khiêng đến tảng đá đen ở sườn núi Isigili. Làm sao một người như tôi lại có thể nghĩ đến việc chết trong khu nhà ở giữa làng?"
+Khuyên dạy Tôn giả Vakkali như vậy xong, Thế Tôn từ chỗ ngồi đứng dậy, đi đến núi Linh Thứu (Gijjhakūṭa). Chẳng bao lâu sau khi Thế Tôn ra đi, Tôn giả Vakkali nói với các thị giả: "Này các hiền giả, hãy đưa tôi lên giường, khiêng đến tảng đá đen ở sườn núi Thôn tiên (Isigili). Làm sao một người như tôi lại có thể nghĩ đến việc chết trong khu nhà ở giữa làng?"
 
-Bấy giờ, Thế Tôn đang ở núi Gijjhakūṭa suốt đêm ấy và ngày hôm đó. Có hai vị chư thiên, vào lúc đêm đã khuya, với dung sắc thù thắng, chiếu sáng khắp núi Gijjhakūṭa, đi đến Thế Tôn, đứng một bên. Một vị chư thiên thưa: "Thưa Ngài, Tỷ-kheo Vakkali đang hướng tâm đến sự giải thoát." Vị chư thiên kia thưa: "Thưa Ngài, chắc chắn vị ấy sẽ giải thoát khéo." Nói xong, hai vị chư thiên đảnh lễ Thế Tôn, đi vòng quanh phía bên phải, rồi biến mất ngay tại đó.
+Bấy giờ, Thế Tôn đang ở núi Linh Thứu (Gijjhakūṭa) suốt đêm ấy và ngày hôm đó. Có hai vị chư thiên, vào lúc đêm đã khuya, với dung sắc thù thắng, chiếu sáng khắp núi Gijjhakūṭa, đi đến Thế Tôn, đứng một bên. Một vị chư thiên thưa: "Thưa Ngài, Tỷ-kheo Vakkali đang hướng tâm đến sự giải thoát." Vị chư thiên kia thưa: "Thưa Ngài, chắc chắn vị ấy sẽ giải thoát khéo." Nói xong, hai vị chư thiên đảnh lễ Thế Tôn, đi vòng quanh phía bên phải, rồi biến mất ngay tại đó.
 
 Sáng hôm sau, Thế Tôn gọi các Tỷ-kheo, thuật lại lời của hai vị chư thiên, và bảo họ đến nói với Tỷ-kheo Vakkali: "Thế Tôn bảo với ông: 'Chớ sợ, Vakkali; chớ sợ, Vakkali! Cái chết của ông sẽ không phải là ác; việc mệnh chung của ông sẽ không phải là ác.'" Các Tỷ-kheo đến, truyền lại lời ấy. Tôn giả Vakkali bảo đưa mình xuống khỏi giường, nhờ các Tỷ-kheo đảnh lễ Thế Tôn thay mình, và trình bày: "Sắc là vô thường; điều này con không hoài nghi. Cái gì vô thường là khổ; điều này con không hoài nghi. Cái gì vô thường, khổ, chịu sự biến hoại, đối với cái ấy con không còn ước muốn, tham luyến hay yêu mến; con không hoài nghi điều này. Thọ… tưởng… các hành… thức là vô thường; điều này con không hoài nghi. Cái gì vô thường là khổ… đối với cái ấy con không còn ước muốn, tham luyến hay yêu mến; con không hoài nghi điều này."
 
-Các Tỷ-kheo ấy vâng lời, ra đi. Họ đi chưa lâu thì Tôn giả Vakkali dùng dao tự sát. Các Tỷ-kheo ấy trở lại, bạch Thế Tôn lời trình bày của Tôn giả Vakkali. Thế Tôn bảo các Tỷ-kheo cùng đến tảng đá đen ở sườn núi Isigili, nơi Tôn giả Vakkali đã dùng dao tự sát. Từ xa, Thế Tôn thấy Tôn giả Vakkali nằm trên giường, thân đã đổ nghiêng. Bấy giờ, có một luồng khói, một luồng bóng tối di chuyển về phương đông, phương tây, phương bắc, phương nam, lên trên, xuống dưới, và các phương phụ. Thế Tôn nói: "Này các thầy, các thầy có thấy luồng khói, luồng bóng tối ấy không?" "Có, bạch Thế Tôn." "Này các thầy, đó là Ác ma đang tìm kiếm thức của thiện nam tử Vakkali, muốn biết: 'Thức của thiện nam tử Vakkali an trú ở đâu?' Nhưng này các thầy, thiện nam tử Vakkali đã nhập Niết-bàn với thức không còn an trú ở đâu nữa."
+Các Tỷ-kheo ấy vâng lời, ra đi. Họ đi chưa lâu thì Tôn giả Vakkali dùng dao tự sát. Các Tỷ-kheo ấy trở lại, bạch Thế Tôn lời trình bày của Tôn giả Vakkali. Thế Tôn bảo các Tỷ-kheo cùng đến tảng đá đen ở sườn núi Thôn tiên (Isigili), nơi Tôn giả Vakkali đã dùng dao tự sát. Từ xa, Thế Tôn thấy Tôn giả Vakkali nằm trên giường, thân đã đổ nghiêng. Bấy giờ, có một luồng khói, một luồng bóng tối di chuyển về phương đông, phương tây, phương bắc, phương nam, lên trên, xuống dưới, và các phương phụ. Thế Tôn nói: "Này các thầy, các thầy có thấy luồng khói, luồng bóng tối ấy không?" "Có, bạch Thế Tôn." "Này các thầy, đó là Ác ma đang tìm kiếm thức của thiện nam tử Vakkali, muốn biết: 'Thức của thiện nam tử Vakkali an trú ở đâu?' Nhưng này các thầy, thiện nam tử Vakkali đã nhập Niết-bàn với thức không còn an trú ở đâu nữa."
 
 ==== Kinh 22.6. Assaji (Assajisuttaṃ)
 
-#super[1] Một thời, Thế Tôn ở Rājagaha, tại Trúc Lâm, chỗ nuôi sóc. Bấy giờ, Tôn giả Assaji đang bị bệnh, đau đớn, bệnh nặng, ở tại tinh xá Kassapaka. Cũng theo cách thức như với Tôn giả Vakkali, các thị giả đến bạch Thế Tôn, Thế Tôn đến thăm. Tôn giả Assaji định ngồi dậy, Thế Tôn bảo đừng ngồi dậy, rồi ngồi vào chỗ soạn sẵn, hỏi: "Này Assaji, ông có chịu đựng được không, có sống được không?… Có thấy dấu hiệu tăng thêm, không thấy dấu hiệu giảm bớt không?" "Bạch Thế Tôn, con không chịu đựng được… con thấy dấu hiệu tăng thêm, không thấy dấu hiệu giảm bớt."
+#super[1] Một thời, Thế Tôn ở Vương Xá (Rājagaha), tại Trúc Lâm, chỗ nuôi sóc. Bấy giờ, Tôn giả Assaji đang bị bệnh, đau đớn, bệnh nặng, ở tại tinh xá Kassapaka. Cũng theo cách thức như với Tôn giả Vakkali, các thị giả đến bạch Thế Tôn, Thế Tôn đến thăm. Tôn giả Assaji định ngồi dậy, Thế Tôn bảo đừng ngồi dậy, rồi ngồi vào chỗ soạn sẵn, hỏi: "Này Assaji, ông có chịu đựng được không, có sống được không?… Có thấy dấu hiệu tăng thêm, không thấy dấu hiệu giảm bớt không?" "Bạch Thế Tôn, con không chịu đựng được… con thấy dấu hiệu tăng thêm, không thấy dấu hiệu giảm bớt."
 
 "Này Assaji, ông có điều gì hối hận, có điều gì ăn năn không?" "Bạch Thế Tôn, con thật có nhiều điều hối hận." "Tự ông có điều gì để tự trách về giới hạnh không?" "Bạch Thế Tôn, con không có điều gì để tự trách về giới hạnh." "Vì sao ông hối hận, vì sao ông ăn năn?" "Bạch Thế Tôn, trước đây khi còn bệnh, con vẫn có thể an tịnh các hành của thân mà sống, nhưng nay con không đạt được định. Con nghĩ: 'Mong rằng ta không bị thoái thất!'"
 
@@ -1531,7 +1531,7 @@ Này Assaji, ví như một cây đèn dầu cháy nhờ có dầu và có tim �
 
 ==== Kinh 22.7. Khemaka (Khemakasuttaṃ)
 
-#super[1] Một thời, nhiều vị trưởng lão ở Kosambī, tại tinh xá Ghosita. Bấy giờ, Tôn giả Khemaka đang bị bệnh, đau đớn, bệnh nặng, ở tại tinh xá Badarika. Các vị trưởng lão nhờ Tôn giả Dāsaka đi hỏi thăm bệnh tình. Tôn giả Khemaka đáp: "Tôi không chịu đựng được, không sống được…" Các vị trưởng lão lại nhờ Tôn giả Dāsaka đi hỏi tiếp: "Có năm thủ uẩn được Thế Tôn nói đến — sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Tôn giả Khemaka có thấy điều gì là tự ngã hay thuộc về tự ngã trong năm thủ uẩn ấy không?" Tôn giả Khemaka đáp: "Tôi không thấy điều gì là tự ngã hay thuộc về tự ngã trong năm thủ uẩn ấy."
+#super[1] Một thời, nhiều vị trưởng lão ở Kiều-thưởng-di (Kosambī), tại tinh xá Cù-sư-la (Ghosita). Bấy giờ, Tôn giả Khemaka đang bị bệnh, đau đớn, bệnh nặng, ở tại tinh xá Badarika. Các vị trưởng lão nhờ Tôn giả Dāsaka đi hỏi thăm bệnh tình. Tôn giả Khemaka đáp: "Tôi không chịu đựng được, không sống được…" Các vị trưởng lão lại nhờ Tôn giả Dāsaka đi hỏi tiếp: "Có năm thủ uẩn được Thế Tôn nói đến — sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Tôn giả Khemaka có thấy điều gì là tự ngã hay thuộc về tự ngã trong năm thủ uẩn ấy không?" Tôn giả Khemaka đáp: "Tôi không thấy điều gì là tự ngã hay thuộc về tự ngã trong năm thủ uẩn ấy."
 
 Các vị trưởng lão nghe vậy, nhờ Tôn giả Dāsaka nói tiếp: "Nếu Tôn giả Khemaka không thấy điều gì là tự ngã hay thuộc về tự ngã trong năm thủ uẩn ấy, thì Tôn giả Khemaka là vị A-la-hán, đã đoạn tận lậu hoặc." Tôn giả Khemaka đáp: "Tôi không thấy điều gì là tự ngã hay thuộc về tự ngã trong năm thủ uẩn ấy, nhưng tôi không phải là vị A-la-hán, đã đoạn tận lậu hoặc. Này các hiền giả, đối với năm thủ uẩn, tôi vẫn còn dư sót ý nghĩ 'ta là,' nhưng tôi không thấy rằng: 'Đây là ta.'"
 
@@ -1548,15 +1548,15 @@ Này các hiền giả, ví như một tấm áo dơ bẩn, dính đầy vết b
 Nghe vậy, các vị trưởng lão nói với Tôn giả Khemaka: "Chúng tôi hỏi hiền giả không phải để gây khó khăn, mà vì hiền giả có khả năng trình bày, giảng giải, chỉ rõ, thiết lập, khai mở, phân tích, làm sáng tỏ lời dạy của Thế Tôn một cách rộng rãi. Và hiền giả đã trình bày, giảng giải, chỉ rõ, thiết lập, khai mở, phân tích, làm sáng tỏ lời dạy của Thế Tôn một cách rộng rãi như vậy." Tôn giả Khemaka nói như vậy. Các vị trưởng lão hoan hỷ, tùy hỷ lời của Tôn giả Khemaka. Và trong khi bài giảng này đang được thuyết, tâm của sáu mươi vị trưởng lão cùng tâm của Tôn giả Khemaka được giải thoát khỏi các lậu hoặc, không còn chấp thủ.
 ==== Kinh 22.8. Channa (Channasuttaṃ)
 
-#super[1] Một thời, có nhiều vị trưởng lão trú tại Bārāṇasī, trong khu vườn nai Isipatana. Một buổi chiều, Tôn giả Channa ra khỏi thiền tịnh, cầm chìa khóa đi từ tinh xá này sang tinh xá khác, thưa với các vị trưởng lão: "Xin các vị trưởng lão khuyên dạy tôi, giáo huấn tôi, thuyết pháp cho tôi, để tôi có thể thấy được Pháp." Các vị trưởng lão đáp: "Này hiền giả Channa, sắc là vô thường, thọ là vô thường, tưởng là vô thường, các hành là vô thường, thức là vô thường. Sắc là vô ngã, thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã. Tất cả các hành là vô thường, tất cả các pháp là vô ngã."
+#super[1] Một thời, có nhiều vị trưởng lão trú tại Ba-la-nại (Bārāṇasī), trong khu vườn nai Trú xứ chư Tiên (Isipatana). Một buổi chiều, Tôn giả Xa-nặc (Channa) ra khỏi thiền tịnh, cầm chìa khóa đi từ tinh xá này sang tinh xá khác, thưa với các vị trưởng lão: "Xin các vị trưởng lão khuyên dạy tôi, giáo huấn tôi, thuyết pháp cho tôi, để tôi có thể thấy được Pháp." Các vị trưởng lão đáp: "Này hiền giả Xa-nặc (Channa), sắc là vô thường, thọ là vô thường, tưởng là vô thường, các hành là vô thường, thức là vô thường. Sắc là vô ngã, thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã. Tất cả các hành là vô thường, tất cả các pháp là vô ngã."
 
 Tôn giả Channa nghĩ: "Những điều này tôi cũng biết — sắc vô thường cho đến thức vô thường, sắc vô ngã cho đến thức vô ngã, tất cả các hành vô thường, tất cả các pháp vô ngã. Nhưng khi nghĩ đến sự an tịnh tất cả các hành, sự xả ly tất cả sanh y, sự đoạn tận ái, ly tham, đoạn diệt, Niết-bàn — tâm tôi không đi vào, không hoan hỷ, không an trú, không tin tưởng. Nỗi lo sợ và sự chấp thủ lại sanh lên, tâm quay ngược lại: 'Vậy thì tự ngã của ta là gì?' Mà nghĩ như vậy thì không phải là thấy Pháp. Ai có thể thuyết pháp cho tôi, để tôi thấy được Pháp?"
 
-Rồi Tôn giả Channa nghĩ tiếp: "Tôn giả Ānanda hiện trú tại Kosambī, ở tinh xá Ghosita. Vị ấy được Đạo Sư khen ngợi, được các bậc đồng tu có trí kính trọng. Tôn giả Ānanda có thể thuyết pháp cho tôi để tôi thấy được Pháp, và tôi lại có lòng tin đối với vị ấy. Vậy ta hãy đến gặp Tôn giả Ānanda." Tôn giả Channa thu dọn chỗ nghỉ, mang y bát, đi đến tinh xá Ghosita gặp Tôn giả Ānanda, thuật lại toàn bộ sự việc, rồi thỉnh cầu: "Mong Tôn giả Ānanda khuyên dạy tôi, giáo huấn tôi, thuyết pháp cho tôi, để tôi thấy được Pháp."
+Rồi Tôn giả Channa nghĩ tiếp: "Tôn giả A-nan (Ānanda) hiện trú tại Kiều-thưởng-di (Kosambī), ở tinh xá Cù-sư-la (Ghosita). Vị ấy được Đạo Sư khen ngợi, được các bậc đồng tu có trí kính trọng. Tôn giả A-nan (Ānanda) có thể thuyết pháp cho tôi để tôi thấy được Pháp, và tôi lại có lòng tin đối với vị ấy. Vậy ta hãy đến gặp Tôn giả Ānanda." Tôn giả Channa thu dọn chỗ nghỉ, mang y bát, đi đến tinh xá Cù-sư-la (Ghosita) gặp Tôn giả Ānanda, thuật lại toàn bộ sự việc, rồi thỉnh cầu: "Mong Tôn giả Ānanda khuyên dạy tôi, giáo huấn tôi, thuyết pháp cho tôi, để tôi thấy được Pháp."
 
 Tôn giả Ānanda nói: "Chỉ với điều này thôi, Tôn giả Channa đã tỏ ra chân thành, đã phá được nút thắt. Này hiền giả Channa, hãy lắng tai nghe — ông có khả năng hiểu được Pháp." Ngay lúc ấy, Tôn giả Channa sanh lên niềm vui, hoan hỷ lớn: "Ta có khả năng hiểu được Pháp."
 
-"Này hiền giả Channa, điều này tôi đã nghe trực tiếp từ Thế Tôn, đã lãnh hội trực tiếp, khi Thế Tôn khuyên dạy Tỷ-kheo Kaccānagotta: 'Này Kaccāna, thế gian này phần lớn dựa vào hai cực đoan — có và không có. Nhưng này Kaccāna, khi thấy như thật bằng chánh trí tuệ sự tập khởi của thế gian, thì "không có" đối với thế gian sẽ không còn. Khi thấy như thật bằng chánh trí tuệ sự đoạn diệt của thế gian, thì "có" đối với thế gian sẽ không còn. Này Kaccāna, thế gian này phần lớn bị trói buộc bởi chấp thủ, cố chấp, thiên kiến. Còn vị nào không đi đến, không chấp thủ, không quyết định cố chấp thiên kiến ấy — "đây là tự ngã của ta" — thì khi nghĩ "khổ sanh lên là sanh lên, khổ diệt đi là diệt đi," vị ấy không còn hoài nghi, không còn nghi ngờ. Ở đây, tri kiến của vị ấy không tùy thuộc vào ai khác. Này Kaccāna, đến mức này gọi là chánh kiến.
+"Này hiền giả Channa, điều này tôi đã nghe trực tiếp từ Thế Tôn, đã lãnh hội trực tiếp, khi Thế Tôn khuyên dạy Tỷ-kheo Kaccānagotta: 'Này Ma- ha Ca-chiên-diên (Kaccāna), thế gian này phần lớn dựa vào hai cực đoan — có và không có. Nhưng này Ma- ha Ca-chiên-diên (Kaccāna), khi thấy như thật bằng chánh trí tuệ sự tập khởi của thế gian, thì "không có" đối với thế gian sẽ không còn. Khi thấy như thật bằng chánh trí tuệ sự đoạn diệt của thế gian, thì "có" đối với thế gian sẽ không còn. Này Kaccāna, thế gian này phần lớn bị trói buộc bởi chấp thủ, cố chấp, thiên kiến. Còn vị nào không đi đến, không chấp thủ, không quyết định cố chấp thiên kiến ấy — "đây là tự ngã của ta" — thì khi nghĩ "khổ sanh lên là sanh lên, khổ diệt đi là diệt đi," vị ấy không còn hoài nghi, không còn nghi ngờ. Ở đây, tri kiến của vị ấy không tùy thuộc vào ai khác. Này Kaccāna, đến mức này gọi là chánh kiến.
 
 "Này Kaccāna, "tất cả đều có" là một cực đoan. "Tất cả đều không có" là cực đoan thứ hai. Không đi đến hai cực đoan ấy, này Kaccāna, Như Lai thuyết pháp theo trung đạo: do vô minh làm duyên nên có các hành; do các hành làm duyên nên có thức… như vậy là sự tập khởi của toàn bộ khối khổ này. Do vô minh đoạn diệt hoàn toàn, ly tham, nên các hành đoạn diệt… như vậy là sự đoạn diệt của toàn bộ khối khổ này.'"
 
@@ -1564,30 +1564,30 @@ Tôn giả Ānanda nói: "Chỉ với điều này thôi, Tôn giả Channa đã
 
 ==== Kinh 22.9. Rāhula Thứ Nhất (Rāhulasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rāhula đến gặp Thế Tôn, bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-hầu-la (Rāhula) đến gặp Thế Tôn, bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn?"
 
-"Này Rāhula, bất kỳ sắc nào — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta.' Bất kỳ thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào — tất cả thức ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta.' Này Rāhula, biết như vậy, thấy như vậy, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn."
+"Này La-hầu-la (Rāhula), bất kỳ sắc nào — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta.' Bất kỳ thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào — tất cả thức ấy được thấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta.' Này Rāhula, biết như vậy, thấy như vậy, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, không còn tùy miên ngã kiến, ngã sở kiến và ngã mạn."
 
 ==== Kinh 22.10. Rāhula Thứ Hai (Dutiyarāhulasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Ngồi sang một bên, Tôn giả Rāhula bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, tâm thoát khỏi ngã kiến, ngã sở kiến và ngã mạn, đã vượt lên trên các phân biệt, an tịnh, khéo giải thoát?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Ngồi sang một bên, Tôn giả La-hầu-la (Rāhula) bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, tâm thoát khỏi ngã kiến, ngã sở kiến và ngã mạn, đã vượt lên trên các phân biệt, an tịnh, khéo giải thoát?"
 
-"Này Rāhula, bất kỳ sắc nào — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — thấy tất cả sắc ấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta,' vị ấy được giải thoát không chấp thủ. Bất kỳ thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào — thấy tất cả thức ấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta,' vị ấy được giải thoát không chấp thủ. Này Rāhula, biết như vậy, thấy như vậy, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, tâm thoát khỏi ngã kiến, ngã sở kiến và ngã mạn, đã vượt lên trên các phân biệt, an tịnh, khéo giải thoát."
+"Này La-hầu-la (Rāhula), bất kỳ sắc nào — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — thấy tất cả sắc ấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta,' vị ấy được giải thoát không chấp thủ. Bất kỳ thọ nào, bất kỳ tưởng nào, bất kỳ hành nào, bất kỳ thức nào — thấy tất cả thức ấy như thật bằng chánh trí tuệ rằng: 'Đây không phải của ta, đây không phải là ta, đây không phải là tự ngã của ta,' vị ấy được giải thoát không chấp thủ. Này Rāhula, biết như vậy, thấy như vậy, thì đối với cái thân có thức này và đối với tất cả tướng ở bên ngoài, tâm thoát khỏi ngã kiến, ngã sở kiến và ngã mạn, đã vượt lên trên các phân biệt, an tịnh, khéo giải thoát."
 
 #strong[Hết phẩm Các Vị Trưởng Lão, thứ chín.]
 
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
-Ānanda, Tissa, Yamaka, \
-Anurādha và Vakkali; \
-Assaji, Khemaka, Channa, \
+A-nan (Ānanda), Đề-xá (Tissa), Yamaka, \
+A-nu-luật-đà (Anurādha) và Vakkali; \
+Assaji, Khemaka, Xa-nặc (Channa), \
 Rāhula hai kinh khác nữa.
 
 === Vagga 10 (nguồn ghi 10). Hoa (Pupphavaggo)
 
 ==== Kinh 22.1. Sông (Nadīsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, ví như một dòng sông chảy từ núi xuống, cuốn trôi mọi vật, chảy xa, nước chảy xiết. Trên hai bờ sông ấy, nếu có cỏ kāsa mọc lên, nó sẽ nghiêng rạp theo dòng nước; nếu có cỏ kusa mọc lên, nó cũng nghiêng rạp theo; nếu có cỏ pabbaja, cỏ bīraṇa, hay cây cối mọc lên, chúng cũng nghiêng rạp theo dòng nước như vậy. Có một người bị dòng nước cuốn trôi. Nếu người ấy nắm lấy cỏ kāsa, cỏ sẽ đứt gãy, và vì thế người ấy gặp tai họa, bất hạnh. Nếu nắm lấy cỏ kusa, cỏ pabbaja, cỏ bīraṇa, hay cây cối, chúng cũng đứt gãy, và người ấy gặp tai họa, bất hạnh.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, ví như một dòng sông chảy từ núi xuống, cuốn trôi mọi vật, chảy xa, nước chảy xiết. Trên hai bờ sông ấy, nếu có cỏ kāsa mọc lên, nó sẽ nghiêng rạp theo dòng nước; nếu có cỏ kusa mọc lên, nó cũng nghiêng rạp theo; nếu có cỏ pabbaja, cỏ bīraṇa, hay cây cối mọc lên, chúng cũng nghiêng rạp theo dòng nước như vậy. Có một người bị dòng nước cuốn trôi. Nếu người ấy nắm lấy cỏ kāsa, cỏ sẽ đứt gãy, và vì thế người ấy gặp tai họa, bất hạnh. Nếu nắm lấy cỏ kusa, cỏ pabbaja, cỏ bīraṇa, hay cây cối, chúng cũng đứt gãy, và người ấy gặp tai họa, bất hạnh.
 
 Cũng vậy, này các thầy, kẻ phàm phu không được nghe pháp, không thấy các bậc Thánh, không được huấn luyện trong pháp của các bậc chân nhân, thấy sắc là tự ngã, hoặc tự ngã có sắc, hoặc sắc ở trong tự ngã, hoặc tự ngã ở trong sắc. Sắc ấy của kẻ ấy đứt gãy, và kẻ ấy vì thế gặp tai họa, bất hạnh. Thấy thọ, tưởng, hành, thấy thức là tự ngã, hoặc tự ngã có thức, hoặc thức ở trong tự ngã, hoặc tự ngã ở trong thức. Thức ấy của kẻ ấy đứt gãy, và kẻ ấy vì thế gặp tai họa, bất hạnh.
 
@@ -1595,7 +1595,7 @@ Này các thầy, các thầy nghĩ sao — sắc là thường hay vô thườn
 
 ==== Kinh 22.2. Hoa (Pupphasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta không tranh chấp với thế gian; chính thế gian tranh chấp với Ta. Này các thầy, người thuyết pháp không tranh chấp với ai ở thế gian. Điều gì được các bậc trí ở thế gian đồng thuận là 'không có', Ta cũng nói điều ấy là 'không có.' Điều gì được các bậc trí ở thế gian đồng thuận là 'có', Ta cũng nói điều ấy là 'có.'
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta không tranh chấp với thế gian; chính thế gian tranh chấp với Ta. Này các thầy, người thuyết pháp không tranh chấp với ai ở thế gian. Điều gì được các bậc trí ở thế gian đồng thuận là 'không có', Ta cũng nói điều ấy là 'không có.' Điều gì được các bậc trí ở thế gian đồng thuận là 'có', Ta cũng nói điều ấy là 'có.'
 
 Này các thầy, điều gì được các bậc trí ở thế gian đồng thuận là 'không có' mà Ta nói là 'không có'? Này các thầy, sắc thường, bền, thường hằng, không chịu biến hoại — điều ấy được các bậc trí ở thế gian đồng thuận là 'không có', Ta cũng nói điều ấy là 'không có.' Thọ, tưởng, hành, thức thường, bền, thường hằng, không chịu biến hoại — điều ấy được các bậc trí ở thế gian đồng thuận là 'không có', Ta cũng nói điều ấy là 'không có.' Này các thầy, đó là điều được các bậc trí ở thế gian đồng thuận là 'không có' mà Ta nói là 'không có.'
 
@@ -1607,7 +1607,7 @@ Này các thầy, ví như hoa sen xanh, hoa sen hồng, hay hoa sen trắng —
 
 ==== Kinh 22.3. Đám Bọt Nước (Pheṇapiṇḍūpamasuttaṃ)
 
-#super[1] Một thời, Thế Tôn ngự tại Ayujjhā, trên bờ sông Gaṅgā. Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, ví như sông Gaṅgā này cuốn theo một đám bọt nước lớn. Có người mắt sáng nhìn thấy, quan sát, suy xét kỹ lưỡng đám bọt ấy. Khi nhìn, quan sát, suy xét kỹ như vậy, đám bọt chỉ hiện ra là rỗng tuếch, trống không, không có thực chất. Vì một đám bọt nước thì có thực chất gì? Cũng vậy, này các thầy, bất kỳ sắc nào — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — Tỷ-kheo nhìn thấy, quan sát, suy xét kỹ lưỡng sắc ấy. Khi nhìn như vậy, sắc chỉ hiện ra là rỗng tuếch, trống không, không có thực chất. Vì sắc thì có thực chất gì?
+#super[1] Một thời, Thế Tôn ngự tại Ayujjhā, trên bờ sông Hằng (Gaṅgā). Tại đó, Thế Tôn gọi các Tỷ-kheo: "Này các thầy, ví như sông Hằng (Gaṅgā) này cuốn theo một đám bọt nước lớn. Có người mắt sáng nhìn thấy, quan sát, suy xét kỹ lưỡng đám bọt ấy. Khi nhìn, quan sát, suy xét kỹ như vậy, đám bọt chỉ hiện ra là rỗng tuếch, trống không, không có thực chất. Vì một đám bọt nước thì có thực chất gì? Cũng vậy, này các thầy, bất kỳ sắc nào — thuộc quá khứ, tương lai hay hiện tại, ở trong hay ở ngoài, thô hay tế, hạ liệt hay cao thượng, xa hay gần — Tỷ-kheo nhìn thấy, quan sát, suy xét kỹ lưỡng sắc ấy. Khi nhìn như vậy, sắc chỉ hiện ra là rỗng tuếch, trống không, không có thực chất. Vì sắc thì có thực chất gì?
 
 Này các thầy, ví như vào mùa thu, khi trời đổ mưa nặng hạt, một bọt nước sanh lên rồi tan biến ngay trên mặt nước. Có người mắt sáng nhìn thấy, quan sát, suy xét kỹ lưỡng bọt nước ấy — nó chỉ hiện ra là rỗng tuếch, trống không, không có thực chất. Cũng vậy, bất kỳ thọ nào — Tỷ-kheo nhìn thấy, quan sát, suy xét kỹ lưỡng thọ ấy — nó chỉ hiện ra là rỗng tuếch, trống không, không có thực chất. Vì thọ thì có thực chất gì?
 
@@ -1653,20 +1653,20 @@ Mong cầu chỗ bất động."
 
 ==== Kinh 22.4. Cục Phân Bò (Gomayapiṇḍasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, có sắc nào thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi chăng? Có thọ nào, tưởng nào, hành nào, có thức nào thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi chăng?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Ngồi xuống một bên, Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, có sắc nào thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi chăng? Có thọ nào, tưởng nào, hành nào, có thức nào thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi chăng?"
 
 "Này Tỷ-kheo, không có sắc nào thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi. Không có thọ nào, tưởng nào, hành nào, thức nào thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi."
 
 Rồi Thế Tôn cầm một cục phân bò nhỏ trong tay, nói với Tỷ-kheo ấy: "Này Tỷ-kheo, ngay cả một sự hiện hữu của bản thân nhỏ bằng cục phân bò này cũng không có — là thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi. Nếu có một sự hiện hữu của bản thân nhỏ như vậy mà thường, bền, thường hằng, không chịu biến hoại, thì đời sống Phạm hạnh này sẽ không thể được biết đến để chấm dứt khổ đau một cách chân chánh. Nhưng vì không có một sự hiện hữu của bản thân nhỏ như vậy mà thường, bền, thường hằng, không chịu biến hoại, cho nên đời sống Phạm hạnh được biết đến để chấm dứt khổ đau một cách chân chánh.
 
-Này Tỷ-kheo, thuở xưa Ta đã từng là một vị vua Sát-đế-lỵ đã làm lễ quán đảnh. Khi ấy Ta có tám mươi bốn ngàn kinh thành, đứng đầu là kinh thành Kusāvatī; có tám mươi bốn ngàn lầu các, đứng đầu là lầu các Pháp; có tám mươi bốn ngàn nhà nóc nhọn, đứng đầu là nhà nóc nhọn Đại Bố Trí; có tám mươi bốn ngàn chiếc sàng tọa, làm bằng ngà voi, bằng gỗ quý, bằng vàng, bằng bạc, trải nệm lông dài, nệm len trắng, nệm thêu hoa, có đệm bằng da nai quý, có màn phía trên, có gối màu đỏ cả hai đầu; có tám mươi bốn ngàn con voi, được trang sức bằng vàng, có cờ vàng, được che phủ bằng lưới vàng, đứng đầu là voi chúa Uposatha; có tám mươi bốn ngàn con ngựa, được trang sức bằng vàng, có cờ vàng, được che phủ bằng lưới vàng, đứng đầu là ngựa chúa Valāhaka; có tám mươi bốn ngàn chiếc xe, được trang sức bằng vàng, có cờ vàng, được che phủ bằng lưới vàng, đứng đầu là xe Vejayanta; có tám mươi bốn ngàn viên ngọc, đứng đầu là viên ngọc báu; có tám mươi bốn ngàn người nữ, đứng đầu là hoàng hậu Subhaddā; có tám mươi bốn ngàn vị Sát-đế-lỵ theo hầu, đứng đầu là vị tướng quân báu; có tám mươi bốn ngàn con bò cái sữa, với dây cương lụa mịn và bình đựng bằng đồng; có tám mươi bốn ức tấm vải, gồm vải lanh mịn, vải lụa mịn, vải len mịn, vải bông mịn; có tám mươi bốn ngàn mâm cơm, sáng và chiều được dâng lên.
+Này Tỷ-kheo, thuở xưa Ta đã từng là một vị vua Sát-đế-lỵ đã làm lễ quán đảnh. Khi ấy Ta có tám mươi bốn ngàn kinh thành, đứng đầu là kinh thành Câu-xá- bà-đề (Kusāvatī); có tám mươi bốn ngàn lầu các, đứng đầu là lầu các Pháp; có tám mươi bốn ngàn nhà nóc nhọn, đứng đầu là nhà nóc nhọn Đại Bố Trí; có tám mươi bốn ngàn chiếc sàng tọa, làm bằng ngà voi, bằng gỗ quý, bằng vàng, bằng bạc, trải nệm lông dài, nệm len trắng, nệm thêu hoa, có đệm bằng da nai quý, có màn phía trên, có gối màu đỏ cả hai đầu; có tám mươi bốn ngàn con voi, được trang sức bằng vàng, có cờ vàng, được che phủ bằng lưới vàng, đứng đầu là voi chúa Uposatha; có tám mươi bốn ngàn con ngựa, được trang sức bằng vàng, có cờ vàng, được che phủ bằng lưới vàng, đứng đầu là ngựa chúa Vân Mã vương (Valāhaka); có tám mươi bốn ngàn chiếc xe, được trang sức bằng vàng, có cờ vàng, được che phủ bằng lưới vàng, đứng đầu là xe Tối Thắng Điện (Vejayanta); có tám mươi bốn ngàn viên ngọc, đứng đầu là viên ngọc báu; có tám mươi bốn ngàn người nữ, đứng đầu là hoàng hậu Thiện Hiền phi (Subhaddā); có tám mươi bốn ngàn vị Sát-đế-lỵ theo hầu, đứng đầu là vị tướng quân báu; có tám mươi bốn ngàn con bò cái sữa, với dây cương lụa mịn và bình đựng bằng đồng; có tám mươi bốn ức tấm vải, gồm vải lanh mịn, vải lụa mịn, vải len mịn, vải bông mịn; có tám mươi bốn ngàn mâm cơm, sáng và chiều được dâng lên.
 
-Trong tám mươi bốn ngàn kinh thành ấy, này Tỷ-kheo, chỉ có một kinh thành mà Ta thực sự cư trú — đó là kinh thành Kusāvatī. Trong tám mươi bốn ngàn lầu các ấy, chỉ có một lầu các mà Ta thực sự cư trú — đó là lầu các Pháp. Trong tám mươi bốn ngàn nhà nóc nhọn ấy, chỉ có một nhà nóc nhọn mà Ta thực sự cư trú — đó là nhà nóc nhọn Đại Bố Trí. Trong tám mươi bốn ngàn sàng tọa ấy, chỉ có một sàng tọa mà Ta thực sự sử dụng — làm bằng ngà voi, hay bằng gỗ quý, hay bằng vàng, hay bằng bạc. Trong tám mươi bốn ngàn con voi ấy, chỉ có một con voi mà Ta thực sự cưỡi — đó là voi chúa Uposatha. Trong tám mươi bốn ngàn con ngựa ấy, chỉ có một con ngựa mà Ta thực sự cưỡi — đó là ngựa chúa Valāhaka. Trong tám mươi bốn ngàn chiếc xe ấy, chỉ có một chiếc xe mà Ta thực sự đi — đó là xe Vejayanta. Trong tám mươi bốn ngàn người nữ ấy, chỉ có một người nữ mà Ta thực sự được hầu hạ — dòng dõi Sát-đế-lỵ hoặc thị nữ. Trong tám mươi bốn ức tấm vải ấy, chỉ có một cặp vải mà Ta thực sự mặc — vải lanh mịn, hay vải lụa mịn, hay vải len mịn, hay vải bông mịn. Trong tám mươi bốn ngàn mâm cơm ấy, chỉ có một mâm cơm mà Ta thực sự ăn — với lượng cơm tối đa một lóng tay và món canh tương ứng.
+Trong tám mươi bốn ngàn kinh thành ấy, này Tỷ-kheo, chỉ có một kinh thành mà Ta thực sự cư trú — đó là kinh thành Câu-xá- bà-đề (Kusāvatī). Trong tám mươi bốn ngàn lầu các ấy, chỉ có một lầu các mà Ta thực sự cư trú — đó là lầu các Pháp. Trong tám mươi bốn ngàn nhà nóc nhọn ấy, chỉ có một nhà nóc nhọn mà Ta thực sự cư trú — đó là nhà nóc nhọn Đại Bố Trí. Trong tám mươi bốn ngàn sàng tọa ấy, chỉ có một sàng tọa mà Ta thực sự sử dụng — làm bằng ngà voi, hay bằng gỗ quý, hay bằng vàng, hay bằng bạc. Trong tám mươi bốn ngàn con voi ấy, chỉ có một con voi mà Ta thực sự cưỡi — đó là voi chúa Uposatha. Trong tám mươi bốn ngàn con ngựa ấy, chỉ có một con ngựa mà Ta thực sự cưỡi — đó là ngựa chúa Vân Mã vương (Valāhaka). Trong tám mươi bốn ngàn chiếc xe ấy, chỉ có một chiếc xe mà Ta thực sự đi — đó là xe Tối Thắng Điện (Vejayanta). Trong tám mươi bốn ngàn người nữ ấy, chỉ có một người nữ mà Ta thực sự được hầu hạ — dòng dõi Sát-đế-lỵ hoặc thị nữ. Trong tám mươi bốn ức tấm vải ấy, chỉ có một cặp vải mà Ta thực sự mặc — vải lanh mịn, hay vải lụa mịn, hay vải len mịn, hay vải bông mịn. Trong tám mươi bốn ngàn mâm cơm ấy, chỉ có một mâm cơm mà Ta thực sự ăn — với lượng cơm tối đa một lóng tay và món canh tương ứng.
 
 Này Tỷ-kheo, như vậy tất cả các hành ấy đều đã qua, đã diệt, đã biến đổi. Các hành là vô thường như vậy, này Tỷ-kheo. Các hành là không bền vững như vậy, này Tỷ-kheo. Các hành là không đáng tin cậy như vậy, này Tỷ-kheo. Cho đến mức này, này Tỷ-kheo, thật đáng để nhàm chán, đáng để ly tham, đáng để giải thoát đối với tất cả các hành."
 ==== Kinh 22.5. Đầu Móng Tay (Nakhasikhāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tỷ-kheo ấy ngồi xuống một bên rồi bạch Thế Tôn câu hỏi y như trước — sắc, thọ, tưởng, hành, thức có cái nào thường hằng không. Thế Tôn đáp: không có sắc, thọ, tưởng, hành, thức nào thường hằng như vậy.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tỷ-kheo ấy ngồi xuống một bên rồi bạch Thế Tôn câu hỏi y như trước — sắc, thọ, tưởng, hành, thức có cái nào thường hằng không. Thế Tôn đáp: không có sắc, thọ, tưởng, hành, thức nào thường hằng như vậy.
 
 Rồi Thế Tôn đặt một ít bụi đất lên đầu móng tay và nói với Tỷ-kheo ấy: "Này thầy, ngay cả một chút sắc bằng chừng này cũng không có đâu — không có cái sắc nào thường, bền, thường hằng, không chịu biến hoại, sẽ tồn tại y như vậy mãi mãi. Nếu có một chút sắc bằng chừng này mà thường, bền, thường hằng, không chịu biến hoại, thì đời sống Phạm hạnh sẽ chẳng thể được biết đến để chấm dứt khổ đau một cách chân chánh. Nhưng vì không có một chút sắc nào như vậy, nên đời sống Phạm hạnh được biết đến để chấm dứt khổ đau một cách chân chánh.
 
@@ -1676,11 +1676,11 @@ Này thầy, thầy nghĩ sao — sắc là thường hay vô thường?" — "V
 
 ==== Kinh 22.6. Suddhika (Suddhikasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tỷ-kheo ấy ngồi xuống một bên rồi hỏi câu y như trước, và Thế Tôn đáp rằng không có sắc, thọ, tưởng, hành, thức nào thường hằng — chỉ trả lời vắn tắt thôi, không đưa ví dụ minh họa.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tỷ-kheo ấy ngồi xuống một bên rồi hỏi câu y như trước, và Thế Tôn đáp rằng không có sắc, thọ, tưởng, hành, thức nào thường hằng — chỉ trả lời vắn tắt thôi, không đưa ví dụ minh họa.
 
 ==== Kinh 22.7. Dây Da Thứ Nhất (Gaddulabaddhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, luân hồi này không có điểm đầu. Không thể biết được khởi đầu của các chúng sanh bị vô minh che lấp, bị ái trói buộc, cứ lưu chuyển, xoay vần trong sanh tử. Này các thầy, có thời biển lớn cạn khô, tiêu tan, không còn nữa — nhưng Ta không nói đó là chấm dứt khổ đau của các chúng sanh bị vô minh che lấp, bị ái trói buộc, đang lưu chuyển, xoay vần trong sanh tử. Này các thầy, có thời Tuyết Sơn, vua của các ngọn núi, bị cháy, hoại diệt, không còn nữa — nhưng Ta cũng không nói đó là chấm dứt khổ đau ấy. Này các thầy, có thời quả đất lớn này bị cháy, hoại diệt, không còn nữa — nhưng Ta cũng không nói đó là chấm dứt khổ đau ấy.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, luân hồi này không có điểm đầu. Không thể biết được khởi đầu của các chúng sanh bị vô minh che lấp, bị ái trói buộc, cứ lưu chuyển, xoay vần trong sanh tử. Này các thầy, có thời biển lớn cạn khô, tiêu tan, không còn nữa — nhưng Ta không nói đó là chấm dứt khổ đau của các chúng sanh bị vô minh che lấp, bị ái trói buộc, đang lưu chuyển, xoay vần trong sanh tử. Này các thầy, có thời Tuyết Sơn, vua của các ngọn núi, bị cháy, hoại diệt, không còn nữa — nhưng Ta cũng không nói đó là chấm dứt khổ đau ấy. Này các thầy, có thời quả đất lớn này bị cháy, hoại diệt, không còn nữa — nhưng Ta cũng không nói đó là chấm dứt khổ đau ấy.
 
 Này các thầy, ví như một con chó bị buộc bằng dây da vào một cây cột hay cây trụ vững chắc — nó chỉ chạy quanh, xoay vòng quanh cây cột hay cây trụ ấy mà thôi. Cũng vậy, này các thầy, kẻ phàm phu không được nghe pháp… thấy sắc là tự ngã… thấy thọ… thấy tưởng… thấy các hành… thấy thức là tự ngã, hoặc tự ngã có thức, hoặc thức ở trong tự ngã, hoặc tự ngã ở trong thức. Kẻ ấy chỉ chạy quanh, xoay vòng quanh sắc, quanh thọ, quanh tưởng, quanh các hành, quanh thức mà thôi. Cứ chạy quanh, xoay vòng quanh sắc, thọ, tưởng, hành, thức như vậy, kẻ ấy không thoát khỏi sắc, không thoát khỏi thọ, không thoát khỏi tưởng, không thoát khỏi các hành, không thoát khỏi thức — không thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói: 'Kẻ ấy không thoát khỏi khổ.'
 
@@ -1688,7 +1688,7 @@ Còn vị Thánh đệ tử có nghe pháp… không thấy sắc… thọ… t�
 
 ==== Kinh 22.8. Dây Da Thứ Hai (Dutiyagaddulabaddhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, luân hồi này không có điểm đầu. Không thể biết được khởi đầu của các chúng sanh bị vô minh che lấp, bị ái trói buộc, cứ lưu chuyển, xoay vần trong sanh tử. Này các thầy, ví như một con chó bị buộc bằng dây da vào một cây cột hay cây trụ vững chắc. Nó đi thì cũng đi gần cây cột hay cây trụ ấy; nó đứng thì cũng đứng gần đó; nó ngồi thì cũng ngồi gần đó; nó nằm thì cũng nằm gần đó. Cũng vậy, này các thầy, kẻ phàm phu không được nghe pháp thấy sắc là: 'Đây là của ta, đây là ta, đây là tự ngã của ta.' Thấy thọ… tưởng… hành… thấy thức là: 'Đây là của ta, đây là ta, đây là tự ngã của ta.' Kẻ ấy đi thì cũng đi gần năm thủ uẩn này; đứng thì cũng đứng gần đó; ngồi thì cũng ngồi gần đó; nằm thì cũng nằm gần đó.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, luân hồi này không có điểm đầu. Không thể biết được khởi đầu của các chúng sanh bị vô minh che lấp, bị ái trói buộc, cứ lưu chuyển, xoay vần trong sanh tử. Này các thầy, ví như một con chó bị buộc bằng dây da vào một cây cột hay cây trụ vững chắc. Nó đi thì cũng đi gần cây cột hay cây trụ ấy; nó đứng thì cũng đứng gần đó; nó ngồi thì cũng ngồi gần đó; nó nằm thì cũng nằm gần đó. Cũng vậy, này các thầy, kẻ phàm phu không được nghe pháp thấy sắc là: 'Đây là của ta, đây là ta, đây là tự ngã của ta.' Thấy thọ… tưởng… hành… thấy thức là: 'Đây là của ta, đây là ta, đây là tự ngã của ta.' Kẻ ấy đi thì cũng đi gần năm thủ uẩn này; đứng thì cũng đứng gần đó; ngồi thì cũng ngồi gần đó; nằm thì cũng nằm gần đó.
 
 Vì vậy, này các thầy, các thầy phải thường xuyên xem xét lại tâm của chính mình như vầy: 'Tâm này đã bị ô nhiễm từ lâu bởi tham, sân, si.' Này các thầy, do tâm ô nhiễm mà chúng sanh bị ô nhiễm; do tâm thanh tịnh mà chúng sanh được thanh tịnh.
 
@@ -1702,7 +1702,7 @@ Này các thầy, các thầy nghĩ sao — sắc là thường hay vô thườn
 
 ==== Kinh 22.9. Cán Búa (Vāsijaṭasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, Ta nói sự đoạn tận các lậu hoặc là dành cho người biết, người thấy — không phải cho người không biết, không thấy. Này các thầy, biết gì, thấy gì thì các lậu hoặc được đoạn tận? 'Đây là sắc, đây là sự tập khởi của sắc, đây là sự đoạn diệt của sắc; đây là thọ… đây là tưởng… đây là các hành… đây là thức, đây là sự tập khởi của thức, đây là sự đoạn diệt của thức' — biết như vậy, thấy như vậy, này các thầy, các lậu hoặc được đoạn tận.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, Ta nói sự đoạn tận các lậu hoặc là dành cho người biết, người thấy — không phải cho người không biết, không thấy. Này các thầy, biết gì, thấy gì thì các lậu hoặc được đoạn tận? 'Đây là sắc, đây là sự tập khởi của sắc, đây là sự đoạn diệt của sắc; đây là thọ… đây là tưởng… đây là các hành… đây là thức, đây là sự tập khởi của thức, đây là sự đoạn diệt của thức' — biết như vậy, thấy như vậy, này các thầy, các lậu hoặc được đoạn tận.
 
 Này các thầy, với Tỷ-kheo sống không chuyên tâm tu tập, dù có khởi lên ước muốn: 'Mong rằng tâm ta được giải thoát khỏi các lậu hoặc, không chấp thủ,' tâm vị ấy vẫn không được giải thoát khỏi các lậu hoặc, không chấp thủ. Vì sao? Phải nói là 'vì chưa được tu tập.' Chưa được tu tập điều gì? Chưa được tu tập Bốn Niệm Xứ, chưa được tu tập Bốn Chánh Cần, chưa được tu tập Bốn Thần Túc, chưa được tu tập Năm Căn, chưa được tu tập Năm Lực, chưa được tu tập Bảy Giác Chi, chưa được tu tập Bát Thánh Đạo.
 
@@ -1718,7 +1718,7 @@ Này các thầy, ví như một con thuyền đi biển, được buộc bằng
 
 ==== Kinh 22.10. Vô Thường (Aniccasaññāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, tưởng vô thường, được tu tập, được nuôi lớn, đoạn trừ hoàn toàn tất cả tham dục, đoạn trừ hoàn toàn tất cả tham sắc, đoạn trừ hoàn toàn tất cả tham hữu, đoạn trừ hoàn toàn tất cả vô minh, nhổ bật hoàn toàn tất cả ngã mạn 'ta là.'
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, tưởng vô thường, được tu tập, được nuôi lớn, đoạn trừ hoàn toàn tất cả tham dục, đoạn trừ hoàn toàn tất cả tham sắc, đoạn trừ hoàn toàn tất cả tham hữu, đoạn trừ hoàn toàn tất cả vô minh, nhổ bật hoàn toàn tất cả ngã mạn 'ta là.'
 
 Này các thầy, ví như vào mùa thu, người nông dân cày ruộng bằng cây cày lớn, cắt đứt tất cả các rễ cây đang lan tràn khi cày — cũng vậy, tưởng vô thường được tu tập, được nuôi lớn, đoạn trừ hoàn toàn tất cả tham dục… nhổ bật hoàn toàn tất cả ngã mạn 'ta là.'
 
@@ -1764,7 +1764,7 @@ Do đó gọi là phần thứ hai.
 
 ==== Kinh 22.1. Cùng Tận (Antasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, có bốn sự cùng tận này. Bốn là gì? Sự cùng tận của tự thân, sự cùng tận của nguồn gốc tự thân, sự cùng tận của sự đoạn diệt tự thân, và sự cùng tận là con đường đưa đến sự đoạn diệt tự thân.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, có bốn sự cùng tận này. Bốn là gì? Sự cùng tận của tự thân, sự cùng tận của nguồn gốc tự thân, sự cùng tận của sự đoạn diệt tự thân, và sự cùng tận là con đường đưa đến sự đoạn diệt tự thân.
 
 Này các thầy, thế nào là sự cùng tận của tự thân? Đó chính là năm thủ uẩn, nên gọi như vậy. Năm là gì? Đó là sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn — này các thầy, đây gọi là sự cùng tận của tự thân.
 
@@ -1776,7 +1776,7 @@ Này các thầy, thế nào là con đường đưa đến sự đoạn diệt 
 
 ==== Kinh 22.2. Khổ (Dukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy khổ, khổ tập, khổ diệt, và con đường đưa đến khổ diệt. Hãy nghe điều ấy. Này các thầy, thế nào là khổ? Đó chính là năm thủ uẩn, nên gọi như vậy. Năm là gì? Đó là sắc thủ uẩn… thức thủ uẩn. Này các thầy, đây gọi là khổ.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy khổ, khổ tập, khổ diệt, và con đường đưa đến khổ diệt. Hãy nghe điều ấy. Này các thầy, thế nào là khổ? Đó chính là năm thủ uẩn, nên gọi như vậy. Năm là gì? Đó là sắc thủ uẩn… thức thủ uẩn. Này các thầy, đây gọi là khổ.
 
 Này các thầy, thế nào là khổ tập? Đó là ái đưa đến tái sanh, đi cùng với tham và hỷ, tìm sự vui thích ở nơi này nơi khác — tức là ái dục, ái hữu, ái vô hữu. Này các thầy, đây gọi là khổ tập.
 
@@ -1785,7 +1785,7 @@ Này các thầy, thế nào là khổ diệt? Đó là sự đoạn diệt hoà
 Này các thầy, thế nào là con đường đưa đến khổ diệt? Đó chính là Bát Thánh đạo, tức là chánh kiến… chánh định. Này các thầy, đây gọi là con đường đưa đến khổ diệt."
 ==== Kinh 22.3. Tự Thân (Sakkāyasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói: "Này các thầy, Ta sẽ giảng cho các thầy về tự thân, về sự tập khởi của tự thân, về sự đoạn diệt của tự thân, và về con đường đưa đến sự đoạn diệt của tự thân. Hãy nghe đây.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói: "Này các thầy, Ta sẽ giảng cho các thầy về tự thân, về sự tập khởi của tự thân, về sự đoạn diệt của tự thân, và về con đường đưa đến sự đoạn diệt của tự thân. Hãy nghe đây.
 
 "Này các thầy, thế nào là tự thân? Đó là năm thủ uẩn — phải gọi như vậy. Năm là gì? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này các thầy, đó gọi là tự thân.
 
@@ -1797,7 +1797,7 @@ Này các thầy, thế nào là con đường đưa đến khổ diệt? Đó c
 
 ==== Kinh 22.4. Liễu Tri (Pariññeyyasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy các pháp cần được liễu tri, sự liễu tri, và người đã liễu tri. Hãy nghe đây.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy các pháp cần được liễu tri, sự liễu tri, và người đã liễu tri. Hãy nghe đây.
 
 "Này các thầy, những pháp nào cần được liễu tri? Sắc là pháp cần được liễu tri. Thọ… tưởng… hành… thức là pháp cần được liễu tri. Này các thầy, đó gọi là các pháp cần được liễu tri.
 
@@ -1807,31 +1807,31 @@ Này các thầy, thế nào là con đường đưa đến khổ diệt? Đó c
 
 ==== Kinh 22.5. Sa-môn Thứ Nhất (Samaṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn… cho đến thức thủ uẩn. Này các thầy, những Sa-môn hay Bà-la-môn nào không như thật biết rõ vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này — những vị ấy, này các thầy, Ta không xem là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy cũng không phải là người ngay trong đời này tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn… cho đến thức thủ uẩn. Này các thầy, những Sa-môn hay Bà-la-môn nào không như thật biết rõ vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này — những vị ấy, này các thầy, Ta không xem là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy cũng không phải là người ngay trong đời này tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh.
 
 "Còn những Sa-môn hay Bà-la-môn nào như thật biết rõ vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này — những vị ấy, này các thầy, Ta xem là Sa-môn giữa các Sa-môn, là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy, ngay trong đời này, tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của Phạm hạnh."
 
 ==== Kinh 22.6. Sa-môn Thứ Hai (Dutiyasamaṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này các thầy, những Sa-môn hay Bà-la-môn nào không như thật biết rõ sự tập khởi, sự đoạn tận, vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này — những vị ấy, này các thầy, Ta không xem là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy cũng không phải là người ngay trong đời này tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này các thầy, những Sa-môn hay Bà-la-môn nào không như thật biết rõ sự tập khởi, sự đoạn tận, vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này — những vị ấy, này các thầy, Ta không xem là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy cũng không phải là người ngay trong đời này tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh.
 
 "Còn những Sa-môn hay Bà-la-môn nào như thật biết rõ điều ấy — những vị ấy, này các thầy, Ta xem là Sa-môn giữa các Sa-môn, là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy, ngay trong đời này, tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của Phạm hạnh."
 
 ==== Kinh 22.7. Dự Lưu (Sotāpannasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn… cho đến thức thủ uẩn. Này các thầy, khi nào vị Thánh đệ tử như thật biết rõ sự tập khởi, sự đoạn tận, vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này — vị Thánh đệ tử ấy, này các thầy, được gọi là bậc Dự lưu, không còn rơi vào ác pháp, chắc chắn sẽ đạt đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn… cho đến thức thủ uẩn. Này các thầy, khi nào vị Thánh đệ tử như thật biết rõ sự tập khởi, sự đoạn tận, vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này — vị Thánh đệ tử ấy, này các thầy, được gọi là bậc Dự lưu, không còn rơi vào ác pháp, chắc chắn sẽ đạt đến giác ngộ."
 
 ==== Kinh 22.8. A-la-hán (Arahantasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn… cho đến thức thủ uẩn. Này các thầy, khi nào một Tỷ-kheo, sau khi như thật biết rõ sự tập khởi, sự đoạn tận, vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này, được giải thoát nhờ không chấp thủ — vị Tỷ-kheo ấy, này các thầy, được gọi là bậc A-la-hán, đã đoạn tận các lậu hoặc, đã sống trọn đời Phạm hạnh, đã làm xong việc cần làm, đã đặt xuống gánh nặng, đã đạt đến mục đích của mình, đã đoạn tận hoàn toàn kiết sử của hữu, đã được giải thoát nhờ chánh trí."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, có năm thủ uẩn này. Năm là gì? Sắc thủ uẩn… cho đến thức thủ uẩn. Này các thầy, khi nào một Tỷ-kheo, sau khi như thật biết rõ sự tập khởi, sự đoạn tận, vị ngọt, tai hại và sự xuất ly của năm thủ uẩn này, được giải thoát nhờ không chấp thủ — vị Tỷ-kheo ấy, này các thầy, được gọi là bậc A-la-hán, đã đoạn tận các lậu hoặc, đã sống trọn đời Phạm hạnh, đã làm xong việc cần làm, đã đặt xuống gánh nặng, đã đạt đến mục đích của mình, đã đoạn tận hoàn toàn kiết sử của hữu, đã được giải thoát nhờ chánh trí."
 
 ==== Kinh 22.9. Đoạn Trừ Ước Muốn Thứ Nhất (Chandappahānasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, đối với sắc, ước muốn nào, tham nào, hỷ nào, ái nào — hãy từ bỏ tất cả. Như vậy sắc ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai. Đối với thọ… tưởng… hành… đối với thức, ước muốn nào, tham nào, hỷ nào, ái nào — hãy từ bỏ tất cả. Như vậy thức ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, đối với sắc, ước muốn nào, tham nào, hỷ nào, ái nào — hãy từ bỏ tất cả. Như vậy sắc ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai. Đối với thọ… tưởng… hành… đối với thức, ước muốn nào, tham nào, hỷ nào, ái nào — hãy từ bỏ tất cả. Như vậy thức ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai."
 
 ==== Kinh 22.10. Đoạn Trừ Ước Muốn Thứ Hai (Dutiyachandappahānasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, đối với sắc, ước muốn nào, tham nào, hỷ nào, ái nào, cùng những gì thuộc nắm giữ, chấp thủ, những thiên chấp và tùy miên của tâm — hãy từ bỏ tất cả. Như vậy sắc ấy sẽ được từ bỏ, bị cắt đứt tận gốc… không còn sanh khởi trong tương lai. Đối với thọ… tưởng… đối với hành, ước muốn nào… hãy từ bỏ tất cả — như vậy các hành ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai. Đối với thức, ước muốn nào, tham nào, hỷ nào, ái nào, cùng những gì thuộc nắm giữ, chấp thủ, những thiên chấp và tùy miên của tâm — hãy từ bỏ tất cả. Như vậy thức ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, đối với sắc, ước muốn nào, tham nào, hỷ nào, ái nào, cùng những gì thuộc nắm giữ, chấp thủ, những thiên chấp và tùy miên của tâm — hãy từ bỏ tất cả. Như vậy sắc ấy sẽ được từ bỏ, bị cắt đứt tận gốc… không còn sanh khởi trong tương lai. Đối với thọ… tưởng… đối với hành, ước muốn nào… hãy từ bỏ tất cả — như vậy các hành ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai. Đối với thức, ước muốn nào, tham nào, hỷ nào, ái nào, cùng những gì thuộc nắm giữ, chấp thủ, những thiên chấp và tùy miên của tâm — hãy từ bỏ tất cả. Như vậy thức ấy sẽ được từ bỏ, bị cắt đứt tận gốc, như cây tāla bị chặt ngọn, đi đến chỗ không còn tồn tại, không còn sanh khởi trong tương lai."
 
 #strong[Hết phẩm Cùng Tận, thứ mười một.]
 
@@ -1846,19 +1846,19 @@ hai kinh đoạn trừ ước muốn.
 
 ==== Kinh 22.1. Vô Minh (Avijjāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Rồi một Tỷ-kheo đi đến chỗ Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Ngồi một bên, vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô minh, vô minh.' Bạch Thế Tôn, vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Rồi một Tỷ-kheo đi đến chỗ Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên. Ngồi một bên, vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô minh, vô minh.' Bạch Thế Tôn, vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
 "Này Tỷ-kheo, ở đây kẻ vô văn phàm phu không biết rõ sắc, không biết rõ sự tập khởi của sắc, không biết rõ sự đoạn diệt của sắc, không biết rõ con đường đưa đến sự đoạn diệt của sắc. Không biết rõ thọ… tưởng… hành… không biết rõ thức, không biết rõ sự tập khởi của thức, không biết rõ sự đoạn diệt của thức, không biết rõ con đường đưa đến sự đoạn diệt của thức. Này Tỷ-kheo, đó gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
 
 ==== Kinh 22.2. Minh (Vijjāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'minh, minh.' Bạch Thế Tôn, minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'minh, minh.' Bạch Thế Tôn, minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
 
 "Này Tỷ-kheo, ở đây vị Thánh đệ tử đa văn biết rõ sắc, biết rõ sự tập khởi của sắc, biết rõ sự đoạn diệt của sắc, biết rõ con đường đưa đến sự đoạn diệt của sắc. Biết rõ thọ… tưởng… hành… biết rõ thức, biết rõ sự tập khởi của thức, biết rõ sự đoạn diệt của thức, biết rõ con đường đưa đến sự đoạn diệt của thức. Này Tỷ-kheo, đó gọi là minh, và đến mức này thì gọi là đã đi vào minh."
 
 ==== Kinh 22.3. Người Thuyết Pháp Thứ Nhất (Dhammakathikasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'người thuyết pháp, người thuyết pháp.' Bạch Thế Tôn, đến mức nào thì gọi là người thuyết pháp?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'người thuyết pháp, người thuyết pháp.' Bạch Thế Tôn, đến mức nào thì gọi là người thuyết pháp?"
 
 "Này Tỷ-kheo, nếu một Tỷ-kheo thuyết pháp nhằm nhàm chán, ly tham, đoạn diệt đối với sắc, thì xứng đáng được gọi là 'Tỷ-kheo thuyết pháp.' Nếu Tỷ-kheo thực hành hướng đến nhàm chán, ly tham, đoạn diệt đối với sắc, thì xứng đáng được gọi là 'Tỷ-kheo thực hành pháp và tùy pháp.' Nếu Tỷ-kheo, do nhàm chán, ly tham, đoạn diệt đối với sắc, được giải thoát nhờ không chấp thủ, thì xứng đáng được gọi là 'Tỷ-kheo đã đạt Niết-bàn ngay trong đời này.'
 
@@ -1866,7 +1866,7 @@ hai kinh đoạn trừ ước muốn.
 
 ==== Kinh 22.4. Người Thuyết Pháp Thứ Hai (Dutiyadhammakathikasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'người thuyết pháp, người thuyết pháp.' Bạch Thế Tôn, đến mức nào thì gọi là người thuyết pháp, đến mức nào thì gọi là người thực hành pháp và tùy pháp, đến mức nào thì gọi là người đã đạt Niết-bàn ngay trong đời này?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'người thuyết pháp, người thuyết pháp.' Bạch Thế Tôn, đến mức nào thì gọi là người thuyết pháp, đến mức nào thì gọi là người thực hành pháp và tùy pháp, đến mức nào thì gọi là người đã đạt Niết-bàn ngay trong đời này?"
 
 "Này Tỷ-kheo, nếu một Tỷ-kheo thuyết pháp nhằm nhàm chán, ly tham, đoạn diệt đối với sắc, thì xứng đáng được gọi là 'Tỷ-kheo thuyết pháp.' Nếu Tỷ-kheo thực hành hướng đến nhàm chán, ly tham, đoạn diệt đối với sắc, thì xứng đáng được gọi là 'Tỷ-kheo thực hành pháp và tùy pháp.' Nếu Tỷ-kheo, do nhàm chán, ly tham, đoạn diệt đối với sắc, được giải thoát nhờ không chấp thủ, thì xứng đáng được gọi là 'Tỷ-kheo đã đạt Niết-bàn ngay trong đời này.'
 
@@ -1874,7 +1874,7 @@ hai kinh đoạn trừ ước muốn.
 
 ==== Kinh 22.5. Trói Buộc (Bandhanasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, ở đây kẻ vô văn phàm phu, chưa từng gặp các bậc Thánh… chưa được huấn luyện trong pháp của các bậc chân nhân, xem sắc là tự ngã, hoặc xem tự ngã là có sắc, hoặc xem sắc ở trong tự ngã, hoặc xem tự ngã ở trong sắc. Này các thầy, đó gọi là kẻ vô văn phàm phu bị trói buộc bởi sự trói buộc của sắc, bị trói buộc cả trong lẫn ngoài, không thấy bờ bên này, không thấy bờ bên kia. Bị trói buộc mà già, bị trói buộc mà chết, bị trói buộc mà đi từ đời này sang đời khác.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, ở đây kẻ vô văn phàm phu, chưa từng gặp các bậc Thánh… chưa được huấn luyện trong pháp của các bậc chân nhân, xem sắc là tự ngã, hoặc xem tự ngã là có sắc, hoặc xem sắc ở trong tự ngã, hoặc xem tự ngã ở trong sắc. Này các thầy, đó gọi là kẻ vô văn phàm phu bị trói buộc bởi sự trói buộc của sắc, bị trói buộc cả trong lẫn ngoài, không thấy bờ bên này, không thấy bờ bên kia. Bị trói buộc mà già, bị trói buộc mà chết, bị trói buộc mà đi từ đời này sang đời khác.
 
 "Kẻ ấy xem thọ là tự ngã… xem tưởng… xem hành… xem thức là tự ngã, hoặc xem tự ngã là có thức, hoặc xem thức ở trong tự ngã, hoặc xem tự ngã ở trong thức. Này các thầy, đó gọi là kẻ vô văn phàm phu bị trói buộc bởi sự trói buộc của thức, bị trói buộc cả trong lẫn ngoài, không thấy bờ bên này, không thấy bờ bên kia. Bị trói buộc mà già, bị trói buộc mà chết, bị trói buộc mà đi từ đời này sang đời khác.
 
@@ -1884,7 +1884,7 @@ hai kinh đoạn trừ ước muốn.
 
 ==== Kinh 22.6. Được Hỏi Thứ Nhất (Paripucchitasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, các thầy nghĩ sao — các thầy có xem sắc là 'đây là của tôi, đây là tôi, đây là tự ngã của tôi' không?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, các thầy nghĩ sao — các thầy có xem sắc là 'đây là của tôi, đây là tôi, đây là tự ngã của tôi' không?"
 
 "Bạch Thế Tôn, không phải vậy."
 
@@ -1896,7 +1896,7 @@ hai kinh đoạn trừ ước muốn.
 
 ==== Kinh 22.7. Được Hỏi Thứ Hai (Dutiyaparipucchitasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, các thầy nghĩ sao — các thầy có xem sắc là 'đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi' không?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, các thầy nghĩ sao — các thầy có xem sắc là 'đây không phải của tôi, đây không phải là tôi, đây không phải tự ngã của tôi' không?"
 
 "Bạch Thế Tôn, đúng vậy."
 
@@ -1908,17 +1908,17 @@ hai kinh đoạn trừ ước muốn.
 
 ==== Kinh 22.8. Kiết Sử (Saṃyojaniyasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy về những pháp gắn với kiết sử và về kiết sử. Hãy nghe đây. Này các thầy, những pháp nào gắn với kiết sử, và kiết sử là gì? Sắc, này các thầy, là pháp gắn với kiết sử; ước muốn và tham nào đối với sắc ấy — đó chính là kiết sử nơi ấy. Thọ… tưởng… hành… thức là pháp gắn với kiết sử; ước muốn và tham nào đối với thức ấy — đó chính là kiết sử nơi ấy. Này các thầy, đó gọi là những pháp gắn với kiết sử, và đó là kiết sử."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy về những pháp gắn với kiết sử và về kiết sử. Hãy nghe đây. Này các thầy, những pháp nào gắn với kiết sử, và kiết sử là gì? Sắc, này các thầy, là pháp gắn với kiết sử; ước muốn và tham nào đối với sắc ấy — đó chính là kiết sử nơi ấy. Thọ… tưởng… hành… thức là pháp gắn với kiết sử; ước muốn và tham nào đối với thức ấy — đó chính là kiết sử nơi ấy. Này các thầy, đó gọi là những pháp gắn với kiết sử, và đó là kiết sử."
 
 ==== Kinh 22.9. Chấp Thủ (Upādāniyasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Này các thầy, Ta sẽ giảng cho các thầy về những pháp gắn với chấp thủ và về chấp thủ. Hãy nghe đây. Này các thầy, những pháp nào gắn với chấp thủ, và chấp thủ là gì? Sắc, này các thầy, là pháp gắn với chấp thủ; ước muốn và tham nào đối với sắc ấy — đó chính là chấp thủ nơi ấy. Thọ… tưởng… hành… thức là pháp gắn với chấp thủ; ước muốn và tham nào đối với thức ấy — đó chính là chấp thủ nơi ấy. Này các thầy, đó gọi là những pháp gắn với chấp thủ, và đó là chấp thủ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Này các thầy, Ta sẽ giảng cho các thầy về những pháp gắn với chấp thủ và về chấp thủ. Hãy nghe đây. Này các thầy, những pháp nào gắn với chấp thủ, và chấp thủ là gì? Sắc, này các thầy, là pháp gắn với chấp thủ; ước muốn và tham nào đối với sắc ấy — đó chính là chấp thủ nơi ấy. Thọ… tưởng… hành… thức là pháp gắn với chấp thủ; ước muốn và tham nào đối với thức ấy — đó chính là chấp thủ nơi ấy. Này các thầy, đó gọi là những pháp gắn với chấp thủ, và đó là chấp thủ."
 
 ==== Kinh 22.10. Giới Hạnh (Sīlavantasuttaṃ)
 
-#super[1] Một thời, Tôn giả Sāriputta và Tôn giả Mahākoṭṭhika trú tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Vào buổi chiều, Tôn giả Mahākoṭṭhika từ chỗ độc cư đứng dậy, đi đến chỗ Tôn giả Sāriputta. Sau khi chào hỏi thân tình xong, Ngài ngồi xuống một bên và hỏi: "Này hiền giả Sāriputta, một Tỷ-kheo có giới hạnh cần phải như lý tác ý những pháp nào?"
+#super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) và Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) trú tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Vào buổi chiều, Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) từ chỗ độc cư đứng dậy, đi đến chỗ Tôn giả Xá-lợi-phất (Sāriputta). Sau khi chào hỏi thân tình xong, Ngài ngồi xuống một bên và hỏi: "Này hiền giả Sāriputta, một Tỷ-kheo có giới hạnh cần phải như lý tác ý những pháp nào?"
 
-"Này hiền giả Koṭṭhika, một Tỷ-kheo có giới hạnh cần phải như lý tác ý năm thủ uẩn là vô thường, là khổ, là bệnh, là mụn nhọt, là mũi tên, là bất hạnh, là chứng bệnh, là xa lạ, là hoại diệt, là rỗng không, là vô ngã. Năm là gì? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này hiền giả Koṭṭhika, một Tỷ-kheo có giới hạnh cần phải như lý tác ý năm thủ uẩn này là vô thường… là vô ngã. Điều này có thể xảy ra, này hiền giả — một Tỷ-kheo có giới hạnh, khi như lý tác ý năm thủ uẩn này là vô thường… là vô ngã, có thể chứng đắc quả Dự lưu."
+"Này hiền giả Câu-hi-la (Koṭṭhika), một Tỷ-kheo có giới hạnh cần phải như lý tác ý năm thủ uẩn là vô thường, là khổ, là bệnh, là mụn nhọt, là mũi tên, là bất hạnh, là chứng bệnh, là xa lạ, là hoại diệt, là rỗng không, là vô ngã. Năm là gì? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này hiền giả Câu-hi-la (Koṭṭhika), một Tỷ-kheo có giới hạnh cần phải như lý tác ý năm thủ uẩn này là vô thường… là vô ngã. Điều này có thể xảy ra, này hiền giả — một Tỷ-kheo có giới hạnh, khi như lý tác ý năm thủ uẩn này là vô thường… là vô ngã, có thể chứng đắc quả Dự lưu."
 
 "Nhưng này hiền giả Sāriputta, một Tỷ-kheo đã là Dự lưu cần phải như lý tác ý những pháp nào?"
 
@@ -1937,9 +1937,9 @@ hai kinh đoạn trừ ước muốn.
 "Này hiền giả Koṭṭhika, một vị A-la-hán cũng cần phải như lý tác ý năm thủ uẩn này là vô thường, là khổ, là bệnh, là mụn nhọt, là mũi tên, là bất hạnh, là chứng bệnh, là xa lạ, là hoại diệt, là rỗng không, là vô ngã. Này hiền giả, đối với vị A-la-hán không còn gì phải làm thêm, cũng không cần chất chứa thêm vào những gì đã làm. Nhưng những pháp ấy, khi được tu tập, được nuôi lớn, đưa đến an trú lạc ngay trong đời này, và đưa đến niệm cùng tỉnh giác."
 ==== Kinh 22.11. Đa Văn (Sutavantasuttaṃ)
 
-#super[1] Một thời, Tôn giả Sāriputta và Tôn giả Mahākoṭṭhika cùng trú tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Tôn giả Mahākoṭṭhika hỏi Tôn giả Sāriputta: "Này hiền giả Sāriputta, một Tỷ-kheo đa văn thì phải như lý tác ý những pháp nào?"
+#super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) và Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) cùng trú tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) hỏi Tôn giả Xá-lợi-phất (Sāriputta): "Này hiền giả Sāriputta, một Tỷ-kheo đa văn thì phải như lý tác ý những pháp nào?"
 
-Tôn giả Sāriputta đáp: "Này hiền giả Koṭṭhika, một Tỷ-kheo đa văn phải như lý tác ý năm thủ uẩn này là vô thường… là vô ngã. Năm thủ uẩn là gì? Đó là sắc thủ uẩn… cho đến thức thủ uẩn. Có thể xảy ra trường hợp này — một Tỷ-kheo đa văn, khi như lý tác ý năm thủ uẩn như vậy, sẽ chứng đắc quả Dự lưu."
+Tôn giả Sāriputta đáp: "Này hiền giả Câu-hi-la (Koṭṭhika), một Tỷ-kheo đa văn phải như lý tác ý năm thủ uẩn này là vô thường… là vô ngã. Năm thủ uẩn là gì? Đó là sắc thủ uẩn… cho đến thức thủ uẩn. Có thể xảy ra trường hợp này — một Tỷ-kheo đa văn, khi như lý tác ý năm thủ uẩn như vậy, sẽ chứng đắc quả Dự lưu."
 
 "Nhưng một Tỷ-kheo đã là Dự lưu thì phải như lý tác ý những pháp nào?"
 
@@ -1947,17 +1947,17 @@ Tôn giả Sāriputta đáp: "Này hiền giả Koṭṭhika, một Tỷ-kheo đ
 
 "Nhưng một vị A-la-hán thì phải như lý tác ý những pháp nào?"
 
-"Này hiền giả Koṭṭhika, một vị A-la-hán cũng phải như lý tác ý năm thủ uẩn này là vô thường, là khổ, là bệnh, là mụn nhọt, là mũi tên, là bất hạnh, là chứng bệnh, là xa lạ, là hoại diệt, là rỗng không, là vô ngã. Đối với vị A-la-hán, không còn gì phải làm thêm nữa, cũng không cần chất chứa thêm những gì đã làm. Nhưng những pháp ấy, khi được tu tập, được nuôi lớn, sẽ đưa đến an trú lạc ngay trong đời này, và đưa đến niệm cùng tỉnh giác."
+"Này hiền giả Câu-hi-la (Koṭṭhika), một vị A-la-hán cũng phải như lý tác ý năm thủ uẩn này là vô thường, là khổ, là bệnh, là mụn nhọt, là mũi tên, là bất hạnh, là chứng bệnh, là xa lạ, là hoại diệt, là rỗng không, là vô ngã. Đối với vị A-la-hán, không còn gì phải làm thêm nữa, cũng không cần chất chứa thêm những gì đã làm. Nhưng những pháp ấy, khi được tu tập, được nuôi lớn, sẽ đưa đến an trú lạc ngay trong đời này, và đưa đến niệm cùng tỉnh giác."
 
 ==== Kinh 22.12. Kappa Thứ Nhất (Kappasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Kappa đi đến chỗ Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên, bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với thân này cùng với thức, và đối với tất cả tướng bên ngoài, không còn những tùy miên chấp là 'ta,' chấp là 'của ta,' chấp là ngã mạn?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả Kappa đi đến chỗ Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên, bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với thân này cùng với thức, và đối với tất cả tướng bên ngoài, không còn những tùy miên chấp là 'ta,' chấp là 'của ta,' chấp là ngã mạn?"
 
 Thế Tôn đáp: "Này Kappa, bất cứ sắc gì — thuộc quá khứ, tương lai hay hiện tại, thuộc nội hay ngoại, thô hay tế, hạ liệt hay thù thắng, xa hay gần — tất cả sắc ấy phải được như thật thấy bằng chánh trí tuệ rằng 'đây không phải của tôi, đây không phải là tôi, đây không phải là tự ngã của tôi.' Bất cứ thọ gì… bất cứ tưởng gì… bất cứ hành gì… bất cứ thức gì — thuộc quá khứ, tương lai hay hiện tại, thuộc nội hay ngoại, thô hay tế, hạ liệt hay thù thắng, xa hay gần — tất cả thức ấy phải được như thật thấy bằng chánh trí tuệ rằng 'đây không phải của tôi, đây không phải là tôi, đây không phải là tự ngã của tôi.' Này Kappa, biết như vậy, thấy như vậy, thì đối với thân này cùng với thức, và đối với tất cả tướng bên ngoài, không còn những tùy miên chấp là 'ta,' chấp là 'của ta,' chấp là ngã mạn."
 
 ==== Kinh 22.13. Kappa Thứ Hai (Dutiyakappasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Kappa bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với thân này cùng với thức, và đối với tất cả tướng bên ngoài, tâm không còn chấp là 'ta,' chấp là 'của ta,' chấp là ngã mạn, đã vượt qua sự đo lường, được tịch tĩnh, được khéo giải thoát?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả Kappa bạch Thế Tôn: "Bạch Thế Tôn, biết như thế nào, thấy như thế nào, thì đối với thân này cùng với thức, và đối với tất cả tướng bên ngoài, tâm không còn chấp là 'ta,' chấp là 'của ta,' chấp là ngã mạn, đã vượt qua sự đo lường, được tịch tĩnh, được khéo giải thoát?"
 
 Thế Tôn đáp: "Này Kappa, bất cứ sắc gì — thuộc quá khứ, tương lai hay hiện tại… — sau khi như thật thấy bằng chánh trí tuệ rằng tất cả sắc ấy 'đây không phải của tôi, đây không phải là tôi, đây không phải là tự ngã của tôi,' vị ấy được giải thoát, không còn chấp thủ. Bất cứ thọ gì… tưởng gì… hành gì… bất cứ thức gì — thuộc quá khứ, tương lai hay hiện tại, thuộc nội hay ngoại, thô hay tế, hạ liệt hay thù thắng, xa hay gần — sau khi như thật thấy bằng chánh trí tuệ rằng tất cả thức ấy 'đây không phải của tôi, đây không phải là tôi, đây không phải là tự ngã của tôi,' vị ấy được giải thoát, không còn chấp thủ. Này Kappa, biết như vậy, thấy như vậy, thì đối với thân này cùng với thức, và đối với tất cả tướng bên ngoài, tâm không còn chấp là 'ta,' chấp là 'của ta,' chấp là ngã mạn, đã vượt qua sự đo lường, được tịch tĩnh, được khéo giải thoát."
 
@@ -1974,7 +1974,7 @@ Giới hạnh, đa văn, và hai kinh về Kappa.
 
 ==== Kinh 22.1. Pháp Chịu Sự Tập Khởi (Samudayadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Rồi một Tỷ-kheo đi đến chỗ Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô minh, vô minh.' Bạch Thế Tôn, vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Rồi một Tỷ-kheo đi đến chỗ Thế Tôn, đảnh lễ Ngài rồi ngồi xuống một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô minh, vô minh.' Bạch Thế Tôn, vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
 Thế Tôn đáp: "Này Tỷ-kheo, ở đây kẻ vô văn phàm phu không như thật biết rõ sắc là 'sắc chịu sự tập khởi,' không biết rõ sắc là 'sắc chịu sự đoạn diệt,' không biết rõ sắc là 'sắc chịu cả sự tập khởi và đoạn diệt.' Không biết rõ thọ là 'thọ chịu sự tập khởi'… 'thọ chịu sự đoạn diệt'… 'thọ chịu cả sự tập khởi và đoạn diệt.' Không biết rõ tưởng… không biết rõ hành là 'hành chịu sự tập khởi'… 'hành chịu sự đoạn diệt'… 'hành chịu cả sự tập khởi và đoạn diệt.' Không biết rõ thức là 'thức chịu sự tập khởi,' không biết rõ thức là 'thức chịu sự đoạn diệt,' không biết rõ thức là 'thức chịu cả sự tập khởi và đoạn diệt.' Này Tỷ-kheo, đây gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
 
@@ -1984,67 +1984,67 @@ Nghe vậy, vị Tỷ-kheo ấy lại bạch Thế Tôn: "Bạch Thế Tôn, ng�
 
 ==== Kinh 22.2. Pháp Chịu Sự Tập Khởi Thứ Hai (Dutiyasamudayadhammasuttaṃ)
 
-#super[1] Một thời, Tôn giả Sāriputta và Tôn giả Mahākoṭṭhika cùng trú tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Vào buổi chiều, Tôn giả Mahākoṭṭhika từ chỗ độc cư đứng dậy, đi đến chỗ Tôn giả Sāriputta, nói lời chào hỏi, rồi ngồi xuống một bên. Ngồi xong, Tôn giả Mahākoṭṭhika hỏi: "Này hiền giả Sāriputta, người ta nói 'vô minh, vô minh.' Vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) và Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) cùng trú tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Vào buổi chiều, Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) từ chỗ độc cư đứng dậy, đi đến chỗ Tôn giả Xá-lợi-phất (Sāriputta), nói lời chào hỏi, rồi ngồi xuống một bên. Ngồi xong, Tôn giả Mahākoṭṭhika hỏi: "Này hiền giả Sāriputta, người ta nói 'vô minh, vô minh.' Vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
 Tôn giả Sāriputta đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sắc là 'sắc chịu sự tập khởi'… 'sắc chịu sự đoạn diệt'… 'sắc chịu cả sự tập khởi và đoạn diệt.' Không biết rõ thọ… tưởng… hành, không biết rõ hành là 'hành chịu sự tập khởi'… 'hành chịu sự đoạn diệt'… 'hành chịu cả sự tập khởi và đoạn diệt.' Không biết rõ thức, không biết rõ thức là 'thức chịu cả sự tập khởi và đoạn diệt.' Này hiền giả, đây gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
 
 ==== Kinh 22.3. Pháp Chịu Sự Tập Khởi Thứ Ba (Tatiyasamudayadhammasuttaṃ)
 
-#super[1] Cũng tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Tôn giả Mahākoṭṭhika hỏi Tôn giả Sāriputta: "Này hiền giả Sāriputta, người ta nói 'minh, minh.' Minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
+#super[1] Cũng tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) hỏi Tôn giả Xá-lợi-phất (Sāriputta): "Này hiền giả Xá-lợi-phất (Sāriputta), người ta nói 'minh, minh.' Minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
 
 Tôn giả Sāriputta đáp: "Này hiền giả, ở đây vị Thánh đệ tử đa văn như thật biết rõ sắc là 'sắc chịu sự tập khởi'… 'sắc chịu sự đoạn diệt'… 'sắc chịu cả sự tập khởi và đoạn diệt.' Biết rõ thọ… tưởng… hành là 'hành chịu sự tập khởi'… 'hành chịu sự đoạn diệt'… 'hành chịu cả sự tập khởi và đoạn diệt.' Biết rõ thức là 'thức chịu cả sự tập khởi và đoạn diệt.' Này hiền giả, đây gọi là minh, và đến mức này thì gọi là đã đi vào minh."
 
 ==== Kinh 22.4. Vị Ngọt (Assādasuttaṃ)
 
-#super[1] Cũng tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Tôn giả Mahākoṭṭhika hỏi Tôn giả Sāriputta: "Này hiền giả Sāriputta, người ta nói 'vô minh, vô minh.' Vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Cũng tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) hỏi Tôn giả Xá-lợi-phất (Sāriputta): "Này hiền giả Xá-lợi-phất (Sāriputta), người ta nói 'vô minh, vô minh.' Vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
 Tôn giả Sāriputta đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… không như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
 
 ==== Kinh 22.5. Vị Ngọt Thứ Hai (Dutiyaassādasuttaṃ)
 
-#super[1] Cũng tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Tôn giả Mahākoṭṭhika hỏi: "Này hiền giả Sāriputta, người ta nói 'minh, minh.' Minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
+#super[1] Cũng tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) hỏi: "Này hiền giả Xá-lợi-phất (Sāriputta), người ta nói 'minh, minh.' Minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
 
-Tôn giả Sāriputta đáp: "Này hiền giả, ở đây vị Thánh đệ tử đa văn như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là minh, và đến mức này thì gọi là đã đi vào minh."
+Tôn giả Xá-lợi-phất (Sāriputta) đáp: "Này hiền giả, ở đây vị Thánh đệ tử đa văn như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là minh, và đến mức này thì gọi là đã đi vào minh."
 
 ==== Kinh 22.6. Tập Khởi (Samudayasuttaṃ)
 
-#super[1] Cũng tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Tôn giả Mahākoṭṭhika hỏi: "Này hiền giả Sāriputta, vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Cũng tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) hỏi: "Này hiền giả Xá-lợi-phất (Sāriputta), vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
-Tôn giả Sāriputta đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… không như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
+Tôn giả Xá-lợi-phất (Sāriputta) đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… không như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
 
 ==== Kinh 22.7. Tập Khởi Thứ Hai (Dutiyasamudayasuttaṃ)
 
-#super[1] Cũng tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Tôn giả Mahākoṭṭhika hỏi: "Này hiền giả Sāriputta, minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
+#super[1] Cũng tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) hỏi: "Này hiền giả Xá-lợi-phất (Sāriputta), minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
 
-Tôn giả Sāriputta đáp: "Này hiền giả, ở đây vị Thánh đệ tử đa văn như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là minh, và đến mức này thì gọi là đã đi vào minh."
+Tôn giả Xá-lợi-phất (Sāriputta) đáp: "Này hiền giả, ở đây vị Thánh đệ tử đa văn như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là minh, và đến mức này thì gọi là đã đi vào minh."
 
 ==== Kinh 22.8. Koṭṭhika (Koṭṭhikasuttaṃ)
 
-#super[1] Cũng tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Vào buổi chiều, Tôn giả Sāriputta từ chỗ độc cư đứng dậy, đi đến chỗ Tôn giả Mahākoṭṭhika, nói lời chào hỏi, rồi ngồi xuống một bên. Ngồi xong, Tôn giả Sāriputta hỏi: "Này hiền giả Koṭṭhika, người ta nói 'vô minh, vô minh.' Vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Cũng tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Vào buổi chiều, Tôn giả Xá-lợi-phất (Sāriputta) từ chỗ độc cư đứng dậy, đi đến chỗ Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika), nói lời chào hỏi, rồi ngồi xuống một bên. Ngồi xong, Tôn giả Xá-lợi-phất (Sāriputta) hỏi: "Này hiền giả Câu-hi-la (Koṭṭhika), người ta nói 'vô minh, vô minh.' Vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
-Tôn giả Mahākoṭṭhika đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… không như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là vô minh."
+Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… không như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là vô minh."
 
-Nghe vậy, Tôn giả Sāriputta lại hỏi Tôn giả Mahākoṭṭhika: "Này hiền giả Koṭṭhika, minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
+Nghe vậy, Tôn giả Sāriputta lại hỏi Tôn giả Mahākoṭṭhika: "Này hiền giả Câu-hi-la (Koṭṭhika), minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
 
 "Này hiền giả, ở đây vị Thánh đệ tử đa văn như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… như thật biết rõ sự vị ngọt, sự tai hại và sự xuất ly đối với thức. Này hiền giả, đây gọi là minh."
 
 ==== Kinh 22.9. Koṭṭhika Thứ Hai (Dutiyakoṭṭhikasuttaṃ)
 
-#super[1] Cũng tại Bārāṇasī, trong Khu Vườn Nai ở Isipatana. Tôn giả Sāriputta hỏi Tôn giả Mahākoṭṭhika: "Này hiền giả Koṭṭhika, vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Cũng tại Ba-la-nại (Bārāṇasī), trong Khu Vườn Nai ở Trú xứ chư Tiên (Isipatana). Tôn giả Xá-lợi-phất (Sāriputta) hỏi Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika): "Này hiền giả Câu-hi-la (Koṭṭhika), vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
-Tôn giả Mahākoṭṭhika đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… không như thật biết rõ điều ấy đối với thức. Này hiền giả, đây gọi là vô minh."
+Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… không như thật biết rõ điều ấy đối với thức. Này hiền giả, đây gọi là vô minh."
 
-Nghe vậy, Tôn giả Sāriputta lại hỏi: "Này hiền giả Koṭṭhika, minh là gì?"
+Nghe vậy, Tôn giả Xá-lợi-phất (Sāriputta) lại hỏi: "Này hiền giả Câu-hi-la (Koṭṭhika), minh là gì?"
 
 "Này hiền giả, ở đây vị Thánh đệ tử đa văn như thật biết rõ sự tập khởi, sự đoạn tận, sự vị ngọt, sự tai hại và sự xuất ly đối với sắc. Đối với thọ… tưởng… hành… như thật biết rõ điều ấy đối với thức. Này hiền giả, đây gọi là minh."
 
 ==== Kinh 22.10. Koṭṭhika Thứ Ba (Tatiyakoṭṭhikasuttaṃ)
 
-#super[1] Cũng nhân duyên như vậy. Tôn giả Sāriputta hỏi Tôn giả Mahākoṭṭhika: "Này hiền giả Koṭṭhika, vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
+#super[1] Cũng nhân duyên như vậy. Tôn giả Xá-lợi-phất (Sāriputta) hỏi Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika): "Này hiền giả Câu-hi-la (Koṭṭhika), vô minh là gì, và đến mức nào thì gọi là đã đi vào vô minh?"
 
-Tôn giả Mahākoṭṭhika đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không biết rõ sắc, không biết rõ sự tập khởi của sắc, không biết rõ sự đoạn diệt của sắc, không biết rõ con đường đưa đến sự đoạn diệt của sắc. Không biết rõ thọ… tưởng… hành… không biết rõ thức, không biết rõ sự tập khởi của thức, không biết rõ sự đoạn diệt của thức, không biết rõ con đường đưa đến sự đoạn diệt của thức. Này hiền giả, đây gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
+Tôn giả Ma-ha-câu-hi-la (Mahākoṭṭhika) đáp: "Này hiền giả, ở đây kẻ vô văn phàm phu không biết rõ sắc, không biết rõ sự tập khởi của sắc, không biết rõ sự đoạn diệt của sắc, không biết rõ con đường đưa đến sự đoạn diệt của sắc. Không biết rõ thọ… tưởng… hành… không biết rõ thức, không biết rõ sự tập khởi của thức, không biết rõ sự đoạn diệt của thức, không biết rõ con đường đưa đến sự đoạn diệt của thức. Này hiền giả, đây gọi là vô minh, và đến mức này thì gọi là đã đi vào vô minh."
 
-Nghe vậy, Tôn giả Sāriputta lại hỏi: "Này hiền giả Koṭṭhika, minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
+Nghe vậy, Tôn giả Xá-lợi-phất (Sāriputta) lại hỏi: "Này hiền giả Câu-hi-la (Koṭṭhika), minh là gì, và đến mức nào thì gọi là đã đi vào minh?"
 
 "Này hiền giả, ở đây vị Thánh đệ tử đa văn biết rõ sắc, biết rõ sự tập khởi của sắc, biết rõ sự đoạn diệt của sắc, biết rõ con đường đưa đến sự đoạn diệt của sắc. Biết rõ thọ… tưởng… hành… biết rõ thức, biết rõ sự tập khởi của thức, biết rõ sự đoạn diệt của thức, biết rõ con đường đưa đến sự đoạn diệt của thức. Này hiền giả, đây gọi là minh, và đến mức này thì gọi là đã đi vào minh."
 
@@ -2061,58 +2061,58 @@ và ba kinh về Koṭṭhika.
 
 ==== Kinh 22.1. Đống Lửa Than (Kukkuḷasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, sắc là một đống lửa than, thọ là một đống lửa than, tưởng là một đống lửa than, hành là một đống lửa than, thức là một đống lửa than. Thấy như vậy, vị Thánh đệ tử đa văn nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán hành, nhàm chán thức. Do nhàm chán mà ly tham; do ly tham mà giải thoát. Khi đã giải thoát, khởi lên trí tuệ biết rằng 'đã giải thoát.' Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, sắc là một đống lửa than, thọ là một đống lửa than, tưởng là một đống lửa than, hành là một đống lửa than, thức là một đống lửa than. Thấy như vậy, vị Thánh đệ tử đa văn nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán hành, nhàm chán thức. Do nhàm chán mà ly tham; do ly tham mà giải thoát. Khi đã giải thoát, khởi lên trí tuệ biết rằng 'đã giải thoát.' Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 22.2. Vô Thường Thứ Nhất (Aniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì vô thường thì đối với cái ấy, các thầy hãy từ bỏ ước muốn. Này các thầy, cái gì là vô thường? Sắc, này các thầy, là vô thường — đối với sắc, hãy từ bỏ ước muốn. Thọ là vô thường… tưởng… hành… thức là vô thường — đối với thức, hãy từ bỏ ước muốn. Này các thầy, cái gì vô thường thì đối với cái ấy, hãy từ bỏ ước muốn."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì vô thường thì đối với cái ấy, các thầy hãy từ bỏ ước muốn. Này các thầy, cái gì là vô thường? Sắc, này các thầy, là vô thường — đối với sắc, hãy từ bỏ ước muốn. Thọ là vô thường… tưởng… hành… thức là vô thường — đối với thức, hãy từ bỏ ước muốn. Này các thầy, cái gì vô thường thì đối với cái ấy, hãy từ bỏ ước muốn."
 
 ==== Kinh 22.3. Vô Thường Thứ Hai (Dutiyaaniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì vô thường thì đối với cái ấy, các thầy hãy từ bỏ tham. Này các thầy, cái gì là vô thường? Sắc là vô thường — đối với sắc, hãy từ bỏ tham. Thọ là vô thường… tưởng… hành… thức là vô thường — đối với thức, hãy từ bỏ tham. Này các thầy, cái gì vô thường thì đối với cái ấy, hãy từ bỏ tham."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì vô thường thì đối với cái ấy, các thầy hãy từ bỏ tham. Này các thầy, cái gì là vô thường? Sắc là vô thường — đối với sắc, hãy từ bỏ tham. Thọ là vô thường… tưởng… hành… thức là vô thường — đối với thức, hãy từ bỏ tham. Này các thầy, cái gì vô thường thì đối với cái ấy, hãy từ bỏ tham."
 
 ==== Kinh 22.4. Vô Thường Thứ Ba (Tatiyaaniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì vô thường thì đối với cái ấy, các thầy hãy từ bỏ dục tham. Này các thầy, cái gì là vô thường? Sắc là vô thường — đối với sắc, hãy từ bỏ dục tham. Thọ là vô thường… tưởng… hành… thức là vô thường — đối với thức, hãy từ bỏ dục tham. Này các thầy, cái gì vô thường thì đối với cái ấy, hãy từ bỏ dục tham."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì vô thường thì đối với cái ấy, các thầy hãy từ bỏ dục tham. Này các thầy, cái gì là vô thường? Sắc là vô thường — đối với sắc, hãy từ bỏ dục tham. Thọ là vô thường… tưởng… hành… thức là vô thường — đối với thức, hãy từ bỏ dục tham. Này các thầy, cái gì vô thường thì đối với cái ấy, hãy từ bỏ dục tham."
 
 ==== Kinh 22.5. Khổ Thứ Nhất (Dukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì là khổ thì đối với cái ấy, các thầy hãy từ bỏ ước muốn. Này các thầy, cái gì là khổ? Sắc, này các thầy, là khổ — đối với sắc, hãy từ bỏ ước muốn. Thọ là khổ… tưởng… hành… thức là khổ — đối với thức, hãy từ bỏ ước muốn. Này các thầy, cái gì là khổ thì đối với cái ấy, hãy từ bỏ ước muốn."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì là khổ thì đối với cái ấy, các thầy hãy từ bỏ ước muốn. Này các thầy, cái gì là khổ? Sắc, này các thầy, là khổ — đối với sắc, hãy từ bỏ ước muốn. Thọ là khổ… tưởng… hành… thức là khổ — đối với thức, hãy từ bỏ ước muốn. Này các thầy, cái gì là khổ thì đối với cái ấy, hãy từ bỏ ước muốn."
 
 ==== Kinh 22.6. Khổ Thứ Hai (Dutiyadukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì là khổ thì đối với cái ấy, các thầy hãy từ bỏ tham. Này các thầy, cái gì là khổ? Sắc là khổ — đối với sắc, hãy từ bỏ tham. Thọ là khổ… tưởng… hành… thức là khổ — đối với thức, hãy từ bỏ tham. Này các thầy, cái gì là khổ thì đối với cái ấy, hãy từ bỏ tham."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì là khổ thì đối với cái ấy, các thầy hãy từ bỏ tham. Này các thầy, cái gì là khổ? Sắc là khổ — đối với sắc, hãy từ bỏ tham. Thọ là khổ… tưởng… hành… thức là khổ — đối với thức, hãy từ bỏ tham. Này các thầy, cái gì là khổ thì đối với cái ấy, hãy từ bỏ tham."
 
 ==== Kinh 22.7. Khổ Thứ Ba (Tatiyadukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì là khổ thì đối với cái ấy, các thầy hãy từ bỏ dục tham. Này các thầy, cái gì là khổ? Sắc là khổ — đối với sắc, hãy từ bỏ dục tham. Thọ là khổ… tưởng… hành… thức là khổ — đối với thức, hãy từ bỏ dục tham. Này các thầy, cái gì là khổ thì đối với cái ấy, hãy từ bỏ dục tham."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì là khổ thì đối với cái ấy, các thầy hãy từ bỏ dục tham. Này các thầy, cái gì là khổ? Sắc là khổ — đối với sắc, hãy từ bỏ dục tham. Thọ là khổ… tưởng… hành… thức là khổ — đối với thức, hãy từ bỏ dục tham. Này các thầy, cái gì là khổ thì đối với cái ấy, hãy từ bỏ dục tham."
 ==== Kinh 22.8. Vô Ngã Thứ Nhất (Anattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì là vô ngã thì đối với cái ấy, các thầy hãy từ bỏ ước muốn. Vậy cái gì là vô ngã? Sắc là vô ngã, này các thầy — đối với sắc, hãy từ bỏ ước muốn. Thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã — đối với thức, hãy từ bỏ ước muốn. Này các thầy, cái gì là vô ngã thì đối với cái ấy, hãy từ bỏ ước muốn."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì là vô ngã thì đối với cái ấy, các thầy hãy từ bỏ ước muốn. Vậy cái gì là vô ngã? Sắc là vô ngã, này các thầy — đối với sắc, hãy từ bỏ ước muốn. Thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã — đối với thức, hãy từ bỏ ước muốn. Này các thầy, cái gì là vô ngã thì đối với cái ấy, hãy từ bỏ ước muốn."
 
 ==== Kinh 22.9. Vô Ngã Thứ Hai (Dutiyaanattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì là vô ngã thì đối với cái ấy, các thầy hãy từ bỏ tham. Vậy cái gì là vô ngã? Sắc là vô ngã — đối với sắc, hãy từ bỏ tham. Thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã — đối với thức, hãy từ bỏ tham. Này các thầy, cái gì là vô ngã thì đối với cái ấy, hãy từ bỏ tham."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì là vô ngã thì đối với cái ấy, các thầy hãy từ bỏ tham. Vậy cái gì là vô ngã? Sắc là vô ngã — đối với sắc, hãy từ bỏ tham. Thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã — đối với thức, hãy từ bỏ tham. Này các thầy, cái gì là vô ngã thì đối với cái ấy, hãy từ bỏ tham."
 
 ==== Kinh 22.10. Vô Ngã Thứ Ba (Tatiyaanattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, cái gì là vô ngã thì đối với cái ấy, các thầy hãy từ bỏ dục tham. Vậy cái gì là vô ngã? Sắc là vô ngã — đối với sắc, hãy từ bỏ dục tham. Thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã — đối với thức, hãy từ bỏ dục tham. Này các thầy, cái gì là vô ngã thì đối với cái ấy, hãy từ bỏ dục tham."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, cái gì là vô ngã thì đối với cái ấy, các thầy hãy từ bỏ dục tham. Vậy cái gì là vô ngã? Sắc là vô ngã — đối với sắc, hãy từ bỏ dục tham. Thọ là vô ngã, tưởng là vô ngã, hành là vô ngã, thức là vô ngã — đối với thức, hãy từ bỏ dục tham. Này các thầy, cái gì là vô ngã thì đối với cái ấy, hãy từ bỏ dục tham."
 
 ==== Kinh 22.11. Nhiều Nhàm Chán (Nibbidābahulasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống với nhiều sự nhàm chán đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức. Vị nào sống với nhiều sự nhàm chán đối với sắc, thọ, tưởng, hành, thức thì liễu tri được sắc, liễu tri được thọ, liễu tri được tưởng, liễu tri được hành, liễu tri được thức. Nhờ liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri hành, liễu tri thức, vị ấy được giải thoát khỏi sắc, được giải thoát khỏi thọ, được giải thoát khỏi tưởng, được giải thoát khỏi hành, được giải thoát khỏi thức, được giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói vị ấy được giải thoát khỏi khổ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống với nhiều sự nhàm chán đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức. Vị nào sống với nhiều sự nhàm chán đối với sắc, thọ, tưởng, hành, thức thì liễu tri được sắc, liễu tri được thọ, liễu tri được tưởng, liễu tri được hành, liễu tri được thức. Nhờ liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri hành, liễu tri thức, vị ấy được giải thoát khỏi sắc, được giải thoát khỏi thọ, được giải thoát khỏi tưởng, được giải thoát khỏi hành, được giải thoát khỏi thức, được giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói vị ấy được giải thoát khỏi khổ."
 
 ==== Kinh 22.12. Quán Vô Thường (Aniccānupassīsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống quán tưởng vô thường đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức… Ta nói vị ấy được giải thoát khỏi khổ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống quán tưởng vô thường đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức… Ta nói vị ấy được giải thoát khỏi khổ."
 
 ==== Kinh 22.13. Quán Khổ (Dukkhānupassīsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống quán tưởng khổ đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức… Ta nói vị ấy được giải thoát khỏi khổ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống quán tưởng khổ đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức… Ta nói vị ấy được giải thoát khỏi khổ."
 
 ==== Kinh 22.14. Quán Vô Ngã (Anattānupassīsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống quán tưởng vô ngã đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức. Vị nào sống quán tưởng vô ngã đối với sắc, thọ, tưởng, hành, thức thì liễu tri được sắc, liễu tri được thọ, liễu tri được tưởng, liễu tri được hành, liễu tri được thức. Nhờ liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri hành, liễu tri thức, vị ấy được giải thoát khỏi sắc, được giải thoát khỏi thọ, được giải thoát khỏi tưởng, được giải thoát khỏi hành, được giải thoát khỏi thức, được giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói vị ấy được giải thoát khỏi khổ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, một thiện nam tử xuất gia vì lòng tin thì pháp thuận theo là thế này — vị ấy nên sống quán tưởng vô ngã đối với sắc, đối với thọ, đối với tưởng, đối với hành, đối với thức. Vị nào sống quán tưởng vô ngã đối với sắc, thọ, tưởng, hành, thức thì liễu tri được sắc, liễu tri được thọ, liễu tri được tưởng, liễu tri được hành, liễu tri được thức. Nhờ liễu tri sắc, liễu tri thọ, liễu tri tưởng, liễu tri hành, liễu tri thức, vị ấy được giải thoát khỏi sắc, được giải thoát khỏi thọ, được giải thoát khỏi tưởng, được giải thoát khỏi hành, được giải thoát khỏi thức, được giải thoát khỏi sanh, già, chết, sầu, bi, khổ, ưu, não. Ta nói vị ấy được giải thoát khỏi khổ."
 
 #strong[Hết phẩm Đống Lửa Than, thứ mười bốn.]
 
@@ -2127,7 +2127,7 @@ Bốn kinh về thiện nam tử.
 
 ==== Kinh 22.1. Nội Tâm (Ajjhattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì mà trong nội tâm sanh khởi lạc và khổ?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì mà trong nội tâm sanh khởi lạc và khổ?"
 
 Các Tỷ-kheo thưa: "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2161,7 +2161,7 @@ Các thầy nghĩ thế nào, này các thầy — sắc là thường hay vô t
 
 ==== Kinh 22.2. Của Tôi (Etaṃmamasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà người ta xem là 'đây là của tôi, đây là tôi, đây là tự ngã của tôi'?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà người ta xem là 'đây là của tôi, đây là tôi, đây là tự ngã của tôi'?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2179,7 +2179,7 @@ Thọ, tưởng, hành, thức cũng vậy. "Thấy như vậy… vị ấy bi�
 
 ==== Kinh 22.3. Tự Ngã (Soattāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà tà kiến này sanh khởi: 'cái ấy là tự ngã, cái ấy là thế gian; sau khi chết, ta sẽ trở thành thường còn, kiên cố, vĩnh viễn, không chịu biến hoại'?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà tà kiến này sanh khởi: 'cái ấy là tự ngã, cái ấy là thế gian; sau khi chết, ta sẽ trở thành thường còn, kiên cố, vĩnh viễn, không chịu biến hoại'?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2197,7 +2197,7 @@ Thọ, tưởng, hành, thức cũng vậy. "Thấy như vậy… vị ấy bi�
 
 ==== Kinh 22.4. Không Có (Nocamesiyāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà tà kiến này sanh khởi: 'nếu ta không hiện hữu thì điều ấy sẽ không thuộc về ta; nếu ta sẽ không hiện hữu thì điều ấy sẽ không thuộc về ta'?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà tà kiến này sanh khởi: 'nếu ta không hiện hữu thì điều ấy sẽ không thuộc về ta; nếu ta sẽ không hiện hữu thì điều ấy sẽ không thuộc về ta'?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2215,7 +2215,7 @@ Thọ, tưởng, hành, thức cũng vậy. "Thấy như vậy… vị ấy bi�
 
 ==== Kinh 22.5. Tà Kiến (Micchādiṭṭhisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà tà kiến sanh khởi?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà tà kiến sanh khởi?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2233,7 +2233,7 @@ Thọ, tưởng, hành, thức cũng vậy. "Thấy như vậy… vị ấy bi�
 
 ==== Kinh 22.6. Thân Kiến (Sakkāyadiṭṭhisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà thân kiến sanh khởi?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà thân kiến sanh khởi?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2251,7 +2251,7 @@ Thọ, tưởng, hành, thức cũng vậy. "Thấy như vậy… vị ấy bi�
 
 ==== Kinh 22.7. Kiến Chấp Theo Tự Ngã (Attānudiṭṭhisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà kiến chấp theo tự ngã sanh khởi?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà kiến chấp theo tự ngã sanh khởi?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2269,7 +2269,7 @@ Thọ, tưởng, hành, thức cũng vậy. "Thấy như vậy… vị ấy bi�
 
 ==== Kinh 22.8. Thiên Chấp Thứ Nhất (Abhinivesasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà các kiết sử, sự thiên chấp, sự trói buộc sanh khởi?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà các kiết sử, sự thiên chấp, sự trói buộc sanh khởi?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2287,7 +2287,7 @@ Các thầy nghĩ thế nào — sắc là thường hay vô thường?"
 
 ==== Kinh 22.9. Thiên Chấp Thứ Hai (Dutiyaabhinivesasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà các kiết sử, sự thiên chấp, sự trói buộc, và sự đắm nhiễm sanh khởi?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do thiên chấp cái gì mà các kiết sử, sự thiên chấp, sự trói buộc, và sự đắm nhiễm sanh khởi?"
 
 "Bạch Thế Tôn, các pháp lấy Thế Tôn làm căn bản…"
 
@@ -2305,9 +2305,9 @@ Các thầy nghĩ thế nào — sắc là thường hay vô thường?"
 
 ==== Kinh 22.10. Ānanda (Ānandasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Rồi Tôn giả Ānanda đi đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Ông thưa: "Bạch Thế Tôn, mong Thế Tôn thuyết pháp vắn tắt cho con, để sau khi nghe pháp ấy, con có thể sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Rồi Tôn giả A-nan (Ānanda) đi đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Ông thưa: "Bạch Thế Tôn, mong Thế Tôn thuyết pháp vắn tắt cho con, để sau khi nghe pháp ấy, con có thể sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm."
 
-Thế Tôn hỏi: "Này Ānanda, ngươi nghĩ thế nào — sắc là thường hay vô thường?"
+Thế Tôn hỏi: "Này A-nan (Ānanda), ngươi nghĩ thế nào — sắc là thường hay vô thường?"
 
 "Vô thường, bạch Thế Tôn."
 
@@ -2358,9 +2358,9 @@ Cùng Tận, Người Thuyết Pháp, Vô Minh, \
 
 ==== Kinh 23.1. Ma Vương (Mārasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Ông thưa: "Bạch Thế Tôn, người ta nói 'Ma vương, Ma vương.' Bạch Thế Tôn, thế nào gọi là Ma vương?"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Ông thưa: "Bạch Thế Tôn, người ta nói 'Ma vương, Ma vương.' Bạch Thế Tôn, thế nào gọi là Ma vương?"
 
-Thế Tôn đáp: "Này Rādha, khi có sắc thì có Ma vương, có kẻ giết hại, hoặc có kẻ bị giết hại. Vì vậy, này Rādha, ngươi hãy thấy sắc là Ma vương, hãy thấy nó là kẻ giết hại, hãy thấy nó là kẻ bị giết hại, hãy thấy nó là bệnh, hãy thấy nó là mụt nhọt, hãy thấy nó là mũi tên, hãy thấy nó là tai họa, hãy thấy nó là nguồn tai họa. Ai thấy như vậy là thấy đúng. Khi có thọ, khi có tưởng, khi có các hành, khi có thức thì có Ma vương, có kẻ giết hại, hoặc có kẻ bị giết hại. Vì vậy, này Rādha, ngươi hãy thấy thức là Ma vương, hãy thấy nó là kẻ giết hại, hãy thấy nó là kẻ bị giết hại, hãy thấy nó là bệnh, hãy thấy nó là mụt nhọt, hãy thấy nó là mũi tên, hãy thấy nó là tai họa, hãy thấy nó là nguồn tai họa. Ai thấy như vậy là thấy đúng."
+Thế Tôn đáp: "Này La-đà (Rādha), khi có sắc thì có Ma vương, có kẻ giết hại, hoặc có kẻ bị giết hại. Vì vậy, này Rādha, ngươi hãy thấy sắc là Ma vương, hãy thấy nó là kẻ giết hại, hãy thấy nó là kẻ bị giết hại, hãy thấy nó là bệnh, hãy thấy nó là mụt nhọt, hãy thấy nó là mũi tên, hãy thấy nó là tai họa, hãy thấy nó là nguồn tai họa. Ai thấy như vậy là thấy đúng. Khi có thọ, khi có tưởng, khi có các hành, khi có thức thì có Ma vương, có kẻ giết hại, hoặc có kẻ bị giết hại. Vì vậy, này Rādha, ngươi hãy thấy thức là Ma vương, hãy thấy nó là kẻ giết hại, hãy thấy nó là kẻ bị giết hại, hãy thấy nó là bệnh, hãy thấy nó là mụt nhọt, hãy thấy nó là mũi tên, hãy thấy nó là tai họa, hãy thấy nó là nguồn tai họa. Ai thấy như vậy là thấy đúng."
 
 "Bạch Thế Tôn, nhưng thấy đúng như vậy để làm gì?"
 
@@ -2383,39 +2383,39 @@ Thế Tôn đáp: "Này Rādha, khi có sắc thì có Ma vương, có kẻ gi�
 "Này Rādha, ngươi đã hỏi quá xa — không thể nắm được giới hạn của câu hỏi. Này Rādha, Phạm hạnh được sống chính là để thể nhập Niết-bàn, có Niết-bàn là chỗ hướng đến, có Niết-bàn là chỗ cùng tận."
 ==== Kinh 23.2. Chúng Sanh (Sattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'chúng sanh, chúng sanh.' Bạch Thế Tôn, đến mức nào thì được gọi là chúng sanh?" Thế Tôn đáp: "Này Rādha, đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái, thì bị vướng vào đó, bị dính mắc vào đó — vì vậy mới gọi là 'chúng sanh.' Đối với thọ… đối với tưởng… đối với các hành… đối với thức cũng vậy — khi nào còn dục, còn tham, còn ưa thích, còn ái, thì bị vướng vào đó, bị dính mắc vào đó, vì vậy mới gọi là 'chúng sanh.' Này Rādha, thử nghĩ xem — mấy đứa bé trai, bé gái chơi đắp lâu đài bằng cát. Chừng nào chúng còn tham, còn dục, còn ưa thích, còn khát khao, còn nhiệt não, còn ái đối với mấy cái lâu đài cát ấy, thì chúng còn quý mến, còn nâng niu, còn cho là của mình, còn giữ làm sở hữu. Nhưng khi chúng đã hết tham, hết dục, hết ưa thích, hết khát khao, hết nhiệt não, hết ái đối với mấy lâu đài cát ấy, thì chúng dùng tay, dùng chân phá tan, đập vỡ, hủy hoại chúng, làm cho không thể chơi được nữa. Cũng vậy, này Rādha, các ngươi hãy phá tan, đập vỡ, hủy hoại sắc, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Hãy phá tan, đập vỡ, hủy hoại thọ, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Hãy phá tan, đập vỡ, hủy hoại tưởng… các hành, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Hãy phá tan, đập vỡ, hủy hoại thức, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Vì sao? Vì, này Rādha, đoạn tận ái chính là Niết-bàn."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'chúng sanh, chúng sanh.' Bạch Thế Tôn, đến mức nào thì được gọi là chúng sanh?" Thế Tôn đáp: "Này La-đà (Rādha), đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái, thì bị vướng vào đó, bị dính mắc vào đó — vì vậy mới gọi là 'chúng sanh.' Đối với thọ… đối với tưởng… đối với các hành… đối với thức cũng vậy — khi nào còn dục, còn tham, còn ưa thích, còn ái, thì bị vướng vào đó, bị dính mắc vào đó, vì vậy mới gọi là 'chúng sanh.' Này Rādha, thử nghĩ xem — mấy đứa bé trai, bé gái chơi đắp lâu đài bằng cát. Chừng nào chúng còn tham, còn dục, còn ưa thích, còn khát khao, còn nhiệt não, còn ái đối với mấy cái lâu đài cát ấy, thì chúng còn quý mến, còn nâng niu, còn cho là của mình, còn giữ làm sở hữu. Nhưng khi chúng đã hết tham, hết dục, hết ưa thích, hết khát khao, hết nhiệt não, hết ái đối với mấy lâu đài cát ấy, thì chúng dùng tay, dùng chân phá tan, đập vỡ, hủy hoại chúng, làm cho không thể chơi được nữa. Cũng vậy, này Rādha, các ngươi hãy phá tan, đập vỡ, hủy hoại sắc, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Hãy phá tan, đập vỡ, hủy hoại thọ, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Hãy phá tan, đập vỡ, hủy hoại tưởng… các hành, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Hãy phá tan, đập vỡ, hủy hoại thức, làm cho không thể chơi được nữa — hãy thực hành để đoạn tận ái. Vì sao? Vì, này Rādha, đoạn tận ái chính là Niết-bàn."
 
 ==== Kinh 23.3. Cỗ Xe Đưa Đến Hữu (Bhavanettisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'sự đoạn diệt của cỗ xe đưa đến hữu, sự đoạn diệt của cỗ xe đưa đến hữu.' Bạch Thế Tôn, thế nào là cỗ xe đưa đến hữu, và thế nào là sự đoạn diệt của cỗ xe ấy?" Thế Tôn đáp: "Này Rādha, đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái, còn những chấp thủ và bám chấp, còn những thiên chấp và tùy miên của tâm — đó gọi là cỗ xe đưa đến hữu. Đoạn diệt những thứ ấy là đoạn diệt cỗ xe đưa đến hữu. Đối với thọ… đối với tưởng… đối với các hành… đối với thức cũng vậy — khi nào còn dục… còn những tùy miên của tâm, đó gọi là cỗ xe đưa đến hữu. Đoạn diệt những thứ ấy là đoạn diệt cỗ xe đưa đến hữu."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'sự đoạn diệt của cỗ xe đưa đến hữu, sự đoạn diệt của cỗ xe đưa đến hữu.' Bạch Thế Tôn, thế nào là cỗ xe đưa đến hữu, và thế nào là sự đoạn diệt của cỗ xe ấy?" Thế Tôn đáp: "Này La-đà (Rādha), đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái, còn những chấp thủ và bám chấp, còn những thiên chấp và tùy miên của tâm — đó gọi là cỗ xe đưa đến hữu. Đoạn diệt những thứ ấy là đoạn diệt cỗ xe đưa đến hữu. Đối với thọ… đối với tưởng… đối với các hành… đối với thức cũng vậy — khi nào còn dục… còn những tùy miên của tâm, đó gọi là cỗ xe đưa đến hữu. Đoạn diệt những thứ ấy là đoạn diệt cỗ xe đưa đến hữu."
 
 ==== Kinh 23.4. Cần Được Biến Tri (Pariññeyyasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Thế Tôn nói với ông: "Này Rādha, Ta sẽ giảng cho ngươi về các pháp cần được biến tri toàn diện, về sự biến tri toàn diện, và về người đã biến tri toàn diện. Hãy lắng nghe, khéo tác ý — Ta sẽ nói." "Bạch Thế Tôn, xin vâng," Tôn giả Rādha đáp. Thế Tôn nói: "Này Rādha, thế nào là các pháp cần được biến tri toàn diện? Sắc là pháp cần được biến tri toàn diện. Thọ là pháp cần được biến tri toàn diện. Tưởng là pháp cần được biến tri toàn diện. Các hành là pháp cần được biến tri toàn diện. Thức là pháp cần được biến tri toàn diện. Đó gọi là, này Rādha, các pháp cần được biến tri toàn diện. Và thế nào là sự biến tri toàn diện? Đoạn tận tham, đoạn tận sân, đoạn tận si — đó gọi là, này Rādha, sự biến tri toàn diện. Và thế nào là người đã biến tri toàn diện? 'A-la-hán' là danh xưng cần nói đến — tức là vị Tôn giả tên như vậy, thuộc dòng họ như vậy. Đó gọi là, này Rādha, người đã biến tri toàn diện."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) đến chỗ Thế Tôn, đảnh lễ, rồi ngồi sang một bên. Thế Tôn nói với ông: "Này La-đà (Rādha), Ta sẽ giảng cho ngươi về các pháp cần được biến tri toàn diện, về sự biến tri toàn diện, và về người đã biến tri toàn diện. Hãy lắng nghe, khéo tác ý — Ta sẽ nói." "Bạch Thế Tôn, xin vâng," Tôn giả Rādha đáp. Thế Tôn nói: "Này Rādha, thế nào là các pháp cần được biến tri toàn diện? Sắc là pháp cần được biến tri toàn diện. Thọ là pháp cần được biến tri toàn diện. Tưởng là pháp cần được biến tri toàn diện. Các hành là pháp cần được biến tri toàn diện. Thức là pháp cần được biến tri toàn diện. Đó gọi là, này Rādha, các pháp cần được biến tri toàn diện. Và thế nào là sự biến tri toàn diện? Đoạn tận tham, đoạn tận sân, đoạn tận si — đó gọi là, này Rādha, sự biến tri toàn diện. Và thế nào là người đã biến tri toàn diện? 'A-la-hán' là danh xưng cần nói đến — tức là vị Tôn giả tên như vậy, thuộc dòng họ như vậy. Đó gọi là, này Rādha, người đã biến tri toàn diện."
 
 ==== Kinh 23.5. Sa-môn Thứ Nhất (Samaṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói với Tôn giả Rādha đang ngồi một bên: "Này Rādha, có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này Rādha, những Sa-môn hay Bà-la-môn nào không biết đúng như thật vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này — Ta không xem họ là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy cũng không phải là người ngay trong hiện tại tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh. Còn những Sa-môn hay Bà-la-môn nào biết đúng như thật vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này — Ta xem họ là Sa-môn giữa các Sa-môn, là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy, ngay trong hiện tại, tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của Phạm hạnh."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói với Tôn giả La-đà (Rādha) đang ngồi một bên: "Này La-đà (Rādha), có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn, thọ thủ uẩn, tưởng thủ uẩn, hành thủ uẩn, thức thủ uẩn. Này Rādha, những Sa-môn hay Bà-la-môn nào không biết đúng như thật vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này — Ta không xem họ là Sa-môn giữa các Sa-môn, cũng không xem là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy cũng không phải là người ngay trong hiện tại tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh hay mục đích của Phạm hạnh. Còn những Sa-môn hay Bà-la-môn nào biết đúng như thật vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này — Ta xem họ là Sa-môn giữa các Sa-môn, là Bà-la-môn giữa các Bà-la-môn. Và những Tôn giả ấy, ngay trong hiện tại, tự mình thắng tri, chứng ngộ và an trú mục đích của Sa-môn hạnh cùng mục đích của Phạm hạnh."
 
 ==== Kinh 23.6. Sa-môn Thứ Hai (Dutiyasamaṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói với Tôn giả Rādha đang ngồi một bên: "Này Rādha, có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn… thức thủ uẩn. Này Rādha, những Sa-môn hay Bà-la-môn nào không biết đúng như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này… tự mình thắng tri, chứng ngộ và an trú."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói với Tôn giả La-đà (Rādha) đang ngồi một bên: "Này La-đà (Rādha), có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn… thức thủ uẩn. Này Rādha, những Sa-môn hay Bà-la-môn nào không biết đúng như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này… tự mình thắng tri, chứng ngộ và an trú."
 
 ==== Kinh 23.7. Dự Lưu (Sotāpannasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói với Tôn giả Rādha đang ngồi một bên: "Này Rādha, có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn… thức thủ uẩn. Này Rādha, khi nào vị Thánh đệ tử biết đúng như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này — vị ấy được gọi là, này Rādha, vị Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói với Tôn giả La-đà (Rādha) đang ngồi một bên: "Này La-đà (Rādha), có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn… thức thủ uẩn. Này Rādha, khi nào vị Thánh đệ tử biết đúng như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này — vị ấy được gọi là, này Rādha, vị Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 23.8. A-la-hán (Arahantasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói với Tôn giả Rādha đang ngồi một bên: "Này Rādha, có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn… thức thủ uẩn. Này Rādha, khi nào Tỷ-kheo biết đúng như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này, và nhờ biết vậy mà tâm không còn chấp thủ, được giải thoát — vị ấy được gọi là, này Rādha, vị A-la-hán, đã đoạn tận các lậu hoặc, đã sống trọn Phạm hạnh, đã làm xong việc cần làm, đã đặt gánh nặng xuống, đã đạt đến mục đích của mình, đã đoạn tận kiết sử đưa đến hữu, đã hoàn toàn giải thoát nhờ chánh trí."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói với Tôn giả La-đà (Rādha) đang ngồi một bên: "Này La-đà (Rādha), có năm thủ uẩn này. Năm là những gì? Sắc thủ uẩn… thức thủ uẩn. Này Rādha, khi nào Tỷ-kheo biết đúng như thật sự tập khởi, sự đoạn diệt, vị ngọt, sự nguy hại và sự xuất ly của năm thủ uẩn này, và nhờ biết vậy mà tâm không còn chấp thủ, được giải thoát — vị ấy được gọi là, này Rādha, vị A-la-hán, đã đoạn tận các lậu hoặc, đã sống trọn Phạm hạnh, đã làm xong việc cần làm, đã đặt gánh nặng xuống, đã đạt đến mục đích của mình, đã đoạn tận kiết sử đưa đến hữu, đã hoàn toàn giải thoát nhờ chánh trí."
 
 ==== Kinh 23.9. Đoạn Tận Dục Tham Thứ Nhất (Chandarāgasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói với Tôn giả Rādha đang ngồi một bên: "Này Rādha, đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái — hãy đoạn tận nó. Như vậy sắc ấy sẽ được đoạn tận, bị cắt đứt tận gốc, như cây tāla bị chặt ngang gốc, không còn có thể tồn tại, không còn khả năng sanh khởi lại trong tương lai. Đối với thọ, khi nào còn dục… hãy đoạn tận nó. Như vậy thọ ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với tưởng… đối với các hành, khi nào còn dục… hãy đoạn tận nó. Như vậy các hành ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với thức, khi nào còn dục, còn tham, còn ưa thích, còn ái — hãy đoạn tận nó. Như vậy thức ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói với Tôn giả La-đà (Rādha) đang ngồi một bên: "Này La-đà (Rādha), đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái — hãy đoạn tận nó. Như vậy sắc ấy sẽ được đoạn tận, bị cắt đứt tận gốc, như cây tāla bị chặt ngang gốc, không còn có thể tồn tại, không còn khả năng sanh khởi lại trong tương lai. Đối với thọ, khi nào còn dục… hãy đoạn tận nó. Như vậy thọ ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với tưởng… đối với các hành, khi nào còn dục… hãy đoạn tận nó. Như vậy các hành ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với thức, khi nào còn dục, còn tham, còn ưa thích, còn ái — hãy đoạn tận nó. Như vậy thức ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai."
 
 ==== Kinh 23.10. Đoạn Tận Dục Tham Thứ Hai (Dutiyachandarāgasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn nói với Tôn giả Rādha đang ngồi một bên: "Này Rādha, đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái, còn những chấp thủ và bám chấp, còn những thiên chấp và tùy miên của tâm — hãy đoạn tận chúng. Như vậy sắc ấy sẽ được đoạn tận, bị cắt đứt tận gốc, như cây tāla bị chặt ngang gốc, không còn có thể tồn tại, không còn khả năng sanh khởi lại trong tương lai. Đối với thọ, khi nào còn dục… hãy đoạn tận chúng. Như vậy thọ ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với tưởng… đối với các hành, khi nào còn dục… hãy đoạn tận chúng. Như vậy các hành ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với thức, khi nào còn dục, còn tham, còn ưa thích, còn ái, còn những chấp thủ và bám chấp, còn những thiên chấp và tùy miên của tâm — hãy đoạn tận chúng. Như vậy thức ấy sẽ được đoạn tận, bị cắt đứt tận gốc, như cây tāla bị chặt ngang gốc, không còn có thể tồn tại, không còn khả năng sanh khởi lại trong tương lai."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn nói với Tôn giả La-đà (Rādha) đang ngồi một bên: "Này La-đà (Rādha), đối với sắc, khi nào còn dục, còn tham, còn ưa thích, còn ái, còn những chấp thủ và bám chấp, còn những thiên chấp và tùy miên của tâm — hãy đoạn tận chúng. Như vậy sắc ấy sẽ được đoạn tận, bị cắt đứt tận gốc, như cây tāla bị chặt ngang gốc, không còn có thể tồn tại, không còn khả năng sanh khởi lại trong tương lai. Đối với thọ, khi nào còn dục… hãy đoạn tận chúng. Như vậy thọ ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với tưởng… đối với các hành, khi nào còn dục… hãy đoạn tận chúng. Như vậy các hành ấy sẽ được đoạn tận, bị cắt đứt tận gốc… không còn khả năng sanh khởi lại trong tương lai. Đối với thức, khi nào còn dục, còn tham, còn ưa thích, còn ái, còn những chấp thủ và bám chấp, còn những thiên chấp và tùy miên của tâm — hãy đoạn tận chúng. Như vậy thức ấy sẽ được đoạn tận, bị cắt đứt tận gốc, như cây tāla bị chặt ngang gốc, không còn có thể tồn tại, không còn khả năng sanh khởi lại trong tương lai."
 
 #strong[Hết phẩm thứ nhất của Tương Ưng Rādha.]
 
@@ -2430,51 +2430,51 @@ Hai kinh sau về sự đoạn tận dục tham.
 
 ==== Kinh 23.1. Ma Vương (Mārasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'Ma vương, Ma vương.' Bạch Thế Tôn, thế nào gọi là Ma vương?" Thế Tôn đáp: "Này Rādha, sắc là Ma vương. Thọ là Ma vương. Tưởng là Ma vương. Các hành là Ma vương. Thức là Ma vương. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy, vị ấy nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Nhàm chán nên ly tham. Ly tham nên giải thoát. Đã giải thoát thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'Ma vương, Ma vương.' Bạch Thế Tôn, thế nào gọi là Ma vương?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là Ma vương. Thọ là Ma vương. Tưởng là Ma vương. Các hành là Ma vương. Thức là Ma vương. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy, vị ấy nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Nhàm chán nên ly tham. Ly tham nên giải thoát. Đã giải thoát thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.2. Pháp Của Ma Vương (Māradhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp thuộc về Ma vương, pháp thuộc về Ma vương.' Bạch Thế Tôn, thế nào gọi là pháp thuộc về Ma vương?" Thế Tôn đáp: "Này Rādha, sắc là pháp thuộc về Ma vương. Thọ là pháp thuộc về Ma vương. Tưởng là pháp thuộc về Ma vương. Các hành là pháp thuộc về Ma vương. Thức là pháp thuộc về Ma vương. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp thuộc về Ma vương, pháp thuộc về Ma vương.' Bạch Thế Tôn, thế nào gọi là pháp thuộc về Ma vương?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp thuộc về Ma vương. Thọ là pháp thuộc về Ma vương. Tưởng là pháp thuộc về Ma vương. Các hành là pháp thuộc về Ma vương. Thức là pháp thuộc về Ma vương. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.3. Vô Thường (Aniccasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô thường, vô thường.' Bạch Thế Tôn, thế nào gọi là vô thường?" Thế Tôn đáp: "Này Rādha, sắc là vô thường. Thọ là vô thường. Tưởng là vô thường. Các hành là vô thường. Thức là vô thường. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô thường, vô thường.' Bạch Thế Tôn, thế nào gọi là vô thường?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là vô thường. Thọ là vô thường. Tưởng là vô thường. Các hành là vô thường. Thức là vô thường. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.4. Pháp Vô Thường (Aniccadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp vô thường, pháp vô thường.' Bạch Thế Tôn, thế nào gọi là pháp vô thường?" Thế Tôn đáp: "Này Rādha, sắc là pháp vô thường. Thọ là pháp vô thường. Tưởng là pháp vô thường. Các hành là pháp vô thường. Thức là pháp vô thường. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp vô thường, pháp vô thường.' Bạch Thế Tôn, thế nào gọi là pháp vô thường?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp vô thường. Thọ là pháp vô thường. Tưởng là pháp vô thường. Các hành là pháp vô thường. Thức là pháp vô thường. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.5. Khổ (Dukkhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'khổ, khổ.' Bạch Thế Tôn, thế nào gọi là khổ?" Thế Tôn đáp: "Này Rādha, sắc là khổ. Thọ là khổ. Tưởng là khổ. Các hành là khổ. Thức là khổ. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'khổ, khổ.' Bạch Thế Tôn, thế nào gọi là khổ?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là khổ. Thọ là khổ. Tưởng là khổ. Các hành là khổ. Thức là khổ. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.6. Pháp Khổ (Dukkhadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp khổ, pháp khổ.' Bạch Thế Tôn, thế nào gọi là pháp khổ?" Thế Tôn đáp: "Này Rādha, sắc là pháp khổ. Thọ là pháp khổ. Tưởng là pháp khổ. Các hành là pháp khổ. Thức là pháp khổ. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp khổ, pháp khổ.' Bạch Thế Tôn, thế nào gọi là pháp khổ?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp khổ. Thọ là pháp khổ. Tưởng là pháp khổ. Các hành là pháp khổ. Thức là pháp khổ. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.7. Vô Ngã (Anattasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô ngã, vô ngã.' Bạch Thế Tôn, thế nào gọi là vô ngã?" Thế Tôn đáp: "Này Rādha, sắc là vô ngã. Thọ là vô ngã. Tưởng là vô ngã. Các hành là vô ngã. Thức là vô ngã. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'vô ngã, vô ngã.' Bạch Thế Tôn, thế nào gọi là vô ngã?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là vô ngã. Thọ là vô ngã. Tưởng là vô ngã. Các hành là vô ngã. Thức là vô ngã. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.8. Pháp Vô Ngã (Anattadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp vô ngã, pháp vô ngã.' Bạch Thế Tôn, thế nào gọi là pháp vô ngã?" Thế Tôn đáp: "Này Rādha, sắc là pháp vô ngã. Thọ là pháp vô ngã. Tưởng là pháp vô ngã. Các hành là pháp vô ngã. Thức là pháp vô ngã. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp vô ngã, pháp vô ngã.' Bạch Thế Tôn, thế nào gọi là pháp vô ngã?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp vô ngã. Thọ là pháp vô ngã. Tưởng là pháp vô ngã. Các hành là pháp vô ngã. Thức là pháp vô ngã. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.9. Pháp Đoạn Tận (Khayadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp đoạn tận, pháp đoạn tận.' Bạch Thế Tôn, thế nào gọi là pháp đoạn tận?" Thế Tôn đáp: "Này Rādha, sắc là pháp đoạn tận. Thọ là pháp đoạn tận. Tưởng là pháp đoạn tận. Các hành là pháp đoạn tận. Thức là pháp đoạn tận. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp đoạn tận, pháp đoạn tận.' Bạch Thế Tôn, thế nào gọi là pháp đoạn tận?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp đoạn tận. Thọ là pháp đoạn tận. Tưởng là pháp đoạn tận. Các hành là pháp đoạn tận. Thức là pháp đoạn tận. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.10. Pháp Hoại Diệt (Vayadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp hoại diệt, pháp hoại diệt.' Bạch Thế Tôn, thế nào gọi là pháp hoại diệt?" Thế Tôn đáp: "Này Rādha, sắc là pháp hoại diệt. Thọ là pháp hoại diệt. Tưởng là pháp hoại diệt. Các hành là pháp hoại diệt. Thức là pháp hoại diệt. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp hoại diệt, pháp hoại diệt.' Bạch Thế Tôn, thế nào gọi là pháp hoại diệt?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp hoại diệt. Thọ là pháp hoại diệt. Tưởng là pháp hoại diệt. Các hành là pháp hoại diệt. Thức là pháp hoại diệt. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.11. Pháp Tập Khởi (Samudayadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp tập khởi, pháp tập khởi.' Bạch Thế Tôn, thế nào gọi là pháp tập khởi?" Thế Tôn đáp: "Này Rādha, sắc là pháp tập khởi. Thọ là pháp tập khởi. Tưởng là pháp tập khởi. Các hành là pháp tập khởi. Thức là pháp tập khởi. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp tập khởi, pháp tập khởi.' Bạch Thế Tôn, thế nào gọi là pháp tập khởi?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp tập khởi. Thọ là pháp tập khởi. Tưởng là pháp tập khởi. Các hành là pháp tập khởi. Thức là pháp tập khởi. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 ==== Kinh 23.12. Pháp Đoạn Diệt (Nirodhadhammasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp đoạn diệt, pháp đoạn diệt.' Bạch Thế Tôn, thế nào gọi là pháp đoạn diệt?" Thế Tôn đáp: "Này Rādha, sắc là pháp đoạn diệt. Thọ là pháp đoạn diệt. Tưởng là pháp đoạn diệt. Các hành là pháp đoạn diệt. Thức là pháp đoạn diệt. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy, vị ấy nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Nhàm chán nên ly tham. Ly tham nên giải thoát. Đã giải thoát thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả La-đà (Rādha) ngồi một bên, bạch Thế Tôn: "Bạch Thế Tôn, người ta nói 'pháp đoạn diệt, pháp đoạn diệt.' Bạch Thế Tôn, thế nào gọi là pháp đoạn diệt?" Thế Tôn đáp: "Này La-đà (Rādha), sắc là pháp đoạn diệt. Thọ là pháp đoạn diệt. Tưởng là pháp đoạn diệt. Các hành là pháp đoạn diệt. Thức là pháp đoạn diệt. Này Rādha, khi vị Thánh đệ tử đã học nhiều thấy được như vậy, vị ấy nhàm chán sắc, nhàm chán thọ, nhàm chán tưởng, nhàm chán các hành, nhàm chán thức. Nhàm chán nên ly tham. Ly tham nên giải thoát. Đã giải thoát thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 #strong[Hết phẩm thứ hai của Tương Ưng Rādha.]
 
@@ -2489,7 +2489,7 @@ và pháp đoạn diệt — mười hai kinh.
 
 #strong[Nhóm kinh 23.1–12 — Ma Vương Và Các Pháp Khác (Mārādisuttaekādasakaṃ)]
 
-#super[1] Cũng tại Sāvatthī. Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Lành thay, bạch Thế Tôn — xin Thế Tôn giảng pháp cho con một cách vắn tắt, để sau khi nghe pháp của Thế Tôn, con có thể sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm." Thế Tôn đáp: "Này Rādha, phàm cái gì là Ma vương — đối với cái ấy, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ. Và thế nào là Ma vương? Này Rādha, sắc là Ma vương — đối với sắc, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ. Thọ là Ma vương — đối với thọ, lòng dục cần được đoạn trừ… Tưởng là Ma vương — đối với tưởng, lòng dục cần được đoạn trừ… Các hành là Ma vương — đối với các hành, lòng dục cần được đoạn trừ… Thức là Ma vương — đối với thức, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ. Này Rādha, phàm cái gì là Ma vương — đối với cái ấy, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Tôn giả Rādha ngồi một bên, bạch Thế Tôn: "Lành thay, bạch Thế Tôn — xin Thế Tôn giảng pháp cho con một cách vắn tắt, để sau khi nghe pháp của Thế Tôn, con có thể sống một mình, ẩn cư, không phóng dật, tinh cần, nhiệt tâm." Thế Tôn đáp: "Này Rādha, phàm cái gì là Ma vương — đối với cái ấy, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ. Và thế nào là Ma vương? Này Rādha, sắc là Ma vương — đối với sắc, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ. Thọ là Ma vương — đối với thọ, lòng dục cần được đoạn trừ… Tưởng là Ma vương — đối với tưởng, lòng dục cần được đoạn trừ… Các hành là Ma vương — đối với các hành, lòng dục cần được đoạn trừ… Thức là Ma vương — đối với thức, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ. Này Rādha, phàm cái gì là Ma vương — đối với cái ấy, lòng dục cần được đoạn trừ, tham cần được đoạn trừ, dục tham cần được đoạn trừ."
 #super[2] Này Rādha, cái gì thuộc về Ma vương thì lòng dục với nó cũng phải đoạn, tham với nó cũng phải đoạn, dục tham với nó cũng phải đoạn — áp dụng như vậy cho cả năm uẩn.
 
 #super[3] Này Rādha, cái gì vô thường — cũng nói như trên.
@@ -2566,74 +2566,74 @@ và pháp đoạn diệt — mười hai kinh.
 
 ==== Kinh 24.1.  (Vātasuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana. Thế Tôn nói: "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, tất cả đứng yên vững chắc như cột trụ'?" Các Tỷ-kheo thưa: "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản, lấy Thế Tôn làm nơi hướng dẫn, lấy Thế Tôn làm nơi nương tựa. Lành thay, bạch Thế Tôn, xin Thế Tôn giảng rõ ý nghĩa lời ấy. Nghe xong, các Tỷ-kheo sẽ ghi nhớ." Thế Tôn dạy: "Vậy thì, này các thầy, hãy lắng nghe và khéo tác ý, Ta sẽ nói." "Bạch Thế Tôn, xin vâng," các Tỷ-kheo đáp lại. Thế Tôn nói: "Này các thầy, do có sắc, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Do có thọ… do có tưởng… do có các hành… do có thức, do chấp thủ thức, do bám chấp vào thức mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Này các thầy, các thầy nghĩ sao, sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không: 'Gió không thổi… đứng yên vững chắc như cột trụ'?" "Thưa không, bạch Thế Tôn." "Thọ là thường hay vô thường?"… "Tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết, được đạt đến, được tìm kiếm, được suy xét bằng ý — điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này, đã đoạn trừ nghi hoặc đối với khổ, khổ tập, khổ diệt, con đường đưa đến khổ diệt — vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana). Thế Tôn nói: "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, tất cả đứng yên vững chắc như cột trụ'?" Các Tỷ-kheo thưa: "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản, lấy Thế Tôn làm nơi hướng dẫn, lấy Thế Tôn làm nơi nương tựa. Lành thay, bạch Thế Tôn, xin Thế Tôn giảng rõ ý nghĩa lời ấy. Nghe xong, các Tỷ-kheo sẽ ghi nhớ." Thế Tôn dạy: "Vậy thì, này các thầy, hãy lắng nghe và khéo tác ý, Ta sẽ nói." "Bạch Thế Tôn, xin vâng," các Tỷ-kheo đáp lại. Thế Tôn nói: "Này các thầy, do có sắc, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Do có thọ… do có tưởng… do có các hành… do có thức, do chấp thủ thức, do bám chấp vào thức mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Này các thầy, các thầy nghĩ sao, sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không: 'Gió không thổi… đứng yên vững chắc như cột trụ'?" "Thưa không, bạch Thế Tôn." "Thọ là thường hay vô thường?"… "Tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết, được đạt đến, được tìm kiếm, được suy xét bằng ý — điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này, đã đoạn trừ nghi hoặc đối với khổ, khổ tập, khổ diệt, con đường đưa đến khổ diệt — vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.2.  (Etaṃmamasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi'?" — như kinh trước, các Tỷ-kheo cũng thưa thỉnh Thế Tôn giảng rõ… "Này các thầy, do có sắc, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.' Do có thọ… do có tưởng… do có các hành… do có thức, do bám chấp vào thức mà tà kiến ấy sanh lên như vậy." "Này các thầy, sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy — 'cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' — có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết, được đạt đến, được tìm kiếm, được suy xét bằng ý — điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi'?" — như kinh trước, các Tỷ-kheo cũng thưa thỉnh Thế Tôn giảng rõ… "Này các thầy, do có sắc, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi.' Do có thọ… do có tưởng… do có các hành… do có thức, do bám chấp vào thức mà tà kiến ấy sanh lên như vậy." "Này các thầy, sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy — 'cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' — có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết, được đạt đến, được tìm kiếm, được suy xét bằng ý — điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.3.  (Soattāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã ấy chính là thế gian, sau khi chết ta sẽ trở thành thường tồn, vĩnh cửu, bất diệt, không hề biến đổi'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy — 'tự ngã ấy chính là thế gian… không hề biến đổi' — có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?" "Vô thường."… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã ấy chính là thế gian, sau khi chết ta sẽ trở thành thường tồn, vĩnh cửu, bất diệt, không hề biến đổi'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "Cái gì vô thường, khổ, chịu sự biến hoại — không chấp thủ nó thì tà kiến ấy — 'tự ngã ấy chính là thế gian… không hề biến đổi' — có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?" "Vô thường."… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.4.  (Nocamesiyāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Ta có thể không hiện hữu, và [cái này] có thể không phải là của ta; ta sẽ không hiện hữu, và [cái này] sẽ không phải là của ta'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Ta có thể không hiện hữu, và [cái này] có thể không phải là của ta; ta sẽ không hiện hữu, và [cái này] sẽ không phải là của ta'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.5.  (Natthidinnasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Không có bố thí, không có tế lễ, không có cúng dường; không có quả báo, kết quả của các nghiệp thiện ác; không có đời này, không có đời sau; không có mẹ, không có cha; không có các loại chúng sanh do hóa sanh; không có những Sa-môn, Bà-la-môn chân chính, hành trì chân chính, tự mình thắng tri và tuyên bố về đời này đời sau. Con người này do bốn đại hợp thành, khi chết, địa đại trở về khối địa, thủy đại trở về khối thủy, hỏa đại trở về khối hỏa, phong đại trở về khối phong; các căn tan vào không gian. Bốn người khiêng cái giường mang xác đi, đến bãi tha ma thì còn dấu vết, rồi thành xương màu bồ câu, lễ cúng tế biến thành tro tàn. Bố thí chỉ là điều kẻ ngu đặt ra; ai nói có sự tồn tại của nghiệp báo là nói điều trống rỗng, giả dối, huyễn hoặc. Kẻ ngu cũng như người trí, khi thân hoại đều đoạn diệt, tiêu mất, không còn tồn tại sau khi chết'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy — 'ai nói có sự tồn tại là nói điều trống rỗng, giả dối, huyễn hoặc; kẻ ngu cũng như người trí, khi thân hoại đều đoạn diệt, không còn tồn tại sau khi chết' — có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Không có bố thí, không có tế lễ, không có cúng dường; không có quả báo, kết quả của các nghiệp thiện ác; không có đời này, không có đời sau; không có mẹ, không có cha; không có các loại chúng sanh do hóa sanh; không có những Sa-môn, Bà-la-môn chân chính, hành trì chân chính, tự mình thắng tri và tuyên bố về đời này đời sau. Con người này do bốn đại hợp thành, khi chết, địa đại trở về khối địa, thủy đại trở về khối thủy, hỏa đại trở về khối hỏa, phong đại trở về khối phong; các căn tan vào không gian. Bốn người khiêng cái giường mang xác đi, đến bãi tha ma thì còn dấu vết, rồi thành xương màu bồ câu, lễ cúng tế biến thành tro tàn. Bố thí chỉ là điều kẻ ngu đặt ra; ai nói có sự tồn tại của nghiệp báo là nói điều trống rỗng, giả dối, huyễn hoặc. Kẻ ngu cũng như người trí, khi thân hoại đều đoạn diệt, tiêu mất, không còn tồn tại sau khi chết'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy — 'ai nói có sự tồn tại là nói điều trống rỗng, giả dối, huyễn hoặc; kẻ ngu cũng như người trí, khi thân hoại đều đoạn diệt, không còn tồn tại sau khi chết' — có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.6.  (Karotosuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Kẻ hành động, kẻ sai người hành động; kẻ chặt, kẻ sai người chặt; kẻ đốt, kẻ sai người đốt; kẻ làm khổ, kẻ sai người làm khổ; kẻ gây phiền nhiễu, kẻ sai người gây phiền nhiễu; kẻ khiến run sợ, kẻ sai người khiến run sợ; kẻ giết hại sinh mạng, kẻ lấy vật không được cho, kẻ đào ngạch trộm cắp, kẻ cướp bóc, kẻ đi ăn cướp một nhà, kẻ đứng chặn đường, kẻ đi đến vợ người khác, kẻ nói dối — làm như vậy cũng không tạo ác nghiệp gì. Nếu có ai dùng một bánh xe có vành sắc như dao cạo mà chém hết thảy chúng sanh trên cõi đất này thành một đống thịt, một khối thịt, thì cũng không do đó mà có ác nghiệp, không có sự đến của ác nghiệp. Nếu có ai đi xuống bờ nam sông Gaṅgā mà giết hại, chém chặt, thiêu đốt, thì cũng không do đó mà có ác nghiệp, không có sự đến của ác nghiệp. Nếu có ai đi lên bờ bắc sông Gaṅgā mà bố thí, cúng tế, thì cũng không do đó mà có phước, không có sự đến của phước. Bằng bố thí, bằng tự chế, bằng tự kiềm chế, bằng nói lời chân thật, cũng không có phước, không có sự đến của phước'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Kẻ hành động, kẻ sai người hành động; kẻ chặt, kẻ sai người chặt; kẻ đốt, kẻ sai người đốt; kẻ làm khổ, kẻ sai người làm khổ; kẻ gây phiền nhiễu, kẻ sai người gây phiền nhiễu; kẻ khiến run sợ, kẻ sai người khiến run sợ; kẻ giết hại sinh mạng, kẻ lấy vật không được cho, kẻ đào ngạch trộm cắp, kẻ cướp bóc, kẻ đi ăn cướp một nhà, kẻ đứng chặn đường, kẻ đi đến vợ người khác, kẻ nói dối — làm như vậy cũng không tạo ác nghiệp gì. Nếu có ai dùng một bánh xe có vành sắc như dao cạo mà chém hết thảy chúng sanh trên cõi đất này thành một đống thịt, một khối thịt, thì cũng không do đó mà có ác nghiệp, không có sự đến của ác nghiệp. Nếu có ai đi xuống bờ nam sông Hằng (Gaṅgā) mà giết hại, chém chặt, thiêu đốt, thì cũng không do đó mà có ác nghiệp, không có sự đến của ác nghiệp. Nếu có ai đi lên bờ bắc sông Hằng (Gaṅgā) mà bố thí, cúng tế, thì cũng không do đó mà có phước, không có sự đến của phước. Bằng bố thí, bằng tự chế, bằng tự kiềm chế, bằng nói lời chân thật, cũng không có phước, không có sự đến của phước'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.7.  (Hetusuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Không có nhân, không có duyên cho sự ô nhiễm của chúng sanh; chúng sanh ô nhiễm không nhân, không duyên. Không có nhân, không có duyên cho sự trong sạch của chúng sanh; chúng sanh trong sạch không nhân, không duyên. Không có sức mạnh, không có nỗ lực, không có năng lực của con người, không có sự tinh cần của con người. Tất cả chúng sanh, tất cả sinh vật, tất cả loài hữu tình, tất cả sinh mạng đều không có tự chủ, không có sức mạnh, không có nỗ lực; do định mệnh, do hoàn cảnh, do bản tánh mà biến chuyển, cảm nhận khổ vui trong sáu loại sanh chủng'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Không có nhân, không có duyên cho sự ô nhiễm của chúng sanh; chúng sanh ô nhiễm không nhân, không duyên. Không có nhân, không có duyên cho sự trong sạch của chúng sanh; chúng sanh trong sạch không nhân, không duyên. Không có sức mạnh, không có nỗ lực, không có năng lực của con người, không có sự tinh cần của con người. Tất cả chúng sanh, tất cả sinh vật, tất cả loài hữu tình, tất cả sinh mạng đều không có tự chủ, không có sức mạnh, không có nỗ lực; do định mệnh, do hoàn cảnh, do bản tánh mà biến chuyển, cảm nhận khổ vui trong sáu loại sanh chủng'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.8.  (Mahādiṭṭhisuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Có bảy thân này, không do ai tạo ra, không có loại được tạo ra, không được hóa sanh, không có kẻ hóa sanh, trống rỗng, vững chắc như đỉnh núi, đứng thẳng như cột trụ. Chúng không chuyển động, không biến đổi, không gây trở ngại cho nhau, không có khả năng đem lại khổ, lạc hay khổ-lạc cho nhau. Bảy thân ấy là gì? Thân đất, thân nước, thân lửa, thân gió, lạc, khổ, và sinh mạng là thứ bảy. Bảy thân này không do ai tạo ra… đứng thẳng như cột trụ; chúng không chuyển động, không biến đổi, không gây trở ngại cho nhau, không có khả năng đem lại khổ, lạc hay khổ-lạc cho nhau. Dù có ai dùng gươm sắc bén chặt đầu, cũng không phải là đoạn mạng sống của ai — gươm chỉ đi vào khoảng hở giữa bảy thân ấy mà thôi. Có mười bốn trăm ngàn loại thai sanh chính, sáu mươi trăm loại, sáu trăm loại khác, năm trăm loại nghiệp, năm loại nghiệp, ba loại nghiệp, một loại nghiệp, nửa loại nghiệp; sáu mươi hai đạo lộ, sáu mươi hai kiếp trung gian, sáu loại sanh chủng, tám địa vị của con người, bốn mươi chín trăm loại tà mạng, bốn mươi chín trăm loại du sĩ, bốn mươi chín trăm loại chỗ ở của rồng, hai mươi trăm loại căn, ba mươi trăm loại địa ngục, ba mươi sáu giới bụi trần, bảy loại thai tưởng, bảy loại thai vô tưởng, bảy loại thai lìa kiết sử, bảy loại chư thiên, bảy loại người, bảy loại quỷ dữ, bảy hồ nước, bảy loại gò đất, bảy trăm loại gò đất khác, bảy loại vực sâu, bảy trăm loại vực sâu khác, bảy loại chiêm bao, bảy trăm loại chiêm bao khác — có tám mươi bốn trăm ngàn đại kiếp mà kẻ ngu cũng như người trí, sau khi lưu chuyển, xoay vần, sẽ chấm dứt khổ đau. Ở đây không có chuyện: 'Do giới này, do hạnh này, do khổ hạnh này, hay do Phạm hạnh này mà ta sẽ làm chín nghiệp chưa chín, hoặc sẽ dần dần tiêu trừ nghiệp đã chín' — không hề như vậy. Khổ vui đã được đo lường sẵn như đấu lường, luân hồi đã có giới hạn định sẵn, không có sự tăng giảm, không có sự thù thắng hay kém cỏi. Ví như cuộn chỉ được ném ra thì tự nó lăn tuột ra hết, cũng vậy kẻ ngu và người trí, khi lưu chuyển, xoay vần, đều tự nhiên chấm dứt khổ đau như thế'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy — 'kẻ ngu và người trí, khi lưu chuyển, xoay vần, đều tự nhiên chấm dứt khổ đau' — có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Có bảy thân này, không do ai tạo ra, không có loại được tạo ra, không được hóa sanh, không có kẻ hóa sanh, trống rỗng, vững chắc như đỉnh núi, đứng thẳng như cột trụ. Chúng không chuyển động, không biến đổi, không gây trở ngại cho nhau, không có khả năng đem lại khổ, lạc hay khổ-lạc cho nhau. Bảy thân ấy là gì? Thân đất, thân nước, thân lửa, thân gió, lạc, khổ, và sinh mạng là thứ bảy. Bảy thân này không do ai tạo ra… đứng thẳng như cột trụ; chúng không chuyển động, không biến đổi, không gây trở ngại cho nhau, không có khả năng đem lại khổ, lạc hay khổ-lạc cho nhau. Dù có ai dùng gươm sắc bén chặt đầu, cũng không phải là đoạn mạng sống của ai — gươm chỉ đi vào khoảng hở giữa bảy thân ấy mà thôi. Có mười bốn trăm ngàn loại thai sanh chính, sáu mươi trăm loại, sáu trăm loại khác, năm trăm loại nghiệp, năm loại nghiệp, ba loại nghiệp, một loại nghiệp, nửa loại nghiệp; sáu mươi hai đạo lộ, sáu mươi hai kiếp trung gian, sáu loại sanh chủng, tám địa vị của con người, bốn mươi chín trăm loại tà mạng, bốn mươi chín trăm loại du sĩ, bốn mươi chín trăm loại chỗ ở của rồng, hai mươi trăm loại căn, ba mươi trăm loại địa ngục, ba mươi sáu giới bụi trần, bảy loại thai tưởng, bảy loại thai vô tưởng, bảy loại thai lìa kiết sử, bảy loại chư thiên, bảy loại người, bảy loại quỷ dữ, bảy hồ nước, bảy loại gò đất, bảy trăm loại gò đất khác, bảy loại vực sâu, bảy trăm loại vực sâu khác, bảy loại chiêm bao, bảy trăm loại chiêm bao khác — có tám mươi bốn trăm ngàn đại kiếp mà kẻ ngu cũng như người trí, sau khi lưu chuyển, xoay vần, sẽ chấm dứt khổ đau. Ở đây không có chuyện: 'Do giới này, do hạnh này, do khổ hạnh này, hay do Phạm hạnh này mà ta sẽ làm chín nghiệp chưa chín, hoặc sẽ dần dần tiêu trừ nghiệp đã chín' — không hề như vậy. Khổ vui đã được đo lường sẵn như đấu lường, luân hồi đã có giới hạn định sẵn, không có sự tăng giảm, không có sự thù thắng hay kém cỏi. Ví như cuộn chỉ được ném ra thì tự nó lăn tuột ra hết, cũng vậy kẻ ngu và người trí, khi lưu chuyển, xoay vần, đều tự nhiên chấm dứt khổ đau như thế'?" — như kinh trước… "Này các thầy, do có sắc… do có thức mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "tà kiến ấy có sanh lên được không?" "Thưa không." "Còn điều đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?"… "tà kiến ấy — 'kẻ ngu và người trí, khi lưu chuyển, xoay vần, đều tự nhiên chấm dứt khổ đau' — có sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 ==== Kinh 24.9.  (Sassatadiṭṭhisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Thế gian là thường tồn'?" — (như kinh trước)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Còn điều gì đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Thế gian là thường tồn'?" — (như kinh trước)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến ấy sanh lên như vậy." "Sắc là thường hay vô thường?"… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Thọ… tưởng… các hành… thức là thường hay vô thường?"… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Còn điều gì đã được thấy, được nghe, được cảm nhận, được nhận biết… điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.10.  (Asassatadiṭṭhisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Thế gian là vô thường, sẽ hoại diệt hoàn toàn'?" — (như kinh trước, với cùng cách hỏi và cùng kết luận như trên)… "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Thế gian là vô thường, sẽ hoại diệt hoàn toàn'?" — (như kinh trước, với cùng cách hỏi và cùng kết luận như trên)… "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này… vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.11.  (Antavāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Thế gian là có giới hạn'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Thế gian là có giới hạn'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.12.  (Anantavāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Thế gian là không có giới hạn'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Thế gian là không có giới hạn'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.13.  (Taṃjīvaṃtaṃsarīraṃsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Sinh mạng và thân xác là một'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Sinh mạng và thân xác là một'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.14.  (Aññaṃjīvaṃaññaṃsarīraṃsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Sinh mạng là một, thân xác là khác'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Sinh mạng là một, thân xác là khác'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.15.  (Hotitathāgatosuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Như Lai có tồn tại sau khi chết'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Như Lai có tồn tại sau khi chết'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.16.  (Nahotitathāgatosuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Như Lai không tồn tại sau khi chết'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Như Lai không tồn tại sau khi chết'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.17.  (Hoticanacahotitathāgatosuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Như Lai vừa tồn tại vừa không tồn tại sau khi chết'?" — (như kinh trước)… "…vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 24.18.  (Nevahotinanahotitathāgatosuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Như Lai chẳng phải có tồn tại, chẳng phải không tồn tại sau khi chết'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Như Lai chẳng phải có tồn tại, chẳng phải không tồn tại sau khi chết.' Do thọ… do tưởng… do các hành… do thức có mặt, do bám chấp vào thức mà tà kiến này sanh lên như vậy. Này các thầy, các thầy nghĩ thế nào, sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Còn điều gì đã được thấy, được nghe, được cảm nhận, được nhận biết, được đạt đến, được tìm kiếm, được suy xét bằng ý — điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này, đã đoạn trừ nghi hoặc đối với khổ, đối với khổ tập, đối với khổ diệt, đối với con đường đưa đến khổ diệt — vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Như Lai chẳng phải có tồn tại, chẳng phải không tồn tại sau khi chết'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Như Lai chẳng phải có tồn tại, chẳng phải không tồn tại sau khi chết.' Do thọ… do tưởng… do các hành… do thức có mặt, do bám chấp vào thức mà tà kiến này sanh lên như vậy. Này các thầy, các thầy nghĩ thế nào, sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Còn điều gì đã được thấy, được nghe, được cảm nhận, được nhận biết, được đạt đến, được tìm kiếm, được suy xét bằng ý — điều ấy là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Này các thầy, khi vị Thánh đệ tử đã đoạn trừ nghi hoặc đối với những điểm này, đã đoạn trừ nghi hoặc đối với khổ, đối với khổ tập, đối với khổ diệt, đối với con đường đưa đến khổ diệt — vị ấy được gọi là Thánh đệ tử Dự lưu, không còn rơi vào ác đạo, chắc chắn hướng đến giác ngộ."
 
 #strong[(Phẩm Dự Lưu, thứ nhất.)]
 
@@ -2657,17 +2657,17 @@ Như Lai chẳng có chẳng không tồn tại sau khi chết.
 
 ==== Kinh 24.1.  (Vātasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ'?" — (như trước, xin Thế Tôn giảng)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ'?" — (như trước, xin Thế Tôn giảng)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ.'"
 
 #super[2] (Cũng như ở phẩm trước, cả mười tám bài giải đáp — từ tà kiến "cái này là của tôi" cho đến tà kiến "Như Lai chẳng có chẳng không tồn tại sau khi chết" — cần được khai triển đầy đủ theo cùng cách thức như trên, chỉ khác ở câu kết: thay vì kết bằng "vị ấy được gọi là Thánh đệ tử Dự lưu," mỗi bài ở đây đều kết bằng: "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến ấy sanh lên.")
 
 ==== Kinh 24.18.  (Nevahotinanahotisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Như Lai chẳng có chẳng không tồn tại sau khi chết'?" — (như trước)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Như Lai chẳng có chẳng không tồn tại sau khi chết.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Như Lai chẳng có chẳng không tồn tại sau khi chết.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Như Lai chẳng có chẳng không tồn tại sau khi chết'?" — (như trước)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Như Lai chẳng có chẳng không tồn tại sau khi chết.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Như Lai chẳng có chẳng không tồn tại sau khi chết.'"
 
 ==== Kinh 24.19.  (Rūpīattāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "…tà kiến này sanh lên: 'Tự ngã có hình sắc, không bệnh hoạn sau khi chết'?" — (như trước)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Tự ngã có hình sắc, không bệnh hoạn sau khi chết.' Thọ…"… "Như vậy, này các thầy, do khổ có mặt mà tà kiến này sanh lên như vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "…tà kiến này sanh lên: 'Tự ngã có hình sắc, không bệnh hoạn sau khi chết'?" — (như trước)… "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Tự ngã có hình sắc, không bệnh hoạn sau khi chết.' Thọ…"… "Như vậy, này các thầy, do khổ có mặt mà tà kiến này sanh lên như vậy."
 
 ==== Kinh 24.20.  (Arūpīattāsuttaṃ)
 
@@ -2695,7 +2695,7 @@ Như Lai chẳng có chẳng không tồn tại sau khi chết.
 
 ==== Kinh 24.26.  (Adukkhamasukhīsuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết'?" — (như trước)… "Này các thầy, do sắc có mặt, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Do thọ… do tưởng… do các hành… do thức có mặt, do bám chấp vào thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết'?" — (như trước)… "Này các thầy, do sắc có mặt, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Do thọ… do tưởng… do các hành… do thức có mặt, do bám chấp vào thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, do khổ có mặt, do chấp thủ khổ, do bám chấp vào khổ mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.'"
 
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
@@ -2718,20 +2718,20 @@ hai mươi sáu kinh này được thuyết theo vòng trùng tụng thứ hai.
 
 ==== Kinh 24.1.  (Navātasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Gió không thổi… đứng yên vững chắc như cột trụ.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ.'"
 
 #super[2] (Cũng như ở vòng trùng tụng thứ hai, hai mươi bốn bài kinh còn lại — từ tà kiến "cái này là của tôi" cho đến tà kiến "tự ngã hoàn toàn khổ đau, không bệnh hoạn sau khi chết" — cần được khai triển đầy đủ theo cùng cách thức, chỉ khác ở câu kết: mỗi bài đều kết bằng "Như vậy, này các thầy, cái gì vô thường thì đó là khổ; do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến ấy sanh lên," thay vì kết bằng "do khổ có mặt, do chấp thủ khổ" như ở vòng trùng tụng thứ hai.)
 
-#super[3] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Do thọ… do tưởng… do các hành… do thức có mặt, do bám chấp vào thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.'"
+#super[3] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt, do chấp thủ sắc, do bám chấp vào sắc mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Do thọ… do tưởng… do các hành… do thức có mặt, do bám chấp vào thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, liệu có thể không chấp thủ nó mà tà kiến ấy sanh lên được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.' Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "liệu có thể sanh lên tà kiến ấy được không?" "Thưa không, bạch Thế Tôn." "Như vậy, này các thầy, cái gì vô thường thì đó là khổ. Do khổ ấy có mặt, do chấp thủ khổ ấy mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết.'"
 
 === Vagga 4 (nguồn ghi 4).  (Catutthagamanavaggo)
 
 ==== Kinh 24.1.  (Navātasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, có hợp lý chăng khi xem nó là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi'?" "Thưa không, bạch Thế Tôn." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, có hợp lý chăng khi xem nó là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi'?" "Thưa không, bạch Thế Tôn." "Do vậy, này các thầy, bất cứ sắc gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy cần được thấy đúng như thật bằng chánh trí tuệ là: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Bất cứ thọ gì… bất cứ tưởng gì… bất cứ hành gì… bất cứ thức gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả thức ấy cần được thấy đúng như thật bằng chánh trí tuệ là: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn hỏi: "Này các thầy, do cái gì có mặt, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Gió không thổi, sông không chảy, sản phụ không sanh nở, mặt trăng mặt trời không mọc không lặn, đứng yên vững chắc như cột trụ'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do sắc có mặt… cho đến do thức có mặt mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, có hợp lý chăng khi xem nó là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi'?" "Thưa không, bạch Thế Tôn." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại, có hợp lý chăng khi xem nó là: 'Cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi'?" "Thưa không, bạch Thế Tôn." "Do vậy, này các thầy, bất cứ sắc gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy cần được thấy đúng như thật bằng chánh trí tuệ là: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Bất cứ thọ gì… bất cứ tưởng gì… bất cứ hành gì… bất cứ thức gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả thức ấy cần được thấy đúng như thật bằng chánh trí tuệ là: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Thấy được như vậy… vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 #super[2] (Vòng trùng tụng thứ hai còn hai mươi bốn bài kinh nữa — từ tà kiến "cái này là của tôi" cho đến tà kiến "tự ngã hoàn toàn khổ đau, không bệnh hoạn sau khi chết" — khai triển đầy đủ theo cùng cách, mỗi bài đều dẫn đến kết luận: "Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi," và kết thúc bằng: "Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.")
 
-#super[3] Cũng tại Sāvatthi. "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do có sắc… do có thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — xem nó là 'cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' thì có hợp lý không?" "Thưa không, bạch Thế Tôn." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "xem nó là 'cái này là của tôi' thì có hợp lý không?" "Thưa không, bạch Thế Tôn." "Do vậy, này các thầy, bất cứ sắc gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy cần được thấy đúng như thật bằng chánh trí tuệ: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Bất cứ thọ, tưởng, hành gì… bất cứ thức gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả thức ấy cần được thấy đúng như thật bằng chánh trí tuệ: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Này các thầy, thấy được như vậy, vị Thánh đệ tử đã học nhiều thì nhàm chán đối với sắc, nhàm chán đối với thọ, nhàm chán đối với tưởng, nhàm chán đối với các hành, nhàm chán đối với thức. Nhàm chán nên ly tham, ly tham nên giải thoát, giải thoát rồi thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
+#super[3] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, do có cái gì, do chấp thủ cái gì, do bám chấp vào cái gì mà tà kiến này sanh lên: 'Tự ngã không khổ không lạc, không bệnh hoạn sau khi chết'?" "Bạch Thế Tôn, các pháp của chúng con đều lấy Thế Tôn làm căn bản…" "Này các thầy, do có sắc… do có thức mà tà kiến này sanh lên như vậy." "Sắc là thường hay vô thường?" "Vô thường, bạch Thế Tôn." "Cái gì vô thường là khổ hay lạc?" "Khổ, bạch Thế Tôn." "Cái gì vô thường, khổ, chịu sự biến hoại — xem nó là 'cái này là của tôi, cái này là tôi, cái này là tự ngã của tôi' thì có hợp lý không?" "Thưa không, bạch Thế Tôn." "Thọ… tưởng… các hành… thức là thường hay vô thường?" "Vô thường, bạch Thế Tôn."… "xem nó là 'cái này là của tôi' thì có hợp lý không?" "Thưa không, bạch Thế Tôn." "Do vậy, này các thầy, bất cứ sắc gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả sắc ấy cần được thấy đúng như thật bằng chánh trí tuệ: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Bất cứ thọ, tưởng, hành gì… bất cứ thức gì thuộc quá khứ, tương lai hay hiện tại, thuộc nội phần hay ngoại phần, thô hay tế, hạ liệt hay cao thượng, xa hay gần — tất cả thức ấy cần được thấy đúng như thật bằng chánh trí tuệ: 'Cái này không phải của tôi, cái này không phải là tôi, cái này không phải là tự ngã của tôi.' Này các thầy, thấy được như vậy, vị Thánh đệ tử đã học nhiều thì nhàm chán đối với sắc, nhàm chán đối với thọ, nhàm chán đối với tưởng, nhàm chán đối với các hành, nhàm chán đối với thức. Nhàm chán nên ly tham, ly tham nên giải thoát, giải thoát rồi thì có trí biết rằng đã giải thoát. Vị ấy biết rõ: 'Sanh đã tận, Phạm hạnh đã thành, việc cần làm đã làm, không còn trở lại trạng thái này nữa.'"
 
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
 
@@ -2748,43 +2748,43 @@ hai mươi sáu kinh này được thuyết theo vòng trùng tụng thứ hai.
 
 ==== Kinh 25.1. Mắt (Cakkhusuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, mắt vô thường, biến hoại, đổi khác. Tai vô thường, biến hoại, đổi khác. Mũi vô thường, biến hoại, đổi khác. Lưỡi vô thường, biến hoại, đổi khác. Thân vô thường, biến hoại, đổi khác. Ý vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng, quyết tín vào các pháp này như vậy thì được gọi là người tùy tín hành — đã bước vào chánh tánh quyết định, đã bước vào địa vị của bậc chân nhân, đã vượt qua địa vị người phàm phu. Người ấy không thể làm hành động nào khiến phải sanh vào địa ngục, súc sanh hay ngạ quỷ giới, và không thể chết trước khi chứng ngộ quả Dự lưu. Này các thầy, ai chấp nhận các pháp này bằng trí tuệ, ở một mức độ thẩm sát, thì được gọi là người tùy pháp hành — cũng đã bước vào chánh tánh quyết định, đã bước vào địa vị của bậc chân nhân, đã vượt qua địa vị người phàm phu, cũng không thể làm hành động nào khiến phải sanh vào địa ngục, súc sanh hay ngạ quỷ giới, và không thể chết trước khi chứng ngộ quả Dự lưu. Này các thầy, ai biết như vậy, thấy như vậy đối với các pháp này thì được gọi là vị Dự lưu, không còn rơi vào đọa xứ, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, mắt vô thường, biến hoại, đổi khác. Tai vô thường, biến hoại, đổi khác. Mũi vô thường, biến hoại, đổi khác. Lưỡi vô thường, biến hoại, đổi khác. Thân vô thường, biến hoại, đổi khác. Ý vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng, quyết tín vào các pháp này như vậy thì được gọi là người tùy tín hành — đã bước vào chánh tánh quyết định, đã bước vào địa vị của bậc chân nhân, đã vượt qua địa vị người phàm phu. Người ấy không thể làm hành động nào khiến phải sanh vào địa ngục, súc sanh hay ngạ quỷ giới, và không thể chết trước khi chứng ngộ quả Dự lưu. Này các thầy, ai chấp nhận các pháp này bằng trí tuệ, ở một mức độ thẩm sát, thì được gọi là người tùy pháp hành — cũng đã bước vào chánh tánh quyết định, đã bước vào địa vị của bậc chân nhân, đã vượt qua địa vị người phàm phu, cũng không thể làm hành động nào khiến phải sanh vào địa ngục, súc sanh hay ngạ quỷ giới, và không thể chết trước khi chứng ngộ quả Dự lưu. Này các thầy, ai biết như vậy, thấy như vậy đối với các pháp này thì được gọi là vị Dự lưu, không còn rơi vào đọa xứ, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 25.2. Sắc (Rūpasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, các sắc vô thường, biến hoại, đổi khác. Các tiếng… các mùi… các vị… các xúc… các pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng, quyết tín vào các pháp này như vậy… như trên đã nói… được gọi là vị Dự lưu, không còn rơi vào đọa xứ, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, các sắc vô thường, biến hoại, đổi khác. Các tiếng… các mùi… các vị… các xúc… các pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng, quyết tín vào các pháp này như vậy… như trên đã nói… được gọi là vị Dự lưu, không còn rơi vào đọa xứ, chắc chắn hướng đến giác ngộ."
 
 ==== Kinh 25.3. Thức (Viññāṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, nhãn thức vô thường, biến hoại, đổi khác. Nhĩ thức… tỷ thức… thiệt thức… thân thức… ý thức vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng — như trên đã nói — được gọi là vị Dự lưu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, nhãn thức vô thường, biến hoại, đổi khác. Nhĩ thức… tỷ thức… thiệt thức… thân thức… ý thức vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng — như trên đã nói — được gọi là vị Dự lưu."
 
 ==== Kinh 25.4. Xúc (Samphassasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, nhãn xúc vô thường, biến hoại, đổi khác. Nhĩ xúc… tỷ xúc… thiệt xúc… thân xúc… ý xúc vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… [như trên]… được gọi là vị Dự lưu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, nhãn xúc vô thường, biến hoại, đổi khác. Nhĩ xúc… tỷ xúc… thiệt xúc… thân xúc… ý xúc vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… [như trên]… được gọi là vị Dự lưu."
 
 ==== Kinh 25.5. Thọ (Samphassajāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, thọ sanh từ nhãn xúc vô thường, biến hoại, đổi khác. Thọ sanh từ nhĩ xúc… từ tỷ xúc… từ thiệt xúc… từ thân xúc… từ ý xúc vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… như trên đã nói… được gọi là vị Dự lưu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, thọ sanh từ nhãn xúc vô thường, biến hoại, đổi khác. Thọ sanh từ nhĩ xúc… từ tỷ xúc… từ thiệt xúc… từ thân xúc… từ ý xúc vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… như trên đã nói… được gọi là vị Dự lưu."
 
 ==== Kinh 25.6. Tưởng (Rūpasaññāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, tưởng về sắc vô thường, biến hoại, đổi khác. Tưởng về tiếng… về mùi… về vị… về xúc… về pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng — như trên đã nói — được gọi là vị Dự lưu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, tưởng về sắc vô thường, biến hoại, đổi khác. Tưởng về tiếng… về mùi… về vị… về xúc… về pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng — như trên đã nói — được gọi là vị Dự lưu."
 
 ==== Kinh 25.7. Tư Niệm (Rūpasañcetanāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, tư niệm về sắc vô thường, biến hoại, đổi khác. Tư niệm về tiếng… về mùi… về vị… về xúc… về pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng — như trên đã nói — được gọi là vị Dự lưu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, tư niệm về sắc vô thường, biến hoại, đổi khác. Tư niệm về tiếng… về mùi… về vị… về xúc… về pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng — như trên đã nói — được gọi là vị Dự lưu."
 
 ==== Kinh 25.8. Ái (Rūpataṇhāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, ái đối với sắc vô thường, biến hoại, đổi khác. Ái đối với tiếng… đối với mùi… đối với vị… đối với xúc… đối với pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… như trên đã nói… được gọi là vị Dự lưu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, ái đối với sắc vô thường, biến hoại, đổi khác. Ái đối với tiếng… đối với mùi… đối với vị… đối với xúc… đối với pháp vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… như trên đã nói… được gọi là vị Dự lưu."
 
 ==== Kinh 25.9. Giới (Pathavīdhātusuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, địa giới vô thường, biến hoại, đổi khác. Thủy giới… hỏa giới… phong giới… không giới… thức giới vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… như trên đã nói… được gọi là vị Dự lưu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, địa giới vô thường, biến hoại, đổi khác. Thủy giới… hỏa giới… phong giới… không giới… thức giới vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng… như trên đã nói… được gọi là vị Dự lưu."
 
 ==== Kinh 25.10. Uẩn (Khandhasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, sắc vô thường, biến hoại, đổi khác. Thọ vô thường, biến hoại, đổi khác. Tưởng… các hành vô thường, biến hoại, đổi khác. Thức vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng, quyết tín vào các pháp này như vậy thì được gọi là người tùy tín hành — đã bước vào chánh tánh quyết định, đã bước vào địa vị của bậc chân nhân, đã vượt qua địa vị người phàm phu. Người ấy không thể làm hành động nào khiến phải sanh vào địa ngục, súc sanh hay ngạ quỷ giới, và không thể chết trước khi chứng ngộ quả Dự lưu. Này các thầy, ai chấp nhận các pháp này bằng trí tuệ, ở một mức độ thẩm sát, thì được gọi là người tùy pháp hành — như trên đã nói. Này các thầy, ai biết như vậy, thấy như vậy đối với các pháp này thì được gọi là vị Dự lưu, không còn rơi vào đọa xứ, chắc chắn hướng đến giác ngộ."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, sắc vô thường, biến hoại, đổi khác. Thọ vô thường, biến hoại, đổi khác. Tưởng… các hành vô thường, biến hoại, đổi khác. Thức vô thường, biến hoại, đổi khác. Này các thầy, ai tin tưởng, quyết tín vào các pháp này như vậy thì được gọi là người tùy tín hành — đã bước vào chánh tánh quyết định, đã bước vào địa vị của bậc chân nhân, đã vượt qua địa vị người phàm phu. Người ấy không thể làm hành động nào khiến phải sanh vào địa ngục, súc sanh hay ngạ quỷ giới, và không thể chết trước khi chứng ngộ quả Dự lưu. Này các thầy, ai chấp nhận các pháp này bằng trí tuệ, ở một mức độ thẩm sát, thì được gọi là người tùy pháp hành — như trên đã nói. Này các thầy, ai biết như vậy, thấy như vậy đối với các pháp này thì được gọi là vị Dự lưu, không còn rơi vào đọa xứ, chắc chắn hướng đến giác ngộ."
 
 #strong[(Tương Ưng Nhập Vào đã hết.)]
 
@@ -2799,7 +2799,7 @@ giới cùng uẩn — đủ mười kinh.
 
 ==== Kinh 26.1. Mắt (Cakkhusuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, mắt sanh ra, an trú, thành hình, xuất hiện — đó chính là khổ sanh khởi, bệnh tồn tại, già chết xuất hiện. Tai… mũi… lưỡi… thân… ý sanh ra, an trú, thành hình, xuất hiện — đó cũng là khổ sanh khởi, bệnh tồn tại, già chết xuất hiện. Còn mắt đoạn diệt, vắng lặng, chấm dứt — này các thầy, đó chính là khổ đoạn diệt, bệnh vắng lặng, già chết chấm dứt. Tai… mũi… lưỡi… thân… ý đoạn diệt, vắng lặng, chấm dứt — đó cũng là khổ đoạn diệt, bệnh vắng lặng, già chết chấm dứt."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, mắt sanh ra, an trú, thành hình, xuất hiện — đó chính là khổ sanh khởi, bệnh tồn tại, già chết xuất hiện. Tai… mũi… lưỡi… thân… ý sanh ra, an trú, thành hình, xuất hiện — đó cũng là khổ sanh khởi, bệnh tồn tại, già chết xuất hiện. Còn mắt đoạn diệt, vắng lặng, chấm dứt — này các thầy, đó chính là khổ đoạn diệt, bệnh vắng lặng, già chết chấm dứt. Tai… mũi… lưỡi… thân… ý đoạn diệt, vắng lặng, chấm dứt — đó cũng là khổ đoạn diệt, bệnh vắng lặng, già chết chấm dứt."
 
 ==== Kinh 26.2. Sắc (Rūpasuttaṃ)
 
@@ -2815,23 +2815,23 @@ giới cùng uẩn — đủ mười kinh.
 
 ==== Kinh 26.5. Thọ (Samphassajasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, thọ sanh từ nhãn xúc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi, bệnh tồn tại, già chết xuất hiện. Thọ sanh từ nhĩ xúc… từ tỷ xúc… từ thiệt xúc… từ thân xúc… từ ý xúc cũng vậy. Còn thọ sanh từ nhãn xúc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt, bệnh vắng lặng, già chết chấm dứt. Thọ sanh từ nhĩ xúc… từ ý xúc cũng vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, thọ sanh từ nhãn xúc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi, bệnh tồn tại, già chết xuất hiện. Thọ sanh từ nhĩ xúc… từ tỷ xúc… từ thiệt xúc… từ thân xúc… từ ý xúc cũng vậy. Còn thọ sanh từ nhãn xúc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt, bệnh vắng lặng, già chết chấm dứt. Thọ sanh từ nhĩ xúc… từ ý xúc cũng vậy."
 
 ==== Kinh 26.6. Tưởng (Saññāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, tưởng về sắc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Tưởng về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy. Còn tưởng về sắc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Tưởng về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, tưởng về sắc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Tưởng về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy. Còn tưởng về sắc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Tưởng về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy."
 
 ==== Kinh 26.7. Tư Niệm (Sañcetanāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, tư niệm về sắc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Tư niệm về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy. Còn tư niệm về sắc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Tư niệm về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, tư niệm về sắc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Tư niệm về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy. Còn tư niệm về sắc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Tư niệm về tiếng… về mùi… về vị… về xúc… về pháp cũng vậy."
 
 ==== Kinh 26.8. Ái (Taṇhāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, ái đối với sắc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Ái đối với tiếng… đối với mùi… đối với vị… đối với xúc… đối với pháp cũng vậy. Còn ái đối với sắc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Ái đối với tiếng… đối với mùi… đối với vị… đối với xúc… đối với pháp cũng vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, ái đối với sắc sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Ái đối với tiếng… đối với mùi… đối với vị… đối với xúc… đối với pháp cũng vậy. Còn ái đối với sắc đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Ái đối với tiếng… đối với mùi… đối với vị… đối với xúc… đối với pháp cũng vậy."
 
 ==== Kinh 26.9. Giới (Dhātusuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, địa giới sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Thủy giới… hỏa giới… phong giới… không giới… thức giới cũng vậy. Còn địa giới đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Thủy giới… hỏa giới… phong giới… không giới… thức giới cũng vậy."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, địa giới sanh ra, an trú, thành hình, xuất hiện — đó là khổ sanh khởi… già chết xuất hiện. Thủy giới… hỏa giới… phong giới… không giới… thức giới cũng vậy. Còn địa giới đoạn diệt, vắng lặng, chấm dứt — đó là khổ đoạn diệt… già chết chấm dứt. Thủy giới… hỏa giới… phong giới… không giới… thức giới cũng vậy."
 
 ==== Kinh 26.10. Uẩn (Khandhasuttaṃ)
 
@@ -2850,7 +2850,7 @@ giới cùng uẩn — đủ mười kinh.
 
 ==== Kinh 27.1. Mắt (Cakkhusuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, tham muốn dục lạc đối với mắt là cấu uế của tâm. Tham muốn dục lạc đối với tai là cấu uế của tâm. Tham muốn dục lạc đối với mũi là cấu uế của tâm. Tham muốn dục lạc đối với lưỡi là cấu uế của tâm. Tham muốn dục lạc đối với thân là cấu uế của tâm. Tham muốn dục lạc đối với ý là cấu uế của tâm. Này các thầy, khi Tỷ-kheo đã đoạn trừ cấu uế của tâm đối với sáu xứ này thì tâm vị ấy hướng về sự viễn ly. Tâm được sự viễn ly nuôi dưỡng trở nên nhu nhuyến, dễ sử dụng, có khả năng thắng tri đối với các pháp cần được thắng tri bằng thắng trí."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, tham muốn dục lạc đối với mắt là cấu uế của tâm. Tham muốn dục lạc đối với tai là cấu uế của tâm. Tham muốn dục lạc đối với mũi là cấu uế của tâm. Tham muốn dục lạc đối với lưỡi là cấu uế của tâm. Tham muốn dục lạc đối với thân là cấu uế của tâm. Tham muốn dục lạc đối với ý là cấu uế của tâm. Này các thầy, khi Tỷ-kheo đã đoạn trừ cấu uế của tâm đối với sáu xứ này thì tâm vị ấy hướng về sự viễn ly. Tâm được sự viễn ly nuôi dưỡng trở nên nhu nhuyến, dễ sử dụng, có khả năng thắng tri đối với các pháp cần được thắng tri bằng thắng trí."
 
 ==== Kinh 27.2. Sắc (Rūpasuttaṃ)
 
@@ -2865,7 +2865,7 @@ giới cùng uẩn — đủ mười kinh.
 #super[1] "Này các thầy, tham muốn dục lạc đối với nhãn xúc là cấu uế của tâm. Đối với nhĩ xúc… tỷ xúc… thiệt xúc… thân xúc… ý xúc cũng là cấu uế của tâm. Này các thầy, khi Tỷ-kheo đã đoạn trừ cấu uế của tâm đối với sáu xứ này thì tâm vị ấy hướng về sự viễn ly. Tâm được sự viễn ly nuôi dưỡng trở nên nhu nhuyến, có khả năng thắng tri đối với các pháp cần được thắng tri bằng thắng trí."
 
 ==== Kinh 27.5. Thọ (Samphassajasuttaṃ)
-#super[1] Cũng tại Sāvatthi. "Này các thầy, lòng tham muốn dục lạc đối với thọ sanh từ nhãn xúc là cấu uế của tâm. Đối với thọ sanh từ nhĩ xúc… từ tỷ xúc… từ thiệt xúc… từ thân xúc… từ ý xúc cũng là cấu uế của tâm. Này các thầy, khi một Tỷ-kheo đã đoạn trừ cấu uế của tâm nơi sáu xứ này, tâm vị ấy hướng về viễn ly. Được viễn ly nuôi dưỡng, tâm trở nên nhu nhuyến, đủ sức thắng tri các pháp cần được thắng tri bằng thắng trí."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, lòng tham muốn dục lạc đối với thọ sanh từ nhãn xúc là cấu uế của tâm. Đối với thọ sanh từ nhĩ xúc… từ tỷ xúc… từ thiệt xúc… từ thân xúc… từ ý xúc cũng là cấu uế của tâm. Này các thầy, khi một Tỷ-kheo đã đoạn trừ cấu uế của tâm nơi sáu xứ này, tâm vị ấy hướng về viễn ly. Được viễn ly nuôi dưỡng, tâm trở nên nhu nhuyến, đủ sức thắng tri các pháp cần được thắng tri bằng thắng trí."
 
 ==== Kinh 27.6. Tưởng (Saññāsuttaṃ)
 
@@ -2900,43 +2900,43 @@ giới cùng uẩn — đủ mười kinh.
 
 ==== Kinh 28.1. Ly Dục Sanh (Vivekajasuttaṃ)
 
-#super[1] Một thời, Tôn giả Sāriputta trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Một buổi sáng, Tôn giả đắp y, cầm y bát, đi vào Sāvatthi khất thực. Khất thực xong, sau buổi ăn, trên đường trở về, Tôn giả đi đến rừng Andha để nghỉ ban ngày. Đi sâu vào rừng, Tôn giả ngồi nghỉ dưới một gốc cây. Đến chiều, Tôn giả từ chỗ tịnh cư đứng dậy, trở lại rừng Jetavana, khu vườn của Anāthapiṇḍika. Tôn giả Ānanda thấy Tôn giả Sāriputta từ xa đi đến, liền nói: "Này hiền giả Sāriputta, các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, ly các dục, ly các pháp bất thiện, tôi đạt đến và an trú Thiền thứ nhất, có tầm có tứ, có hỷ lạc do ly dục sanh. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ nhất', hay 'Tôi đã nhập Thiền thứ nhất', hay 'Tôi đã ra khỏi Thiền thứ nhất.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ nhất', hay 'Tôi đã nhập Thiền thứ nhất', hay 'Tôi đã ra khỏi Thiền thứ nhất.'"
+#super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Một buổi sáng, Tôn giả đắp y, cầm y bát, đi vào Xá-vệ (Sāvatthi) khất thực. Khất thực xong, sau buổi ăn, trên đường trở về, Tôn giả đi đến rừng Andha để nghỉ ban ngày. Đi sâu vào rừng, Tôn giả ngồi nghỉ dưới một gốc cây. Đến chiều, Tôn giả từ chỗ tịnh cư đứng dậy, trở lại rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Tôn giả A-nan (Ānanda) thấy Tôn giả Xá-lợi-phất (Sāriputta) từ xa đi đến, liền nói: "Này hiền giả Sāriputta, các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, ly các dục, ly các pháp bất thiện, tôi đạt đến và an trú Thiền thứ nhất, có tầm có tứ, có hỷ lạc do ly dục sanh. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ nhất', hay 'Tôi đã nhập Thiền thứ nhất', hay 'Tôi đã ra khỏi Thiền thứ nhất.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ nhất', hay 'Tôi đã nhập Thiền thứ nhất', hay 'Tôi đã ra khỏi Thiền thứ nhất.'"
 
 ==== Kinh 28.2. Không Tầm (Avitakkasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tôn giả Ānanda thấy Tôn giả Sāriputta từ xa đi đến, liền nói: "Này hiền giả Sāriputta, các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, do tầm và tứ tịnh chỉ, tôi đạt đến và an trú Thiền thứ hai, có sự tự tin nội tâm, tâm chuyên nhất, không tầm không tứ, có hỷ lạc do định sanh. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ hai', hay 'Tôi đã nhập Thiền thứ hai', hay 'Tôi đã ra khỏi Thiền thứ hai.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ hai', hay 'Tôi đã nhập Thiền thứ hai', hay 'Tôi đã ra khỏi Thiền thứ hai.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) thấy Tôn giả Xá-lợi-phất (Sāriputta) từ xa đi đến, liền nói: "Này hiền giả Xá-lợi-phất (Sāriputta), các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, do tầm và tứ tịnh chỉ, tôi đạt đến và an trú Thiền thứ hai, có sự tự tin nội tâm, tâm chuyên nhất, không tầm không tứ, có hỷ lạc do định sanh. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ hai', hay 'Tôi đã nhập Thiền thứ hai', hay 'Tôi đã ra khỏi Thiền thứ hai.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ hai', hay 'Tôi đã nhập Thiền thứ hai', hay 'Tôi đã ra khỏi Thiền thứ hai.'"
 
 ==== Kinh 28.3. Hỷ (Pītisuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tôn giả Ānanda thấy Tôn giả Sāriputta từ xa đi đến, liền hỏi: "Này hiền giả Sāriputta, các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, do ly hỷ, tôi an trú với tâm xả, có niệm, có tỉnh giác, cảm nhận lạc bằng thân — điều mà các bậc Thánh gọi là 'người có tâm xả, có niệm, an trú lạc' — tôi đạt đến và an trú Thiền thứ ba. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ ba', hay 'Tôi đã nhập Thiền thứ ba', hay 'Tôi đã ra khỏi Thiền thứ ba.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ ba', hay 'Tôi đã nhập Thiền thứ ba', hay 'Tôi đã ra khỏi Thiền thứ ba.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) thấy Tôn giả Xá-lợi-phất (Sāriputta) từ xa đi đến, liền hỏi: "Này hiền giả Xá-lợi-phất (Sāriputta), các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, do ly hỷ, tôi an trú với tâm xả, có niệm, có tỉnh giác, cảm nhận lạc bằng thân — điều mà các bậc Thánh gọi là 'người có tâm xả, có niệm, an trú lạc' — tôi đạt đến và an trú Thiền thứ ba. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ ba', hay 'Tôi đã nhập Thiền thứ ba', hay 'Tôi đã ra khỏi Thiền thứ ba.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ ba', hay 'Tôi đã nhập Thiền thứ ba', hay 'Tôi đã ra khỏi Thiền thứ ba.'"
 
 ==== Kinh 28.4. Xả (Upekkhāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tôn giả Ānanda thấy Tôn giả Sāriputta từ xa đi đến, liền hỏi: "Này hiền giả Sāriputta, các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, do đoạn lạc, đoạn khổ, do hỷ và ưu đã biến mất từ trước, tôi đạt đến và an trú Thiền thứ tư, không khổ không lạc, có sự thanh tịnh của niệm nhờ xả. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ tư', hay 'Tôi đã nhập Thiền thứ tư', hay 'Tôi đã ra khỏi Thiền thứ tư.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ tư', hay 'Tôi đã nhập Thiền thứ tư', hay 'Tôi đã ra khỏi Thiền thứ tư.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) thấy Tôn giả Xá-lợi-phất (Sāriputta) từ xa đi đến, liền hỏi: "Này hiền giả Xá-lợi-phất (Sāriputta), các căn của hiền giả thật thanh tịnh, sắc mặt thật trong sáng, tươi sạch. Hôm nay hiền giả an trú với sự an trú như thế nào?" "Này hiền giả, do đoạn lạc, đoạn khổ, do hỷ và ưu đã biến mất từ trước, tôi đạt đến và an trú Thiền thứ tư, không khổ không lạc, có sự thanh tịnh của niệm nhờ xả. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ tư', hay 'Tôi đã nhập Thiền thứ tư', hay 'Tôi đã ra khỏi Thiền thứ tư.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Thiền thứ tư', hay 'Tôi đã nhập Thiền thứ tư', hay 'Tôi đã ra khỏi Thiền thứ tư.'"
 
 ==== Kinh 28.5. Không Vô Biên Xứ (Ākāsānañcāyatanasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tôn giả Ānanda thấy Tôn giả Sāriputta từ xa đi đến… "Này hiền giả, do vượt qua hoàn toàn các tưởng về sắc, do các tưởng về chướng ngại biến mất, do không tác ý đến các tưởng khác biệt, quán 'hư không là vô biên', tôi đạt đến và an trú Không vô biên xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) thấy Tôn giả Xá-lợi-phất (Sāriputta) từ xa đi đến… "Này hiền giả, do vượt qua hoàn toàn các tưởng về sắc, do các tưởng về chướng ngại biến mất, do không tác ý đến các tưởng khác biệt, quán 'hư không là vô biên', tôi đạt đến và an trú Không vô biên xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
 
 ==== Kinh 28.6. Thức Vô Biên Xứ (Viññāṇañcāyatanasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tôn giả Ānanda thấy Tôn giả Sāriputta từ xa đi đến… "Này hiền giả, do vượt qua hoàn toàn Không vô biên xứ, quán 'thức là vô biên', tôi đạt đến và an trú Thức vô biên xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) thấy Tôn giả Xá-lợi-phất (Sāriputta) từ xa đi đến… "Này hiền giả, do vượt qua hoàn toàn Không vô biên xứ, quán 'thức là vô biên', tôi đạt đến và an trú Thức vô biên xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
 
 ==== Kinh 28.7. Vô Sở Hữu Xứ (Ākiñcaññāyatanasuttaṃ)
 
-#super[1] Tôn giả Sāriputta… "Này hiền giả, do vượt qua hoàn toàn Thức vô biên xứ, quán 'không có gì cả', tôi đạt đến và an trú Vô sở hữu xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
+#super[1] Tôn giả Xá-lợi-phất (Sāriputta)… "Này hiền giả, do vượt qua hoàn toàn Thức vô biên xứ, quán 'không có gì cả', tôi đạt đến và an trú Vô sở hữu xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
 
 ==== Kinh 28.8. Phi Tưởng Phi Phi Tưởng Xứ (Nevasaññānāsaññāyatanasuttaṃ)
 
-#super[1] Tôn giả Sāriputta… "Này hiền giả, do vượt qua hoàn toàn Vô sở hữu xứ, tôi đạt đến và an trú Phi tưởng phi phi tưởng xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
+#super[1] Tôn giả Xá-lợi-phất (Sāriputta)… "Này hiền giả, do vượt qua hoàn toàn Vô sở hữu xứ, tôi đạt đến và an trú Phi tưởng phi phi tưởng xứ… cho đến 'Tôi đã ra khỏi' cũng không có."
 
 ==== Kinh 28.9. Diệt Tận Định (Nirodhasamāpattisuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Tôn giả Ānanda thấy Tôn giả Sāriputta từ xa đi đến… "Này hiền giả, do vượt qua hoàn toàn Phi tưởng phi phi tưởng xứ, tôi đạt đến và an trú sự đoạn diệt của tưởng và thọ, tức Diệt thọ tưởng định. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Diệt thọ tưởng định', hay 'Tôi đã nhập Diệt thọ tưởng định', hay 'Tôi đã ra khỏi Diệt thọ tưởng định.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Sāriputta đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Diệt thọ tưởng định', hay 'Tôi đã nhập Diệt thọ tưởng định', hay 'Tôi đã ra khỏi Diệt thọ tưởng định.'"
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Tôn giả A-nan (Ānanda) thấy Tôn giả Xá-lợi-phất (Sāriputta) từ xa đi đến… "Này hiền giả, do vượt qua hoàn toàn Phi tưởng phi phi tưởng xứ, tôi đạt đến và an trú sự đoạn diệt của tưởng và thọ, tức Diệt thọ tưởng định. Nhưng này hiền giả, nơi tôi không hề có ý nghĩ rằng: 'Tôi đang nhập Diệt thọ tưởng định', hay 'Tôi đã nhập Diệt thọ tưởng định', hay 'Tôi đã ra khỏi Diệt thọ tưởng định.'" "Chính vì các tùy miên chấp ngã, chấp là của ta, chấp ngã mạn đã được Tôn giả Xá-lợi-phất (Sāriputta) đoạn trừ hoàn toàn từ lâu, nên nơi Tôn giả không hề có ý nghĩ rằng: 'Tôi đang nhập Diệt thọ tưởng định', hay 'Tôi đã nhập Diệt thọ tưởng định', hay 'Tôi đã ra khỏi Diệt thọ tưởng định.'"
 
 ==== Kinh 28.10. Sūcimukhī (Sūcimukhīsuttaṃ)
 
-#super[1] Một thời, Tôn giả Sāriputta trú tại Rājagaha, trong rừng Trúc (Veḷuvana), nơi nuôi dưỡng sóc (Kalandakanivāpa). Một buổi sáng, Tôn giả đắp y, cầm y bát, đi vào Rājagaha khất thực. Khất thực theo thứ tự từng nhà xong, Tôn giả ngồi dựa vào một góc tường để dùng vật khất thực ấy. Bấy giờ, du sĩ ni Sūcimukhī đi đến chỗ Tôn giả, rồi hỏi: "Này Sa-môn, ngài ăn với mặt hướng xuống chăng?" "Này chị, tôi không ăn với mặt hướng xuống." "Vậy thì, này Sa-môn, ngài ăn với mặt hướng lên chăng?" "Này chị, tôi không ăn với mặt hướng lên." "Vậy thì, này Sa-môn, ngài ăn với mặt hướng về các phương chăng?" "Này chị, tôi không ăn với mặt hướng về các phương." "Vậy thì, này Sa-môn, ngài ăn với mặt hướng về các phương phụ chăng?" "Này chị, tôi không ăn với mặt hướng về các phương phụ." "Khi được hỏi 'Ngài ăn với mặt hướng xuống chăng?', ngài đáp 'Tôi không ăn với mặt hướng xuống.' Khi được hỏi 'Ngài ăn với mặt hướng lên chăng?', ngài đáp 'Tôi không ăn với mặt hướng lên.' Khi được hỏi 'Ngài ăn với mặt hướng về các phương chăng?', ngài đáp 'Tôi không ăn với mặt hướng về các phương.' Khi được hỏi 'Ngài ăn với mặt hướng về các phương phụ chăng?', ngài đáp 'Tôi không ăn với mặt hướng về các phương phụ.' Vậy thì, này Sa-môn, ngài ăn như thế nào?" "Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề chiêm tướng đất đai, thuộc loại tri thức hạ liệt — những người ấy được gọi là 'ăn với mặt hướng xuống.' Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề chiêm tinh, thuộc loại tri thức hạ liệt — những người ấy được gọi là 'ăn với mặt hướng lên.' Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề làm sứ giả, đưa tin, chạy việc — những người ấy được gọi là 'ăn với mặt hướng về các phương.' Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề xem tướng chi thể, thuộc loại tri thức hạ liệt — những người ấy được gọi là 'ăn với mặt hướng về các phương phụ.' Còn tôi, này chị, không sống bằng tà mạng nhờ nghề chiêm tướng đất đai, không sống bằng tà mạng nhờ chiêm tinh, không sống bằng tà mạng nhờ làm sứ giả đưa tin, không sống bằng tà mạng nhờ xem tướng chi thể. Tôi tìm vật khất thực đúng pháp. Tìm được vật khất thực đúng pháp rồi, tôi ăn." Rồi du sĩ ni Sūcimukhī đi khắp các đường phố, các ngã tư ở Rājagaha, tuyên bố: "Các Sa-môn dòng họ Thích ăn thức ăn đúng pháp. Các Sa-môn dòng họ Thích ăn thức ăn không lỗi lầm. Hãy cúng dường vật thực cho các Sa-môn dòng họ Thích."
+#super[1] Một thời, Tôn giả Xá-lợi-phất (Sāriputta) trú tại Vương Xá (Rājagaha), trong rừng Trúc (Veḷuvana), nơi nuôi dưỡng sóc (Kalandakanivāpa). Một buổi sáng, Tôn giả đắp y, cầm y bát, đi vào Vương Xá (Rājagaha) khất thực. Khất thực theo thứ tự từng nhà xong, Tôn giả ngồi dựa vào một góc tường để dùng vật khất thực ấy. Bấy giờ, du sĩ ni Tịnh Diện (Sūcimukhī) đi đến chỗ Tôn giả, rồi hỏi: "Này Sa-môn, ngài ăn với mặt hướng xuống chăng?" "Này chị, tôi không ăn với mặt hướng xuống." "Vậy thì, này Sa-môn, ngài ăn với mặt hướng lên chăng?" "Này chị, tôi không ăn với mặt hướng lên." "Vậy thì, này Sa-môn, ngài ăn với mặt hướng về các phương chăng?" "Này chị, tôi không ăn với mặt hướng về các phương." "Vậy thì, này Sa-môn, ngài ăn với mặt hướng về các phương phụ chăng?" "Này chị, tôi không ăn với mặt hướng về các phương phụ." "Khi được hỏi 'Ngài ăn với mặt hướng xuống chăng?', ngài đáp 'Tôi không ăn với mặt hướng xuống.' Khi được hỏi 'Ngài ăn với mặt hướng lên chăng?', ngài đáp 'Tôi không ăn với mặt hướng lên.' Khi được hỏi 'Ngài ăn với mặt hướng về các phương chăng?', ngài đáp 'Tôi không ăn với mặt hướng về các phương.' Khi được hỏi 'Ngài ăn với mặt hướng về các phương phụ chăng?', ngài đáp 'Tôi không ăn với mặt hướng về các phương phụ.' Vậy thì, này Sa-môn, ngài ăn như thế nào?" "Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề chiêm tướng đất đai, thuộc loại tri thức hạ liệt — những người ấy được gọi là 'ăn với mặt hướng xuống.' Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề chiêm tinh, thuộc loại tri thức hạ liệt — những người ấy được gọi là 'ăn với mặt hướng lên.' Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề làm sứ giả, đưa tin, chạy việc — những người ấy được gọi là 'ăn với mặt hướng về các phương.' Này chị, những Sa-môn, Bà-la-môn nào sống bằng tà mạng, bằng nghề xem tướng chi thể, thuộc loại tri thức hạ liệt — những người ấy được gọi là 'ăn với mặt hướng về các phương phụ.' Còn tôi, này chị, không sống bằng tà mạng nhờ nghề chiêm tướng đất đai, không sống bằng tà mạng nhờ chiêm tinh, không sống bằng tà mạng nhờ làm sứ giả đưa tin, không sống bằng tà mạng nhờ xem tướng chi thể. Tôi tìm vật khất thực đúng pháp. Tìm được vật khất thực đúng pháp rồi, tôi ăn." Rồi du sĩ ni Tịnh Diện (Sūcimukhī) đi khắp các đường phố, các ngã tư ở Rājagaha, tuyên bố: "Các Sa-môn dòng họ Thích ăn thức ăn đúng pháp. Các Sa-môn dòng họ Thích ăn thức ăn không lỗi lầm. Hãy cúng dường vật thực cho các Sa-môn dòng họ Thích."
 
 #strong[(Tương Ưng Tôn giả Sāriputta đã hết.)]
 
@@ -2953,31 +2953,31 @@ Thứ mười là Sūcimukhī.
 
 ==== Kinh 29.1. Thanh Tịnh (Suddhikasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, có bốn loại thai sanh của rồng (nāga) này. Bốn loại nào? Rồng noãn sanh, tức sanh từ trứng; rồng thai sanh, tức sanh từ bào thai; rồng thấp sanh, tức sanh từ nơi ẩm thấp; rồng hóa sanh, tức hóa sanh tự nhiên. Này các thầy, đó là bốn loại thai sanh của rồng."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn loại thai sanh của rồng (nāga) này. Bốn loại nào? Rồng noãn sanh, tức sanh từ trứng; rồng thai sanh, tức sanh từ bào thai; rồng thấp sanh, tức sanh từ nơi ẩm thấp; rồng hóa sanh, tức hóa sanh tự nhiên. Này các thầy, đó là bốn loại thai sanh của rồng."
 
 ==== Kinh 29.2. Thù Thắng Hơn (Paṇītatarasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, có bốn loại thai sanh của rồng. Bốn loại nào? Rồng noãn sanh, rồng thai sanh, rồng thấp sanh, rồng hóa sanh. Trong đó, này các thầy, so với rồng noãn sanh thì rồng thai sanh, thấp sanh và hóa sanh thù thắng hơn. So với rồng noãn sanh và thai sanh thì rồng thấp sanh và hóa sanh thù thắng hơn. So với rồng noãn sanh, thai sanh và thấp sanh thì rồng hóa sanh thù thắng hơn. Này các thầy, đó là bốn loại thai sanh của rồng."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn loại thai sanh của rồng. Bốn loại nào? Rồng noãn sanh, rồng thai sanh, rồng thấp sanh, rồng hóa sanh. Trong đó, này các thầy, so với rồng noãn sanh thì rồng thai sanh, thấp sanh và hóa sanh thù thắng hơn. So với rồng noãn sanh và thai sanh thì rồng thấp sanh và hóa sanh thù thắng hơn. So với rồng noãn sanh, thai sanh và thấp sanh thì rồng hóa sanh thù thắng hơn. Này các thầy, đó là bốn loại thai sanh của rồng."
 
 ==== Kinh 29.3. Trai Giới Thứ Nhất (Uposathasuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Một vị Tỷ-kheo đến chỗ Thế Tôn, đảnh lễ, ngồi sang một bên, rồi bạch: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng noãn sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng noãn sanh nghĩ như vầy: 'Trước đây chúng ta đã làm điều hai mặt — vừa thiện vừa ác — bằng thân, bằng lời, bằng ý. Vì đã làm điều hai mặt ấy, sau khi thân hoại mạng chung, chúng ta sanh vào cõi đồng loại của rồng noãn sanh. Nếu hôm nay chúng ta làm thiện hạnh bằng thân, làm thiện hạnh bằng lời, làm thiện hạnh bằng ý, thì sau khi thân hoại mạng chung, chúng ta có thể sanh vào cõi lành, cõi trời. Vậy nay chúng ta hãy làm thiện hạnh bằng thân, bằng lời, bằng ý.' Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng noãn sanh giữ ngày trai giới, xả bỏ thân."
+#super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Một vị Tỷ-kheo đến chỗ Thế Tôn, đảnh lễ, ngồi sang một bên, rồi bạch: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng noãn sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng noãn sanh nghĩ như vầy: 'Trước đây chúng ta đã làm điều hai mặt — vừa thiện vừa ác — bằng thân, bằng lời, bằng ý. Vì đã làm điều hai mặt ấy, sau khi thân hoại mạng chung, chúng ta sanh vào cõi đồng loại của rồng noãn sanh. Nếu hôm nay chúng ta làm thiện hạnh bằng thân, làm thiện hạnh bằng lời, làm thiện hạnh bằng ý, thì sau khi thân hoại mạng chung, chúng ta có thể sanh vào cõi lành, cõi trời. Vậy nay chúng ta hãy làm thiện hạnh bằng thân, bằng lời, bằng ý.' Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng noãn sanh giữ ngày trai giới, xả bỏ thân."
 
 ==== Kinh 29.4. Trai Giới Thứ Hai (Dutiyauposathasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng thai sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng thai sanh nghĩ như vầy… [như trên] … Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng thai sanh giữ ngày trai giới, xả bỏ thân."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Vị Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng thai sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng thai sanh nghĩ như vầy… [như trên] … Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng thai sanh giữ ngày trai giới, xả bỏ thân."
 
 ==== Kinh 29.5. Trai Giới Thứ Ba (Tatiyauposathasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng thấp sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng thấp sanh nghĩ như vầy… [như trên] … Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng thấp sanh giữ ngày trai giới, xả bỏ thân."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng thấp sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng thấp sanh nghĩ như vầy… [như trên] … Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng thấp sanh giữ ngày trai giới, xả bỏ thân."
 
 ==== Kinh 29.6. Trai Giới Thứ Tư (Catutthauposathasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng hóa sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng hóa sanh nghĩ như vầy: 'Trước đây chúng ta đã làm điều hai mặt bằng thân, bằng lời, bằng ý. Vì đã làm điều hai mặt ấy, sau khi thân hoại mạng chung, chúng ta sanh vào cõi đồng loại của rồng hóa sanh. Nếu hôm nay chúng ta làm thiện hạnh bằng thân, bằng lời, bằng ý, thì sau khi thân hoại mạng chung, chúng ta có thể sanh vào cõi lành, cõi trời. Vậy nay chúng ta hãy làm thiện hạnh bằng thân, bằng lời, bằng ý.' Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng hóa sanh giữ ngày trai giới, xả bỏ thân."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Bạch Thế Tôn, do nhân gì, do duyên gì mà ở đây có một số rồng hóa sanh giữ ngày trai giới, xả bỏ thân?" "Này Tỷ-kheo, ở đây có một số rồng hóa sanh nghĩ như vầy: 'Trước đây chúng ta đã làm điều hai mặt bằng thân, bằng lời, bằng ý. Vì đã làm điều hai mặt ấy, sau khi thân hoại mạng chung, chúng ta sanh vào cõi đồng loại của rồng hóa sanh. Nếu hôm nay chúng ta làm thiện hạnh bằng thân, bằng lời, bằng ý, thì sau khi thân hoại mạng chung, chúng ta có thể sanh vào cõi lành, cõi trời. Vậy nay chúng ta hãy làm thiện hạnh bằng thân, bằng lời, bằng ý.' Này Tỷ-kheo, đó là nhân, đó là duyên mà ở đây có một số rồng hóa sanh giữ ngày trai giới, xả bỏ thân."
 
 ==== Kinh 29.7. Được Nghe Thứ Nhất (Sutasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng noãn sanh?" "Này Tỷ-kheo, ở đây có người làm điều hai mặt bằng thân, làm điều hai mặt bằng lời, làm điều hai mặt bằng ý. Người ấy được nghe rằng: 'Rồng noãn sanh sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong rằng sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của rồng noãn sanh.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của rồng noãn sanh. Này Tỷ-kheo, đó là nhân, đó là duyên mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng noãn sanh."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng noãn sanh?" "Này Tỷ-kheo, ở đây có người làm điều hai mặt bằng thân, làm điều hai mặt bằng lời, làm điều hai mặt bằng ý. Người ấy được nghe rằng: 'Rồng noãn sanh sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong rằng sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của rồng noãn sanh.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của rồng noãn sanh. Này Tỷ-kheo, đó là nhân, đó là duyên mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng noãn sanh."
 ==== Kinh 29.8. Được Nghe Thứ Hai (Dutiyasutasuttaṃ)
 
 #super[1] Cũng vậy, này Tỷ-kheo — có người làm điều hai mặt bằng thân, lời, ý. Người ấy nghe rằng "rồng thai sanh sống lâu, có dung sắc, nhiều an lạc," mong cầu như vậy, nên sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng thai sanh.
@@ -2996,7 +2996,7 @@ Thứ mười là Sūcimukhī.
 
 #strong[Nhóm kinh 29.21–50 — Nương Nhờ Việc Cho (Ba Loại Còn Lại) (Jalābujādidānūpakārasuttattiṃsakaṃ)]
 
-#super[1] Cũng tại Sāvatthi. Cũng theo cách như trên — người làm điều hai mặt bằng thân, lời, ý, nghe rằng loài rồng thai sanh… loài rồng thấp sanh… loài rồng hóa sanh sống lâu, có dung sắc, nhiều an lạc, mong cầu được sanh vào cõi ấy, rồi đem cho vật thực, nước uống, vải mặc, xe cộ, vòng hoa, hương liệu, dầu thơm, chỗ nằm, chỗ trú, đèn đuốc — sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng hóa sanh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng hóa sanh. (Theo cách peyyāla này, có mười bài kinh cho mỗi một trong ba loại thai sanh còn lại — thai sanh, thấp sanh, hóa sanh — vậy tính chung là ba mươi bài kinh; cộng với mười bài kinh của loại noãn sanh ở trước, thành bốn mươi bài kinh về sự nương nhờ vào việc cho; cộng thêm mười bài kinh đầu tiên đã nói, tất cả là năm mươi bài kinh.)
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Cũng theo cách như trên — người làm điều hai mặt bằng thân, lời, ý, nghe rằng loài rồng thai sanh… loài rồng thấp sanh… loài rồng hóa sanh sống lâu, có dung sắc, nhiều an lạc, mong cầu được sanh vào cõi ấy, rồi đem cho vật thực, nước uống, vải mặc, xe cộ, vòng hoa, hương liệu, dầu thơm, chỗ nằm, chỗ trú, đèn đuốc — sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng hóa sanh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của rồng hóa sanh. (Theo cách peyyāla này, có mười bài kinh cho mỗi một trong ba loại thai sanh còn lại — thai sanh, thấp sanh, hóa sanh — vậy tính chung là ba mươi bài kinh; cộng với mười bài kinh của loại noãn sanh ở trước, thành bốn mươi bài kinh về sự nương nhờ vào việc cho; cộng thêm mười bài kinh đầu tiên đã nói, tất cả là năm mươi bài kinh.)
 #strong[(Tương Ưng Rồng đã hết.)]
 
 #strong[Kệ tóm tắt (Tassuddānaṃ)]
@@ -3012,19 +3012,19 @@ gộp chung năm mươi bài kinh, \
 
 ==== Kinh 30.1. Thanh Tịnh (Suddhikasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các thầy về các loài Kim-xí-điểu (Supaṇṇa). Hãy lắng nghe. Này các thầy, có bốn loại thai sanh của Kim-xí-điểu này. Bốn loại nào? Kim-xí-điểu noãn sanh, Kim-xí-điểu thai sanh, Kim-xí-điểu thấp sanh, Kim-xí-điểu hóa sanh. Này các thầy, đó là bốn loại thai sanh của Kim-xí-điểu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các thầy về các loài Kim-xí-điểu (Supaṇṇa). Hãy lắng nghe. Này các thầy, có bốn loại thai sanh của Kim-xí-điểu này. Bốn loại nào? Kim-xí-điểu noãn sanh, Kim-xí-điểu thai sanh, Kim-xí-điểu thấp sanh, Kim-xí-điểu hóa sanh. Này các thầy, đó là bốn loại thai sanh của Kim-xí-điểu."
 
 ==== Kinh 30.2. Cắp Bắt (Harantisuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, có bốn loại thai sanh của Kim-xí-điểu (Supaṇṇa) này. Bốn loại nào? Kim-xí-điểu noãn sanh, Kim-xí-điểu thai sanh, Kim-xí-điểu thấp sanh, Kim-xí-điểu hóa sanh. Này các thầy, đó là bốn loại thai sanh của Kim-xí-điểu. Trong đó, này các thầy, Kim-xí-điểu noãn sanh chỉ cắp bắt rồng noãn sanh, không cắp bắt rồng thai sanh, thấp sanh hay hóa sanh. Kim-xí-điểu thai sanh cắp bắt rồng noãn sanh và rồng thai sanh, không cắp bắt rồng thấp sanh hay hóa sanh. Kim-xí-điểu thấp sanh cắp bắt rồng noãn sanh, thai sanh và thấp sanh, không cắp bắt rồng hóa sanh. Kim-xí-điểu hóa sanh cắp bắt cả bốn loại rồng — noãn sanh, thai sanh, thấp sanh và hóa sanh. Này các thầy, đó là bốn loại thai sanh của Kim-xí-điểu."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn loại thai sanh của Kim-xí-điểu (Supaṇṇa) này. Bốn loại nào? Kim-xí-điểu noãn sanh, Kim-xí-điểu thai sanh, Kim-xí-điểu thấp sanh, Kim-xí-điểu hóa sanh. Này các thầy, đó là bốn loại thai sanh của Kim-xí-điểu. Trong đó, này các thầy, Kim-xí-điểu noãn sanh chỉ cắp bắt rồng noãn sanh, không cắp bắt rồng thai sanh, thấp sanh hay hóa sanh. Kim-xí-điểu thai sanh cắp bắt rồng noãn sanh và rồng thai sanh, không cắp bắt rồng thấp sanh hay hóa sanh. Kim-xí-điểu thấp sanh cắp bắt rồng noãn sanh, thai sanh và thấp sanh, không cắp bắt rồng hóa sanh. Kim-xí-điểu hóa sanh cắp bắt cả bốn loại rồng — noãn sanh, thai sanh, thấp sanh và hóa sanh. Này các thầy, đó là bốn loại thai sanh của Kim-xí-điểu."
 
 ==== Kinh 30.3. Làm Điều Hai Mặt (Dvayakārīsuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Sāvatthi. Một vị Tỷ-kheo đến chỗ Thế Tôn, đảnh lễ, ngồi sang một bên, rồi bạch: "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh?" Thế Tôn đáp: "Này Tỷ-kheo, ở đây có người làm điều hai mặt bằng thân, làm điều hai mặt bằng lời, làm điều hai mặt bằng ý. Người ấy nghe: 'Kim-xí-điểu noãn sanh sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh."
+#super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi). Một vị Tỷ-kheo đến chỗ Thế Tôn, đảnh lễ, ngồi sang một bên, rồi bạch: "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh?" Thế Tôn đáp: "Này Tỷ-kheo, ở đây có người làm điều hai mặt bằng thân, làm điều hai mặt bằng lời, làm điều hai mặt bằng ý. Người ấy nghe: 'Kim-xí-điểu noãn sanh sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của Kim-xí-điểu noãn sanh."
 
 #strong[Nhóm kinh 30.4–6 — Ba Loại Còn Lại (Dutiyādidvayakārīsuttattikaṃ)]
 
-#super[1] Cũng tại Sāvatthi. Cũng theo cách như trên — có người làm điều hai mặt bằng thân, lời, ý, nghe rằng Kim-xí-điểu thai sanh… Kim-xí-điểu thấp sanh… Kim-xí-điểu hóa sanh sống lâu, có dung sắc, nhiều an lạc, mong cầu được sanh vào cõi ấy; sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của Kim-xí-điểu hóa sanh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của Kim-xí-điểu hóa sanh.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Cũng theo cách như trên — có người làm điều hai mặt bằng thân, lời, ý, nghe rằng Kim-xí-điểu thai sanh… Kim-xí-điểu thấp sanh… Kim-xí-điểu hóa sanh sống lâu, có dung sắc, nhiều an lạc, mong cầu được sanh vào cõi ấy; sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của Kim-xí-điểu hóa sanh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của Kim-xí-điểu hóa sanh.
 
 #strong[Nhóm kinh 30.7–16 — Nương Nhờ Việc Cho (Noãn Sanh) (Aṇḍajadānūpakārasuttadasakaṃ)]
 
@@ -3047,19 +3047,19 @@ các kinh về sự nương nhờ vào việc cho, đủ bốn mươi, \
 
 ==== Kinh 31.1. Thanh Tịnh (Suddhikasuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Sāvatthi, trong rừng Jetavana, khu vườn của Anāthapiṇḍika… "Này các thầy, Ta sẽ giảng cho các thầy về các vị chư thiên thuộc nhóm Càn-thát-bà (Gandhabbakāya). Hãy lắng nghe. Này các thầy, những vị chư thiên nào là chư thiên nhóm Càn-thát-bà? Này các thầy, có những chư thiên trú trong mùi hương của rễ cây. Có những chư thiên trú trong mùi hương của lõi cây. Có những chư thiên trú trong mùi hương của giác cây. Có những chư thiên trú trong mùi hương của vỏ cây. Có những chư thiên trú trong mùi hương của vỏ ngoài cây. Có những chư thiên trú trong mùi hương của lá cây. Có những chư thiên trú trong mùi hương của hoa. Có những chư thiên trú trong mùi hương của quả. Có những chư thiên trú trong mùi hương của vị. Có những chư thiên trú trong mùi hương của hương. Này các thầy, đó gọi là chư thiên nhóm Càn-thát-bà."
+#super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi), trong rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika)… "Này các thầy, Ta sẽ giảng cho các thầy về các vị chư thiên thuộc nhóm Càn-thát-bà (Gandhabbakāya). Hãy lắng nghe. Này các thầy, những vị chư thiên nào là chư thiên nhóm Càn-thát-bà? Này các thầy, có những chư thiên trú trong mùi hương của rễ cây. Có những chư thiên trú trong mùi hương của lõi cây. Có những chư thiên trú trong mùi hương của giác cây. Có những chư thiên trú trong mùi hương của vỏ cây. Có những chư thiên trú trong mùi hương của vỏ ngoài cây. Có những chư thiên trú trong mùi hương của lá cây. Có những chư thiên trú trong mùi hương của hoa. Có những chư thiên trú trong mùi hương của quả. Có những chư thiên trú trong mùi hương của vị. Có những chư thiên trú trong mùi hương của hương. Này các thầy, đó gọi là chư thiên nhóm Càn-thát-bà."
 
 ==== Kinh 31.2. Thiện Hạnh (Sucaritasuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Sāvatthi. Một vị Tỷ-kheo đến chỗ Thế Tôn, đảnh lễ, ngồi sang một bên, rồi bạch: "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, làm thiện hạnh bằng lời, làm thiện hạnh bằng ý. Người ấy nghe: 'Chư thiên nhóm Càn-thát-bà sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà."
+#super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthi). Một vị Tỷ-kheo đến chỗ Thế Tôn, đảnh lễ, ngồi sang một bên, rồi bạch: "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, làm thiện hạnh bằng lời, làm thiện hạnh bằng ý. Người ấy nghe: 'Chư thiên nhóm Càn-thát-bà sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Càn-thát-bà."
 
 ==== Kinh 31.3. Người Cho Hương Rễ Cây (Mūlagandhadātāsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên trú trong mùi hương của rễ cây?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, lời, ý. Người ấy nghe: 'Chư thiên trú trong mùi hương của rễ cây sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên ấy.' Người ấy đem cho hương rễ cây. Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên trú trong mùi hương của rễ cây. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên trú trong mùi hương của rễ cây."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên trú trong mùi hương của rễ cây?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, lời, ý. Người ấy nghe: 'Chư thiên trú trong mùi hương của rễ cây sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên ấy.' Người ấy đem cho hương rễ cây. Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên trú trong mùi hương của rễ cây. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên trú trong mùi hương của rễ cây."
 
 #strong[Nhóm kinh 31.4–12 — Chín Loại Hương Còn Lại (Người Cho) (Sāragandhādidātāsuttanavakaṃ)]
 
-#super[1] Cũng tại Sāvatthi. Cũng theo cách như trên — có người làm thiện hạnh bằng thân, lời, ý, nghe rằng chư thiên trú trong mùi hương của lõi cây… của giác cây… của vỏ cây… của vỏ ngoài cây… của lá cây… của hoa… của quả… của vị… của hương sống lâu, có dung sắc, nhiều an lạc, mong cầu được sanh vào cõi ấy, rồi tự mình cũng đem cho loại hương tương ứng — hương lõi cây… hương giác cây… và cứ như vậy cho đến hương của hương. Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên trú trong mùi hương của hương. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên trú trong mùi hương của hương.
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Cũng theo cách như trên — có người làm thiện hạnh bằng thân, lời, ý, nghe rằng chư thiên trú trong mùi hương của lõi cây… của giác cây… của vỏ cây… của vỏ ngoài cây… của lá cây… của hoa… của quả… của vị… của hương sống lâu, có dung sắc, nhiều an lạc, mong cầu được sanh vào cõi ấy, rồi tự mình cũng đem cho loại hương tương ứng — hương lõi cây… hương giác cây… và cứ như vậy cho đến hương của hương. Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên trú trong mùi hương của hương. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên trú trong mùi hương của hương.
 
 #strong[Nhóm kinh 31.13–22 — Nương Nhờ Việc Cho (Hương Rễ Cây) (Mūlagandhadānūpakārasuttadasakaṃ)]
 
@@ -3082,38 +3082,38 @@ các kinh về sự nương nhờ vào việc cho, gấp trăm lần, \
 
 ==== Kinh 32.1. Thanh Tịnh (Suddhikasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, Ta sẽ giảng cho các thầy về các vị chư thiên thuộc nhóm Thần Mây (Valāhaka). Hãy lắng nghe. Này các thầy, những vị chư thiên nào là chư thiên nhóm Thần Mây? Này các thầy, có chư thiên Mây Lạnh; có chư thiên Mây Nóng; có chư thiên Mây Giông (Vân Vụ); có chư thiên Mây Gió; có chư thiên Mây Mưa — này các thầy, đó gọi là chư thiên nhóm Thần Mây."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, Ta sẽ giảng cho các thầy về các vị chư thiên thuộc nhóm Thần Mây (Valāhaka). Hãy lắng nghe. Này các thầy, những vị chư thiên nào là chư thiên nhóm Thần Mây? Này các thầy, có chư thiên Mây Lạnh; có chư thiên Mây Nóng; có chư thiên Mây Giông (Vân Vụ); có chư thiên Mây Gió; có chư thiên Mây Mưa — này các thầy, đó gọi là chư thiên nhóm Thần Mây."
 
 ==== Kinh 32.2. Thiện Hạnh (Sucaritasuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Thần Mây?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, lời, ý. Người ấy nghe: 'Chư thiên nhóm Thần Mây sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên ấy.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên nhóm Thần Mây. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Thần Mây."
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Thần Mây?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, lời, ý. Người ấy nghe: 'Chư thiên nhóm Thần Mây sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên ấy.' Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên nhóm Thần Mây. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên nhóm Thần Mây."
 
 #strong[Nhóm kinh 32.3–12 — Nương Nhờ Việc Cho (Mây Lạnh) (Sītavalāhakadānūpakārasuttadasakaṃ)]
 
-#super[1] Cũng tại Sāvatthi. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên Mây Lạnh?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, lời, ý. Người ấy nghe: 'Chư thiên Mây Lạnh sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên ấy.' Người ấy đem cho vật thực… đem cho nước uống… đem cho vải mặc… đem cho xe cộ… đem cho vòng hoa… đem cho hương liệu… đem cho dầu thơm… đem cho chỗ nằm… đem cho chỗ trú… đem cho đèn đuốc. Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên Mây Lạnh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên Mây Lạnh." (Theo cách này, mười bài kinh được lập nên, mỗi bài thay bằng một loại vật cho, cho người mong sanh vào cõi chư thiên Mây Lạnh.)
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên Mây Lạnh?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, lời, ý. Người ấy nghe: 'Chư thiên Mây Lạnh sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên ấy.' Người ấy đem cho vật thực… đem cho nước uống… đem cho vải mặc… đem cho xe cộ… đem cho vòng hoa… đem cho hương liệu… đem cho dầu thơm… đem cho chỗ nằm… đem cho chỗ trú… đem cho đèn đuốc. Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên Mây Lạnh. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên Mây Lạnh." (Theo cách này, mười bài kinh được lập nên, mỗi bài thay bằng một loại vật cho, cho người mong sanh vào cõi chư thiên Mây Lạnh.)
 
 #strong[Nhóm kinh 32.13–52 — Nương Nhờ Việc Cho (Ba Loại Còn Lại) (Uṇhavalāhakadānūpakārasuttacālīsakaṃ)]
 
 #super[1] Cũng tại Sāvatthi. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên Mây Nóng… của chư thiên Mây Giông… của chư thiên Mây Gió… của chư thiên Mây Mưa?" "Này Tỷ-kheo, ở đây có người làm thiện hạnh bằng thân, lời, ý. Người ấy nghe: 'Chư thiên Mây Mưa sống lâu, có dung sắc, nhiều an lạc.' Người ấy nghĩ: 'Mong sau khi thân hoại mạng chung, ta sẽ sanh vào cõi đồng loại của chư thiên ấy.' Người ấy đem cho vật thực… cho đến đem cho đèn đuốc. Sau khi thân hoại mạng chung, người ấy sanh vào cõi đồng loại của chư thiên Mây Mưa. Này Tỷ-kheo, đó là nhân, đó là duyên khiến có người, sau khi thân hoại mạng chung, sanh vào cõi đồng loại của chư thiên Mây Mưa." (Cũng theo cách peyyāla này, cho ba loại chư thiên Mây còn lại — Mây Nóng, Mây Giông, Mây Gió — mỗi loại đủ mười bài kinh thay đổi vật cho; như vậy, tính chung bốn loại, có bốn mươi bài kinh.)
 ==== Kinh 32.53. Mây Lạnh (Sītavalāhakasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc trời lạnh?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Lạnh. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà trời trở lạnh. Này các thầy, đó là nhân, đó là duyên khiến có lúc trời lạnh."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc trời lạnh?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Lạnh. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà trời trở lạnh. Này các thầy, đó là nhân, đó là duyên khiến có lúc trời lạnh."
 
 ==== Kinh 32.54. Mây Nóng (Uṇhavalāhakasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc trời nóng?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Nóng. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà trời trở nóng. Này các thầy, đó là nhân, đó là duyên khiến có lúc trời nóng."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc trời nóng?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Nóng. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà trời trở nóng. Này các thầy, đó là nhân, đó là duyên khiến có lúc trời nóng."
 
 ==== Kinh 32.55. Mây Giông (Abbhavalāhakasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc mây giông kéo đến?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Giông. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà mây giông kéo đến. Này các thầy, đó là nhân, đó là duyên khiến có lúc mây giông kéo đến."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc mây giông kéo đến?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Giông. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà mây giông kéo đến. Này các thầy, đó là nhân, đó là duyên khiến có lúc mây giông kéo đến."
 
 ==== Kinh 32.56. Mây Gió (Vātavalāhakasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc gió thổi?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Gió. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà gió thổi. Này các thầy, đó là nhân, đó là duyên khiến có lúc gió thổi."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc gió thổi?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Gió. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà gió thổi. Này các thầy, đó là nhân, đó là duyên khiến có lúc gió thổi."
 
 ==== Kinh 32.57. Mây Mưa (Vassavalāhakasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc trời mưa?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Mưa. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà trời mưa. Này các thầy, đó là nhân, đó là duyên khiến có lúc trời mưa."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). "Bạch Thế Tôn, do nhân gì, do duyên gì mà có lúc trời mưa?" Thế Tôn đáp: "Này các thầy, có những vị chư thiên gọi là Mây Mưa. Khi các vị ấy nghĩ rằng: 'Ta hãy an trú theo niềm vui của mình', thì do sự hướng tâm ấy của các vị mà trời mưa. Này các thầy, đó là nhân, đó là duyên khiến có lúc trời mưa."
 
 #strong[(Năm mươi bảy bài kinh đến đây là hết.)]
 
@@ -3130,27 +3130,27 @@ Gió và Mưa của Thần Mây.
 
 ==== Kinh 33.1. Không Biết Về Sắc (Rūpaaññāṇasuttaṃ)
 
-#super[1] Một thời, Thế Tôn trú tại Sāvatthī, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Du sĩ Vacchagotta đến gặp Thế Tôn, chào hỏi thân thiện, rồi ngồi sang một bên. Ông thưa: "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà các loại tà kiến đa dạng này sanh khởi ở đời — 'thế giới là thường còn' hay 'thế giới là vô thường', 'thế giới có biên tế' hay 'thế giới không có biên tế', 'sinh mạng và thân xác là một' hay 'sinh mạng và thân xác là khác', 'Như Lai có tồn tại sau khi chết' hay 'Như Lai không tồn tại sau khi chết', 'Như Lai vừa có tồn tại vừa không tồn tại sau khi chết', hay 'Như Lai chẳng phải có tồn tại chẳng phải không tồn tại sau khi chết'?" Thế Tôn đáp: "Này Vaccha, chính vì không biết về sắc, không biết về sự tập khởi của sắc, không biết về sự đoạn diệt của sắc, không biết về con đường đưa đến sự đoạn diệt của sắc, mà các loại tà kiến đa dạng này sanh khởi ở đời — 'thế giới là thường còn' … cho đến … 'Như Lai chẳng phải có tồn tại chẳng phải không tồn tại sau khi chết.' Này Vaccha, đó là nhân, đó là duyên khiến các loại tà kiến đa dạng này sanh khởi ở đời — 'thế giới là thường còn', 'thế giới là vô thường' … cho đến … 'Như Lai chẳng phải có tồn tại chẳng phải không tồn tại sau khi chết.'"
+#super[1] Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), trong rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Du sĩ Vacchagotta đến gặp Thế Tôn, chào hỏi thân thiện, rồi ngồi sang một bên. Ông thưa: "Thưa Tôn giả Cù-đàm (Gotama), do nhân gì, do duyên gì mà các loại tà kiến đa dạng này sanh khởi ở đời — 'thế giới là thường còn' hay 'thế giới là vô thường', 'thế giới có biên tế' hay 'thế giới không có biên tế', 'sinh mạng và thân xác là một' hay 'sinh mạng và thân xác là khác', 'Như Lai có tồn tại sau khi chết' hay 'Như Lai không tồn tại sau khi chết', 'Như Lai vừa có tồn tại vừa không tồn tại sau khi chết', hay 'Như Lai chẳng phải có tồn tại chẳng phải không tồn tại sau khi chết'?" Thế Tôn đáp: "Này Vaccha, chính vì không biết về sắc, không biết về sự tập khởi của sắc, không biết về sự đoạn diệt của sắc, không biết về con đường đưa đến sự đoạn diệt của sắc, mà các loại tà kiến đa dạng này sanh khởi ở đời — 'thế giới là thường còn' … cho đến … 'Như Lai chẳng phải có tồn tại chẳng phải không tồn tại sau khi chết.' Này Vaccha, đó là nhân, đó là duyên khiến các loại tà kiến đa dạng này sanh khởi ở đời — 'thế giới là thường còn', 'thế giới là vô thường' … cho đến … 'Như Lai chẳng phải có tồn tại chẳng phải không tồn tại sau khi chết.'"
 
 ==== Kinh 33.2. Không Biết Về Thọ (Vedanāaññāṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Du sĩ Vacchagotta lại hỏi Thế Tôn cùng câu hỏi ấy — vì sao các tà kiến đa dạng sanh khởi ở đời. Thế Tôn đáp: "Này Vaccha, chính vì không biết về thọ, không biết về sự tập khởi của thọ, không biết về sự đoạn diệt của thọ, không biết về con đường đưa đến sự đoạn diệt của thọ, mà các loại tà kiến đa dạng này sanh khởi ở đời."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Du sĩ Vacchagotta lại hỏi Thế Tôn cùng câu hỏi ấy — vì sao các tà kiến đa dạng sanh khởi ở đời. Thế Tôn đáp: "Này Vaccha, chính vì không biết về thọ, không biết về sự tập khởi của thọ, không biết về sự đoạn diệt của thọ, không biết về con đường đưa đến sự đoạn diệt của thọ, mà các loại tà kiến đa dạng này sanh khởi ở đời."
 
 ==== Kinh 33.3. Không Biết Về Tưởng (Saññāaññāṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Cũng câu hỏi ấy. Thế Tôn đáp: "Này Vaccha, chính vì không biết về tưởng, không biết về sự tập khởi của tưởng, không biết về sự đoạn diệt của tưởng, không biết về con đường đưa đến sự đoạn diệt của tưởng, mà các loại tà kiến đa dạng này sanh khởi ở đời."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Cũng câu hỏi ấy. Thế Tôn đáp: "Này Vaccha, chính vì không biết về tưởng, không biết về sự tập khởi của tưởng, không biết về sự đoạn diệt của tưởng, không biết về con đường đưa đến sự đoạn diệt của tưởng, mà các loại tà kiến đa dạng này sanh khởi ở đời."
 
 ==== Kinh 33.4. Không Biết Về Các Hành (Saṅkhāraaññāṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Cũng câu hỏi ấy. Thế Tôn đáp: "Này Vaccha, chính vì không biết về các hành, không biết về sự tập khởi của các hành, không biết về sự đoạn diệt của các hành, không biết về con đường đưa đến sự đoạn diệt của các hành, mà các loại tà kiến đa dạng này sanh khởi ở đời."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Cũng câu hỏi ấy. Thế Tôn đáp: "Này Vaccha, chính vì không biết về các hành, không biết về sự tập khởi của các hành, không biết về sự đoạn diệt của các hành, không biết về con đường đưa đến sự đoạn diệt của các hành, mà các loại tà kiến đa dạng này sanh khởi ở đời."
 
 ==== Kinh 33.5. Không Biết Về Thức (Viññāṇaaññāṇasuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Cũng câu hỏi ấy. Thế Tôn đáp: "Này Vaccha, chính vì không biết về thức, không biết về sự tập khởi của thức, không biết về sự đoạn diệt của thức, không biết về con đường đưa đến sự đoạn diệt của thức, mà các loại tà kiến đa dạng này sanh khởi ở đời. Này Vaccha, đó là nhân, đó là duyên khiến các loại tà kiến đa dạng này sanh khởi ở đời."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Cũng câu hỏi ấy. Thế Tôn đáp: "Này Vaccha, chính vì không biết về thức, không biết về sự tập khởi của thức, không biết về sự đoạn diệt của thức, không biết về con đường đưa đến sự đoạn diệt của thức, mà các loại tà kiến đa dạng này sanh khởi ở đời. Này Vaccha, đó là nhân, đó là duyên khiến các loại tà kiến đa dạng này sanh khởi ở đời."
 
 #strong[Nhóm kinh 33.6–10 — Không Thấy (Năm Uẩn) (Rūpaadassanādisuttapañcakaṃ)]
 
-#super[1] Cũng tại Sāvatthī. Cũng câu hỏi ấy — vì sao các tà kiến đa dạng sanh khởi ở đời. Này Vaccha, chính vì không thấy về sắc, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của sắc; không thấy về thọ, về tưởng, về các hành; không thấy về thức, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của thức, mà các tà kiến đa dạng ấy sanh khởi ở đời. (Theo phương thức peyyāla này, năm bài kinh về "không thấy" đối với năm uẩn được lập thành một nhóm.)
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Cũng câu hỏi ấy — vì sao các tà kiến đa dạng sanh khởi ở đời. Này Vaccha, chính vì không thấy về sắc, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của sắc; không thấy về thọ, về tưởng, về các hành; không thấy về thức, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của thức, mà các tà kiến đa dạng ấy sanh khởi ở đời. (Theo phương thức peyyāla này, năm bài kinh về "không thấy" đối với năm uẩn được lập thành một nhóm.)
 
 #strong[Nhóm kinh 33.11–15 — Không Thông Đạt (Năm Uẩn) (Rūpaanabhisamayādisuttapañcakaṃ)]
 
@@ -3186,7 +3186,7 @@ Gió và Mưa của Thần Mây.
 
 #strong[Nhóm kinh 33.51–54 — Không Tự Mình Chứng Nghiệm (Bốn Uẩn) (Rūpaappaccakkhakammādisuttacatukkaṃ)]
 
-#super[1] Một thời, Thế Tôn trú tại Sāvatthī, trong rừng Jetavana, khu vườn của Anāthapiṇḍika. Du sĩ Vacchagotta đến gặp Thế Tôn, chào hỏi thân thiện, rồi ngồi sang một bên. Ông lại hỏi Thế Tôn cùng câu hỏi ấy — vì sao các tà kiến đa dạng sanh khởi ở đời. Này Vaccha, chính vì không tự mình chứng nghiệm về sắc, về sự tập khởi của sắc, về sự đoạn diệt của sắc, về con đường đưa đến sự đoạn diệt của sắc; không tự mình chứng nghiệm về thọ, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của thọ; không tự mình chứng nghiệm về tưởng; về các hành, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của các hành — mà các tà kiến đa dạng sanh khởi ở đời. (Nhóm bốn bài kinh về "không tự mình chứng nghiệm" đối với bốn uẩn — sắc, thọ, tưởng, hành.)
+#super[1] Một thời, Thế Tôn trú tại Sāvatthī, trong rừng Kỳ-đà Lâm (Jetavana), khu vườn của Cấp Cô Độc (Anāthapiṇḍika). Du sĩ Vacchagotta đến gặp Thế Tôn, chào hỏi thân thiện, rồi ngồi sang một bên. Ông lại hỏi Thế Tôn cùng câu hỏi ấy — vì sao các tà kiến đa dạng sanh khởi ở đời. Này Vaccha, chính vì không tự mình chứng nghiệm về sắc, về sự tập khởi của sắc, về sự đoạn diệt của sắc, về con đường đưa đến sự đoạn diệt của sắc; không tự mình chứng nghiệm về thọ, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của thọ; không tự mình chứng nghiệm về tưởng; về các hành, về sự tập khởi, sự đoạn diệt và con đường đưa đến sự đoạn diệt của các hành — mà các tà kiến đa dạng sanh khởi ở đời. (Nhóm bốn bài kinh về "không tự mình chứng nghiệm" đối với bốn uẩn — sắc, thọ, tưởng, hành.)
 
 ==== Kinh 33.55. Không Tự Mình Chứng Nghiệm Về Thức (Viññāṇaappaccakkhakammasuttaṃ)
 
@@ -3207,11 +3207,11 @@ cùng với không tự mình chứng nghiệm.
 
 ==== Kinh 34.1. Định Và Sự Nhập Định (Samādhimūlakasamāpattisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Thế Tôn dạy: "Này các thầy, có bốn hạng người tu thiền này. Bốn hạng nào? Ở đây, này các thầy, có người tu thiền khéo về định nhưng không khéo về sự nhập định. Có người khéo về sự nhập định nhưng không khéo về định. Có người chẳng khéo về định cũng chẳng khéo về sự nhập định. Và có người vừa khéo về định vừa khéo về sự nhập định. Này các thầy, trong bốn hạng ấy, hạng người tu thiền vừa khéo về định vừa khéo về sự nhập định là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất. Ví như, này các thầy, từ bò có sữa, từ sữa có sữa đông, từ sữa đông có bơ sống, từ bơ sống có bơ chín, từ bơ chín có tinh chất của bơ — trong các thứ ấy, tinh chất của bơ được xem là tối thượng. Cũng vậy, này các thầy, hạng người tu thiền vừa khéo về định vừa khéo về sự nhập định là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất trong bốn hạng người tu thiền này."
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Thế Tôn dạy: "Này các thầy, có bốn hạng người tu thiền này. Bốn hạng nào? Ở đây, này các thầy, có người tu thiền khéo về định nhưng không khéo về sự nhập định. Có người khéo về sự nhập định nhưng không khéo về định. Có người chẳng khéo về định cũng chẳng khéo về sự nhập định. Và có người vừa khéo về định vừa khéo về sự nhập định. Này các thầy, trong bốn hạng ấy, hạng người tu thiền vừa khéo về định vừa khéo về sự nhập định là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất. Ví như, này các thầy, từ bò có sữa, từ sữa có sữa đông, từ sữa đông có bơ sống, từ bơ sống có bơ chín, từ bơ chín có tinh chất của bơ — trong các thứ ấy, tinh chất của bơ được xem là tối thượng. Cũng vậy, này các thầy, hạng người tu thiền vừa khéo về định vừa khéo về sự nhập định là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất trong bốn hạng người tu thiền này."
 
 ==== Kinh 34.2. Định Và Sự An Trú (Samādhimūlakaṭhitisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Cũng theo phương thức bốn hạng người tu thiền như trên — khéo về pháp này mà không khéo về pháp kia, khéo về pháp kia mà không khéo về pháp này, không khéo về cả hai, và khéo về cả hai; hạng khéo về cả hai là tối thượng, ví như tinh chất của bơ — áp dụng cho cặp định và sự an trú định.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Cũng theo phương thức bốn hạng người tu thiền như trên — khéo về pháp này mà không khéo về pháp kia, khéo về pháp kia mà không khéo về pháp này, không khéo về cả hai, và khéo về cả hai; hạng khéo về cả hai là tối thượng, ví như tinh chất của bơ — áp dụng cho cặp định và sự an trú định.
 
 ==== Kinh 34.3. Định Và Sự Xuất Định (Samādhimūlakavuṭṭhānasuttaṃ)
 
@@ -3247,7 +3247,7 @@ cùng với không tự mình chứng nghiệm.
 
 ==== Kinh 34.11. Sự Nhập Định Và Sự An Trú (Samāpattimūlakaṭhitisuttaṃ)
 
-#super[1] Cũng tại Sāvatthī. Cũng theo phương thức bốn hạng người tu thiền như trên — cho cặp sự nhập định và sự an trú định.
+#super[1] Cũng tại Xá-vệ (Sāvatthī). Cũng theo phương thức bốn hạng người tu thiền như trên — cho cặp sự nhập định và sự an trú định.
 ==== Kinh 34.12. Sự Nhập Định Và Sự Xuất Định (Samāpattimūlakavuṭṭhānasuttaṃ)
 
 #super[1] Cũng theo cách ấy — cho cặp sự nhập định và sự xuất định.
@@ -3282,11 +3282,11 @@ cùng với không tự mình chứng nghiệm.
 
 #strong[Nhóm kinh 34.20–27 — Sự An Trú Làm Gốc (Ṭhitimūlakavuṭṭhānasuttādiaṭṭhakaṃ)]
 
-#super[1] Cũng tại Sāvatthi. Cũng theo cách bốn hạng người tu thiền như trên, lấy sự an trú định làm gốc, ghép lần lượt với tám pháp còn lại — sự xuất định, sự sẵn sàng, đối tượng, hành xứ, sự hướng tâm, sự cẩn trọng, sự bền bỉ, sự thích hợp — thành tám bài kinh, đã nói đủ theo cách như các nhóm trước. (Nhóm Sự An Trú làm gốc.)
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Cũng theo cách bốn hạng người tu thiền như trên, lấy sự an trú định làm gốc, ghép lần lượt với tám pháp còn lại — sự xuất định, sự sẵn sàng, đối tượng, hành xứ, sự hướng tâm, sự cẩn trọng, sự bền bỉ, sự thích hợp — thành tám bài kinh, đã nói đủ theo cách như các nhóm trước. (Nhóm Sự An Trú làm gốc.)
 
 #strong[Nhóm kinh 34.28–34 — Sự Xuất Định Làm Gốc (Vuṭṭhānamūlakakallitasuttādisattakaṃ)]
 
-#super[1] Cũng tại Sāvatthi. Cũng theo cách ấy, lấy sự xuất định làm gốc, ghép lần lượt với bảy pháp còn lại — sự sẵn sàng, đối tượng, hành xứ, sự hướng tâm, sự cẩn trọng, sự bền bỉ, sự thích hợp — thành bảy bài kinh. (Nhóm Sự Xuất Định làm gốc.)
+#super[1] Cũng tại Xá-vệ (Sāvatthi). Cũng theo cách ấy, lấy sự xuất định làm gốc, ghép lần lượt với bảy pháp còn lại — sự sẵn sàng, đối tượng, hành xứ, sự hướng tâm, sự cẩn trọng, sự bền bỉ, sự thích hợp — thành bảy bài kinh. (Nhóm Sự Xuất Định làm gốc.)
 
 #strong[Nhóm kinh 34.35–40 — Sự Sẵn Sàng Làm Gốc (Kallitamūlakaārammaṇasuttādichakkaṃ)]
 
@@ -3322,7 +3322,7 @@ cùng với không tự mình chứng nghiệm.
 
 ==== Kinh 34.55. Sự Bền Bỉ Và Sự Thích Hợp (Sātaccamūlakasappāyakārīsuttaṃ)
 
-#super[1] Cũng tại Sāvatthi. "Này các thầy, có bốn hạng người tu thiền này. Bốn hạng nào? Ở đây, này các thầy, có hạng người tu thiền khéo về sự bền bỉ, nhưng không khéo về sự thích hợp. Lại có hạng người tu thiền khéo về sự thích hợp, nhưng không khéo về sự bền bỉ. Lại có hạng người tu thiền vừa không khéo về sự bền bỉ, vừa không khéo về sự thích hợp. Lại có hạng người tu thiền vừa khéo về sự bền bỉ, vừa khéo về sự thích hợp. Trong đó, này các thầy, hạng người tu thiền vừa khéo về sự bền bỉ vừa khéo về sự thích hợp là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất trong bốn hạng người tu thiền này. Ví như, này các thầy, từ bò có sữa, từ sữa có sữa đông, từ sữa đông có bơ sống, từ bơ sống có bơ chín, từ bơ chín có tinh chất của bơ — trong các thứ ấy, tinh chất của bơ được xem là tối thượng. Cũng vậy, này các thầy, hạng người tu thiền vừa khéo về sự bền bỉ vừa khéo về sự thích hợp là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất trong bốn hạng người tu thiền này." Thế Tôn thuyết như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn. (Như vậy, tổng cộng có năm mươi lăm bài kinh — ghép đủ mọi cặp trong mười một pháp: định, sự nhập định, sự an trú, sự xuất định, sự sẵn sàng, đối tượng, hành xứ, sự hướng tâm, sự cẩn trọng, sự bền bỉ, sự thích hợp — theo đúng cách đã trình bày.)
+#super[1] Cũng tại Xá-vệ (Sāvatthi). "Này các thầy, có bốn hạng người tu thiền này. Bốn hạng nào? Ở đây, này các thầy, có hạng người tu thiền khéo về sự bền bỉ, nhưng không khéo về sự thích hợp. Lại có hạng người tu thiền khéo về sự thích hợp, nhưng không khéo về sự bền bỉ. Lại có hạng người tu thiền vừa không khéo về sự bền bỉ, vừa không khéo về sự thích hợp. Lại có hạng người tu thiền vừa khéo về sự bền bỉ, vừa khéo về sự thích hợp. Trong đó, này các thầy, hạng người tu thiền vừa khéo về sự bền bỉ vừa khéo về sự thích hợp là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất trong bốn hạng người tu thiền này. Ví như, này các thầy, từ bò có sữa, từ sữa có sữa đông, từ sữa đông có bơ sống, từ bơ sống có bơ chín, từ bơ chín có tinh chất của bơ — trong các thứ ấy, tinh chất của bơ được xem là tối thượng. Cũng vậy, này các thầy, hạng người tu thiền vừa khéo về sự bền bỉ vừa khéo về sự thích hợp là hạng cao nhất, tối thượng nhất, đứng đầu nhất, cao tột nhất, thù thắng nhất trong bốn hạng người tu thiền này." Thế Tôn thuyết như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn. (Như vậy, tổng cộng có năm mươi lăm bài kinh — ghép đủ mọi cặp trong mười một pháp: định, sự nhập định, sự an trú, sự xuất định, sự sẵn sàng, đối tượng, hành xứ, sự hướng tâm, sự cẩn trọng, sự bền bỉ, sự thích hợp — theo đúng cách đã trình bày.)
 
 #strong[(Tương Ưng Thiền đã hết.)]
 
@@ -3337,9 +3337,9 @@ sự bền bỉ, và cả sự thích hợp nữa.
 
 #strong[Kệ tổng thuyết các phẩm]
 
-Uẩn và Tương Ưng Rādha, \
+Uẩn và Tương Ưng La-đà (Rādha), \
 Tà Kiến, Nhập Vào, Sanh Khởi; \
-Cấu Uế và Tôn giả Sāriputta, \
+Cấu Uế và Tôn giả Xá-lợi-phất (Sāriputta), \
 Rồng, Kim-xí-điểu, Càn-thát-bà; \
 Thần Mây, Du sĩ Vaccha và Thiền — \
 đó là mười ba tương ưng trong Phẩm Uẩn.
