@@ -22,7 +22,7 @@ _Trạng thái: đã dịch 195/195 kinh/nhóm; đã trọn tập; đã viết l
 
 === AN 2.1. Lỗi Lầm (Vajjasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, Jetavana, vườn ông Anāthapiṇḍika. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói:
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), vườn ông Cấp Cô Độc (Anāthapiṇḍika). Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói:
 
 "Này các thầy, có hai loại lỗi lầm. Hai loại nào? Lỗi lầm thấy ngay trong đời này, và lỗi lầm thuộc về đời sau.
 
@@ -134,11 +134,11 @@ Này các thầy, trong một vụ tranh tụng mà cả hai đều không tự 
 
 === AN 2.16
 
-#super[1] Rồi có một vị Bà-la-môn đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Vị Bà-la-môn ấy bạch Thế Tôn: "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?"
+#super[1] Rồi có một vị Bà-la-môn đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Vị Bà-la-môn ấy bạch Thế Tôn: "Thưa Tôn giả Cù-đàm (Gotama), do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?"
 
 "Này Bà-la-môn, chính do sống phi pháp, sống bất chánh mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
 
-"Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?"
+"Thưa Tôn giả Cù-đàm (Gotama), do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?"
 
 "Này Bà-la-môn, chính do sống đúng pháp, sống chân chánh mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời."
 
@@ -146,11 +146,11 @@ Này các thầy, trong một vụ tranh tụng mà cả hai đều không tự 
 
 === AN 2.17
 
-#super[1] Rồi Bà-la-môn Jāṇussoṇi đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Bà-la-môn Jāṇussoṇi bạch Thế Tôn: "Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?"
+#super[1] Rồi Bà-la-môn Sanh Lậu (Jāṇussoṇi) đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Bà-la-môn Sanh Lậu (Jāṇussoṇi) bạch Thế Tôn: "Thưa Tôn giả Cù-đàm (Gotama), do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục?"
 
 "Này Bà-la-môn, chính do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi dữ, ác thú, đọa xứ, địa ngục."
 
-"Thưa Tôn giả Gotama, do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?"
+"Thưa Tôn giả Cù-đàm (Gotama), do nhân gì, do duyên gì mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời?"
 
 "Này Bà-la-môn, cũng chính do có làm và có không làm mà ở đây có một số chúng sinh, sau khi thân hoại mạng chung, sinh vào cõi lành, cõi trời."
 
@@ -166,7 +166,7 @@ Còn ở đây có người đã làm thiện hạnh về thân, chưa làm ác 
 
 === AN 2.18
 
-#super[1] Rồi Tôn giả Ānanda đến, đảnh lễ, ngồi sang một bên. Thế Tôn nói với Tôn giả Ānanda đang ngồi một bên: "Này Ānanda, Ta khẳng định một cách dứt khoát rằng ác hạnh về thân, ác hạnh về lời nói, ác hạnh về ý là những điều không nên làm."
+#super[1] Rồi Tôn giả A-nan (Ānanda) đến, đảnh lễ, ngồi sang một bên. Thế Tôn nói với Tôn giả A-nan (Ānanda) đang ngồi một bên: "Này Ānanda, Ta khẳng định một cách dứt khoát rằng ác hạnh về thân, ác hạnh về lời nói, ác hạnh về ý là những điều không nên làm."
 
 "Bạch Thế Tôn, khi ác hạnh về thân, lời nói, ý mà Thế Tôn đã khẳng định là không nên làm, nếu cứ làm thì tai hại nào có thể trông đợi?"
 
@@ -268,11 +268,11 @@ Còn ai khuyến khích cha mẹ không có lòng tin an trú vào lòng tin đ�
 
 === AN 2.35
 
-#super[1] Rồi có một vị Bà-la-môn đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Vị Bà-la-môn ấy bạch Thế Tôn: "Tôn giả Gotama chủ trương thuyết gì, tuyên bố điều gì?"
+#super[1] Rồi có một vị Bà-la-môn đến gặp Thế Tôn, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Vị Bà-la-môn ấy bạch Thế Tôn: "Tôn giả Cù-đàm (Gotama) chủ trương thuyết gì, tuyên bố điều gì?"
 
 "Này Bà-la-môn, Ta vừa là người chủ trương có hành động, vừa là người chủ trương không có hành động."
 
-"Nhưng làm sao Tôn giả Gotama vừa chủ trương có hành động vừa chủ trương không có hành động được?"
+"Nhưng làm sao Tôn giả Cù-đàm (Gotama) vừa chủ trương có hành động vừa chủ trương không có hành động được?"
 
 "Này Bà-la-môn, Ta tuyên bố không có hành động đối với ác hạnh về thân, lời nói, ý — Ta tuyên bố không có hành động đối với nhiều loại pháp ác bất thiện. Và Ta tuyên bố có hành động đối với thiện hạnh về thân, lời nói, ý — Ta tuyên bố có hành động đối với nhiều loại pháp thiện. Như vậy, này Bà-la-môn, Ta vừa là người chủ trương có hành động, vừa là người chủ trương không có hành động."
 
@@ -280,7 +280,7 @@ Còn ai khuyến khích cha mẹ không có lòng tin an trú vào lòng tin đ�
 
 === AN 2.36
 
-#super[1] Rồi gia chủ Anāthapiṇḍika đến, đảnh lễ, ngồi sang một bên. Gia chủ Anāthapiṇḍika bạch Thế Tôn: "Bạch Thế Tôn, ở đời có bao nhiêu vị xứng đáng được cúng dường, và nên bố thí ở đâu?"
+#super[1] Rồi gia chủ Cấp Cô Độc (Anāthapiṇḍika) đến, đảnh lễ, ngồi sang một bên. Gia chủ Cấp Cô Độc (Anāthapiṇḍika) bạch Thế Tôn: "Bạch Thế Tôn, ở đời có bao nhiêu vị xứng đáng được cúng dường, và nên bố thí ở đâu?"
 
 "Này gia chủ, ở đời có hai hạng người xứng đáng được cúng dường: bậc hữu học, và bậc vô học. Này gia chủ, đó là hai hạng người xứng đáng được cúng dường ở đời, và nên bố thí ở đó."
 
@@ -294,9 +294,9 @@ cúng dường nơi ấy được quả lớn."
 
 === AN 2.37
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, Jetavana, vườn ông Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Sāriputta trú ở Sāvatthī, tại giảng đường Đông Viên, lâu đài của Migāramātā. Tại đó, Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." "Thưa hiền giả", các Tỷ-kheo ấy đáp lại. Tôn giả Sāriputta nói: "Này chư hiền, tôi sẽ thuyết giảng về người bị trói buộc nội tại và người bị trói buộc ngoại tại. Hãy lắng nghe, khéo tác ý, tôi sẽ nói." "Xin vâng, thưa hiền giả", các Tỷ-kheo ấy đáp lại. Tôn giả Sāriputta nói:
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), vườn ông Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Xá-lợi-phất (Sāriputta) trú ở Xá-vệ (Sāvatthī), tại giảng đường Đông Viên, lâu đài của Lộc Mẫu (Migāramātā). Tại đó, Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả Tỷ-kheo." "Thưa hiền giả", các Tỷ-kheo ấy đáp lại. Tôn giả Sāriputta nói: "Này chư hiền, tôi sẽ thuyết giảng về người bị trói buộc nội tại và người bị trói buộc ngoại tại. Hãy lắng nghe, khéo tác ý, tôi sẽ nói." "Xin vâng, thưa hiền giả", các Tỷ-kheo ấy đáp lại. Tôn giả Sāriputta nói:
 
-"Này chư hiền, thế nào là người bị trói buộc nội tại? Ở đây có vị Tỷ-kheo có giới hạnh, sống chế ngự trong sự phòng hộ giới bổn Pātimokkha, đầy đủ oai nghi chánh hạnh, thấy sự đáng sợ trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó. Từ đó mệnh chung, vị ấy còn trở lại, trở lại cõi này. Này chư hiền, đó gọi là người bị trói buộc nội tại, còn trở lại cõi này.
+"Này chư hiền, thế nào là người bị trói buộc nội tại? Ở đây có vị Tỷ-kheo có giới hạnh, sống chế ngự trong sự phòng hộ giới bổn Ba-la-đề-mộc-xoa (Pātimokkha), đầy đủ oai nghi chánh hạnh, thấy sự đáng sợ trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó. Từ đó mệnh chung, vị ấy còn trở lại, trở lại cõi này. Này chư hiền, đó gọi là người bị trói buộc nội tại, còn trở lại cõi này.
 
 Này chư hiền, thế nào là người bị trói buộc ngoại tại? Ở đây có vị Tỷ-kheo có giới hạnh như trên, chứng đạt và an trú trong một tâm giải thoát an tịnh nào đó. Sau khi thân hoại mạng chung, vị ấy sinh vào một cõi trời nào đó. Từ đó mệnh chung, vị ấy không còn trở lại cõi này. Này chư hiền, đó gọi là người bị trói buộc ngoại tại, không còn trở lại cõi này.
 
@@ -304,7 +304,7 @@ Lại nữa, này chư hiền, có vị Tỷ-kheo có giới hạnh như trên. 
 
 Rồi một số đông chư thiên có tâm bình đẳng đến gặp Thế Tôn, đảnh lễ, đứng sang một bên, bạch Thế Tôn: "Bạch Thế Tôn, Tôn giả Sāriputta đang thuyết giảng cho các Tỷ-kheo tại giảng đường Đông Viên về người bị trói buộc nội tại và ngoại tại. Bạch Thế Tôn, hội chúng ấy rất hoan hỷ. Lành thay, bạch Thế Tôn, xin Thế Tôn hãy vì lòng thương tưởng mà đi đến chỗ Tôn giả Sāriputta." Thế Tôn im lặng nhận lời.
 
-Rồi Thế Tôn — giống như một người có sức mạnh duỗi thẳng cánh tay đang co lại, hay co lại cánh tay đang duỗi thẳng — đã biến mất tại Jetavana và hiện ra trước mặt Tôn giả Sāriputta tại giảng đường Đông Viên. Thế Tôn ngồi xuống chỗ đã soạn sẵn. Tôn giả Sāriputta cũng đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Sāriputta đang ngồi một bên:
+Rồi Thế Tôn — giống như một người có sức mạnh duỗi thẳng cánh tay đang co lại, hay co lại cánh tay đang duỗi thẳng — đã biến mất tại Kỳ-đà Lâm (Jetavana) và hiện ra trước mặt Tôn giả Sāriputta tại giảng đường Đông Viên. Thế Tôn ngồi xuống chỗ đã soạn sẵn. Tôn giả Sāriputta cũng đảnh lễ Thế Tôn rồi ngồi xuống một bên. Thế Tôn nói với Tôn giả Sāriputta đang ngồi một bên:
 
 "Này Sāriputta, có một số đông chư thiên có tâm bình đẳng đã đi đến chỗ Ta, thưa với Ta y như vậy. Này Sāriputta, các vị chư thiên ấy đứng thành mười vị, hai mươi vị, ba mươi vị, bốn mươi vị, năm mươi vị, sáu mươi vị, mà vẫn chỉ chiếm một khoảng không gian nhỏ bằng đầu mũi dùi, không hề chen lấn lẫn nhau. Này Sāriputta, có lẽ ông nghĩ rằng: 'Chắc hẳn tâm của các vị chư thiên ấy đã được tu tập từ trước, đến mức có thể đứng như vậy mà không chen lấn.' Nhưng này Sāriputta, không nên hiểu như vậy. Chính ngay tại đây, tâm của các vị chư thiên ấy đã được tu tập đến mức như vậy.
 
@@ -312,11 +312,11 @@ Vì vậy, này Sāriputta, các thầy hãy học như vầy: 'Chúng ta sẽ c
 
 === AN 2.38
 
-#super[1] Tôi nghe như vầy. Một thời, Tôn giả Mahākaccāna trú tại Varaṇā, bên bờ sông Kaddamadaha. Rồi Bà-la-môn Ārāmadaṇḍa đến gặp Tôn giả Mahākaccāna, chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Bà-la-môn Ārāmadaṇḍa thưa với Tôn giả Mahākaccāna: "Thưa Tôn giả Kaccāna, do nhân gì, do duyên gì mà các Sát-đế-lỵ tranh chấp với các Sát-đế-lỵ, các Bà-la-môn tranh chấp với các Bà-la-môn, các gia chủ tranh chấp với các gia chủ?"
+#super[1] Tôi nghe như vầy. Một thời, Tôn giả Đại Ca-chiên-diên (Mahākaccāna) trú tại Varaṇā, bên bờ sông Kaddamadaha. Rồi Bà-la-môn Ārāmadaṇḍa đến gặp Tôn giả Đại Ca-chiên-diên (Mahākaccāna), chào hỏi, trao đổi vài lời thăm hỏi thân thiện, rồi ngồi xuống một bên. Bà-la-môn Ārāmadaṇḍa thưa với Tôn giả Mahākaccāna: "Thưa Tôn giả Ma- ha Ca-chiên-diên (Kaccāna), do nhân gì, do duyên gì mà các Sát-đế-lỵ tranh chấp với các Sát-đế-lỵ, các Bà-la-môn tranh chấp với các Bà-la-môn, các gia chủ tranh chấp với các gia chủ?"
 
 "Này Bà-la-môn, chính do sự đắm say, trói buộc, tham luyến, mê mẩn, chấp chặt vào dục tham mà các Sát-đế-lỵ tranh chấp với các Sát-đế-lỵ, các Bà-la-môn tranh chấp với các Bà-la-môn, các gia chủ tranh chấp với các gia chủ."
 
-"Thưa Tôn giả Kaccāna, vậy do nhân gì mà các Sa-môn tranh chấp với các Sa-môn?"
+"Thưa Tôn giả Ma- ha Ca-chiên-diên (Kaccāna), vậy do nhân gì mà các Sa-môn tranh chấp với các Sa-môn?"
 
 "Này Bà-la-môn, chính do sự đắm say, trói buộc, tham luyến, mê mẩn, chấp chặt vào kiến tham mà các Sa-môn tranh chấp với các Sa-môn."
 
@@ -326,13 +326,13 @@ Vì vậy, này Sāriputta, các thầy hãy học như vầy: 'Chúng ta sẽ c
 
 "Người ấy là ai?"
 
-"Này Bà-la-môn, ở phương Đông có một thành phố tên là Sāvatthī. Tại đó, hiện nay Thế Tôn đang trú, bậc A-la-hán, Chánh Đẳng Giác. Chính Thế Tôn ấy đã vượt qua cả hai điều ấy."
+"Này Bà-la-môn, ở phương Đông có một thành phố tên là Xá-vệ (Sāvatthī). Tại đó, hiện nay Thế Tôn đang trú, bậc A-la-hán, Chánh Đẳng Giác. Chính Thế Tôn ấy đã vượt qua cả hai điều ấy."
 
-Nghe vậy, Bà-la-môn Ārāmadaṇḍa đứng dậy khỏi chỗ ngồi, đắp y vai trái, quỳ gối phải xuống đất, chắp tay hướng về Thế Tôn, thốt lên lời cảm hứng ba lần: "Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy!" Rồi thưa: "Thật kỳ diệu thay, thưa Tôn giả Kaccāna! Con xin quy y Thế Tôn Gotama ấy, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Kaccāna nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
+Nghe vậy, Bà-la-môn Ārāmadaṇḍa đứng dậy khỏi chỗ ngồi, đắp y vai trái, quỳ gối phải xuống đất, chắp tay hướng về Thế Tôn, thốt lên lời cảm hứng ba lần: "Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy! Kính lễ Thế Tôn, bậc A-la-hán, Chánh Đẳng Giác ấy!" Rồi thưa: "Thật kỳ diệu thay, thưa Tôn giả Kaccāna! Con xin quy y Thế Tôn Cù-đàm (Gotama) ấy, quy y Pháp, và quy y chúng Tăng. Mong Tôn giả Kaccāna nhận con làm đệ tử tại gia, từ nay cho đến trọn đời, con xin quy y."
 
 === AN 2.39
 
-#super[1] Một thời Tôn giả Mahākaccāna trú ở Madhurā, tại rừng Gundā. Rồi Bà-la-môn Kandarāyana đến gặp Tôn giả Mahākaccāna, chào hỏi rồi ngồi xuống một bên, thưa rằng: "Thưa Tôn giả Kaccāna, tôi nghe nói Sa-môn Kaccāna không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều. Điều ấy có đúng như vậy không? Đó thật là điều không phải phép."
+#super[1] Một thời Tôn giả Đại Ca-chiên-diên (Mahākaccāna) trú ở Ma-đu-la (Madhurā), tại rừng Gundā. Rồi Bà-la-môn Kandarāyana đến gặp Tôn giả Đại Ca-chiên-diên (Mahākaccāna), chào hỏi rồi ngồi xuống một bên, thưa rằng: "Thưa Tôn giả Ma- ha Ca-chiên-diên (Kaccāna), tôi nghe nói Sa-môn Ma- ha Ca-chiên-diên (Kaccāna) không đảnh lễ, không đứng dậy, không mời ngồi đối với các vị Bà-la-môn già cả, lớn tuổi, cao niên, đã trải qua nhiều năm tháng, đến tuổi xế chiều. Điều ấy có đúng như vậy không? Đó thật là điều không phải phép."
 
 "Này Bà-la-môn, Thế Tôn, bậc biết, bậc thấy, A-la-hán, Chánh Đẳng Giác, đã tuyên bố có địa vị bậc trưởng lão và địa vị người trẻ tuổi.
 
@@ -798,19 +798,19 @@ Này các thầy, thế nào là cách sống an lạc? Ở đây vị Tỷ-kheo
 
 === AN 2.131
 
-#super[1] "Này các thầy, vị Tỷ-kheo có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như Sāriputta và Moggallāna.' Này các thầy, Sāriputta và Moggallāna chính là thước đo, là chuẩn mực cho các Tỷ-kheo đệ tử của Ta."
+#super[1] "Này các thầy, vị Tỷ-kheo có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như Xá-lợi-phất (Sāriputta) và Mục-kiền-liên (Moggallāna).' Này các thầy, Xá-lợi-phất (Sāriputta) và Mục-kiền-liên (Moggallāna) chính là thước đo, là chuẩn mực cho các Tỷ-kheo đệ tử của Ta."
 
 === AN 2.132
 
-#super[1] "Này các thầy, vị Tỷ-kheo-ni có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như Tỷ-kheo-ni Khemā và Uppalavaṇṇā.' Này các thầy, Tỷ-kheo-ni Khemā và Uppalavaṇṇā chính là thước đo, là chuẩn mực cho các Tỷ-kheo-ni đệ tử của Ta."
+#super[1] "Này các thầy, vị Tỷ-kheo-ni có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như Tỷ-kheo-ni An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā).' Này các thầy, Tỷ-kheo-ni An Hòa (Khemā) và Liên Hoa Sắc (Uppalavaṇṇā) chính là thước đo, là chuẩn mực cho các Tỷ-kheo-ni đệ tử của Ta."
 
 === AN 2.133
 
-#super[1] "Này các thầy, người cư sĩ có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như gia chủ Citta và Hatthaka Āḷavaka.' Này các thầy, gia chủ Citta và Hatthaka Āḷavaka chính là thước đo, là chuẩn mực cho các cư sĩ đệ tử của Ta."
+#super[1] "Này các thầy, người cư sĩ có lòng tin, khi ước nguyện chân chính, nên ước nguyện như vầy: 'Mong ta được như gia chủ Citta và Hatthaka A-la-ba-ca (Āḷavaka).' Này các thầy, gia chủ Citta và Hatthaka Āḷavaka chính là thước đo, là chuẩn mực cho các cư sĩ đệ tử của Ta."
 
 === AN 2.134
 
-#super[1] "Này các thầy, một nữ cư sĩ có lòng tin, khi phát nguyện chân chính, nên phát nguyện như vầy: 'Mong ta được như nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā.' Này các thầy, nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nandamātā chính là thước đo, là chuẩn mực cho các nữ đệ tử cư sĩ của Ta."
+#super[1] "Này các thầy, một nữ cư sĩ có lòng tin, khi phát nguyện chân chính, nên phát nguyện như vầy: 'Mong ta được như nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nan-đa-mẫu (Nandamātā).' Này các thầy, nữ cư sĩ Khujjuttarā và nữ cư sĩ Velukaṇḍakī Nan-đa-mẫu (Nandamātā) chính là thước đo, là chuẩn mực cho các nữ đệ tử cư sĩ của Ta."
 
 === AN 2.135
 

@@ -13,11 +13,11 @@ _Trạng thái: đã dịch 50/50 đơn vị; đã trọn tập; đã viết l�
 
 === Pj 1. Verañja (Vinayapiṭake Pārājikapāḷi Verañjakaṇḍaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Verañjā, dưới gốc cây nimba Naḷeru, cùng
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Bê-lanh-xa (Verañjā), dưới gốc cây nimba Naḷeru, cùng
 với đại chúng Tỷ-kheo gồm khoảng năm trăm vị. Bà-la-môn Verañja nghe tiếng đồn:
-"Sa-môn Gotama, dòng Sakya, đã xuất gia từ gia tộc Sakya, đang trú ở Verañjā,
+"Sa-môn Cù-đàm (Gotama), dòng Thích-ca (Sakya), đã xuất gia từ gia tộc Thích-ca (Sakya), đang trú ở Verañjā,
 dưới gốc cây nimba Naḷeru, cùng với đại chúng Tỷ-kheo gồm khoảng năm trăm vị.
-Tiếng lành về Tôn giả Gotama ấy đã được đồn khắp như vầy: 'Thế Tôn ấy là bậc
+Tiếng lành về Tôn giả Cù-đàm (Gotama) ấy đã được đồn khắp như vầy: 'Thế Tôn ấy là bậc
 A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng
 Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn. Ngài tự mình chứng tri
 bằng thắng trí đối với thế gian này cùng với chư thiên, Ma vương, Phạm thiên,
@@ -204,7 +204,7 @@ mùa mưa với khoảng năm trăm con ngựa. Họ đã để dành, tại cá
 ngựa, mỗi vị Tỷ-kheo một pattha gạo tấm. Các Tỷ-kheo vào buổi sáng đắp y, cầm
 y bát, vào Verañjā khất thực; không nhận được đồ ăn, họ đi khất thực tại các
 vòng chuồng ngựa, mang mỗi vị một pattha gạo tấm về tinh xá, giã đi giã lại
-trong cối rồi thọ dụng. Còn Tôn giả Ānanda thì nghiền pattha gạo tấm trên
+trong cối rồi thọ dụng. Còn Tôn giả A-nan (Ānanda) thì nghiền pattha gạo tấm trên
 đá, dâng lên Thế Tôn. Thế Tôn thọ dụng món ấy.
 
 Thế Tôn nghe tiếng cối giã. Dù biết, các Như Lai vẫn hỏi; dù biết, các Như
@@ -214,12 +214,12 @@ với điều không liên hệ đến lợi ích, các Như Lai đã đoạn tu
 Tôn hỏi các Tỷ-kheo theo hai cách: "Ta sẽ thuyết pháp", hoặc "Ta sẽ chế
 định điều học cho các đệ tử."
 
-Thế Tôn gọi Tôn giả Ānanda: "Này Ānanda, tiếng cối giã ấy là gì?" Tôn giả
+Thế Tôn gọi Tôn giả A-nan (Ānanda): "Này Ānanda, tiếng cối giã ấy là gì?" Tôn giả
 Ānanda trình sự việc ấy lên Thế Tôn. "Lành thay, lành thay, này Ānanda! Các
 thầy, những bậc chân nhân, đã chiến thắng. Đời sau sẽ khinh thường cơm gạo
 thịt."
 
-#super[17] Tôn giả Mahāmoggallāna đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống một
+#super[17] Tôn giả Mục Kiền Liên (Mahāmoggallāna) đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống một
 bên. Tôn giả bạch Thế Tôn: "Bạch Thế Tôn, hiện nay Verañjā đang nạn đói, khó
 kiếm sống, xương trắng phơi, người ta sống nhờ thẻ phân phát. Không dễ nuôi
 mạng bằng khất thực nhặt nhạnh. Bạch Thế Tôn, mặt dưới của đại địa này rất
@@ -227,14 +227,14 @@ phong phú — vị ngọt như mật ong trong, không có xác ong. Lành thay
 Thế Tôn, nếu con lật trái đại địa. Các Tỷ-kheo sẽ thọ dụng tinh chất lớp
 đất."
 
-"Này Moggallāna, còn những chúng sanh nương nơi đại địa, ông sẽ làm gì với
+"Này Mục-kiền-liên (Moggallāna), còn những chúng sanh nương nơi đại địa, ông sẽ làm gì với
 chúng?"
 
 "Bạch Thế Tôn, con sẽ hóa hiện một bàn tay — như đại địa. Những chúng sanh
 nương nơi đại địa, con sẽ dời chúng sang đó. Con sẽ dùng một tay lật trái
 đại địa."
 
-"Thôi, này Moggallāna, chớ có thích lật trái đại địa. Chúng sanh có thể bị
+"Thôi, này Mục-kiền-liên (Moggallāna), chớ có thích lật trái đại địa. Chúng sanh có thể bị
 đảo lộn tưởng."
 
 "Lành thay, bạch Thế Tôn, nếu toàn thể chúng Tỷ-kheo đi khất thực tại
@@ -243,19 +243,19 @@ Uttarakuru."
 "Thôi, này Moggallāna, chớ có thích để toàn thể chúng Tỷ-kheo đi khất thực
 tại Uttarakuru."
 
-#super[18] Tôn giả Sāriputta, khi đang độc cư thiền tịnh, khởi lên tâm tư như
+#super[18] Tôn giả Xá-lợi-phất (Sāriputta), khi đang độc cư thiền tịnh, khởi lên tâm tư như
 vầy: "Phạm hạnh của những Đức Phật Thế Tôn nào đã không tồn tại lâu dài?
 Phạm hạnh của những Đức Phật Thế Tôn nào đã tồn tại lâu dài?" Vào buổi
 chiều, Tôn giả xuất khỏi độc cư, đến chỗ Thế Tôn, đảnh lễ, rồi ngồi xuống
 một bên. Tôn giả bạch Thế Tôn lại câu hỏi ấy.
 
-"Này Sāriputta, Phạm hạnh của Thế Tôn Vipassī, của Thế Tôn Sikhī, của Thế
-Tôn Vessabhū đã không tồn tại lâu dài. Này Sāriputta, Phạm hạnh của Thế Tôn
-Kakusandha, của Thế Tôn Koṇāgamana, của Thế Tôn Kassapa đã tồn tại lâu
+"Này Xá-lợi-phất (Sāriputta), Phạm hạnh của Thế Tôn Tỳ-bà-thi (Vipassī), của Thế Tôn Thi-khí (Sikhī), của Thế
+Tôn Tỳ-xá- bà (Vessabhū) đã không tồn tại lâu dài. Này Sāriputta, Phạm hạnh của Thế Tôn
+Câu-lâu-tôn (Kakusandha), của Thế Tôn Câu-na-hàm (Koṇāgamana), của Thế Tôn Ca-diếp (Kassapa) đã tồn tại lâu
 dài."
 
 #super[19] "Bạch Thế Tôn, do nhân gì, do duyên gì, mà Phạm hạnh của Thế Tôn
-Vipassī, của Thế Tôn Sikhī, của Thế Tôn Vessabhū đã không tồn tại lâu dài?"
+Tỳ-bà-thi (Vipassī), của Thế Tôn Thi-khí (Sikhī), của Thế Tôn Tỳ-xá- bà (Vessabhū) đã không tồn tại lâu dài?"
 
 "Này Sāriputta, Thế Tôn Vipassī, Thế Tôn Sikhī, Thế Tôn Vessabhū uể oải
 thuyết pháp rộng rãi cho các đệ tử. Giáo pháp của các Ngài thì ít: Kinh,
@@ -284,7 +284,7 @@ ly tham bước vào khu rừng ấy, phần lớn lông tóc dựng đứng. N�
 Sikhī, của Thế Tôn Vessabhū đã không tồn tại lâu dài."
 
 #super[20] "Bạch Thế Tôn, do nhân gì, do duyên gì, mà Phạm hạnh của Thế Tôn
-Kakusandha, của Thế Tôn Koṇāgamana, của Thế Tôn Kassapa đã tồn tại lâu
+Câu-lâu-tôn (Kakusandha), của Thế Tôn Câu-na-hàm (Koṇāgamana), của Thế Tôn Ca-diếp (Kassapa) đã tồn tại lâu
 dài?"
 
 "Này Sāriputta, Thế Tôn Kakusandha, Thế Tôn Koṇāgamana, Thế Tôn Kassapa
@@ -361,10 +361,10 @@ làm phấn chấn và làm hoan hỷ Bà-la-môn Verañja, rồi đứng dậy 
 mà ra đi.
 
 Thế Tôn trú ở Verañjā cho đến khi vừa ý, rồi đi lần lượt đến Soreyya,
-Saṅkassa, Kaṇṇakujja, đến bến Payāga, vượt sông Gaṅgā, rồi đến Bārāṇasī.
-Thế Tôn trú ở Bārāṇasī cho đến khi vừa ý, rồi ra đi du hành hướng đến
-Vesālī. Trong khi tuần tự du hành, Ngài đến Vesālī. Tại đấy, Thế Tôn trú ở
-Vesālī, tại Mahāvana, giảng đường Kūṭāgārasālā.
+Saṅkassa, Kaṇṇakujja, đến bến Payāga, vượt sông Hằng (Gaṅgā), rồi đến Ba-la-nại (Bārāṇasī).
+Thế Tôn trú ở Ba-la-nại (Bārāṇasī) cho đến khi vừa ý, rồi ra đi du hành hướng đến
+Tỳ-xá-ly (Vesālī). Trong khi tuần tự du hành, Ngài đến Tỳ-xá-ly (Vesālī). Tại đấy, Thế Tôn trú ở
+Vesālī, tại Đại Lâm (Mahāvana), giảng đường Giảng đường Trùng Các (Kūṭāgārasālā).
 
 #strong[(Hết tụng phẩm Verañja.)]
 
@@ -455,10 +455,10 @@ cho con bỏ nhà xuất gia. Xin Thế Tôn cho con xuất gia."
 
 Sudinna được xuất gia bên Thế Tôn, được thọ cụ túc. Mới thọ cụ túc không
 lâu, Tôn giả nhận các hạnh đầu-đà: ở rừng, ăn khất thực, mặc y phấn tảo,
-đi khất thực không bỏ nhà nào. Tôn giả nương một làng của người Vajjī
+đi khất thực không bỏ nhà nào. Tôn giả nương một làng của người Bạt-kỳ (Vajjī)
 mà ở.
 
-Bấy giờ xứ Vajjī đói kém, khó sống, xương trắng, dân phải chia phần mà
+Bấy giờ xứ Bạt-kỳ (Vajjī) đói kém, khó sống, xương trắng, dân phải chia phần mà
 ăn. Không dễ nuôi mạng bằng nhặt lúa rơi và cố sức xin. Tôn giả nghĩ:
 "Nay xứ Vajjī đói kém, khó sống, xương trắng, dân phải chia phần. Không
 dễ nuôi mạng bằng nhặt lúa rơi và cố sức xin. Ta có nhiều bà con ở
@@ -517,7 +517,7 @@ Lần thứ hai, lần thứ ba, cha nói lại. Ông vẫn từ chối. Rồi �
 "Này Sudinna, hãy nói."
 
 "Vậy này gia chủ, hãy cho làm những bao gai thật lớn, đổ đầy vàng bạc,
-cho xe chở đi, đổ xuống giữa dòng sông Gaṅgā. Vì sao? Sợ, khiếp, lông
+cho xe chở đi, đổ xuống giữa dòng sông Hằng (Gaṅgā). Vì sao? Sợ, khiếp, lông
 dựng, hay phải canh giữ, những gì từ đống ấy mà ra sẽ không còn đụng
 đến ông."
 
@@ -547,7 +547,7 @@ và làm phước. Hãy về mà hoàn tục."
 
 Lần thứ hai mẹ nói lại. Lần thứ ba mẹ nói: "Này Sudinna, nhà này giàu,
 nhiều vàng bạc, nhiều của, nhiều lúa. Vậy hãy cho dù chỉ một hạt giống.
-Đừng để người Licchavi mang đi sản nghiệp không con của chúng ta."
+Đừng để người Ly- xa tử (Licchavi) mang đi sản nghiệp không con của chúng ta."
 
 "Thưa mẹ, việc ấy con làm được."
 
@@ -577,7 +577,7 @@ của và làm phước. Hãy về mà hoàn tục."
 "Thưa mẹ, con không dám, con không kham. Con vui sống Phạm hạnh."
 
 Lần thứ hai mẹ nói lại. Lần thứ ba mẹ nói: "Vậy hãy cho dù chỉ một hạt
-giống. Đừng để người Licchavi mang đi sản nghiệp không con của chúng ta."
+giống. Đừng để người Ly- xa tử (Licchavi) mang đi sản nghiệp không con của chúng ta."
 
 "Thưa mẹ, việc ấy con làm được."
 
@@ -883,7 +883,7 @@ các vị kia. Vì vậy nói "không được sống chung".
 #strong[Tổng thuyết kệ các trường hợp đã xử:]
 Khỉ cái cùng các Vajjiputta, \
 kẻ tại gia, kẻ lõa thể và ngoại đạo; \
-cô bé cùng Uppalavaṇṇā, \
+cô bé cùng Liên Hoa Sắc (Uppalavaṇṇā), \
 rồi hai việc về tướng trạng.
 
 Mẹ, con gái cùng chị em, \
@@ -897,7 +897,7 @@ nāga cái, dạ-xoa cái, ngạ quỷ cái, \
 hoàng môn, căn hư, sự chạm.
 
 Ở Bhaddiya, bậc A-la-hán ngủ, \
-bốn việc nữa tại Sāvatthī; \
+bốn việc nữa tại Xá-vệ (Sāvatthī); \
 ba việc ở Vesālī, vòng hoa, \
 cảnh trong mộng, vị Bhārukaccha.
 
@@ -910,7 +910,7 @@ lẫn nhau, vị xuất gia già, con nai.
 
 #super[44] Lúc bấy giờ, có Tỷ-kheo nọ hành dâm với con khỉ cái. Vị ấy lo âu: “Thế Tôn đã chế điều học, chẳng lẽ ta đã phạm tội bất cộng trụ?” Trình sự việc ấy lên Thế Tôn. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, nhiều Tỷ-kheo con nhà Vajjī ở Vesālī chưa từ bỏ học pháp, chưa bày tỏ sự yếu đuối, liền hành dâm. Họ lo âu: “Thế Tôn đã chế điều học, chẳng lẽ chúng tôi đã phạm tội bất cộng trụ?” Trình sự việc ấy lên Thế Tôn. “Này các thầy, các thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ nghĩ “như vậy ta sẽ vô tội,” lấy tướng người tại gia mà hành dâm. Vị ấy lo âu: “Thế Tôn đã chế điều học, chẳng lẽ ta đã phạm tội bất cộng trụ?” Trình sự việc ấy lên Thế Tôn. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ nghĩ “như vậy ta sẽ vô tội,” ở lõa thể mà hành dâm. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ nghĩ “như vậy ta sẽ vô tội,” mặc y cỏ kusa, mặc y vỏ cây, mặc y mảnh gỗ, mặc y lông người, mặc y lông đuôi, mặc y cánh cú, mặc da linh dương, rồi hành dâm. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo khất thực thấy một cô bé nằm trên ghế, khởi tâm say đắm, đưa ngón cái vào nữ căn. Cô bé chết. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tội tăng tàn.”
 
-#super[45] Lúc bấy giờ, có thanh niên nọ tâm bị trói buộc nơi Tỷ-kheo-ni Uppalavaṇṇā. Thanh niên ấy, khi Tỷ-kheo-ni Uppalavaṇṇā vào làng khất thực, liền vào am, núp ở đó. Tỷ-kheo-ni Uppalavaṇṇā sau bữa ăn, từ khất thực trở về, rửa chân, vào am, ngồi trên giường. Thanh niên ấy ôm lấy Tỷ-kheo-ni Uppalavaṇṇā, làm nhục. Tỷ-kheo-ni Uppalavaṇṇā trình sự việc ấy cho các Tỷ-kheo-ni. Các Tỷ-kheo-ni trình cho các Tỷ-kheo. Các Tỷ-kheo trình sự việc ấy lên Thế Tôn. “Này các thầy, vô tội cho người không ưng thuận.”
+#super[45] Lúc bấy giờ, có thanh niên nọ tâm bị trói buộc nơi Tỷ-kheo-ni Liên Hoa Sắc (Uppalavaṇṇā). Thanh niên ấy, khi Tỷ-kheo-ni Uppalavaṇṇā vào làng khất thực, liền vào am, núp ở đó. Tỷ-kheo-ni Uppalavaṇṇā sau bữa ăn, từ khất thực trở về, rửa chân, vào am, ngồi trên giường. Thanh niên ấy ôm lấy Tỷ-kheo-ni Uppalavaṇṇā, làm nhục. Tỷ-kheo-ni Uppalavaṇṇā trình sự việc ấy cho các Tỷ-kheo-ni. Các Tỷ-kheo-ni trình cho các Tỷ-kheo. Các Tỷ-kheo trình sự việc ấy lên Thế Tôn. “Này các thầy, vô tội cho người không ưng thuận.”
 
 #super[46] Lúc bấy giờ, có Tỷ-kheo nọ hiện tướng người nữ. Trình sự việc ấy lên Thế Tôn. “Này các thầy, Ta cho phép lấy chính hòa thượng ấy, chính cụ túc ấy, chính những hạ lạp ấy mà sống chung với các Tỷ-kheo-ni. Những tội của Tỷ-kheo mà Tỷ-kheo-ni cũng có, hãy xuất tội ấy trước các Tỷ-kheo-ni. Những tội của Tỷ-kheo mà Tỷ-kheo-ni không có, thì với những tội ấy là vô tội.” Lúc bấy giờ, có Tỷ-kheo-ni nọ hiện tướng người nam. Trình sự việc ấy lên Thế Tôn. “Này các thầy, Ta cho phép lấy chính hòa thượng ấy, chính cụ túc ấy, chính những hạ lạp ấy mà sống chung với các Tỷ-kheo. Những tội của Tỷ-kheo-ni mà Tỷ-kheo cũng có, hãy xuất tội ấy trước các Tỷ-kheo. Những tội của Tỷ-kheo-ni mà Tỷ-kheo không có, thì với những tội ấy là vô tội.”
 
@@ -918,11 +918,11 @@ lẫn nhau, vị xuất gia già, con nai.
 
 #super[48] Lúc bấy giờ, có Tỷ-kheo nọ lưng mềm. Bị sự không vui thích bức bách, vị ấy lấy miệng ngậm nam căn của mình. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ nam căn dài. Bị sự không vui thích bức bách, vị ấy đưa nam căn của mình vào đạo đại tiện của mình. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ thấy một xác chết. Trên thân ấy, gần nam căn có vết thương. Vị ấy nghĩ “như vậy ta sẽ vô tội,” đưa nam căn vào nam căn rồi rút ra bằng vết thương. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ thấy một xác chết. Trên thân ấy, gần nam căn có vết thương. Vị ấy nghĩ “như vậy ta sẽ vô tội,” đưa nam căn vào vết thương rồi rút ra bằng nam căn. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ khởi tâm say đắm, lấy nam căn chạm tướng của bức tranh vẽ. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tác ác.” Lúc bấy giờ, có Tỷ-kheo nọ khởi tâm say đắm, lấy nam căn chạm tướng của búp bê gỗ. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tác ác.”
 
-#super[49] Lúc bấy giờ, Tỷ-kheo tên Sundara, xuất gia từ Rājagaha, đang đi trên đường. Có người nữ nói: “Bạch Tôn giả, hãy dừng một chút, con sẽ đảnh lễ,” rồi trong lúc đảnh lễ, vén y nội, lấy miệng ngậm nam căn. Vị ấy lo âu. “Này Tỷ-kheo, thầy có ưng thuận không?” “Bạch Thế Tôn, con không ưng thuận.” “Này Tỷ-kheo, vô tội cho người không ưng thuận.” Lúc bấy giờ, có người nữ thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, tôi sẽ ráng sức, thầy đừng ráng sức, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có người nữ thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, thầy hãy ráng sức, tôi sẽ không ráng sức, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có người nữ thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, cọ bên trong rồi xuất bên ngoài; cọ bên ngoài rồi xuất bên trong, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.”
+#super[49] Lúc bấy giờ, Tỷ-kheo tên Sundara, xuất gia từ Vương Xá (Rājagaha), đang đi trên đường. Có người nữ nói: “Bạch Tôn giả, hãy dừng một chút, con sẽ đảnh lễ,” rồi trong lúc đảnh lễ, vén y nội, lấy miệng ngậm nam căn. Vị ấy lo âu. “Này Tỷ-kheo, thầy có ưng thuận không?” “Bạch Thế Tôn, con không ưng thuận.” “Này Tỷ-kheo, vô tội cho người không ưng thuận.” Lúc bấy giờ, có người nữ thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, tôi sẽ ráng sức, thầy đừng ráng sức, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có người nữ thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, thầy hãy ráng sức, tôi sẽ không ráng sức, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có người nữ thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, cọ bên trong rồi xuất bên ngoài; cọ bên ngoài rồi xuất bên trong, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.”
 
 #super[50] Lúc bấy giờ, có Tỷ-kheo nọ đi đến bãi tha ma, thấy xác chưa bị ăn, hành dâm với xác ấy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ đi đến bãi tha ma, thấy xác phần lớn chưa bị ăn, hành dâm với xác ấy. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ đi đến bãi tha ma, thấy xác phần lớn đã bị ăn, hành dâm với xác ấy. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm thô tội.” Lúc bấy giờ, có Tỷ-kheo nọ đi đến bãi tha ma, thấy đầu bị chặt, đưa nam căn vào miệng đã se tròn, có chạm. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ đi đến bãi tha ma, thấy đầu bị chặt, đưa nam căn vào miệng đã se tròn, không chạm. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tác ác.” Lúc bấy giờ, có Tỷ-kheo nọ tâm bị trói buộc nơi một người nữ. Người nữ ấy chết, bị bỏ ở nghĩa địa. Xương vung vãi. Tỷ-kheo ấy đi đến bãi tha ma, gom xương lại, đặt nam căn vào chỗ tướng. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tác ác.” Lúc bấy giờ, có Tỷ-kheo nọ hành dâm với nāga cái, hành dâm với dạ-xoa cái, hành dâm với ngạ quỷ cái, hành dâm với hoàng môn. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ căn bị tổn. Vị ấy nghĩ “ta không cảm thọ lạc hay khổ, ta sẽ vô tội,” liền hành dâm. Trình sự việc ấy lên Thế Tôn. “Này các thầy, kẻ rồ dại ấy dù có cảm thọ hay không cảm thọ, vẫn phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ nghĩ “ta sẽ hành dâm với người nữ,” vừa chạm đã hối. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tội tăng tàn.”
 
-#super[51] Lúc bấy giờ, có Tỷ-kheo nọ ở Bhaddiya, trong rừng Jātiyāvana, đi nghỉ ban ngày, nằm. Các chi phần của vị ấy bị gió làm căng. Có người nữ thấy, ngồi lên nam căn, làm cho đã rồi đi. Các Tỷ-kheo thấy bị ướt, trình sự việc ấy lên Thế Tôn. “Này các thầy, nam căn trở nên dùng được bởi năm cách: vì tham, vì phân, vì nước tiểu, vì gió, vì côn trùng uccāliṅga cắn. Này các thầy, nam căn trở nên dùng được bởi năm cách ấy. Này các thầy, không có trường hợp ấy, không có cơ hội ấy, rằng nam căn của Tỷ-kheo ấy lại trở nên dùng được vì tham. Này các thầy, Tỷ-kheo ấy là A-la-hán. Này các thầy, Tỷ-kheo ấy vô tội.” Lúc bấy giờ, có Tỷ-kheo nọ ở Sāvatthī, trong Andhavana, đi nghỉ ban ngày, nằm. Có cô chăn bò thấy, ngồi lên nam căn. Tỷ-kheo ấy ưng thuận lúc đưa vào, lúc đã vào, lúc đang ở trong, lúc rút ra. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ ở Sāvatthī, trong Andhavana, đi nghỉ ban ngày, nằm. Có cô chăn dê thấy, có cô lượm củi thấy, có cô lượm phân bò thấy, ngồi lên nam căn. Tỷ-kheo ấy ưng thuận lúc đưa vào, lúc đã vào, lúc đang ở trong, lúc rút ra. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.”
+#super[51] Lúc bấy giờ, có Tỷ-kheo nọ ở Bhaddiya, trong rừng Jātiyāvana, đi nghỉ ban ngày, nằm. Các chi phần của vị ấy bị gió làm căng. Có người nữ thấy, ngồi lên nam căn, làm cho đã rồi đi. Các Tỷ-kheo thấy bị ướt, trình sự việc ấy lên Thế Tôn. “Này các thầy, nam căn trở nên dùng được bởi năm cách: vì tham, vì phân, vì nước tiểu, vì gió, vì côn trùng uccāliṅga cắn. Này các thầy, nam căn trở nên dùng được bởi năm cách ấy. Này các thầy, không có trường hợp ấy, không có cơ hội ấy, rằng nam căn của Tỷ-kheo ấy lại trở nên dùng được vì tham. Này các thầy, Tỷ-kheo ấy là A-la-hán. Này các thầy, Tỷ-kheo ấy vô tội.” Lúc bấy giờ, có Tỷ-kheo nọ ở Xá-vệ (Sāvatthī), trong Andhavana, đi nghỉ ban ngày, nằm. Có cô chăn bò thấy, ngồi lên nam căn. Tỷ-kheo ấy ưng thuận lúc đưa vào, lúc đã vào, lúc đang ở trong, lúc rút ra. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.” Lúc bấy giờ, có Tỷ-kheo nọ ở Sāvatthī, trong Andhavana, đi nghỉ ban ngày, nằm. Có cô chăn dê thấy, có cô lượm củi thấy, có cô lượm phân bò thấy, ngồi lên nam căn. Tỷ-kheo ấy ưng thuận lúc đưa vào, lúc đã vào, lúc đang ở trong, lúc rút ra. Vị ấy lo âu. “Này Tỷ-kheo, thầy đã phạm tội bất cộng trụ.”
 
 #super[52] Lúc bấy giờ, có Tỷ-kheo nọ ở Vesālī, trong Đại Lâm, đi nghỉ ban ngày, nằm. Có người nữ thấy, ngồi lên nam căn, làm cho đã, rồi đứng gần đó cười. Tỷ-kheo ấy tỉnh dậy, hỏi người nữ ấy: “Đây là việc của chị chăng?” “Vâng, là việc của tôi.” Vị ấy lo âu. “Này Tỷ-kheo, thầy có ưng thuận không?” “Bạch Thế Tôn, con không biết.” “Này Tỷ-kheo, vô tội cho người không biết.”
 
@@ -930,7 +930,7 @@ lẫn nhau, vị xuất gia già, con nai.
 
 #super[54] Lúc bấy giờ, có Tỷ-kheo nọ ở Vesālī, trong Đại Lâm, tại giảng đường nóc nhọn, đi nghỉ ban ngày, mở cửa nằm. Các chi phần của vị ấy bị gió làm căng. Lúc ấy, nhiều người nữ cầm hương và vòng hoa, đến vườn để xem trú xứ. Các người nữ ấy thấy Tỷ-kheo ấy, ngồi lên nam căn, làm cho đã, nói “Người này thật là giống đực,” rồi đặt hương và vòng hoa lên, ra đi. Các Tỷ-kheo thấy bị ướt, trình sự việc ấy lên Thế Tôn. “Này các thầy, nam căn trở nên dùng được bởi năm cách: vì tham, vì phân, vì nước tiểu, vì gió, vì côn trùng uccāliṅga cắn. Này các thầy, nam căn trở nên dùng được bởi năm cách ấy. Này các thầy, không có trường hợp ấy, không có cơ hội ấy, rằng nam căn của Tỷ-kheo ấy lại trở nên dùng được vì tham. Này các thầy, Tỷ-kheo ấy là A-la-hán. Này các thầy, Tỷ-kheo ấy vô tội. Này các thầy, Ta cho phép người nghỉ ban ngày hãy đóng cửa rồi mới nghỉ.”
 
-#super[55] Lúc bấy giờ, có Tỷ-kheo người Bhārukaccha, trong mộng hành dâm với người vợ cũ, nghĩ “Ta không còn là Sa-môn, ta sẽ hoàn tục,” đang đi Bhārukaccha thì giữa đường gặp Tôn giả Upāli, trình sự việc ấy. Tôn giả Upāli nói: “Này hiền giả, vô tội với việc trong mộng.” Lúc bấy giờ, ở Rājagaha, có cận sự nữ tên Supabbā, tín tâm nhu nhuyến. Nàng có kiến giải: “Ai cho pháp dâm, người ấy cho bố thí tối thượng.” Nàng thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, hãy cọ giữa hai đùi, như vậy thầy sẽ vô tội”; hãy cọ nơi rốn; hãy cọ nơi nếp bụng; hãy cọ nơi nách; hãy cọ nơi cổ; hãy cọ trong lỗ tai; hãy cọ nơi búi tóc; hãy cọ kẽ ngón tay; “Bạch Tôn giả, hãy đến, tôi sẽ dùng tay làm cho xuất, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tội tăng tàn.”
+#super[55] Lúc bấy giờ, có Tỷ-kheo người Bhārukaccha, trong mộng hành dâm với người vợ cũ, nghĩ “Ta không còn là Sa-môn, ta sẽ hoàn tục,” đang đi Bhārukaccha thì giữa đường gặp Tôn giả Ưu-ba-ly (Upāli), trình sự việc ấy. Tôn giả Ưu-ba-ly (Upāli) nói: “Này hiền giả, vô tội với việc trong mộng.” Lúc bấy giờ, ở Vương Xá (Rājagaha), có cận sự nữ tên Supabbā, tín tâm nhu nhuyến. Nàng có kiến giải: “Ai cho pháp dâm, người ấy cho bố thí tối thượng.” Nàng thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, hãy cọ giữa hai đùi, như vậy thầy sẽ vô tội”; hãy cọ nơi rốn; hãy cọ nơi nếp bụng; hãy cọ nơi nách; hãy cọ nơi cổ; hãy cọ trong lỗ tai; hãy cọ nơi búi tóc; hãy cọ kẽ ngón tay; “Bạch Tôn giả, hãy đến, tôi sẽ dùng tay làm cho xuất, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tội tăng tàn.”
 
 #super[56] Lúc bấy giờ, ở Sāvatthī, có cận sự nữ tên Saddhā, tín tâm nhu nhuyến. Nàng có kiến giải: “Ai cho pháp dâm, người ấy cho bố thí tối thượng.” Nàng thấy Tỷ-kheo, nói: “Bạch Tôn giả, hãy đến, hãy hành dâm.” “Thôi, này chị, việc ấy không được phép.” “Bạch Tôn giả, hãy đến, hãy cọ giữa hai đùi,” cho đến “tôi sẽ dùng tay làm cho xuất, như vậy thầy sẽ vô tội.” Tỷ-kheo ấy làm như vậy. Vị ấy lo âu. “Này Tỷ-kheo, vô tội bất cộng trụ. Phạm tội tăng tàn.”
 
@@ -946,8 +946,8 @@ lẫn nhau, vị xuất gia già, con nai.
 
 === Pj 3. Lấy Của Không Cho (Dutiyapārājikaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, trên núi Gijjhakūṭa. Lúc bấy
-giờ, nhiều Tỷ-kheo là bạn bè thân thiết, làm am cỏ ở sườn núi Isigili rồi vào an
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, trên núi Linh Thứu (Gijjhakūṭa). Lúc bấy
+giờ, nhiều Tỷ-kheo là bạn bè thân thiết, làm am cỏ ở sườn núi Thôn tiên (Isigili) rồi vào an
 cư. Tôn giả Dhaniya, con người thợ gốm, cũng làm am cỏ rồi vào an cư. Sau khi an
 cư xong, hết ba tháng, các Tỷ-kheo ấy phá am cỏ, cất cỏ và củi, rồi lên đường du
 hành trong xứ. Còn tôn giả Dhaniya, con người thợ gốm, thì ở lại đó suốt mùa mưa,
@@ -964,7 +964,7 @@ Hay là ta tự nhào bùn, làm một am toàn đất sét!" Rồi tôn giả D
 làm am toàn đất sét, gom cỏ, củi và phân bò, nung am ấy. Am ấy đẹp, đáng nhìn, khả
 ái, đỏ hồng, như con indagopaka. Tiếng am ấy kêu như tiếng chuông nhỏ.
 
-#super[2] Rồi Thế Tôn cùng nhiều Tỷ-kheo từ núi Gijjhakūṭa đi xuống, thấy am ấy
+#super[2] Rồi Thế Tôn cùng nhiều Tỷ-kheo từ núi Linh Thứu (Gijjhakūṭa) đi xuống, thấy am ấy
 đẹp, đáng nhìn, khả ái, đỏ hồng. Thấy vậy, Thế Tôn bảo các Tỷ-kheo: "Này các thầy,
 cái gì đẹp, đáng nhìn, khả ái, đỏ hồng như con indagopaka vậy?" Rồi các Tỷ-kheo ấy
 trình sự việc ấy lên Thế Tôn. Đức Phật Thế Tôn khiển trách: "Này các thầy, việc ấy
@@ -994,13 +994,13 @@ với cái chưa cho." Rồi viên quản kho gỗ nói với tôn giả Dhaniya
 hãy lấy." Tôn giả Dhaniya, con người thợ gốm, cho người chặt gỗ ấy từng khúc, cho
 chở đi bằng xe, làm am gỗ.
 
-#super[4] Rồi Bà-la-môn Vassakāra, đại thần Magadha, đang tuần tra các công trình
+#super[4] Rồi Bà-la-môn Vũ-xá (Vassakāra), đại thần Ma-kiệt-đà (Magadha), đang tuần tra các công trình
 ở Rājagaha, đi đến viên quản kho gỗ, nói: "Này, những gỗ của nhà vua, để tu bổ
 thành, để dành lúc tai nạn, gỗ ấy đâu?" "Thưa chủ, gỗ ấy vua đã cho tôn giả
-Dhaniya, con người thợ gốm." Bà-la-môn Vassakāra, đại thần Magadha, không vui:
+Dhaniya, con người thợ gốm." Bà-la-môn Vũ-xá (Vassakāra), đại thần Ma-kiệt-đà (Magadha), không vui:
 "Làm sao vua lại cho Dhaniya, con người thợ gốm, những gỗ của nhà vua, để tu bổ
 thành, để dành lúc tai nạn!" Rồi Bà-la-môn Vassakāra, đại thần Magadha, đi đến vua
-Māgadha Seniya Bimbisāra, nói: "Tâu đại vương, có thật đại vương đã cho Dhaniya,
+Māgadha Seniya Tần-bà-sa (Bimbisāra), nói: "Tâu đại vương, có thật đại vương đã cho Dhaniya,
 con người thợ gốm, những gỗ của nhà vua, để tu bổ thành, để dành lúc tai nạn?" "Ai
 nói vậy?" "Tâu đại vương, viên quản kho gỗ." "Này Bà-la-môn, vậy hãy truyền gọi
 viên quản kho gỗ." Rồi Bà-la-môn Vassakāra, đại thần Magadha, truyền bắt viên quản
@@ -1010,7 +1010,7 @@ Thấy vậy, tôn giả nói với viên quản kho gỗ: "Này hiền giả, s
 "Bạch đại đức, hãy đến trước khi tôi bị đánh."
 
 #super[5] Rồi tôn giả Dhaniya, con người thợ gốm, đi đến dinh vua Māgadha Seniya
-Bimbisāra, ngồi trên chỗ đã trải. Vua Māgadha Seniya Bimbisāra đi đến tôn giả
+Tần-bà-sa (Bimbisāra), ngồi trên chỗ đã trải. Vua Māgadha Seniya Bimbisāra đi đến tôn giả
 Dhaniya, đảnh lễ, ngồi xuống một bên. Ngồi một bên, vua nói với tôn giả Dhaniya:
 "Bạch đại đức, có thật tôi đã cho ngài những gỗ của nhà vua, để tu bổ thành, để
 dành lúc tai nạn?" "Thưa đại vương, đúng vậy." "Bạch đại đức, chúng tôi là vua,
@@ -1455,9 +1455,9 @@ bảy lấy chỗ nằm của Tăng; \
 của có chủ chớ mang đi; \
 của có chủ, tạm thời thì được.
 
-Campā và Rājagaha, \
+Chiêm-bà (Campā) và Rājagaha, \
 Ajjuko ở Vesālī; \
-Bārāṇasī và Kosambī, \
+Bārāṇasī và Kiều-thưởng-di (Kosambī), \
 Sāgalā cùng Daḷhika.
 
 #strong[Các trường hợp đã xử]
@@ -1737,11 +1737,11 @@ tâm trộm, cầm lấy. Chủ trách Tỷ-kheo ấy: "Ngươi không còn là 
 hối hận, trình sự việc ấy lên Thế Tôn. "Này Tỷ-kheo, thầy đã phạm tội bất cộng
 trụ."
 
-#super[71] Lúc bấy giờ, người ta buộc bè, thả trên sông Aciravatī. Dây đứt, gỗ
+#super[71] Lúc bấy giờ, người ta buộc bè, thả trên sông A-trí-la-phạt-để (Aciravatī). Dây đứt, gỗ
 trôi tan. Các Tỷ-kheo tưởng là phấn tảo, vớt lên. Chủ trách các Tỷ-kheo ấy: "Các
 ông không còn là Sa-môn." Họ sinh hối hận, trình sự việc ấy lên Thế Tôn. "Này các
 thầy, vô tội đối với người tưởng là phấn tảo." Lúc bấy giờ, người ta buộc bè, thả
-trên sông Aciravatī. Dây đứt, gỗ trôi tan. Các Tỷ-kheo nghĩ "trước khi chủ thấy",
+trên sông A-trí-la-phạt-để (Aciravatī). Dây đứt, gỗ trôi tan. Các Tỷ-kheo nghĩ "trước khi chủ thấy",
 với tâm trộm, vớt lên. Chủ trách các Tỷ-kheo ấy: "Các ông không còn là Sa-môn." Họ
 sinh hối hận, trình sự việc ấy lên Thế Tôn. "Này các thầy, các thầy đã phạm tội
 bất cộng trụ." Lúc bấy giờ, một người chăn bò treo vải trên cây rồi đi đại tiện.
@@ -1826,8 +1826,8 @@ lên Thế Tôn. "Này các thầy, không được thọ dụng ở chỗ khác
 chỗ khác. Ai thọ dụng, phạm tác ác." Lúc bấy giờ, các Tỷ-kheo vì hối hận không dám
 mang cả đến nhà Bố-tát lẫn chỗ họp, ngồi trên đất. Thân lẫn y đều dính bụi. Họ
 trình sự việc ấy lên Thế Tôn. "Này các thầy, Ta cho phép mang tạm thời." Lúc bấy
-giờ, ở Campā, Tỷ-kheo-ni đệ tử nội trú của Tỷ-kheo-ni Thullanandā đi đến nhà thí
-chủ hộ trì của Tỷ-kheo-ni Thullanandā, nói "ni sư muốn uống cháo ba vị", cho nấu,
+giờ, ở Chiêm-bà (Campā), Tỷ-kheo-ni đệ tử nội trú của Tỷ-kheo-ni Thu-lan-nan-đà (Thullanandā) đi đến nhà thí
+chủ hộ trì của Tỷ-kheo-ni Thu-lan-nan-đà (Thullanandā), nói "ni sư muốn uống cháo ba vị", cho nấu,
 mang về, tự thọ dụng. Vị kia biết, trách: "Ngươi không còn là Sa-môn." Vị ấy sinh
 hối hận. Tỷ-kheo-ni ấy trình sự việc ấy với các Tỷ-kheo-ni. Các Tỷ-kheo-ni trình
 với các Tỷ-kheo. Các Tỷ-kheo trình sự việc ấy lên Thế Tôn. "Này các thầy, vô tội
@@ -1863,8 +1863,8 @@ Tỷ-kheo phàn nàn, chỉ trích, chê bai: "Làm sao tôn giả Pilindavaccha
 những đứa trẻ bị trộm mang đi!" Họ trình sự việc ấy lên Thế Tôn. "Này các thầy, vô
 tội đối với vị có thần thông trong phạm vi thần thông."
 
-#super[77] Lúc bấy giờ, hai Tỷ-kheo là bạn — Paṇḍuka và Kapila. Một vị trú ở làng,
-một vị ở Kosambī. Tỷ-kheo từ làng đi đến Kosambī, giữa đường lội sông, cuộn mỡ rơi
+#super[77] Lúc bấy giờ, hai Tỷ-kheo là bạn — Ban-đu-ca (Paṇḍuka) và Kapila. Một vị trú ở làng,
+một vị ở Kiều-thưởng-di (Kosambī). Tỷ-kheo từ làng đi đến Kosambī, giữa đường lội sông, cuộn mỡ rơi
 khỏi tay người làm thịt heo, vướng vào chân. Tỷ-kheo ấy nghĩ "ta sẽ đưa cho chủ",
 cầm lấy. Chủ trách Tỷ-kheo ấy: "Ngươi không còn là Sa-môn." Người nữ chăn bò thấy
 vị ấy đã lên bờ, nói: "Bạch đại đức, hãy đến, hãy hành dâm." Vị ấy nghĩ "vốn đã
@@ -1883,8 +1883,8 @@ vui thích.
 
 === Pj 4. Giết Người (Tatiyapārājikaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Vesālī, tại giảng đường Kūṭāgārasālā
-trong rừng Mahāvana. Lúc bấy giờ, Thế Tôn dùng nhiều pháp môn nói cho các Tỷ-kheo
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Vesālī, tại giảng đường Giảng đường Trùng Các (Kūṭāgārasālā)
+trong rừng Đại Lâm (Mahāvana). Lúc bấy giờ, Thế Tôn dùng nhiều pháp môn nói cho các Tỷ-kheo
 về đề tài bất tịnh, tán thán bất tịnh, tán thán sự tu tập bất tịnh, và từng phen
 tán thán sự chứng đạt bất tịnh. Rồi Thế Tôn bảo các Tỷ-kheo: "Này các thầy, Ta
 muốn sống độc cư nửa tháng. Không ai được đến gặp Ta, trừ một người mang cơm khất
@@ -1896,10 +1896,10 @@ bất tịnh bằng nhiều cách. Họ khổ sở, hổ thẹn, nhàm chán ch�
 người nam hay người nữ trẻ tuổi, ưa trang điểm, vừa gội đầu, nếu bị xác rắn, xác
 chó hay xác người đeo vào cổ, thì khổ sở, hổ thẹn, nhàm chán. Cũng vậy, các
 Tỷ-kheo ấy khổ sở, hổ thẹn, nhàm chán chính thân mình, nên tự đoạt mạng mình, đoạt
-mạng lẫn nhau, và đến gặp kẻ giả dạng Sa-môn tên Migalaṇḍika, nói: "Này hiền giả,
+mạng lẫn nhau, và đến gặp kẻ giả dạng Sa-môn tên Mi-ga-lan-đi-ca (Migalaṇḍika), nói: "Này hiền giả,
 hãy đoạt mạng chúng tôi. Bát và y này sẽ thuộc về ông." Rồi Migalaṇḍika, kẻ giả
 dạng Sa-môn, được thuê bằng bát và y, đoạt mạng nhiều Tỷ-kheo, rồi cầm thanh kiếm
-dính máu, đi đến sông Vaggumudā.
+dính máu, đi đến sông Ba-gu-mu-đa (Vaggumudā).
 
 #super[2] Rồi khi Migalaṇḍika, kẻ giả dạng Sa-môn, đang rửa thanh kiếm dính máu
 ấy, tâm hối tiếc sinh khởi, tâm ăn năn sinh khởi: "Thật tổn thất cho ta, không
@@ -2227,7 +2227,7 @@ cả hai không chết, xoa bóp, hơ nóng, son sẻ, đẻ. \
 Roi ngón, tác pháp, Dạ-xoa, sai chỗ Dạ-xoa dữ; \
 tưởng nhầm mà đánh, nói trời nói địa ngục. \
 
-Ba cây Āḷavī, ba việc rừng nữa; \
+Ba cây A-la-bi (Āḷavī), ba việc rừng nữa; \
 chớ hành hạ, chẳng theo lời, sữa chua với cháo muối. \
 
 #strong[Các trường hợp đã xử]
@@ -3101,7 +3101,7 @@ Sa-di rồi đến sa-di-ni; \
 Xuất gia trong luật của Kassapa, \
 họ đã làm những ác nghiệp như vậy.
 
-Suối nóng Tapodā, chiến trận ở Rājagaha, \
+Suối nóng Suối nước nóng (Tapodā), chiến trận ở Rājagaha, \
 và nāga lặn xuống; \
 Tỷ-kheo Sobhita là A-la-hán, \
 nhớ năm trăm kiếp.
@@ -3265,8 +3265,8 @@ xứ này trước, chúng ta sẽ biết vị ấy là A-la-hán." Có Tỷ-khe
 ta là A-la-hán", liền rời trú xứ ấy trước. Vị ấy sanh lòng hối tiếc, trình sự việc
 ấy lên Thế Tôn. "Này Tỷ-kheo, ngươi đã phạm tội bất cộng trụ."
 
-#super[36] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, tại Veḷuvana, chỗ nuôi sóc
-Kalandaka. Lúc bấy giờ, Tôn giả Lakkhaṇa và Tôn giả Mahāmoggallāna trú tại núi
+#super[36] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, tại Trúc Lâm (Veḷuvana), chỗ nuôi sóc
+Kalandaka. Lúc bấy giờ, Tôn giả Lac-ha-na (Lakkhaṇa) và Tôn giả Mục Kiền Liên (Mahāmoggallāna) trú tại núi
 Gijjhakūṭa. Vào buổi sáng, Tôn giả Mahāmoggallāna đắp y, cầm y bát, đi đến chỗ Tôn
 giả Lakkhaṇa; đến rồi, nói với Tôn giả Lakkhaṇa: "Này hiền giả Lakkhaṇa, chúng ta
 hãy vào Rājagaha khất thực." "Vâng, hiền giả" — Tôn giả Lakkhaṇa đáp lời Tôn giả
@@ -3369,7 +3369,7 @@ này, từng là bà đồng bói toán. Moggallāna nói sự thật, vô tội
 
 "Này hiền giả, khi từ núi Gijjhakūṭa xuống, tôi thấy một người nữ đầy mụn lở, thân
 ướt đẫm, bị tưới tẩm, đang đi trên không. Nàng kêu lên tiếng rên la thảm thiết."
-Này các thầy, người nữ ấy từng là hoàng hậu chánh cung của vua Kaliṅga. Vì lòng
+Này các thầy, người nữ ấy từng là hoàng hậu chánh cung của vua Ca-lăng-giới (Kaliṅga). Vì lòng
 ganh tị, bà đã đổ chảo than hồng lên người địch thiếp. Moggallāna nói sự thật, vô
 tội.
 
@@ -3407,7 +3407,7 @@ do quả báo còn lại của chính nghiệp ấy, vị ấy đang thọ nhậ
 Này các thầy, Moggallāna nói sự thật. Này các thầy, Moggallāna vô tội."
 
 #super[39] Rồi Tôn giả Mahāmoggallāna bảo các Tỷ-kheo: "Này hiền giả, hồ mà suối
-Tapodā chảy ra từ đó thì nước trong, nước mát, nước ngọt, nước trắng, chỗ lội tốt,
+Suối nước nóng (Tapodā) chảy ra từ đó thì nước trong, nước mát, nước ngọt, nước trắng, chỗ lội tốt,
 đáng ưa, nhiều cá rùa, và những đóa sen nở lớn bằng bánh xe." Các Tỷ-kheo phàn
 nàn, chỉ trích, chê bai: "Làm sao Tôn giả Mahāmoggallāna lại nói: 'Hồ mà suối
 Tapodā chảy ra từ đó thì nước trong, nước mát, nước ngọt, nước trắng, chỗ lội tốt,
@@ -3472,9 +3472,9 @@ những sự việc cắt đứt, không còn nghi.
 
 Các pháp ấy được tuyên đọc.
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ Tôn giả Seyyasaka sống Phạm hạnh mà không hoan hỷ. Vì
-vậy Tôn giả gầy ốm, khô khan, xấu sắc, vàng vọt, gân xanh lộ rõ. Tôn giả Udāyī
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ Tôn giả Seyyasaka sống Phạm hạnh mà không hoan hỷ. Vì
+vậy Tôn giả gầy ốm, khô khan, xấu sắc, vàng vọt, gân xanh lộ rõ. Tôn giả Ưu đà di (Udāyī)
 thấy Tôn giả Seyyasaka gầy ốm, khô khan, xấu sắc, vàng vọt, gân xanh lộ rõ. Thấy
 vậy, Tôn giả nói với Tôn giả Seyyasaka: "Này hiền giả Seyyasaka, vì sao hiền giả
 gầy ốm, khô khan, xấu sắc, vàng vọt, gân xanh lộ rõ? Có phải hiền giả sống Phạm
@@ -4246,8 +4246,8 @@ Tôn. "Này Tỷ-kheo, vô tội tăng tàn; phạm thô tội."
 
 === Pj 7. Thân Xúc (Kāyasaṃsaggasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, trong rừng Jetavana, khu
-vườn của Anāthapiṇḍika. Lúc bấy giờ Tôn giả Udāyī trú trong rừng. Trú xứ của Tôn
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, trong rừng Kỳ-đà Lâm (Jetavana), khu
+vườn của Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ Tôn giả Ưu đà di (Udāyī) trú trong rừng. Trú xứ của Tôn
 giả ấy đẹp, đáng nhìn, khả ái: phòng ở giữa, hành lang bao quanh, giường ghế nệm
 gối sắp đặt tử tế, nước uống nước dùng để sẵn, sân quét sạch. Nhiều người đến
 xem trú xứ của Tôn giả Udāyī. Có một Bà-la-môn cùng vợ đi đến Tôn giả Udāyī; đến
@@ -4902,11 +4902,11 @@ sẽ gả thiếu nữ này cho thiếu niên ấy.” Bằng cách ấy, ngài 
 dâu, gả chồng, đính hôn.
 
 #super[2] Lúc bấy giờ, con gái của một người đàn bà vốn làm kế toán xinh đẹp,
-đáng nhìn, dễ thương. Các tín đồ Ājīvaka từ làng khác đến, nói với bà kế toán
+đáng nhìn, dễ thương. Các tín đồ tà mạng ngoại đạo (Ājīvaka) từ làng khác đến, nói với bà kế toán
 ấy: “Này bà, hãy gả thiếu nữ này cho thiếu niên của chúng tôi.” Bà nói: “Thưa
 các ông, tôi không biết các ông — các ông là ai, thuộc nhà nào. Đây lại là con
 gái duy nhất của tôi, lại phải đi sang làng khác. Tôi không gả.” Người ta hỏi
-các tín đồ Ājīvaka ấy: “Thưa các ông, các ông đến đây làm gì?” “Thưa các ông,
+các tín đồ tà mạng ngoại đạo (Ājīvaka) ấy: “Thưa các ông, các ông đến đây làm gì?” “Thưa các ông,
 chúng tôi đã cầu hôn con gái của bà kế toán tên kia cho thiếu niên của chúng
 tôi. Bà ấy nói: ‘Thưa các ông, tôi không biết các ông — các ông là ai, thuộc nhà
 nào. Đây lại là con gái duy nhất của tôi, lại phải đi sang làng khác. Tôi không
@@ -5529,8 +5529,8 @@ nam. Vị ấy sinh nghi. “Này Tỷ-kheo, không phạm tội tăng tàn; ph�
 
 === Pj 11. Làm Cốc (Kuṭikārasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, tại Veḷuvana, chỗ
-Kalandakanivāpa. Lúc bấy giờ, các Tỷ-kheo ở Āḷavī tự xin mà sai làm những cái cốc,
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, tại Trúc Lâm (Veḷuvana), chỗ
+Ca-lan-đà (Kalandakanivāpa). Lúc bấy giờ, các Tỷ-kheo ở Āḷavī tự xin mà sai làm những cái cốc,
 không có chủ, vì mình, không theo thước tấc. Những cái cốc ấy không làm xong. Họ
 sống chuyên xin, chuyên gợi ý xin: “Hãy cho người, hãy cho người giúp việc, hãy
 cho bò, hãy cho xe, hãy cho rìu nhỏ, hãy cho búa, hãy cho rìu, hãy cho cuốc, hãy
@@ -5538,8 +5538,8 @@ cho đục, hãy cho dây mây, hãy cho tre, hãy cho cỏ muñja, hãy cho c�
 cỏ, hãy cho đất sét.” Người ta bị quấy nhiễu vì sự xin, bị quấy nhiễu vì sự gợi ý
 xin; thấy Tỷ-kheo thì kinh hãi, sợ hãi, chạy trốn, đi đường khác, ngoảnh mặt đi
 hướng khác, đóng cửa lại; thấy cả con bò cũng chạy, tưởng là Tỷ-kheo. Rồi Tôn giả
-Mahākassapa, hết mùa an cư ở Rājagaha, lên đường đi Āḷavī. Đi lần hồi, Ngài đến
-Āḷavī. Tại đấy, Tôn giả Mahākassapa trú ở Āḷavī, tại đền Aggāḷava. Rồi Tôn giả
+Ma-ha-ca-diếp (Mahākassapa), hết mùa an cư ở Rājagaha, lên đường đi Āḷavī. Đi lần hồi, Ngài đến
+Āḷavī. Tại đấy, Tôn giả Ma-ha-ca-diếp (Mahākassapa) trú ở Āḷavī, tại đền A-ca-la-viên (Aggāḷava). Rồi Tôn giả
 Mahākassapa vào buổi sáng đắp y, cầm y bát, vào Āḷavī để khất thực. Người ta thấy
 Tôn giả Mahākassapa thì kinh hãi, sợ hãi, chạy trốn, đi đường khác, ngoảnh mặt đi
 hướng khác, đóng cửa lại. Rồi Tôn giả Mahākassapa khất thực ở Āḷavī, sau bữa ăn,
@@ -5552,7 +5552,7 @@ lên Tôn giả Mahākassapa.
 
 #super[2] Rồi Thế Tôn, sau khi trú ở Rājagaha theo ý muốn, lên đường du hành đến
 Āḷavī. Đi du hành lần hồi, Ngài đến Āḷavī. Tại đấy, Thế Tôn trú ở Āḷavī, tại đền
-Aggāḷava. Rồi Tôn giả Mahākassapa đi đến Thế Tôn; đến rồi, đảnh lễ Thế Tôn, ngồi
+A-ca-la-viên (Aggāḷava). Rồi Tôn giả Mahākassapa đi đến Thế Tôn; đến rồi, đảnh lễ Thế Tôn, ngồi
 xuống một bên. Ngồi một bên, Tôn giả Mahākassapa trình sự việc ấy lên Thế Tôn. Rồi
 Thế Tôn, nhân nhân duyên ấy, nhân sự việc ấy, tập hợp chúng Tỷ-kheo, hỏi các
 Tỷ-kheo ở Āḷavī: “Này các thầy, có thật các thầy tự xin mà sai làm những cái cốc,
@@ -5576,7 +5576,7 @@ lại, điều ấy khiến người chưa tin càng không tin, và khiến m�
 phải đổi khác.” Khiển trách xong, nói pháp xong, Ngài bảo các Tỷ-kheo:
 
 #super[3] “Thuở xưa, này các thầy, có hai anh em ẩn sĩ trú gần sông Gaṅgā. Rồi,
-này các thầy, nāga-vương Maṇikaṇṭha lội qua sông Gaṅgā, đi đến chỗ vị ẩn sĩ em;
+này các thầy, nāga-vương Ma-ni-can-tha (Maṇikaṇṭha) lội qua sông Gaṅgā, đi đến chỗ vị ẩn sĩ em;
 đến rồi, quấn vị ẩn sĩ em bảy vòng bằng những vòng thân, giương cái mào lớn trên
 đỉnh đầu mà đứng. Rồi, này các thầy, vị ẩn sĩ em vì sợ con nāga ấy nên gầy, khô,
 xấu xí, da vàng vọt, gân nổi khắp mình. Này các thầy, vị ẩn sĩ anh thấy vị ẩn sĩ
@@ -5621,19 +5621,19 @@ xí, da vàng vọt, gân nổi khắp mình.’ Rồi, này các thầy, vị �
 sĩ em bài kệ: \
 ‘Chớ xin vật người ta yêu tiếc, \
 Xin quá hóa ra bị ghét bỏ; \
-Nāga bị Bà-la-môn xin ngọc, \
+Na-già (Nāga) bị Bà-la-môn xin ngọc, \
 Liền ẩn mất, không còn hiện ra.’ \
 Này các thầy, ngay cả đối với loài thú, sự xin đã là điều không dễ chịu, sự gợi ý
 xin đã là điều không dễ chịu. Huống nữa là đối với loài người!
 
-#super[4] “Thuở xưa, này các thầy, có một Tỷ-kheo trú ở sườn núi Himavanta, trong
+#super[4] “Thuở xưa, này các thầy, có một Tỷ-kheo trú ở sườn núi Tuyết sơn (Himavanta), trong
 một khu rừng. Không xa khu rừng ấy có một đầm lớn, thấp. Bầy chim lớn ban ngày tìm
 ăn ở đầm ấy, chiều đến khu rừng ấy để trú. Rồi Tỷ-kheo ấy, bị quấy rầy vì tiếng
 của bầy chim, đi đến chỗ Ta; đến rồi, đảnh lễ Ta, ngồi xuống một bên. Ta nói với
 Tỷ-kheo ấy đang ngồi một bên: ‘Này Tỷ-kheo, thầy có kham nhẫn được không? Có nuôi
 sống được không? Thầy đi đường có ít mệt nhọc không? Thầy từ đâu đến?’ ‘Bạch Thế
 Tôn, con kham nhẫn được. Bạch Thế Tôn, con nuôi sống được. Bạch Thế Tôn, con đi
-đường ít mệt nhọc. Bạch Thế Tôn, ở sườn núi Himavanta có một khu rừng lớn. Không
+đường ít mệt nhọc. Bạch Thế Tôn, ở sườn núi Tuyết sơn (Himavanta) có một khu rừng lớn. Không
 xa khu rừng ấy có một đầm lớn, thấp. Bầy chim lớn ban ngày tìm ăn ở đầm ấy, chiều
 đến khu rừng ấy để trú. Bạch Thế Tôn, con từ đó đến — bị quấy rầy vì tiếng của bầy
 chim ấy.’ ‘Này Tỷ-kheo, thầy có muốn bầy chim ấy đừng đến nữa không?’ ‘Bạch Thế
@@ -5649,7 +5649,7 @@ cần lông,’ liền bỏ khu rừng ấy mà đi. Bỏ đi như vậy, không
 các thầy, ngay cả đối với loài thú, sự xin đã là điều không dễ chịu, sự gợi ý xin
 đã là điều không dễ chịu. Huống nữa là đối với loài người!”
 
-#super[5] “Thuở xưa, này các thầy, cha của thiện nam tử Raṭṭhapāla nói với thiện
+#super[5] “Thuở xưa, này các thầy, cha của thiện nam tử La-tha-ba-la (Raṭṭhapāla) nói với thiện
 nam tử Raṭṭhapāla bài kệ: \
 ‘Há cha chẳng biết con sao, Raṭṭhapāla? \
 Nhiều người họp lại xin cha; \
@@ -6014,8 +6014,8 @@ hợp trừ nhà ở; vô tội cho người điên và người phạm đầu t
 
 === Pj 12. Xây Tịnh Xá (Vihārakārasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Kosambī, tại Ghositārāma. Lúc bấy giờ,
-người cư sĩ hộ trì Tôn giả Channa nói với Tôn giả Channa: "Bạch Đại đức, hãy chọn
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Kosambī, tại Ghô-si-đa-la-ma (Ghositārāma). Lúc bấy giờ,
+người cư sĩ hộ trì Tôn giả Xa-nặc (Channa) nói với Tôn giả Xa-nặc (Channa): "Bạch Đại đức, hãy chọn
 đất tịnh xá; con sẽ cho làm tịnh xá cho Ngài." Rồi Tôn giả Channa, khi dọn đất
 tịnh xá, cho chặt một cây tháp được làng kính thờ, được thị trấn kính thờ, được
 thành phố kính thờ, được châu kính thờ, được nước kính thờ. Người ta phàn nàn, chỉ
@@ -6248,12 +6248,12 @@ Mallaputta nói: "Này hiền giả Dabba, hãy chỉ định sàng tọa cho ch
 Dabba Mallaputta hỏi: "Các Đại đức muốn ở đâu? Tôi chỉ định ở đâu?" Họ cố ý chỉ
 chỗ xa: "Này hiền giả Dabba, hãy chỉ định sàng tọa cho chúng tôi trên núi
 Gijjhakūṭa. Này hiền giả, hãy chỉ định sàng tọa ở Corapapāta. Này hiền giả, hãy
-chỉ định sàng tọa ở Kāḷasilā, sườn Isigili. Này hiền giả, hãy chỉ định sàng tọa ở
-hang Sattapaṇṇi, sườn Vebhāra. Này hiền giả, hãy chỉ định sàng tọa ở hang
-Sappasoṇḍika trong Sītavana. Này hiền giả, hãy chỉ định sàng tọa ở khe Gotamaka.
+chỉ định sàng tọa ở Hắc Nham (Kāḷasilā), sườn Thôn tiên (Isigili). Này hiền giả, hãy chỉ định sàng tọa ở
+hang Sattapaṇṇi, sườn Phụ Trọng (Vebhāra). Này hiền giả, hãy chỉ định sàng tọa ở hang
+Sappasoṇḍika trong Hàn Lâm (Sītavana). Này hiền giả, hãy chỉ định sàng tọa ở khe Gotamaka.
 Này hiền giả, hãy chỉ định sàng tọa ở khe Tinduka. Này hiền giả, hãy chỉ định sàng
 tọa ở khe Tapoda. Này hiền giả, hãy chỉ định sàng tọa ở Tapodārāma. Này hiền giả,
-hãy chỉ định sàng tọa ở rừng xoài Jīvaka. Này hiền giả, hãy chỉ định sàng tọa ở
+hãy chỉ định sàng tọa ở rừng xoài Kỳ-bà (Jīvaka). Này hiền giả, hãy chỉ định sàng tọa ở
 vườn nai Maddakucchi." Tôn giả Dabba Mallaputta nhập hỏa giới, ngón tay phát lửa,
 đi trước. Họ cũng theo ánh sáng ấy, đi sau Tôn giả Dabba Mallaputta. Tôn giả Dabba
 Mallaputta chỉ định sàng tọa cho họ: "Đây là giường, đây là ghế, đây là nệm, đây
@@ -6261,7 +6261,7 @@ là gối, đây là chỗ đại tiện, đây là chỗ tiểu tiện, đây l
 rửa, đây là gậy, đây là chỗ Tăng đã định ước, giờ này nên vào, giờ này nên ra."
 Chỉ định xong, Tôn giả Dabba Mallaputta lại trở về Veḷuvana.
 
-#super[4] Lúc bấy giờ, các Tỷ-kheo Mettiyabhūmajaka còn mới, ít phước. Những sàng
+#super[4] Lúc bấy giờ, các Tỷ-kheo Mê-đi-da-bu-ma-xa-ca (Mettiyabhūmajaka) còn mới, ít phước. Những sàng
 tọa tệ của Tăng rơi vào họ, bữa ăn cũng tệ. Lúc ấy ở Rājagaha, người ta muốn cúng
 các Tỷ-kheo trưởng lão đồ ăn được chuẩn bị đặc biệt — tô, dầu, đồ ăn thêm. Còn các
 Tỷ-kheo Mettiyabhūmajaka thì được đồ thường, cơm hẩm nấu sẵn với nước cơm chua.
@@ -6269,7 +6269,7 @@ Sau bữa ăn, trở về, họ hỏi các Tỷ-kheo trưởng lão: "Này hiề
 có gì? Này hiền giả, nhà ăn của thầy có gì?" Một số trưởng lão nói: "Này hiền giả,
 chúng tôi có tô, có dầu, có đồ ăn thêm." Các Tỷ-kheo Mettiyabhūmajaka nói: "Này
 hiền giả, chúng tôi chẳng có gì, chỉ đồ thường, cơm hẩm nấu sẵn với nước cơm
-chua." Lúc bấy giờ, cư sĩ Kalyāṇabhattika cúng Tăng bữa ăn bốn suất, bữa ăn thường
+chua." Lúc bấy giờ, cư sĩ Ca-da-na-ba-đi-ca (Kalyāṇabhattika) cúng Tăng bữa ăn bốn suất, bữa ăn thường
 xuyên. Ông cùng vợ con đứng hầu trong nhà ăn. Người thì hỏi cơm, người thì hỏi
 canh, người thì hỏi dầu, người thì hỏi đồ ăn thêm. Bữa ăn ngày mai của cư sĩ
 Kalyāṇabhattika đã được phân cho các Tỷ-kheo Mettiyabhūmajaka. Rồi cư sĩ
@@ -6297,7 +6297,7 @@ Tỷ-kheo Mettiyabhūmajaka nghĩ: "Này hiền giả, hôm qua cư sĩ Kalyā�
 tinh xá, đến chỗ Dabba Mallaputta. Chắc Dabba Mallaputta đã nói xấu chúng ta với
 cư sĩ." Vì buồn ấy, họ ăn không ngon. Sau bữa ăn, trở về tinh xá, cất y bát, họ
 ngồi ở cổng ngoài, vắt y tăng-già-lê, im lặng, xấu hổ, rũ vai, cúi mặt, trầm ngâm,
-hết lời. Tỷ-kheo-ni Mettiyā đến các Tỷ-kheo Mettiyabhūmajaka, nói: "Con xin đảnh
+hết lời. Tỷ-kheo-ni Mê-đi-da (Mettiyā) đến các Tỷ-kheo Mettiyabhūmajaka, nói: "Con xin đảnh
 lễ các Ngài." Họ không đáp. Lần thứ hai, lần thứ ba, Tỷ-kheo-ni Mettiyā nói: "Con
 xin đảnh lễ các Ngài." Lần thứ ba họ vẫn không đáp. "Con có lỗi gì với các Ngài?
 Sao các Ngài không nói với con?" "Này chị, vì chị ngồi nhìn Dabba Mallaputta hành
@@ -6553,7 +6553,7 @@ Sa-môn, không phải Thích tử" — mỗi lời phạm tội tăng tàn.
 Saṅgharakkhita. Thầy đã phạm pháp bất cộng trụ, thầy không phải Sa-môn, không phải
 Thích tử" — mỗi lời phạm tội tăng tàn.
 
-#super[6] Cớ họ: thấy một Gotama; thấy một Moggallāna; thấy một Kaccāyana; thấy
+#super[6] Cớ họ: thấy một Gotama; thấy một Moggallāna; thấy một Bà-phù-đà Ca-chiên-nê (Kaccāyana); thấy
 một Vāsiṭṭha đang phạm pháp bất cộng trụ. Thấy một Vāsiṭṭha khác, buộc tội: "Tôi
 đã thấy Vāsiṭṭha. Thầy đã phạm pháp bất cộng trụ, thầy không phải Sa-môn, không
 phải Thích tử" — mỗi lời phạm tội tăng tàn.
@@ -6647,9 +6647,9 @@ như vậy tội cũng thuộc loại khác, cớ cũng đã được lấy, m�
 === Pj 15. Phá Tăng (Saṅghabhedasikkhāpadaṃ)
 
 #super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, tại Veḷuvana, chỗ nuôi sóc.
-Rồi Devadatta đến Kokālika, Kaṭamorakatissaka, con trai Khaṇḍadevi, và
+Rồi Đề-bà-đạt-đa (Devadatta) đến Ca-lê-ca (Kokālika), Kaṭamorakatissaka, con trai Khaṇḍadevi, và
 Samuddadatta, nói: "Này hiền giả, hãy đến, chúng ta sẽ phá Tăng của Sa-môn Gotama,
-phá bánh xe." Được nói vậy, Kokālika nói với Devadatta: "Này hiền giả, Sa-môn
+phá bánh xe." Được nói vậy, Ca-lê-ca (Kokālika) nói với Đề-bà-đạt-đa (Devadatta): "Này hiền giả, Sa-môn
 Gotama có đại thần lực, đại oai lực. Làm sao chúng ta phá Tăng của Sa-môn Gotama,
 phá bánh xe?" "Này hiền giả, hãy đến, chúng ta sẽ đến Sa-môn Gotama xin năm việc:
 'Bạch Thế Tôn, Thế Tôn bằng nhiều cách khen ngợi người thiểu dục, biết đủ, sống
@@ -6943,7 +6943,7 @@ lần đầu.
 === Pj 18. Làm Hư Gia Tộc (Kuladūsakasikkhāpadaṃ)
 
 #super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ, những người tên Assajipunabbasuka trú ở Kīṭāgiri, là
+Anāthapiṇḍika. Lúc bấy giờ, những người tên Assajipunabbasuka trú ở Ci-tha-gi-li (Kīṭāgiri), là
 những Tỷ-kheo xấu, không biết hổ thẹn. Họ làm hạnh kiểm xấu như vầy: tự trồng khóm
 hoa cũng bảo người trồng; tự tưới cũng bảo người tưới; tự hái cũng bảo người hái;
 tự kết cũng bảo người kết; tự làm vòng hoa một cuống cũng bảo người làm; tự làm
@@ -6969,7 +6969,7 @@ kiếm; chạy trước voi, chạy trước ngựa, chạy trước xe cũng nh
 hét, vỗ tay, vật lộn, đánh quyền; giữa sân khấu trải y tăng-già-lê bảo vũ nữ: "Này
 chị, hãy múa ở đây"; cho ấn trên trán; làm đủ thứ hạnh kiểm xấu.
 
-#super[2] Lúc bấy giờ, một Tỷ-kheo đã an cư ở xứ Kāsi, đi Sāvatthī để yết kiến Thế
+#super[2] Lúc bấy giờ, một Tỷ-kheo đã an cư ở xứ Ca-thi (Kāsi), đi Sāvatthī để yết kiến Thế
 Tôn, đến Kīṭāgiri. Sáng sớm, vị ấy mặc y, cầm bát, vào Kīṭāgiri khất thực, với oai
 nghi đoan nghiêm khi đi tới, đi lui, nhìn, ngó, co, duỗi, mắt nhìn xuống, đầy đủ
 oai nghi. Người ta thấy Tỷ-kheo ấy nói: "Ông này như kẻ yếu đuối, như kẻ đần độn,
@@ -6994,7 +6994,7 @@ Anāthapiṇḍika, đến Thế Tôn, đảnh lễ, ngồi xuống một bên. 
 có lệ hỏi han Tỷ-kheo mới đến. Thế Tôn nói với Tỷ-kheo ấy: "Này Tỷ-kheo, thầy chịu
 đựng được chứ? Nuôi sống được chứ? Đi đường không quá mệt chứ? Thầy từ đâu đến?"
 "Bạch Thế Tôn, con chịu đựng được, nuôi sống được. Con đi đường không quá mệt.
-Bạch Thế Tôn, con đã an cư ở xứ Kāsi, đi Sāvatthī yết kiến Thế Tôn, đến Kīṭāgiri.
+Bạch Thế Tôn, con đã an cư ở xứ Ca-thi (Kāsi), đi Sāvatthī yết kiến Thế Tôn, đến Kīṭāgiri.
 Sáng sớm con mặc y, cầm bát, vào Kīṭāgiri khất thực. Một cư sĩ thấy con khất thực
 ở Kīṭāgiri. Thấy vậy, đến con, đảnh lễ, hỏi: 'Bạch Đại đức, có được cơm không?'
 'Này hiền giả, không được cơm.' 'Bạch Đại đức, hãy đến, chúng ta về nhà.' Rồi,
@@ -7221,9 +7221,9 @@ phòng trong.” Rồi Tôn giả Udāyī đi đến cô gái ấy; đến rồi
 với một mình nàng, chỗ kín, chỗ ngồi kín đáo, đủ để hành sự, nói chuyện
 hợp thời, nói pháp hợp thời.
 
-Lúc bấy giờ Visākhā Migāramātā có nhiều con, nhiều cháu, con khỏe, cháu
+Lúc bấy giờ Tỳ-xá-khư (Visākhā) Lộc Mẫu (Migāramātā) có nhiều con, nhiều cháu, con khỏe, cháu
 khỏe, được xem là điềm lành. Tại các tế lễ, hội hè, lễ hội, người ta thết
-đãi Visākhā Migāramātā trước nhất. Rồi Visākhā Migāramātā được mời, đi
+đãi Tỳ-xá-khư (Visākhā) Lộc Mẫu (Migāramātā) trước nhất. Rồi Visākhā Migāramātā được mời, đi
 đến gia đình ấy. Visākhā Migāramātā thấy Tôn giả Udāyī ngồi một mình với
 cô gái ấy, chỗ kín, chỗ ngồi kín đáo, đủ để hành sự. Thấy vậy, nàng nói
 với Tôn giả Udāyī: “Bạch ngài, điều này không kín đáo, không thích hợp:
@@ -7425,7 +7425,7 @@ bởi bậc Phật tối thắng như vậy.
 
 đưa vào phần tuyên đọc.
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Vesālī, đền Gotamaka. Lúc bấy
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Tỳ-xá-ly (Vesālī), đền Gotamaka. Lúc bấy
 giờ Thế Tôn đã cho phép các Tỷ-kheo dùng tam y. Nhóm sáu Tỷ-kheo nghĩ:
 “Thế Tôn đã cho phép tam y”, bèn dùng một bộ tam y vào làng, dùng một bộ
 tam y khác ở trong vườn, dùng một bộ tam y khác nữa khi xuống tắm.
@@ -7442,11 +7442,11 @@ Này các thầy, các thầy hãy tuyên đọc điều học này như vầy:�
 #super[2] “Vị Tỷ-kheo nào giữ y dư, tội ưng xả đối trị.” Như vậy, điều học
 này đã được Thế Tôn chế cho các Tỷ-kheo.
 
-#super[3] Lúc bấy giờ Tôn giả Ānanda có y dư phát sinh. Tôn giả Ānanda
-muốn cho y ấy đến Tôn giả Sāriputta. Tôn giả Sāriputta đang trú ở
-Sāketa. Tôn giả Ānanda nghĩ: “Thế Tôn đã chế điều học: không được giữ y
+#super[3] Lúc bấy giờ Tôn giả A-nan (Ānanda) có y dư phát sinh. Tôn giả A-nan (Ānanda)
+muốn cho y ấy đến Tôn giả Xá-lợi-phất (Sāriputta). Tôn giả Xá-lợi-phất (Sāriputta) đang trú ở
+Sa-kỳ (Sāketa). Tôn giả Ānanda nghĩ: “Thế Tôn đã chế điều học: không được giữ y
 dư. Nay ta có y dư phát sinh. Ta muốn cho y này đến Tôn giả Sāriputta.
-Tôn giả Sāriputta đang trú ở Sāketa. Ta nên làm thế nào?” Rồi Tôn giả
+Tôn giả Sāriputta đang trú ở Sa-kỳ (Sāketa). Ta nên làm thế nào?” Rồi Tôn giả
 Ānanda trình sự việc ấy lên Thế Tôn. “Này Ānanda, Sāriputta sẽ đến trong
 bao lâu?” “Bạch Thế Tôn, ngày thứ chín hoặc ngày thứ mười.” Rồi Thế
 Tôn, nhân nhân duyên ấy, nhân sự việc ấy, nói pháp thoại, bảo các
@@ -7521,13 +7521,13 @@ xả. Ai không trao, phạm tác ác.”
 
 ==== Pj 22. Kho Y (Udositasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ các Tỷ-kheo gửi y nơi tay các Tỷ-kheo khác,
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ các Tỷ-kheo gửi y nơi tay các Tỷ-kheo khác,
 rồi chỉ mặc nội y và y vai trái, đi du hành các nước. Những y ấy gửi
-lâu ngày, bị đốm mốc. Các Tỷ-kheo phơi những y ấy. Tôn giả Ānanda đi
+lâu ngày, bị đốm mốc. Các Tỷ-kheo phơi những y ấy. Tôn giả A-nan (Ānanda) đi
 tuần tra sàng tọa, thấy các Tỷ-kheo đang phơi những y ấy. Thấy vậy, ngài
 đến các Tỷ-kheo ấy; đến rồi nói: “Này hiền giả, những y bị đốm mốc này
-của ai?” Rồi các Tỷ-kheo ấy trình sự việc ấy cho Tôn giả Ānanda. Tôn giả
+của ai?” Rồi các Tỷ-kheo ấy trình sự việc ấy cho Tôn giả A-nan (Ānanda). Tôn giả
 Ānanda phàn nàn, chỉ trích, chê bai: “Sao các Tỷ-kheo lại gửi y nơi tay
 các Tỷ-kheo khác, rồi chỉ mặc nội y và y vai trái, đi du hành các
 nước!” Rồi Tôn giả Ānanda khiển trách các Tỷ-kheo ấy bằng nhiều cách,
@@ -7545,7 +7545,7 @@ tuyên đọc điều học này như vầy:”
 Tỷ-kheo lìa tam y dù chỉ một đêm, tội ưng xả đối trị.” Như vậy, điều
 học này đã được Thế Tôn chế cho các Tỷ-kheo.
 
-#super[3] Lúc bấy giờ có một Tỷ-kheo bệnh ở Kosambī. Bà con sai sứ đến chỗ
+#super[3] Lúc bấy giờ có một Tỷ-kheo bệnh ở Kiều-thưởng-di (Kosambī). Bà con sai sứ đến chỗ
 Tỷ-kheo ấy: “Xin ngài hãy đến, chúng tôi sẽ hầu hạ.” Các Tỷ-kheo cũng
 nói: “Này hiền giả, hãy đi, bà con sẽ hầu hạ ông.” Ông nói: “Này hiền
 giả, Thế Tôn đã chế điều học: không được lìa tam y. Tôi đang bệnh,
@@ -7705,8 +7705,8 @@ chấp thuận của Tỷ-kheo; người điên; người phạm lần đầu.
 
 ==== Pj 23. Kaṭhina Thứ Ba (Tatiyakathinasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ có một Tỷ-kheo được y phi thời. Y ấy đang may
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ có một Tỷ-kheo được y phi thời. Y ấy đang may
 thì không đủ. Rồi Tỷ-kheo ấy giăng y lên, giặt đi giặt lại. Thế Tôn đi
 tuần tra sàng tọa, thấy Tỷ-kheo ấy giăng y lên, giặt đi giặt lại. Thấy
 vậy, Ngài đến Tỷ-kheo ấy; đến rồi nói: “Này Tỷ-kheo, sao ông giăng y
@@ -7720,11 +7720,11 @@ còn hy vọng được y.”
 #super[2] Lúc bấy giờ các Tỷ-kheo nghĩ: “Thế Tôn đã cho phép nhận y phi
 thời rồi cất lại khi còn hy vọng được y”, bèn nhận y phi thời rồi cất
 quá một tháng. Những y ấy được buộc thành bó, treo trên sào y. Tôn giả
-Ānanda đi tuần tra sàng tọa, thấy những y ấy buộc thành bó, treo trên
+A-nan (Ānanda) đi tuần tra sàng tọa, thấy những y ấy buộc thành bó, treo trên
 sào y. Thấy vậy, ngài bảo các Tỷ-kheo: “Này hiền giả, những y buộc
 thành bó, treo trên sào y này của ai?” “Này hiền giả, y phi thời của
 chúng tôi, cất lại vì còn hy vọng được y.” “Này hiền giả, những y này
-đã cất bao lâu?” “Này hiền giả, quá một tháng.” Tôn giả Ānanda phàn nàn,
+đã cất bao lâu?” “Này hiền giả, quá một tháng.” Tôn giả A-nan (Ānanda) phàn nàn,
 chỉ trích, chê bai: “Sao các Tỷ-kheo lại nhận y phi thời rồi cất quá một
 tháng!” Rồi Tôn giả Ānanda khiển trách các Tỷ-kheo ấy bằng nhiều cách,
 rồi trình sự việc ấy lên Thế Tôn. Rồi Thế Tôn, nhân nhân duyên ấy, nhân
@@ -7816,9 +7816,9 @@ tội.
 
 ==== Pj 24. Y Cũ (Purāṇacīvarasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ người vợ cũ của Tôn giả Udāyī đã xuất gia
-trong hàng Tỷ-kheo-ni. Nàng thường đến chỗ Tôn giả Udāyī. Tôn giả Udāyī
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ người vợ cũ của Tôn giả Ưu đà di (Udāyī) đã xuất gia
+trong hàng Tỷ-kheo-ni. Nàng thường đến chỗ Tôn giả Ưu đà di (Udāyī). Tôn giả Udāyī
 cũng thường đến chỗ Tỷ-kheo-ni ấy. Lúc ấy Tôn giả Udāyī dùng bữa tại chỗ
 Tỷ-kheo-ni ấy. Rồi Tôn giả Udāyī buổi sáng đắp y, cầm y bát, đi đến
 Tỷ-kheo-ni ấy; đến rồi, trước mặt nàng, mở chỗ kín, ngồi xuống chỗ
@@ -7898,9 +7898,9 @@ dụng khác; thức-xoa-ma-na; sa-di-ni; người điên; người phạm lần
 
 ==== Pj 25. Nhận Y (Cīvarapaṭiggahaṇasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, Veḷuvana, chỗ nuôi
-sóc. Lúc bấy giờ Tỷ-kheo-ni Uppalavaṇṇā trú ở Sāvatthī. Rồi Tỷ-kheo-ni
-Uppalavaṇṇā buổi sáng đắp y, cầm y bát, vào Sāvatthī khất thực. Khất
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Vương Xá (Rājagaha), Trúc Lâm (Veḷuvana), chỗ nuôi
+sóc. Lúc bấy giờ Tỷ-kheo-ni Liên Hoa Sắc (Uppalavaṇṇā) trú ở Xá-vệ (Sāvatthī). Rồi Tỷ-kheo-ni
+Liên Hoa Sắc (Uppalavaṇṇā) buổi sáng đắp y, cầm y bát, vào Xá-vệ (Sāvatthī) khất thực. Khất
 thực ở Sāvatthī xong, sau bữa ăn, từ khất thực trở về, nàng đi đến
 Andhavana để nghỉ ban ngày. Vào Andhavana, nàng ngồi nghỉ ban ngày dưới
 một gốc cây. Lúc ấy bọn cướp vừa làm xong việc, giết một con bò, lấy
@@ -7912,9 +7912,9 @@ Uppalavaṇṇā, nói: “Sa-môn hay Bà-la-môn nào thấy, hãy lấy, đâ
 đã cho”, rồi đi. Tỷ-kheo-ni Uppalavaṇṇā xuất định, nghe lời đầu đảng
 cướp ấy. Rồi Tỷ-kheo-ni Uppalavaṇṇā lấy thịt ấy, về ni xá. Qua đêm ấy,
 Tỷ-kheo-ni Uppalavaṇṇā sửa soạn thịt, buộc thành bó bằng y vai trái, bay
-lên hư không, hiện ra ở Veḷuvana. Lúc ấy Thế Tôn đã vào làng khất thực.
-Tôn giả Udāyī ở lại, là người giữ tịnh xá. Rồi Tỷ-kheo-ni Uppalavaṇṇā đi
-đến Tôn giả Udāyī; đến rồi nói: “Bạch ngài, Thế Tôn ở đâu?” “Này tỷ
+lên hư không, hiện ra ở Trúc Lâm (Veḷuvana). Lúc ấy Thế Tôn đã vào làng khất thực.
+Tôn giả Ưu đà di (Udāyī) ở lại, là người giữ tịnh xá. Rồi Tỷ-kheo-ni Uppalavaṇṇā đi
+đến Tôn giả Ưu đà di (Udāyī); đến rồi nói: “Bạch ngài, Thế Tôn ở đâu?” “Này tỷ
 muội, Thế Tôn đã vào làng khất thực.” “Bạch ngài, hãy đưa thịt này cho
 Thế Tôn.” “Này tỷ muội, Thế Tôn đã được chị cúng thịt no đủ rồi. Nếu
 chị cho tôi nội y, tôi cũng sẽ no đủ với nội y.” “Bạch ngài, chúng tôi
@@ -7986,9 +7986,9 @@ thức-xoa-ma-na; sa-di-ni; người điên; người phạm lần đầu.
 
 ==== Pj 26. Xin Y Người Lạ (Aññātakaviññattisikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ Tôn giả Upananda dòng Sakya giỏi nói pháp
-thoại. Rồi con trai một trưởng giả đi đến Tôn giả Upananda dòng Sakya;
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ Tôn giả Upananda dòng Thích-ca (Sakya) giỏi nói pháp
+thoại. Rồi con trai một trưởng giả đi đến Tôn giả Upananda dòng Thích-ca (Sakya);
 đến rồi đảnh lễ Tôn giả Upananda dòng Sakya, ngồi xuống một bên. Tôn
 giả Upananda dòng Sakya dùng pháp thoại chỉ bày, khích lệ, làm cho
 phấn chấn, làm cho hoan hỷ con trai trưởng giả đang ngồi một bên. Rồi
@@ -8036,13 +8036,13 @@ vầy:”
 tội ưng xả đối trị.” Như vậy, điều học này đã được Thế Tôn chế cho các
 Tỷ-kheo.
 
-#super[3] Lúc bấy giờ nhiều Tỷ-kheo từ Sāketa đi đường đến Sāvatthī. Giữa
+#super[3] Lúc bấy giờ nhiều Tỷ-kheo từ Sa-kỳ (Sāketa) đi đường đến Xá-vệ (Sāvatthī). Giữa
 đường, bọn cướp ra, cướp các Tỷ-kheo ấy. Rồi các Tỷ-kheo ấy nghĩ: “Thế
 Tôn đã cấm xin y nơi cư sĩ nam hoặc cư sĩ nữ không bà con”, e ngại nên
 không xin. Họ lõa thể đi đến Sāvatthī, đảnh lễ các Tỷ-kheo. Các Tỷ-kheo
-nói: “Này hiền giả, những Ājīvaka này đẹp, họ đảnh lễ các Tỷ-kheo.” Họ
-nói: “Này hiền giả, chúng tôi không phải Ājīvaka, chúng tôi là
-Tỷ-kheo.” Các Tỷ-kheo nói với Tôn giả Upāli: “Này hiền giả Upāli, hãy
+nói: “Này hiền giả, những tà mạng ngoại đạo (Ājīvaka) này đẹp, họ đảnh lễ các Tỷ-kheo.” Họ
+nói: “Này hiền giả, chúng tôi không phải tà mạng ngoại đạo (Ājīvaka), chúng tôi là
+Tỷ-kheo.” Các Tỷ-kheo nói với Tôn giả Ưu-ba-ly (Upāli): “Này hiền giả Ưu-ba-ly (Upāli), hãy
 tra hỏi những người này.” Rồi khi được Tôn giả Upāli tra hỏi, các
 Tỷ-kheo ấy trình sự việc ấy. Rồi Tôn giả Upāli tra hỏi xong, nói với
 các Tỷ-kheo: “Này hiền giả, đây là Tỷ-kheo. Hãy cho họ y.” Những
@@ -8094,8 +8094,8 @@ bằng tài sản của mình; người điên; người phạm lần đầu.
 
 ==== Pj 27. Xin Quá Mức (Tatuttarisikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ nhóm sáu Tỷ-kheo đến các Tỷ-kheo bị cướp y,
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ nhóm sáu Tỷ-kheo đến các Tỷ-kheo bị cướp y,
 nói: “Này hiền giả, Thế Tôn đã cho phép Tỷ-kheo bị cướp y hoặc mất y
 được xin y nơi cư sĩ nam hoặc cư sĩ nữ không bà con. Này hiền giả, hãy
 xin y.” “Thôi, này hiền giả, chúng tôi đã được y rồi.” “Chúng tôi xin
@@ -8155,11 +8155,11 @@ không vì lý do mất; bà con; người đã mời; bằng tài sản của m
 
 ==== Pj 28. Y Đã Sắm (Upakkhaṭasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ có người nói với vợ: “Ta sẽ sắm y cho ngài
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ có người nói với vợ: “Ta sẽ sắm y cho ngài
 Upananda.” Có Tỷ-kheo khất thực nghe người ấy nói lời này. Rồi Tỷ-kheo
-ấy đi đến Tôn giả Upananda dòng Sakya; đến rồi nói với Tôn giả Upananda
-dòng Sakya: “Này hiền giả Upananda, ông có phước lớn. Ở chỗ kia, có
+ấy đi đến Tôn giả Upananda dòng Thích-ca (Sakya); đến rồi nói với Tôn giả Upananda
+dòng Thích-ca (Sakya): “Này hiền giả Upananda, ông có phước lớn. Ở chỗ kia, có
 người nói với vợ: ‘Ta sẽ sắm y cho ngài Upananda.’” “Này hiền giả,
 người ấy là hộ trì của tôi.” Rồi Tôn giả Upananda dòng Sakya đi đến
 người ấy; đến rồi nói với người ấy: “Này hiền giả, có thật chăng ông
@@ -8229,12 +8229,12 @@ người phạm lần đầu.
 
 ==== Pj 29. Y Đã Sắm Thứ Hai (Dutiyaupakkhaṭasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ có người nói với một người khác: “Ta sẽ sắm
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ có người nói với một người khác: “Ta sẽ sắm
 y cho ngài Upananda.” Người kia cũng nói: “Ta cũng sẽ sắm y cho ngài
 Upananda.” Có Tỷ-kheo khất thực nghe cuộc nói chuyện của những người
-ấy. Rồi Tỷ-kheo ấy đi đến Tôn giả Upananda dòng Sakya; đến rồi nói với
-Tôn giả Upananda dòng Sakya: “Này hiền giả Upananda, ông có phước lớn.
+ấy. Rồi Tỷ-kheo ấy đi đến Tôn giả Upananda dòng Thích-ca (Sakya); đến rồi nói với
+Tôn giả Upananda dòng Thích-ca (Sakya): “Này hiền giả Upananda, ông có phước lớn.
 Ở chỗ kia, có người nói với một người khác: ‘Ta sẽ sắm y cho ngài
 Upananda.’ Người kia cũng nói: ‘Ta cũng sẽ sắm y cho ngài Upananda.’”
 “Này hiền giả, họ là hộ trì của tôi.” Rồi Tôn giả Upananda dòng Sakya
@@ -8309,9 +8309,9 @@ mình; những người muốn đổi loại đắt thì ông bảo đổi loạ
 
 ==== Pj 30. Vua (Rājasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ một đại thần hộ trì Tôn giả Upananda dòng
-Sakya sai sứ đưa vật đổi y đến Tôn giả Upananda dòng Sakya: “Hãy dùng
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ một đại thần hộ trì Tôn giả Upananda dòng
+Thích-ca (Sakya) sai sứ đưa vật đổi y đến Tôn giả Upananda dòng Thích-ca (Sakya): “Hãy dùng
 vật đổi y này đổi lấy y, sắm y cho ngài Upananda.” Rồi sứ giả ấy đi
 đến Tôn giả Upananda dòng Sakya; đến rồi nói với Tôn giả Upananda dòng
 Sakya: “Bạch ngài, vật đổi y này được đưa đến vì ngài. Xin ngài nhận
@@ -8436,7 +8436,7 @@ cho; người điên; người phạm lần đầu.
 #strong[(Hết phẩm Kaṭhina thứ nhất.)]
 
 #strong[Tổng thuyết kệ:]
-Kaṭhina thu hồi, ba điều, \
+ca-tư-na (Kaṭhina) thu hồi, ba điều, \
 giặt y và nhận y; \
 Ba điều người không bà con, \
 hai người, và với sứ giả.
@@ -8445,7 +8445,7 @@ hai người, và với sứ giả.
 
 ==== Pj 31. Tơ Tằm (Kosiyasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Āḷavī, đền Aggāḷava. Lúc bấy giờ nhóm
+#super[1] Một thời, Đức Phật Thế Tôn trú ở A-la-bi (Āḷavī), đền A-ca-la-viên (Aggāḷava). Lúc bấy giờ nhóm
 sáu Tỷ-kheo đến những người làm tơ tằm, nói: “Này hiền giả, hãy nấu nhiều kén tằm,
 cũng cho chúng tôi. Chúng tôi cũng muốn làm tấm nệm pha tơ tằm.” Họ phàn nàn, chỉ
 trích, chê bai: “Sao các Sa-môn Thích tử đến chúng tôi nói: ‘Này hiền giả, hãy nấu
@@ -8492,7 +8492,7 @@ phạm tác ác.
 
 ==== Pj 32. Len Đen Thuần (Suddhakāḷakasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Vesālī, Mahāvana, giảng đường nóc nhọn.
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Tỳ-xá-ly (Vesālī), Đại Lâm (Mahāvana), giảng đường nóc nhọn.
 Lúc bấy giờ nhóm sáu Tỷ-kheo sai làm tấm nệm bằng lông cừu đen thuần. Mọi người đi
 tuần tra tịnh xá, thấy vậy, phàn nàn, chỉ trích, chê bai: “Sao các Sa-môn Thích tử
 lại sai làm tấm nệm bằng lông cừu đen thuần, như người tại gia hưởng dục!” Các
@@ -8534,8 +8534,8 @@ phạm tác ác.
 
 ==== Pj 33. Hai Phần (Dvebhāgasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ nhóm sáu Tỷ-kheo nghĩ: “Thế Tôn đã cấm sai làm tấm nệm
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ nhóm sáu Tỷ-kheo nghĩ: “Thế Tôn đã cấm sai làm tấm nệm
 bằng lông cừu đen thuần”, bèn chỉ lấy một ít trắng ở mép, rồi vẫn sai làm tấm nệm
 bằng lông cừu đen thuần. Những Tỷ-kheo thiểu dục, biết đủ, hay nhàm chán điều ác,
 thì phàn nàn, chỉ trích, chê bai: “Sao nhóm sáu Tỷ-kheo chỉ lấy một ít trắng ở
@@ -8582,8 +8582,8 @@ thảm trải đất, bức mành, nệm, hoặc gối; người điên; ngườ
 
 ==== Pj 34. Sáu Năm (Chabbassasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, Jetavana, khu vườn ông
-Anāthapiṇḍika. Lúc bấy giờ các Tỷ-kheo mỗi năm sai làm tấm nệm. Họ sống nhiều xin,
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana), khu vườn ông
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ các Tỷ-kheo mỗi năm sai làm tấm nệm. Họ sống nhiều xin,
 nhiều cầu: “Hãy cho lông cừu. Cần lông cừu.” Mọi người phàn nàn, chỉ trích, chê
 bai: “Sao các Sa-môn Thích tử mỗi năm sai làm tấm nệm, sống nhiều xin, nhiều cầu:
 ‘Hãy cho lông cừu. Cần lông cừu’! Còn tấm nệm của chúng tôi làm một lần thì dùng
@@ -8606,7 +8606,7 @@ học này như vầy:”
 đủ sáu năm, xả hay không xả tấm nệm ấy, lại sai làm tấm nệm mới khác, tội ưng xả
 đối trị.” Như vậy, điều học này đã được Thế Tôn chế cho các Tỷ-kheo.
 
-#super[3] Lúc bấy giờ có một Tỷ-kheo bệnh ở Kosambī. Bà con sai sứ đến chỗ Tỷ-kheo
+#super[3] Lúc bấy giờ có một Tỷ-kheo bệnh ở Kiều-thưởng-di (Kosambī). Bà con sai sứ đến chỗ Tỷ-kheo
 ấy: “Xin ngài hãy đến, chúng tôi sẽ hầu hạ.” Các Tỷ-kheo cũng nói: “Này hiền giả,
 hãy đi, bà con sẽ hầu hạ ông.” Ông nói: “Này hiền giả, Thế Tôn đã chế điều học:
 Tỷ-kheo sai làm tấm nệm mới rồi phải giữ sáu năm. Tôi đang bệnh, không thể mang
@@ -8660,14 +8660,14 @@ bức mành, nệm, hoặc gối; có sự chấp thuận của Tỷ-kheo; ngư�
 
 ==== Pj 35. Tọa Cụ Thảm (Nisīdanasanthatasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Rồi Thế Tôn bảo các Tỷ-kheo: “Này các thầy, Ta muốn độc cư suốt ba
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Rồi Thế Tôn bảo các Tỷ-kheo: “Này các thầy, Ta muốn độc cư suốt ba
 tháng. Không ai được đến gặp Ta, trừ một người mang thức ăn khất thực.” “Xin vâng,
 bạch Thế Tôn.” Các Tỷ-kheo vâng lời Thế Tôn, không ai đến gặp Thế Tôn, trừ một
-người mang thức ăn khất thực. Lúc bấy giờ, Tăng ở Sāvatthī đã lập nghị định: “Này
+người mang thức ăn khất thực. Lúc bấy giờ, Tăng ở Xá-vệ (Sāvatthī) đã lập nghị định: “Này
 hiền giả, Thế Tôn muốn độc cư suốt ba tháng. Không ai được đến gặp Thế Tôn, trừ
 một người mang thức ăn khất thực. Ai đến gặp Thế Tôn, phải khiến vị ấy phát lộ tội
-ưng đối trị.” Rồi Tôn giả Upasena Vaṅgantaputta, cùng với đồ chúng, đi đến chỗ Thế
+ưng đối trị.” Rồi Tôn giả Upasena Bang-gan-đa-bu-đa (Vaṅgantaputta), cùng với đồ chúng, đi đến chỗ Thế
 Tôn; đến nơi, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Chư Phật Thế Tôn vốn có lệ
 hỏi thăm các Tỷ-kheo mới đến. Thế Tôn nói với Tôn giả Upasena Vaṅgantaputta: “Này
 Upasena, các thầy có kham nhẫn không? Có đủ sống không? Có đi đường ít mệt nhọc
@@ -8760,8 +8760,8 @@ người điên; vị phạm lần đầu.
 
 ==== Pj 36. Lông Chiên (Eḷakalomasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, một Tỷ-kheo đang đi đến Sāvatthī trong xứ Kosala, dọc
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, một Tỷ-kheo đang đi đến Xá-vệ (Sāvatthī) trong xứ Câu-tát-la (Kosala), dọc
 đường được lông chiên. Vị ấy buộc lông chiên thành gói bằng y vai trái rồi đi.
 Người ta thấy vị Tỷ-kheo ấy, chế nhạo: “Bạch Đại đức, mua với giá bao nhiêu? Lãi
 sẽ được bao nhiêu?” Vị Tỷ-kheo bị người ta chế nhạo thì xấu hổ. Rồi vị ấy đến
@@ -8815,12 +8815,12 @@ lại vật bị đoạt rồi mang; nhận lại vật đã xả rồi mang; kh
 
 ==== Pj 37. Giặt Lông Chiên (Eḷakalomadhovāpanasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú giữa dân Sakya, tại Kapilavatthu, trong
-Nigrodhārāma. Lúc bấy giờ, các Tỷ-kheo nhóm sáu khiến Tỷ-kheo-ni giặt lông chiên,
+#super[1] Một thời, Đức Phật Thế Tôn trú giữa dân Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong
+Ni-câu-luật viên (Nigrodhārāma). Lúc bấy giờ, các Tỷ-kheo nhóm sáu khiến Tỷ-kheo-ni giặt lông chiên,
 nhuộm lông chiên, chải lông chiên. Các Tỷ-kheo-ni vì giặt, nhuộm, chải lông chiên
 nên bỏ bê việc học tụng, học hỏi, tăng thượng giới, tăng thượng tâm, tăng thượng
-tuệ. Rồi Mahāpajāpatī Gotamī đi đến chỗ Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi đứng
-một bên. Thế Tôn nói với Mahāpajāpatī Gotamī đang đứng một bên: “Này Gotamī, các
+tuệ. Rồi Ma-ha-bà-xà-ba-đề (Mahāpajāpatī) Cù-đàm-di (Gotamī) đi đến chỗ Thế Tôn; đến nơi, đảnh lễ Thế Tôn rồi đứng
+một bên. Thế Tôn nói với Ma-ha-bà-xà-ba-đề (Mahāpajāpatī) Cù-đàm-di (Gotamī) đang đứng một bên: “Này Gotamī, các
 Tỷ-kheo-ni có sống không phóng dật, tinh cần, quyết tâm không?” “Bạch Thế Tôn,
 Tỷ-kheo-ni đâu có không phóng dật! Các thầy nhóm sáu khiến Tỷ-kheo-ni giặt lông
 chiên, nhuộm lông chiên, chải lông chiên. Các Tỷ-kheo-ni vì giặt, nhuộm, chải lông
@@ -8884,7 +8884,7 @@ sa-di-ni; người điên; vị phạm lần đầu.
 
 ==== Pj 38. Vàng Bạc (Rūpiyasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, tại Veḷuvana, chỗ nuôi sóc.
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Vương Xá (Rājagaha), tại Trúc Lâm (Veḷuvana), chỗ nuôi sóc.
 Lúc bấy giờ, Tôn giả Upananda Sakyaputta là vị lui tới một gia đình, được cúng cơm
 thường xuyên. Thức ăn cứng hay thức ăn mềm gì có trong nhà ấy, phần của Tôn giả
 Upananda Sakyaputta đều được để riêng. Một buổi chiều, nhà ấy có thịt. Phần của
@@ -8958,8 +8958,8 @@ rồi để xuống, nghĩ “Của ai thì người ấy sẽ lấy”; ngườ
 
 ==== Pj 39. Giao Dịch Vàng Bạc (Rūpiyasaṃvohārasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, các Tỷ-kheo nhóm sáu tiến hành đủ loại giao dịch vàng
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, các Tỷ-kheo nhóm sáu tiến hành đủ loại giao dịch vàng
 bạc. Người ta phàn nàn, chỉ trích, chê bai: “Sao các Sa-môn Thích tử lại tiến hành
 đủ loại giao dịch vàng bạc, như hàng tại gia hưởng dục!” Các Tỷ-kheo nghe người ta
 phàn nàn, chỉ trích, chê bai. Những Tỷ-kheo thiểu dục, biết đủ, hay nhàm chán điều
@@ -9031,8 +9031,8 @@ bạc, tưởng không phải vàng bạc: vô tội.
 
 ==== Pj 40. Mua Bán (Kayavikkayasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Upananda Sakyaputta sắp làm việc y. Ngài lấy
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Upananda Sakyaputta sắp làm việc y. Ngài lấy
 vải vụn may tăng-già-lê, nhuộm thật đẹp, gia công thật khéo, rồi đắp. Một du sĩ
 đắp tấm vải đắt tiền, đi đến Tôn giả Upananda Sakyaputta, nói: “Này hiền giả,
 tăng-già-lê của hiền giả đẹp thật. Hãy đưa cho tôi, đổi lấy tấm vải này.” “Này
@@ -9099,8 +9099,8 @@ cả hai việc đủ loại.
 
 ==== Pj 41. Bát (Pattasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, các Tỷ-kheo nhóm sáu tích trữ nhiều bát. Người ta đi
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, các Tỷ-kheo nhóm sáu tích trữ nhiều bát. Người ta đi
 xem tịnh xá, thấy vậy, phàn nàn, chỉ trích, chê bai: “Sao các Sa-môn Thích tử lại
 tích trữ nhiều bát? Các Sa-môn Thích tử sắp buôn bát, hay sắp bày hàng gốm chăng?”
 Các Tỷ-kheo nghe người ta phàn nàn, chỉ trích, chê bai. Những Tỷ-kheo thiểu dục,
@@ -9116,10 +9116,10 @@ người đã tin. Này các thầy, các thầy hãy tuyên đọc điều họ
 #super[2] “Vị Tỷ-kheo nào cất giữ bát dư, tội ưng xả đối trị.” Như vậy, điều học
 này đã được Thế Tôn chế cho các Tỷ-kheo.
 
-#super[3] Lúc bấy giờ, Tôn giả Ānanda có một bát dư. Tôn giả Ānanda muốn đưa bát
-ấy cho Tôn giả Sāriputta. Tôn giả Sāriputta đang trú ở Sāketa. Tôn giả Ānanda
+#super[3] Lúc bấy giờ, Tôn giả A-nan (Ānanda) có một bát dư. Tôn giả A-nan (Ānanda) muốn đưa bát
+ấy cho Tôn giả Xá-lợi-phất (Sāriputta). Tôn giả Xá-lợi-phất (Sāriputta) đang trú ở Sa-kỳ (Sāketa). Tôn giả Ānanda
 nghĩ: “Thế Tôn đã chế điều học: không được cất giữ bát dư. Ta có bát dư này. Ta
-muốn đưa bát này cho Tôn giả Sāriputta. Tôn giả Sāriputta đang trú ở Sāketa. Ta
+muốn đưa bát này cho Tôn giả Sāriputta. Tôn giả Sāriputta đang trú ở Sa-kỳ (Sāketa). Ta
 nên làm thế nào?” Ngài trình sự việc ấy lên Thế Tôn. “Này Ānanda, Sāriputta sẽ đến
 trong bao lâu?” “Bạch Thế Tôn, ngày thứ chín hoặc ngày thứ mười.” Rồi Thế Tôn,
 nhân nhân duyên ấy, nhân sự việc ấy, nói pháp thoại rồi bảo các Tỷ-kheo: “Này các
@@ -9181,8 +9181,8 @@ không trao, phạm tác ác.”
 
 ==== Pj 42. Bát Chưa Đủ Năm Chỗ Vá (Ūnapañcabandhanasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú giữa dân Sakya, tại Kapilavatthu, trong
-Nigrodhārāma. Lúc bấy giờ, một thợ gốm đã thỉnh các Tỷ-kheo: “Tôn giả nào cần bát,
+#super[1] Một thời, Đức Phật Thế Tôn trú giữa dân Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong
+Ni-câu-luật viên (Nigrodhārāma). Lúc bấy giờ, một thợ gốm đã thỉnh các Tỷ-kheo: “Tôn giả nào cần bát,
 tôi xin dâng bát.” Các Tỷ-kheo không biết chừng mực, xin nhiều bát. Ai có bát nhỏ
 thì xin bát lớn; ai có bát lớn thì xin bát nhỏ. Thợ gốm ấy làm nhiều bát cho các
 Tỷ-kheo, không làm được đồ khác để bán, tự mình cũng không đủ sống, vợ con cũng
@@ -9284,10 +9284,10 @@ bằng tài sản của mình; người điên; vị phạm lần đầu.
 
 ==== Pj 43. Thuốc (Bhesajjasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Pilindavaccha ở Rājagaha sai dọn hang núi,
-muốn làm động. Vua Seniya Bimbisāra xứ Māgadha đi đến Tôn giả Pilindavaccha, đảnh
-lễ rồi ngồi xuống một bên. Ngồi một bên, vua Seniya Bimbisāra xứ Māgadha nói với
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Pilindavaccha ở Vương Xá (Rājagaha) sai dọn hang núi,
+muốn làm động. Vua Seniya Tần-bà-sa (Bimbisāra) xứ Ma-kiệt-đà (Māgadha) đi đến Tôn giả Pilindavaccha, đảnh
+lễ rồi ngồi xuống một bên. Ngồi một bên, vua Seniya Tần-bà-sa (Bimbisāra) xứ Ma-kiệt-đà (Māgadha) nói với
 Tôn giả Pilindavaccha: “Bạch Đại đức, Trưởng lão đang khiến làm gì?” “Tâu đại
 vương, tôi sai dọn hang núi, muốn làm động.” “Bạch Đại đức, Tôn giả có cần người
 coi sóc tịnh xá không?” “Tâu đại vương, Thế Tôn chưa cho phép người coi sóc tịnh
@@ -9401,8 +9401,8 @@ với tâm dứt bỏ, không luyến, rồi nhận lại mà dùng; người đ
 
 ==== Pj 44. Y Tắm Mưa (Vassikasāṭikasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, Thế Tôn đã cho phép các Tỷ-kheo y tắm mưa. Các Tỷ-kheo
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Thế Tôn đã cho phép các Tỷ-kheo y tắm mưa. Các Tỷ-kheo
 nhóm sáu nghĩ: “Thế Tôn đã cho phép y tắm mưa,” bèn tìm y tắm mưa trước hạn, may
 trước hạn rồi mặc, y tắm mưa đã cũ thì đứng trần cho mưa ướt thân. Những Tỷ-kheo
 thiểu dục, biết đủ, hay nhàm chán điều ác, thì phàn nàn, chỉ trích, chê bai: “Sao
@@ -9461,8 +9461,8 @@ y bị mất; lúc nguy cấp; người điên; vị phạm lần đầu.
 
 ==== Pj 45. Đoạt Y (Cīvaraacchindanasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, Tôn giả Upananda Sakyaputta nói với Tỷ-kheo đệ tử cộng
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, Tôn giả Upananda Sakyaputta nói với Tỷ-kheo đệ tử cộng
 trú của anh mình: “Này hiền giả, hãy đến, chúng ta sẽ đi du hành trong xứ.” “Bạch
 Đại đức, tôi không đi; y của tôi yếu.” “Này hiền giả, hãy đến, tôi sẽ cho hiền giả
 y,” rồi đưa y cho vị ấy. Vị Tỷ-kheo ấy nghe: “Nghe nói Thế Tôn sẽ đi du hành trong
@@ -9519,7 +9519,7 @@ thọ cụ túc: phạm tác ác.
 
 ==== Pj 46. Xin Chỉ (Suttaviññattisikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Rājagaha, tại Veḷuvana, chỗ nuôi sóc.
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Vương Xá (Rājagaha), tại Trúc Lâm (Veḷuvana), chỗ nuôi sóc.
 Lúc bấy giờ, các Tỷ-kheo nhóm sáu, vào mùa may y, xin nhiều chỉ. Y đã may xong,
 còn dư nhiều chỉ. Các Tỷ-kheo nhóm sáu nghĩ: “Này hiền giả, chúng ta hãy xin thêm
 chỉ nữa, rồi khiến thợ dệt dệt y.” Các Tỷ-kheo nhóm sáu xin thêm chỉ, khiến thợ
@@ -9567,8 +9567,8 @@ mình; người điên; vị phạm lần đầu.
 
 ==== Pj 47. Thợ Dệt (Mahāpesakārasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, một người sắp đi xa nói với vợ: “Hãy cầm chỉ đưa cho
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, một người sắp đi xa nói với vợ: “Hãy cầm chỉ đưa cho
 thợ dệt tên kia, khiến dệt y rồi cất; khi ta về sẽ dâng y cho Tôn giả Upananda.”
 Một Tỷ-kheo đi khất thực nghe người ấy nói lời ấy. Vị Tỷ-kheo ấy đi đến Tôn giả
 Upananda Sakyaputta, nói: “Này hiền giả Upananda, hiền giả có đại phước. Ở chỗ
@@ -9652,8 +9652,8 @@ mình; người muốn khiến dệt đắt thì khiến dệt rẻ; người đ
 
 ==== Pj 48. Y Cấp Tốc (Accekacīvarasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, một đại thần sắp đi xa sai người đến chỗ các Tỷ-kheo:
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, một đại thần sắp đi xa sai người đến chỗ các Tỷ-kheo:
 “Xin chư Đại đức đến, tôi sẽ dâng y an cư.” Các Tỷ-kheo nghĩ: “Thế Tôn cho phép y
 an cư cho vị đã trải qua mùa an cư,” nên e ngại, không đến. Đại thần ấy phàn nàn,
 chỉ trích, chê bai: “Sao chư Đại đức được tôi sai người mời mà không đến! Ta đang
@@ -9664,11 +9664,11 @@ Ta cho phép nhận y cấp tốc rồi cất.”
 
 #super[2] Lúc bấy giờ, các Tỷ-kheo nghĩ: “Thế Tôn đã cho phép nhận y cấp tốc rồi
 cất,” bèn nhận y cấp tốc rồi để quá thời hạn may y. Những y ấy được buộc thành
-gói, treo trên sào y. Tôn giả Ānanda đi tuần phòng xá, thấy những y buộc thành gói
+gói, treo trên sào y. Tôn giả A-nan (Ānanda) đi tuần phòng xá, thấy những y buộc thành gói
 treo trên sào y. Thấy vậy, nói với các Tỷ-kheo: “Này hiền giả, những y buộc thành
 gói treo trên sào y này là của ai?” “Này hiền giả, là y cấp tốc của chúng tôi.”
 “Này hiền giả, những y này đã cất bao lâu?” Các Tỷ-kheo ấy trình với Tôn giả
-Ānanda đúng thời gian đã cất. Tôn giả Ānanda phàn nàn, chỉ trích, chê bai: “Sao
+A-nan (Ānanda) đúng thời gian đã cất. Tôn giả Ānanda phàn nàn, chỉ trích, chê bai: “Sao
 các Tỷ-kheo nhận y cấp tốc rồi để quá thời hạn may y!” Rồi Tôn giả Ānanda dùng
 nhiều cách khiển trách các Tỷ-kheo ấy, rồi trình sự việc ấy lên Thế Tôn. Rồi Thế
 Tôn, nhân nhân duyên ấy, nhân sự việc ấy, tập hợp chúng Tỷ-kheo, hỏi: “Này các
@@ -9717,8 +9717,8 @@ người ta đoạt lấy, người ta lấy vì thân tín; người điên; v�
 
 ==== Pj 49. Trú Xứ Nguy Hiểm (Sāsaṅkasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, các Tỷ-kheo đã trải qua mùa an cư, trú ở các sàng tọa
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, các Tỷ-kheo đã trải qua mùa an cư, trú ở các sàng tọa
 rừng. Bọn cướp tháng Kattika hại các Tỷ-kheo, nghĩ “Được của rồi.” Họ trình sự
 việc ấy lên Thế Tôn. Rồi Thế Tôn, nhân nhân duyên ấy, nhân sự việc ấy, nói pháp
 thoại rồi bảo các Tỷ-kheo: “Này các thầy, Ta cho phép vị trú ở sàng tọa rừng được
@@ -9780,8 +9780,8 @@ người điên; vị phạm lần đầu.
 
 ==== Pj 50. Lợi Dưỡng Đã Hồi Hướng (Pariṇatasikkhāpadaṃ)
 
-#super[1] Một thời, Đức Phật Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn của
-Anāthapiṇḍika. Lúc bấy giờ, ở Sāvatthī, một hội đoàn đã soạn cơm cùng y cho Tăng,
+#super[1] Một thời, Đức Phật Thế Tôn trú ở Xá-vệ (Sāvatthī), tại Kỳ-đà Lâm (Jetavana), khu vườn của
+Cấp Cô Độc (Anāthapiṇḍika). Lúc bấy giờ, ở Xá-vệ (Sāvatthī), một hội đoàn đã soạn cơm cùng y cho Tăng,
 nghĩ: “Cúng cơm rồi sẽ dâng y.” Các Tỷ-kheo nhóm sáu đi đến hội đoàn ấy, nói: “Này
 cư sĩ, hãy đưa những y này cho chúng tôi.” “Bạch Đại đức, chúng tôi không đưa.
 Chúng tôi đã định mỗi năm cúng cơm cùng y cho Tăng.” “Này cư sĩ, Tăng có nhiều thí

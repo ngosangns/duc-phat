@@ -710,8 +710,8 @@ def main() -> int:
         collections.append(
             build_grouped(
                 "new",
-                "Bản dịch độc lập",
-                "Dịch trực tiếp từ Pāli gốc, độc lập với các bản đã lưu hành.",
+                "Bản dịch AI",
+                "Do AI dịch trực tiếp từ Pāli gốc, độc lập với các bản đã lưu hành.",
                 root / "kinh" / "ban-dich-doc-lap-tu-pali-goc",
                 root,
                 texts,

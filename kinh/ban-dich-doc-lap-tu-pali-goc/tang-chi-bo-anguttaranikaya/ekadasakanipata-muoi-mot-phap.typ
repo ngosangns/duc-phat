@@ -22,13 +22,13 @@ _Trạng thái: đã dịch 35/35 kinh/nhóm; đã trọn tập; đã viết l�
 
 === AN 11.1. Có Mục Đích Gì (Kimatthiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Sāvatthī, Jetavana,
-vườn ông Anāthapiṇḍika. Tôn giả Ānanda đến, đảnh lễ, ngồi sang một bên,
+#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana),
+vườn ông Cấp Cô Độc (Anāthapiṇḍika). Tôn giả A-nan (Ānanda) đến, đảnh lễ, ngồi sang một bên,
 rồi bạch:
 
 "Bạch Thế Tôn, giới thiện xảo để làm gì, lợi ích là gì?"
 
-"Này Ānanda, để hết hối. Lợi ích cũng là hết hối."
+"Này A-nan (Ānanda), để hết hối. Lợi ích cũng là hết hối."
 
 "Bạch Thế Tôn, hết hối để làm gì, lợi ích là gì?"
 
@@ -134,7 +134,7 @@ Này các thầy, ví như một cây có cành lá sum suê thì vỏ cây cũn
 
 === AN 11.4. Nền Tảng (2) (Dutiyaupanisāsuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Xá-lợi-phất (Sāriputta): "Này hiền giả." Tôn giả Sāriputta nói: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
 
 Này các hiền giả, ví như một cây có cành lá bị hư hại thì vỏ cây cũng không phát triển đầy đủ, vỏ trong, giác gỗ, lõi cây cũng đều không phát triển đầy đủ. Cũng vậy, này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy; không có không hối hận cho đến nền tảng cho tri kiến giải thoát cũng bị phá hủy như vậy.
 
@@ -144,7 +144,7 @@ Này các hiền giả, ví như một cây có cành lá sum suê thì vỏ câ
 
 === AN 11.5. Nền Tảng (3) (Tatiyaupanisāsuttaṃ)
 
-#super[1] Tại đó Tôn giả Ānanda gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Ānanda: "Này hiền giả." Tôn giả Ānanda nói: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
+#super[1] Tại đó Tôn giả A-nan (Ānanda) gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả A-nan (Ānanda): "Này hiền giả." Tôn giả Ānanda nói: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
 
 Này các hiền giả, ví như một cây có cành lá bị hư hại thì vỏ cây cũng không phát triển đầy đủ, vỏ trong, giác gỗ, lõi cây cũng đều không phát triển đầy đủ. Cũng vậy, này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy; không có không hối hận cho đến nền tảng cho tri kiến giải thoát cũng bị phá hủy như vậy.
 
@@ -180,7 +180,7 @@ lại không gặp phải một trong mười một tai họa ấy."
 
 === AN 11.7. Tưởng (Saññāsuttaṃ)
 
-#super[1] Bấy giờ Tôn giả Ānanda đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế
+#super[1] Bấy giờ Tôn giả A-nan (Ānanda) đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế
 Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không có
 tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng
 về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về
@@ -192,7 +192,7 @@ với đời sau, và đối với những gì được thấy, được nghe, �
 được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng;
 nhưng vẫn có tưởng?"
 
-"Này Ānanda, có thể Tỷ-kheo chứng được định như vầy: không có tưởng về đất
+"Này A-nan (Ānanda), có thể Tỷ-kheo chứng được định như vầy: không có tưởng về đất
 đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối
 với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên
 xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức
@@ -220,7 +220,7 @@ có tưởng; nhưng vẫn có tưởng."
 
 Rồi Tôn giả Ānanda hoan hỷ, tín thọ lời Thế Tôn dạy, từ chỗ ngồi đứng dậy,
 đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, rồi đi đến chỗ Tôn giả
-Sāriputta; đến rồi, cùng Tôn giả Sāriputta hỏi thăm nhau. Sau khi nói những
+Xá-lợi-phất (Sāriputta); đến rồi, cùng Tôn giả Xá-lợi-phất (Sāriputta) hỏi thăm nhau. Sau khi nói những
 lời hỏi thăm thân hữu, Tôn giả Ānanda ngồi sang một bên, rồi nói với Tôn giả
 Sāriputta: "Này hiền giả Sāriputta, có thể chăng Tỷ-kheo chứng được định như
 vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước,
@@ -262,7 +262,7 @@ thượng!"
 
 === AN 11.8. Tác Ý (Manasikārasuttaṃ)
 
-#super[1] Bấy giờ Tôn giả Ānanda đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế
+#super[1] Bấy giờ Tôn giả A-nan (Ānanda) đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế
 Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không tác ý
 đến mắt, không tác ý đến sắc, không tác ý đến tai, không tác ý đến thanh,
 không tác ý đến mũi, không tác ý đến hương, không tác ý đến lưỡi, không tác ý
@@ -274,7 +274,7 @@ không tác ý đến đời sau, và những gì được thấy, được nghe
 biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, những cái ấy cũng
 không tác ý; nhưng vẫn có tác ý?"
 
-"Này Ānanda, có thể Tỷ-kheo chứng được định như vầy: không tác ý đến mắt,
+"Này A-nan (Ānanda), có thể Tỷ-kheo chứng được định như vầy: không tác ý đến mắt,
 không tác ý đến sắc, không tác ý đến tai, không tác ý đến thanh, không tác ý
 đến mũi, không tác ý đến hương, không tác ý đến lưỡi, không tác ý đến vị,
 không tác ý đến thân, không tác ý đến xúc, không tác ý đến đất, không tác ý
@@ -302,7 +302,7 @@ cũng không tác ý; nhưng vẫn có tác ý."
 
 === AN 11.9. Saddha (Saddhasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Nātika, tại ngôi nhà gạch. Bấy giờ Tôn giả
+#super[1] Một thời Thế Tôn trú ở Nha-đi-ca (Nātika), tại ngôi nhà gạch. Bấy giờ Tôn giả
 Saddha đến, đảnh lễ, ngồi sang một bên. Thế Tôn nói với Tôn giả Saddha: "Này
 Saddha, hãy thiền theo cách ngựa thuần chủng thiền, chớ thiền theo cách ngựa
 hạ liệt thiền.
@@ -360,8 +360,8 @@ không nương Phi tưởng phi phi tưởng xứ mà thiền, không nương đ
 thiền, không nương đời sau mà thiền, và những gì được thấy, được nghe, được
 cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, cũng không
 nương những cái ấy mà thiền; nhưng vẫn thiền. Này Saddha, đối với bậc thuần
-chủng hiền thiện thiền như vậy, chư thiên cùng với Indra, cùng với Phạm
-thiên, cùng với Pajāpati, từ xa đảnh lễ:
+chủng hiền thiện thiền như vậy, chư thiên cùng với Nhân-đà-la (Indra), cùng với Phạm
+thiên, cùng với Ba-xà-ba-đề (Pajāpati), từ xa đảnh lễ:
 
 'Đảnh lễ Ngài, bậc nhân kiệt, \
 đảnh lễ Ngài, bậc tối thượng nhân; \
@@ -375,8 +375,8 @@ vô biên xứ, không nương Vô sở hữu xứ, không nương Phi tưởng 
 xứ, không nương đời này, không nương đời sau, và những gì được thấy, được
 nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý,
 cũng không nương những cái ấy mà thiền, nhưng vẫn thiền? Bạch Thế Tôn, đối
-với bậc thuần chủng hiền thiện thiền như vậy, chư thiên cùng với Indra, cùng
-với Phạm thiên, cùng với Pajāpati, từ xa đảnh lễ như thế nào?"
+với bậc thuần chủng hiền thiện thiền như vậy, chư thiên cùng với Nhân-đà-la (Indra), cùng
+với Phạm thiên, cùng với Ba-xà-ba-đề (Pajāpati), từ xa đảnh lễ như thế nào?"
 
 "Này Saddha, ở đây, đối với bậc thuần chủng hiền thiện, tưởng về đất đối với
 đất đã tiêu tán, tưởng về nước đối với nước đã tiêu tán, tưởng về lửa đối với
@@ -404,7 +404,7 @@ mà thiền định như vậy.'"
 
 === AN 11.10. Moranivāpa (Moranivāpasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Rājagaha, tại Moranivāpa, khu vườn du sĩ. Tại
+#super[1] Một thời Thế Tôn trú ở Vương Xá (Rājagaha), tại Khổng Tước Lâm (Moranivāpa), khu vườn du sĩ. Tại
 đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn:
 "Bạch Thế Tôn." Thế Tôn nói: "Này các thầy, Tỷ-kheo thành tựu ba pháp thì đã
 hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt
@@ -435,14 +435,14 @@ Tỷ-kheo thành tựu hai pháp ấy thì đã hoàn tất rốt ráo, đã an 
 ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng
 giữa trời người.
 
-Này các thầy, bài kệ này đã được Phạm thiên Sanaṅkumāra nói:
+Này các thầy, bài kệ này đã được Phạm thiên Thường Đồng Tử (Sanaṅkumāra) nói:
 
 'Sát-đế-lợi là tối thắng giữa loài người, \
 đối với những ai nương dòng họ; \
 người đầy đủ minh và hạnh, \
 mới là tối thắng giữa trời người.'
 
-Này các thầy, bài kệ ấy do Sanaṅkumāra nói là khéo nói, không vụng nói; có
+Này các thầy, bài kệ ấy do Thường Đồng Tử (Sanaṅkumāra) nói là khéo nói, không vụng nói; có
 lợi ích, không phải không lợi ích; được Ta chấp nhận. Ta cũng nói như vậy:
 
 'Sát-đế-lợi là tối thắng giữa loài người, \
@@ -455,17 +455,17 @@ mới là tối thắng giữa trời người.'"
 #strong[Tổng thuyết kệ:]
 
 Có mục đích gì, tư, ba nền tảng, và tai họa; \
-hai: tưởng, tác ý, Saddha, Moranivāpa.
+hai: tưởng, tác ý, Saddha, Khổng Tước Lâm (Moranivāpa).
 
 == 2. Tùy Niệm (Anussativaggo)
 
 === AN 11.11. Mahānāma (1) (Paṭhamamahānāmasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú giữa những người Sakya, tại Kapilavatthu, trong Nigrodhārāma.
+#super[1] Một thời Thế Tôn trú giữa những người Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong Ni-câu-luật viên (Nigrodhārāma).
 
-Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành." Mahānāma người Sakya nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'"
+Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành." Ma-ha-nam (Mahānāma) người Thích-ca (Sakya) nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'"
 
-Rồi Mahānāma người Sakya đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế Tôn:
+Rồi Ma-ha-nam (Mahānāma) người Sakya đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế Tôn:
 "Bạch Thế Tôn, con được nghe: 'Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn —
 khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.' Bạch Thế Tôn, chúng
 con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?"
@@ -548,8 +548,8 @@ quần chúng không quân bình, sống không sân hận giữa quần chúng 
 nhập dòng pháp, tu tập niệm thí.
 
 Lại nữa, này Mahānāma, ông hãy tùy niệm chư thiên: 'Có chư thiên Tứ Đại Thiên
-Vương, có chư thiên Tāvatiṃsa, có chư thiên Yāma, có chư thiên Tusita, có chư
-thiên Nimmānarati, có chư thiên Paranimmitavasavatti, có chư thiên Phạm
+Vương, có chư thiên Tam thập tam thiên (Tāvatiṃsa), có chư thiên Dạ-ma (Yāma), có chư thiên Đâu-suất (Tusita), có chư
+thiên Hóa lạc thiên (Nimmānarati), có chư thiên Paranimmitavasavatti, có chư thiên Phạm
 chúng, có chư thiên cao hơn nữa. Chư thiên ấy mệnh chung từ đây, sinh đến đó,
 vì thành tựu lòng tin như vậy; nơi ta cũng có lòng tin như vậy. Chư thiên ấy
 mệnh chung từ đây, sinh đến đó, vì thành tựu giới như vậy; nơi ta cũng có
@@ -570,11 +570,11 @@ quần chúng sân hận, đã nhập dòng pháp, tu tập niệm thiên."
 
 === AN 11.12. Mahānāma (2) (Dutiyamahānāmasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú giữa những người Sakya, tại Kapilavatthu, trong Nigrodhārāma.
+#super[1] Một thời Thế Tôn trú giữa những người Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong Ni-câu-luật viên (Nigrodhārāma).
 
-Lúc bấy giờ, Mahānāma người Sakya vừa khỏi bệnh, khỏi bệnh chưa lâu. Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành."
+Lúc bấy giờ, Ma-ha-nam (Mahānāma) người Thích-ca (Sakya) vừa khỏi bệnh, khỏi bệnh chưa lâu. Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành."
 
-Mahānāma người Sakya nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn,
+Ma-ha-nam (Mahānāma) người Sakya nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn,
 nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'" Rồi Mahānāma
 người Sakya đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế Tôn: "Bạch Thế Tôn,
 con được nghe: 'Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn — khi y đã
@@ -640,8 +640,8 @@ Niệm thí ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm
 công việc, khi sống trong nhà đông con cái.
 
 Lại nữa, này Mahānāma, ông hãy tùy niệm chư thiên: 'Có chư thiên Tứ Đại Thiên
-Vương, có chư thiên Tāvatiṃsa, có chư thiên Yāma, có chư thiên Tusita, có chư
-thiên Nimmānarati, có chư thiên Paranimmitavasavatti, có chư thiên Phạm
+Vương, có chư thiên Tam thập tam thiên (Tāvatiṃsa), có chư thiên Dạ-ma (Yāma), có chư thiên Đâu-suất (Tusita), có chư
+thiên Hóa lạc thiên (Nimmānarati), có chư thiên Paranimmitavasavatti, có chư thiên Phạm
 chúng, có chư thiên cao hơn nữa. Chư thiên ấy mệnh chung từ đây, sinh đến đó,
 vì thành tựu lòng tin như vậy; nơi ta cũng có lòng tin như vậy. Chư thiên ấy
 mệnh chung từ đây, sinh đến đó, vì thành tựu giới, nghe pháp, sự xả thí, tuệ
@@ -658,9 +658,9 @@ khi đảm đang công việc, khi sống trong nhà đông con cái."
 
 === AN 11.13. Nandiya (Nandiyasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú giữa những người Sakya, tại Kapilavatthu, trong
-Nigrodhārāma. Lúc bấy giờ Thế Tôn muốn đến Sāvatthī để nhập hạ. Nandiya người
-Sakya nghe: "Nghe nói Thế Tôn muốn đến Sāvatthī để nhập hạ." Rồi Nandiya
+#super[1] Một thời Thế Tôn trú giữa những người Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong
+Ni-câu-luật viên (Nigrodhārāma). Lúc bấy giờ Thế Tôn muốn đến Xá-vệ (Sāvatthī) để nhập hạ. Nan-đề (Nandiya) người
+Thích-ca (Sakya) nghe: "Nghe nói Thế Tôn muốn đến Xá-vệ (Sāvatthī) để nhập hạ." Rồi Nan-đề (Nandiya)
 người Sakya nghĩ: "Hay là ta cũng đến Sāvatthī để nhập hạ. Ở đó ta sẽ đảm
 đang công việc, và sẽ được yết kiến Thế Tôn theo thời." Rồi Thế Tôn đến
 Sāvatthī nhập hạ. Nandiya người Sakya cũng đến Sāvatthī nhập hạ. Ở đó ông đảm
@@ -726,13 +726,13 @@ nắm giữ."
 
 === AN 11.14. Subhūti (Subhūtisuttaṃ)
 
-#super[1] Bấy giờ Tôn giả Subhūti cùng Tỷ-kheo Saddha đến, đảnh lễ, ngồi sang
-một bên. Thế Tôn nói với Tôn giả Subhūti: "Này Subhūti, Tỷ-kheo này tên gì?"
+#super[1] Bấy giờ Tôn giả Tu-bồ-đề (Subhūti) cùng Tỷ-kheo Saddha đến, đảnh lễ, ngồi sang
+một bên. Thế Tôn nói với Tôn giả Tu-bồ-đề (Subhūti): "Này Subhūti, Tỷ-kheo này tên gì?"
 
-"Bạch Thế Tôn, Tỷ-kheo này tên Saddha, con trai cư sĩ Sudatta, vì lòng tin
+"Bạch Thế Tôn, Tỷ-kheo này tên Saddha, con trai cư sĩ Tu-đạt-đa (Sudatta), vì lòng tin
 xuất gia, từ bỏ gia đình, sống không gia đình."
 
-"Này Subhūti, Tỷ-kheo Saddha, con trai cư sĩ Sudatta, vì lòng tin xuất gia,
+"Này Subhūti, Tỷ-kheo Saddha, con trai cư sĩ Tu-đạt-đa (Sudatta), vì lòng tin xuất gia,
 từ bỏ gia đình, sống không gia đình, có hiện rõ trong những dấu hiệu của
 người có tín không?"
 
@@ -846,13 +846,13 @@ mười một quả lợi ấy đáng mong đợi."
 
 === AN 11.16. Aṭṭhakanāgara (Aṭṭhakanāgarasuttaṃ)
 
-#super[1] Một thời Tôn giả Ānanda trú ở Vesālī, tại làng Beluvagāmaka. Lúc bấy
-giờ, gia chủ Dasama ở Aṭṭhakanāgara vì một công việc đã đến Pāṭaliputta. Rồi
-gia chủ Dasama ở Aṭṭhakanāgara đi đến Kukkuṭārāma, đến chỗ một Tỷ-kheo nọ;
-đến rồi, nói với Tỷ-kheo ấy: "Bạch Tôn giả, nay Tôn giả Ānanda trú ở đâu?
+#super[1] Một thời Tôn giả A-nan (Ānanda) trú ở Tỳ-xá-ly (Vesālī), tại làng Beluvagāmaka. Lúc bấy
+giờ, gia chủ Dasama ở Bát Thành (Aṭṭhakanāgara) vì một công việc đã đến Ba-tha-li-bu-đa (Pāṭaliputta). Rồi
+gia chủ Dasama ở Bát Thành (Aṭṭhakanāgara) đi đến Kê Viên (Kukkuṭārāma), đến chỗ một Tỷ-kheo nọ;
+đến rồi, nói với Tỷ-kheo ấy: "Bạch Tôn giả, nay Tôn giả A-nan (Ānanda) trú ở đâu?
 Chúng con muốn được yết kiến Tôn giả Ānanda."
 
-"Này gia chủ, Tôn giả Ānanda trú ở Vesālī, tại làng Beluvagāmaka."
+"Này gia chủ, Tôn giả Ānanda trú ở Tỳ-xá-ly (Vesālī), tại làng Beluvagāmaka."
 
 Rồi gia chủ Dasama ở Aṭṭhakanāgara, sau khi giải quyết xong công việc tại
 Pāṭaliputta, đi đến Vesālī, đến làng Beluvagāmaka, đến chỗ Tôn giả Ānanda;
@@ -1157,8 +1157,8 @@ nghe, được cảm, được biết, được đạt đến, được tìm c�
 
 === AN 11.20. Định (3) (Tatiyasamādhisuttaṃ)
 
-#super[1] Bấy giờ nhiều Tỷ-kheo đi đến chỗ Tôn giả Sāriputta; đến rồi, cùng Tôn
-giả Sāriputta hỏi thăm nhau. Sau khi nói những lời hỏi thăm thân hữu, họ
+#super[1] Bấy giờ nhiều Tỷ-kheo đi đến chỗ Tôn giả Xá-lợi-phất (Sāriputta); đến rồi, cùng Tôn
+giả Xá-lợi-phất (Sāriputta) hỏi thăm nhau. Sau khi nói những lời hỏi thăm thân hữu, họ
 ngồi sang một bên, rồi nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, có
 thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với
 đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa,
@@ -1191,7 +1191,7 @@ bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
 
 === AN 11.21. Định (4) (Catutthasamādhisuttaṃ)
 
-#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả, có thể
+#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả, có thể
 chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất,
 không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa,
 không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối
@@ -1203,7 +1203,7 @@ và đối với những gì được thấy, được nghe, được cảm, đ�
 được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có
 tưởng?"
 
-"Này hiền giả, dù từ xa chúng tôi cũng đến chỗ Tôn giả Sāriputta để hiểu
+"Này hiền giả, dù từ xa chúng tôi cũng đến chỗ Tôn giả Xá-lợi-phất (Sāriputta) để hiểu
 nghĩa lời ấy. Lành thay, xin Tôn giả Sāriputta hãy giảng nghĩa lời ấy. Nghe
 Tôn giả Sāriputta nói, các Tỷ-kheo sẽ thọ trì."
 
@@ -1230,8 +1230,8 @@ bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
 
 #strong[Tổng thuyết kệ:]
 
-Hai kinh Mahānāma, Nandiya, Subhūti; \
-Từ, Aṭṭhaka, người chăn bò, và bốn định.
+Hai kinh Ma-ha-nam (Mahānāma), Nan-đề (Nandiya), Tu-bồ-đề (Subhūti); \
+Từ, Át-tha-ca (Aṭṭhaka), người chăn bò, và bốn định.
 
 == 3. Sa-môn Hạnh (Sāmaññavaggo)
 

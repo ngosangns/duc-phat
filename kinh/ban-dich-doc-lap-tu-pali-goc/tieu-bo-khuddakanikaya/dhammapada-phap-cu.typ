@@ -170,7 +170,7 @@ tỉnh thức giữa những kẻ ngủ — \
 người trí bỏ lại chúng mà đi, \
 như ngựa nhanh bỏ lại ngựa yếu.
 
-#super[30] Nhờ không phóng dật, Maghavā \
+#super[30] Nhờ không phóng dật, Ma-kha-phu (Maghavā) \
 lên đến ngôi cao nhất giữa chư thiên. \
 Không phóng dật được tán thán, \
 phóng dật luôn bị chê.
@@ -249,12 +249,12 @@ làm lợi mình hơn thế.
 == 4. Phẩm Hoa (Pupphavaggo)
 
 #super[44] Ai sẽ chinh phục quả đất này, \
-cõi Yama và thế giới chư thiên này? \
+cõi Dạ-ma (Yama) và thế giới chư thiên này? \
 Ai sẽ hái lấy câu Pháp đã khéo dạy, \
 như người khéo tay hái hoa?
 
 #super[45] Bậc Hữu học sẽ chinh phục quả đất này, \
-cõi Yama và thế giới chư thiên này. \
+cõi Dạ-ma (Yama) và thế giới chư thiên này. \
 Bậc Hữu học sẽ hái lấy câu Pháp đã khéo dạy, \
 như người khéo tay hái hoa.
 
@@ -1104,7 +1104,7 @@ ta sống không hối hả.
 #super[200] Thật ta sống rất lạc, \
 những kẻ không còn sở hữu gì. \
 Ta sẽ lấy hỷ làm thức ăn, \
-như chư thiên Ābhassarā.
+như chư thiên Quang Âm thiên (Ābhassarā).
 
 #super[201] Thắng thì sanh hận, \
 bại thì ngủ khổ. \
@@ -1294,7 +1294,7 @@ họ thật khéo thu thúc.
 == 18. Phẩm Cáu Bẩn (Malavaggo)
 
 #super[235] Nay ngươi như lá úa, \
-sứ giả Yama đã đứng sẵn. \
+sứ giả Dạ-ma (Yama) đã đứng sẵn. \
 Ngươi đứng trước cửa ra đi, \
 lương thực đường xa cũng không có.
 
@@ -1304,7 +1304,7 @@ Cáu bẩn đã luyện sạch, không cấu uế, \
 ngươi sẽ đến cảnh Thánh cõi trời.
 
 #super[237] Nay tuổi đã dẫn ngươi đi, \
-ngươi đã lên đường đến chỗ Yama. \
+ngươi đã lên đường đến chỗ Dạ-ma (Yama). \
 Giữa đường không còn chỗ ở, \
 lương thực đường xa cũng không có.
 
@@ -1619,12 +1619,12 @@ và hai vị vua Bà-la-môn, \
 giết hổ làm thứ năm — \
 Bà-la-môn ra đi không ưu não.
 
-#super[296] Đệ tử Gotama luôn luôn \
+#super[296] Đệ tử Cù-đàm (Gotama) luôn luôn \
 tỉnh thức một cách khéo léo — \
 ngày và đêm, \
 niệm của họ thường hướng về Phật.
 
-#super[297] Đệ tử Gotama luôn luôn \
+#super[297] Đệ tử Cù-đàm (Gotama) luôn luôn \
 tỉnh thức một cách khéo léo — \
 ngày và đêm, \
 niệm của họ thường hướng về Pháp.
@@ -1662,7 +1662,7 @@ cũng chớ để khổ đuổi theo.
 ở đó được cung kính.
 
 #super[304] Bậc hiền thiện tỏa sáng từ xa \
-như núi Himavanta. \
+như núi Tuyết sơn (Himavanta). \
 Kẻ bất thiện ở đây không hiện, \
 như tên bắn trong đêm.
 
