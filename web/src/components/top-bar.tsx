@@ -1,4 +1,4 @@
-import { Show } from "solid-js";
+import { onCleanup, onMount, Show } from "solid-js";
 import { themeLabel, useApp } from "../app-state";
 import { AppLink } from "./link";
 import { IconBookmark, IconList } from "./icons";
@@ -12,8 +12,19 @@ export function TopBar(props: {
 }) {
   const app = useApp();
   const label = () => (props.marked ? "Bỏ đánh dấu (B)" : "Đánh dấu chỗ đang đọc (B)");
+  let bar!: HTMLElement;
+  onMount(() => {
+    // Publish the real rendered height (incl. safe-area + wrapped rows) so
+    // sticky elements below can anchor to it instead of a hardcoded guess.
+    const set = () =>
+      document.documentElement.style.setProperty("--top-h", `${bar.offsetHeight}px`);
+    set();
+    const ro = new ResizeObserver(set);
+    ro.observe(bar);
+    onCleanup(() => ro.disconnect());
+  });
   return (
-    <header class="top">
+    <header class="top" ref={bar}>
       <AppLink class="brand" href="/">
         {props.brand}
         <small>{props.sub}</small>
