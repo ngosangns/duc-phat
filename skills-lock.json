@@ -13,6 +13,16 @@
       "skillPath": "skills/humanizer-vi/SKILL.md",
       "computedHash": "b727ce57c0c2c0df06524fdc7106d092bda926b9012b6a9bcfc9f520fd6a2e20"
     },
+    "kinh-van-phong": {
+      "source": "./.agents/skills/kinh-van-phong",
+      "sourceType": "local",
+      "computedHash": "f53ef7e872b82f35c61530a3864dd1f507bc3c30a9b2ffe9bc19f5124c38e1c1"
+    },
+    "phien-am-pali": {
+      "source": "./.agents/skills/phien-am-pali",
+      "sourceType": "local",
+      "computedHash": "f1d1984b82ee6bb467cb491eac8c1cce4ee4f99f27fc009d5316f71ebae1fbfa"
+    },
     "style-guide-vi": {
       "source": "longhang2004/vietnamese-humanizer",
       "sourceType": "github",
