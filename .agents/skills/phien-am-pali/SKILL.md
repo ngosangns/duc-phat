@@ -1,9 +1,9 @@
 ---
 name: phien-am-pali
-description: Phiên âm, tra cứu và trình bày tên riêng cùng thuật ngữ Pali trong các bản dịch Việt của repo (kinh/ban-dich-doc-lap-tu-pali-goc). Dùng khi gặp tên người/địa danh/loài chúng sinh Pali chưa có tên Việt, khi cần chú thích "Việt (Pali)" cho lần xuất hiện đầu tiên, khi đặt tên kinh hoặc nhân vật, khi soát tính nhất quán của tên riêng, hoặc khi cập nhật scripts/name-map*.tsv. Không tự phiên âm khi đã có dạng chứng thực trong name-map.
+description: Phiên âm, tra cứu và trình bày tên riêng cùng thuật ngữ Pali trong các bản dịch Việt của repo (kinh/ban-dich-doc-lap-tu-pali-goc). Dùng khi gặp tên người/địa danh/loài chúng sinh Pali chưa có tên Việt, khi cần chú thích "Việt (Pali)" cho lần xuất hiện đầu tiên, khi đặt tên kinh hoặc nhân vật, khi soát tính nhất quán của tên riêng, khi đổi tựa đề kinh/mục lục còn để Pali thô sang tiếng Việt (retitle-titles.py), hoặc khi cập nhật scripts/name-map*.tsv và các file *-titles.tsv. Không tự phiên âm khi đã có dạng chứng thực trong name-map.
 metadata:
   language: vi
-  version: "1.0.0"
+  version: "1.1.0"
 ---
 
 # Phiên âm Pali → tiếng Việt
@@ -27,6 +27,19 @@ nghĩa tuỳ tiện — thân bài giữ Pali để người đọc tra được
   `annotate-names.py` sinh ra. Đã có `(Pali)` theo sau thì không chú thích lại.
 - **Thuật ngữ** thì dịch luôn, không chú thích kiểu tên riêng: dukkha → khổ,
   bhikkhu → Tỷ-kheo. Bảng thuật ngữ đã chốt: [thuat-ngu-da-chot](references/thuat-ngu-da-chot.md).
+
+## Hai miền việc: thân bài vs tựa đề
+
+Skill này phục vụ hai bài toán khác nhau, dễ lẫn quy tắc:
+
+- **Chú thích thân bài** (phần trên): tên riêng giữ Pali có dấu trong câu,
+  gloss Việt chỉ đứng trong ngoặc lần đầu mỗi đơn vị.
+- **Đổi tựa đề & mục lục**: tựa đề *hiển thị* là tiếng Việt — Pali lui vào
+  ngoặc tham chiếu cuối tiêu đề, hoặc biến mất hẳn nếu tựa vốn chỉ là
+  Pali thô. Áp cho cột tựa `scripts/*-titles.tsv`, heading `.typ` (nguồn
+  của `#outline`), và link trong `muc-luc.typ` (`[Việt (Pali)]`, không
+  phải `[Pali (Việt)]`). Quy trình đầy đủ, bẫy riêng và thứ tự resolve
+  của `retitle-titles.py`: [doi-tua-de](references/doi-tua-de.md).
 
 ## Thứ tự tra tên Việt cho một tên Pali — đừng bỏ bậc
 
@@ -73,12 +86,26 @@ nghĩa tuỳ tiện — thân bài giữ Pali để người đọc tra được
   không thay bằng dạng gặp ở nguồn khác.
 - **Số thứ tự Pali cuối kinh** (`Paṭhamaṃ`, `Dutiyaṃ`…) không phải tên — bỏ,
   không dịch, không chú thích.
+- **Map có nhiễu.** `name-map.tsv` trích tự động nên chứa khoá là từ Việt
+  thường (`tam`, `lai`, `nuoc`, `trong`…) và gloss sai. Khi biến đổi hàng
+  loạt, tin map mù quáng sẽ ghi đè từ Việt thật — chặn bằng `JUNK_KEYS`
+  (trong `retitle-titles.py` / `annotate-names.py`) và sửa bằng override,
+  không sửa thẳng map nếu chỉ nghi ngờ.
+- **Nghĩa theo sách.** Một token Pali có thể đổi nghĩa theo bộ kinh —
+  `Nāga` là Voi trong Vimānavatthu nhưng là tên riêng chỗ khác; `Kosiya`
+  là Lụa trong Vinaya. Trước khi chốt gloss cho tựa đề, kiểm tra ngữ cảnh
+  sách (xem `BOOK_STEM` trong `retitle-titles.py`).
+- **Pali không dấu.** Tựa đề và vagga thường viết Pali trần
+  (`Bhojanavaggo`, `Kinh bodhi`) — đừng dựa vào dấu thanh để nhận diện;
+  hậu tố cấu trúc (`-vagga`, `-suttaṃ`, `-vimāna`, `-kathā`…) và whitelist
+  ASCII mới đáng tin.
 
 ## Công cụ sẵn có
 
 | Script / file | Việc |
 |---|---|
 | `scripts/annotate-names.py [--apply]` | Chú thích `Việt (Pali)` cho lần xuất hiện đầu mỗi đơn vị, khô phục hậu kiểm. Dry-run mặc định. |
+| `scripts/retitle-titles.py [--apply]` | Việt hoá tựa đề trong `*-titles.tsv` + vá heading `.typ` + đảo link `muc-luc.typ` thành `Việt (Pali)`. Dry-run mặc định; chạy lại sau mỗi lần assemble. |
 | `scripts/gen-name-translit.py` | Sinh đề xuất GEN cho tên có ≥10 lần xuất hiện chưa có gloss, nối vào `name-map-extra.tsv`. |
 | `scripts/extract-name-map.py` | Dựng lại `name-map.tsv` từ bản Việt sưu tầm + báo coverage. |
 | `scripts/missing-names.txt` | Tên còn thiếu gloss, xếp theo tần suất — điểm bắt đầu khi bổ sung map. |
@@ -101,4 +128,5 @@ Bảng đầy đủ, gồm phụ âm đầu/cuối, nguyên âm, âm đọc Pali
 - Không tự đặt tên Việt cho kinh/vagga/saṃyutta — lấy từ các
   `scripts/*-titles.tsv` (dn-titles, mn-titles, sn-titles, sn-vagga-titles,
   sn-samyutta-titles, an-titles, an-vagga-titles, kn-titles, vinaya-titles,
-  vinaya-chapter-titles); thiếu thì ghi shard rồi gộp, theo guide.
+  vinaya-chapter-titles); thiếu thì điền qua `retitle-titles.py`, theo
+  [doi-tua-de](references/doi-tua-de.md).
