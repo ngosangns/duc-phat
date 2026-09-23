@@ -148,7 +148,9 @@ button, input { font: inherit; color: inherit; }
 
 .edition-tabs {
   position: sticky;
-  top: calc(4.2rem + var(--safe-top));
+  /* The row carries 1.2rem above the tabs; keep it once the column sticks, so
+     it does not jump up against the top bar. */
+  top: calc(var(--top-h, calc(4.2rem + var(--safe-top))) + 1.2rem);
   display: flex;
   flex-direction: column;
   gap: 0.35rem;
@@ -760,7 +762,7 @@ details[open] > summary .rtoc-chev {
 .reader {
   display: grid;
   grid-template-columns: minmax(16.5rem, 22rem) minmax(0, 1fr);
-  min-height: calc(100dvh - 3.2rem);
+  min-height: calc(100dvh - var(--top-h, 3.2rem));
 }
 
 .toc-scrim { display: none; }
@@ -772,8 +774,8 @@ details[open] > summary .rtoc-chev {
   border-right: 1px solid var(--rule);
   background: color-mix(in srgb, var(--paper-deep) 38%, transparent);
   position: sticky;
-  top: 3.2rem;
-  height: calc(100dvh - 3.2rem);
+  top: var(--top-h, 3.2rem);
+  height: calc(100dvh - var(--top-h, 3.2rem));
   overflow: hidden;
 }
 
@@ -1024,7 +1026,7 @@ html[data-theme="night"] .paper {
   .reader-toc {
     display: flex;
     position: fixed;
-    top: calc(3.15rem + var(--safe-top));
+    top: var(--top-h, calc(3.15rem + var(--safe-top)));
     right: 0;
     bottom: 0;
     width: min(22rem, 86vw);
@@ -1045,7 +1047,7 @@ html[data-theme="night"] .paper {
   .toc-scrim {
     display: block;
     position: fixed;
-    inset: calc(3.15rem + var(--safe-top)) 0 0 0;
+    inset: var(--top-h, calc(3.15rem + var(--safe-top))) 0 0 0;
     z-index: 14;
     border: 0;
     padding: 0;
@@ -1061,20 +1063,36 @@ html[data-theme="night"] .paper {
   }
   .icon-btn.icon-only.toc-drawer { display: inline-flex; }
   .paper { padding: 1.4rem 1.1rem 2.4rem; width: min(42rem, calc(100% - 1rem)); }
+  /* Block flow, not a one-column grid: a sticky grid item is confined to its
+     own grid area, and here that area is only as tall as the tab row itself
+     (measured: 38px against the paper's 75k), so an engine that follows that
+     rule never lets the tabs travel and they scroll away with the page. As a
+     block child of the row they stick for the whole row, like the desktop
+     column does. */
   .reading-row {
-    grid-template-columns: 1fr;
-    width: min(42rem, calc(100% - 1rem));
+    display: block;
+    /* The 1.2rem the row used to carry above the tabs moves into the tabs'
+       own padding, so the bar keeps that spacing once it is stuck. */
+    margin-top: 0;
+    width: 100%;
   }
-  .reading-row .paper { width: auto; }
+  .reading-row .paper {
+    width: min(42rem, calc(100% - 1rem));
+    margin: 0 auto 5rem;
+  }
   .edition-tabs {
     position: sticky;
-    top: calc(3.2rem + var(--safe-top));
+    top: var(--top-h, calc(3.2rem + var(--safe-top)));
     z-index: 12;
     flex-direction: row;
     overflow-x: auto;
     scrollbar-width: none;
-    background: color-mix(in srgb, var(--paper) 92%, transparent);
-    padding-bottom: 0.35rem;
+    background: color-mix(in srgb, var(--paper) 88%, transparent);
+    backdrop-filter: blur(10px);
+    /* Full-bleed bar: 1.2rem above and below the pills, and the pills stay
+       lined up with the paper's edge. */
+    padding: 1.2rem max(0.5rem, calc((100% - 42rem) / 2));
+    margin-bottom: 0;
   }
   .edition-tabs a,
   .edition-tabs span {
