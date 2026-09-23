@@ -1,96 +1,96 @@
 #set page(numbering: "1")
 #set par(justify: true)
 
-= Kinh Tiểu Bộ (Khuddaka Nikāya) — Bản dịch mới từ Pali gốc — Cariyāpiṭaka (Sở Hạnh Tạng)
+= Kinh Tiểu Bộ (Khuddaka Nikāya) — Bản dịch mới từ Pali gốc — Sở Hạnh Tạng (Cariyāpiṭaka)
 
 Đây là bản dịch Việt văn độc lập, thực hiện trực tiếp từ nguyên bản Pali (_Khuddakanikāyo Cariyāpiṭakapāḷi_, xem thư mục "kinh/tam-tang-pali-goc" trong cùng thư viện), không đối chiếu hay dựa theo bản dịch phổ biến của Hòa thượng Thích Minh Châu đã có sẵn trong thư viện này. Số đoạn (kí hiệu #super[N] đặt đầu mỗi đoạn) giữ theo gói nguồn đã chuẩn hoá: Pháp Cú dùng số kệ toàn cục 1–423; các tập khác đếm lại từ 1 trong từng kinh/chuyện/chương. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc. Các đoạn liệt kê dài lặp công thức được dịch đầy đủ nội dung nhưng trình bày gọn lại theo kiểu liệt kê.
 
-_Trạng thái: đã dịch 35/35 đơn vị (1–35); đã trọn tập; đã viết lại theo giọng nói._
+_Trạng thái: đã dịch 35/35 đơn vị (1–35); đã trọn tập._
 
 #outline(title: [Mục lục])
 
-== 1. Phẩm Akitti (Akittivaggo)
+== 1. Phẩm A-kit-ti (Akittivaggo)
 
-=== 1. Sở hạnh Akitti (Akitticariyā)
+=== 1. Sở hạnh A-kit-ti (Akitticariyā)
 
 #super[1] Trong mười vạn kiếp \
-cùng bốn a-tăng-kỳ, \
-sở hạnh Ta tu suốt thời ấy \
-đều nấu chín dần Bồ-đề.
+và bốn a-tăng-kỳ, \
+sở hạnh đã làm trong khoảng ấy \
+đều là sự nấu chín Bồ-đề.
 
-#super[2] Gác lại sở hạnh ở kiếp trước, \
-ở đời nọ đời kia; \
+#super[2] Bỏ qua sở hạnh ở kiếp quá khứ, \
+trong đời này đời khác; \
 sở hạnh trong kiếp này \
-Ta sẽ kể, hãy nghe Ta.
+Ta sẽ nói, hãy nghe Ta.
 
-#super[3] Thuở Ta ở trong rừng lớn, \
-rừng vắng không bóng người, \
-Ta vào đó mà sống, \
+#super[3] Khi Ta ở rừng lớn, \
+rừng vắng không người, \
+đi vào sống ở đó, \
 là ẩn sĩ tên Akitti.
 
-#super[4] Bấy giờ, chúa cõi trời \
-bị khổ hạnh của Ta hun nóng, \
-hóa thân Bà-la-môn, \
-đến gặp Ta để khất thực.
+#super[4] Lúc ấy, vị chúa cõi trời \
+bị sức khổ hạnh của Ta hun nóng, \
+mang hình Bà-la-môn, \
+đến với Ta để khất thực.
 
-#super[5] Lá hái từ rừng mang về, \
-không dầu cũng chẳng muối; \
+#super[5] Lá hái từ rừng về, \
+không dầu cũng không muối; \
 thấy người đứng trước cửa, \
-Ta đổ hết vào bát vị ấy.
+Ta đổ vào bát của vị ấy.
 
-#super[6] Cho vị ấy lá xong, \
+#super[6] Đã cho vị ấy lá, \
 Ta úp ngược đồ đựng, \
-thôi không đi kiếm nữa, \
-rồi trở vào am lá.
+bỏ việc đi tìm nữa, \
+rồi vào am lá.
 
 #super[7] Lần thứ hai, lần thứ ba, \
-vị ấy vẫn đến bên Ta; \
+vị ấy cũng đến bên Ta; \
 không dao động, không dính mắc, \
-Ta vẫn bố thí như thế.
+Ta vẫn bố thí như vậy.
 
-#super[8] Do nhân ấy, thân Ta \
-không hề đổi sắc; \
-với hỷ lạc và hoan hỷ, \
+#super[8] Do nhân ấy, nơi thân Ta \
+không có sự đổi sắc; \
+với hỷ lạc và sự hoan hỷ, \
 Ta trải qua ngày ấy.
 
 #super[9] Nếu một tháng hay hai tháng \
-bậc đáng cúng dường tối thắng đến, \
+được bậc đáng cúng dường tối thắng, \
 không dao động, không thối lui, \
 Ta vẫn cho bố thí tối thượng.
 
 #super[10] Khi bố thí cho vị ấy, \
-Ta chẳng cầu danh vọng, lợi dưỡng; \
-chỉ nguyện cầu Nhất thiết trí, \
+Ta không cầu danh vọng, lợi dưỡng; \
+nguyện cầu Nhất thiết trí, \
 Ta đã làm những nghiệp ấy.
 
 #strong[(Sở hạnh Akitti, chuyện thứ nhất.)]
 
-=== 2. Sở hạnh Saṅkha (Saṅkhacariyā)
+=== 2. Sở hạnh San-kha (Saṅkhacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 Bà-la-môn tên Saṅkha; \
-muốn vượt qua đại dương, \
+muốn vượt đại dương, \
 Ta đi đến bến tàu.
 
-#super[2] Trên đường đi ở đó, \
+#super[2] Ở đó, trên đường đi, \
 Ta thấy bậc Tự Hiện, bậc không bị chiến bại; \
-đang bước vào hành trình hoang vắng, \
+người đang vào cuộc hành trình hoang mạc, \
 trên đất nóng cứng.
 
 #super[3] Thấy vị ấy trên đường, \
-Ta nghĩ như vầy: \
+Ta nghĩ điều này: \
 "Ruộng phước này đã đến \
 cho người muốn làm phước.
 
 #super[4] Như người nông phu \
 thấy cánh đồng lớn; \
 nếu không gieo giống ở đó, \
-người ấy chẳng phải kẻ cần lúa.
+người ấy không phải kẻ cần lúa.
 
 #super[5] Cũng vậy, Ta muốn phước, \
 thấy ruộng phước tối thắng; \
 nếu không làm việc ở đó, \
-Ta chẳng phải kẻ cần phước.
+Ta không phải kẻ cần phước.
 
 #super[6] Như vị đại thần muốn ấn tín, \
 giữa dân trong nội cung vua; \
@@ -98,37 +98,37 @@ nếu không cho họ của cải lúa gạo, \
 thì mất ấn tín.
 
 #super[7] Cũng vậy, Ta muốn phước, \
-gặp dịp cúng dường lớn; \
+thấy sự cúng dường rộng lớn; \
 nếu không bố thí cho vị ấy, \
 Ta sẽ hao tổn phước."
 
-#super[8] Nghĩ vậy xong, \
-Ta cởi dép ra, \
+#super[8] Nghĩ như vậy xong, \
+Ta cởi dép xuống, \
 đảnh lễ chân vị ấy, \
-rồi dâng lọng và dép.
+rồi cho lọng và dép.
 
 #super[9] Nhờ chính việc ấy gấp trăm lần, \
-Ta vốn tế nhị, nuôi trong an lạc; \
+Ta vốn tế nhị, được nuôi trong an lạc; \
 nhưng vì viên mãn bố thí, \
-Ta đã cho vị ấy như thế.
+Ta đã cho vị ấy như vậy.
 
 #strong[(Sở hạnh Saṅkha, chuyện thứ hai.)]
 
-=== 3. Sở hạnh Kururāja (Kururājacariyā)
+=== 3. Sở hạnh Vua Cu-lu (Kururājacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
 Indapattha, đô thành tối thắng; \
 là vua tên Dhanañcaya, \
 đầy đủ mười nghiệp lành.
 
-#super[2] Từ xứ Ca-lăng-giới (Kaliṅga), \
-các Bà-la-môn đến gặp Ta; \
+#super[2] Từ xứ Kaliṅga, \
+các Bà-la-môn đến với Ta; \
 họ xin Ta con voi, \
 con voi được xem là điềm lành cho mùa màng.
 
 #super[3] "Xứ không mưa, \
 đói kém, đói lớn; \
-xin cho con voi tối thắng, \
+hãy cho con voi tối thắng, \
 màu xanh đen, tên Añjana.
 
 #super[4] Khi người xin đã đến, \
@@ -136,19 +136,19 @@ từ chối không hợp với Ta; \
 chớ để nguyện ước của Ta bị gãy, \
 Ta sẽ cho con voi lớn."
 
-#super[5] Nắm lấy vòi voi, \
-với bình nước bằng châu báu, \
+#super[5] Nắm vòi voi, \
+trong bình nước bằng châu báu, \
 đổ nước lên tay, \
-Ta cho voi cho các Bà-la-môn.
+Ta cho voi đến các Bà-la-môn.
 
-#super[6] Khi con voi đã được cho, \
+#super[6] Khi voi ấy đã được cho, \
 các đại thần nói như vầy: \
-"Sao Ngài cho con voi tối thắng \
+"Cớ sao Ngài cho voi tối thắng \
 cho những người đến xin?
 
 #super[7] Voi đầy điềm lành cho mùa màng, \
 tối thắng để thắng trận; \
-khi con voi đã cho rồi, \
+khi voi ấy đã cho rồi, \
 vương quốc còn làm gì cho Ngài?"
 
 #super[8] "Dù cả vương quốc Ta cũng cho, \
@@ -158,11 +158,11 @@ vì vậy Ta đã cho voi."
 
 #strong[(Sở hạnh Kururāja, chuyện thứ ba.)]
 
-=== 4. Sở hạnh Mahāsudassana (Mahāsudassanacariyā)
+=== 4. Sở hạnh Đại Thiện Kiến (Mahāsudassanacariyā)
 
-#super[1] Ở thành Câu-xá- bà-đề (Kusāvatī), \
+#super[1] Ở thành Kusāvatī, \
 khi Ta là chúa trái đất; \
-tên Đại Thiện Kiến (Mahāsudassana), \
+tên Mahāsudassana, \
 Chuyển luân vương đại lực.
 
 #super[2] Ở đó, mỗi ngày ba lần, \
@@ -172,7 +172,7 @@ của cải nên cho ai?
 
 #super[3] Ai đói, ai khát, \
 ai muốn vòng hoa, ai muốn hương liệu, \
-y phục nhiều màu các thứ, \
+các thứ y phục nhiều màu, \
 ai trần truồng sẽ mặc?
 
 #super[4] Ai cầm lọng trên đường, \
@@ -181,9 +181,9 @@ Như vậy chiều và sáng, \
 Ta cho rao khắp nơi.
 
 #super[5] Không phải ở mười chỗ, \
-cũng chẳng phải ở trăm chỗ; \
+cũng không phải ở trăm chỗ; \
 mà ở nhiều trăm chỗ, \
-của cải sắm sẵn cho người xin.
+của cải được sắm sẵn cho người xin.
 
 #super[6] Ngày hay đêm, \
 nếu người khất thực đến; \
@@ -193,10 +193,10 @@ rồi ra đi tay đầy.
 #super[7] Bố thí lớn như vậy, \
 Ta cho trọn đời; \
 không phải vì chán của mà cho, \
-cũng chẳng phải Ta không có tích trữ.
+cũng không phải Ta không có tích trữ.
 
 #super[8] Như người bệnh, \
-muốn thoát khỏi bệnh; \
+để thoát khỏi bệnh; \
 lấy của cải làm thỏa vị lương y, \
 rồi thoát khỏi bệnh.
 
@@ -209,40 +209,40 @@ không chấp trước, không mong đợi, \
 
 #strong[(Sở hạnh Mahāsudassana, chuyện thứ tư.)]
 
-=== 5. Sở hạnh Mahāgovinda (Mahāgovindacariyā)
+=== 5. Sở hạnh Đại Điển Tôn (Mahāgovindacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 quốc sư của bảy vua; \
 được các bậc chúa nhân tôn kính, \
-là Bà-la-môn Đại Điển Tôn (Mahāgovinda).
+là Bà-la-môn Mahāgovinda.
 
-#super[2] Bấy giờ, trong bảy nước, \
+#super[2] Lúc ấy, trong bảy nước, \
 lễ vật nào Ta có được; \
 Ta lấy đó làm đại thí, \
 không lay động, như biển cả.
 
 #super[3] Không phải Ta chán của cải lúa gạo, \
-cũng chẳng phải Ta không có tích trữ; \
+cũng không phải Ta không có tích trữ; \
 Nhất thiết trí đối với Ta là quý, \
 vì vậy Ta cho của cải tối thắng.
 
 #strong[(Sở hạnh Mahāgovinda, chuyện thứ năm.)]
 
-=== 6. Sở hạnh Nimirāja (Nimirājacariyā)
+=== 6. Sở hạnh Vua Ni-mi (Nimirājacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-Di-tát-la (Mithilā), đô thành tối thắng; \
+Mithilā, đô thành tối thắng; \
 là đại vương tên Nimi, \
 bậc trí, cầu điều lành.
 
-#super[2] Bấy giờ Ta cho dựng \
+#super[2] Lúc ấy Ta cho dựng \
 nhà bốn gian, bốn cửa; \
 ở đó Ta tiến hành bố thí \
 cho thú, chim, người và các loài.
 
 #super[3] Y phục và giường nằm, \
 cơm nước và thức ăn; \
-không để gián đoạn, \
+làm cho không gián đoạn, \
 Ta tiến hành đại thí.
 
 #super[4] Như người tôi tớ \
@@ -257,14 +257,14 @@ Ta muốn Bồ-đề tối thượng.
 
 #strong[(Sở hạnh Nimirāja, chuyện thứ sáu.)]
 
-=== 7. Sở hạnh Candakumāra (Candakumāracariyā)
+=== 7. Sở hạnh Xan-đa Cưu-ma-la (Candakumāracariyā)
 
 #super[1] Lại nữa, khi Ta là \
 con trai vua Ekarāja; \
 ở thành Pupphavatī, \
-là vương tử tên Tàn bạo (Canda).
+là vương tử tên Canda.
 
-#super[2] Bấy giờ Ta thoát khỏi tế lễ, \
+#super[2] Lúc ấy Ta thoát khỏi tế lễ, \
 ra khỏi khu tế đàn; \
 sanh tâm nhàm chán sợ hãi, \
 rồi tiến hành đại thí.
@@ -285,18 +285,18 @@ vì vậy nên cho người khác, \
 sẽ được gấp trăm phần.
 
 #super[6] Biết rõ nghĩa ấy, \
-Ta bố thí đời này đời khác; \
+Ta bố thí trong đời này đời khác; \
 không thối lui khỏi bố thí, \
 để đạt đến Chánh giác.
 
 #strong[(Sở hạnh Candakumāra, chuyện thứ bảy.)]
 
-=== 8. Sở hạnh Sivirāja (Sivirājacariyā)
+=== 8. Sở hạnh Vua Si-vi (Sivirājacariyā)
 
-#super[1] Ở thành tên A-lợi-sá (Ariṭṭha), \
+#super[1] Ở thành tên Ariṭṭha, \
 có Sát-đế-lỵ tên Sivi; \
 ngồi nơi lầu cao tốt đẹp, \
-bấy giờ Ta nghĩ như vầy.
+lúc ấy Ta nghĩ như vầy.
 
 #super[2] "Bố thí nào của loài người, \
 không có thứ Ta chưa cho; \
@@ -304,7 +304,7 @@ dù ai xin Ta con mắt, \
 Ta cũng cho, không dao động."
 
 #super[3] Biết ý nghĩ của Ta, \
-Thích-ca (Sakka), chúa của chư thiên; \
+Sakka, chúa của chư thiên; \
 ngồi giữa chúng thiên, \
 nói lời này.
 
@@ -312,83 +312,84 @@ nói lời này.
 vua Sivi đại thần lực; \
 nghĩ đủ mọi bố thí, \
 không thấy gì là không cho được.
-#super[5] Điều ấy thật hay không thật? \
-Để Ta thử xem vị ấy; \
-các ngươi cứ đợi một lát, \
-cho đến khi Ta biết rõ tâm ấy."
 
-#super[6] Thân run rẩy, đầu bạc trắng, \
-thân nhăn nheo, già yếu; \
-mang hình dáng người mù, \
-ông đi đến chỗ vua.
+#super[5] Điều ấy là thật hay không thật? \
+Nào, Ta hãy thử vị ấy; \
+các ngươi hãy đợi một lát, \
+cho đến khi Ta biết tâm ấy."
+
+#super[6] Run rẩy, đầu bạc, \
+thân nhăn, già yếu; \
+mang hình người mù, \
+đi đến chỗ vua.
 
 #super[7] Lúc ấy ông giơ lên \
-cả tay trái lẫn tay phải, \
+tay trái và tay phải, \
 chắp tay trên đầu, \
-nói lên lời này.
+nói lời này.
 
 #super[8] "Con xin Ngài, tâu đại vương, \
-bậc như pháp, khiến nước hưng thịnh; \
+bậc như pháp, làm nước hưng thịnh; \
 tiếng tăm Ngài ưa bố thí \
-đã vang khắp cõi trời người.
+đã vang đến trời người.
 
 #super[9] Cả hai mắt của con \
-đã mù, đã hỏng hết; \
-xin Ngài cho con một mắt, \
+đã mù, đã hỏng; \
+xin cho con một mắt, \
 Ngài cũng sống với một mắt."
 
 #super[10] Nghe lời ông ấy, \
 Ta mừng, tâm rúng động; \
 chắp tay, sanh hỷ thọ, \
-Ta nói lên lời này.
+nói lời này.
 
 #super[11] "Vừa rồi Ta nghĩ xong, \
-từ lầu cao đi xuống đây; \
-ông biết được tâm Ta, \
+từ lầu cao đi đến đây; \
+ông biết tâm Ta, \
 nên đến xin mắt.
 
 #super[12] Ôi, ý Ta đã thành, \
 nguyện ước đã viên mãn; \
-sự bố thí tối thắng chưa từng cho, \
+bố thí tối thắng chưa từng cho, \
 hôm nay Ta sẽ cho người xin.
 
 #super[13] Này Sivaka, lại đây, đứng dậy, \
-chớ chậm trễ, chớ run sợ; \
-cả hai mắt hãy cho đi, \
-móc ra trao cho người khất thực."
+chớ chậm trễ, chớ run; \
+cả hai mắt hãy cho, \
+móc ra cho người khất thực."
 
 #super[14] Được Ta thúc giục, \
 Sivaka làm theo lời; \
-móc ra rồi trao cho, \
+móc ra rồi trao, \
 như lõi cây thốt nốt, cho người xin.
 
 #super[15] Khi đang cho, khi đã cho, \
-khi việc bố thí đã xong; \
+khi bố thí đã xong; \
 tâm Ta không đổi khác, \
 chỉ vì Bồ-đề.
 
 #super[16] Không phải Ta chán hai mắt, \
-cũng không phải Ta chán thân mình; \
+cũng không phải Ta chán bản thân; \
 Nhất thiết trí đối với Ta là quý, \
 vì vậy Ta đã cho mắt.
 
 #strong[(Sở hạnh Sivirāja, chuyện thứ tám.)]
 
-=== 9. Sở hạnh Vessantara (Vessantaracariyā)
+=== 9. Sở hạnh Vi-san-ta-la (Vessantaracariyā)
 
 #super[1] Người sanh ra Ta \
 là Sát-đế-lỵ tên Phussatī; \
 nàng, trong các đời trước, \
-là hoàng hậu yêu quý của Thích-ca (Sakka).
+là hoàng hậu yêu quý của Sakka.
 
 #super[2] Biết thọ mạng nàng đã hết, \
 vua trời nói như vầy: \
 "Ta cho nàng mười điều nguyện, \
-này hiền nữ, nàng muốn điều gì."
+này hiền nữ, nàng muốn gì."
 
 #super[3] Được nói vậy, thiên nữ ấy \
-lại thưa với Thích-ca (Sakka): \
-"Thiếp có lỗi gì chăng, \
+lại thưa với Sakka: \
+"Có lỗi gì nơi thiếp, \
 hay thiếp đáng chán đối với Ngài? \
 Ngài khiến thiếp rời chỗ đáng ưa, \
 như gió quật ngã cây."
@@ -401,7 +402,7 @@ cũng không phải nàng không đáng yêu.
 #super[5] Thọ mạng nàng chỉ còn bấy nhiêu, \
 đã đến lúc phải chết; \
 hãy nhận mười điều nguyện tối thắng \
-do Ta ban cho."
+do Ta ban."
 
 #super[6] Được Sakka cho nguyện, \
 nàng vui mừng, hoan hỷ; \
@@ -416,7 +417,7 @@ nàng gặp Sañjaya.
 #super[8] Khi Ta vào bụng Phussatī, \
 người mẹ yêu quý; \
 nhờ oai lực của Ta, mẹ \
-luôn ưa thích bố thí.
+luôn ưa bố thí.
 
 #super[9] Kẻ không của, người bệnh, người già, \
 người xin, khách bộ hành, \
@@ -428,44 +429,44 @@ khi đang đi nhiễu quanh thành, \
 giữa phố thương buôn, \
 Phussatī sanh ra Ta.
 
-#super[11] Tên Ta không do mẹ đặt, \
+#super[11] Tên Ta không do mẹ, \
 cũng không do dòng cha; \
 sanh giữa phố thương buôn, \
 vì vậy gọi là Vessantara.
 
 #super[12] Khi Ta còn là trẻ nhỏ, \
-mới lên tám tuổi; \
+mới tám tuổi; \
 ngồi trên lầu, \
 Ta nghĩ đến việc bố thí.
 
 #super[13] "Ta sẽ cho quả tim, cho mắt, \
-cho cả thịt lẫn máu; \
-sẽ cho cả thân này, sau khi nói rõ, \
+cả thịt lẫn máu; \
+sẽ cho cả thân, sau khi nói rõ, \
 nếu có ai xin Ta."
 
 #super[14] Khi nghĩ điều tự nhiên ấy, \
 không dao động, không lay chuyển; \
-đất ở đó đã rung động, \
-cùng Tu-di (Sineru) đội rừng trên đỉnh.
+đất ở đó đã rung, \
+cùng Sineru đội rừng trên đỉnh.
 
 #super[15] Nửa tháng, ngày rằm, \
 ngày Bố-tát trăng tròn; \
 cưỡi voi Paccaya, \
 Ta đi đến để bố thí.
 
-#super[16] Từ xứ Ca-lăng-giới (Kaliṅga), \
+#super[16] Từ xứ Kaliṅga, \
 các Bà-la-môn đến với Ta; \
 họ xin Ta con voi, \
 con voi được xem là điềm lành cho mùa màng.
 
-#super[17] "Xứ chúng tôi không mưa, \
+#super[17] "Xứ không mưa, \
 đói kém, đói lớn; \
-xin hãy cho con voi tối thắng, \
+hãy cho con voi tối thắng, \
 voi trắng toàn, voi tối thượng."
 
 #super[18] Ta cho, không dao động, \
 điều các Bà-la-môn xin Ta; \
-cái có, Ta không giấu giếm, \
+cái có, Ta không giấu, \
 tâm Ta vui trong bố thí.
 
 #super[19] Khi người xin đã đến, \
@@ -476,16 +477,16 @@ Ta sẽ cho con voi lớn."
 #super[20] Nắm vòi voi, \
 trong bình nước bằng châu báu, \
 đổ nước lên tay, \
-Ta trao voi cho các Bà-la-môn.
+Ta cho voi đến các Bà-la-môn.
 
 #super[21] Lại nữa, khi đang cho \
 voi trắng toàn, voi tối thượng; \
-lúc ấy đất cũng rung động, \
-cùng Tu-di (Sineru) đội rừng trên đỉnh.
+lúc ấy đất cũng rung, \
+cùng Sineru đội rừng trên đỉnh.
 
-#super[22] Do việc bố thí voi ấy, \
+#super[22] Do bố thí voi ấy, \
 dân Sivi giận, họp lại; \
-trục xuất Ta khỏi nước mình: \
+trục xuất khỏi nước mình: \
 "Hãy đi đến núi Vaṅka."
 
 #super[23] Khi họ đang trục xuất, \
@@ -510,7 +511,7 @@ lúc ấy Ta ra khỏi thành.
 
 #super[27] Ra khỏi thành, \
 quay lại nhìn; \
-lúc ấy đất cũng rung động, \
+lúc ấy đất cũng rung, \
 cùng Sineru đội rừng trên đỉnh.
 
 #super[28] Cho xe bốn ngựa, \
@@ -518,8 +519,8 @@ cùng Sineru đội rừng trên đỉnh.
 một mình, không người thứ hai, \
 Ta nói với Maddīdevī.
 
-#super[29] "Này Maddī, nàng hãy bế Can-ha (Kaṇhā), \
-em nhỏ, nhẹ nhàng; \
+#super[29] "Này Maddī, nàng hãy bế Kaṇhā, \
+em nhỏ, nhẹ; \
 Ta sẽ bế Jāli, \
 vì anh ấy nặng."
 
@@ -579,12 +580,12 @@ rồi từ đó ra đi, \
 họ đến núi Vaṅka.
 
 #super[41] Vua trời gọi \
-Tỳ-thủ-yết-ma (Vissakamma) đại thần lực: \
+Vissakamma đại thần lực: \
 "Hãy làm một am tốt đẹp, đáng ưa, \
 một am lá."
 
 #super[42] Nghe lời Sakka, \
-Tỳ-thủ-yết-ma (Vissakamma) đại thần lực \
+Vissakamma đại thần lực \
 làm một am tốt đẹp, đáng ưa, \
 một am lá.
 
@@ -612,138 +613,139 @@ Jāli và Kaṇhājinā.
 niềm vui sanh nơi Ta; \
 nắm cả hai con, \
 lúc ấy Ta cho Bà-la-môn.
-#super[48] Khi Ta trao hai con mình \
-cho Bà-la-môn Jūjaka; \
-lúc ấy đất cũng rung động, \
-cùng Sineru, rừng trên đỉnh.
 
-#super[49] Lại nữa, Sakka giáng xuống, \
-mang hình dạng Bà-la-môn; \
-xin Ta nàng Maddīdevī, \
+#super[48] Khi đang cho con mình \
+cho Bà-la-môn Jūjaka; \
+lúc ấy đất cũng rung, \
+cùng Sineru đội rừng trên đỉnh.
+
+#super[49] Lại nữa, Sakka xuống, \
+mang hình Bà-la-môn; \
+xin Ta Maddīdevī, \
 người giữ giới, chung thủy với chồng.
 
-#super[50] Nắm tay nàng Maddī, \
-rót nước vào tay chắp lại; \
+#super[50] Nắm tay Maddī, \
+rót nước đầy chắp tay; \
 tâm ý trong sáng, \
-Ta trao nàng cho ông ấy.
+Ta cho ông ấy Maddī.
 
-#super[51] Khi Maddī được trao đi, \
+#super[51] Khi Maddī đang được cho, \
 chư thiên trên không hoan hỷ; \
-lúc ấy đất cũng rung động, \
-cùng Sineru, rừng trên đỉnh.
+lúc ấy đất cũng rung, \
+cùng Sineru đội rừng trên đỉnh.
 
-#super[52] Jāli và con gái Kaṇhājinā, \
-cùng Maddīdevī chung thủy; \
-khi trao cho, Ta không nghĩ khác, \
-chỉ vì Bồ-đề mà thôi.
+#super[52] Jāli, con gái Kaṇhājinā, \
+Maddīdevī chung thủy với chồng; \
+khi cho, Ta không nghĩ gì khác, \
+chỉ vì Bồ-đề.
 
 #super[53] Không phải Ta chán hai con, \
-Maddīdevī cũng chẳng đáng chán; \
-Nhất thiết trí là quý với Ta, \
-nên Ta trao cả người thân.
+Maddīdevī cũng không đáng chán; \
+Nhất thiết trí đối với Ta là quý, \
+vì vậy Ta đã cho những người thân.
 
 #super[54] Lại nữa, trong rừng lớn, \
-khi Ta gặp lại mẹ cha; \
-hai người than khóc thương cảm, \
-kể chuyện vui buồn xưa.
+khi gặp mẹ cha; \
+họ than khóc thương cảm, \
+kể chuyện vui buồn.
 
 #super[55] Với hổ thẹn, với lòng kính trọng sâu, \
-Ta đến gần cả hai người; \
-lúc ấy đất cũng rung động, \
-cùng Sineru, rừng trên đỉnh.
+Ta đến với cả hai; \
+lúc ấy đất cũng rung, \
+cùng Sineru đội rừng trên đỉnh.
 
 #super[56] Lại nữa, từ rừng lớn \
-Ta ra đi cùng bà con; \
-vào thành đáng ưa Jetuttara, \
-đô thành tối thắng.
+ra đi cùng bà con; \
+Ta vào thành đáng ưa, \
+Jetuttara, đô thành tối thắng.
 
-#super[57] Bảy báu từ trời rơi xuống, \
-như mưa lớn đổ ào ào; \
-lúc ấy đất cũng rung động, \
-cùng Sineru, rừng trên đỉnh.
+#super[57] Bảy báu rơi xuống, \
+mưa lớn đổ; \
+lúc ấy đất cũng rung, \
+cùng Sineru đội rừng trên đỉnh.
 
-#super[58] Đất này vốn không có tâm, \
-chẳng biết vui cũng chẳng biết khổ; \
-thế mà vì lực bố thí của Ta, \
-đã rung động đến bảy lần.
+#super[58] Đất này không tâm, \
+không biết vui khổ; \
+cũng vì lực bố thí của Ta, \
+đã rung bảy lần.
 
 #strong[(Sở hạnh Vessantara, chuyện thứ chín.)]
 
-=== 10. Sở hạnh Sasapaṇḍita (Sasapaṇḍitacariyā)
+=== 10. Sở hạnh Hiền Trí Sa-sa (Sasapaṇḍitacariyā)
 
 #super[1] Lại nữa, khi Ta là \
-con thỏ đi trong rừng; \
-ăn cỏ, lá, rau, trái cây, \
+thỏ đi trong rừng; \
+ăn cỏ, lá, rau, trái, \
 tránh làm hại kẻ khác.
 
 #super[2] Khỉ, chó rừng, \
-rái cá, và cả Ta nữa; \
-sống chung một vùng, \
-sớm chiều đều thấy nhau.
+rái cá, và Ta lúc ấy; \
+sống cùng một vùng, \
+chiều sáng đều thấy nhau.
 
-#super[3] Ta dạy chúng phân biệt \
-việc lành với việc ác: \
-"Hãy tránh xa các điều ác, \
+#super[3] Ta dạy chúng \
+việc lành việc ác: \
+"Hãy tránh các điều ác, \
 hãy gắn bó với điều lành."
 
 #super[4] Vào ngày Bố-tát, \
-thấy trăng đã tròn, \
+thấy trăng tròn, \
 Ta bảo chúng ở đó: \
 "Hôm nay là ngày Bố-tát.
 
-#super[5] Hãy sắm sửa vật bố thí \
-để dâng bậc đáng cúng dường; \
-đã cho bậc đáng cúng dường rồi, \
+#super[5] Hãy sắm các vật bố thí \
+để cho bậc đáng cúng dường; \
+đã cho bậc đáng cúng dường, \
 hãy thọ trì ngày Bố-tát."
 
 #super[6] Chúng nói "lành thay" với Ta, \
 theo sức, theo khả năng; \
-sắm sửa các vật bố thí, \
-rồi đi tìm bậc đáng cúng dường.
+sắm các vật bố thí, \
+rồi tìm bậc đáng cúng dường.
 
-#super[7] Ta ngồi lại suy nghĩ \
-về món bố thí xứng đáng: \
-"Nếu có bậc đáng cúng dường đến, \
+#super[7] Ta ngồi suy nghĩ \
+về bố thí xứng đáng cúng dường: \
+"Nếu Ta được bậc đáng cúng dường, \
 bố thí của Ta sẽ là gì?
 
 #super[8] Ta không có mè, đậu xanh, \
 đậu, gạo, hay sữa trong; \
-Ta sống bằng cỏ thôi, \
+Ta sống bằng cỏ, \
 không thể lấy cỏ mà cho.
 
 #super[9] Nếu có bậc đáng cúng dường \
 đến khất thực bên Ta; \
-Ta sẽ cho chính thân mình, \
-người ấy chẳng ra về tay không."
+Ta sẽ cho chính bản thân, \
+người ấy sẽ không ra về tay không."
 
-#super[10] Biết được ý nghĩ của Ta, \
-Thích-ca (Sakka) mang hình Bà-la-môn \
-đến chỗ Ta đang ở, \
-để thử lòng bố thí của Ta.
+#super[10] Biết ý nghĩ của Ta, \
+Sakka mang hình Bà-la-môn \
+đến chỗ Ta ở, \
+để thử sự bố thí của Ta.
 
-#super[11] Thấy vị ấy, Ta vui mừng, \
-liền nói lời này: \
+#super[11] Thấy vị ấy, Ta vui, \
+nói lời này: \
 "Lành thay, ngài đã đến \
 vì thức ăn, bên Ta.
 
-#super[12] Món bố thí tối thắng chưa ai cho, \
+#super[12] Bố thí tối thắng chưa từng cho, \
 hôm nay Ta sẽ cho ngài; \
 ngài đủ giới đức, \
 không nên làm hại kẻ khác.
 
 #super[13] Lại đây, hãy nhóm lửa, \
-gom đủ các thứ củi; \
+gom các thứ củi; \
 Ta sẽ nấu chính mình, \
 ngài sẽ ăn khi đã chín."
 
 #super[14] "Lành thay", ông vui lòng, \
-gom đủ các thứ củi; \
+gom các thứ củi; \
 làm một giàn lửa lớn, \
-xếp ổ than ở giữa.
+làm ổ than ở giữa.
 
 #super[15] Ông nhóm lửa ở đó, \
-cho lửa chóng bùng lớn; \
-phủi bụi trên thân mình, \
+cho lửa chóng lớn; \
+phủi bụi trên thân, \
 Ta ngồi sang một bên.
 
 #super[16] Khi đống củi lớn \
@@ -751,19 +753,19 @@ cháy bùng, kêu lách tách; \
 lúc ấy Ta nhảy lên, \
 rơi giữa ngọn lửa.
 
-#super[17] Như dòng nước mát \
-có ai bước vào; \
-nóng bức tan biến, \
-chỉ còn vị ngọt và hỷ.
+#super[17] Như nước mát \
+ai bước vào; \
+dứt nóng bức, \
+cho vị ngọt và hỷ.
 
 #super[18] Cũng vậy, lửa đang cháy, \
 khi Ta bước vào lúc ấy; \
-nóng bức dứt hết, \
-tựa dòng nước mát.
+dứt hết nóng bức, \
+như nước mát.
 
 #super[19] Da ngoài, da trong, thịt, gân, \
-xương, cả chỗ cột trái tim; \
-toàn thân trọn vẹn, \
+xương, chỗ cột trái tim; \
+cả toàn thân trọn vẹn, \
 Ta đã cho Bà-la-môn.
 
 #strong[(Sở hạnh Sasapaṇḍita, chuyện thứ mười.)]
@@ -772,18 +774,18 @@ Ta đã cho Bà-la-môn.
 #strong[Tổng thuyết:]
 
 Bà-la-môn Akitti, Saṅkha, \
-vua Câu-lâu (Kuru) Dhanañcaya; \
-vua Đại Thiện Kiến (Mahāsudassana), \
-Bà-la-môn Đại Điển Tôn (Mahāgovinda).
+vua Kuru Dhanañcaya; \
+vua Mahāsudassana, \
+Bà-la-môn Mahāgovinda.
 
 Nimi và Candakumāra, \
 Sivi, Vessantara, thỏ; \
 chính Ta lúc ấy đã là \
-người trao những bố thí tối thắng ấy.
+người đã cho những bố thí tối thắng ấy.
 
 Những ấy là tư lương bố thí, \
 những ấy là ba-la-mật của bố thí; \
-đã cho cả mạng sống cho người xin, \
+đã cho mạng sống cho người xin, \
 Ta viên mãn ba-la-mật này.
 
 Thấy người đến khất thực, \
@@ -795,42 +797,42 @@ không ai bằng Ta về bố thí, \
 
 == 2. Phẩm Voi (Hatthināgavaggo)
 
-=== 11. Sở hạnh Mātuposaka (Mātuposakacariyā)
+=== 11. Sở hạnh Người Nuôi Mẹ (Mātuposakacariyā)
 
 #super[1] Khi Ta ở trong rừng, \
-là voi nuôi dưỡng mẹ; \
+là voi nuôi mẹ; \
 lúc ấy trên đất này \
 không ai bằng Ta về đức.
 
-#super[2] Người rừng thấy Ta trong rừng, \
-báo lên vua về Ta: \
-"Tâu đại vương, xứng với Ngài, \
-có con voi sống trong rừng.
+#super[2] Người rừng thấy trong rừng, \
+báo cho vua về Ta: \
+"Tâu đại vương, hợp với Ngài, \
+có voi sống trong rừng.
 
-#super[3] Nó chẳng cần cột buộc, \
-cũng chẳng cần hố bẫy; \
-chỉ cần nắm vòi, \
+#super[3] Nó không cần cột buộc, \
+cũng không cần hố bẫy; \
+vừa nắm vòi, \
 nó tự đi đến đây."
 
 #super[4] Nghe lời ấy, \
-vua cũng vui trong lòng; \
-sai người điều voi đi, \
+vua cũng tâm vui; \
+sai người điều voi, \
 bậc thầy khéo, đã luyện giỏi.
 
-#super[5] Người điều voi đi đến, \
+#super[5] Người điều voi đi, \
 thấy ở ao sen \
 Ta đang nhổ ngó sen, \
-để nuôi dưỡng mẹ.
+để nuôi mẹ.
 
 #super[6] Biết giới đức của Ta, \
-ông xem các tướng; \
+ông xem tướng; \
 nói "Lại đây, con" rồi đến, \
-nắm lấy vòi Ta.
+nắm vòi Ta.
 
 #super[7] Sức tự nhiên lúc ấy \
-vẫn theo thân Ta; \
-nay đã ngang bằng \
-sức của ngàn voi.
+theo thân Ta; \
+nay ngang bằng \
+sức ngàn voi.
 
 #super[8] Nếu Ta giận những người \
 đến để bắt Ta; \
@@ -849,11 +851,11 @@ vì sợ giới bị gãy.
 
 #strong[(Sở hạnh Mātuposaka, chuyện thứ nhất.)]
 
-=== 12. Sở hạnh Bhūridatta (Bhūridattacariyā)
+=== 12. Sở hạnh Bu-li-đát-ta (Bhūridattacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 Bhūridatta đại thần lực; \
-cùng đại vương Quảng Mục Thiên vương (Virūpakkha), \
+cùng đại vương Virūpakkha, \
 Ta đi đến cõi trời.
 
 #super[2] Ở đó Ta thấy chư thiên \
@@ -861,23 +863,23 @@ một bề chìm trong lạc; \
 vì muốn đi đến cõi ấy, \
 Ta thọ trì giới hạnh.
 
-#super[3] Làm xong việc của thân, \
+#super[3] Làm xong việc thân, \
 ăn vừa đủ sống; \
 quyết định bốn chi, \
 Ta nằm trên đỉnh ụ mối.
 
 #super[4] Bằng da ngoài, da trong, thịt, \
-gân hay là xương; \
-ai cần những thứ ấy, \
-cứ lấy, Ta đã cho rồi.
+gân hay xương; \
+ai cần những ấy, \
+cứ lấy, đã cho rồi.
 
 #super[5] Được kẻ vô ơn chỉ chỗ, \
 Ālampāyana bắt Ta; \
-nhốt Ta vào rổ, \
-bắt diễn trò khắp nơi.
+nhốt vào rổ, \
+bắt Ta diễn trò khắp nơi.
 
-#super[6] Dù khi bị nhốt vào rổ, \
-dù khi lấy tay dằn xuống; \
+#super[6] Dù khi nhốt vào rổ, \
+dù khi lấy tay dằn; \
 Ta không giận Ālampāyana, \
 vì sợ giới bị gãy.
 
@@ -898,85 +900,86 @@ dù khi bị nhốt vào rổ.
 
 #strong[(Sở hạnh Bhūridatta, chuyện thứ hai.)]
 
-=== 13. Sở hạnh Campeyyanāga (Campeyyanāgacariyā)
+=== 13. Sở hạnh Na-già Chiêm-bà (Campeyyanāgacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 Campeyyaka đại thần lực; \
 lúc ấy Ta cũng như pháp, \
-gắn bó với giới hạnh.
+gắn bó giới hạnh.
 
 #super[2] Lúc ấy, Ta sống theo pháp, \
 đang thọ trì ngày Bố-tát; \
-người bắt rắn bắt lấy Ta, \
+người bắt rắn bắt lấy, \
 diễn trò trước cửa vua.
-#super[3] Ông muốn màu nào, \
+
+#super[3] Ông nghĩ màu nào, \
 xanh, vàng hay đỏ; \
-Ta theo ý ông, \
-hiện thành đúng màu ấy.
+Ta theo tâm ông, \
+trở thành như điều đã nghĩ.
 
-#super[4] Ta biến đất cạn thành nước, \
-lại biến nước thành đất cạn; \
+#super[4] Ta có thể biến cạn thành nước, \
+cũng có thể biến nước thành cạn; \
 nếu Ta giận ông ấy, \
-chỉ một khắc đã thành tro.
+trong khoảnh khắc biến thành tro.
 
-#super[5] Nếu để tâm sai khiến, \
-giới của Ta sẽ hao mòn; \
+#super[5] Nếu để tâm sai sử, \
+Ta sẽ hao tổn giới; \
 người đã mất giới, \
-mục đích tối thượng chẳng thành.
+mục đích tối thượng không thành.
 
-#super[6] Thân này cứ vỡ ra, \
+#super[6] Thân này cứ vỡ, \
 cứ tan ngay tại đây; \
 Ta cũng không phá giới, \
-như trấu bị vãi đi.
+như trấu bị vãi ra.
 
 #strong[(Sở hạnh Campeyyanāga, chuyện thứ ba.)]
 
-=== 14. Sở hạnh Cūḷabodhi (Cūḷabodhicariyā)
+=== 14. Sở hạnh Tiểu Bồ-đề (Cūḷabodhicariyā)
 
 #super[1] Lại nữa, khi Ta là \
-Cūḷabodhi, giới hạnh trong sạch; \
-thấy hữu đáng sợ, \
+Cūḷabodhi, giới hạnh tốt; \
+thấy hữu là đáng sợ, \
 Ta xuất ly, ra đi.
 
 #super[2] Người bạn đời của Ta \
 là nữ Bà-la-môn sắc như vàng; \
-nàng cũng chẳng luyến vòng luân hồi, \
+nàng cũng không luyến vòng luân hồi, \
 xuất ly, ra đi.
 
 #super[3] Không chấp trước, cắt hết buộc ràng, \
-chẳng luyến gia tộc, đồ chúng; \
-qua làng, qua ấp, \
-chúng ta đến Ba-la-nại (Bārāṇasī).
+không luyến gia tộc, đồ chúng; \
+đi làng, đi ấp, \
+chúng ta đến Bārāṇasī.
 
 #super[4] Ở đó chúng ta sống thận trọng, \
-không lẫn vào gia tộc, đồ chúng; \
-chỗ vắng, ít tiếng động, \
-cả hai ở trong vườn vua.
+không xen lẫn gia tộc, đồ chúng; \
+chỗ không náo, ít tiếng, \
+cả hai sống trong vườn vua.
 
-#super[5] Đi ngắm vườn, \
+#super[5] Đi xem vườn, \
 vua thấy nữ Bà-la-môn; \
 đến hỏi Ta: \
-"Nàng này của ông, là vợ ai?"
+"Nàng này của ông, vợ của ai?"
 
-#super[6] Được hỏi vậy, \
-Ta đáp với vua: \
-"Nàng không phải vợ tôi, \
+#super[6] Được hỏi vậy, Ta \
+nói lời này với vua: \
+"Nàng không phải vợ Ta, \
 cùng pháp, cùng một giáo."
 
 #super[7] Vua say đắm, bị trói buộc, \
-sai gia nhân bắt nàng; \
-dùng sức ép buộc, \
+sai gia nhân bắt lấy; \
+dùng sức bức bách, \
 đưa vào nội cung.
 
-#super[8] Nàng kết hôn với Ta qua lễ bát nước, \
+#super[8] Nàng kết hôn với Ta bằng lễ bát nước, \
 cùng sanh, cùng một giáo; \
 khi bị kéo đi, \
-sân dấy lên nơi Ta.
+sân sanh nơi Ta.
 
-#super[9] Vừa khi sân dấy lên, \
+#super[9] Vừa khi sân sanh, \
 Ta nhớ đến giới hạnh; \
-ngay đó nhiếp phục nó, \
-không để lớn thêm.
+ngay đó nhiếp phục sân, \
+không để nó lớn thêm.
 
 #super[10] Dù ai lấy giáo sắc \
 chặt nữ Bà-la-môn ấy; \
@@ -985,50 +988,50 @@ chỉ vì Bồ-đề.
 
 #super[11] Không phải Ta chán nữ Bà-la-môn ấy, \
 cũng không phải Ta không có sức; \
-Nhất thiết trí là quý đối với Ta, \
+Nhất thiết trí đối với Ta là quý, \
 vì vậy Ta đã giữ giới.
 
 #strong[(Sở hạnh Cūḷabodhi, chuyện thứ tư.)]
 
-=== 15. Sở hạnh Mahiṃsarāja (Mahiṃsarājacariyā)
+=== 15. Sở hạnh Vua Ma-him-sa (Mahiṃsarājacariyā)
 
 #super[1] Lại nữa, khi Ta là \
-con trâu đi trong rừng; \
+trâu đi trong rừng; \
 thân lớn, sức mạnh, \
-to lớn, hình dáng đáng sợ.
+to lớn, hình đáng sợ.
 
 #super[2] Hang núi, chỗ hiểm, \
 gốc cây, chỗ có nước; \
 đó là chỗ của trâu, \
-mỗi con một chỗ.
+chỗ này chỗ kia, từng con.
 
 #super[3] Đi trong rừng lớn, \
 Ta thấy một chỗ tốt; \
 đến chỗ ấy, \
-Ta đứng, Ta nằm.
+Ta đứng và Ta nằm.
 
 #super[4] Rồi một con khỉ đến, \
 ác, hèn, nhanh nhẹn; \
-lên vai, trán, lông mày Ta, \
+trên vai, trán, lông mày, \
 nó đái và ỉa.
 
 #super[5] Một ngày, ngày thứ hai, \
 thứ ba, cả thứ tư; \
 nó làm nhơ Ta mọi lúc, \
-Ta bị hành như vậy.
+vì vậy Ta bị hành.
 
 #super[6] Thấy Ta bị hành, \
-một Dạ-xoa nói: \
+một Dạ-xoa nói với Ta: \
 "Hãy diệt kẻ đê tiện ác ấy \
 bằng sừng và bằng móng."
 
-#super[7] Dạ-xoa nói vậy, \
-Ta đáp với ông ấy: \
+#super[7] Khi Dạ-xoa nói vậy, \
+Ta nói với ông ấy: \
 "Sao ông muốn Ta bôi mình bằng xác chết, \
 bằng kẻ ác hèn ấy?
 
 #super[8] Nếu Ta giận nó, \
-Ta sẽ còn hèn hơn nó; \
+Ta sẽ còn hèn hơn; \
 giới Ta sẽ gãy, \
 bậc trí sẽ chê Ta.
 
@@ -1040,21 +1043,21 @@ Ta lại làm hại kẻ khác?"
 #super[10] Nó tưởng chỉ có Ta, \
 sẽ làm vậy với kẻ khác; \
 chính họ sẽ giết nó, \
-đó sẽ là lối thoát của Ta.
+đó sẽ là sự thoát của Ta.
 
 #super[11] Với kẻ hèn, kẻ vừa, kẻ cao, \
-kham nhẫn khi bị khinh; \
+kham nhẫn sự khinh thường; \
 bậc có tuệ như vậy đạt được \
 điều tâm đã nguyện.
 
 #strong[(Sở hạnh Mahiṃsarāja, chuyện thứ năm.)]
 
-=== 16. Sở hạnh Rururāja (Rururājacariyā)
+=== 16. Sở hạnh Vua Ru-ru (Rururājacariyā)
 
 #super[1] Lại nữa, khi Ta \
 sắc như vàng nung; \
 là vua nai tên Ruru, \
-an trụ trong giới tối thắng.
+định tĩnh trong giới tối thắng.
 
 #super[2] Chỗ đáng ưa, đáng thích, \
 vắng vẻ, không người; \
@@ -1063,30 +1066,30 @@ bờ sông Hằng đáng yêu.
 
 #super[3] Rồi phía thượng nguồn sông Hằng, \
 bị chủ nợ bức bách, \
-một người rơi xuống sông: \
+một người rơi xuống sông Hằng: \
 "Ta sống hay Ta chết."
 
 #super[4] Đêm ngày, người ấy \
-bị nước lớn cuốn đi; \
+bị nước lớn cuốn; \
 kêu tiếng thương cảm, \
-trôi giữa dòng sông Hằng.
+đi giữa dòng sông Hằng.
 
 #super[5] Ta nghe tiếng ấy, \
 tiếng than khóc thương cảm; \
 đứng trên bờ sông Hằng, \
-Ta hỏi: "Người là ai?"
+hỏi: "Người là ai?"
 
 #super[6] Được hỏi, người ấy kể \
 cảnh ngộ của mình lúc ấy: \
 "Sợ chủ nợ, kinh hãi, \
 tôi nhảy xuống sông lớn."
 
-#super[7] Thương người ấy, \
+#super[7] Thương cảm người ấy, \
 xả bỏ mạng sống của mình; \
-Ta xuống nước đưa người ấy lên, \
+Ta xuống nước đưa người ấy ra, \
 trong đêm tối.
 
-#super[8] Biết người ấy đã yên, \
+#super[8] Biết đã đến lúc người ấy yên, \
 Ta nói lời này: \
 "Ta xin ông một điều nguyện: \
 chớ nói về Ta với ai."
@@ -1096,7 +1099,7 @@ khi bị hỏi, vì tham của; \
 dẫn vua đi, \
 đến bên Ta.
 
-#super[10] Ta kể hết mọi việc \
+#super[10] Mọi việc Ta kể hết \
 cho vua; \
 vua nghe lời, \
 sửa tên cho ông ấy: \
@@ -1105,7 +1108,7 @@ kẻ phản bạn, kẻ hèn."
 
 #super[11] Để bảo vệ ông ấy, \
 Ta đổi lấy bằng chính mình: \
-"Tâu đại vương, hãy tha ông ấy, \
+"Tâu đại vương, hãy để ông ấy, \
 xin tùy ý Ngài xử với tôi."
 
 #super[12] Ta giữ giới của mình, \
@@ -1115,7 +1118,7 @@ chỉ vì Bồ-đề.
 
 #strong[(Sở hạnh Rururāja, chuyện thứ sáu.)]
 
-=== 17. Sở hạnh Mātaṅga (Mātaṅgacariyā)
+=== 17. Sở hạnh Ma-tang-ga (Mātaṅgacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 đạo sĩ bím tóc, khổ hạnh mãnh liệt; \
@@ -1124,18 +1127,18 @@ có giới, khéo định tĩnh.
 
 #super[2] Ta và một Bà-la-môn, \
 cả hai sống bên sông Hằng; \
-Ta ở phía trên, \
-Bà-la-môn ở phía dưới.
+Ta sống phía trên, \
+Bà-la-môn sống phía dưới.
 
 #super[3] Đi dọc bờ sông, \
 ông thấy am của Ta phía trên; \
 ở đó mắng nhiếc Ta, \
-rồi nguyền cho đầu Ta vỡ.
+rồi nguyền rủa cho đầu vỡ.
 
 #super[4] Nếu Ta giận ông ấy, \
 nếu không giữ giới; \
 nhìn ông ấy, \
-Ta có thể biến ông thành tro.
+Ta có thể biến thành như tro.
 
 #super[5] Lời ông nguyền rủa Ta lúc ấy, \
 giận dữ, tâm độc; \
@@ -1149,15 +1152,15 @@ chỉ vì Bồ-đề.
 
 #strong[(Sở hạnh Mātaṅga, chuyện thứ bảy.)]
 
-=== 18. Sở hạnh Dhammadevaputta (Dhammadevaputtacariyā)
+=== 18. Sở hạnh Thiên Tử Pháp (Dhammadevaputtacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 bậc đại quyến thuộc, đại thần lực; \
-đại Dạ-xoa tên Dhamma, \
+là đại Dạ-xoa tên Dhamma, \
 thương xót cả thế gian.
 
 #super[2] Khuyên đại chúng \
-theo mười đường nghiệp lành; \
+trên mười đường nghiệp lành; \
 Ta đi làng, đi ấp, \
 cùng bạn, cùng quyến thuộc.
 
@@ -1178,7 +1181,7 @@ một trận chiến lớn sắp đến.
 
 #super[6] Nếu Ta giận hắn, \
 nếu phá phẩm chất khổ hạnh; \
-hắn cùng quyến thuộc, \
+cùng quyến thuộc của hắn, \
 Ta có thể biến thành bụi.
 
 #super[7] Nhưng vì giữ giới, \
@@ -1193,9 +1196,9 @@ nuốt Dạ-xoa ác ngay lúc ấy.
 
 #strong[(Sở hạnh Dhammadevaputta, chuyện thứ tám.)]
 
-=== 19. Sở hạnh Alīnasattu (Alīnasattucariyā)
+=== 19. Sở hạnh A-li-na-sát-tu (Alīnasattucariyā)
 
-#super[1] Ở xứ Ban-giá-la (Pañcāla), thành tốt, \
+#super[1] Ở xứ Pañcāla, thành tốt, \
 Kapilā, đô thành tối thắng; \
 có vua tên Jayaddisa, \
 đầy đủ giới đức.
@@ -1215,7 +1218,7 @@ sợ hãi, kinh hoàng, run rẩy; \
 đùi cứng đờ nơi cha, \
 khi thấy kẻ ăn thịt người.
 
-#super[5] "Hãy thả tôi, cuộc săn đã xong, \
+#super[5] "Hãy thả, cuộc săn đã xong, \
 rồi tôi sẽ trở lại"; \
 cho của cải cho Bà-la-môn xong, \
 cha gọi Ta.
@@ -1228,7 +1231,7 @@ rằng ta sẽ trở lại.'"
 #super[7] Đảnh lễ mẹ cha, \
 đổi lấy bằng chính mình; \
 bỏ cung, bỏ kiếm, \
-Ta đến chỗ kẻ ăn thịt người.
+Ta đến kẻ ăn thịt người.
 
 #super[8] Nếu đến với binh khí trong tay, \
 hắn có khi sẽ sợ; \
@@ -1237,7 +1240,7 @@ nếu Ta gây chút kinh hãi.
 
 #super[9] Vì sợ giới bị gãy, \
 Ta không nói điều hắn chán; \
-với tâm từ, nói điều lợi, \
+tâm từ, nói điều lợi, \
 Ta nói lời này.
 
 #super[10] "Hãy nhóm lửa lớn, \
@@ -1252,7 +1255,7 @@ kẻ luôn sát sanh.
 
 #strong[(Sở hạnh Alīnasattu, chuyện thứ chín.)]
 
-=== 20. Sở hạnh Saṅkhapāla (Saṅkhapālacariyā)
+=== 20. Sở hạnh San-kha-ba-la (Saṅkhapālacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 Saṅkhapāla đại thần lực; \
@@ -1267,7 +1270,7 @@ Ta lập chỗ ở tại đó.
 #super[3] Bằng da ngoài, da trong, thịt, \
 gân hay xương; \
 ai cần những ấy, \
-cứ lấy, Ta đã cho rồi.
+cứ lấy, đã cho rồi.
 
 #super[4] Các con nhà Bhoja thấy, \
 thô, dữ, không thương; \
@@ -1311,9 +1314,9 @@ vì vậy đó là Giới ba-la-mật.
 
 #strong[(Hết phần trình bày Giới ba-la-mật.)]
 
-== 3. Phẩm Yudhañjaya (Yudhañjayavaggo)
+== 3. Phẩm Du-đanh-xa-da (Yudhañjayavaggo)
 
-=== 21. Sở hạnh Yudhañjaya (Yudhañjayacariyā)
+=== 21. Sở hạnh Du-đanh-xa-da (Yudhañjayacariyā)
 
 #super[1] Khi Ta tiếng tăm vô lượng, \
 là vương tử Yudhañjaya; \
@@ -1342,7 +1345,7 @@ chỉ vì Bồ-đề.
 
 #super[6] Không phải Ta chán mẹ cha, \
 cũng không phải Ta chán danh vọng lớn; \
-Nhất thiết trí là quý đối với Ta, \
+Nhất thiết trí đối với Ta là quý, \
 vì vậy Ta đã bỏ ngôi.
 
 #strong[(Sở hạnh Yudhañjaya, chuyện thứ nhất.)]
@@ -1397,7 +1400,7 @@ hay ta sẽ đuổi ngươi khỏi nước."
 #super[10] Dẹp xong biên ấp, \
 vua hỏi kẻ giả dối: \
 "Thưa tôn giả, có kham nhẫn được chăng, \
-ngài có được tôn kính chu đáo không?"
+sự tôn kính có được tiến hành cho ngài?"
 
 #super[11] Kẻ ác kể với vua \
 vương tử đã bất kính thế nào; \
@@ -1431,15 +1434,15 @@ xuất gia, không nhà.
 
 #super[17] Không phải Ta chán đại vương quốc, \
 cũng không phải Ta chán dục lạc; \
-Nhất thiết trí là quý đối với Ta, \
+Nhất thiết trí đối với Ta là quý, \
 vì vậy Ta đã bỏ ngôi.
 
 #strong[(Sở hạnh Somanassa, chuyện thứ hai.)]
 
-=== 23. Sở hạnh Ayoghara (Ayogharacariyā)
+=== 23. Sở hạnh A-dô-gha-la (Ayogharacariyā)
 
 #super[1] Lại nữa, khi Ta là \
-con trai vua Ca-thi (Kāsi); \
+con trai vua Kāsi; \
 lớn lên trong nhà sắt, \
 tên là Ayoghara.
 
@@ -1459,7 +1462,7 @@ không phòng hộ, trong nhà mình, \
 lớn lên cùng bà con.
 
 #super[5] Đây là điều vượt trội ở đời: \
-việc nuôi Ta trong chỗ bức bách; \
+sự nuôi Ta trong chỗ bức bách; \
 lớn lên trong nhà sắt, \
 ít ánh trăng nắng.
 
@@ -1475,7 +1478,7 @@ Ta sẽ là bậc nhất trong kẻ ác.
 
 #super[8] Ta đã nhàm chán thân này, \
 không cần ngôi vua; \
-Ta sẽ tìm tịch tịnh, \
+Ta sẽ tìm sự tịch tịnh, \
 chỗ chết không đè được Ta."
 
 #super[9] Nghĩ như vậy xong, \
@@ -1485,21 +1488,21 @@ Ta vào rừng rậm.
 
 #super[10] Không phải Ta chán mẹ cha, \
 cũng không phải Ta chán danh vọng lớn; \
-Nhất thiết trí là quý đối với Ta, \
+Nhất thiết trí đối với Ta là quý, \
 vì vậy Ta đã bỏ ngôi.
 
 #strong[(Sở hạnh Ayoghara, chuyện thứ ba.)]
 
-=== 24. Sở hạnh Bhisa (Bhisacariyā)
+=== 24. Sở hạnh Bhi-sa (Bhisacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-đô thành tối thắng của dân Ca-thi (Kāsi); \
+đô thành tối thắng của dân Kāsi; \
 một chị em và bảy anh em, \
 sanh trong gia tộc Bà-la-môn.
 
 #super[2] Ta là anh cả của họ, \
 đầy hổ thẹn và pháp trắng; \
-thấy hữu đáng sợ, \
+thấy hữu là đáng sợ, \
 Ta ưa xuất ly.
 
 #super[3] Được mẹ cha sai, \
@@ -1534,7 +1537,7 @@ chúng ta vào rừng lớn.
 
 #strong[(Sở hạnh Bhisa, chuyện thứ tư.)]
 
-=== 25. Sở hạnh Soṇapaṇḍita (Soṇapaṇḍitacariyā)
+=== 25. Sở hạnh Hiền Trí Sô-na (Soṇapaṇḍitacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
 thành Brahmavaḍḍhana; \
@@ -1559,19 +1562,19 @@ Ta cũng nói ý với họ: \
 #super[5] Em trai út của Ta, \
 bậc trí tên Nanda; \
 cũng theo học Ta, \
-vui theo hạnh xuất gia.
+vui theo sự xuất gia.
 
-#super[6] Ta là Tô-na (Soṇa) và Nanda, \
+#super[6] Ta là Soṇa và Nanda, \
 cả mẹ lẫn cha của Ta; \
 lúc ấy cũng bỏ của cải, \
 chúng ta vào rừng lớn.
 
 #strong[(Sở hạnh Soṇapaṇḍita, chuyện thứ năm.)]
 
-=== 26. Sở hạnh Temiya (Temiyacariyā)
+=== 26. Sở hạnh Tê-mi-da (Temiyacariyā)
 
 #super[1] Lại nữa, khi Ta là \
-con trai vua Ca-thi (Kāsi); \
+con trai vua Kāsi; \
 tên là Mūgapakkha, \
 họ gọi Ta là Temiya.
 
@@ -1600,7 +1603,7 @@ người muốn lợi cho Ta; \
 thấy Ta khổ, \
 nàng khiến Ta quyết ba điều.
 
-#super[7] "Chớ tỏ ra thông tuệ, \
+#super[7] "Chớ tỏ sự thông tuệ, \
 hãy để mọi loài tưởng là ngu; \
 hãy để mọi người khinh ông, \
 như vậy lợi của ông sẽ thành."
@@ -1659,7 +1662,7 @@ chỉ vì Bồ-đề.
 
 #super[18] Không phải Ta chán mẹ cha, \
 cũng không phải Ta chán bản thân; \
-Nhất thiết trí là quý đối với Ta, \
+Nhất thiết trí đối với Ta là quý, \
 vì vậy Ta đã quyết định hạnh ấy.
 
 #super[19] Quyết định các chi ấy, \
@@ -1669,7 +1672,7 @@ không ai bằng Ta về quyết định, \
 
 #strong[(Sở hạnh Temiya, chuyện thứ sáu.)]
 
-=== 27. Sở hạnh Kapirāja (Kapirājacariyā)
+=== 27. Sở hạnh Vua Ca-bi (Kapirājacariyā)
 
 #super[1] Khi Ta là khỉ, \
 ở hang bên bờ sông; \
@@ -1693,7 +1696,7 @@ không ai bằng Ta về chân thật, \
 
 #strong[(Sở hạnh Kapirāja, chuyện thứ bảy.)]
 
-=== 28. Sở hạnh Saccatāpasa (Saccatāpasacariyā)
+=== 28. Sở hạnh Khổ Hạnh Sa-xa (Saccatāpasacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 ẩn sĩ tên Sacca; \
@@ -1702,16 +1705,16 @@ Ta làm cho dân chúng hòa hợp.
 
 #strong[(Sở hạnh Saccatāpasa, chuyện thứ tám.)]
 
-=== 29. Sở hạnh Vaṭṭapotaka (Vaṭṭapotakacariyā)
+=== 29. Sở hạnh Bát-đa-bô-đa-ca (Vaṭṭapotakacariyā)
 
 #super[1] Lại nữa, khi Ta ở \
-Ma-kiệt-đà (Magadha), là chim cút con; \
+Magadha, là chim cút con; \
 chưa mọc cánh, còn non, \
 một nắm thịt trong tổ.
 
 #super[2] Mẹ ngậm mỏ mang về \
 nuôi Ta; \
-Ta sống nhờ mẹ ấp ủ, \
+Ta sống nhờ sự xúc chạm của mẹ, \
 không có sức nơi thân.
 
 #super[3] Trong năm, vào mùa nóng, \
@@ -1763,7 +1766,7 @@ không ai bằng Ta về chân thật, \
 
 #strong[(Sở hạnh Vaṭṭapotaka, chuyện thứ chín.)]
 
-=== 30. Sở hạnh Maccharāja (Maccharājacariyā)
+=== 30. Sở hạnh Vua Mát-xa (Maccharājacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 vua cá trong hồ lớn; \
@@ -1783,7 +1786,7 @@ Ta giải thoát bà con khỏi khổ?"
 #super[4] Suy nghĩ nghĩa pháp, \
 Ta thấy chân thật làm chỗ nương; \
 đứng trên chân thật, Ta giải thoát \
-bà con khỏi nạn diệt ấy.
+bà con khỏi sự diệt ấy.
 
 #super[5] Nhớ pháp của bậc lành, \
 suy nghĩ nghĩa tối thượng; \
@@ -1791,7 +1794,7 @@ Ta làm sự chân thật, \
 điều vững, thường còn ở đời.
 
 #super[6] "Từ khi nhớ mình, \
-từ khi đạt được hiểu biết; \
+từ khi đạt được sự hiểu biết; \
 Ta không biết cố ý \
 làm hại dù một sanh mạng.
 
@@ -1806,78 +1809,79 @@ hãy giải thoát cá khỏi sầu."
 Pajjunna gầm lên; \
 làm đầy chỗ cao chỗ thấp, \
 trong khoảnh khắc mưa xuống.
-#super[9] Làm sự chân thật tối thắng ấy, \
-với tinh tấn tối thượng, \
-Ta khiến mưa lớn đổ xuống, \
-nương oai lực chân thật; \
+
+#super[9] Chân thật tối thắng như vậy, \
+đã làm tinh tấn tối thượng; \
+Ta khiến mưa lớn đổ, \
+nương lực oai chân thật; \
 không ai bằng Ta về chân thật, \
 đây là Chân thật ba-la-mật của Ta.
 
 #strong[(Sở hạnh Maccharāja, chuyện thứ mười.)]
 
-=== 31. Sở hạnh Kaṇhadīpāyana (Kaṇhadīpāyanacariyā)
+=== 31. Sở hạnh Can-ha-đi-ba-da-na (Kaṇhadīpāyanacariyā)
 
 #super[1] Lại nữa, khi Ta là \
-ẩn sĩ Kaṇhadīpāyana, \
-hơn năm mươi năm \
+ẩn sĩ Kaṇhadīpāyana; \
+hơn năm mươi năm, \
 Ta sống không vui.
 
-#super[2] Không ai biết \
-tâm Ta không vui; \
-Ta chẳng nói với ai, \
-nỗi buồn cứ quẩn trong lòng.
+#super[2] Không ai biết điều ấy, \
+tâm không vui của Ta; \
+Ta không nói với ai, \
+sự không ưa đi trong ý Ta.
 
-#super[3] Maṇḍabya, đồng phạm hạnh, \
-bạn Ta, vị đại ẩn sĩ, \
-do nghiệp cũ đeo theo, \
-bị đóng cọc.
+#super[3] Đồng phạm hạnh Maṇḍabya, \
+bạn Ta, đại ẩn sĩ; \
+gắn với nghiệp cũ, \
+phải chịu bị đóng cọc.
 
-#super[4] Ta hầu hạ vị ấy \
-cho đến khi lành bệnh; \
-xin phép xong, Ta về \
+#super[4] Ta hầu hạ vị ấy, \
+đưa đến sự lành bệnh; \
+xin phép rồi Ta về \
 am của mình.
 
-#super[5] Người bạn Bà-la-môn \
-đem theo vợ và con; \
-ba người cùng đến \
-làm khách của Ta.
+#super[5] Bạn Bà-la-môn của Ta, \
+đem vợ và con; \
+ba người họp lại, \
+đến làm khách.
 
-#super[6] Đang vui vẻ với họ, \
-ngồi trong am của mình; \
+#super[6] Vui vẻ cùng họ, \
+ngồi trong am mình; \
 đứa trẻ ném quả cầu, \
-chọc giận con rắn độc.
+chọc giận rắn độc.
 
-#super[7] Rồi đứa trẻ đi tìm \
-theo đường quả cầu lăn, \
-lấy tay sờ vào \
-đầu con rắn độc.
+#super[7] Rồi đứa trẻ \
+tìm đường quả cầu lăn, \
+lấy tay sờ \
+đầu rắn độc.
 
 #super[8] Giận vì bị sờ, \
-con rắn nương sức độc, \
+rắn nương lực độc; \
 giận đến cực độ, \
 cắn đứa trẻ trong khoảnh khắc.
 
 #super[9] Vừa bị rắn độc cắn, \
 đứa trẻ ngã xuống đất; \
-vì vậy Ta đau khổ, \
-nỗi khổ ấy đè lên Ta.
+do đó Ta khổ, \
+nỗi khổ ấy đè Ta.
 
 #super[10] Ta an ủi họ, \
-những người đau khổ, bị sầu đâm; \
-trước hết Ta làm sự chân thật, \
-tối thắng, tối thượng.
+đau khổ, bị mũi sầu đâm; \
+trước hết Ta làm sự ấy, \
+chân thật tối thắng, tối thượng.
 
 #super[11] "Chỉ bảy ngày Ta tâm tịnh, \
 vì phước mà hành Phạm hạnh; \
-còn sau đó, hạnh này của Ta \
-kéo dài hơn năm mươi năm.
+còn về sau, hạnh này của Ta \
+hơn năm mươi năm.
 
-#super[12] Ta sống mà không vui. \
-Bằng chân thật ấy, xin được an lành; \
-độc hãy dứt, Đạt Đức (Yaññadatta) hãy sống."
+#super[12] Ta sống không vui, \
+bằng chân thật ấy, xin được an lành; \
+độc hãy dứt, Yaññadatta hãy sống."
 
 #super[13] Vừa khi Ta làm sự chân thật, \
-đứa trẻ rung vì sức độc, \
+đứa trẻ rung vì sức độc; \
 tỉnh lại rồi đứng dậy, \
 thanh niên được lành; \
 không ai bằng Ta về chân thật, \
@@ -1885,7 +1889,7 @@ không ai bằng Ta về chân thật, \
 
 #strong[(Sở hạnh Kaṇhadīpāyana, chuyện thứ mười một.)]
 
-=== 32. Sở hạnh Sutasoma (Sutasomacariyā)
+=== 32. Sở hạnh Su-đa-sô-ma (Sutasomacariyā)
 
 #super[1] Lại nữa, khi Ta là \
 Sutasoma, chúa trái đất; \
@@ -1893,9 +1897,9 @@ bị kẻ ăn thịt người bắt, \
 Ta nhớ lời hứa với Bà-la-môn.
 
 #super[2] Một trăm Sát-đế-lỵ \
-hắn xỏ vào dây da, \
+hắn xỏ vào dây da; \
 làm họ héo hon, \
-rồi dẫn Ta đi để tế lễ.
+rồi dẫn Ta đến vì tế lễ.
 
 #super[3] Kẻ ăn thịt người hỏi Ta: \
 "Ông muốn gì khi được thả? \
@@ -1910,9 +1914,9 @@ lúc ấy Ta giao lại ngôi.
 #super[5] Nhớ pháp của bậc lành, \
 pháp xưa các đấng Chiến Thắng đã hành; \
 cho của cải cho Bà-la-môn, \
-Ta đến chỗ kẻ ăn thịt người.
+Ta đến kẻ ăn thịt người.
 
-#super[6] Ta không nghi ngờ \
+#super[6] Ta không nghi ở đó, \
 hắn sẽ giết hay không; \
 giữ lời chân thật, \
 Ta đến để xả mạng sống; \
@@ -1921,30 +1925,30 @@ không ai bằng Ta về chân thật, \
 
 #strong[(Sở hạnh Sutasoma, chuyện thứ mười hai.)]
 
-=== 33. Sở hạnh Suvaṇṇasāma (Suvaṇṇasāmacariyā)
+=== 33. Sở hạnh Su-ban-na-sa-ma (Suvaṇṇasāmacariyā)
 
 #super[1] Khi Ta là Sāma trong rừng, \
-do Thích-ca (Sakka) hóa hiện; \
-sư tử và cọp trong rừng, \
+do Sakka hóa hiện; \
+trong rừng, sư tử và cọp, \
 Ta đưa lại gần bằng từ.
 
-#super[2] Sư tử, cọp, beo, \
-gấu và trâu rừng, \
-nai đốm và heo rừng \
+#super[2] Cùng sư tử, cọp, beo, \
+gấu và trâu; \
+nai đốm và heo rừng, \
 vây quanh, Ta sống trong rừng.
 
-#super[3] Không ai sợ Ta, \
+#super[3] Không ai kinh hãi Ta, \
 Ta cũng không sợ ai; \
-nương sức từ, \
+nương lực từ, \
 lúc ấy Ta vui trong rừng.
 
 #strong[(Sở hạnh Suvaṇṇasāma, chuyện thứ mười ba.)]
 
-=== 34. Sở hạnh Ekarāja (Ekarājacariyā)
+=== 34. Sở hạnh Vua Ê-ca (Ekarājacariyā)
 
 #super[1] Lại nữa, khi Ta \
 nổi tiếng tên Ekarāja; \
-quyết giữ giới tối thắng, \
+quyết định giới tối thắng, \
 Ta cai trị mặt đất lớn.
 
 #super[2] Mười đường nghiệp lành \
@@ -1953,43 +1957,43 @@ bằng bốn nhiếp sự, \
 Ta nhiếp phục đại chúng.
 
 #super[3] Khi Ta không buông lung như vậy, \
-cho đời này và đời sau; \
-Dabbasena đến \
+đời này và đời sau; \
+Dabbasena đến, \
 cướp thành của Ta.
 
 #super[4] Những người sống nhờ vua, các ấp, \
-cùng quân đội, cùng nước; \
+cùng quân, cùng nước; \
 hắn nắm hết trong tay, \
 rồi chôn Ta xuống hố.
 
 #super[5] Vòng đại thần, vương quốc, \
-nội cung phồn thịnh của Ta \
-bị cướp, bị chiếm — \
+nội cung phồn thịnh của Ta; \
+bị cướp, bị chiếm, \
 Ta nhìn như nhìn con quý; \
 không ai bằng Ta về từ, \
 đây là Từ ba-la-mật của Ta.
 
 #strong[(Sở hạnh Ekarāja, chuyện thứ mười bốn.)]
 
-=== 35. Sở hạnh Mahālomahaṃsa (Mahālomahaṃsacariyā)
+=== 35. Sở hạnh Đại Lô-ma-ham-sa (Mahālomahaṃsacariyā)
 
 #super[1] Ta trải giường nơi bãi tha, \
 để xương người chết bên mình; \
 trẻ trong làng đến, \
-giở đủ mọi trò.
+tỏ đủ mọi hình dạng.
 
-#super[2] Kẻ khác thì hương và vòng hoa, \
-đủ loại thức ăn, nhiều; \
+#super[2] Kẻ khác hương và vòng hoa, \
+thức ăn nhiều loại, nhiều; \
 mang đến làm lễ vật, \
-vui mừng, tâm rúng động.
+mừng, tâm rúng động.
 
-#super[3] Ai đem khổ đến cho Ta, \
-ai cho Ta vui, \
+#super[3] Những ai đem khổ đến Ta, \
+và những ai cho Ta vui; \
 Ta đều như nhau với tất cả, \
 thương và giận đều không có.
 
-#super[4] Giữa vui và khổ như cán cân, \
-giữa danh và không danh; \
+#super[4] Trong vui khổ như cán cân, \
+trong danh và không danh; \
 Ta đều như nhau mọi nơi, \
 đây là Xả ba-la-mật của Ta.
 
@@ -2000,22 +2004,22 @@ Ta đều như nhau mọi nơi, \
 
 Yudhañjaya, Somanassa, \
 Ayoghara cùng Bhisa; \
-Tô-na (Soṇa), Nanda, Mūgapakkha, \
+Soṇa và Nanda, Mūgapakkha, \
 vua khỉ, vị tên Sacca.
 
 Chim cút và vua cá, \
 ẩn sĩ Kaṇhadīpāyana; \
-rồi Ta lại là Sutasoma, \
+lại nữa Ta đã là Sutasoma, \
 Sāma và Ekarāja; \
-Xả ba-la-mật đã có — \
+Xả ba-la-mật đã có, \
 đại ẩn sĩ đã nói như vậy.
 
-Như vậy, đủ mọi khổ, \
-đủ mọi thịnh vượng; \
-trải qua đời này đời khác, \
+Như vậy, khổ đủ loại, \
+và thịnh vượng đủ loại; \
+đã trải qua đời này đời khác, \
 Ta đạt Chánh giác tối thượng.
 
-Đã cho món bố thí nên cho, \
+Đã cho bố thí nên cho, \
 đã viên mãn giới không thiếu sót; \
 đã đến ba-la-mật xuất ly, \
 Ta đạt Chánh giác tối thượng.
@@ -2025,19 +2029,19 @@ Ta đạt Chánh giác tối thượng.
 đã đến ba-la-mật nhẫn, \
 Ta đạt Chánh giác tối thượng.
 
-Đã quyết định vững chắc, \
+Đã làm quyết định vững, \
 đã giữ lời chân thật; \
 đã đến ba-la-mật từ, \
 Ta đạt Chánh giác tối thượng.
 
-Giữa được và mất, danh và không danh, \
+Trong được mất, danh không danh, \
 tôn kính và khinh thường; \
 đã như nhau mọi nơi, \
 Ta đạt Chánh giác tối thượng.
 
 Thấy biếng nhác là đáng sợ, \
-thấy tinh tấn là an ổn; \
-hãy phát khởi tinh tấn, \
+thấy phát khởi tinh tấn là an ổn; \
+hãy là người đã phát khởi tinh tấn, \
 đây là lời dạy của chư Phật.
 
 Thấy tranh cãi là đáng sợ, \
@@ -2050,6 +2054,6 @@ thấy không phóng dật là an ổn; \
 hãy tu tập Thánh đạo tám chi, \
 đây là lời dạy của chư Phật.
 
-Như vậy, khi tán dương sở hạnh quá khứ của chính mình, Thế Tôn đã thuyết pháp môn tên là Buddhāpadāniya.
+Như vậy, Thế Tôn đang tán dương sở hạnh quá khứ của chính mình, đã thuyết pháp môn tên là Buddhāpadāniya.
 
 #strong[(Hết Sở Hạnh Tạng.)]

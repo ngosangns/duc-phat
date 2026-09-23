@@ -28,7 +28,7 @@
 3	18	Thiên Giới
 3	19	Thương Nhân (1)
 3	20	Thương Nhân (2)
-3	21	Samiddha
+3	21	Sa-mi-đa
 3	22	Người Bệnh
 3	23	Hành
 3	24	Nhiều Lợi Ích
@@ -39,10 +39,10 @@
 3	29	Người Mù
 3	30	Trí Úp Ngược
 3	31	Có Phạm Thiên
-3	32	Ānanda
-3	33	Sāriputta
+3	32	A-nan
+3	33	Xá-lợi-phất
 3	34	Nhân
-3	35	Hatthaka
+3	35	Hat-ha-ca
 3	36	Thiên Sứ
 3	37	Tứ Đại Thiên Vương
 3	38	Tứ Đại Thiên Vương (2)
@@ -65,23 +65,23 @@
 3	55	Du Sĩ
 3	56	Tịch Diệt
 3	57	Hoại Diệt
-3	58	Vacchagotta
-3	59	Tikaṇṇa
-3	60	Jāṇussoṇi
-3	61	Saṅgārava
+3	58	Ba-xa-gôt-ta
+3	59	Đi-ca-na
+3	60	Sanh Lậu
+3	61	Sang-ga-la-ba
 3	62	Căn Cứ Ngoại Đạo
-3	63	Venāgapura
-3	64	Sarabha
-3	65	Kesamutti
-3	66	Sāḷha
+3	63	Bê-na-ga-bu-la
+3	64	Sa-la-ba
+3	65	Cê-sa-mu-đi
+3	66	Sa-ha
 3	67	Đề Tài Đàm Luận
 3	68	Ngoại Đạo
 3	69	Căn Bất Thiện
 3	70	Ngày Bố-tát
-3	71	Channa
-3	72	Ājīvaka
-3	73	Mahānāma Người Sakya
-3	74	Nigaṇṭha
+3	71	Xán-nặc
+3	72	Tà mạng ngoại đạo
+3	73	Ma-ha-nam Người Thích-ca
+3	74	Ni-kiền
 3	75	An Trú
 3	76	Hữu (1)
 3	77	Hữu (2)
@@ -91,14 +91,14 @@
 3	81	Sa-môn
 3	82	Con Lừa
 3	83	Ruộng
-3	84	Người Vajjī
+3	84	Người Bạt-kỳ
 3	85	Hữu Học
 3	86	Học Pháp (1)
 3	87	Học Pháp (2)
 3	88	Học Pháp (3)
 3	89	Tam Học (1)
 3	90	Tam Học (2)
-3	91	Saṅkavā
+3	91	Sang-ca-ba
 3	92	Việc Khẩn
 3	93	Viễn Ly
 3	94	Mùa Thu
@@ -130,14 +130,14 @@
 3	120	Thanh Tịnh Thứ Nhất
 3	121	Thanh Tịnh Thứ Hai
 3	122	Ẩn Sĩ Hạnh
-3	123	Kusinārā
+3	123	Câu-thi-na
 3	124	Cãi Cọ
-3	125	Đền Gotamaka
-3	126	Bharaṇḍu Kālāma
-3	127	Hatthaka
+3	125	Đền Gô-đa-ma-ca
+3	126	Ba-lan-đỗ Ca-lâm
+3	127	Hat-ha-ca
 3	128	Uế Tạp
-3	129	Anuruddha Thứ Nhất
-3	130	Anuruddha Thứ Hai
+3	129	A-na-luật-đà Thứ Nhất
+3	130	A-na-luật-đà Thứ Hai
 3	131	Che Giấu
 3	132	Nét Vạch
 3	133	Chiến Sĩ
@@ -150,9 +150,9 @@
 3	140	Ngựa Non
 3	141	Ngựa Tốt
 3	142	Ngựa Thuần Chủng
-3	143	Moranivāpa Thứ Nhất
-3	144	Moranivāpa Thứ Hai
-3	145	Moranivāpa Thứ Ba
+3	143	Khổng Tước Lâm Thứ Nhất
+3	144	Khổng Tước Lâm Thứ Hai
+3	145	Khổng Tước Lâm Thứ Ba
 3	146	Bất Thiện
 3	147	Có Tội
 3	148	Không Ngay Thẳng
@@ -183,10 +183,10 @@
 4	18	Thiên Vị (2)
 4	19	Thiên Vị (3)
 4	20	Người Phân Thực
-4	21	Uruvelā (1)
-4	22	Uruvelā (2)
+4	21	Ưu-lâu-tần-la (1)
+4	22	Ưu-lâu-tần-la (2)
 4	23	Thế Gian
-4	24	Khu Vườn Kāḷaka
+4	24	Khu Vườn Ca-la-ca
 4	25	Phạm Hạnh
 4	26	Lừa Dối
 4	27	Biết Đủ
@@ -197,20 +197,20 @@
 4	32	Nhiếp Sự
 4	33	Sư Tử
 4	34	Tịnh Tín Tối Thượng
-4	35	Vassakāra
-4	36	Doṇa
+4	35	Vũ-xá
+4	36	Đô-na
 4	37	Không Thối Đọa
 4	38	Ẩn Cư
-4	39	Ujjaya
-4	40	Udāyī
+4	39	U-xa-da
+4	40	Ưu-đà-di
 4	41	Tu Tập Định
 4	42	Trả Lời Câu Hỏi
 4	43	Coi Trọng Phẫn Nộ (1)
 4	44	Coi Trọng Phẫn Nộ (2)
-4	45	Rohitassa
-4	46	Rohitassa (2)
+4	45	Lô-hi-đa-sa
+4	46	Lô-hi-đa-sa (2)
 4	47	Rất Xa
-4	48	Visākha
+4	48	Tỳ-xá-khư
 4	49	Điên Đảo
 4	50	Cấu Uế
 4	51	Dòng Phước (1)
@@ -219,8 +219,8 @@
 4	54	Sống Chung (2)
 4	55	Đồng Sống (1)
 4	56	Đồng Sống (2)
-4	57	Suppavāsā
-4	58	Sudatta
+4	57	Su-ba-ba-sa
+4	58	Tu-đạt-đa
 4	59	Thức Ăn
 4	60	Pháp Cư Sĩ
 4	61	Nghiệp Xứng Đáng
@@ -230,7 +230,7 @@
 4	65	Sắc Tướng
 4	66	Có Tham
 4	67	Vua Rắn
-4	68	Devadatta
+4	68	Đề-bà-đạt-đa
 4	69	Tinh Cần
 4	70	Phi Pháp
 4	71	Tinh Cần
@@ -238,11 +238,11 @@
 4	73	Bậc Chân Nhân
 4	74	Tối Thượng (1)
 4	75	Tối Thượng (2)
-4	76	Kusinārā
+4	76	Câu-thi-na
 4	77	Không Nên Tư Duy
 4	78	Sự Cúng Dường
 4	79	Buôn Bán
-4	80	Kamboja
+4	80	Cam-bô-xa
 4	81	Sát Sinh
 4	82	Nói Dối
 4	83	Không Đáng Khen
@@ -262,7 +262,7 @@
 4	97	Lanh Lợi Lãnh Hội
 4	98	Lợi Mình
 4	99	Học Giới
-4	100	Potaliya
+4	100	Bô-đa-li-da
 4	101	Mây (1)
 4	102	Mây (2)
 4	103	Cái Ghè
@@ -272,7 +272,7 @@
 4	107	Con Bò
 4	108	Cây
 4	109	Rắn Độc
-4	110	Kesi
+4	110	Cê-si
 4	111	Tốc Lực
 4	112	Roi Đánh
 4	113	Voi
@@ -290,7 +290,7 @@
 4	125	Từ (2)
 4	126	Pháp Hy Hữu Của Như Lai (1)
 4	127	Pháp Hy Hữu Của Như Lai (2)
-4	128	Pháp Hy Hữu Của Ānanda
+4	128	Pháp Hy Hữu Của A-nan
 4	129	Pháp Hy Hữu Của Chuyển Luân
 4	130	Kiết Sử (2)
 4	131	Biện Tài
@@ -328,17 +328,17 @@
 4	163	Nhẫn (1)
 4	164	Nhẫn (2)
 4	165	Cả Hai
-4	166	Mahāmoggallāna
-4	167	Sāriputta
+4	166	Mục Kiền Liên
+4	167	Xá-lợi-phất
 4	168	Hữu Hành
 4	169	Song Hành
 4	170	Tư
 4	171	Phân Tích
-4	172	Mahākoṭṭhika
-4	173	Ānanda
-4	174	Upavāṇa
+4	172	Ma-ha-câu-hi-la
+4	173	A-nan
+4	174	U-ba-va-na
 4	175	Ước Nguyện
-4	176	Rāhula
+4	176	La-hầu-la
 4	177	Vũng Lầy
 4	178	Niết-bàn
 4	179	Đại Giáo Thọ
@@ -348,17 +348,17 @@
 4	183	Không Sợ
 4	184	Đế Lý Bà-la-môn
 4	185	Đường Tâm
-4	186	Vassakāra
-4	187	Upaka
+4	186	Vũ-xá
+4	187	U-ba-ca
 4	188	Cần Chứng Ngộ
 4	189	Bố-tát
 4	190	Pháp Được Nghe
 4	191	Căn Cứ
-4	192	Bhaddiya
-4	193	Dân Sāmuga
-4	194	Vappa
-4	195	Sāḷha
-4	196	Hoàng Hậu Mallikā
+4	192	Ba-đi-da
+4	193	Dân Sa-mu-ga
+4	194	Báp-ba
+4	195	Sa-ha
+4	196	Hoàng Hậu Ma-li-ca
 4	197	Tự Hành Hạ
 4	198	Ái
 4	199	Thương Mến
@@ -395,7 +395,7 @@
 4	230	Thi Nhân
 4	231	Vắn Tắt
 4	232	Rộng Thuyết
-4	233	Soṇakāyana
+4	233	Sô-na-ca-da-na
 4	234	Học Xứ (1)
 4	235	Học Xứ (2)
 4	236	Thánh Đạo
@@ -418,7 +418,7 @@
 4	253	Thắng Tri
 4	254	Tầm Cầu
 4	255	Nhiếp Sự
-4	256	Mālukyaputta
+4	256	Con Trai Ma-luân-khê
 4	257	Gia Tộc
 4	258	Ngựa Thuần Chủng (1)
 4	259	Ngựa Thuần Chủng (2)
@@ -467,11 +467,11 @@
 5	27	Định
 5	28	Năm Chi
 5	29	Kinh Hành
-5	30	Nāgita
-5	31	Sumanā
-5	32	Cundī
-5	33	Uggaha
-5	34	Tướng Quân Sīha
+5	30	Na-gi-đa
+5	31	Tô-ma-na
+5	32	Chuẩn Đề
+5	33	U-ga-ha
+5	34	Tướng Quân Sĩ-ha
 5	35	Lợi Ích Bố Thí
 5	36	Bố Thí Đúng Thời
 5	37	Thức Ăn
@@ -486,8 +486,8 @@
 5	46	Thành Tựu
 5	47	Tài Bảo
 5	48	Điều Không Thể Có Được
-5	49	Kosala
-5	50	Nārada
+5	49	Kiều-tát-la
+5	50	Na-la-đà
 5	51	Che Chướng
 5	52	Đống Bất Thiện
 5	53	Chi Phần Tinh Cần
@@ -495,7 +495,7 @@
 5	55	Mẹ Và Con
 5	56	Hòa Thượng
 5	57	Pháp Thường Quán
-5	58	Các Vương Tử Licchavi
+5	58	Các Vương Tử Ly-trà-tỳ
 5	59	Xuất Gia Lúc Già (1)
 5	60	Xuất Gia Lúc Già (2)
 5	61	Tưởng (1)
@@ -537,13 +537,13 @@
 5	97	Đàm Luận
 5	98	Sống Rừng
 5	99	Sư Tử
-5	100	Trưởng Lão Kakudha
+5	100	Trưởng Lão Ca-cu-đa
 5	101	Rụt Rè
 5	102	Bị Nghi Ngờ
 5	103	Đại Đạo Tặc
 5	104	Sa-môn Thanh Nhã
 5	105	An Trú
-5	106	Ānanda
+5	106	A-nan
 5	107	Giới
 5	108	Vô Học
 5	109	Bốn Phương
@@ -551,7 +551,7 @@
 5	111	Lui Tới Gia Đình
 5	112	Sa-môn Đi Sau
 5	113	Chánh Định
-5	114	Andhakavinda
+5	114	An-đa-ca-bin-đa
 5	115	Tỷ-kheo-ni Xan Tham
 5	116	Khen Chê
 5	117	Tỷ-kheo-ni Ganh Tỵ
@@ -580,8 +580,8 @@
 5	140	Tai Nghe
 5	141	Khinh Thường
 5	142	Ra Sức
-5	143	Sārandada
-5	144	Tikaṇḍakī
+5	143	Sa-lan-đa-đa
+5	144	Ti-can-đa-ki
 5	145	Địa Ngục
 5	146	Bạn
 5	147	Bố Thí Của Kẻ Phi Chân Nhân
@@ -596,7 +596,7 @@
 5	156	Chánh Pháp Hủy Hoại (3)
 5	157	Lời Khó Nói
 5	158	Rụt Rè
-5	159	Udāyī
+5	159	Ưu-đà-di
 5	160	Khó Xua Tan
 5	161	Dẹp Sân Hận (1)
 5	162	Dẹp Sân Hận (2)
@@ -607,7 +607,7 @@
 5	167	Cử Tội
 5	168	Giới
 5	169	Nhanh Hiểu
-5	170	Bhaddaji
+5	170	Ba-đa-xi
 5	171	Rụt Rè
 5	172	Tự Tin
 5	173	Địa Ngục
@@ -617,7 +617,7 @@
 5	177	Buôn Bán
 5	178	Vua
 5	179	Cư Sĩ
-5	180	Gavesī
+5	180	Ca-vê-tây
 5	181	Sống Rừng
 5	182	Y Phấn Tảo
 5	183	Gốc Cây
@@ -629,16 +629,16 @@
 5	189	Không Ăn Thêm Sau
 5	190	Ăn Trong Bát
 5	191	Chó
-5	192	Doṇa
-5	193	Saṅgārava
-5	194	Kāraṇapālī
-5	195	Piṅgiyānī
+5	192	Đô-na
+5	193	Sang-ga-la-ba
+5	194	Ca-la-na-ba-li
+5	195	Bing-gi-da-ni
 5	196	Đại Mộng
 5	197	Mưa
 5	198	Lời Nói
 5	199	Gia Đình
 5	200	Xuất Ly
-5	201	Kimila
+5	201	Ci-mi-la
 5	202	Nghe Pháp
 5	203	Ngựa Thuần Chủng
 5	204	Sức Mạnh
@@ -657,7 +657,7 @@
 5	217	Không Tịnh Tín (1)
 5	218	Không Tịnh Tín (2)
 5	219	Lửa
-5	220	Madhurā
+5	220	Ma-đu-la
 5	221	Du Hành Dài (1)
 5	222	Du Hành Dài (2)
 5	223	Ở Lâu Quá
@@ -697,7 +697,7 @@
 5	259	Sơ Thiền Khác
 5	262	Phân Phối Ăn
 5	265	Tỷ-kheo
-5	268	Ājīvaka
+5	268	Tà mạng ngoại đạo
 6	1	Đáng Cúng Dường (1)
 6	2	Đáng Cúng Dường (2)
 6	3	Căn
@@ -707,57 +707,57 @@
 6	7	Thuần Chủng (3)
 6	8	Vô Thượng
 6	9	Xứ Tùy Niệm
-6	10	Mahānāma
+6	10	Ma-ha-nam
 6	11	Đáng Nhớ (1)
 6	12	Đáng Nhớ (2)
 6	13	Xuất Ly
 6	14	Tốt Lành
 6	15	Hối Hận
-6	16	Cha Nakula
+6	16	Cha Na-cu-la
 6	17	Ngủ
 6	18	Người Đánh Cá
 6	19	Niệm Chết (1)
 6	20	Niệm Chết (2)
-6	21	Sāmaka
+6	21	Sa-ma-ca
 6	22	Không Thối Đọa
 6	23	Sợ Hãi
-6	24	Himavanta
+6	24	Tuyết Sơn
 6	25	Xứ Tùy Niệm
-6	26	Mahākaccāna
+6	26	Đại Ca-chiên-diên
 6	27	Thời Điểm (1)
 6	28	Thời Điểm (2)
-6	29	Udāyī
+6	29	Ưu-đà-di
 6	30	Vô Thượng
 6	31	Hữu Học
 6	32	Không Thối Đọa (1)
 6	33	Không Thối Đọa (2)
-6	34	Mahāmoggallāna
+6	34	Mục Kiền Liên
 6	35	Thuộc Về Minh
 6	36	Gốc Tranh Chấp
 6	37	Bố Thí Sáu Chi
 6	38	Tự Làm
 6	39	Nhân Duyên
-6	40	Kimila
+6	40	Ci-mi-la
 6	41	Khối Gỗ
-6	42	Nāgita
+6	42	Na-gi-đa
 6	43	Long Tượng
-6	44	Migasālā
+6	44	Mi-ga-sa-la
 6	45	Nợ
-6	46	Mahācunda
+6	46	Đại-Thuần-đà
 6	47	Hiện Kiến (1)
 6	48	Hiện Kiến (2)
-6	49	Khema
+6	49	An Hòa
 6	50	Hộ Trì Các Căn
-6	51	Ānanda
+6	51	A-nan
 6	52	Sát-đế-lỵ
 6	53	Không Phóng Dật
-6	54	Dhammika
-6	55	Soṇa
-6	56	Phagguna
+6	54	Đam-mi-ca
+6	55	Tô-na
+6	56	Pha-gu-na
 6	57	Sáu Loại Sinh
 6	58	Lậu Hoặc
 6	59	Thợ Gỗ
-6	60	Citta Hatthisāriputta
+6	60	Xi-đa Voi Xá-lợi-phất
 6	61	Ở Giữa
 6	62	Trí Về Căn Của Người
 6	63	Thấu Triệt
@@ -816,14 +816,14 @@
 6	116	Trạo Cử
 6	117	Quán Thân
 6	118	Quán Pháp
-6	119	Tapussa
+6	119	Ta-bu-sa
 7	1	Được Yêu Mến (1)
 7	2	Được Yêu Mến (2)
 7	3	Lực Tóm Tắt
 7	4	Lực Chi Tiết
 7	5	Tài Sản Tóm Tắt
 7	6	Tài Sản Chi Tiết
-7	7	Ugga
+7	7	Ug-ga
 7	8	Kiết Sử
 7	9	Đoạn Trừ
 7	10	Xan Tham
@@ -837,8 +837,8 @@
 7	18	Quán Vô Ngã
 7	19	Niết-bàn
 7	20	Chỗ Dựa Không Tỳ Vết
-7	21	Sārandada
-7	22	Vassakāra
+7	21	Sa-lan-đa-đa
+7	22	Vũ-xá
 7	23	Bảy Pháp (1)
 7	24	Bảy Pháp (2)
 7	25	Bảy Pháp (3)
@@ -869,13 +869,13 @@
 7	50	Dâm Dục
 7	51	Hệ Lụy
 7	52	Bố Thí Đại Quả
-7	53	Nandamātā
+7	53	Nan-đa-mẫu
 7	54	Không Ký Thuyết
 7	55	Thú Hướng Của Người
-7	56	Phạm Thiên Tissa
-7	57	Tướng Quân Sīha
+7	56	Phạm Thiên Đề-xá
+7	57	Tướng Quân Sĩ-ha
 7	58	Không Cần Che Giấu
-7	59	Kimila
+7	59	Ci-mi-la
 7	60	Bảy Pháp
 7	61	Gật Gù
 7	62	Từ Tâm
@@ -885,12 +885,12 @@
 7	66	Bảy Mặt Trời
 7	67	Ví Dụ Thành Lũy
 7	68	Biết Pháp
-7	69	Cây Pāricchattaka
+7	69	Cây San Hô
 7	70	Tôn Trọng
 7	71	Tu Tập
 7	72	Ví Dụ Khối Lửa
-7	73	Sunetta
-7	74	Araka
+7	73	Su-nê-đa
+7	74	A-la-ca
 7	75	Trì Luật (1)
 7	76	Trì Luật (2)
 7	77	Trì Luật (3)
@@ -917,30 +917,30 @@
 8	4	Không Được Yêu Mến (2)
 8	5	Thế Pháp (1)
 8	6	Thế Pháp (2)
-8	7	Suy Đồi Của Devadatta
-8	8	Suy Đồi — Uttara
-8	9	Nanda
+8	7	Suy Đồi Của Đề-bà-đạt-đa
+8	8	Suy Đồi — Uất-đa-la
+8	9	Nan-đa
 8	10	Vỏ Trấu
-8	11	Verañja
-8	12	Sīha
+8	11	Bê-lanh-xa
+8	12	Sĩ-ha
 8	13	Ngựa Thuần Chủng
 8	14	Ngựa Bất Khả
 8	15	Cấu Uế
 8	16	Sứ Giả
 8	17	Trói Buộc (1)
 8	18	Trói Buộc (2)
-8	19	Pahārāda
+8	19	Ba-ha-la-đa
 8	20	Ngày Bố-tát
-8	21	Ugga (1)
-8	22	Ugga (2)
-8	23	Hatthaka (1)
-8	24	Hatthaka (2)
-8	25	Mahānāma
-8	26	Jīvaka
+8	21	Ug-ga (1)
+8	22	Ug-ga (2)
+8	23	Hat-ha-ca (1)
+8	24	Hat-ha-ca (2)
+8	25	Ma-ha-nam
+8	26	Kỳ-bà
 8	27	Sức Mạnh (1)
 8	28	Sức Mạnh (2)
 8	29	Thời Không Thích Hợp
-8	30	Đại Tầm Của Anuruddha
+8	30	Đại Tầm Của A-na-luật-đà
 8	31	Bố Thí (1)
 8	32	Bố Thí (2)
 8	33	Nhân Duyên Bố Thí
@@ -953,19 +953,19 @@
 8	40	Quả Báo Ác Hạnh
 8	41	Ngày Bố-Tát Tóm Tắt
 8	42	Ngày Bố-Tát Chi Tiết
-8	43	Visākhā
-8	44	Vāseṭṭha
-8	45	Bojjhā
-8	46	Anuruddha
-8	47	Visākhā (2)
-8	48	Nakulamātā
+8	43	Tỳ-xá-khư
+8	44	Bà-tất-sá
+8	45	Bôc-ha
+8	46	A-na-luật-đà
+8	47	Tỳ-xá-khư (2)
+8	48	Na-ku-la-mẫu
 8	49	Đời Này (1)
 8	50	Đời Này (2)
-8	51	Gotamī
+8	51	Cù-đàm-di
 8	52	Giáo Giới
 8	53	Tóm Tắt
-8	54	Dīghajāṇu
-8	55	Ujjaya
+8	54	Đi-gha-xa-nu
+8	55	U-xa-da
 8	56	Sợ Hãi
 8	57	Đáng Cúng Dường (1)
 8	58	Đáng Cúng Dường (2)
@@ -974,7 +974,7 @@
 8	61	Ước Muốn
 8	62	Đủ Tư Cách
 8	63	Tóm Tắt
-8	64	Gayāsīsa
+8	64	Tượng Đầu Sơn
 8	65	Thắng Xứ
 8	66	Giải Thoát
 8	67	Phi Thánh Ngôn
@@ -992,7 +992,7 @@
 8	79	Thối Đọa
 8	80	Duyên Lười Biếng Và Tinh Cần
 8	81	Niệm Tỉnh Giác
-8	82	Puṇṇiya
+8	82	Bu-ni-da
 8	83	Căn Bản
 8	84	Đại Đạo Tặc
 8	85	Sa-môn
@@ -1003,24 +1003,24 @@
 8	90	Chánh Hạnh
 9	1	Chánh Giác
 9	2	Chỗ Nương
-9	3	Meghiya
-9	4	Nandaka
+9	3	Mê-ghi-da
+9	4	Nan-đa-ca
 9	5	Sức Mạnh
 9	6	Thân Cận
-9	7	Sutavā
-9	8	Sajjha
+9	7	Su-đa-ba
+9	8	Sac-ha
 9	9	Hạng Người
 9	10	Đáng Cúng Dường
 9	11	Sư Tử Hống
 9	12	Còn Dư Y
-9	13	Koṭṭhika
-9	14	Samiddhi
+9	13	Câu-hi-la
+9	14	Sa-mi-đi
 9	15	Nhọt Độc
 9	16	Tưởng
 9	17	Gia Đình
 9	18	Bố-Tát Chín Chi
 9	19	Thiên Thần
-9	20	Velāma
+9	20	Bê-la-ma
 9	21	Ba Sự
 9	22	Ngựa Hạ Liệt
 9	23	Gốc Ái
@@ -1037,11 +1037,11 @@
 9	34	Lạc Niết-Bàn
 9	35	Ví Dụ Con Bò
 9	36	Thiền
-9	37	Ānanda
+9	37	A-nan
 9	38	Luận Thế Gian
 9	39	Chiến Trận Thiên A-Tu-La
 9	40	Voi
-9	41	Tapussa
+9	41	Ta-bu-sa
 9	42	Chật Hẹp
 9	43	Thân Chứng
 9	44	Tuệ Giải Thoát
@@ -1081,7 +1081,7 @@
 10	4	Cận Y (2)
 10	5	Cận Y (3)
 10	6	Định
-10	7	Sāriputta
+10	7	Xá-lợi-phất
 10	8	Thiền
 10	9	Giải Thoát Tịch Tịnh
 10	10	Minh
@@ -1098,14 +1098,14 @@
 10	21	Sư Tử Hống
 10	22	Câu Tuyên Bố
 10	23	Thân
-10	24	Mahācunda
+10	24	Đại-Thuần-đà
 10	25	Biến Xứ
-10	26	Kāḷī
+10	26	Ca-lê
 10	27	Đại Vấn (1)
 10	28	Đại Vấn (2)
-10	29	Kosala (1)
-10	30	Kosala (2)
-10	31	Upāli
+10	29	Kiều-tát-la (1)
+10	30	Kiều-tát-la (2)
+10	31	Ưu-ba-ly
 10	32	Đình Chỉ Ba-la-đề-mộc-xoa
 10	33	Ủy Ban
 10	34	Cụ Túc
@@ -1113,20 +1113,20 @@
 10	36	Sa-di
 10	37	Phá Tăng
 10	38	Hòa Hợp Tăng
-10	39	Ānanda (1)
-10	40	Ānanda (2)
+10	39	A-nan (1)
+10	40	A-nan (2)
 10	41	Tranh Chấp
 10	42	Gốc Tranh Chấp (1)
 10	43	Gốc Tranh Chấp (2)
-10	44	Kusinārā
+10	44	Câu-thi-na
 10	45	Vào Nội Cung
-10	46	Người Sakka
-10	47	Mahāli
+10	46	Người Đế Thích
+10	47	Ma-ha-li
 10	48	Người Xuất Gia Thường Quán
 10	49	Pháp Nương Thân
 10	50	Cãi Cọ
 10	51	Tự Tâm
-10	52	Sāriputta
+10	52	Xá-lợi-phất
 10	53	Đứng Yên
 10	54	Chỉ
 10	55	Thối Giảm
@@ -1134,46 +1134,46 @@
 10	57	Tưởng (2)
 10	58	Căn Bản
 10	59	Xuất Gia
-10	60	Girimānanda
+10	60	Kỳ-lợi-ma-nan
 10	61	Vô Minh
 10	62	Hữu Ái
 10	63	Đạt Đến Cứu Cánh
 10	64	Tịnh Tín Bất Động
 10	65	Lạc (1)
 10	66	Lạc (2)
-10	67	Naḷakapāna (1)
-10	68	Naḷakapāna (2)
+10	67	Na-la-ca-ba-na (1)
+10	68	Na-la-ca-ba-na (2)
 10	69	Đề Tài Đàm Luận (1)
 10	70	Đề Tài Đàm Luận (2)
 10	71	Ước Nguyện
 10	72	Gai
 10	73	Pháp Được Ước Muốn
 10	74	Tăng Trưởng
-10	75	Migasālā
+10	75	Mi-ga-sa-la
 10	76	Ba Pháp
 10	77	Con Quạ
-10	78	Nigaṇṭha
+10	78	Ni-kiền
 10	79	Căn Cứ Hiềm Hận
 10	80	Điều Phục Hiềm Hận
-10	81	Vāhana
-10	82	Ānanda
-10	83	Puṇṇiya
+10	81	Ba-ha-na
+10	82	A-nan
+10	83	Bu-ni-da
 10	84	Tuyên Bố
 10	85	Khoe Khoang
 10	86	Tăng Thượng Mạn
 10	87	Không Được Mến
 10	88	Kẻ Mắng Nhiếc
-10	89	Kokālika
+10	89	Ca-lê-ca
 10	90	Lực Của Bậc Lậu Tận
 10	91	Người Thọ Hưởng Dục
 10	92	Sợ Hãi
 10	93	Có Kiến Gì
-10	94	Vajjiyamāhita
-10	95	Uttiya
-10	96	Kokanuda
+10	94	Ba-xi-da Ma-hi-đa
+10	95	U-đi-da
+10	96	Cô-ca-nu-đa
 10	97	Đáng Cúng Dường
 10	98	Trưởng Lão
-10	99	Upāli
+10	99	Ưu-ba-ly
 10	100	Không Thể
 10	101	Tưởng Sa-môn
 10	102	Giác Chi
@@ -1190,8 +1190,8 @@
 10	113	Phi Pháp (1)
 10	114	Phi Pháp (2)
 10	115	Phi Pháp (3)
-10	116	Ajita
-10	117	Saṅgārava
+10	116	A-xi-đa
+10	117	Sang-ga-la-ba
 10	118	Bờ Bên Này
 10	119	Lễ Xuống (1)
 10	120	Lễ Xuống (2)
@@ -1232,15 +1232,15 @@
 10	155	Nên Thân Cận
 10	158	Lễ Xuống Của Bà-la-môn
 10	159	Lễ Xuống Bậc Thánh
-10	160	Saṅgārava
+10	160	Sang-ga-la-ba
 10	161	Bờ Bên Này
 10	162	Phi Pháp (1)
 10	163	Phi Pháp (2)
 10	164	Phi Pháp (3)
 10	165	Nhân Duyên Nghiệp
 10	166	Lối Tránh
-10	167	Cunda
-10	168	Jāṇussoṇi
+10	167	Thuần-đà
+10	168	Sanh Lậu
 10	169	Lành
 10	170	Thánh Pháp
 10	171	Thiện
@@ -1280,14 +1280,14 @@
 11	6	Tai Họa
 11	7	Tưởng
 11	8	Tác Ý
-11	9	Saddha
-11	10	Moranivāpa
-11	11	Mahānāma (1)
-11	12	Mahānāma (2)
-11	13	Nandiya
-11	14	Subhūti
+11	9	Tín
+11	10	Khổng Tước Lâm
+11	11	Ma-ha-nam (1)
+11	12	Ma-ha-nam (2)
+11	13	Nan-đi-da
+11	14	Tu-bồ-đề
 11	15	Từ
-11	16	Aṭṭhakanāgara
+11	16	Bát Thành
 11	17	Người Chăn Bò
 11	18	Định (1)
 11	19	Định (2)

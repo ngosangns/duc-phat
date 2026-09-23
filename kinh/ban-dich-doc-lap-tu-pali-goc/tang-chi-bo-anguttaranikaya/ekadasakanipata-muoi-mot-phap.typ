@@ -14,7 +14,7 @@ nén lại thành một dải số (vd. "96–622") được dịch gọn thành
 duy nhất, giữ đủ ý nghĩa, không tách lẻ ra hàng trăm bản dịch gần như giống
 hệt nhau. Văn phong hướng tới tiếng Việt tự nhiên, dễ đọc.
 
-_Trạng thái: đã dịch 35/35 kinh/nhóm; đã trọn tập; đã viết lại theo giọng nói._
+_Trạng thái: đã dịch 35/35 kinh/nhóm; đã trọn tập._
 
 #outline(title: [Mục lục])
 
@@ -22,105 +22,11 @@ _Trạng thái: đã dịch 35/35 kinh/nhóm; đã trọn tập; đã viết l�
 
 === AN 11.1. Có Mục Đích Gì (Kimatthiyasuttaṃ)
 
-#super[1] Tôi nghe như vầy. Một thời, Thế Tôn trú tại Xá-vệ (Sāvatthī), Kỳ-đà Lâm (Jetavana),
-vườn ông Cấp Cô Độc (Anāthapiṇḍika). Tôn giả A-nan (Ānanda) đến, đảnh lễ, ngồi sang một bên,
-rồi bạch:
-
-"Bạch Thế Tôn, giới thiện xảo để làm gì, lợi ích là gì?"
-
-"Này A-nan (Ānanda), để hết hối. Lợi ích cũng là hết hối."
-
-"Bạch Thế Tôn, hết hối để làm gì, lợi ích là gì?"
-
-"Để hân hoan. Lợi ích cũng là hân hoan."
-
-"Hân hoan để làm gì, lợi ích là gì?"
-
-"Để có hỷ. Lợi ích cũng là hỷ."
-
-"Hỷ để làm gì, lợi ích là gì?"
-
-"Để thân khinh an. Lợi ích cũng là khinh an."
-
-"Khinh an để làm gì, lợi ích là gì?"
-
-"Để có lạc. Lợi ích cũng là lạc."
-
-"Lạc để làm gì, lợi ích là gì?"
-
-"Để có định. Lợi ích cũng là định."
-
-"Định để làm gì, lợi ích là gì?"
-
-"Để thấy biết đúng như thật. Lợi ích cũng là thấy biết đúng như thật."
-
-"Thấy biết đúng như thật để làm gì, lợi ích là gì?"
-
-"Để nhàm chán. Lợi ích cũng là nhàm chán."
-
-"Nhàm chán để làm gì, lợi ích là gì?"
-
-"Để ly tham. Lợi ích cũng là ly tham."
-
-"Ly tham để làm gì, lợi ích là gì?"
-
-"Để có tri kiến giải thoát. Này Ānanda, giới thiện xảo đưa tới hết hối.
-Hết hối đưa tới hân hoan. Hân hoan đưa tới hỷ. Hỷ đưa tới khinh an.
-Khinh an đưa tới lạc. Lạc đưa tới định. Định đưa tới thấy biết đúng như
-thật. Thấy biết ấy đưa tới nhàm chán. Nhàm chán đưa tới ly tham. Ly tham
-đưa tới tri kiến giải thoát. Giới thiện xảo đi lần lượt tới chỗ cao nhất."
+#super[1] Tôi nghe như vầy: một thời Thế Tôn trú ở Sāvatthī, tại Jetavana, khu vườn ông Anāthapiṇḍika. Bấy giờ, Tôn giả Ānanda đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, các giới thiện xảo có mục đích gì, có lợi ích gì?" "Này Ānanda, các giới thiện xảo có mục đích là không hối hận, có lợi ích là không hối hận." "Bạch Thế Tôn, không hối hận có mục đích gì, có lợi ích gì?" "Này Ānanda, không hối hận có mục đích là hân hoan, có lợi ích là hân hoan." "Hân hoan có mục đích gì, có lợi ích gì?" "Hân hoan có mục đích là hỷ, có lợi ích là hỷ." "Hỷ có mục đích gì, có lợi ích gì?" "Hỷ có mục đích là khinh an, có lợi ích là khinh an." "Khinh an có mục đích gì, có lợi ích gì?" "Khinh an có mục đích là lạc, có lợi ích là lạc." "Lạc có mục đích gì, có lợi ích gì?" "Lạc có mục đích là định, có lợi ích là định." "Định có mục đích gì, có lợi ích gì?" "Định có mục đích là tri kiến như thật, có lợi ích là tri kiến như thật." "Tri kiến như thật có mục đích gì, có lợi ích gì?" "Tri kiến như thật có mục đích là nhàm chán, có lợi ích là nhàm chán." "Nhàm chán có mục đích gì, có lợi ích gì?" "Nhàm chán có mục đích là ly tham, có lợi ích là ly tham." "Ly tham có mục đích gì, có lợi ích gì?" "Ly tham có mục đích là tri kiến giải thoát, có lợi ích là tri kiến giải thoát. Như vậy, này Ānanda, các giới thiện xảo có mục đích là không hối hận, có lợi ích là không hối hận; không hối hận có mục đích là hân hoan, có lợi ích là hân hoan; hân hoan có mục đích là hỷ, có lợi ích là hỷ; hỷ có mục đích là khinh an, có lợi ích là khinh an; khinh an có mục đích là lạc, có lợi ích là lạc; lạc có mục đích là định, có lợi ích là định; định có mục đích là tri kiến như thật, có lợi ích là tri kiến như thật; tri kiến như thật có mục đích là nhàm chán, có lợi ích là nhàm chán; nhàm chán có mục đích là ly tham, có lợi ích là ly tham; ly tham có mục đích là tri kiến giải thoát, có lợi ích là tri kiến giải thoát. Như vậy, này Ānanda, các giới thiện xảo tuần tự dẫn đến chỗ tối thượng."
 
 === AN 11.2. Cần Có Tư (Cetanākaraṇīyasuttaṃ)
 
-#super[1] "Này các thầy, đối với người có giới, đầy đủ giới, không cần phải khởi
-tâm mong cầu: 'Mong sao sự không hối hận sinh khởi nơi ta.' Đó là lẽ tự nhiên,
-này các thầy: người có giới, đầy đủ giới, tất sẽ có sự không hối hận sinh
-khởi.
-
-Đối với người không hối hận, không cần phải khởi tâm mong cầu: 'Mong sao sự
-hân hoan sinh khởi nơi ta.' Đó là lẽ tự nhiên: người không hối hận, tất sẽ có
-sự hân hoan sinh khởi.
-
-Đối với người hân hoan, không cần phải khởi tâm mong cầu: 'Mong sao hỷ sinh
-khởi nơi ta.' Đó là lẽ tự nhiên: người hân hoan, tất sẽ có hỷ sinh khởi.
-
-Đối với người có hỷ, không cần phải khởi tâm mong cầu: 'Mong sao thân ta được
-khinh an.' Đó là lẽ tự nhiên: người có hỷ, tất thân sẽ được khinh an.
-
-Đối với người thân được khinh an, không cần phải khởi tâm mong cầu: 'Mong sao
-ta cảm nhận lạc thọ.' Đó là lẽ tự nhiên: người thân khinh an, tất sẽ cảm nhận
-lạc thọ.
-
-Đối với người có lạc, không cần phải khởi tâm mong cầu: 'Mong sao tâm ta được
-định.' Đó là lẽ tự nhiên: người có lạc, tất tâm sẽ được định.
-
-Đối với người có tâm định, không cần phải khởi tâm mong cầu: 'Mong sao ta biết
-và thấy đúng như thật.' Đó là lẽ tự nhiên: người có tâm định, tất sẽ biết và
-thấy đúng như thật.
-
-Đối với người biết và thấy đúng như thật, không cần phải khởi tâm mong cầu:
-'Mong sao ta nhàm chán.' Đó là lẽ tự nhiên: người biết và thấy đúng như thật,
-tất sẽ nhàm chán.
-
-Đối với người nhàm chán, không cần phải khởi tâm mong cầu: 'Mong sao ta ly
-tham.' Đó là lẽ tự nhiên: người nhàm chán, tất sẽ ly tham.
-
-Đối với người ly tham, không cần phải khởi tâm mong cầu: 'Mong sao ta chứng
-ngộ tri kiến giải thoát.' Đó là lẽ tự nhiên: người ly tham, tất sẽ chứng ngộ
-tri kiến giải thoát.
-
-Này các thầy, như vậy ly tham có mục đích là tri kiến giải thoát, có lợi ích
-là tri kiến giải thoát. Nhàm chán có mục đích là ly tham, có lợi ích là ly
-tham. Tri kiến như thật có mục đích là nhàm chán, có lợi ích là nhàm chán.
-Định có mục đích là tri kiến như thật, có lợi ích là tri kiến như thật. Lạc có
-mục đích là định, có lợi ích là định. Khinh an có mục đích là lạc, có lợi ích
-là lạc. Hỷ có mục đích là khinh an, có lợi ích là khinh an. Hân hoan có mục
-đích là hỷ, có lợi ích là hỷ. Không hối hận có mục đích là hân hoan, có lợi
-ích là hân hoan. Các giới thiện xảo có mục đích là không hối hận, có lợi ích
-là không hối hận.
-
-Này các thầy, như vậy các pháp lần lượt nương vào nhau, làm tròn đầy lẫn nhau,
-đưa từ bờ bên này sang bờ bên kia."
+#super[1] "Này các thầy, đối với người có giới, đầy đủ giới, không cần phải khởi tâm mong cầu: 'Mong sao sự không hối hận sinh khởi nơi ta.' Đó là lẽ tự nhiên, này các thầy: người có giới, đầy đủ giới, tất sẽ có sự không hối hận sinh khởi. Đối với người không hối hận, không cần phải khởi tâm mong cầu: 'Mong sao sự hân hoan sinh khởi nơi ta.' Đó là lẽ tự nhiên: người không hối hận, tất sẽ có sự hân hoan sinh khởi. Đối với người hân hoan, không cần phải khởi tâm mong cầu: 'Mong sao hỷ sinh khởi nơi ta.' Đó là lẽ tự nhiên: người hân hoan, tất sẽ có hỷ sinh khởi. Đối với người có hỷ, không cần phải khởi tâm mong cầu: 'Mong sao thân ta được khinh an.' Đó là lẽ tự nhiên: người có hỷ, tất thân sẽ được khinh an. Đối với người thân được khinh an, không cần phải khởi tâm mong cầu: 'Mong sao ta cảm nhận lạc thọ.' Đó là lẽ tự nhiên: người thân khinh an, tất sẽ cảm nhận lạc thọ. Đối với người có lạc, không cần phải khởi tâm mong cầu: 'Mong sao tâm ta được định.' Đó là lẽ tự nhiên: người có lạc, tất tâm sẽ được định. Đối với người có tâm định, không cần phải khởi tâm mong cầu: 'Mong sao ta biết và thấy đúng như thật.' Đó là lẽ tự nhiên: người có tâm định, tất sẽ biết và thấy đúng như thật. Đối với người biết và thấy đúng như thật, không cần phải khởi tâm mong cầu: 'Mong sao ta nhàm chán.' Đó là lẽ tự nhiên: người biết và thấy đúng như thật, tất sẽ nhàm chán. Đối với người nhàm chán, không cần phải khởi tâm mong cầu: 'Mong sao ta ly tham.' Đó là lẽ tự nhiên: người nhàm chán, tất sẽ ly tham. Đối với người ly tham, không cần phải khởi tâm mong cầu: 'Mong sao ta chứng ngộ tri kiến giải thoát.' Đó là lẽ tự nhiên: người ly tham, tất sẽ chứng ngộ tri kiến giải thoát. Như vậy, này các thầy, ly tham có mục đích là tri kiến giải thoát, có lợi ích là tri kiến giải thoát; nhàm chán có mục đích là ly tham, có lợi ích là ly tham; tri kiến như thật có mục đích là nhàm chán, có lợi ích là nhàm chán; định có mục đích là tri kiến như thật, có lợi ích là tri kiến như thật; lạc có mục đích là định, có lợi ích là định; khinh an có mục đích là lạc, có lợi ích là lạc; hỷ có mục đích là khinh an, có lợi ích là khinh an; hân hoan có mục đích là hỷ, có lợi ích là hỷ; không hối hận có mục đích là hân hoan, có lợi ích là hân hoan; các giới thiện xảo có mục đích là không hối hận, có lợi ích là không hối hận. Như vậy, này các thầy, các pháp lần lượt nương vào nhau, làm tròn đầy lẫn nhau, đưa từ bờ bên này sang bờ bên kia."
 
 === AN 11.3. Cận Y (1) (Paṭhamaupanisāsuttaṃ)
 
@@ -134,7 +40,7 @@ Này các thầy, ví như một cây có cành lá sum suê thì vỏ cây cũn
 
 === AN 11.4. Nền Tảng (2) (Dutiyaupanisāsuttaṃ)
 
-#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Xá-lợi-phất (Sāriputta): "Này hiền giả." Tôn giả Sāriputta nói: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
+#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta: "Này hiền giả." Tôn giả Sāriputta nói như vầy: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
 
 Này các hiền giả, ví như một cây có cành lá bị hư hại thì vỏ cây cũng không phát triển đầy đủ, vỏ trong, giác gỗ, lõi cây cũng đều không phát triển đầy đủ. Cũng vậy, này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy; không có không hối hận cho đến nền tảng cho tri kiến giải thoát cũng bị phá hủy như vậy.
 
@@ -144,7 +50,7 @@ Này các hiền giả, ví như một cây có cành lá sum suê thì vỏ câ
 
 === AN 11.5. Nền Tảng (3) (Tatiyaupanisāsuttaṃ)
 
-#super[1] Tại đó Tôn giả A-nan (Ānanda) gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả A-nan (Ānanda): "Này hiền giả." Tôn giả Ānanda nói: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
+#super[1] Tại đó Tôn giả Ānanda gọi các Tỷ-kheo: "Này các hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Ānanda: "Này hiền giả." Tôn giả Ānanda nói như vầy: "Này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy. Không có không hối hận, thì đối với người thiếu không hối hận, nền tảng cho hân hoan bị phá hủy. Không có hân hoan, thì nền tảng cho hỷ bị phá hủy. Không có hỷ, thì nền tảng cho khinh an bị phá hủy. Không có khinh an, thì nền tảng cho lạc bị phá hủy. Không có lạc, thì nền tảng cho chánh định bị phá hủy. Không có chánh định, thì nền tảng cho tri kiến như thật bị phá hủy. Không có tri kiến như thật, thì nền tảng cho nhàm chán bị phá hủy. Không có nhàm chán, thì nền tảng cho ly tham bị phá hủy. Không có ly tham, thì nền tảng cho tri kiến giải thoát bị phá hủy.
 
 Này các hiền giả, ví như một cây có cành lá bị hư hại thì vỏ cây cũng không phát triển đầy đủ, vỏ trong, giác gỗ, lõi cây cũng đều không phát triển đầy đủ. Cũng vậy, này các hiền giả, đối với người phá giới, giới bị hư hỏng, thì nền tảng cho sự không hối hận bị phá hủy; không có không hối hận cho đến nền tảng cho tri kiến giải thoát cũng bị phá hủy như vậy.
 
@@ -154,296 +60,56 @@ Này các hiền giả, ví như một cây có cành lá sum suê thì vỏ câ
 
 === AN 11.6. Tai Họa (Byasanasuttaṃ)
 
-#super[1] "Này các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh
-đối với các vị đồng Phạm hạnh, thì đây là chỗ, đây là cơ hội, vị ấy sẽ gặp
-phải một trong mười một tai họa. Mười một tai họa nào? Không chứng được điều
-chưa chứng. Thối thất điều đã chứng. Các Chánh pháp không trở nên trong sạch.
-Hoặc sinh tăng thượng mạn đối với các Chánh pháp. Hoặc sống Phạm hạnh không
-hoan hỷ. Hoặc phạm một tội uế nhiễm nào đó. Hoặc xả học pháp, hoàn tục. Hoặc
-mắc phải bệnh nặng. Hoặc điên loạn, tâm thần tán loạn. Chết trong mê muội.
-Sau khi thân hoại mạng chung, sinh vào đọa xứ, ác thú, đọa lạc, địa ngục. Này
-các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh đối với các vị
-đồng Phạm hạnh, thì đây là chỗ, đây là cơ hội, vị ấy sẽ gặp phải một trong
-mười một tai họa ấy.
+#super[1] "Này các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh đối với các vị đồng Phạm hạnh, thì đây là chỗ, đây là cơ hội, vị ấy sẽ gặp phải một trong mười một tai họa. Mười một tai họa nào? Không chứng được điều chưa chứng; thối thất điều đã chứng; các Chánh pháp không trở nên trong sạch; hoặc sinh tăng thượng mạn đối với các Chánh pháp; hoặc sống Phạm hạnh không hoan hỷ; hoặc phạm một tội uế nhiễm nào đó; hoặc xả học pháp, hoàn tục; hoặc mắc phải bệnh nặng; hoặc điên loạn, tâm thần tán loạn; chết trong mê muội; sau khi thân hoại mạng chung, sinh vào đọa xứ, ác thú, đọa lạc, địa ngục. Này các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh đối với các vị đồng Phạm hạnh, thì đây là chỗ, đây là cơ hội, vị ấy sẽ gặp phải một trong mười một tai họa ấy.
 
-Này các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh đối với
-các vị đồng Phạm hạnh, thì đây không phải chỗ, không phải cơ hội, vị ấy lại
-không gặp phải một trong mười một tai họa. Mười một tai họa nào? Không chứng
-được điều chưa chứng. Thối thất điều đã chứng. Các Chánh pháp không trở nên
-trong sạch. Hoặc sinh tăng thượng mạn đối với các Chánh pháp. Hoặc sống Phạm
-hạnh không hoan hỷ. Hoặc phạm một tội uế nhiễm nào đó. Hoặc xả học pháp, hoàn
-tục. Hoặc mắc phải bệnh nặng. Hoặc điên loạn, tâm thần tán loạn. Chết trong mê
-muội. Sau khi thân hoại mạng chung, sinh vào đọa xứ, ác thú, đọa lạc, địa
-ngục. Này các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh đối
-với các vị đồng Phạm hạnh, thì đây không phải chỗ, không phải cơ hội, vị ấy
-lại không gặp phải một trong mười một tai họa ấy."
+Này các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh đối với các vị đồng Phạm hạnh, thì đây không phải chỗ, không phải cơ hội, vị ấy lại không gặp phải một trong mười một tai họa. Mười một tai họa nào? Không chứng được điều chưa chứng; thối thất điều đã chứng; các Chánh pháp không trở nên trong sạch; hoặc sinh tăng thượng mạn đối với các Chánh pháp; hoặc sống Phạm hạnh không hoan hỷ; hoặc phạm một tội uế nhiễm nào đó; hoặc xả học pháp, hoàn tục; hoặc mắc phải bệnh nặng; hoặc điên loạn, tâm thần tán loạn; chết trong mê muội; sau khi thân hoại mạng chung, sinh vào đọa xứ, ác thú, đọa lạc, địa ngục. Này các thầy, Tỷ-kheo nào mắng nhiếc, nhiếc móc, phỉ báng bậc Thánh đối với các vị đồng Phạm hạnh, thì đây không phải chỗ, không phải cơ hội, vị ấy lại không gặp phải một trong mười một tai họa ấy."
 
 === AN 11.7. Tưởng (Saññāsuttaṃ)
 
-#super[1] Bấy giờ Tôn giả A-nan (Ānanda) đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế
-Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không có
-tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng
-về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về
-Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ
-đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ,
-không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng
-xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối
-với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết,
-được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng;
-nhưng vẫn có tưởng?"
+#super[1] Bấy giờ Tôn giả Ānanda đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng?" "Này Ānanda, có thể Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng." "Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?" "Này Ānanda, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham, diệt, Niết-bàn.' Này Ānanda, như vậy Tỷ-kheo có thể chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
 
-"Này A-nan (Ānanda), có thể Tỷ-kheo chứng được định như vầy: không có tưởng về đất
-đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối
-với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên
-xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức
-vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có
-tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không
-có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời
-sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt
-đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có
-tưởng."
-
-"Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?"
-
-"Này Ānanda, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi diệu,
-tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham,
-diệt, Niết-bàn.' Này Ānanda, như vậy Tỷ-kheo có thể chứng được định như vầy:
-không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không
-có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có
-tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô
-biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở
-hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi
-phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về
-đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm,
-được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không
-có tưởng; nhưng vẫn có tưởng."
-
-Rồi Tôn giả Ānanda hoan hỷ, tín thọ lời Thế Tôn dạy, từ chỗ ngồi đứng dậy,
-đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, rồi đi đến chỗ Tôn giả
-Xá-lợi-phất (Sāriputta); đến rồi, cùng Tôn giả Xá-lợi-phất (Sāriputta) hỏi thăm nhau. Sau khi nói những
-lời hỏi thăm thân hữu, Tôn giả Ānanda ngồi sang một bên, rồi nói với Tôn giả
-Sāriputta: "Này hiền giả Sāriputta, có thể chăng Tỷ-kheo chứng được định như
-vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước,
-không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không
-có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức
-vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô
-sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi
-phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về
-đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm,
-được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không
-có tưởng; nhưng vẫn có tưởng?"
-
-"Này hiền giả Ānanda, có thể Tỷ-kheo chứng được định như vậy."
-
-"Này hiền giả Sāriputta, như thế nào Tỷ-kheo có thể chứng được định như
-vậy?"
-
-"Này hiền giả Ānanda, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là
-vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly
-tham, diệt, Niết-bàn.' Này hiền giả Ānanda, như vậy Tỷ-kheo có thể chứng được
-định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối
-với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với
-gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có
-tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu
-xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với
-Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không
-có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được
-nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở
-đó cũng không có tưởng; nhưng vẫn có tưởng."
-
-"Kỳ diệu thay, này hiền giả! Hy hữu thay, này hiền giả! Thật vậy, nghĩa với
-nghĩa, văn với văn, lời của bậc Đạo Sư và lời của đệ tử ăn khớp, hòa hợp,
-không mâu thuẫn nhau, về pháp tối thượng! Nay tôi vừa đến Thế Tôn hỏi nghĩa
-ấy. Thế Tôn cũng dùng những chữ ấy, những lời ấy, những văn ấy mà giải thích
-nghĩa ấy cho tôi, đúng như Tôn giả Sāriputta. Kỳ diệu thay, này hiền giả! Hy
-hữu thay, này hiền giả! Thật vậy, nghĩa với nghĩa, văn với văn, lời của bậc
-Đạo Sư và lời của đệ tử ăn khớp, hòa hợp, không mâu thuẫn nhau, về pháp tối
-thượng!"
+Rồi Tôn giả Ānanda hoan hỷ, tín thọ lời Thế Tôn dạy, từ chỗ ngồi đứng dậy, đảnh lễ Thế Tôn, thân phía hữu hướng về Ngài, rồi đi đến chỗ Tôn giả Sāriputta; đến rồi, cùng Tôn giả Sāriputta hỏi thăm nhau. Sau khi nói những lời hỏi thăm thân hữu, Tôn giả Ānanda ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, có thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng?" "Này hiền giả Ānanda, có thể Tỷ-kheo chứng được định như vậy." "Này hiền giả Sāriputta, như thế nào Tỷ-kheo có thể chứng được định như vậy?" "Này hiền giả Ānanda, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham, diệt, Niết-bàn.' Này hiền giả Ānanda, như vậy Tỷ-kheo có thể chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng." "Kỳ diệu thay, này hiền giả! Hy hữu thay, này hiền giả! Thật vậy, nghĩa với nghĩa, văn với văn, lời của bậc Đạo Sư và lời của đệ tử ăn khớp, hòa hợp, không mâu thuẫn nhau, về pháp tối thượng! Nay tôi vừa đến Thế Tôn hỏi nghĩa ấy. Thế Tôn cũng dùng những chữ ấy, những lời ấy, những văn ấy mà giải thích nghĩa ấy cho tôi, đúng như Tôn giả Sāriputta. Kỳ diệu thay, này hiền giả! Hy hữu thay, này hiền giả! Thật vậy, nghĩa với nghĩa, văn với văn, lời của bậc Đạo Sư và lời của đệ tử ăn khớp, hòa hợp, không mâu thuẫn nhau, về pháp tối thượng!"
 
 === AN 11.8. Tác Ý (Manasikārasuttaṃ)
 
-#super[1] Bấy giờ Tôn giả A-nan (Ānanda) đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế
-Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không tác ý
-đến mắt, không tác ý đến sắc, không tác ý đến tai, không tác ý đến thanh,
-không tác ý đến mũi, không tác ý đến hương, không tác ý đến lưỡi, không tác ý
-đến vị, không tác ý đến thân, không tác ý đến xúc, không tác ý đến đất, không
-tác ý đến nước, không tác ý đến lửa, không tác ý đến gió, không tác ý đến
-Không vô biên xứ, không tác ý đến Thức vô biên xứ, không tác ý đến Vô sở hữu
-xứ, không tác ý đến Phi tưởng phi phi tưởng xứ, không tác ý đến đời này,
-không tác ý đến đời sau, và những gì được thấy, được nghe, được cảm, được
-biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, những cái ấy cũng
-không tác ý; nhưng vẫn có tác ý?"
+#super[1] Bấy giờ Tôn giả Ānanda đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Tôn giả Ānanda bạch Thế Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không tác ý đến mắt, không tác ý đến sắc, không tác ý đến tai, không tác ý đến thanh, không tác ý đến mũi, không tác ý đến hương, không tác ý đến lưỡi, không tác ý đến vị, không tác ý đến thân, không tác ý đến xúc, không tác ý đến đất, không tác ý đến nước, không tác ý đến lửa, không tác ý đến gió, không tác ý đến Không vô biên xứ, không tác ý đến Thức vô biên xứ, không tác ý đến Vô sở hữu xứ, không tác ý đến Phi tưởng phi phi tưởng xứ, không tác ý đến đời này, không tác ý đến đời sau, và những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, những cái ấy cũng không tác ý; nhưng vẫn có tác ý?" "Này Ānanda, có thể Tỷ-kheo chứng được định như vầy: không tác ý đến mắt, không tác ý đến sắc, không tác ý đến tai, không tác ý đến thanh, không tác ý đến mũi, không tác ý đến hương, không tác ý đến lưỡi, không tác ý đến vị, không tác ý đến thân, không tác ý đến xúc, không tác ý đến đất, không tác ý đến nước, không tác ý đến lửa, không tác ý đến gió, không tác ý đến Không vô biên xứ, không tác ý đến Thức vô biên xứ, không tác ý đến Vô sở hữu xứ, không tác ý đến Phi tưởng phi phi tưởng xứ, không tác ý đến đời này, không tác ý đến đời sau, và những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, những cái ấy cũng không tác ý; nhưng vẫn có tác ý." "Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?" "Này Ānanda, ở đây Tỷ-kheo tác ý như vầy: 'Đây là an tịnh, đây là vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham, diệt, Niết-bàn.' Này Ānanda, như vậy Tỷ-kheo có thể chứng được định như vầy: không tác ý đến mắt, không tác ý đến sắc, không tác ý đến tai, không tác ý đến thanh, không tác ý đến mũi, không tác ý đến hương, không tác ý đến lưỡi, không tác ý đến vị, không tác ý đến thân, không tác ý đến xúc, không tác ý đến đất, không tác ý đến nước, không tác ý đến lửa, không tác ý đến gió, không tác ý đến Không vô biên xứ, không tác ý đến Thức vô biên xứ, không tác ý đến Vô sở hữu xứ, không tác ý đến Phi tưởng phi phi tưởng xứ, không tác ý đến đời này, không tác ý đến đời sau, và những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, những cái ấy cũng không tác ý; nhưng vẫn có tác ý."
 
-"Này A-nan (Ānanda), có thể Tỷ-kheo chứng được định như vầy: không tác ý đến mắt,
-không tác ý đến sắc, không tác ý đến tai, không tác ý đến thanh, không tác ý
-đến mũi, không tác ý đến hương, không tác ý đến lưỡi, không tác ý đến vị,
-không tác ý đến thân, không tác ý đến xúc, không tác ý đến đất, không tác ý
-đến nước, không tác ý đến lửa, không tác ý đến gió, không tác ý đến Không vô
-biên xứ, không tác ý đến Thức vô biên xứ, không tác ý đến Vô sở hữu xứ, không
-tác ý đến Phi tưởng phi phi tưởng xứ, không tác ý đến đời này, không tác ý
-đến đời sau, và những gì được thấy, được nghe, được cảm, được biết, được đạt
-đến, được tìm cầu, được suy tầm bằng ý, những cái ấy cũng không tác ý; nhưng
-vẫn có tác ý."
+=== AN 11.9. Tín (Saddhasuttaṃ)
 
-"Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?"
+#super[1] Một thời Thế Tôn trú ở Nātika, tại ngôi nhà gạch. Bấy giờ Tôn giả Saddha đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Thế Tôn nói với Tôn giả Saddha: "Này Saddha, hãy thiền theo cách ngựa thuần chủng thiền, chớ thiền theo cách ngựa hạ liệt thiền. Thế nào là thiền theo cách ngựa hạ liệt? Này Saddha, ngựa hạ liệt bị buộc nơi máng cỏ, chỉ nghĩ 'cỏ, cỏ'. Vì sao? Vì ngựa hạ liệt bị buộc nơi máng cỏ không nghĩ: 'Hôm nay người điều ngựa sẽ bắt ta làm gì, ta phải đáp lại thế nào?' Nó bị buộc nơi máng cỏ, chỉ nghĩ 'cỏ, cỏ'. Cũng vậy, này Saddha, ở đây có kẻ hạ liệt đi đến rừng, đi đến gốc cây, đi đến nhà trống, sống với tâm bị dục tham chiếm đoạt, bị dục tham chi phối, không như thật biết sự xuất ly dục tham đã khởi. Vị ấy lấy dục tham làm nội tâm rồi thiền, trầm tư, suy tưởng, vọng tưởng. Sống với tâm bị sân chiếm đoạt, bị sân chi phối, không như thật biết sự xuất ly sân đã khởi. Vị ấy lấy sân làm nội tâm rồi thiền, trầm tư, suy tưởng, vọng tưởng. Sống với tâm bị hôn trầm thụy miên chiếm đoạt, bị hôn trầm thụy miên chi phối, không như thật biết sự xuất ly hôn trầm thụy miên đã khởi. Vị ấy lấy hôn trầm thụy miên làm nội tâm rồi thiền, trầm tư, suy tưởng, vọng tưởng. Sống với tâm bị trạo cử hối quá chiếm đoạt, bị trạo cử hối quá chi phối, không như thật biết sự xuất ly trạo cử hối quá đã khởi. Vị ấy lấy trạo cử hối quá làm nội tâm rồi thiền, trầm tư, suy tưởng, vọng tưởng. Sống với tâm bị nghi chiếm đoạt, bị nghi chi phối, không như thật biết sự xuất ly nghi đã khởi. Vị ấy lấy nghi làm nội tâm rồi thiền, trầm tư, suy tưởng, vọng tưởng. Vị ấy nương đất mà thiền, nương nước mà thiền, nương lửa mà thiền, nương gió mà thiền, nương Không vô biên xứ mà thiền, nương Thức vô biên xứ mà thiền, nương Vô sở hữu xứ mà thiền, nương Phi tưởng phi phi tưởng xứ mà thiền, nương đời này mà thiền, nương đời sau mà thiền, và những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, cũng nương những cái ấy mà thiền. Này Saddha, như vậy là thiền theo cách kẻ hạ liệt thiền.
 
-"Này Ānanda, ở đây Tỷ-kheo tác ý như vầy: 'Đây là an tịnh, đây là vi diệu,
-tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham,
-diệt, Niết-bàn.' Này Ānanda, như vậy Tỷ-kheo có thể chứng được định như vầy:
-không tác ý đến mắt, không tác ý đến sắc, không tác ý đến tai, không tác ý
-đến thanh, không tác ý đến mũi, không tác ý đến hương, không tác ý đến lưỡi,
-không tác ý đến vị, không tác ý đến thân, không tác ý đến xúc, không tác ý
-đến đất, không tác ý đến nước, không tác ý đến lửa, không tác ý đến gió,
-không tác ý đến Không vô biên xứ, không tác ý đến Thức vô biên xứ, không tác
-ý đến Vô sở hữu xứ, không tác ý đến Phi tưởng phi phi tưởng xứ, không tác ý
-đến đời này, không tác ý đến đời sau, và những gì được thấy, được nghe, được
-cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, những cái ấy
-cũng không tác ý; nhưng vẫn có tác ý."
-
-=== AN 11.9. Saddha (Saddhasuttaṃ)
-
-#super[1] Một thời Thế Tôn trú ở Nha-đi-ca (Nātika), tại ngôi nhà gạch. Bấy giờ Tôn giả
-Saddha đến, đảnh lễ, ngồi sang một bên. Thế Tôn nói với Tôn giả Saddha: "Này
-Saddha, hãy thiền theo cách ngựa thuần chủng thiền, chớ thiền theo cách ngựa
-hạ liệt thiền.
-
-Thế nào là thiền theo cách ngựa hạ liệt? Này Saddha, ngựa hạ liệt bị buộc nơi
-máng cỏ, chỉ nghĩ 'cỏ, cỏ'. Vì sao? Vì ngựa hạ liệt bị buộc nơi máng cỏ không
-nghĩ: 'Hôm nay người điều ngựa sẽ bắt ta làm gì, ta phải đáp lại thế nào?' Nó
-bị buộc nơi máng cỏ, chỉ nghĩ 'cỏ, cỏ'.
-
-Cũng vậy, này Saddha, ở đây có kẻ hạ liệt đi đến rừng, đi đến gốc cây, đi đến
-nhà trống, sống với tâm bị dục tham chiếm đoạt, bị dục tham chi phối, không
-như thật biết sự xuất ly dục tham đã khởi. Vị ấy lấy dục tham làm nội tâm rồi
-thiền, trầm tư, suy tưởng, vọng tưởng. Sống với tâm bị sân chiếm đoạt, bị sân
-chi phối, không như thật biết sự xuất ly sân đã khởi. Vị ấy lấy sân làm nội
-tâm rồi thiền, trầm tư, suy tưởng, vọng tưởng. Sống với tâm bị hôn trầm thụy
-miên chiếm đoạt, bị hôn trầm thụy miên chi phối, không như thật biết sự xuất
-ly hôn trầm thụy miên đã khởi. Vị ấy lấy hôn trầm thụy miên làm nội tâm rồi
-thiền, trầm tư, suy tưởng, vọng tưởng. Sống với tâm bị trạo cử hối quá chiếm
-đoạt, bị trạo cử hối quá chi phối, không như thật biết sự xuất ly trạo cử hối
-quá đã khởi. Vị ấy lấy trạo cử hối quá làm nội tâm rồi thiền, trầm tư, suy
-tưởng, vọng tưởng. Sống với tâm bị nghi chiếm đoạt, bị nghi chi phối, không
-như thật biết sự xuất ly nghi đã khởi. Vị ấy lấy nghi làm nội tâm rồi thiền,
-trầm tư, suy tưởng, vọng tưởng.
-
-Vị ấy nương đất mà thiền, nương nước mà thiền, nương lửa mà thiền, nương gió
-mà thiền, nương Không vô biên xứ mà thiền, nương Thức vô biên xứ mà thiền,
-nương Vô sở hữu xứ mà thiền, nương Phi tưởng phi phi tưởng xứ mà thiền, nương
-đời này mà thiền, nương đời sau mà thiền, và những gì được thấy, được nghe,
-được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, cũng
-nương những cái ấy mà thiền. Này Saddha, như vậy là thiền theo cách kẻ hạ
-liệt thiền.
-
-Này Saddha, thế nào là thiền theo cách ngựa thuần chủng thiền? Này Saddha,
-ngựa thuần chủng hiền thiện bị buộc nơi máng cỏ không nghĩ 'cỏ, cỏ'. Vì sao?
-Vì ngựa thuần chủng hiền thiện bị buộc nơi máng cỏ nghĩ: 'Hôm nay người điều
-ngựa sẽ bắt ta làm gì, ta phải đáp lại thế nào?' Nó bị buộc nơi máng cỏ không
-nghĩ 'cỏ, cỏ'. Này Saddha, ngựa thuần chủng hiền thiện thấy sự đâm của roi
-như món nợ, như sự trói buộc, như sự tổn thất, như điều bất hạnh.
-
-Cũng vậy, này Saddha, bậc thuần chủng hiền thiện đi đến rừng, đi đến gốc cây,
-đi đến nhà trống, không sống với tâm bị dục tham chiếm đoạt, không bị dục
-tham chi phối, như thật biết sự xuất ly dục tham đã khởi. Không sống với tâm
-bị sân chiếm đoạt, không bị sân chi phối, như thật biết sự xuất ly sân đã
-khởi. Không sống với tâm bị hôn trầm thụy miên chiếm đoạt, không bị hôn trầm
-thụy miên chi phối, như thật biết sự xuất ly hôn trầm thụy miên đã khởi.
-Không sống với tâm bị trạo cử hối quá chiếm đoạt, không bị trạo cử hối quá
-chi phối, như thật biết sự xuất ly trạo cử hối quá đã khởi. Không sống với
-tâm bị nghi chiếm đoạt, không bị nghi chi phối, như thật biết sự xuất ly nghi
-đã khởi.
-
-Vị ấy không nương đất mà thiền, không nương nước mà thiền, không nương lửa
-mà thiền, không nương gió mà thiền, không nương Không vô biên xứ mà thiền,
-không nương Thức vô biên xứ mà thiền, không nương Vô sở hữu xứ mà thiền,
-không nương Phi tưởng phi phi tưởng xứ mà thiền, không nương đời này mà
-thiền, không nương đời sau mà thiền, và những gì được thấy, được nghe, được
-cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, cũng không
-nương những cái ấy mà thiền; nhưng vẫn thiền. Này Saddha, đối với bậc thuần
-chủng hiền thiện thiền như vậy, chư thiên cùng với Nhân-đà-la (Indra), cùng với Phạm
-thiên, cùng với Ba-xà-ba-đề (Pajāpati), từ xa đảnh lễ:
+Này Saddha, thế nào là thiền theo cách ngựa thuần chủng thiền? Này Saddha, ngựa thuần chủng hiền thiện bị buộc nơi máng cỏ không nghĩ 'cỏ, cỏ'. Vì sao? Vì ngựa thuần chủng hiền thiện bị buộc nơi máng cỏ nghĩ: 'Hôm nay người điều ngựa sẽ bắt ta làm gì, ta phải đáp lại thế nào?' Nó bị buộc nơi máng cỏ không nghĩ 'cỏ, cỏ'. Này Saddha, ngựa thuần chủng hiền thiện thấy sự đâm của roi như món nợ, như sự trói buộc, như sự tổn thất, như điều bất hạnh. Cũng vậy, này Saddha, bậc thuần chủng hiền thiện đi đến rừng, đi đến gốc cây, đi đến nhà trống, không sống với tâm bị dục tham chiếm đoạt, không bị dục tham chi phối, như thật biết sự xuất ly dục tham đã khởi; không sống với tâm bị sân chiếm đoạt, không bị sân chi phối, như thật biết sự xuất ly sân đã khởi; không sống với tâm bị hôn trầm thụy miên chiếm đoạt, không bị hôn trầm thụy miên chi phối, như thật biết sự xuất ly hôn trầm thụy miên đã khởi; không sống với tâm bị trạo cử hối quá chiếm đoạt, không bị trạo cử hối quá chi phối, như thật biết sự xuất ly trạo cử hối quá đã khởi; không sống với tâm bị nghi chiếm đoạt, không bị nghi chi phối, như thật biết sự xuất ly nghi đã khởi. Vị ấy không nương đất mà thiền, không nương nước mà thiền, không nương lửa mà thiền, không nương gió mà thiền, không nương Không vô biên xứ mà thiền, không nương Thức vô biên xứ mà thiền, không nương Vô sở hữu xứ mà thiền, không nương Phi tưởng phi phi tưởng xứ mà thiền, không nương đời này mà thiền, không nương đời sau mà thiền, và những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, cũng không nương những cái ấy mà thiền; nhưng vẫn thiền. Này Saddha, đối với bậc thuần chủng hiền thiện thiền như vậy, chư thiên cùng với Indra, cùng với Phạm thiên, cùng với Pajāpati, từ xa đảnh lễ:
 
 'Đảnh lễ Ngài, bậc nhân kiệt, \
 đảnh lễ Ngài, bậc tối thượng nhân; \
 chúng con không biết Ngài nương gì \
 mà thiền định như vậy.'
 
-Khi được nói vậy, Tôn giả Saddha bạch Thế Tôn: "Bạch Thế Tôn, bậc thuần chủng
-hiền thiện thiền như thế nào mà không nương đất, không nương nước, không
-nương lửa, không nương gió, không nương Không vô biên xứ, không nương Thức
-vô biên xứ, không nương Vô sở hữu xứ, không nương Phi tưởng phi phi tưởng
-xứ, không nương đời này, không nương đời sau, và những gì được thấy, được
-nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý,
-cũng không nương những cái ấy mà thiền, nhưng vẫn thiền? Bạch Thế Tôn, đối
-với bậc thuần chủng hiền thiện thiền như vậy, chư thiên cùng với Nhân-đà-la (Indra), cùng
-với Phạm thiên, cùng với Ba-xà-ba-đề (Pajāpati), từ xa đảnh lễ như thế nào?"
-
-"Này Saddha, ở đây, đối với bậc thuần chủng hiền thiện, tưởng về đất đối với
-đất đã tiêu tán, tưởng về nước đối với nước đã tiêu tán, tưởng về lửa đối với
-lửa đã tiêu tán, tưởng về gió đối với gió đã tiêu tán, tưởng về Không vô biên
-xứ đối với Không vô biên xứ đã tiêu tán, tưởng về Thức vô biên xứ đối với
-Thức vô biên xứ đã tiêu tán, tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ đã
-tiêu tán, tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng
-xứ đã tiêu tán, tưởng về đời này đối với đời này đã tiêu tán, tưởng về đời
-sau đối với đời sau đã tiêu tán, và đối với những gì được thấy, được nghe,
-được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó
-tưởng cũng đã tiêu tán.
-
-Này Saddha, bậc thuần chủng hiền thiện thiền như vậy thì không nương đất mà
-thiền, không nương nước, lửa, gió, Không vô biên xứ, Thức vô biên xứ, Vô sở
-hữu xứ, Phi tưởng phi phi tưởng xứ, đời này, đời sau mà thiền, và những gì
-được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được
-suy tầm bằng ý, cũng không nương những cái ấy mà thiền; nhưng vẫn thiền. Này
-Saddha, đối với bậc thuần chủng hiền thiện thiền như vậy, chư thiên cùng với
-Indra, cùng với Phạm thiên, cùng với Pajāpati, từ xa đảnh lễ:
+Khi được nói vậy, Tôn giả Saddha bạch Thế Tôn: "Bạch Thế Tôn, bậc thuần chủng hiền thiện thiền như thế nào mà không nương đất, không nương nước, không nương lửa, không nương gió, không nương Không vô biên xứ, không nương Thức vô biên xứ, không nương Vô sở hữu xứ, không nương Phi tưởng phi phi tưởng xứ, không nương đời này, không nương đời sau, và những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, cũng không nương những cái ấy mà thiền, nhưng vẫn thiền? Bạch Thế Tôn, đối với bậc thuần chủng hiền thiện thiền như vậy, chư thiên cùng với Indra, cùng với Phạm thiên, cùng với Pajāpati, từ xa đảnh lễ như thế nào?" "Này Saddha, ở đây, đối với bậc thuần chủng hiền thiện, tưởng về đất đối với đất đã tiêu tán, tưởng về nước đối với nước đã tiêu tán, tưởng về lửa đối với lửa đã tiêu tán, tưởng về gió đối với gió đã tiêu tán, tưởng về Không vô biên xứ đối với Không vô biên xứ đã tiêu tán, tưởng về Thức vô biên xứ đối với Thức vô biên xứ đã tiêu tán, tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ đã tiêu tán, tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ đã tiêu tán, tưởng về đời này đối với đời này đã tiêu tán, tưởng về đời sau đối với đời sau đã tiêu tán, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó tưởng cũng đã tiêu tán. Này Saddha, bậc thuần chủng hiền thiện thiền như vậy thì không nương đất mà thiền, không nương nước, lửa, gió, Không vô biên xứ, Thức vô biên xứ, Vô sở hữu xứ, Phi tưởng phi phi tưởng xứ, đời này, đời sau mà thiền, và những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, cũng không nương những cái ấy mà thiền; nhưng vẫn thiền. Này Saddha, đối với bậc thuần chủng hiền thiện thiền như vậy, chư thiên cùng với Indra, cùng với Phạm thiên, cùng với Pajāpati, từ xa đảnh lễ:
 
 'Đảnh lễ Ngài, bậc nhân kiệt, \
 đảnh lễ Ngài, bậc tối thượng nhân; \
 chúng con không biết Ngài nương gì \
 mà thiền định như vậy.'"
 
-=== AN 11.10. Moranivāpa (Moranivāpasuttaṃ)
+=== AN 11.10. Khổng Tước Lâm (Moranivāpasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú ở Vương Xá (Rājagaha), tại Khổng Tước Lâm (Moranivāpa), khu vườn du sĩ. Tại
-đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn:
-"Bạch Thế Tôn." Thế Tôn nói: "Này các thầy, Tỷ-kheo thành tựu ba pháp thì đã
-hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt
-ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người. Ba pháp nào? Giới
-uẩn của bậc vô học, định uẩn của bậc vô học, tuệ uẩn của bậc vô học. Này các
-thầy, Tỷ-kheo thành tựu ba pháp ấy thì đã hoàn tất rốt ráo, đã an ổn khỏi các
-khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối
-thắng giữa trời người.
+#super[1] Một thời Thế Tôn trú ở Rājagaha, tại Moranivāpa, khu vườn du sĩ. Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, Tỷ-kheo thành tựu ba pháp thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người. Ba pháp nào? Giới uẩn của bậc vô học, định uẩn của bậc vô học, tuệ uẩn của bậc vô học. Này các thầy, Tỷ-kheo thành tựu ba pháp ấy thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người.
 
-Này các thầy, lại có ba pháp khác, Tỷ-kheo thành tựu thì đã hoàn tất rốt ráo,
-đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh
-rốt ráo, là tối thắng giữa trời người. Ba pháp nào? Thần thông biến hóa, thần
-thông ký tâm, thần thông giáo giới. Này các thầy, Tỷ-kheo thành tựu ba pháp
-ấy thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm
-hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người.
+Này các thầy, lại có ba pháp khác, Tỷ-kheo thành tựu thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người. Ba pháp nào? Thần thông biến hóa, thần thông ký tâm, thần thông giáo giới. Này các thầy, Tỷ-kheo thành tựu ba pháp ấy thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người.
 
-Này các thầy, lại có ba pháp khác, Tỷ-kheo thành tựu thì đã hoàn tất rốt ráo,
-đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh
-rốt ráo, là tối thắng giữa trời người. Ba pháp nào? Chánh kiến, chánh trí,
-chánh giải thoát. Này các thầy, Tỷ-kheo thành tựu ba pháp ấy thì đã hoàn tất
-rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến
-cứu cánh rốt ráo, là tối thắng giữa trời người.
+Này các thầy, lại có ba pháp khác, Tỷ-kheo thành tựu thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người. Ba pháp nào? Chánh kiến, chánh trí, chánh giải thoát. Này các thầy, Tỷ-kheo thành tựu ba pháp ấy thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người.
 
-Này các thầy, Tỷ-kheo thành tựu hai pháp thì đã hoàn tất rốt ráo, đã an ổn
-khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo,
-là tối thắng giữa trời người. Hai pháp nào? Minh và hạnh. Này các thầy,
-Tỷ-kheo thành tựu hai pháp ấy thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ
-ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng
-giữa trời người.
+Này các thầy, Tỷ-kheo thành tựu hai pháp thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người. Hai pháp nào? Minh và hạnh. Này các thầy, Tỷ-kheo thành tựu hai pháp ấy thì đã hoàn tất rốt ráo, đã an ổn khỏi các khổ ách rốt ráo, đã sống Phạm hạnh rốt ráo, đã đến cứu cánh rốt ráo, là tối thắng giữa trời người.
 
-Này các thầy, bài kệ này đã được Phạm thiên Thường Đồng Tử (Sanaṅkumāra) nói:
+Này các thầy, bài kệ này đã được Phạm thiên Sanaṅkumāra nói:
 
 'Sát-đế-lợi là tối thắng giữa loài người, \
 đối với những ai nương dòng họ; \
 người đầy đủ minh và hạnh, \
 mới là tối thắng giữa trời người.'
 
-Này các thầy, bài kệ ấy do Thường Đồng Tử (Sanaṅkumāra) nói là khéo nói, không vụng nói; có
-lợi ích, không phải không lợi ích; được Ta chấp nhận. Ta cũng nói như vậy:
+Này các thầy, bài kệ ấy do Sanaṅkumāra nói là khéo nói, không vụng nói; có lợi ích, không phải không lợi ích; được Ta chấp nhận. Ta cũng nói như vậy:
 
 'Sát-đế-lợi là tối thắng giữa loài người, \
 đối với những ai nương dòng họ; \
@@ -455,309 +121,81 @@ mới là tối thắng giữa trời người.'"
 #strong[Tổng thuyết kệ:]
 
 Có mục đích gì, tư, ba nền tảng, và tai họa; \
-hai: tưởng, tác ý, Saddha, Khổng Tước Lâm (Moranivāpa).
+hai: tưởng, tác ý, Saddha, Moranivāpa.
 
 == 2. Tùy Niệm (Anussativaggo)
 
-=== AN 11.11. Mahānāma (1) (Paṭhamamahānāmasuttaṃ)
+=== AN 11.11. Ma-ha-nam (1) (Paṭhamamahānāmasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú giữa những người Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong Ni-câu-luật viên (Nigrodhārāma).
+#super[1] Một thời Thế Tôn trú giữa những người Sakya, tại Kapilavatthu, trong Nigrodhārāma.
 
-Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành." Ma-ha-nam (Mahānāma) người Thích-ca (Sakya) nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'"
+Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành." Mahānāma người Sakya nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'"
 
-Rồi Ma-ha-nam (Mahānāma) người Sakya đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế Tôn:
-"Bạch Thế Tôn, con được nghe: 'Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn —
-khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.' Bạch Thế Tôn, chúng
-con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?"
+Rồi Mahānāma người Sakya đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Mahānāma người Sakya bạch Thế Tôn: "Bạch Thế Tôn, con được nghe: 'Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn — khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.' Bạch Thế Tôn, chúng con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?"
 
-"Lành thay, lành thay, này Mahānāma! Điều ấy thật thích hợp với các thiện nam
-tử như các ông: đến Như Lai mà hỏi: 'Bạch Thế Tôn, chúng con sống với nhiều
-trú xứ khác nhau, nên an trú bằng trú xứ nào?' Này Mahānāma, người có lòng
-tin là người thành tựu, không phải người không tin. Người tinh tấn là người
-thành tựu, không phải người biếng nhác. Người chánh niệm hiện tiền là người
-thành tựu, không phải người thất niệm. Người định tĩnh là người thành tựu,
-không phải người không định. Người có tuệ là người thành tựu, không phải
-người ác tuệ. Này Mahānāma, ông hãy an trú nơi năm pháp ấy rồi tu tập thêm
-sáu pháp.
+"Lành thay, lành thay, này Mahānāma! Điều ấy thật thích hợp với các thiện nam tử như các ông: đến Như Lai mà hỏi: 'Bạch Thế Tôn, chúng con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?' Này Mahānāma, người có lòng tin là người thành tựu, không phải người không tin; người tinh tấn là người thành tựu, không phải người biếng nhác; người chánh niệm hiện tiền là người thành tựu, không phải người thất niệm; người định tĩnh là người thành tựu, không phải người không định; người có tuệ là người thành tựu, không phải người ác tuệ. Này Mahānāma, ông hãy an trú nơi năm pháp ấy rồi tu tập thêm sáu pháp.
 
-Này Mahānāma, ở đây ông hãy tùy niệm Như Lai: 'Thế Tôn ấy là bậc A-la-hán,
-Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều
-Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Này Mahānāma, vào lúc Thánh đệ
-tử tùy niệm Như Lai, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân
-chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay
-thẳng, hướng về Như Lai. Này Mahānāma, Thánh đệ tử có tâm ngay thẳng đạt được
-niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến
-pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người
-thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma,
-vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình,
-sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm
-Phật.
+Này Mahānāma, ở đây ông hãy tùy niệm Như Lai: 'Thế Tôn ấy là bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm Như Lai, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về Như Lai. Này Mahānāma, Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm Phật.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm Pháp: 'Pháp được Thế Tôn khéo thuyết,
-thiết thực hiện tại, không bị thời gian chi phối, đến để mà thấy, hướng nội,
-được người trí tự mình chứng biết.' Này Mahānāma, vào lúc Thánh đệ tử tùy
-niệm Pháp, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt,
-không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng
-về Pháp. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được
-niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ
-sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận
-lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ
-tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa
-quần chúng sân hận, đã nhập dòng pháp, tu tập niệm Pháp.
+Lại nữa, này Mahānāma, ông hãy tùy niệm Pháp: 'Pháp được Thế Tôn khéo thuyết, thiết thực hiện tại, không bị thời gian chi phối, đến để mà thấy, hướng nội, được người trí tự mình chứng biết.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm Pháp, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về Pháp. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm Pháp.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm Tăng: 'Chúng đệ tử của Thế Tôn là
-những vị khéo thực hành, chúng đệ tử của Thế Tôn là những vị thực hành chánh
-trực, chúng đệ tử của Thế Tôn là những vị thực hành đúng lý, chúng đệ tử của
-Thế Tôn là những vị thực hành chân chánh — tức là bốn đôi, tám vị nhân. Chúng
-đệ tử của Thế Tôn ấy đáng được cúng dường, đáng được hiếu khách, đáng được bố
-thí, đáng được chấp tay chào, là ruộng phước vô thượng ở đời.' Này Mahānāma,
-vào lúc Thánh đệ tử tùy niệm Tăng, ngay lúc ấy tâm không bị tham chiếm đoạt,
-không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy
-trở nên ngay thẳng, hướng về Tăng. Thánh đệ tử có tâm ngay thẳng đạt được
-niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến
-pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người
-thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma,
-vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình,
-sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm
-Tăng.
+Lại nữa, này Mahānāma, ông hãy tùy niệm Tăng: 'Chúng đệ tử của Thế Tôn là những vị khéo thực hành, chúng đệ tử của Thế Tôn là những vị thực hành chánh trực, chúng đệ tử của Thế Tôn là những vị thực hành đúng lý, chúng đệ tử của Thế Tôn là những vị thực hành chân chánh — tức là bốn đôi, tám vị nhân. Chúng đệ tử của Thế Tôn ấy đáng được cúng dường, đáng được hiếu khách, đáng được bố thí, đáng được chấp tay chào, là ruộng phước vô thượng ở đời.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm Tăng, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về Tăng. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm Tăng.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm giới của mình: không bị bể vụn, không
-bị xuyên thủng, không bị tỳ vết, không bị uế tạp, đưa đến tự do, được người
-trí tán thán, không bị chấp thủ, dẫn đến định. Này Mahānāma, vào lúc Thánh đệ
-tử tùy niệm giới, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân
-chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay
-thẳng, hướng về giới. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về
-nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người
-hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an
-thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được
-gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình, sống
-không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm giới.
+Lại nữa, này Mahānāma, ông hãy tùy niệm giới của mình: không bị bể vụn, không bị xuyên thủng, không bị tỳ vết, không bị uế tạp, đưa đến tự do, được người trí tán thán, không bị chấp thủ, dẫn đến định. Này Mahānāma, vào lúc Thánh đệ tử tùy niệm giới, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về giới. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm giới.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm sự xả thí của mình: 'Thật lợi ích
-thay cho ta, thật khéo được thay cho ta: giữa quần chúng bị cấu uế xan tham
-chiếm đoạt, ta sống trong gia đình với tâm không còn cấu uế xan tham, rộng
-rãi, bàn tay rộng mở, ưa buông xả, đáp ứng người cầu xin, ưa phân chia bố
-thí.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm sự xả thí, ngay lúc ấy tâm
-không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt;
-tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về sự xả thí. Thánh đệ tử
-có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt
-được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ
-thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm
-được định. Này Mahānāma, vị ấy được gọi là Thánh đệ tử sống quân bình giữa
-quần chúng không quân bình, sống không sân hận giữa quần chúng sân hận, đã
-nhập dòng pháp, tu tập niệm thí.
+Lại nữa, này Mahānāma, ông hãy tùy niệm sự xả thí của mình: 'Thật lợi ích thay cho ta, thật khéo được thay cho ta: giữa quần chúng bị cấu uế xan tham chiếm đoạt, ta sống trong gia đình với tâm không còn cấu uế xan tham, rộng rãi, bàn tay rộng mở, ưa buông xả, đáp ứng người cầu xin, ưa phân chia bố thí.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm sự xả thí, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về sự xả thí. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm thí.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm chư thiên: 'Có chư thiên Tứ Đại Thiên
-Vương, có chư thiên Tam thập tam thiên (Tāvatiṃsa), có chư thiên Dạ-ma (Yāma), có chư thiên Đâu-suất (Tusita), có chư
-thiên Hóa lạc thiên (Nimmānarati), có chư thiên Paranimmitavasavatti, có chư thiên Phạm
-chúng, có chư thiên cao hơn nữa. Chư thiên ấy mệnh chung từ đây, sinh đến đó,
-vì thành tựu lòng tin như vậy; nơi ta cũng có lòng tin như vậy. Chư thiên ấy
-mệnh chung từ đây, sinh đến đó, vì thành tựu giới như vậy; nơi ta cũng có
-giới như vậy. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu nghe
-pháp như vậy; nơi ta cũng có nghe pháp như vậy. Chư thiên ấy mệnh chung từ
-đây, sinh đến đó, vì thành tựu sự xả thí như vậy; nơi ta cũng có sự xả thí
-như vậy. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu tuệ như
-vậy; nơi ta cũng có tuệ như vậy.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm
-lòng tin, giới, nghe pháp, sự xả thí và tuệ của mình và của chư thiên ấy,
-ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị
-si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về chư
-thiên. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được
-niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ
-sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận
-lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ
-tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa
-quần chúng sân hận, đã nhập dòng pháp, tu tập niệm thiên."
+Lại nữa, này Mahānāma, ông hãy tùy niệm chư thiên: 'Có chư thiên Tứ Đại Thiên Vương, có chư thiên Tāvatiṃsa, có chư thiên Yāma, có chư thiên Tusita, có chư thiên Nimmānarati, có chư thiên Paranimmitavasavatti, có chư thiên Phạm chúng, có chư thiên cao hơn nữa. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu lòng tin như vậy; nơi ta cũng có lòng tin như vậy. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu giới như vậy; nơi ta cũng có giới như vậy. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu nghe pháp như vậy; nơi ta cũng có nghe pháp như vậy. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu sự xả thí như vậy; nơi ta cũng có sự xả thí như vậy. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu tuệ như vậy; nơi ta cũng có tuệ như vậy.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm lòng tin, giới, nghe pháp, sự xả thí và tuệ của mình và của chư thiên ấy, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về chư thiên. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, vị ấy được gọi là Thánh đệ tử sống quân bình giữa quần chúng không quân bình, sống không sân hận giữa quần chúng sân hận, đã nhập dòng pháp, tu tập niệm thiên."
 
-=== AN 11.12. Mahānāma (2) (Dutiyamahānāmasuttaṃ)
+=== AN 11.12. Ma-ha-nam (2) (Dutiyamahānāmasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú giữa những người Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong Ni-câu-luật viên (Nigrodhārāma).
+#super[1] Một thời Thế Tôn trú giữa những người Sakya, tại Kapilavatthu, trong Nigrodhārāma.
 
-Lúc bấy giờ, Ma-ha-nam (Mahānāma) người Thích-ca (Sakya) vừa khỏi bệnh, khỏi bệnh chưa lâu. Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành."
+Lúc bấy giờ, Mahānāma người Sakya vừa khỏi bệnh, khỏi bệnh chưa lâu. Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành."
 
-Ma-ha-nam (Mahānāma) người Sakya nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn,
-nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'" Rồi Mahānāma
-người Sakya đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế Tôn: "Bạch Thế Tôn,
-con được nghe: 'Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn — khi y đã
-xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.' Bạch Thế Tôn, chúng con sống
-với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?"
+Mahānāma người Sakya nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'" Rồi Mahānāma người Sakya đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Mahānāma người Sakya bạch Thế Tôn: "Bạch Thế Tôn, con được nghe: 'Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn — khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.' Bạch Thế Tôn, chúng con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?"
 
-"Lành thay, lành thay, này Mahānāma! Điều ấy thật thích hợp với các thiện nam
-tử như các ông: đến Như Lai mà hỏi: 'Bạch Thế Tôn, chúng con sống với nhiều
-trú xứ khác nhau, nên an trú bằng trú xứ nào?' Này Mahānāma, người có lòng
-tin là người thành tựu, không phải người không tin. Người tinh tấn là người
-thành tựu, không phải người biếng nhác. Người chánh niệm hiện tiền là người
-thành tựu, không phải người thất niệm. Người định tĩnh là người thành tựu,
-không phải người không định. Người có tuệ là người thành tựu, không phải
-người ác tuệ. Này Mahānāma, ông hãy an trú nơi năm pháp ấy rồi tu tập thêm
-sáu pháp.
+"Lành thay, lành thay, này Mahānāma! Điều ấy thật thích hợp với các thiện nam tử như các ông: đến Như Lai mà hỏi: 'Bạch Thế Tôn, chúng con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?' Này Mahānāma, người có lòng tin là người thành tựu, không phải người không tin; người tinh tấn là người thành tựu, không phải người biếng nhác; người chánh niệm hiện tiền là người thành tựu, không phải người thất niệm; người định tĩnh là người thành tựu, không phải người không định; người có tuệ là người thành tựu, không phải người ác tuệ. Này Mahānāma, ông hãy an trú nơi năm pháp ấy rồi tu tập thêm sáu pháp.
 
-Này Mahānāma, ở đây ông hãy tùy niệm Như Lai: 'Thế Tôn ấy là bậc A-la-hán,
-Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều
-Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Này Mahānāma, vào lúc Thánh đệ
-tử tùy niệm Như Lai, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân
-chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay
-thẳng, hướng về Như Lai. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về
-nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người
-hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an
-thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, niệm Phật ấy,
-ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang công việc,
-khi sống trong nhà đông con cái.
+Này Mahānāma, ở đây ông hãy tùy niệm Như Lai: 'Thế Tôn ấy là bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm Như Lai, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về Như Lai. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, niệm Phật ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm Pháp: 'Pháp được Thế Tôn khéo thuyết,
-thiết thực hiện tại, không bị thời gian chi phối, đến để mà thấy, hướng nội,
-được người trí tự mình chứng biết.' Vào lúc Thánh đệ tử tùy niệm Pháp, tâm
-không bị tham, sân, si chiếm đoạt, trở nên ngay thẳng, hướng về Pháp, đạt
-được niềm vui về nghĩa, niềm vui về pháp, hân hoan liên hệ đến pháp, cho đến
-tâm được định. Niệm Pháp ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi
-nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
+Lại nữa, này Mahānāma, ông hãy tùy niệm Pháp: 'Pháp được Thế Tôn khéo thuyết, thiết thực hiện tại, không bị thời gian chi phối, đến để mà thấy, hướng nội, được người trí tự mình chứng biết.' Vào lúc Thánh đệ tử tùy niệm Pháp, tâm không bị tham, sân, si chiếm đoạt, trở nên ngay thẳng, hướng về Pháp, đạt được niềm vui về nghĩa, niềm vui về pháp, hân hoan liên hệ đến pháp, cho đến tâm được định. Niệm Pháp ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm Tăng: 'Chúng đệ tử của Thế Tôn là
-những vị khéo thực hành, thực hành chánh trực, thực hành đúng lý, thực hành
-chân chánh — tức là bốn đôi, tám vị nhân. Chúng đệ tử của Thế Tôn ấy đáng
-được cúng dường, đáng được hiếu khách, đáng được bố thí, đáng được chấp tay
-chào, là ruộng phước vô thượng ở đời.' Vào lúc Thánh đệ tử tùy niệm Tăng, tâm
-không bị tham, sân, si chiếm đoạt, trở nên ngay thẳng, hướng về Tăng, đạt
-được niềm vui về nghĩa, niềm vui về pháp, hân hoan liên hệ đến pháp, cho đến
-tâm được định. Niệm Tăng ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi
-nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
+Lại nữa, này Mahānāma, ông hãy tùy niệm Tăng: 'Chúng đệ tử của Thế Tôn là những vị khéo thực hành, thực hành chánh trực, thực hành đúng lý, thực hành chân chánh — tức là bốn đôi, tám vị nhân. Chúng đệ tử của Thế Tôn ấy đáng được cúng dường, đáng được hiếu khách, đáng được bố thí, đáng được chấp tay chào, là ruộng phước vô thượng ở đời.' Vào lúc Thánh đệ tử tùy niệm Tăng, tâm không bị tham, sân, si chiếm đoạt, trở nên ngay thẳng, hướng về Tăng, đạt được niềm vui về nghĩa, niềm vui về pháp, hân hoan liên hệ đến pháp, cho đến tâm được định. Niệm Tăng ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm giới của mình: không bị bể vụn, không
-bị xuyên thủng, không bị tỳ vết, không bị uế tạp, đưa đến tự do, được người
-trí tán thán, không bị chấp thủ, dẫn đến định. Vào lúc Thánh đệ tử tùy niệm
-giới, tâm không bị tham, sân, si chiếm đoạt, trở nên ngay thẳng, hướng về
-giới, đạt được niềm vui về nghĩa, niềm vui về pháp, hân hoan liên hệ đến
-pháp, cho đến tâm được định. Niệm giới ấy, ông hãy tu tập khi đi, khi đứng,
-khi ngồi, khi nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
+Lại nữa, này Mahānāma, ông hãy tùy niệm giới của mình: không bị bể vụn, không bị xuyên thủng, không bị tỳ vết, không bị uế tạp, đưa đến tự do, được người trí tán thán, không bị chấp thủ, dẫn đến định. Vào lúc Thánh đệ tử tùy niệm giới, tâm không bị tham, sân, si chiếm đoạt, trở nên ngay thẳng, hướng về giới, đạt được niềm vui về nghĩa, niềm vui về pháp, hân hoan liên hệ đến pháp, cho đến tâm được định. Niệm giới ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm sự xả thí của mình: 'Thật lợi ích
-thay cho ta, thật khéo được thay cho ta: giữa quần chúng bị cấu uế xan tham
-chiếm đoạt, ta sống trong gia đình với tâm không còn cấu uế xan tham, rộng
-rãi, bàn tay rộng mở, ưa buông xả, đáp ứng người cầu xin, ưa phân chia bố
-thí.' Vào lúc Thánh đệ tử tùy niệm sự xả thí, tâm không bị tham, sân, si
-chiếm đoạt, trở nên ngay thẳng, hướng về sự xả thí, đạt được niềm vui về
-nghĩa, niềm vui về pháp, hân hoan liên hệ đến pháp, cho đến tâm được định.
-Niệm thí ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang
-công việc, khi sống trong nhà đông con cái.
+Lại nữa, này Mahānāma, ông hãy tùy niệm sự xả thí của mình: 'Thật lợi ích thay cho ta, thật khéo được thay cho ta: giữa quần chúng bị cấu uế xan tham chiếm đoạt, ta sống trong gia đình với tâm không còn cấu uế xan tham, rộng rãi, bàn tay rộng mở, ưa buông xả, đáp ứng người cầu xin, ưa phân chia bố thí.' Vào lúc Thánh đệ tử tùy niệm sự xả thí, tâm không bị tham, sân, si chiếm đoạt, trở nên ngay thẳng, hướng về sự xả thí, đạt được niềm vui về nghĩa, niềm vui về pháp, hân hoan liên hệ đến pháp, cho đến tâm được định. Niệm thí ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang công việc, khi sống trong nhà đông con cái.
 
-Lại nữa, này Mahānāma, ông hãy tùy niệm chư thiên: 'Có chư thiên Tứ Đại Thiên
-Vương, có chư thiên Tam thập tam thiên (Tāvatiṃsa), có chư thiên Dạ-ma (Yāma), có chư thiên Đâu-suất (Tusita), có chư
-thiên Hóa lạc thiên (Nimmānarati), có chư thiên Paranimmitavasavatti, có chư thiên Phạm
-chúng, có chư thiên cao hơn nữa. Chư thiên ấy mệnh chung từ đây, sinh đến đó,
-vì thành tựu lòng tin như vậy; nơi ta cũng có lòng tin như vậy. Chư thiên ấy
-mệnh chung từ đây, sinh đến đó, vì thành tựu giới, nghe pháp, sự xả thí, tuệ
-như vậy; nơi ta cũng có giới, nghe pháp, sự xả thí, tuệ như vậy.' Này
-Mahānāma, vào lúc Thánh đệ tử tùy niệm lòng tin, giới, nghe pháp, sự xả thí
-và tuệ của mình và của chư thiên ấy, ngay lúc ấy tâm không bị tham chiếm
-đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc
-ấy trở nên ngay thẳng, hướng về chư thiên. Thánh đệ tử có tâm ngay thẳng đạt
-được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ
-đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an;
-người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này
-Mahānāma, niệm thiên ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm,
-khi đảm đang công việc, khi sống trong nhà đông con cái."
+Lại nữa, này Mahānāma, ông hãy tùy niệm chư thiên: 'Có chư thiên Tứ Đại Thiên Vương, có chư thiên Tāvatiṃsa, có chư thiên Yāma, có chư thiên Tusita, có chư thiên Nimmānarati, có chư thiên Paranimmitavasavatti, có chư thiên Phạm chúng, có chư thiên cao hơn nữa. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu lòng tin như vậy; nơi ta cũng có lòng tin như vậy. Chư thiên ấy mệnh chung từ đây, sinh đến đó, vì thành tựu giới, nghe pháp, sự xả thí, tuệ như vậy; nơi ta cũng có giới, nghe pháp, sự xả thí, tuệ như vậy.' Này Mahānāma, vào lúc Thánh đệ tử tùy niệm lòng tin, giới, nghe pháp, sự xả thí và tuệ của mình và của chư thiên ấy, ngay lúc ấy tâm không bị tham chiếm đoạt, không bị sân chiếm đoạt, không bị si chiếm đoạt; tâm của vị ấy ngay lúc ấy trở nên ngay thẳng, hướng về chư thiên. Thánh đệ tử có tâm ngay thẳng đạt được niềm vui về nghĩa, đạt được niềm vui về pháp, đạt được hân hoan liên hệ đến pháp. Người hân hoan thì hỷ sinh; người có tâm hỷ thì thân khinh an; người thân khinh an thì cảm nhận lạc; người có lạc thì tâm được định. Này Mahānāma, niệm thiên ấy, ông hãy tu tập khi đi, khi đứng, khi ngồi, khi nằm, khi đảm đang công việc, khi sống trong nhà đông con cái."
 
-=== AN 11.13. Nandiya (Nandiyasuttaṃ)
+=== AN 11.13. Nan-đi-da (Nandiyasuttaṃ)
 
-#super[1] Một thời Thế Tôn trú giữa những người Thích-ca (Sakya), tại Ca-tỳ-la-vệ (Kapilavatthu), trong
-Ni-câu-luật viên (Nigrodhārāma). Lúc bấy giờ Thế Tôn muốn đến Xá-vệ (Sāvatthī) để nhập hạ. Nan-đề (Nandiya) người
-Thích-ca (Sakya) nghe: "Nghe nói Thế Tôn muốn đến Xá-vệ (Sāvatthī) để nhập hạ." Rồi Nan-đề (Nandiya)
-người Sakya nghĩ: "Hay là ta cũng đến Sāvatthī để nhập hạ. Ở đó ta sẽ đảm
-đang công việc, và sẽ được yết kiến Thế Tôn theo thời." Rồi Thế Tôn đến
-Sāvatthī nhập hạ. Nandiya người Sakya cũng đến Sāvatthī nhập hạ. Ở đó ông đảm
-đang công việc, và được yết kiến Thế Tôn theo thời.
+#super[1] Một thời Thế Tôn trú giữa những người Sakya, tại Kapilavatthu, trong Nigrodhārāma. Lúc bấy giờ Thế Tôn muốn đến Sāvatthī để nhập hạ. Nandiya người Sakya nghe: "Nghe nói Thế Tôn muốn đến Sāvatthī để nhập hạ." Rồi Nandiya người Sakya nghĩ: "Hay là ta cũng đến Sāvatthī để nhập hạ. Ở đó ta sẽ đảm đang công việc, và sẽ được yết kiến Thế Tôn theo thời." Rồi Thế Tôn đến Sāvatthī nhập hạ. Nandiya người Sakya cũng đến Sāvatthī nhập hạ. Ở đó ông đảm đang công việc, và được yết kiến Thế Tôn theo thời.
 
-Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau
-ba tháng, Thế Tôn sẽ ra đi du hành." Nandiya người Sakya nghe: "Nghe nói
-nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: 'Khi y đã xong, sau ba tháng, Thế
-Tôn sẽ ra đi du hành.'" Rồi Nandiya người Sakya đến, đảnh lễ, ngồi sang một
-bên, rồi bạch Thế Tôn: "Bạch Thế Tôn, con được nghe: 'Nghe nói nhiều Tỷ-kheo
-đang may y cho Thế Tôn — khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du
-hành.' Bạch Thế Tôn, chúng con sống với nhiều trú xứ khác nhau, nên an trú
-bằng trú xứ nào?"
+Lúc bấy giờ, nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: "Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành." Nandiya người Sakya nghe: "Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn, nghĩ: 'Khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.'" Rồi Nandiya người Sakya đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Nandiya người Sakya bạch Thế Tôn: "Bạch Thế Tôn, con được nghe: 'Nghe nói nhiều Tỷ-kheo đang may y cho Thế Tôn — khi y đã xong, sau ba tháng, Thế Tôn sẽ ra đi du hành.' Bạch Thế Tôn, chúng con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?"
 
-"Lành thay, lành thay, này Nandiya! Điều ấy thật thích hợp với các thiện nam
-tử như các ông: đến Như Lai mà hỏi: 'Bạch Thế Tôn, chúng con sống với nhiều
-trú xứ khác nhau, nên an trú bằng trú xứ nào?' Này Nandiya, người có lòng tin
-là người thành tựu, không phải người không tin. Người có giới là người thành
-tựu, không phải người phá giới. Người tinh tấn là người thành tựu, không
-phải người biếng nhác. Người chánh niệm hiện tiền là người thành tựu, không
-phải người thất niệm. Người định tĩnh là người thành tựu, không phải người
-không định. Người có tuệ là người thành tựu, không phải người ác tuệ. Này
-Nandiya, an trú nơi sáu pháp ấy, ông hãy an trú niệm nội tâm trên năm pháp.
+"Lành thay, lành thay, này Nandiya! Điều ấy thật thích hợp với các thiện nam tử như các ông: đến Như Lai mà hỏi: 'Bạch Thế Tôn, chúng con sống với nhiều trú xứ khác nhau, nên an trú bằng trú xứ nào?' Này Nandiya, người có lòng tin là người thành tựu, không phải người không tin; người có giới là người thành tựu, không phải người phá giới; người tinh tấn là người thành tựu, không phải người biếng nhác; người chánh niệm hiện tiền là người thành tựu, không phải người thất niệm; người định tĩnh là người thành tựu, không phải người không định; người có tuệ là người thành tựu, không phải người ác tuệ. Này Nandiya, an trú nơi sáu pháp ấy, ông hãy an trú niệm nội tâm trên năm pháp.
 
-Này Nandiya, ở đây ông hãy tùy niệm Như Lai: 'Thế Tôn ấy là bậc A-la-hán,
-Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều
-Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Như vậy, này Nandiya, hãy an
-trú niệm nội tâm, hướng về Như Lai.
+Này Nandiya, ở đây ông hãy tùy niệm Như Lai: 'Thế Tôn ấy là bậc A-la-hán, Chánh Đẳng Giác, Minh Hạnh Túc, Thiện Thệ, Thế Gian Giải, Vô Thượng Sĩ, Điều Ngự Trượng Phu, Thiên Nhân Sư, Phật, Thế Tôn.' Như vậy, này Nandiya, hãy an trú niệm nội tâm, hướng về Như Lai.
 
-Lại nữa, này Nandiya, ông hãy tùy niệm Pháp: 'Pháp được Thế Tôn khéo thuyết,
-thiết thực hiện tại, không bị thời gian chi phối, đến để mà thấy, hướng nội,
-được người trí tự mình chứng biết.' Như vậy, này Nandiya, hãy an trú niệm nội
-tâm, hướng về Pháp.
+Lại nữa, này Nandiya, ông hãy tùy niệm Pháp: 'Pháp được Thế Tôn khéo thuyết, thiết thực hiện tại, không bị thời gian chi phối, đến để mà thấy, hướng nội, được người trí tự mình chứng biết.' Như vậy, này Nandiya, hãy an trú niệm nội tâm, hướng về Pháp.
 
-Lại nữa, này Nandiya, ông hãy tùy niệm thiện hữu: 'Thật lợi ích thay cho ta,
-thật khéo được thay cho ta, vì ta có những thiện hữu từ mẫn, muốn lợi ích,
-khuyên bảo, dạy dỗ.' Như vậy, này Nandiya, hãy an trú niệm nội tâm, hướng về
-thiện hữu.
+Lại nữa, này Nandiya, ông hãy tùy niệm thiện hữu: 'Thật lợi ích thay cho ta, thật khéo được thay cho ta, vì ta có những thiện hữu từ mẫn, muốn lợi ích, khuyên bảo, dạy dỗ.' Như vậy, này Nandiya, hãy an trú niệm nội tâm, hướng về thiện hữu.
 
-Lại nữa, này Nandiya, ông hãy tùy niệm sự xả thí của mình: 'Thật lợi ích thay
-cho ta, thật khéo được thay cho ta: giữa quần chúng bị cấu uế xan tham chiếm
-đoạt, ta sống trong gia đình với tâm không còn cấu uế xan tham, rộng rãi, bàn
-tay rộng mở, ưa buông xả, đáp ứng người cầu xin, ưa phân chia bố thí.' Như
-vậy, này Nandiya, hãy an trú niệm nội tâm, hướng về sự xả thí.
+Lại nữa, này Nandiya, ông hãy tùy niệm sự xả thí của mình: 'Thật lợi ích thay cho ta, thật khéo được thay cho ta: giữa quần chúng bị cấu uế xan tham chiếm đoạt, ta sống trong gia đình với tâm không còn cấu uế xan tham, rộng rãi, bàn tay rộng mở, ưa buông xả, đáp ứng người cầu xin, ưa phân chia bố thí.' Như vậy, này Nandiya, hãy an trú niệm nội tâm, hướng về sự xả thí.
 
-Lại nữa, này Nandiya, ông hãy tùy niệm chư thiên: 'Những vị thiên đã vượt
-khỏi sự cộng trú với chư thiên ăn đoàn thực, sinh vào một thân do ý tạo, các
-vị ấy không thấy còn việc gì phải làm cho mình, cũng không thấy còn phải
-tích tập thêm điều đã làm. Này Nandiya, ví như Tỷ-kheo được giải thoát không
-còn thời hạn, không thấy còn việc gì phải làm cho mình, cũng không thấy còn
-phải tích tập thêm điều đã làm; cũng vậy, này Nandiya, những vị thiên đã vượt
-khỏi sự cộng trú với chư thiên ăn đoàn thực, sinh vào một thân do ý tạo, các
-vị ấy không thấy còn việc gì phải làm cho mình, cũng không thấy còn phải
-tích tập thêm điều đã làm.' Như vậy, này Nandiya, hãy an trú niệm nội tâm,
-hướng về chư thiên.
+Lại nữa, này Nandiya, ông hãy tùy niệm chư thiên: 'Những vị thiên đã vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sinh vào một thân do ý tạo, các vị ấy không thấy còn việc gì phải làm cho mình, cũng không thấy còn phải tích tập thêm điều đã làm. Này Nandiya, ví như Tỷ-kheo được giải thoát không còn thời hạn, không thấy còn việc gì phải làm cho mình, cũng không thấy còn phải tích tập thêm điều đã làm; cũng vậy, này Nandiya, những vị thiên đã vượt khỏi sự cộng trú với chư thiên ăn đoàn thực, sinh vào một thân do ý tạo, các vị ấy không thấy còn việc gì phải làm cho mình, cũng không thấy còn phải tích tập thêm điều đã làm.' Như vậy, này Nandiya, hãy an trú niệm nội tâm, hướng về chư thiên.
 
-Này Nandiya, Thánh đệ tử thành tựu mười một pháp ấy thì chỉ đoạn trừ các pháp
-ác bất thiện, không nắm giữ. Này Nandiya, ví như một cái bình bị lật úp chỉ
-đổ nước ra, không hút lại nước đã đổ; ví như lửa được phóng vào rừng cỏ khô
-chỉ cháy tới, không quay lại chỗ chưa cháy. Cũng vậy, này Nandiya, Thánh đệ
-tử thành tựu mười một pháp ấy thì chỉ đoạn trừ các pháp ác bất thiện, không
-nắm giữ."
+Này Nandiya, Thánh đệ tử thành tựu mười một pháp ấy thì chỉ đoạn trừ các pháp ác bất thiện, không nắm giữ. Này Nandiya, ví như một cái bình bị lật úp chỉ đổ nước ra, không hút lại nước đã đổ; ví như lửa được phóng vào rừng cỏ khô chỉ cháy tới, không quay lại chỗ chưa cháy. Cũng vậy, này Nandiya, Thánh đệ tử thành tựu mười một pháp ấy thì chỉ đoạn trừ các pháp ác bất thiện, không nắm giữ."
 
-=== AN 11.14. Subhūti (Subhūtisuttaṃ)
+=== AN 11.14. Tu-bồ-đề (Subhūtisuttaṃ)
 
-#super[1] Bấy giờ Tôn giả Tu-bồ-đề (Subhūti) cùng Tỷ-kheo Saddha đến, đảnh lễ, ngồi sang
-một bên. Thế Tôn nói với Tôn giả Tu-bồ-đề (Subhūti): "Này Subhūti, Tỷ-kheo này tên gì?"
+#super[1] Bấy giờ Tôn giả Subhūti cùng Tỷ-kheo Saddha đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, Thế Tôn nói với Tôn giả Subhūti: "Này Subhūti, Tỷ-kheo này tên gì?" "Bạch Thế Tôn, Tỷ-kheo này tên Saddha, con trai cư sĩ Sudatta, vì lòng tin xuất gia, từ bỏ gia đình, sống không gia đình." "Này Subhūti, Tỷ-kheo Saddha, con trai cư sĩ Sudatta, vì lòng tin xuất gia, từ bỏ gia đình, sống không gia đình, có hiện rõ trong những dấu hiệu của người có tín không?" "Bạch Thế Tôn, đây là lúc; bạch Thiện Thệ, đây là lúc Thế Tôn nói những dấu hiệu của người có tín. Bây giờ con sẽ biết Tỷ-kheo này có hiện rõ trong những dấu hiệu của người có tín hay không." "Vậy này Subhūti, hãy nghe và khéo tác ý, Ta sẽ nói." "Thưa vâng, bạch Thế Tôn." Tôn giả Subhūti đáp lại Thế Tôn. Thế Tôn nói như vầy:
 
-"Bạch Thế Tôn, Tỷ-kheo này tên Saddha, con trai cư sĩ Tu-đạt-đa (Sudatta), vì lòng tin
-xuất gia, từ bỏ gia đình, sống không gia đình."
+"Này Subhūti, ở đây Tỷ-kheo có giới, sống hộ trì bằng sự hộ trì Ba-la-đề-mộc-xoa, đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới. Này Subhūti, Tỷ-kheo có giới, sống hộ trì bằng sự hộ trì Ba-la-đề-mộc-xoa, đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học giới — này Subhūti, đây cũng là một dấu hiệu của người có tín.
 
-"Này Subhūti, Tỷ-kheo Saddha, con trai cư sĩ Tu-đạt-đa (Sudatta), vì lòng tin xuất gia,
-từ bỏ gia đình, sống không gia đình, có hiện rõ trong những dấu hiệu của
-người có tín không?"
-
-"Bạch Thế Tôn, đây là lúc; bạch Thiện Thệ, đây là lúc Thế Tôn nói những dấu
-hiệu của người có tín. Bây giờ con sẽ biết Tỷ-kheo này có hiện rõ trong những
-dấu hiệu của người có tín hay không."
-
-"Vậy này Subhūti, hãy nghe và khéo tác ý, Ta sẽ nói." "Thưa vâng, bạch Thế
-Tôn." Tôn giả Subhūti đáp lại Thế Tôn. Thế Tôn nói:
-
-"Này Subhūti, ở đây Tỷ-kheo có giới, sống hộ trì bằng sự hộ trì
-Ba-la-đề-mộc-xoa, đầy đủ oai nghi chánh hạnh, thấy sợ hãi trong những lỗi
-nhỏ nhặt, thọ trì và học tập trong các học giới. Này Subhūti, Tỷ-kheo có
-giới, sống hộ trì bằng sự hộ trì Ba-la-đề-mộc-xoa, đầy đủ oai nghi chánh
-hạnh, thấy sợ hãi trong những lỗi nhỏ nhặt, thọ trì và học tập trong các học
-giới — này Subhūti, đây cũng là một dấu hiệu của người có tín.
-
-Lại nữa, này Subhūti, Tỷ-kheo nghe nhiều, ghi nhớ điều đã nghe, tích tập điều
-đã nghe. Những pháp nào sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn,
-tuyên thuyết Phạm hạnh hoàn toàn viên mãn, thanh tịnh — những pháp như vậy
-được vị ấy nghe nhiều, nắm giữ, quen thuộc nơi lời nói, quán sát bằng ý, khéo
-thể nhập bằng tri kiến. Này Subhūti, Tỷ-kheo nghe nhiều, ghi nhớ điều đã
-nghe, tích tập điều đã nghe, những pháp như vậy được vị ấy nghe nhiều, nắm
-giữ, quen thuộc nơi lời nói, quán sát bằng ý, khéo thể nhập bằng tri kiến —
-này Subhūti, đây cũng là một dấu hiệu của người có tín.
+Lại nữa, này Subhūti, Tỷ-kheo nghe nhiều, ghi nhớ điều đã nghe, tích tập điều đã nghe. Những pháp nào sơ thiện, trung thiện, hậu thiện, có nghĩa, có văn, tuyên thuyết Phạm hạnh hoàn toàn viên mãn, thanh tịnh — những pháp như vậy được vị ấy nghe nhiều, nắm giữ, quen thuộc nơi lời nói, quán sát bằng ý, khéo thể nhập bằng tri kiến. Này Subhūti, Tỷ-kheo nghe nhiều, ghi nhớ điều đã nghe, tích tập điều đã nghe, những pháp như vậy được vị ấy nghe nhiều, nắm giữ, quen thuộc nơi lời nói, quán sát bằng ý, khéo thể nhập bằng tri kiến — này Subhūti, đây cũng là một dấu hiệu của người có tín.
 
 Lại nữa, này Subhūti, Tỷ-kheo là thiện hữu, thiện bạn, thiện thân. Này Subhūti, Tỷ-kheo là thiện hữu, thiện bạn, thiện thân — đây cũng là một dấu hiệu của người có tín.
 
@@ -771,37 +209,11 @@ Lại nữa, này Subhūti, Tỷ-kheo sống tinh tấn, để đoạn trừ cá
 
 Lại nữa, này Subhūti, Tỷ-kheo tùy ý chứng đắc, không khó chứng, không khổ chứng bốn thiền thuộc tăng thượng tâm, hiện pháp lạc trú. Này Subhūti, Tỷ-kheo tùy ý chứng đắc, không khó chứng, không khổ chứng bốn thiền thuộc tăng thượng tâm, hiện pháp lạc trú — đây cũng là một dấu hiệu của người có tín.
 
-Lại nữa, này Subhūti, Tỷ-kheo nhớ lại nhiều đời sống quá khứ, như một đời,
-hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn
-mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều
-hoại kiếp, nhiều thành kiếp, nhiều hoại thành kiếp: 'Tại chỗ kia ta đã là
-người như vậy tên, như vậy họ, như vậy giai cấp, ăn uống như vậy, thọ khổ lạc
-như vậy, tuổi thọ như vậy. Từ chỗ ấy chết đi, ta sinh ra tại chỗ kia. Tại chỗ
-kia ta đã là người như vậy tên, như vậy họ, như vậy giai cấp, ăn uống như
-vậy, thọ khổ lạc như vậy, tuổi thọ như vậy. Từ chỗ ấy chết đi, ta sinh ra ở
-đây.' Như vậy vị ấy nhớ lại nhiều đời sống quá khứ cùng với các đặc tướng,
-các nét đại cương. Này Subhūti, Tỷ-kheo nhớ lại nhiều đời sống quá khứ như
-vậy — đây cũng là một dấu hiệu của người có tín.
+Lại nữa, này Subhūti, Tỷ-kheo nhớ lại nhiều đời sống quá khứ, như một đời, hai đời, ba đời, bốn đời, năm đời, mười đời, hai mươi đời, ba mươi đời, bốn mươi đời, năm mươi đời, một trăm đời, một ngàn đời, một trăm ngàn đời, nhiều hoại kiếp, nhiều thành kiếp, nhiều hoại thành kiếp: 'Tại chỗ kia ta đã là người như vậy tên, như vậy họ, như vậy giai cấp, ăn uống như vậy, thọ khổ lạc như vậy, tuổi thọ như vậy. Từ chỗ ấy chết đi, ta sinh ra tại chỗ kia. Tại chỗ kia ta đã là người như vậy tên, như vậy họ, như vậy giai cấp, ăn uống như vậy, thọ khổ lạc như vậy, tuổi thọ như vậy. Từ chỗ ấy chết đi, ta sinh ra ở đây.' Như vậy vị ấy nhớ lại nhiều đời sống quá khứ cùng với các đặc tướng, các nét đại cương. Này Subhūti, Tỷ-kheo nhớ lại nhiều đời sống quá khứ như vậy — đây cũng là một dấu hiệu của người có tín.
 
-Lại nữa, này Subhūti, Tỷ-kheo với thiên nhãn thanh tịnh, siêu nhân, thấy
-chúng sanh chết đi, sinh ra, hạ liệt, cao quý, đẹp, xấu, thiện thú, ác thú,
-tuệ tri chúng sanh đi theo nghiệp: 'Những chúng sanh này thành tựu thân ác
-hạnh, khẩu ác hạnh, ý ác hạnh, phỉ báng các bậc Thánh, theo tà kiến, thọ trì
-nghiệp tà kiến; khi thân hoại mạng chung họ sinh vào đọa xứ, ác thú, đọa lạc,
-địa ngục. Còn những chúng sanh này thành tựu thân thiện hạnh, khẩu thiện
-hạnh, ý thiện hạnh, không phỉ báng các bậc Thánh, theo chánh kiến, thọ trì
-nghiệp chánh kiến; khi thân hoại mạng chung họ sinh vào thiện thú, cõi trời.'
-Như vậy, với thiên nhãn thanh tịnh, siêu nhân, vị ấy thấy chúng sanh chết đi,
-sinh ra, hạ liệt, cao quý, đẹp, xấu, thiện thú, ác thú, tuệ tri chúng sanh đi
-theo nghiệp. Này Subhūti, Tỷ-kheo với thiên nhãn thanh tịnh, siêu nhân, tuệ
-tri chúng sanh đi theo nghiệp — đây cũng là một dấu hiệu của người có tín.
+Lại nữa, này Subhūti, Tỷ-kheo với thiên nhãn thanh tịnh, siêu nhân, thấy chúng sanh chết đi, sinh ra, hạ liệt, cao quý, đẹp, xấu, thiện thú, ác thú, tuệ tri chúng sanh đi theo nghiệp: 'Những chúng sanh này thành tựu thân ác hạnh, khẩu ác hạnh, ý ác hạnh, phỉ báng các bậc Thánh, theo tà kiến, thọ trì nghiệp tà kiến; khi thân hoại mạng chung họ sinh vào đọa xứ, ác thú, đọa lạc, địa ngục. Còn những chúng sanh này thành tựu thân thiện hạnh, khẩu thiện hạnh, ý thiện hạnh, không phỉ báng các bậc Thánh, theo chánh kiến, thọ trì nghiệp chánh kiến; khi thân hoại mạng chung họ sinh vào thiện thú, cõi trời.' Như vậy, với thiên nhãn thanh tịnh, siêu nhân, vị ấy thấy chúng sanh chết đi, sinh ra, hạ liệt, cao quý, đẹp, xấu, thiện thú, ác thú, tuệ tri chúng sanh đi theo nghiệp. Này Subhūti, Tỷ-kheo với thiên nhãn thanh tịnh, siêu nhân, tuệ tri chúng sanh đi theo nghiệp — đây cũng là một dấu hiệu của người có tín.
 
-Lại nữa, này Subhūti, Tỷ-kheo do đoạn tận các lậu hoặc, ngay trong hiện tại
-tự mình thắng trí, chứng ngộ, thành tựu và an trú tâm giải thoát, tuệ giải
-thoát không lậu hoặc. Này Subhūti, Tỷ-kheo do đoạn tận các lậu hoặc, ngay
-trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú tâm giải
-thoát, tuệ giải thoát không lậu hoặc — đây cũng là một dấu hiệu của người có
-tín."
+Lại nữa, này Subhūti, Tỷ-kheo do đoạn tận các lậu hoặc, ngay trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú tâm giải thoát, tuệ giải thoát không lậu hoặc. Này Subhūti, Tỷ-kheo do đoạn tận các lậu hoặc, ngay trong hiện tại tự mình thắng trí, chứng ngộ, thành tựu và an trú tâm giải thoát, tuệ giải thoát không lậu hoặc — đây cũng là một dấu hiệu của người có tín."
 
 Khi được nói vậy, Tôn giả Subhūti bạch Thế Tôn: "Bạch Thế Tôn, những dấu hiệu của người có tín mà Thế Tôn vừa nói, Tỷ-kheo này đều có, và Tỷ-kheo này hiện rõ trong những dấu hiệu ấy.
 
@@ -833,195 +245,41 @@ Bạch Thế Tôn, những dấu hiệu của người có tín mà Thế Tôn v
 
 === AN 11.15. Từ (Mettāsuttaṃ)
 
-#super[1] "Này các thầy, từ tâm giải thoát được thân cận, được tu tập, được
-nuôi lớn, được làm như cỗ xe, được làm như nền tảng, được thực hành, được
-tích tập, được khéo vận dụng, thì mười một quả lợi đáng mong đợi. Mười một
-quả lợi nào? Ngủ an lạc. Thức an lạc. Không thấy ác mộng. Được người yêu
-mến. Được phi nhân yêu mến. Chư thiên hộ trì. Lửa hoặc độc hoặc đao không hại
-được. Tâm mau được định. Sắc mặt tươi tỉnh. Chết không mê muội. Nếu chưa
-chứng pháp cao hơn thì sinh lên Phạm thiên giới. Này các thầy, từ tâm giải
-thoát được thân cận, được tu tập, được nuôi lớn, được làm như cỗ xe, được
-làm như nền tảng, được thực hành, được tích tập, được khéo vận dụng, thì
-mười một quả lợi ấy đáng mong đợi."
+#super[1] "Này các thầy, từ tâm giải thoát được thân cận, được tu tập, được làm cho sung mãn, được làm như cỗ xe, được làm như nền tảng, được thực hành, được tích tập, được khéo vận dụng, thì mười một quả lợi đáng mong đợi. Mười một quả lợi nào? Ngủ an lạc, thức an lạc, không thấy ác mộng, được người yêu mến, được phi nhân yêu mến, chư thiên hộ trì, lửa hoặc độc hoặc đao không hại được, tâm mau được định, sắc mặt tươi tỉnh, chết không mê muội, nếu chưa chứng pháp cao hơn thì sinh lên Phạm thiên giới. Này các thầy, từ tâm giải thoát được thân cận, được tu tập, được làm cho sung mãn, được làm như cỗ xe, được làm như nền tảng, được thực hành, được tích tập, được khéo vận dụng, thì mười một quả lợi ấy đáng mong đợi."
 
-=== AN 11.16. Aṭṭhakanāgara (Aṭṭhakanāgarasuttaṃ)
+=== AN 11.16. Bát Thành (Aṭṭhakanāgarasuttaṃ)
 
-#super[1] Một thời Tôn giả A-nan (Ānanda) trú ở Tỳ-xá-ly (Vesālī), tại làng Beluvagāmaka. Lúc bấy
-giờ, gia chủ Dasama ở Bát Thành (Aṭṭhakanāgara) vì một công việc đã đến Ba-tha-li-bu-đa (Pāṭaliputta). Rồi
-gia chủ Dasama ở Bát Thành (Aṭṭhakanāgara) đi đến Kê Viên (Kukkuṭārāma), đến chỗ một Tỷ-kheo nọ;
-đến rồi, nói với Tỷ-kheo ấy: "Bạch Tôn giả, nay Tôn giả A-nan (Ānanda) trú ở đâu?
-Chúng con muốn được yết kiến Tôn giả Ānanda."
+#super[1] Một thời Tôn giả Ānanda trú ở Vesālī, tại làng Beluvagāmaka. Lúc bấy giờ, gia chủ Dasama ở Aṭṭhakanāgara vì một công việc đã đến Pāṭaliputta. Rồi gia chủ Dasama ở Aṭṭhakanāgara đi đến Kukkuṭārāma, đến chỗ một Tỷ-kheo nọ; đến rồi, nói với Tỷ-kheo ấy: "Bạch Tôn giả, nay Tôn giả Ānanda trú ở đâu? Chúng con muốn được yết kiến Tôn giả Ānanda." "Này gia chủ, Tôn giả Ānanda trú ở Vesālī, tại làng Beluvagāmaka." Rồi gia chủ Dasama ở Aṭṭhakanāgara, sau khi giải quyết xong công việc tại Pāṭaliputta, đi đến Vesālī, đến làng Beluvagāmaka, đến chỗ Tôn giả Ānanda; đến rồi, đảnh lễ Tôn giả Ānanda rồi ngồi xuống một bên. Ngồi xuống một bên, gia chủ Dasama ở Aṭṭhakanāgara bạch Tôn giả Ānanda: "Bạch Tôn giả Ānanda, có chăng một pháp được Thế Tôn ấy — bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó Tỷ-kheo sống không phóng dật, nhiệt tâm, dốc lòng, tâm chưa giải thoát thì được giải thoát, các lậu hoặc chưa đoạn tận thì đi đến đoạn tận, chưa chứng đắc vô thượng an ổn khỏi các khổ ách thì chứng đắc?" "Này gia chủ, có một pháp được Thế Tôn ấy — bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó Tỷ-kheo sống không phóng dật, nhiệt tâm, dốc lòng, tâm chưa giải thoát thì được giải thoát, các lậu hoặc chưa đoạn tận thì đi đến đoạn tận, chưa chứng đắc vô thượng an ổn khỏi các khổ ách thì chứng đắc." "Bạch Tôn giả Ānanda, pháp ấy là pháp nào?"
 
-"Này gia chủ, Tôn giả Ānanda trú ở Tỳ-xá-ly (Vesālī), tại làng Beluvagāmaka."
+"Này gia chủ, ở đây Tỷ-kheo ly dục, ly pháp bất thiện, chứng đạt và an trú sơ thiền, có tầm có tứ, có hỷ lạc do viễn ly sinh. Vị ấy suy xét như vầy: 'Sơ thiền này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy tuệ tri như vậy. Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không đạt đến sự đoạn tận các lậu hoặc, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy — bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó Tỷ-kheo sống không phóng dật, nhiệt tâm, dốc lòng, tâm chưa giải thoát thì được giải thoát, các lậu hoặc chưa đoạn tận thì đi đến đoạn tận, chưa chứng đắc vô thượng an ổn khỏi các khổ ách thì chứng đắc.
 
-Rồi gia chủ Dasama ở Aṭṭhakanāgara, sau khi giải quyết xong công việc tại
-Pāṭaliputta, đi đến Vesālī, đến làng Beluvagāmaka, đến chỗ Tôn giả Ānanda;
-đến rồi, đảnh lễ, ngồi sang một bên, rồi bạch Tôn giả Ānanda: "Bạch Tôn giả
-Ānanda, có chăng một pháp được Thế Tôn ấy — bậc Biết, bậc Thấy, bậc A-la-hán,
-Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó Tỷ-kheo sống không phóng dật,
-nhiệt tâm, dốc lòng, tâm chưa giải thoát thì được giải thoát, các lậu hoặc
-chưa đoạn tận thì đi đến đoạn tận, chưa chứng đắc vô thượng an ổn khỏi các
-khổ ách thì chứng đắc?"
+Lại nữa, này gia chủ, Tỷ-kheo do sự lắng dịu của tầm và tứ, chứng đạt và an trú nhị thiền, có nội tĩnh, nhất tâm, không tầm không tứ, có hỷ lạc do định sinh. Vị ấy suy xét như vầy: 'Nhị thiền này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-"Này gia chủ, có một pháp được Thế Tôn ấy — bậc Biết, bậc Thấy, bậc A-la-hán,
-Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó Tỷ-kheo sống không phóng dật,
-nhiệt tâm, dốc lòng, tâm chưa giải thoát thì được giải thoát, các lậu hoặc
-chưa đoạn tận thì đi đến đoạn tận, chưa chứng đắc vô thượng an ổn khỏi các
-khổ ách thì chứng đắc."
+Lại nữa, này gia chủ, Tỷ-kheo do ly hỷ mà trú xả, chánh niệm tỉnh giác, thân cảm nhận lạc thọ, điều mà các bậc Thánh gọi là 'người có xả, có niệm, an trú lạc', chứng đạt và an trú tam thiền. Vị ấy suy xét như vầy: 'Tam thiền này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-"Bạch Tôn giả Ānanda, pháp ấy là pháp nào?"
+Lại nữa, này gia chủ, Tỷ-kheo do đoạn lạc, đoạn khổ, do sự diệt trừ hỷ ưu đã có từ trước, chứng đạt và an trú tứ thiền, không khổ không lạc, xả niệm thanh tịnh. Vị ấy suy xét như vầy: 'Tứ thiền này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-"Này gia chủ, ở đây Tỷ-kheo ly dục, ly pháp bất thiện, chứng đạt và an trú sơ
-thiền, có tầm có tứ, có hỷ lạc do viễn ly sinh. Vị ấy suy xét như vầy: 'Sơ
-thiền này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái
-ấy vô thường, có tính diệt.' Vị ấy tuệ tri như vậy. Vị ấy an trú ở đó, đạt
-đến sự đoạn tận các lậu hoặc. Nếu không đạt đến sự đoạn tận các lậu hoặc, thì
-do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy
-hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ,
-đây cũng là một pháp được Thế Tôn ấy — bậc Biết, bậc Thấy, bậc A-la-hán,
-Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó Tỷ-kheo sống không phóng dật,
-nhiệt tâm, dốc lòng, tâm chưa giải thoát thì được giải thoát, các lậu hoặc
-chưa đoạn tận thì đi đến đoạn tận, chưa chứng đắc vô thượng an ổn khỏi các
-khổ ách thì chứng đắc.
+Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với từ, biến mãn một phương rồi an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên, dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm câu hữu với từ, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an trú. Vị ấy suy xét như vầy: 'Từ tâm giải thoát này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-Lại nữa, này gia chủ, Tỷ-kheo do sự lắng dịu của tầm và tứ, chứng đạt và an
-trú nhị thiền, có nội tĩnh, nhất tâm, không tầm không tứ, có hỷ lạc do định
-sinh. Vị ấy suy xét như vầy: 'Nhị thiền này cũng là pháp hữu vi, do tư tạo.
-Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú
-ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ
-pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập
-Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp
-được Thế Tôn ấy khéo tuyên thuyết như vậy.
+Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với bi, biến mãn một phương rồi an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên, dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm câu hữu với bi, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an trú. Vị ấy suy xét: 'Bi tâm giải thoát này cũng là pháp hữu vi, do tư tạo...' an trú ở đó, đạt đến sự đoạn tận các lậu hoặc, hoặc hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-Lại nữa, này gia chủ, Tỷ-kheo do ly hỷ mà trú xả, chánh niệm tỉnh giác, thân
-cảm nhận lạc thọ, điều mà các bậc Thánh gọi là 'người có xả, có niệm, an trú
-lạc', chứng đạt và an trú tam thiền. Vị ấy suy xét như vầy: 'Tam thiền này
-cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô
-thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc.
-Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần
-kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới
-này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như
-vậy.
+Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với hỷ, biến mãn một phương rồi an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên, dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm câu hữu với hỷ, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an trú. Vị ấy suy xét: 'Hỷ tâm giải thoát này cũng là pháp hữu vi, do tư tạo...' an trú ở đó, đạt đến sự đoạn tận các lậu hoặc, hoặc hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-Lại nữa, này gia chủ, Tỷ-kheo do đoạn lạc, đoạn khổ, do sự diệt trừ hỷ ưu đã
-có từ trước, chứng đạt và an trú tứ thiền, không khổ không lạc, xả niệm
-thanh tịnh. Vị ấy suy xét như vầy: 'Tứ thiền này cũng là pháp hữu vi, do tư
-tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an
-trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy,
-do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó
-nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một
-pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
+Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với xả, biến mãn một phương rồi an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên, dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm câu hữu với xả, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an trú. Vị ấy suy xét như vầy: 'Xả tâm giải thoát này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với từ, biến mãn một phương rồi
-an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên,
-dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm
-câu hữu với từ, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an
-trú. Vị ấy suy xét như vầy: 'Từ tâm giải thoát này cũng là pháp hữu vi, do tư
-tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an
-trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy,
-do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó
-nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một
-pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
+Lại nữa, này gia chủ, Tỷ-kheo vượt qua hoàn toàn các sắc tưởng, diệt các tưởng chống đối, không tác ý các tưởng sai biệt, với ý niệm 'hư không là vô biên', chứng đạt và an trú Không vô biên xứ. Vị ấy suy xét như vầy: 'Không vô biên xứ định này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với bi, biến mãn một phương rồi
-an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên,
-dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm
-câu hữu với bi, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an
-trú. Vị ấy suy xét như vầy: 'Bi tâm giải thoát này cũng là pháp hữu vi, do tư
-tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an
-trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy,
-do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó
-nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một
-pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
+Lại nữa, này gia chủ, Tỷ-kheo vượt qua hoàn toàn Không vô biên xứ, với ý niệm 'thức là vô biên', chứng đạt và an trú Thức vô biên xứ. Vị ấy suy xét: 'Thức vô biên xứ định này cũng là pháp hữu vi, do tư tạo...' an trú ở đó, đạt đến sự đoạn tận các lậu hoặc, hoặc hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
 
-Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với hỷ, biến mãn một phương rồi
-an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên,
-dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm
-câu hữu với hỷ, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an
-trú. Vị ấy suy xét như vầy: 'Hỷ tâm giải thoát này cũng là pháp hữu vi, do tư
-tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an
-trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy,
-do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó
-nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một
-pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
+Lại nữa, này gia chủ, Tỷ-kheo vượt qua hoàn toàn Thức vô biên xứ, với ý niệm 'không có gì cả', chứng đạt và an trú Vô sở hữu xứ. Vị ấy suy xét như vầy: 'Vô sở hữu xứ định này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy — bậc Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó Tỷ-kheo sống không phóng dật, nhiệt tâm, dốc lòng, tâm chưa giải thoát thì được giải thoát, các lậu hoặc chưa đoạn tận thì đi đến đoạn tận, chưa chứng đắc vô thượng an ổn khỏi các khổ ách thì chứng đắc."
 
-Lại nữa, này gia chủ, Tỷ-kheo với tâm câu hữu với xả, biến mãn một phương rồi
-an trú, cũng vậy phương thứ hai, phương thứ ba, phương thứ tư. Như vậy trên,
-dưới, ngang, khắp mọi nơi, với mọi cách, biến mãn toàn thể thế giới với tâm
-câu hữu với xả, quảng đại, cao cả, vô lượng, không oán, không sân, rồi an
-trú. Vị ấy suy xét như vầy: 'Xả tâm giải thoát này cũng là pháp hữu vi, do tư
-tạo. Phàm cái gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an
-trú ở đó, đạt đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy,
-do hỷ pháp ấy, với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó
-nhập Niết-bàn, không còn trở lại thế giới này. Này gia chủ, đây cũng là một
-pháp được Thế Tôn ấy khéo tuyên thuyết như vậy.
-
-Lại nữa, này gia chủ, Tỷ-kheo vượt qua hoàn toàn các sắc tưởng, diệt các
-tưởng chống đối, không tác ý các tưởng sai biệt, với ý niệm 'hư không là vô
-biên', chứng đạt và an trú Không vô biên xứ. Vị ấy suy xét như vầy: 'Không vô
-biên xứ định này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do tư
-tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn tận
-các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn tận
-năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở lại
-thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy khéo tuyên
-thuyết như vậy.
-
-Lại nữa, này gia chủ, Tỷ-kheo vượt qua hoàn toàn Không vô biên xứ, với ý
-niệm 'thức là vô biên', chứng đạt và an trú Thức vô biên xứ. Vị ấy suy xét
-như vầy: 'Thức vô biên xứ định này cũng là pháp hữu vi, do tư tạo. Phàm cái
-gì hữu vi, do tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt
-đến sự đoạn tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy,
-với sự đoạn tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn,
-không còn trở lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế
-Tôn ấy khéo tuyên thuyết như vậy.
-
-Lại nữa, này gia chủ, Tỷ-kheo vượt qua hoàn toàn Thức vô biên xứ, với ý niệm
-'không có gì cả', chứng đạt và an trú Vô sở hữu xứ. Vị ấy suy xét như vầy:
-'Vô sở hữu xứ định này cũng là pháp hữu vi, do tư tạo. Phàm cái gì hữu vi, do
-tư tạo, cái ấy vô thường, có tính diệt.' Vị ấy an trú ở đó, đạt đến sự đoạn
-tận các lậu hoặc. Nếu không, thì do tham pháp ấy, do hỷ pháp ấy, với sự đoạn
-tận năm hạ phần kiết sử, vị ấy hóa sinh, tại đó nhập Niết-bàn, không còn trở
-lại thế giới này. Này gia chủ, đây cũng là một pháp được Thế Tôn ấy — bậc
-Biết, bậc Thấy, bậc A-la-hán, Chánh Đẳng Giác — khéo tuyên thuyết, nhờ đó
-Tỷ-kheo sống không phóng dật, nhiệt tâm, dốc lòng, tâm chưa giải thoát thì
-được giải thoát, các lậu hoặc chưa đoạn tận thì đi đến đoạn tận, chưa chứng
-đắc vô thượng an ổn khỏi các khổ ách thì chứng đắc."
-
-Khi được nói vậy, gia chủ Dasama ở Aṭṭhakanāgara bạch Tôn giả Ānanda: "Bạch
-Tôn giả Ānanda, ví như một người đang tìm một cửa kho báu mà bỗng nhiên có
-được mười một cửa kho báu; cũng vậy, bạch Tôn giả, con đang tìm một cửa bất
-tử mà bỗng nhiên có được mười một cửa bất tử để tu tập. Ví như, bạch Tôn giả,
-nhà của một người có mười một cửa; khi ngôi nhà ấy bị cháy, người ấy có thể
-nhờ bất cứ cửa nào để tự cứu cho được an toàn; cũng vậy, bạch Tôn giả, trong
-mười một cửa bất tử này, con có thể nhờ bất cứ cửa bất tử nào để tự cứu cho
-được an toàn. Bạch Tôn giả, những ngoại đạo kia còn tìm cách dâng cúng tài
-vật của thầy cho thầy của họ, huống gì con lại không cúng dường Tôn giả
-Ānanda!"
-
-Rồi gia chủ Dasama ở Aṭṭhakanāgara cho triệu tập chúng Tỷ-kheo ở Vesālī và ở
-Pāṭaliputta, tự tay dâng hiến và làm cho thỏa mãn các món ăn cứng và mềm
-thượng hạng; khoác cho mỗi Tỷ-kheo một đôi vải, dâng tam y cho Tôn giả
-Ānanda, và cho xây năm trăm tinh xá cho Tôn giả Ānanda.
+Khi được nói vậy, gia chủ Dasama ở Aṭṭhakanāgara bạch Tôn giả Ānanda: "Bạch Tôn giả Ānanda, ví như một người đang tìm một cửa kho báu mà bỗng nhiên có được mười một cửa kho báu; cũng vậy, bạch Tôn giả, con đang tìm một cửa bất tử mà bỗng nhiên có được mười một cửa bất tử để tu tập. Ví như, bạch Tôn giả, nhà của một người có mười một cửa; khi ngôi nhà ấy bị cháy, người ấy có thể nhờ bất cứ cửa nào để tự cứu cho được an toàn; cũng vậy, bạch Tôn giả, trong mười một cửa bất tử này, con có thể nhờ bất cứ cửa bất tử nào để tự cứu cho được an toàn. Bạch Tôn giả, những ngoại đạo kia còn tìm cách dâng cúng tài vật của thầy cho thầy của họ, huống gì con lại không cúng dường Tôn giả Ānanda!" Rồi gia chủ Dasama ở Aṭṭhakanāgara cho triệu tập chúng Tỷ-kheo ở Vesālī và ở Pāṭaliputta, tự tay dâng hiến và làm cho thỏa mãn các món ăn cứng và mềm thượng hạng; khoác cho mỗi Tỷ-kheo một đôi vải, dâng tam y cho Tôn giả Ānanda, và cho xây năm trăm tinh xá cho Tôn giả Ānanda.
 
 === AN 11.17. Người Chăn Bò (Gopālasuttaṃ)
 
-#super[1] "Này các thầy, người chăn bò hội đủ mười một chi phần thì không thể
-chăn giữ đàn bò, làm cho nó sinh sôi. Mười một chi phần ấy là gì? Này các
-thầy, ở đây người chăn bò không biết sắc, không thiện xảo về tướng, không
-bắt ấu trùng, không băng bó vết thương, không hun khói, không biết bến nước,
-không biết chỗ uống, không biết đường đi, không thiện xảo về đồng cỏ, vắt
-sữa không chừa lại, và những con bò đực, bò cha, bò đầu đàn, người ấy không
-tôn kính bằng sự cúng dường đặc biệt. Này các thầy, người chăn bò hội đủ
-mười một chi phần ấy thì không thể chăn giữ đàn bò, làm cho nó sinh sôi.
+#super[1] "Này các thầy, người chăn bò hội đủ mười một chi phần thì không thể chăn giữ đàn bò, làm cho nó sinh sôi. Mười một chi phần ấy là gì? Này các thầy, ở đây người chăn bò không biết sắc, không thiện xảo về tướng, không bắt ấu trùng, không băng bó vết thương, không hun khói, không biết bến nước, không biết chỗ uống, không biết đường đi, không thiện xảo về đồng cỏ, vắt sữa không chừa lại, và những con bò đực, bò cha, bò đầu đàn, người ấy không tôn kính bằng sự cúng dường đặc biệt. Này các thầy, người chăn bò hội đủ mười một chi phần ấy thì không thể chăn giữ đàn bò, làm cho nó sinh sôi.
 
-Cũng vậy, này các thầy, Tỷ-kheo hội đủ mười một pháp thì không thể đạt được
-sự tăng trưởng, lớn mạnh, sung mãn trong pháp và luật này. Mười một pháp ấy
-là gì? Này các thầy, ở đây Tỷ-kheo không biết sắc, không thiện xảo về tướng,
-không bắt ấu trùng, không băng bó vết thương, không hun khói, không biết bến
-nước, không biết chỗ uống, không biết đường đi, không thiện xảo về đồng cỏ,
-vắt sữa không chừa lại, và những Tỷ-kheo Trưởng lão, bậc kỳ túc, xuất gia đã
-lâu, là cha của Tăng, là người dẫn dắt Tăng, vị ấy không tôn kính bằng sự
-cúng dường đặc biệt.
+Cũng vậy, này các thầy, Tỷ-kheo hội đủ mười một pháp thì không thể đạt được sự tăng trưởng, lớn mạnh, sung mãn trong pháp và luật này. Mười một pháp ấy là gì? Này các thầy, ở đây Tỷ-kheo không biết sắc, không thiện xảo về tướng, không bắt ấu trùng, không băng bó vết thương, không hun khói, không biết bến nước, không biết chỗ uống, không biết đường đi, không thiện xảo về đồng cỏ, vắt sữa không chừa lại, và những Tỷ-kheo Trưởng lão, bậc kỳ túc, xuất gia đã lâu, là cha của Tăng, là người dẫn dắt Tăng, vị ấy không tôn kính bằng sự cúng dường đặc biệt.
 
 Này các thầy, thế nào là Tỷ-kheo không biết sắc? Này các thầy, ở đây Tỷ-kheo đối với bất cứ sắc nào, không như thật biết: 'Bốn đại chủng và sắc nương bốn đại chủng.' Này các thầy, như vậy là Tỷ-kheo không biết sắc.
 
@@ -1047,21 +305,9 @@ Này các thầy, thế nào là Tỷ-kheo không tôn kính những Tỷ-kheo T
 
 Này các thầy, Tỷ-kheo hội đủ mười một pháp ấy thì không thể đạt được sự tăng trưởng, lớn mạnh, sung mãn trong pháp và luật này.
 
-Này các thầy, người chăn bò hội đủ mười một chi phần thì có thể chăn giữ đàn
-bò, làm cho nó sinh sôi. Mười một chi phần ấy là gì? Này các thầy, ở đây
-người chăn bò biết sắc, thiện xảo về tướng, bắt ấu trùng, băng bó vết thương,
-hun khói, biết bến nước, biết chỗ uống, biết đường đi, thiện xảo về đồng cỏ,
-vắt sữa còn chừa lại, và những con bò đực, bò cha, bò đầu đàn, người ấy tôn
-kính bằng sự cúng dường đặc biệt. Này các thầy, người chăn bò hội đủ mười
-một chi phần ấy thì có thể chăn giữ đàn bò, làm cho nó sinh sôi.
+Này các thầy, người chăn bò hội đủ mười một chi phần thì có thể chăn giữ đàn bò, làm cho nó sinh sôi. Mười một chi phần ấy là gì? Này các thầy, ở đây người chăn bò biết sắc, thiện xảo về tướng, bắt ấu trùng, băng bó vết thương, hun khói, biết bến nước, biết chỗ uống, biết đường đi, thiện xảo về đồng cỏ, vắt sữa còn chừa lại, và những con bò đực, bò cha, bò đầu đàn, người ấy tôn kính bằng sự cúng dường đặc biệt. Này các thầy, người chăn bò hội đủ mười một chi phần ấy thì có thể chăn giữ đàn bò, làm cho nó sinh sôi.
 
-Cũng vậy, này các thầy, Tỷ-kheo hội đủ mười một pháp thì có thể đạt được sự
-tăng trưởng, lớn mạnh, sung mãn trong pháp và luật này. Mười một pháp ấy là
-gì? Này các thầy, ở đây Tỷ-kheo biết sắc, thiện xảo về tướng, bắt ấu trùng,
-băng bó vết thương, hun khói, biết bến nước, biết chỗ uống, biết đường đi,
-thiện xảo về đồng cỏ, vắt sữa còn chừa lại, và những Tỷ-kheo Trưởng lão, bậc
-kỳ túc, xuất gia đã lâu, là cha của Tăng, là người dẫn dắt Tăng, vị ấy tôn
-kính bằng sự cúng dường đặc biệt.
+Cũng vậy, này các thầy, Tỷ-kheo hội đủ mười một pháp thì có thể đạt được sự tăng trưởng, lớn mạnh, sung mãn trong pháp và luật này. Mười một pháp ấy là gì? Này các thầy, ở đây Tỷ-kheo biết sắc, thiện xảo về tướng, bắt ấu trùng, băng bó vết thương, hun khói, biết bến nước, biết chỗ uống, biết đường đi, thiện xảo về đồng cỏ, vắt sữa còn chừa lại, và những Tỷ-kheo Trưởng lão, bậc kỳ túc, xuất gia đã lâu, là cha của Tăng, là người dẫn dắt Tăng, vị ấy tôn kính bằng sự cúng dường đặc biệt.
 
 Này các thầy, thế nào là Tỷ-kheo biết sắc? Này các thầy, ở đây Tỷ-kheo đối với bất cứ sắc nào, như thật biết: 'Bốn đại chủng và sắc nương bốn đại chủng.' Này các thầy, như vậy là Tỷ-kheo biết sắc.
 
@@ -1089,169 +335,34 @@ Này các thầy, Tỷ-kheo hội đủ mười một pháp ấy thì có thể 
 
 === AN 11.18. Định (1) (Paṭhamasamādhisuttaṃ)
 
-#super[1] Bấy giờ nhiều Tỷ-kheo đến, đảnh lễ, ngồi sang một bên, rồi bạch Thế
-Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không có
-tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có
-tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng
-về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên
-xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu
-xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi
-tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời
-sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm,
-được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không
-có tưởng; nhưng vẫn có tưởng?"
-
-"Này các thầy, có thể Tỷ-kheo chứng được định như vậy."
-
-"Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?"
-
-"Này các thầy, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi
-diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly
-tham, diệt, Niết-bàn.' Này các thầy, như vậy Tỷ-kheo có thể chứng được định
-như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với
-nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió,
-không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng
-về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ
-đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với
-Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không
-có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được
-nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở
-đó cũng không có tưởng; nhưng vẫn có tưởng."
+#super[1] Bấy giờ nhiều Tỷ-kheo đi đến chỗ Thế Tôn, đảnh lễ Thế Tôn rồi ngồi xuống một bên. Ngồi xuống một bên, các Tỷ-kheo ấy bạch Thế Tôn: "Bạch Thế Tôn, có thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng?" "Này các thầy, có thể Tỷ-kheo chứng được định như vậy." "Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?" "Này các thầy, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham, diệt, Niết-bàn.' Này các thầy, như vậy Tỷ-kheo có thể chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
 
 === AN 11.19. Định (2) (Dutiyasamādhisuttaṃ)
 
-#super[1] Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp
-lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói: "Này các thầy, có thể chăng Tỷ-kheo
-chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng
-về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về
-gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên
-xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có
-tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi
-phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này
-đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những
-gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu,
-được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng?"
-
-"Bạch Thế Tôn, các pháp lấy Thế Tôn làm gốc, lấy Thế Tôn làm hướng đạo, lấy
-Thế Tôn làm chỗ nương. Lành thay, bạch Thế Tôn, xin Thế Tôn hãy giảng nghĩa
-lời ấy. Nghe Thế Tôn nói, các Tỷ-kheo sẽ thọ trì."
-
-"Vậy này các thầy, hãy nghe và khéo tác ý, Ta sẽ nói." "Thưa vâng, bạch Thế
-Tôn." Các Tỷ-kheo ấy đáp lại Thế Tôn. Thế Tôn nói: "Này các thầy, có thể
-Tỷ-kheo chứng được định như vậy."
-
-"Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?"
-
-"Này các thầy, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi
-diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly
-tham, diệt, Niết-bàn.' Này các thầy, như vậy Tỷ-kheo có thể chứng được định
-như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với
-nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió,
-không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng
-về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ
-đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với
-Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không
-có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được
-nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở
-đó cũng không có tưởng; nhưng vẫn có tưởng."
+#super[1] Tại đó Thế Tôn gọi các Tỷ-kheo: "Này các thầy." Các Tỷ-kheo ấy đáp lại Thế Tôn: "Bạch Thế Tôn." Thế Tôn nói như vầy: "Này các thầy, có thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng?" "Bạch Thế Tôn, các pháp lấy Thế Tôn làm gốc, lấy Thế Tôn làm hướng đạo, lấy Thế Tôn làm chỗ nương. Lành thay, bạch Thế Tôn, xin Thế Tôn hãy giảng nghĩa lời ấy. Nghe Thế Tôn nói, các Tỷ-kheo sẽ thọ trì." "Vậy này các thầy, hãy nghe và khéo tác ý, Ta sẽ nói." "Thưa vâng, bạch Thế Tôn." Các Tỷ-kheo ấy đáp lại Thế Tôn. Thế Tôn nói như vầy: "Này các thầy, có thể Tỷ-kheo chứng được định như vậy." "Bạch Thế Tôn, như thế nào Tỷ-kheo có thể chứng được định như vậy?" "Này các thầy, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham, diệt, Niết-bàn.' Này các thầy, như vậy Tỷ-kheo có thể chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
 
 === AN 11.20. Định (3) (Tatiyasamādhisuttaṃ)
 
-#super[1] Bấy giờ nhiều Tỷ-kheo đi đến chỗ Tôn giả Xá-lợi-phất (Sāriputta); đến rồi, cùng Tôn
-giả Xá-lợi-phất (Sāriputta) hỏi thăm nhau. Sau khi nói những lời hỏi thăm thân hữu, họ
-ngồi sang một bên, rồi nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, có
-thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với
-đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa,
-không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối
-với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên
-xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về
-Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có
-tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau,
-và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến,
-được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có
-tưởng?"
-
-"Này các hiền giả, có thể Tỷ-kheo chứng được định như vậy."
-
-"Này hiền giả Sāriputta, như thế nào Tỷ-kheo có thể chứng được định như
-vậy?"
-
-"Này các hiền giả, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi
-diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly
-tham, diệt, Niết-bàn.' Này các hiền giả, như vậy Tỷ-kheo có thể chứng được
-định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối
-với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với
-gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có
-tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở
-hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối
-với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này,
-không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy,
-được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm
-bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
+#super[1] Bấy giờ nhiều Tỷ-kheo đi đến chỗ Tôn giả Sāriputta; đến rồi, cùng Tôn giả Sāriputta hỏi thăm nhau. Sau khi nói những lời hỏi thăm thân hữu, họ ngồi xuống một bên. Ngồi xuống một bên, các Tỷ-kheo ấy nói với Tôn giả Sāriputta: "Này hiền giả Sāriputta, có thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng?" "Này các hiền giả, có thể Tỷ-kheo chứng được định như vậy." "Này hiền giả Sāriputta, như thế nào Tỷ-kheo có thể chứng được định như vậy?" "Này các hiền giả, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham, diệt, Niết-bàn.' Này các hiền giả, như vậy Tỷ-kheo có thể chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
 
 === AN 11.21. Định (4) (Catutthasamādhisuttaṃ)
 
-#super[1] Tại đó Tôn giả Xá-lợi-phất (Sāriputta) gọi các Tỷ-kheo: "Này các hiền giả, có thể
-chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất,
-không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa,
-không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối
-với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên
-xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về
-Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có
-tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau,
-và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến,
-được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có
-tưởng?"
-
-"Này hiền giả, dù từ xa chúng tôi cũng đến chỗ Tôn giả Xá-lợi-phất (Sāriputta) để hiểu
-nghĩa lời ấy. Lành thay, xin Tôn giả Sāriputta hãy giảng nghĩa lời ấy. Nghe
-Tôn giả Sāriputta nói, các Tỷ-kheo sẽ thọ trì."
-
-"Vậy này các hiền giả, hãy nghe và khéo tác ý, tôi sẽ nói." "Thưa vâng, này
-hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta. Tôn giả Sāriputta nói:
-"Này các hiền giả, có thể Tỷ-kheo chứng được định như vậy."
-
-"Này hiền giả, như thế nào Tỷ-kheo có thể chứng được định như vậy?"
-
-"Này các hiền giả, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi
-diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly
-tham, diệt, Niết-bàn.' Này các hiền giả, như vậy Tỷ-kheo có thể chứng được
-định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối
-với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với
-gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có
-tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở
-hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối
-với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này,
-không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy,
-được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm
-bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
+#super[1] Tại đó Tôn giả Sāriputta gọi các Tỷ-kheo: "Này các hiền giả, có thể chăng Tỷ-kheo chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng?" "Này hiền giả, dù từ xa chúng tôi cũng đến chỗ Tôn giả Sāriputta để hiểu nghĩa lời ấy. Lành thay, xin Tôn giả Sāriputta hãy giảng nghĩa lời ấy. Nghe Tôn giả Sāriputta nói, các Tỷ-kheo sẽ thọ trì." "Vậy này các hiền giả, hãy nghe và khéo tác ý, tôi sẽ nói." "Thưa vâng, này hiền giả." Các Tỷ-kheo ấy đáp lại Tôn giả Sāriputta. Tôn giả Sāriputta nói như vầy: "Này các hiền giả, có thể Tỷ-kheo chứng được định như vậy." "Này hiền giả, như thế nào Tỷ-kheo có thể chứng được định như vậy?" "Này các hiền giả, ở đây Tỷ-kheo có tưởng như vầy: 'Đây là an tịnh, đây là vi diệu, tức là sự lắng dịu mọi hành, sự từ bỏ mọi sanh y, sự diệt tận ái, ly tham, diệt, Niết-bàn.' Này các hiền giả, như vậy Tỷ-kheo có thể chứng được định như vầy: không có tưởng về đất đối với đất, không có tưởng về nước đối với nước, không có tưởng về lửa đối với lửa, không có tưởng về gió đối với gió, không có tưởng về Không vô biên xứ đối với Không vô biên xứ, không có tưởng về Thức vô biên xứ đối với Thức vô biên xứ, không có tưởng về Vô sở hữu xứ đối với Vô sở hữu xứ, không có tưởng về Phi tưởng phi phi tưởng xứ đối với Phi tưởng phi phi tưởng xứ, không có tưởng về đời này đối với đời này, không có tưởng về đời sau đối với đời sau, và đối với những gì được thấy, được nghe, được cảm, được biết, được đạt đến, được tìm cầu, được suy tầm bằng ý, ở đó cũng không có tưởng; nhưng vẫn có tưởng."
 
 #strong[(Hết phẩm Tùy Niệm.)]
 
 #strong[Tổng thuyết kệ:]
 
-Hai kinh Ma-ha-nam (Mahānāma), Nan-đề (Nandiya), Tu-bồ-đề (Subhūti); \
-Từ, Át-tha-ca (Aṭṭhaka), người chăn bò, và bốn định.
+Hai kinh Mahānāma, Nandiya, Subhūti; \
+Từ, Aṭṭhaka, người chăn bò, và bốn định.
 
 == 3. Sa-môn Hạnh (Sāmaññavaggo)
 
 === AN 11.22–11.29 (nhóm kinh viết tắt trùng tụng)
 
-#super[1] "Này các thầy, người chăn bò hội đủ mười một chi phần thì không thể
-chăn giữ đàn bò, làm cho nó sinh sôi. Mười một chi phần ấy là gì? Này các
-thầy, ở đây người chăn bò không biết sắc, không thiện xảo về tướng, không
-bắt ấu trùng, không băng bó vết thương, không hun khói, không biết bến nước,
-không biết chỗ uống, không biết đường đi, không thiện xảo về đồng cỏ, vắt
-sữa không chừa lại, và những con bò đực, bò cha, bò đầu đàn, người ấy không
-tôn kính bằng sự cúng dường đặc biệt. Này các thầy, người chăn bò hội đủ
-mười một chi phần ấy thì không thể chăn giữ đàn bò, làm cho nó sinh sôi.
+#super[1] "Này các thầy, người chăn bò hội đủ mười một chi phần thì không thể chăn giữ đàn bò, làm cho nó sinh sôi. Mười một chi phần ấy là gì? Này các thầy, ở đây người chăn bò không biết sắc, không thiện xảo về tướng, không bắt ấu trùng, không băng bó vết thương, không hun khói, không biết bến nước, không biết chỗ uống, không biết đường đi, không thiện xảo về đồng cỏ, vắt sữa không chừa lại, và những con bò đực, bò cha, bò đầu đàn, người ấy không tôn kính bằng sự cúng dường đặc biệt. Này các thầy, người chăn bò hội đủ mười một chi phần ấy thì không thể chăn giữ đàn bò, làm cho nó sinh sôi.
 
-Cũng vậy, này các thầy, Tỷ-kheo hội đủ mười một pháp thì không thể an trú
-quán vô thường đối với mắt, không thể an trú quán khổ đối với mắt, không thể
-an trú quán vô ngã đối với mắt, không thể an trú quán diệt tận đối với mắt,
-không thể an trú quán tàn lụi đối với mắt, không thể an trú quán ly tham đối
-với mắt, không thể an trú quán diệt đối với mắt, không thể an trú quán từ bỏ
-đối với mắt."
+Cũng vậy, này các thầy, Tỷ-kheo hội đủ mười một pháp thì không thể an trú quán vô thường đối với mắt, không thể an trú quán khổ đối với mắt, không thể an trú quán vô ngã đối với mắt, không thể an trú quán diệt tận đối với mắt, không thể an trú quán tàn lụi đối với mắt, không thể an trú quán ly tham đối với mắt, không thể an trú quán diệt đối với mắt, không thể an trú quán từ bỏ đối với mắt."
 
 === AN 11.30–11.69 (nhóm kinh viết tắt trùng tụng)
 
@@ -1305,17 +416,7 @@ với mắt, không thể an trú quán diệt đối với mắt, không thể 
 
 === AN 11.512–11.671 (nhóm kinh viết tắt trùng tụng)
 
-#super[1] "Này các thầy, để thắng tri sân, si, phẫn nộ, hận, che giấu, hiềm
-khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng
-thượng mạn, kiêu, phóng dật, cần tu tập mười một pháp. Mười một pháp nào? Sơ
-thiền, nhị thiền, tam thiền, tứ thiền, từ tâm giải thoát, bi tâm giải thoát,
-hỷ tâm giải thoát, xả tâm giải thoát, Không vô biên xứ, Thức vô biên xứ, Vô
-sở hữu xứ. Này các thầy, để thắng tri phóng dật, mười một pháp ấy cần được tu
-tập. Cũng vậy, để liễu tri, để đoạn tận, để đoạn trừ, để diệt tận, để tàn
-lụi, để ly tham, để diệt, để xả, để từ bỏ phóng dật — và tương tự đối với
-sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo
-trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu — cần tu tập mười một
-pháp ấy."
+#super[1] "Này các thầy, để thắng tri sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu, phóng dật, cần tu tập mười một pháp. Mười một pháp nào? Sơ thiền, nhị thiền, tam thiền, tứ thiền, từ tâm giải thoát, bi tâm giải thoát, hỷ tâm giải thoát, xả tâm giải thoát, Không vô biên xứ, Thức vô biên xứ, Vô sở hữu xứ. Này các thầy, để thắng tri phóng dật, mười một pháp ấy cần được tu tập. Cũng vậy, để liễu tri, để đoạn tận, để đoạn trừ, để diệt tận, để tàn lụi, để ly tham, để diệt, để xả, để từ bỏ phóng dật — và tương tự đối với sân, si, phẫn nộ, hận, che giấu, hiềm khích, ganh tỵ, xan tham, lừa dối, xảo trá, ngoan cố, hung hăng, mạn, tăng thượng mạn, kiêu — cần tu tập mười một pháp ấy."
 
 Thế Tôn đã thuyết giảng như vậy. Các Tỷ-kheo ấy hoan hỷ, tín thọ lời Thế Tôn dạy.
 

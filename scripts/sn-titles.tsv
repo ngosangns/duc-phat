@@ -17,7 +17,7 @@
 1	2	7	Khó Làm
 1	2	8	Lòng Xấu Hổ
 1	2	9	Căn Chòi
-1	2	10	Samiddhi
+1	2	10	Sa-mi-đi
 1	3	1	Đao Kiếm
 1	3	2	Xúc Chạm
 1	3	3	Rối Ren
@@ -36,8 +36,8 @@
 1	4	6	Lòng Tin
 1	4	7	Đại Hội
 1	4	8	Miếng Đá Vụn
-1	4	9	Con Gái Của Pajjunna Thứ Nhất
-1	4	10	Con Gái Của Pajjunna Thứ Hai
+1	4	9	Con Gái Của Ba-du-na Thứ Nhất
+1	4	10	Con Gái Của Ba-du-na Thứ Hai
 1	5	1	Cháy
 1	5	2	Cho Gì
 1	5	3	Thức Ăn
@@ -45,9 +45,9 @@
 1	5	5	Danh Hiệu Không Tầm Thường
 1	5	6	Tiên Nữ
 1	5	7	Người Trồng Rừng
-1	5	8	Rừng Jetavana
+1	5	8	Rừng Kỳ Viên
 1	5	9	Bỏn Xẻn
-1	5	10	Người Thợ Gốm Ghaṭīkāra
+1	5	10	Người Thợ Gốm Gha-thi-ca-la
 1	6	1	Già
 1	6	2	Không Già
 1	6	3	Bạn
@@ -79,35 +79,35 @@
 1	8	9	Hành Lương
 1	8	10	Ánh Sáng
 1	8	11	Vô Tranh
-2	1	1	Kassapa Thứ Nhất
-2	1	2	Kassapa Thứ Hai
-2	1	3	Māgha
-2	1	4	Māgadha
-2	1	5	Dāmali
-2	1	6	Kāmada
-2	1	7	Pañcālacaṇḍa
-2	1	8	Tāyana
-2	1	9	Candimā
-2	1	10	Sūriya
-2	2	1	Candimasa
-2	2	2	Veṇḍu
-2	2	3	Dīghalaṭṭhi
-2	2	4	Nandana
-2	2	5	Candana
-2	2	6	Vāsudatta
-2	2	7	Subrahmā
-2	2	8	Kakudha
-2	2	9	Uttara
-2	2	10	Anāthapiṇḍika
-2	3	1	Siva
-2	3	2	Khema
-2	3	3	Serī
-2	3	4	Ghaṭīkāra
-2	3	5	Jantu
-2	3	6	Rohitassa
-2	3	7	Nanda
-2	3	8	Nandivisāla
-2	3	9	Susima
+2	1	1	Ca-diếp Thứ Nhất
+2	1	2	Ca-diếp Thứ Hai
+2	1	3	Ma-gha
+2	1	4	Ma-kiệt-đà
+2	1	5	Đa-ma-li
+2	1	6	Ca-ma-đa
+2	1	7	Banh-xa-la-xan-đa
+2	1	8	Đa-da-na
+2	1	9	Xan-đi-ma
+2	1	10	Su-li-da
+2	2	1	Xan-đi-ma-sa
+2	2	2	Bên-đu
+2	2	3	Đi-gha-la-thi
+2	2	4	Vườn Hoan Hỷ
+2	2	5	Xan-đa-na
+2	2	6	Ba-su-đa-đa
+2	2	7	Sup-la-ma
+2	2	8	Ca-cu-đa
+2	2	9	Uất-đa-la
+2	2	10	Cấp Cô Độc
+2	3	1	Si-ba
+2	3	2	An Hòa
+2	3	3	Sê-li
+2	3	4	Gha-thi-ca-la
+2	3	5	Xan-đu
+2	3	6	Lô-hi-đa-sa
+2	3	7	Nan-đa
+2	3	8	Nan-đi-bi-sa-la
+2	3	9	Tu-si-ma
 2	3	10	Đệ Tử Ngoại Đạo
 3	1	1	Người Trẻ Tuổi
 3	1	2	Người
@@ -116,7 +116,7 @@
 3	1	5	Tự Hộ Trì
 3	1	6	Ít
 3	1	7	Tranh Tụng
-3	1	8	Mallikā
+3	1	8	Ma-li-ca
 3	1	9	Tế Lễ
 3	1	10	Trói Buộc
 3	2	1	Bảy Người Bện Tóc
@@ -124,7 +124,7 @@
 3	2	3	Nồi Cơm Đấu
 3	2	4	Chiến Trận Thứ Nhất
 3	2	5	Chiến Trận Thứ Hai
-3	2	6	Mallikā
+3	2	6	Ma-li-ca
 3	2	7	Không Phóng Dật
 3	2	8	Bạn Lành
 3	2	9	Người Không Con Thứ Nhất
@@ -154,49 +154,49 @@
 4	2	8	Đồ Khất Thực
 4	2	9	Nông Phu
 4	2	10	Vương Quốc
-4	3	1	Sambahula
-4	3	2	Samiddhi
-4	3	3	Godhika
+4	3	1	Nhiều Tỳ-kheo
+4	3	2	Sa-mi-đi
+4	3	3	Gô-đi-ca
 4	3	4	Bảy Năm
 4	3	5	Con Gái Ác Ma
-5	1	1	Āḷavikā
-5	1	2	Somā
-5	1	3	Gotamī
-5	1	4	Vijayā
-5	1	5	Uppalavaṇṇā
-5	1	6	Cālā
-5	1	7	Upacālā
-5	1	8	Sīsupacālā
-5	1	9	Selā
-5	1	10	Vajirā
+5	1	1	A-la-bi-ca
+5	1	2	Tô-ma
+5	1	3	Cù-đàm-di
+5	1	4	Bi-xa-da
+5	1	5	Liên Hoa Sắc
+5	1	6	Xa-la
+5	1	7	U-ba-xa-la
+5	1	8	Si-su-ba-xa-la
+5	1	9	Sê-la
+5	1	10	Ba-xi-la
 6	1	1	Thỉnh Cầu
 6	1	2	Cung Kính
-6	1	3	Brahmadeva
-6	1	4	Phạm Thiên Baka
+6	1	3	Ba-ma-đê-ba
+6	1	4	Phạm Thiên Ba-ca
 6	1	5	Tà Kiến Khác
 6	1	6	Phóng Dật
-6	1	7	Kokālika
-6	1	8	Tissa
-6	1	9	Phạm Thiên Turū
-6	1	10	Kokālika Sau
-6	2	1	Phạm Thiên Sanaṅkumāra
-6	2	2	Devadatta
-6	2	3	Andhakavinda
-6	2	4	Aruṇavatī
+6	1	7	Ca-lê-ca
+6	1	8	Đề-xá
+6	1	9	Phạm Thiên Đu-lu
+6	1	10	Ca-lê-ca Sau
+6	2	1	Phạm Thiên Thường Đồng Tử
+6	2	2	Đề-bà-đạt-đa
+6	2	3	An-đa-ca-bin-đa
+6	2	4	A-lu-na-ba-đi
 6	2	5	Niết-bàn
-7	1	1	Dhanañjānī
+7	1	1	Đa-nanh-xa-ni
 7	1	2	Mắng Nhiếc
-7	1	3	Asurindaka
-7	1	4	Bilaṅgika
+7	1	3	A-su-lin-đa-ca
+7	1	4	Bi-lang-gi-ca
 7	1	5	Bất Hại
 7	1	6	Búi Tóc
-7	1	7	Suddhika
-7	1	8	Aggika
-7	1	9	Sundarika
+7	1	7	Su-đi-ca
+7	1	8	A-gi-ca
+7	1	9	Sun-đa-li-ca
 7	1	10	Nhiều Con Gái
 7	2	1	Người Cày
-7	2	2	Udaya
-7	2	3	Devahita
+7	2	2	U-đa-da
+7	2	3	Đê-ba-hi-đa
 7	2	4	Đại Phú Gia
 7	2	5	Cứng Đầu Vì Kiêu Mạn
 7	2	6	Kẻ Ưa Chống Đối
@@ -204,59 +204,59 @@
 7	2	8	Người Hái Củi
 7	2	9	Người Nuôi Mẹ
 7	2	10	Người Đi Xin
-7	2	11	Saṅgārava
-7	2	12	Khomadussa
+7	2	11	Sang-ga-la-ba
+7	2	12	Khô-ma-đu-sa
 8	1	1	Xuất Gia
 8	1	2	Bất Mãn
-8	1	3	Pesalā
-8	1	4	Ānanda
-8	1	5	Subhāsita
-8	1	6	Sāriputta
-8	1	7	Pavāraṇā
-8	1	8	Parosahassa
-8	1	9	Koṇḍañña
-8	1	10	Moggallāna
-8	1	11	Gaggarā
-8	1	12	Vaṅgīsa
+8	1	3	Bê-sa-la
+8	1	4	A-nan
+8	1	5	Lời Nói Tốt
+8	1	6	Xá-lợi-phất
+8	1	7	Tự Tứ
+8	1	8	Ba-lô-sa-ha-sa
+8	1	9	Kiều-trần-như
+8	1	10	Mục-kiền-liên
+8	1	11	Già-già-la
+8	1	12	Bằng-kỳ-sa
 9	1	1	Viễn Ly
 9	1	2	Thức Tỉnh
-9	1	3	Kassapagotta
+9	1	3	Ca-diếp-gô-đa
 9	1	4	Chúng Tỷ-kheo
-9	1	5	Ānanda
-9	1	6	Anuruddha
-9	1	7	Nāgadatta
+9	1	5	A-nan
+9	1	6	A-na-luật-đà
+9	1	7	Na-ga-đa-đa
 9	1	8	Nữ Gia Chủ
-9	1	9	Vajjiputta Tại Vesālī
+9	1	9	Ba-xi-bu-đa Tại Tỳ-xá-ly
 9	1	10	Tụng Đọc
 9	1	11	Bất Thiện Tầm
 9	1	12	Giữa Trưa
 9	1	13	Các Căn Phóng Túng
 9	1	14	Hoa Sen
-10	1	1	Indaka
-10	1	2	Sakka
-10	1	3	Sūci
-10	1	4	Maṇibhadda
-10	1	5	Sānu
-10	1	6	Piyaṅkara
-10	1	7	Punabbasu
-10	1	8	Sudatta
-10	1	9	Sukkā Thứ Nhất
-10	1	10	Sukkā Thứ Hai
-10	1	11	Cīrā
-10	1	12	Āḷavaka
-11	1	1	Suvīra
-11	1	2	Susīma
+10	1	1	In-đa-ca
+10	1	2	Đế Thích
+10	1	3	Kim
+10	1	4	Ma-ni-ba-đa
+10	1	5	Sa-nu
+10	1	6	Bi-dang-ca-la
+10	1	7	Bu-na-ba-su
+10	1	8	Tu-đạt-đa
+10	1	9	Su-ca Thứ Nhất
+10	1	10	Su-ca Thứ Hai
+10	1	11	Xi-la
+10	1	12	A-la-ba-ca
+11	1	1	Su-bi-la
+11	1	2	Tu-si-ma
 11	1	3	Đỉnh Cờ
-11	1	4	Vepacitti
+11	1	4	Bê-ba-xi-đi
 11	1	5	Thắng Nhờ Lời Hay
 11	1	6	Tổ Chim
 11	1	7	Không Phản Bội
-11	1	8	Verocana
+11	1	8	Bê-lô-xa-na
 11	1	9	Các Ẩn Sĩ Ở Rừng
 11	1	10	Các Ẩn Sĩ Bên Biển
 11	2	1	Hạnh Nguyện
-11	2	2	Sakka
-11	2	3	Mahāli
+11	2	2	Đế Thích
+11	2	3	Ma-ha-li
 11	2	4	Người Nghèo
 11	2	5	Cảnh Khả Ái
 11	2	6	Người Cúng Tế
@@ -272,40 +272,40 @@
 12	1	1	Thuyết Giảng
 12	1	2	Phân Tích
 12	1	3	Đạo Lộ
-12	1	4	Vipassī
-12	1	5	Sikhī
-12	1	6	Vessabhū
-12	1	7	Kakusandha
-12	1	8	Koṇāgamana
-12	1	9	Kassapa
-12	1	10	Gotama
+12	1	4	Tỳ-bà-thi
+12	1	5	Thi-khí
+12	1	6	Tỳ-xá-bà
+12	1	7	Câu-lâu-tôn
+12	1	8	Câu-na-hàm
+12	1	9	Ca-diếp
+12	1	10	Cù-đàm
 12	2	1	Thức Ăn
-12	2	2	Phagguna
+12	2	2	Pha-gu-na
 12	2	3	Sa-môn Bà-la-môn Thứ Nhất
 12	2	4	Sa-môn Bà-la-môn Thứ Hai
-12	2	5	Kaccānagotta
+12	2	5	Ca-xa-na-gô-đa
 12	2	6	Thuyết Pháp
 12	2	7	Lõa Thể
-12	2	8	Timbaruka
+12	2	8	Đim-ba-lu-ca
 12	2	9	Kẻ Ngu Và Người Trí
 12	2	10	Duyên
 12	3	1	Mười Lực Thứ Nhất
 12	3	2	Mười Lực Thứ Hai
 12	3	3	Nền Tảng
 12	3	4	Ngoại Đạo
-12	3	5	Bhūmija
-12	3	6	Upavāṇa
+12	3	5	Phù-di
+12	3	6	U-ba-va-na
 12	3	7	Duyên
 12	3	8	Tỷ-kheo
 12	3	9	Sa-môn Bà-la-môn Thứ Nhất
 12	3	10	Sa-môn Bà-la-môn Thứ Hai
-12	4	1	Bhūta
-12	4	2	Kaḷāra
+12	4	1	Thực
+12	4	2	Ca-la-la
 12	4	3	Căn Cứ Của Trí Thứ Nhất
 12	4	4	Căn Cứ Của Trí Thứ Hai
 12	4	5	Vô Minh Duyên Thứ Nhất
 12	4	6	Vô Minh Duyên Thứ Hai
-12	4	7	Natumhā
+12	4	7	Na-đum-ha
 12	4	8	Tư Niệm Thứ Nhất
 12	4	9	Tư Niệm Thứ Hai
 12	4	10	Tư Niệm Thứ Ba
@@ -315,7 +315,7 @@
 12	5	4	Thế Gian
 12	5	5	Thân Tộc
 12	5	6	Một Bà-la-môn
-12	5	7	Jāṇussoṇi
+12	5	7	Sanh Lậu
 12	5	8	Nhà Thế Gian Luận
 12	5	9	Thánh Đệ Tử Thứ Nhất
 12	5	10	Thánh Đệ Tử Thứ Hai
@@ -336,9 +336,9 @@
 12	7	5	Thành
 12	7	6	Quán Sát
 12	7	7	Bó Lau
-12	7	8	Kosambī
+12	7	8	Kiều-thưởng-di
 12	7	9	Tuôn Về
-12	7	10	Susima
+12	7	10	Tu-si-ma
 12	8	1	Già Chết
 12	8	2	Mười Kinh Về Sanh
 12	8	3	Bậc Đạo Sư
@@ -401,7 +401,7 @@
 15	1	5	Núi Đá
 15	1	6	Hạt Cải
 15	1	7	Các Đệ Tử
-15	1	8	Sông Gaṅgā
+15	1	8	Sông Hằng
 15	1	9	Cây Gậy
 15	1	10	Một Người
 15	1	11	Người Khốn Khổ
@@ -413,7 +413,7 @@
 15	1	17	Chị Em
 15	1	18	Con Trai
 15	1	19	Con Gái
-15	1	20	Núi Vepulla
+15	1	20	Núi Quảng Phổ
 16	1	1	Biết Đủ
 16	1	2	Không Sợ Lỗi
 16	1	3	Ví Như Mặt Trăng
@@ -435,11 +435,11 @@
 17	1	6	Sét Đánh
 17	1	7	Tên Tẩm Độc
 17	1	8	Chó Rừng
-17	1	9	Gió Verambhā
+17	1	9	Gió Bê-lam-ba
 17	1	10	Có Kệ
 17	2	1	Mâm Vàng
 17	2	2	Mâm Bạc
-17	2	3	Vàng Siṅgī Và Các Vật Khác
+17	2	3	Vàng Sing-gi Và Các Vật Khác
 17	3	1	Người Nữ
 17	3	2	Người Đẹp Xứ Sở
 17	3	3	Con Một
@@ -505,22 +505,22 @@
 20	1	10	Con Mèo
 20	1	11	Chó Rừng Già Thứ Nhất
 20	1	12	Chó Rừng Già Thứ Hai
-21	1	1	Kolita
-21	1	2	Upatissa
+21	1	1	Cô-li-đa
+21	1	2	U-ba-ti-sa
 21	1	3	Cái Ghè
 21	1	4	Tỷ-kheo Trẻ
-21	1	5	Sujāta
-21	1	6	Bhaddiya Lùn
-21	1	7	Visākha
-21	1	8	Nanda
-21	1	9	Tissa
-21	1	10	Tỷ-kheo Tên Thera
-21	1	11	Mahākappina
+21	1	5	Tô-già-đà
+21	1	6	Ba-đi-da Lùn
+21	1	7	Tỳ-xá-khư
+21	1	8	Nan-đa
+21	1	9	Đề-xá
+21	1	10	Tỷ-kheo Tên Trưởng lão
+21	1	11	Kiếp-tân-na
 21	1	12	Hai Người Bạn
-22	1	1	Nakulapitā
-22	1	2	Devadaha
-22	1	3	Hāliddikāni Thứ Nhất
-22	1	4	Hāliddikāni Thứ Hai
+22	1	1	Na-cu-la-bi-đa
+22	1	2	Đề-bà-đa-ha
+22	1	3	Ha-li-đi-ca-ni Thứ Nhất
+22	1	4	Ha-li-đi-ca-ni Thứ Hai
 22	1	5	Định
 22	1	6	Tĩnh Cư
 22	1	7	Lo Sợ Do Chấp Thủ Thứ Nhất
@@ -537,7 +537,7 @@
 22	2	7	Có Nhân Vô Thường
 22	2	8	Có Nhân Khổ
 22	2	9	Có Nhân Vô Ngã
-22	2	10	Ānanda
+22	2	10	A-nan
 22	3	1	Gánh Nặng
 22	3	2	Liễu Tri
 22	3	3	Thắng Tri
@@ -553,8 +553,8 @@
 22	4	2	Không Phải Của Các Người Thứ Hai
 22	4	3	Một Vị Tỷ-kheo Thứ Nhất
 22	4	4	Một Vị Tỷ-kheo Thứ Hai
-22	4	5	Ānanda Thứ Nhất
-22	4	6	Ānanda Thứ Hai
+22	4	5	A-nan Thứ Nhất
+22	4	6	A-nan Thứ Hai
 22	4	7	Tùy Pháp Thứ Nhất
 22	4	8	Tùy Pháp Thứ Hai
 22	4	9	Tùy Pháp Thứ Ba
@@ -565,8 +565,8 @@
 22	5	4	Vô Thường Thứ Hai
 22	5	5	Cách Nhìn
 22	5	6	Các Uẩn
-22	5	7	Soṇa Thứ Nhất
-22	5	8	Soṇa Thứ Hai
+22	5	7	Tô-na Thứ Nhất
+22	5	8	Tô-na Thứ Hai
 22	5	9	Đoạn Tận Hân Hoan Thứ Nhất
 22	5	10	Đoạn Tận Hân Hoan Thứ Hai
 22	6	1	Chỗ Dựa
@@ -576,7 +576,7 @@
 22	6	5	Bảy Xứ
 22	6	6	Chánh Đẳng Giác
 22	6	7	Vô Ngã Tướng
-22	6	8	Mahāli
+22	6	8	Ma-ha-li
 22	6	9	Đang Bốc Cháy
 22	6	10	Lối Trình Bày
 22	7	1	Chấp Thủ
@@ -587,8 +587,8 @@
 22	7	6	Vô Ngã
 22	7	7	Thuộc Về Vô Ngã
 22	7	8	Gắn Liền Với Tham Ái
-22	7	9	Rādha
-22	7	10	Surādha
+22	7	9	La-đà
+22	7	10	Su-la-đa
 22	8	1	Vị Ngọt
 22	8	2	Tập Khởi Thứ Nhất
 22	8	3	Tập Khởi Thứ Hai
@@ -596,25 +596,25 @@
 22	8	5	A-la-hán Thứ Hai
 22	8	6	Sư Tử
 22	8	7	Bị Ăn Nuốt
-22	8	8	Piṇḍola
-22	8	9	Pālileyya
-22	8	10	Puṇṇama
-22	9	1	Ānanda
-22	9	2	Tissa
-22	9	3	Yamaka
-22	9	4	Anurādha
-22	9	5	Vakkali
-22	9	6	Assaji
-22	9	7	Khemaka
-22	9	8	Channa
-22	9	9	Rāhula Thứ Nhất
-22	9	10	Rāhula Thứ Hai
+22	8	8	Pin-đô-la
+22	8	9	Ba-li-lê-da-ca
+22	8	10	Rằm
+22	9	1	A-nan
+22	9	2	Đề-xá
+22	9	3	Da-ma-ca
+22	9	4	A-nu-luật-đà
+22	9	5	Ba-ca-li
+22	9	6	A-sa-xi
+22	9	7	Khê-ma-ca
+22	9	8	Xán-nặc
+22	9	9	La-hầu-la Thứ Nhất
+22	9	10	La-hầu-la Thứ Hai
 22	10	1	Sông
 22	10	2	Hoa
 22	10	3	Đám Bọt Nước
 22	10	4	Cục Phân Bò
 22	10	5	Đầu Móng Tay
-22	10	6	Suddhika
+22	10	6	Su-đi-ca
 22	10	7	Dây Da Thứ Nhất
 22	10	8	Dây Da Thứ Hai
 22	10	9	Cán Búa
@@ -640,8 +640,8 @@
 22	12	9	Chấp Thủ
 22	12	10	Giới Hạnh
 22	12	11	Đa Văn
-22	12	12	Kappa Thứ Nhất
-22	12	13	Kappa Thứ Hai
+22	12	12	Khap-ba Thứ Nhất
+22	12	13	Khap-ba Thứ Hai
 22	13	1	Pháp Chịu Sự Tập Khởi
 22	13	2	Pháp Chịu Sự Tập Khởi Thứ Hai
 22	13	3	Pháp Chịu Sự Tập Khởi Thứ Ba
@@ -649,9 +649,9 @@
 22	13	5	Vị Ngọt Thứ Hai
 22	13	6	Tập Khởi
 22	13	7	Tập Khởi Thứ Hai
-22	13	8	Koṭṭhika
-22	13	9	Koṭṭhika Thứ Hai
-22	13	10	Koṭṭhika Thứ Ba
+22	13	8	Câu-hi-la
+22	13	9	Câu-hi-la Thứ Hai
+22	13	10	Câu-hi-la Thứ Ba
 22	14	1	Đống Lửa Than
 22	14	2	Vô Thường Thứ Nhất
 22	14	3	Vô Thường Thứ Hai
@@ -675,7 +675,7 @@
 22	15	7	Kiến Chấp Theo Tự Ngã
 22	15	8	Thiên Chấp Thứ Nhất
 22	15	9	Thiên Chấp Thứ Hai
-22	15	10	Ānanda
+22	15	10	A-nan
 23	1	1	Ma Vương
 23	1	2	Chúng Sanh
 23	1	3	Cỗ Xe Đưa Đến Hữu
@@ -739,7 +739,7 @@
 28	1	7	Vô Sở Hữu Xứ
 28	1	8	Phi Tưởng Phi Phi Tưởng Xứ
 28	1	9	Diệt Tận Định
-28	1	10	Sūcimukhī
+28	1	10	Tịnh Diện
 29	1	1	Thanh Tịnh
 29	1	2	Thù Thắng Hơn
 29	1	3	Trai Giới Thứ Nhất
@@ -861,39 +861,39 @@
 35	6	8	Liễu Tri Tất Cả Thủ
 35	6	9	Chấm Dứt Tất Cả Thủ Thứ Nhất
 35	6	10	Chấm Dứt Tất Cả Thủ Thứ Hai
-35	7	1	Migajāla Thứ Nhất
-35	7	2	Migajāla Thứ Hai
-35	7	3	Samiddhi Và Ác Ma Thứ Nhất
-35	7	4	Samiddhi Và Chúng Sanh
-35	7	5	Samiddhi Và Khổ
-35	7	6	Samiddhi Và Thế Gian
-35	7	7	Upasena Và Con Rắn Độc
-35	7	8	Upavāṇa
+35	7	1	Di-già-la Thứ Nhất
+35	7	2	Di-già-la Thứ Hai
+35	7	3	Sa-mi-đi Và Ác Ma Thứ Nhất
+35	7	4	Sa-mi-đi Và Chúng Sanh
+35	7	5	Sa-mi-đi Và Khổ
+35	7	6	Sa-mi-đi Và Thế Gian
+35	7	7	U-ba-sê-na Và Con Rắn Độc
+35	7	8	U-ba-va-na
 35	7	9	Sáu Xúc Xứ Thứ Nhất
 35	7	10	Sáu Xúc Xứ Thứ Hai
 35	7	11	Sáu Xúc Xứ Thứ Ba
 35	8	1	Người Bệnh Thứ Nhất
 35	8	2	Người Bệnh Thứ Hai
-35	8	3	Rādha Và Vô Thường
-35	8	4	Rādha Và Khổ
-35	8	5	Rādha Và Vô Ngã
+35	8	3	La-đà Và Vô Thường
+35	8	4	La-đà Và Khổ
+35	8	5	La-đà Và Vô Ngã
 35	8	6	Đoạn Trừ Vô Minh Thứ Nhất
 35	8	7	Đoạn Trừ Vô Minh Thứ Hai
 35	8	8	Nhiều Vị Tỷ-kheo
 35	8	9	Câu Hỏi Về Thế Gian
-35	8	10	Câu Hỏi Của Phagguna
+35	8	10	Câu Hỏi Của Pha-gu-na
 35	9	1	Pháp Hoại Diệt
 35	9	2	Thế Gian Là Không
-35	9	3	Bài Thuyết Vắn Tắt Cho Ānanda
-35	9	4	Channa
-35	9	5	Puṇṇa
-35	9	6	Bāhiya
+35	9	3	Bài Thuyết Vắn Tắt Cho A-nan
+35	9	4	Xán-nặc
+35	9	5	Phú-lâu-na
+35	9	6	Bà-hi
 35	9	7	Dục Vọng Dao Động Thứ Nhất
 35	9	8	Dục Vọng Dao Động Thứ Hai
 35	9	9	Cái Đôi Thứ Nhất
 35	9	10	Cái Đôi Thứ Hai
 35	10	1	Không Điều Phục, Không Canh Giữ
-35	10	2	Māluṅkyaputta
+35	10	2	Ma-lân-khê
 35	10	3	Pháp Suy Thoái
 35	10	4	Người Sống Phóng Dật
 35	10	5	Thu Nhiếp
@@ -901,7 +901,7 @@
 35	10	7	Thiền Tịnh Độc Cư
 35	10	8	Không Phải Của Các Người Thứ Nhất
 35	10	9	Không Phải Của Các Người Thứ Hai
-35	10	10	Udaka
+35	10	10	Nước
 35	11	1	Yên Ổn
 35	11	2	Do Chấp Thủ
 35	11	3	Khổ Tập Khởi
@@ -916,23 +916,23 @@
 35	12	2	Bẫy Ác Ma Thứ Hai
 35	12	3	Đi Đến Cùng Tận Thế Gian
 35	12	4	Năm Dục Công Đức
-35	12	5	Câu Hỏi Của Thiên Chủ Sakka
-35	12	6	Pañcasikha
-35	12	7	Đệ Tử Của Tôn Giả Sāriputta
-35	12	8	Giáo Giới Rāhula
+35	12	5	Câu Hỏi Của Thiên Chủ Đế Thích
+35	12	6	Ngũ Kế
+35	12	7	Đệ Tử Của Tôn Giả Xá-lợi-phất
+35	12	8	Giáo Giới La-hầu-la
 35	12	9	Pháp Trói Buộc
 35	12	10	Pháp Chấp Thủ
-35	13	1	Gia Chủ Ugga Ở Vesāli
-35	13	2	Gia Chủ Ugga Ở Xứ Vajji
-35	13	3	Gia Chủ Upāli Ở Nāḷandā
-35	13	4	Đối Thoại Với Vua Udena
-35	13	5	Chàng Soṇa
-35	13	6	Gia Chủ Ghosita
-35	13	7	Gia Chủ Hāliddikāni
-35	13	8	Gia Chủ Nakulapitā
-35	13	9	Bà-la-môn Lohicca
-35	13	10	Nữ Bà-la-môn Verahaccāni
-35	14	1	Devadaha
+35	13	1	Gia Chủ Ug-ga Ở Tỳ-xá-ly
+35	13	2	Gia Chủ Ug-ga Ở Xứ Bạt-kỳ
+35	13	3	Gia Chủ Ưu-ba-ly Ở Na-lan-đà
+35	13	4	Đối Thoại Với Vua U-đê-na
+35	13	5	Chàng Tô-na
+35	13	6	Gia Chủ Ghô-si-đa
+35	13	7	Gia Chủ Ha-li-đi-ca-ni
+35	13	8	Gia Chủ Na-cu-la-bi-đa
+35	13	9	Bà-la-môn Lô-hi-gia
+35	13	10	Nữ Bà-la-môn Bê-la-ha-xa-ni
+35	14	1	Đề-bà-đa-ha
 35	14	2	Cơ Hội
 35	14	3	Ưa Thích Sắc Thứ Nhất
 35	14	4	Ưa Thích Sắc Thứ Hai
@@ -958,11 +958,11 @@
 35	16	2	Đoạn Diệt Thích Thú Ngoại
 35	16	3	Như Lý Tác Ý Nội
 35	16	4	Như Lý Tác Ý Ngoại
-35	16	5	Định Ở Rừng Xoài Jīvaka
-35	16	6	Độc Cư Ở Rừng Xoài Jīvaka
-35	16	7	Koṭṭhika Về Vô Thường
-35	16	8	Koṭṭhika Về Khổ
-35	16	9	Koṭṭhika Về Vô Ngã
+35	16	5	Định Ở Rừng Xoài Kỳ-bà
+35	16	6	Độc Cư Ở Rừng Xoài Kỳ-bà
+35	16	7	Câu-hi-la Về Vô Thường
+35	16	8	Câu-hi-la Về Khổ
+35	16	9	Câu-hi-la Về Vô Ngã
 35	16	10	Đoạn Trừ Tà Kiến
 35	16	11	Đoạn Trừ Thân Kiến
 35	16	12	Đoạn Trừ Kiến Chấp Tùy Thuộc Tự Ngã
@@ -1000,9 +1000,9 @@
 35	18	2	Biển Thứ Hai
 35	18	3	Ví Dụ Người Đánh Cá
 35	18	4	Ví Dụ Cây Có Nhựa
-35	18	5	Koṭṭhika
-35	18	6	Kāmabhū
-35	18	7	Udāyī
+35	18	5	Câu-hi-la
+35	18	6	Ca-ma-bu
+35	18	7	Ưu-đà-di
 35	18	8	Pháp Môn Về Sự Thiêu Đốt
 35	18	9	Ví Dụ Tay Chân Thứ Nhất
 35	18	10	Ví Dụ Tay Chân Thứ Hai
@@ -1013,8 +1013,8 @@
 35	19	5	Ví Dụ Khúc Gỗ Thứ Hai
 35	19	6	Pháp Môn Bị Nhiễm Ướt
 35	19	7	Pháp Khổ
-35	19	8	Ví Dụ Cây Kiṃsuka
-35	19	9	Ví Dụ Đàn Vīṇā
+35	19	8	Ví Dụ Cây Cim-su-ca
+35	19	9	Ví Dụ Đàn Bi-na
 35	19	10	Ví Dụ Sáu Con Vật
 35	19	11	Ví Dụ Bó Lúa Mạch
 36	1	1	Định
@@ -1031,13 +1031,13 @@
 36	2	2	Không Gian Thứ Nhất
 36	2	3	Không Gian Thứ Hai
 36	2	4	Nhà Nghỉ
-36	2	5	Ānanda Thứ Nhất
-36	2	6	Ānanda Thứ Hai
+36	2	5	A-nan Thứ Nhất
+36	2	6	A-nan Thứ Hai
 36	2	7	Chúng Tỷ-kheo Thứ Nhất
 36	2	8	Chúng Tỷ-kheo Thứ Hai
-36	2	9	Thợ Mộc Pañcakaṅga
+36	2	9	Thợ Mộc Ngũ Phần
 36	2	10	Tỷ-kheo
-36	3	1	Sīvaka
+36	3	1	Si-ba-ca
 36	3	2	Một Trăm Lẻ Tám
 36	3	3	Một Vị Tỷ-kheo
 36	3	4	Trước Khi Giác Ngộ
@@ -1109,31 +1109,31 @@
 40	1	7	Vô Sở Hữu Xứ
 40	1	8	Phi Tưởng Phi Phi Tưởng Xứ
 40	1	9	Vô Tướng Tâm Định
-40	1	10	Thiên Chủ Sakka
-40	1	11	Thiên Tử Candana
+40	1	10	Thiên Chủ Đế Thích
+40	1	11	Thiên Tử Xan-đa-na
 41	1	1	Kiết Sử
-41	1	2	Isidatta Thứ Nhất
-41	1	3	Isidatta Thứ Hai
+41	1	2	I-si-đát-ta Thứ Nhất
+41	1	3	I-si-đát-ta Thứ Hai
 41	1	4	Đại Thần Thông
-41	1	5	Kāmabhū Thứ Nhất
-41	1	6	Kāmabhū Thứ Hai
-41	1	7	Godatta
-41	1	8	Ni-kiền-tử Nāṭaputta
-41	1	9	Lõa Thể Kassapa
+41	1	5	Ca-ma-bu Thứ Nhất
+41	1	6	Ca-ma-bu Thứ Hai
+41	1	7	Gô-đát-ta
+41	1	8	Ni-kiền-tử Na-tha-phù-tử
+41	1	9	Lõa Thể Ca-diếp
 41	1	10	Thấy Bệnh
-42	1	1	Caṇḍa
-42	1	2	Vũ Sư Tālapuṭa
+42	1	1	Tàn bạo
+42	1	2	Vũ Sư Đa-la-bu-tha
 42	1	3	Chiến Binh
 42	1	4	Người Điều Voi
 42	1	5	Người Điều Ngựa
-42	1	6	Asibandhakaputta
+42	1	6	A-si-ban-đa-ca-bu-đa
 42	1	7	Ví Dụ Ruộng
 42	1	8	Thổi Tù Và
 42	1	9	Gia Tộc
-42	1	10	Maṇicūḷaka
-42	1	11	Bhadraka
-42	1	12	Rāsiya
-42	1	13	Pāṭaliya
+42	1	10	Ma-ni-xu-la-ca
+42	1	11	Ba-đa-la-ca
+42	1	12	La-si-da
+42	1	13	Ba-tha-li-da
 43	1	1	Niệm Thân
 43	1	2	Chỉ Và Quán
 43	1	3	Có Tầm Có Tứ
@@ -1149,27 +1149,27 @@
 43	2	2	Pháp Không Cong Vẹo
 43	2	3	Ba Mươi Pháp Vô Lậu Và Các Pháp Khác
 43	2	4	Chỗ Đến Cuối Cùng
-44	1	1	Tỷ-kheo-ni Khemā
-44	1	2	Anurādha
-44	1	3	Sāriputta Koṭṭhika Thứ Nhất
-44	1	4	Sāriputta Koṭṭhika Thứ Hai
-44	1	5	Sāriputta Koṭṭhika Thứ Ba
-44	1	6	Sāriputta Koṭṭhika Thứ Tư
-44	1	7	Moggallāna
-44	1	8	Vacchagotta
-44	1	9	Giảng Đường Kutūhalasālā
-44	1	10	Ānanda
-44	1	11	Sabhiya Kaccāna
+44	1	1	Tỷ-kheo-ni An Hòa
+44	1	2	A-nu-luật-đà
+44	1	3	Xá-lợi-phất Câu-hi-la Thứ Nhất
+44	1	4	Xá-lợi-phất Câu-hi-la Thứ Hai
+44	1	5	Xá-lợi-phất Câu-hi-la Thứ Ba
+44	1	6	Xá-lợi-phất Câu-hi-la Thứ Tư
+44	1	7	Mục-kiền-liên
+44	1	8	Ba-xa-gôt-ta
+44	1	9	Giảng Đường Cu-đu-ha-la-sa-la
+44	1	10	A-nan
+44	1	11	Sa-bhi-da Ca-chiên-diên
 45	1	1	Vô Minh
 45	1	2	Một Nửa
-45	1	3	Sāriputta
-45	1	4	Bà-la-môn Jāṇussoṇi
+45	1	3	Xá-lợi-phất
+45	1	4	Bà-la-môn Sanh Lậu
 45	1	5	Nhằm Mục Đích Gì
 45	1	6	Tỷ-kheo Thứ Nhất
 45	1	7	Tỷ-kheo Thứ Hai
 45	1	8	Phân Tích
 45	1	9	Hạt Lúa
-45	1	10	Nandiya
+45	1	10	Nan-đi-da
 45	2	1	Trú Xứ Thứ Nhất
 45	2	2	Trú Xứ Thứ Hai
 45	2	3	Bậc Hữu Học
@@ -1189,7 +1189,7 @@
 45	3	7	Cái Ghè
 45	3	8	Định
 45	3	9	Thọ
-45	3	10	Uttiya
+45	3	10	U-đi-da
 45	4	1	Thực Hành Thứ Nhất
 45	4	2	Thực Hành Thứ Hai
 45	4	3	Sự Hủy Hoại
@@ -1263,9 +1263,9 @@
 46	1	3	Giới
 46	1	4	Chiếc Y
 46	1	5	Tỷ-kheo
-46	1	6	Kuṇḍali
+46	1	6	Đeo Vòng Tai
 46	1	7	Ngôi Nhà Nóc Nhọn
-46	1	8	Upavāna
+46	1	8	U-ba-va-na
 46	1	9	Sanh Khởi Thứ Nhất
 46	1	10	Sanh Khởi Thứ Hai
 46	2	1	Sinh Vật
@@ -1287,7 +1287,7 @@
 46	3	7	Đoạn Diệt Ái
 46	3	8	Thể Nhập
 46	3	9	Một Pháp
-46	3	10	Udāyī
+46	3	10	Ưu-đà-di
 46	4	1	Thiện Thứ Nhất
 46	4	2	Thiện Thứ Hai
 46	4	3	Cấu Uế
@@ -1312,8 +1312,8 @@
 46	6	2	Phương Thức
 46	6	3	Ngọn Lửa
 46	6	4	Tâm Từ
-46	6	5	Saṅgārava
-46	6	6	Abhaya
+46	6	5	Sang-ga-la-ba
+46	6	6	Vô úy
 46	7	1	Xương
 46	7	2	Thi Thể Dòi Bọ
 46	7	3	Thi Thể Bầm Xanh
@@ -1334,16 +1334,16 @@
 46	8	8	Đoạn Tận
 46	8	9	Ly Tham
 46	8	10	Đoạn Diệt
-46	9	1	Sông Gaṅgā Và Các Kinh Khác
+46	9	1	Sông Hằng Và Các Kinh Khác
 46	10	1	Như Lai Và Các Ví Dụ Khác
 46	11	1	Sức Lực Và Các Ví Dụ Khác
 46	12	1	Tìm Cầu Và Các Đề Mục Khác
 46	13	1	Trói Buộc Và Các Đề Mục Khác
 46	13	2	Kiết Sử Thuộc Phần Trên
-47	1	1	Ambapāli
+47	1	1	Am-bà-bà-ly
 47	1	2	Chánh Niệm
 47	1	3	Tỷ-kheo
-47	1	4	Sālā
+47	1	4	Sa-la
 47	1	5	Đống Thiện
 47	1	6	Diều Hâu
 47	1	7	Khỉ
@@ -1351,14 +1351,14 @@
 47	1	9	Bệnh
 47	1	10	Trú Xứ Tỷ-kheo-ni
 47	2	1	Đại Nhân
-47	2	2	Nālandā
-47	2	3	Cunda
-47	2	4	Celā
-47	2	5	Bāhiya
-47	2	6	Uttiya
+47	2	2	Na-lan-đà
+47	2	3	Thuần-đà
+47	2	4	Xê-la
+47	2	5	Bà-hi
+47	2	6	U-đi-da
 47	2	7	Bậc Thánh
 47	2	8	Phạm Thiên
-47	2	9	Sedaka
+47	2	9	Sê-đa-ca
 47	2	10	Người Đẹp Trong Xứ
 47	3	1	Giới
 47	3	2	Tồn Tại
@@ -1368,8 +1368,8 @@
 47	3	6	Một Phần
 47	3	7	Viên Mãn
 47	3	8	Thế Giới
-47	3	9	Sirivaḍḍha
-47	3	10	Mānadinna
+47	3	9	Si-li-bat-ha
+47	3	10	Ma-na-đi-na
 47	4	1	Chưa Từng Được Nghe
 47	4	2	Ly Tham
 47	4	3	Lãng Xa
@@ -1385,7 +1385,7 @@
 47	5	3	Con Đường
 47	5	4	Chánh Niệm
 47	5	5	Đống Thiện
-47	5	6	Giới Bổn Pātimokkha
+47	5	6	Giới Bổn Ba-la-đề-mộc-xoa
 47	5	7	Ác Hạnh
 47	5	8	Bạn Bè Cùng Cảm Thọ
 47	5	9	Lậu Hoặc
@@ -1435,22 +1435,22 @@
 48	4	9	Ví Như Que Gỗ
 48	4	10	Theo Thứ Tự Khác
 48	5	1	Già
-48	5	2	Bà-la-môn Uṇṇābha
-48	5	3	Sāketa
-48	5	4	Pubbakoṭṭhaka
+48	5	2	Bà-la-môn U-na-ba
+48	5	3	Sa-kỳ
+48	5	4	Ngôi nhà phía Đông
 48	5	5	Đông Viên Thứ Nhất
 48	5	6	Đông Viên Thứ Hai
 48	5	7	Đông Viên Thứ Ba
 48	5	8	Đông Viên Thứ Tư
-48	5	9	Piṇḍolabhāradvāja
-48	5	10	Āpaṇa
-48	6	1	Cây Sāla
-48	6	2	Mallika
+48	5	9	Tân-đầu-lô-phả-la-đọa
+48	5	10	A-ba-na
+48	6	1	Cây Sa-la
+48	6	2	Ma-li-ca
 48	6	3	Người Hữu Học
 48	6	4	Dấu Chân
 48	6	5	Hương Lõi Cây
 48	6	6	An Trú Vững Vàng
-48	6	7	Phạm Thiên Sahampati
+48	6	7	Phạm Thiên Sa-ham-ba-đi
 48	6	8	Hang Heo Rừng
 48	6	9	Sự Sanh Khởi Thứ Nhất
 48	6	10	Sự Sanh Khởi Thứ Hai
@@ -1486,12 +1486,12 @@
 51	1	7	Tỷ-kheo
 51	1	8	Đức Phật
 51	1	9	Trí
-51	1	10	Ngôi Đền Cāpāla
+51	1	10	Ngôi Đền Xa-ba-la
 51	2	1	Trước Đây
 51	2	2	Quả Lớn
 51	2	3	Định Do Dục
-51	2	4	Moggallāna
-51	2	5	Bà-la-môn Uṇṇābha
+51	2	4	Mục-kiền-liên
+51	2	5	Bà-la-môn U-na-ba
 51	2	6	Sa-môn Bà-la-môn Thứ Nhất
 51	2	7	Sa-môn Bà-la-môn Thứ Hai
 51	2	8	Tỷ-kheo
@@ -1503,23 +1503,23 @@
 51	3	4	Đơn Giản
 51	3	5	Quả Thứ Nhất
 51	3	6	Quả Thứ Hai
-51	3	7	Ānanda Thứ Nhất
-51	3	8	Ānanda Thứ Hai
+51	3	7	A-nan Thứ Nhất
+51	3	8	A-nan Thứ Hai
 51	3	9	Tỷ-kheo Thứ Nhất
 51	3	10	Tỷ-kheo Thứ Hai
-51	3	11	Moggallāna
+51	3	11	Mục-kiền-liên
 51	3	12	Như Lai
 51	4	1	Sông Hằng Và Bốn Thần Túc
 51	5	1	Trói Buộc Và Bốn Thần Túc
 52	1	1	Độc Cư Thứ Nhất
 52	1	2	Độc Cư Thứ Hai
-52	1	3	Sông Sutanu
-52	1	4	Kaṇḍakī Thứ Nhất
-52	1	5	Kaṇḍakī Thứ Hai
-52	1	6	Kaṇḍakī Thứ Ba
+52	1	3	Sông Su-đa-nu
+52	1	4	Can-đa-ci Thứ Nhất
+52	1	5	Can-đa-ci Thứ Hai
+52	1	6	Can-đa-ci Thứ Ba
 52	1	7	Đoạn Tận Ái
-52	1	8	Nhà Cây Salaḷā
-52	1	9	Rừng Ambapāli
+52	1	8	Nhà Cây Sa-la-la
+52	1	9	Rừng Am-bà-bà-ly
 52	1	10	Trọng Bệnh
 52	2	1	Một Ngàn Kiếp
 52	2	2	Thần Thông
@@ -1539,18 +1539,18 @@
 53	2	1	Dòng Nước Cuốn Trôi Và Chín Đề Mục Khác
 54	1	1	Một Pháp
 54	1	2	Giác Chi
-54	1	3	Suddhika
+54	1	3	Su-đi-ca
 54	1	4	Quả Thứ Nhất
 54	1	5	Quả Thứ Hai
-54	1	6	Ariṭṭha
-54	1	7	Mahākappina
+54	1	6	A-lợi-sá
+54	1	7	Kiếp-tân-na
 54	1	8	Ví Dụ Ngọn Đèn
-54	1	9	Vesāli
-54	1	10	Kimila
-54	2	1	Icchānaṅgala
-54	2	2	Kaṅkheyya
-54	2	3	Ānanda Thứ Nhất
-54	2	4	Ānanda Thứ Hai
+54	1	9	Tỳ-xá-ly
+54	1	10	Ci-mi-la
+54	2	1	Ic-ha-nang-ga-la
+54	2	2	Cang-khê-da
+54	2	3	A-nan Thứ Nhất
+54	2	4	A-nan Thứ Hai
 54	2	5	Các Tỷ-kheo Thứ Nhất
 54	2	6	Các Tỷ-kheo Thứ Hai
 54	2	7	Đoạn Tận Kiết Sử
@@ -1559,9 +1559,9 @@
 54	2	10	Đoạn Tận Lậu Hoặc
 55	1	1	Vua Chuyển Luân
 55	1	2	Nhập Vào Phạm Hạnh
-55	1	3	Cư Sĩ Dīghāvu
-55	1	4	Sāriputta Thứ Nhất
-55	1	5	Sāriputta Thứ Hai
+55	1	3	Cư Sĩ Trường Sinh
+55	1	4	Xá-lợi-phất Thứ Nhất
+55	1	5	Xá-lợi-phất Thứ Hai
 55	1	6	Vị Đô Đốc
 55	1	7	Cửa Tre
 55	1	8	Nhà Gạch Thứ Nhất
@@ -1569,7 +1569,7 @@
 55	1	10	Nhà Gạch Thứ Ba
 55	2	1	Ngàn Tỷ-kheo-ni
 55	2	2	Bà-la-môn
-55	2	3	Trưởng Lão Ānanda
+55	2	3	Trưởng Lão A-nan
 55	2	4	Sợ Hãi Cõi Dữ
 55	2	5	Sợ Hãi Cõi Dữ Và Đọa Xứ
 55	2	6	Bạn Bè Đồng Sự Thứ Nhất
@@ -1577,39 +1577,39 @@
 55	2	8	Du Hành Đến Cõi Trời Thứ Nhất
 55	2	9	Du Hành Đến Cõi Trời Thứ Hai
 55	2	10	Du Hành Đến Cõi Trời Thứ Ba
-55	3	1	Mahānāma Thứ Nhất
-55	3	2	Mahānāma Thứ Hai
-55	3	3	Sakka Godha
+55	3	1	Ma-ha-nam Thứ Nhất
+55	3	2	Ma-ha-nam Thứ Hai
+55	3	3	Đế Thích Gô-đa
 55	3	4	Quy Y Thứ Nhất
 55	3	5	Quy Y Thứ Hai
 55	3	6	Cấp Cô Độc Thứ Nhất
 55	3	7	Cấp Cô Độc Thứ Hai
 55	3	8	Sợ Hãi Oán Thù Thứ Nhất
 55	3	9	Sợ Hãi Oán Thù Thứ Hai
-55	3	10	Người Licchavi Nandaka
+55	3	10	Người Ly-trà-tỳ Nan-đa-ca
 55	4	1	Dòng Suối Phước Đức Thứ Nhất
 55	4	2	Dòng Suối Phước Đức Thứ Hai
 55	4	3	Dòng Suối Phước Đức Thứ Ba
 55	4	4	Dấu Chân Chư Thiên Thứ Nhất
 55	4	5	Dấu Chân Chư Thiên Thứ Hai
 55	4	6	Lời Đồng Thanh Của Chư Thiên
-55	4	7	Mahānāma
+55	4	7	Ma-ha-nam
 55	4	8	Ví Dụ Mưa
-55	4	9	Kāḷigodhā
-55	4	10	Sakka Nandiya
+55	4	9	Ca-li-gô-đa
+55	4	10	Đế Thích Nan-đi-da
 55	5	1	Dòng Suối Phước Đức Thứ Nhất
 55	5	2	Dòng Suối Phước Đức Thứ Hai
 55	5	3	Dòng Suối Phước Đức Thứ Ba
 55	5	4	Tài Sản Lớn Thứ Nhất
 55	5	5	Tài Sản Lớn Thứ Hai
 55	5	6	Kinh Đơn Thuần
-55	5	7	Sakka Nandiya
-55	5	8	Sakka Bhaddiya
-55	5	9	Sakka Mahānāma
+55	5	7	Đế Thích Nan-đi-da
+55	5	8	Đế Thích Ba-đi-da
+55	5	9	Đế Thích Ma-ha-nam
 55	5	10	Chi Phần
 55	6	1	Kinh Có Kệ
 55	6	2	An Cư Mùa Mưa
-55	6	3	Cư Sĩ Dhammadinna
+55	6	3	Cư Sĩ Đa-ma-đi-na
 55	6	4	Người Bệnh
 55	6	5	Quả Dự Lưu
 55	6	6	Quả Nhất Lai
@@ -1651,8 +1651,8 @@
 56	2	8	Minh
 56	2	9	Trình Bày
 56	2	10	Như Thị
-56	3	1	Làng Koṭigāma Thứ Nhất
-56	3	2	Làng Koṭigāma Thứ Hai
+56	3	1	Làng Cô-thi-ga-ma Thứ Nhất
+56	3	2	Làng Cô-thi-ga-ma Thứ Hai
 56	3	3	Chánh Đẳng Giác
 56	3	4	A-la-hán
 56	3	5	Đoạn Tận Lậu Hoặc
@@ -1660,8 +1660,8 @@
 56	3	7	Như Thị
 56	3	8	Thế Gian
 56	3	9	Cần Được Liễu Tri
-56	3	10	Gavampati
-56	4	1	Rừng Cây Sīsapā
+56	3	10	Ngưu Chủ
+56	4	1	Rừng Cây Si-sa-pa
 56	4	2	Lá Cây Keo
 56	4	3	Cây Gậy
 56	4	4	Áo Đang Cháy
@@ -1679,8 +1679,8 @@
 56	5	6	Bóng Tối
 56	5	7	Cái Ách Có Lỗ Thứ Nhất
 56	5	8	Cái Ách Có Lỗ Thứ Hai
-56	5	9	Núi Sineru Thứ Nhất
-56	5	10	Núi Sineru Thứ Hai
+56	5	9	Núi Tu-di Thứ Nhất
+56	5	10	Núi Tu-di Thứ Hai
 56	6	1	Đầu Móng Tay
 56	6	2	Hồ Nước
 56	6	3	Nước Hợp Lưu Thứ Nhất
