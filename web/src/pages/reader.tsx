@@ -20,6 +20,7 @@ import {
 import { AppLink } from "../components/link";
 import { ReaderToc } from "../components/toc";
 import { TopBar } from "../components/top-bar";
+import { Comments } from "../components/comments";
 
 const EDITIONS = [
   ["new", "Bản dịch AI"],
@@ -284,6 +285,7 @@ export function Reader(props: { view: ReaderView }) {
               )}
             </Show>
           </nav>
+          <Comments />
         </div>
       </div>
     </>

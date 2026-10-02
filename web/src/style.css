@@ -894,7 +894,7 @@ details[open] > summary .rtoc-sum .rtoc-chev { margin-top: 0.48rem; }
 
 .paper {
   width: min(42rem, calc(100% - 2rem));
-  margin: 1.5rem auto 5rem;
+  margin: 1.5rem auto 2rem;
   padding: 2.4rem 2.2rem 3rem;
   background:
     linear-gradient(180deg, rgba(255,255,255,0.35), transparent 18%),
@@ -1234,4 +1234,30 @@ html[data-vt="fade"]::view-transition-new(root) { animation-name: vt-fade-in; }
 }
 @keyframes vt-in-left {
   from { opacity: 0; transform: translateX(-32px); }
+}
+
+
+.comments {
+  width: min(42rem, calc(100% - 2rem));
+  margin: 0 auto 4rem;
+  padding: 0 0 1rem;
+}
+.comments h2 {
+  font-family: var(--ui);
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  margin: 1.5rem 0 0.8rem;
+  color: var(--ink);
+}
+.comments #phat-comments {
+  min-height: 4rem;
+}
+.comments iframe.giscus-frame {
+  width: 100%;
+  border: 0;
+  color-scheme: light dark;
+}
+.paper {
+  /* keep room above sticky nav; comments sit below nav */
 }
