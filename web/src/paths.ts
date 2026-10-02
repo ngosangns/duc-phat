@@ -11,17 +11,20 @@ export function pathOf(route: string): string {
   return clean ? `/${clean}` : "/";
 }
 
-/** `#/new/dn/…` from the previous reader, or null when the hash is not a route. */
+/**
+ * `#/new/dn/…` from the previous reader, or null when the hash is not a route.
+ * Only `#/…` counts — never `#gw-auth=…` (giscusflare OAuth return) or `#comments`.
+ */
 export function legacyPath(): string | null {
   const hash = window.location.hash;
-  if (!hash || hash === "#") return null;
+  if (!hash.startsWith("#/")) return null;
   let raw: string;
   try {
     raw = decodeURIComponent(hash.slice(1));
   } catch {
     raw = hash.slice(1);
   }
-  const path = (raw.startsWith("/") ? raw : `/${raw}`).split(/[?#]/, 1)[0];
+  const path = raw.split(/[?#]/, 1)[0];
   if (!path || path === "/") return null;
   return path;
 }
