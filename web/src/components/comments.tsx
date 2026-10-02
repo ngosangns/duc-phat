@@ -12,8 +12,8 @@ function giscusTheme(theme: string): string {
 }
 
 /**
- * Mirrors sang.id.vn Comments.astro: giscusflare client → ngosangns/sang-comments.
- * Pathname mapping keeps each sutta/page on its own discussion thread.
+ * Same stack as sang.id.vn (giscusflare @ comments.sang.id.vn), but discussions live in
+ * ngosangns/phat.gnas.dev-comments. Pathname mapping → one thread per sutta/page.
  */
 export function Comments() {
   const location = useLocation();
@@ -47,10 +47,10 @@ export function Comments() {
     script.src = `${COMMENTS_ORIGIN}/client.js`;
     script.async = true;
     script.crossOrigin = "anonymous";
-    script.dataset.repo = "ngosangns/sang-comments";
-    script.dataset.repoId = "R_kgDOU0SNhg";
+    script.dataset.repo = "ngosangns/phat.gnas.dev-comments";
+    script.dataset.repoId = "R_kgDOU5D_UA";
     script.dataset.category = "Announcements";
-    script.dataset.categoryId = "DIC_kwDOU0SNhs4DGs-j";
+    script.dataset.categoryId = "DIC_kwDOU5D_UM4DG5Et";
     script.dataset.mapping = "pathname";
     script.dataset.strict = "1";
     script.dataset.reactionsEnabled = "1";
